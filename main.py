@@ -115,13 +115,7 @@ def save_encrypted_json(filepath, data_dict):
         json.dump(encrypted_package, f, indent=2, ensure_ascii=False)
 
 
-def build_trademark_package(
-    matches_chunk,
-    total_count,
-    page_num,
-    total_pages,
-    include_pagination=True,
-):
+def build_trademark_package(matches_chunk, total_count, page_num, total_pages):
     package = {
         " NAME ": "Highlights by flux ( Auto updated)",
         "AUTHOR": "iVan_FluX",
@@ -131,7 +125,49 @@ def build_trademark_package(
         "matches": matches_chunk,
     }
 
-    if include_pagination and total_count >= 25:
+    if total_count >= 25:
+        package["hasMore"] = page_num < total_pages
+        package["currentCount"] = len(matches_chunk)
+        package["totalCount"] = total_count
+        package["currentPage"] = page_num
+        package["lastPage"] = total_pages
+
+    return package
+
+
+def build_competition_package(
+    comp_name, comp_cover, matches_chunk, total_count, page_num, total_pages
+):
+    package = {
+        "competition": comp_name,
+        "competition_cover": comp_cover,
+        "total_matches": total_count,
+        "Last update time": get_ist_time(),
+        "matches": matches_chunk,
+    }
+
+    if total_count >= 25:
+        package["hasMore"] = page_num < total_pages
+        package["currentCount"] = len(matches_chunk)
+        package["totalCount"] = total_count
+        package["currentPage"] = page_num
+        package["lastPage"] = total_pages
+
+    return package
+
+
+def build_team_package(
+    team_name, team_logo, matches_chunk, total_count, page_num, total_pages
+):
+    package = {
+        "team": team_name,
+        "team_logo": team_logo,
+        "total_matches": total_count,
+        "Last update time": get_ist_time(),
+        "matches": matches_chunk,
+    }
+
+    if total_count >= 25:
         package["hasMore"] = page_num < total_pages
         package["currentCount"] = len(matches_chunk)
         package["totalCount"] = total_count
@@ -172,7 +208,7 @@ def main():
 
             page_filename = f"page_{page_num}.json"
             page_package = build_trademark_package(
-                matches_chunk, total_matches, page_num, total_pages, True
+                matches_chunk, total_matches, page_num, total_pages
             )
             save_encrypted_json(page_filename, page_package)
 
@@ -182,7 +218,8 @@ def main():
         comp_grouped = {}
         for m in formatted_matches:
             comp_name = (
-                m.get("competition", "Other Leagues").strip() or "Other Leagues"
+                m.get("competition", "Other Leagues").strip()
+                or "Other Leagues"
             )
             comp_slug = slugify(comp_name)
 
@@ -210,14 +247,21 @@ def main():
                 c_chunk = comp_matches[s_idx:e_idx]
 
                 if p_num == 1:
-                    filepath = os.path.join("competitions", f"{comp_slug}.json")
+                    filepath = os.path.join(
+                        "competitions", f"{comp_slug}.json"
+                    )
                 else:
                     filepath = os.path.join(
                         "competitions", f"{comp_slug}_page_{p_num}.json"
                     )
 
-                c_pkg = build_trademark_package(
-                    c_chunk, comp_total, p_num, comp_pages, comp_total >= 25
+                c_pkg = build_competition_package(
+                    comp_info["name"],
+                    comp_info["cover"],
+                    c_chunk,
+                    comp_total,
+                    p_num,
+                    comp_pages,
                 )
                 save_encrypted_json(filepath, c_pkg)
 
@@ -233,11 +277,6 @@ def main():
         save_encrypted_json(
             "competitions.json",
             {
-                " NAME ": "Highlights by flux ( Auto updated)",
-                "AUTHOR": "iVan_FluX",
-                "CONTACT (OWNER)": "https://t.me/iVan_flux",
-                "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-                "Last update time": get_ist_time(),
                 "Total_Competitions": len(comp_master_list),
                 "competitions": comp_master_list,
             },
@@ -319,8 +358,13 @@ def main():
                         "teams", f"{team_slug}_page_{p_num}.json"
                     )
 
-                t_pkg = build_trademark_package(
-                    t_chunk, t_total, p_num, t_pages, t_total >= 25
+                t_pkg = build_team_package(
+                    team_info["name"],
+                    team_info["logo"],
+                    t_chunk,
+                    t_total,
+                    p_num,
+                    t_pages,
                 )
                 save_encrypted_json(filepath, t_pkg)
 
@@ -336,11 +380,6 @@ def main():
         save_encrypted_json(
             "teams.json",
             {
-                " NAME ": "Highlights by flux ( Auto updated)",
-                "AUTHOR": "iVan_FluX",
-                "CONTACT (OWNER)": "https://t.me/iVan_flux",
-                "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-                "Last update time": get_ist_time(),
                 "Total_Teams": len(team_master_list),
                 "teams": team_master_list,
             },
