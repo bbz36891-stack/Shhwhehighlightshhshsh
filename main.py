@@ -135,11 +135,13 @@ def build_trademark_package(matches_chunk, total_count, page_num, total_pages):
     return package
 
 
-def build_competition_package(comp_name, comp_cover, matches_chunk, total_count, page_num, total_pages):
+def build_competition_package(
+    comp_name, comp_cover, matches_chunk, total_count, page_num, total_pages
+):
     package = {
         "competition": comp_name,
         "competition_cover": comp_cover,
-        "total_matches": total_count,
+        "Last update time": get_ist_time(),
         "matches": matches_chunk,
     }
 
@@ -153,11 +155,13 @@ def build_competition_package(comp_name, comp_cover, matches_chunk, total_count,
     return package
 
 
-def build_team_package(team_name, team_logo, matches_chunk, total_count, page_num, total_pages):
+def build_team_package(
+    team_name, team_logo, matches_chunk, total_count, page_num, total_pages
+):
     package = {
         "team": team_name,
         "team_logo": team_logo,
-        "total_matches": total_count,
+        "Last update time": get_ist_time(),
         "matches": matches_chunk,
     }
 
@@ -212,7 +216,8 @@ def main():
         comp_grouped = {}
         for m in formatted_matches:
             comp_name = (
-                m.get("competition", "Other Leagues").strip() or "Other Leagues"
+                m.get("competition", "Other Leagues").strip()
+                or "Other Leagues"
             )
             comp_slug = slugify(comp_name)
 
@@ -240,7 +245,9 @@ def main():
                 c_chunk = comp_matches[s_idx:e_idx]
 
                 if p_num == 1:
-                    filepath = os.path.join("competitions", f"{comp_slug}.json")
+                    filepath = os.path.join(
+                        "competitions", f"{comp_slug}.json"
+                    )
                 else:
                     filepath = os.path.join(
                         "competitions", f"{comp_slug}_page_{p_num}.json"
