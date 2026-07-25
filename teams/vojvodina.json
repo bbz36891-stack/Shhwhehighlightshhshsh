@@ -1,0 +1,228 @@
+{
+    "team": "Vojvodina",
+    "team_logo": "https://img.refooty.com/logo/teams/702.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "UEFA Europa Conference League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-conference-league.webp",
+            "date": "Jul 23, 2026",
+            "description": "Watch Vojvodina vs Ajax highlights and goals from UEFA Europa Conference League on ReFooty: Football Highlights Hub. Match played on July 23, 2026. The stadium was buzzing with anticipation as both sides prepared for a pivotal showdown in the UEFA Europa Conference League . Played on July 23, 2026, the match promised to be a rigorous tactical test for both teams as they navigated the complexities of continental football. An Explosive Start Ajax wasted no time setting the tempo, with Davy Klaassen breaking the deadlock just 3 minutes into the game. The early strike forced Vojvodina to step up their intensity, and they found a response in the 28th minute when Petar Sukacev converted a cross from Lucas Barros to level the score. The parity was short-lived, however, as Steven Berghuis restored the visitors' lead in the 38th minute, ensuring the Dutch side went into the halftime break with momentum firmly on their side. Securing the Result After the interval, Ajax maintained their attacking rhythm. In the 52nd minute, Oscar Gloukh connected with a delivery from Mika Godts to extend the lead. As the second half progressed, the game grew increasingly physical, resulting in yellow cards for Vojvodina 's Nardin Mulahusejnovic and Lucas Barros . Ajax looked to manage the game through a series of tactical substitutions, keeping their structure solid. The late surge was capped in the 90+3rd minute, as Mohamed Abdalla netted the final goal of the evening following an assist from Don-Angelo Konadu , cementing a dominant performance away from home.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "D. Klaassen",
+                    "score_update": "0 - 1",
+                    "team": "Ajax",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Tanjga",
+                    "team": "Vojvodina",
+                    "time": "16'"
+                },
+                {
+                    "assist": "L. Barros",
+                    "event_type": "Goal",
+                    "player": "P. Sukacev",
+                    "score_update": "1 - 1",
+                    "team": "Vojvodina",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Berghuis",
+                    "score_update": "1 - 2",
+                    "team": "Ajax",
+                    "time": "46'"
+                },
+                {
+                    "assist": "M. Godts",
+                    "event_type": "Goal",
+                    "player": "O. Gloukh",
+                    "score_update": "1 - 3",
+                    "team": "Ajax",
+                    "time": "52'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Mulahusejnovic",
+                    "team": "Vojvodina",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Barros",
+                    "team": "Vojvodina",
+                    "time": "84'"
+                },
+                {
+                    "assist": "D. Konadu",
+                    "event_type": "Goal",
+                    "player": "M. Abdalla",
+                    "score_update": "1 - 4",
+                    "team": "Ajax",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification",
+                            "date": "23/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Vojvodina 1 - 4 Ajax"
+                        },
+                        {
+                            "competition": "Featured Club Friendlies",
+                            "date": "18/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Ajax 1 - 0 Olympiacos"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "04/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Panathinaikos 3 - 1 Ajax"
+                        },
+                        {
+                            "competition": "Eredivisie: UECL Play-off",
+                            "date": "24/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Ajax 1 - 1 FC Utrecht"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "SC Heerenveen 0 - 0 Ajax"
+                        }
+                    ],
+                    "team": "Ajax"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification",
+                            "date": "23/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Vojvodina 1 - 4 Ajax"
+                        },
+                        {
+                            "competition": "Super Liga",
+                            "date": "19/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Vojvodina 4 - 0 OFK Beograd"
+                        },
+                        {
+                            "competition": "Qualification",
+                            "date": "16/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Ferencvaros 3 - 0 Vojvodina"
+                        },
+                        {
+                            "competition": "Super Liga: Championship Group",
+                            "date": "23/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Vojvodina 3 - 0 Novi Pazar"
+                        },
+                        {
+                            "competition": "Serbian Cup",
+                            "date": "13/05/2026",
+                            "result": "D",
+                            "teams_and_score": "FK Crvena Zvezda 2 - 2 Vojvodina"
+                        }
+                    ],
+                    "team": "Vojvodina"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Qualification",
+                        "date": "01/08/2024",
+                        "teams_and_score": "Vojvodina 1 - 3 Ajax"
+                    }
+                ],
+                "summary": {
+                    "Ajax_wins": "1",
+                    "Vojvodina_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Ajax": "66%",
+                    "Vojvodina": "34%"
+                },
+                "corners": {
+                    "Ajax": "10",
+                    "Vojvodina": "1"
+                },
+                "fouls": {
+                    "Ajax": "7",
+                    "Vojvodina": "18"
+                },
+                "goalkeeper_saves": {
+                    "Ajax": "3",
+                    "Vojvodina": "6"
+                },
+                "offsides": {
+                    "Ajax": "1",
+                    "Vojvodina": "0"
+                },
+                "shots_blocked": {
+                    "Ajax": "4",
+                    "Vojvodina": "1"
+                },
+                "shots_off_target": {
+                    "Ajax": "4",
+                    "Vojvodina": "4"
+                },
+                "shots_on_target": {
+                    "Ajax": "10",
+                    "Vojvodina": "4"
+                },
+                "yellow_cards": {
+                    "Ajax": "0",
+                    "Vojvodina": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/vojvodina-vs-ajax-2026-07-23_4Nudj.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/194.webp",
+                    "name": "Ajax",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/702.webp",
+                    "name": "Vojvodina",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/vojvodina-vs-ajax-2026-07-23-B0zv.webp",
+            "title": "Vojvodina vs Ajax"
+        }
+    ]
+}

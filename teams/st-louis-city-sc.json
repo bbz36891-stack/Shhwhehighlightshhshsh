@@ -1,0 +1,42 @@
+{
+    "team": "St. Louis CITY SC",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch Los Angeles FC vs St. Louis City II highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/lafc-st-louis-city-sc-2026-03-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lafc-st-louis-city-sc-2026-03-15-bpym.webp",
+            "title": "LAFC - St. Louis CITY SC"
+        }
+    ]
+}

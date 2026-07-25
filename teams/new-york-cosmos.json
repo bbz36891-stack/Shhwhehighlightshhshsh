@@ -1,0 +1,354 @@
+{
+    "team": "New York Cosmos",
+    "team_logo": "https://img.refooty.com/logo/teams/9033.webp",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "USL Championship",
+            "competition_cover": "",
+            "date": "Jun 6, 2026",
+            "description": "Watch New York Cosmos vs Hartford Athletic highlights and goals from USL Championship on ReFooty: Football Highlights Hub. Match played on June 6, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "A. Williams",
+                    "score_update": "0 - 1",
+                    "team": "Hartford Athletic",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "T. Puentes",
+                    "team": "New York Cosmos",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Coffey",
+                    "score_update": "0 - 2",
+                    "team": "Hartford Athletic",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Samadia",
+                    "score_update": "0 - 3",
+                    "team": "Hartford Athletic",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Chavez",
+                    "score_update": "1 - 3",
+                    "team": "New York Cosmos",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Hernandez",
+                    "score_update": "0 - 4",
+                    "team": "Hartford Athletic",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "USL Cup: Group 5",
+                            "date": "06/06/2026",
+                            "result": "W",
+                            "teams_and_score": "New York Cosmos 1 - 4 Hartford Athletic"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "30/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Hartford Athletic 0 - 0 New Mexico United"
+                        },
+                        {
+                            "competition": "USL Cup: Group 5",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Brooklyn 0 - 2 Hartford Athletic"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "09/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Hartford Athletic 2 - 1 Detroit City FC"
+                        },
+                        {
+                            "competition": "USL Cup: Group 5",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Hartford Athletic 0 - 0 Rhode Island"
+                        }
+                    ],
+                    "team": "Hartford Athletic"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "USL Cup: Group 5",
+                            "date": "06/06/2026",
+                            "result": "L",
+                            "teams_and_score": "New York Cosmos 1 - 4 Hartford Athletic"
+                        },
+                        {
+                            "competition": "USL League One",
+                            "date": "30/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Sarasota Paradise 2 - 1 New York Cosmos"
+                        },
+                        {
+                            "competition": "USL Cup: Group 5",
+                            "date": "15/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Westchester SC 2 - 3 New York Cosmos"
+                        },
+                        {
+                            "competition": "USL League One",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Portland Hearts of Pine 3 - 1 New York Cosmos"
+                        },
+                        {
+                            "competition": "USL Cup: Group 5",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "New York Cosmos 0 - 3 Brooklyn"
+                        }
+                    ],
+                    "team": "New York Cosmos"
+                },
+                "summary": {
+                    "Hartford Athletic_wins": "0",
+                    "New York Cosmos_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/ny-cosmos-vs-hartford-athletic-2026-06-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3995.webp",
+                    "name": "Hartford Athletic",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/9033.webp",
+                    "name": "New York Cosmos",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/ny-cosmos-vs-hartford-athletic-2026-06-06-Ae1s.webp",
+            "title": "NY Cosmos vs Hartford Athletic"
+        },
+        {
+            "competition": "USL Championship",
+            "competition_cover": "",
+            "date": "Jun 13, 2026",
+            "description": "Watch One Knoxville vs New York Cosmos highlights and goals from USL Championship on ReFooty: Football Highlights Hub. Match played on June 13, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "B. Diene",
+                    "score_update": "1 - 0",
+                    "team": "One Knoxville",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Krioutchenkov",
+                    "score_update": "2 - 0",
+                    "team": "One Knoxville",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Galazzini",
+                    "score_update": "2 - 1",
+                    "team": "New York Cosmos",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Goeling",
+                    "score_update": "3 - 1",
+                    "team": "One Knoxville",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "USL League One",
+                            "date": "13/06/2026",
+                            "result": "L",
+                            "teams_and_score": "One Knoxville SC 3 - 1 New York Cosmos"
+                        },
+                        {
+                            "competition": "USL Cup: Group 5",
+                            "date": "06/06/2026",
+                            "result": "L",
+                            "teams_and_score": "New York Cosmos 1 - 4 Hartford Athletic"
+                        },
+                        {
+                            "competition": "USL League One",
+                            "date": "30/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Sarasota Paradise 2 - 1 New York Cosmos"
+                        },
+                        {
+                            "competition": "USL Cup: Group 5",
+                            "date": "15/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Westchester SC 2 - 3 New York Cosmos"
+                        },
+                        {
+                            "competition": "USL League One",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Portland Hearts of Pine 3 - 1 New York Cosmos"
+                        }
+                    ],
+                    "team": "New York Cosmos"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "USL League One",
+                            "date": "13/06/2026",
+                            "result": "W",
+                            "teams_and_score": "One Knoxville SC 3 - 1 New York Cosmos"
+                        },
+                        {
+                            "competition": "USL Cup: Group 3",
+                            "date": "10/06/2026",
+                            "result": "D",
+                            "teams_and_score": "One Knoxville SC 1 - 1 Chattanooga Red Wolves SC"
+                        },
+                        {
+                            "competition": "USL League One",
+                            "date": "29/05/2026",
+                            "result": "W",
+                            "teams_and_score": "One Knoxville SC 2 - 0 Greenville Triumph SC"
+                        },
+                        {
+                            "competition": "USL Cup: Group 3",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "One Knoxville SC 0 - 1 San Antonio FC"
+                        },
+                        {
+                            "competition": "USL League One",
+                            "date": "13/05/2026",
+                            "result": "L",
+                            "teams_and_score": "One Knoxville SC 1 - 2 Union Omaha"
+                        }
+                    ],
+                    "team": "One Knoxville"
+                },
+                "summary": {
+                    "New York Cosmos_wins": "0",
+                    "One Knoxville_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "New York Cosmos": "47%",
+                    "One Knoxville": "53%"
+                },
+                "corners": {
+                    "New York Cosmos": "7",
+                    "One Knoxville": "5"
+                },
+                "fouls": {
+                    "New York Cosmos": "15",
+                    "One Knoxville": "9"
+                },
+                "goalkeeper_saves": {
+                    "New York Cosmos": "4",
+                    "One Knoxville": "2"
+                },
+                "offsides": {
+                    "New York Cosmos": "1",
+                    "One Knoxville": "0"
+                },
+                "shots_blocked": {
+                    "New York Cosmos": "3",
+                    "One Knoxville": "6"
+                },
+                "shots_off_target": {
+                    "New York Cosmos": "7",
+                    "One Knoxville": "8"
+                },
+                "shots_on_target": {
+                    "New York Cosmos": "3",
+                    "One Knoxville": "8"
+                },
+                "yellow_cards": {
+                    "New York Cosmos": "3",
+                    "One Knoxville": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/one-knoxville-vs-new-york-cosmos-2026-06-13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/9033.webp",
+                    "name": "New York Cosmos",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18905.webp",
+                    "name": "One Knoxville",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/one-knoxville-vs-new-york-cosmos-2026-06-13-1tCe.webp",
+            "title": "One Knoxville vs New York Cosmos"
+        }
+    ]
+}

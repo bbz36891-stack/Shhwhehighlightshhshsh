@@ -1,0 +1,2258 @@
+{
+    "team": "Hibernian",
+    "team_logo": "https://img.refooty.com/logo/teams/249.webp",
+    "total_matches": 16,
+    "matches": [
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Aberdeen vs Hibernian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "G. Hanley",
+                    "team": "Hibernian",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Nisbet",
+                    "score_update": "1 - 0",
+                    "team": "Aberdeen",
+                    "time": "17'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Gyamfi",
+                    "team": "Aberdeen",
+                    "time": "45+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Barlaser",
+                    "team": "Hibernian",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Elding",
+                    "team": "Hibernian",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Nisbet",
+                    "score_update": "2 - 0",
+                    "team": "Aberdeen",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Afeez",
+                    "team": "Aberdeen",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        }
+                    ],
+                    "team": "Hibernian"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 1 - 2 Celtic"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "18/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Motherwell"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "30/12/2025",
+                        "teams_and_score": "Hibernian 2 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "26/04/2025",
+                        "teams_and_score": "Aberdeen 1 - 0 Hibernian"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "01/02/2025",
+                        "teams_and_score": "Hibernian 2 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group",
+                        "date": "12/05/2024",
+                        "teams_and_score": "Hibernian 0 - 4 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "17/02/2024",
+                        "teams_and_score": "Aberdeen 2 - 2 Hibernian"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Semi-Finals 23/24",
+                        "date": "04/11/2023",
+                        "teams_and_score": "Hibernian 0 - 1 Aberdeen"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "3",
+                    "Hibernian_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "53%",
+                    "Hibernian": "47%"
+                },
+                "corners": {
+                    "Aberdeen": "3",
+                    "Hibernian": "3"
+                },
+                "fouls": {
+                    "Aberdeen": "18",
+                    "Hibernian": "9"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "1",
+                    "Hibernian": "3"
+                },
+                "offsides": {
+                    "Aberdeen": "3",
+                    "Hibernian": "4"
+                },
+                "red_cards": {
+                    "Aberdeen": "0",
+                    "Hibernian": "1"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "2",
+                    "Hibernian": "2"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "10",
+                    "Hibernian": "1"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "5",
+                    "Hibernian": "1"
+                },
+                "yellow_cards": {
+                    "Aberdeen": "2",
+                    "Hibernian": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/aberdeen-vs-hibernian-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/249.webp",
+                    "name": "Hibernian",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-vs-hibernian-2026-04-11-Gbnd.webp",
+            "title": "Aberdeen vs Hibernian"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 22, 2026",
+            "description": "Watch Celtic vs Hibernian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 22, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/celtic-vs-hibernian-2026-02-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/celtic-vs-hibernian-2026-02-22-G6vg.webp",
+            "title": "Celtic vs Hibernian"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 28, 2026",
+            "description": "Watch Dundee FC vs Hibernian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 28, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "N. Cadden",
+                    "event_type": "Goal",
+                    "player": "O. Elding",
+                    "score_update": "0 - 1",
+                    "team": "Hibernian",
+                    "time": "1'"
+                },
+                {
+                    "assist": "L. Graham",
+                    "event_type": "Goal",
+                    "player": "S. Murray",
+                    "score_update": "1 - 1",
+                    "team": "Dundee FC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. O'Hora",
+                    "team": "Hibernian",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. McGrath",
+                    "team": "Hibernian",
+                    "time": "63'"
+                },
+                {
+                    "assist": "D. Wright",
+                    "event_type": "Goal",
+                    "player": "L. Graham",
+                    "score_update": "2 - 1",
+                    "team": "Dundee FC",
+                    "time": "72'"
+                },
+                {
+                    "assist": "M. Boyle",
+                    "event_type": "Goal",
+                    "player": "A. Suto",
+                    "score_update": "2 - 2",
+                    "team": "Hibernian",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Hamilton",
+                    "team": "Dundee FC",
+                    "time": "85'"
+                },
+                {
+                    "assist": "K. Andrews",
+                    "event_type": "Goal",
+                    "player": "J. McGrath",
+                    "score_update": "2 - 3",
+                    "team": "Hibernian",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Bushiri",
+                    "team": "Hibernian",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Campbell",
+                    "team": "Hibernian",
+                    "time": "90+3'"
+                },
+                {
+                    "assist": "R. Astley",
+                    "event_type": "Goal",
+                    "player": "C. Congreve",
+                    "score_update": "3 - 3",
+                    "team": "Dundee FC",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Dundee FC 3 - 3 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 1 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Hibernian 1 - 1 Motherwell"
+                        }
+                    ],
+                    "team": "Hibernian"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Dundee FC 3 - 3 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "07/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 2 - 1 Dundee FC"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "31/01/2026",
+                            "result": "D",
+                            "teams_and_score": "St. Mirren 0 - 0 Dundee FC"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Kilmarnock 1 - 2 Dundee FC"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee FC 0 - 1 Hearts"
+                        }
+                    ],
+                    "team": "Dundee FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "22/11/2025",
+                        "teams_and_score": "Hibernian 2 - 0 Dundee FC"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "13/04/2025",
+                        "teams_and_score": "Hibernian 4 - 0 Dundee FC"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "24/02/2024",
+                        "teams_and_score": "Hibernian 2 - 1 Dundee FC"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group 21/22",
+                        "date": "10/05/2022",
+                        "teams_and_score": "Dundee FC 3 - 1 Hibernian"
+                    },
+                    {
+                        "competition": "Premiership 21/22",
+                        "date": "02/03/2022",
+                        "teams_and_score": "Dundee FC 0 - 0 Hibernian"
+                    }
+                ],
+                "summary": {
+                    "Dundee FC_wins": "1",
+                    "Hibernian_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Dundee FC": "43%",
+                    "Hibernian": "57%"
+                },
+                "corners": {
+                    "Dundee FC": "6",
+                    "Hibernian": "6"
+                },
+                "fouls": {
+                    "Dundee FC": "8",
+                    "Hibernian": "9"
+                },
+                "goalkeeper_saves": {
+                    "Dundee FC": "3",
+                    "Hibernian": "1"
+                },
+                "offsides": {
+                    "Dundee FC": "3",
+                    "Hibernian": "1"
+                },
+                "shots_blocked": {
+                    "Dundee FC": "1",
+                    "Hibernian": "2"
+                },
+                "shots_off_target": {
+                    "Dundee FC": "5",
+                    "Hibernian": "5"
+                },
+                "shots_on_target": {
+                    "Dundee FC": "4",
+                    "Hibernian": "6"
+                },
+                "yellow_cards": {
+                    "Dundee FC": "1",
+                    "Hibernian": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/dundee-vs-hibernian-2026-02-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/249.webp",
+                    "name": "Hibernian",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/253.webp",
+                    "name": "Dundee FC",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-vs-hibernian-2026-02-28-0Nb2.webp",
+            "title": "Dundee vs Hibernian"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 9, 2026",
+            "description": "Watch Falkirk vs Hibernian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 9, 2026. A high-stakes clash in the Scottish Premiership On May 9, 2026 , the atmosphere was electric as Falkirk hosted Hibernian for a crucial Scottish Premiership match. Both sides entered the pitch with clear tactical intentions, setting the stage for an engaging battle that kept the fans on the edge of their seats from the opening whistle. Early goals define the opening half The intensity was evident immediately as Hibernian struck first in the 3rd minute; Josh Campbell found the back of the net following a perfectly weighted assist from Jordan Obita . The visitors maintained their momentum, and by the 20th minute, they doubled their lead when Martin Boyle set up Josh Campbell for his second goal of the day. The attacking pressure continued, and in the 40th minute, Jordan Obita joined the scoresheet himself, converting a pass from Felix Passlack to put his side in a commanding position heading into the half-time break. Tactical shifts and a spirited response The second half saw both managers shuffle their packs to manage fatigue and tactical shape. The physical nature of the game saw Josh Campbell receive a yellow card in the 61st minute as tensions rose. Falkirk managed to claw their way back into the contest in the 72nd minute, as Ben Broggio fired home after receiving a delivery from Brad Spencer . Despite the flurry of late substitutions and a desperate push from the home side to bridge the gap further, the referee eventually signaled for full time, bringing a hard-fought match to a close.",
+            "events_timeline": [
+                {
+                    "assist": "J. Obita",
+                    "event_type": "Goal",
+                    "player": "J. Campbell",
+                    "score_update": "0 - 1",
+                    "team": "Hibernian",
+                    "time": "1'"
+                },
+                {
+                    "assist": "M. Boyle",
+                    "event_type": "Goal",
+                    "player": "J. Campbell",
+                    "score_update": "0 - 2",
+                    "team": "Hibernian",
+                    "time": "16'"
+                },
+                {
+                    "assist": "F. Passlack",
+                    "event_type": "Goal",
+                    "player": "J. Obita",
+                    "score_update": "0 - 3",
+                    "team": "Hibernian",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Campbell",
+                    "team": "Hibernian",
+                    "time": "46'"
+                },
+                {
+                    "assist": "B. Spencer",
+                    "event_type": "Goal",
+                    "player": "B. Broggio",
+                    "score_update": "1 - 3",
+                    "team": "Falkirk",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "09/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 1 - 3 Hibernian"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        }
+                    ],
+                    "team": "Hibernian"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "09/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 1 - 3 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Dunfermline Athletic 0 - 0 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 3 - 6 Rangers"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 5 - 1 Kilmarnock"
+                        }
+                    ],
+                    "team": "Falkirk"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "24/01/2026",
+                        "teams_and_score": "Falkirk 4 - 1 Hibernian"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Group D",
+                        "date": "12/07/2022",
+                        "teams_and_score": "Falkirk 1 - 0 Hibernian"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "25/03/2017",
+                        "teams_and_score": "Hibernian 2 - 1 Falkirk"
+                    },
+                    {
+                        "competition": "Premiership Qualification",
+                        "date": "13/05/2016",
+                        "teams_and_score": "Falkirk 3 - 2 Hibernian"
+                    }
+                ],
+                "summary": {
+                    "Falkirk_wins": "3",
+                    "Hibernian_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Falkirk": "68%",
+                    "Hibernian": "32%"
+                },
+                "corners": {
+                    "Falkirk": "6",
+                    "Hibernian": "5"
+                },
+                "fouls": {
+                    "Falkirk": "10",
+                    "Hibernian": "13"
+                },
+                "goalkeeper_saves": {
+                    "Falkirk": "2",
+                    "Hibernian": "0"
+                },
+                "offsides": {
+                    "Falkirk": "2",
+                    "Hibernian": "1"
+                },
+                "shots_blocked": {
+                    "Falkirk": "3",
+                    "Hibernian": "2"
+                },
+                "shots_off_target": {
+                    "Falkirk": "4",
+                    "Hibernian": "4"
+                },
+                "shots_on_target": {
+                    "Falkirk": "1",
+                    "Hibernian": "4"
+                },
+                "yellow_cards": {
+                    "Falkirk": "0",
+                    "Hibernian": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/falkirk-vs-hibernian-2026-05-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/249.webp",
+                    "name": "Hibernian",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1389.webp",
+                    "name": "Falkirk",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/falkirk-vs-hibernian-2026-05-09-5IQ7.webp",
+            "title": "Falkirk vs Hibernian"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 11, 2026",
+            "description": "Watch Heart Of Midlothian vs Hibernian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/heart-of-midlothian-vs-hibernian-2026-02-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/heart-of-midlothian-vs-hibernian-2026-02-11-oS9E.webp",
+            "title": "Heart Of Midlothian vs Hibernian"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Hibernian vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 17, 2026. The atmosphere at Easter Road was electric as Hibernian and Motherwell faced off in a crucial Scottish Premiership clash. Both sides took to the pitch looking to assert their dominance in a match that promised to be defined by tactical discipline and physical intensity. Fadinger Breaks the Deadlock On May 17, 2026 , the encounter began with an early setback for the hosts. Just 16 minutes in, Hibernian were forced into an unplanned substitution as Rocky Bushiri made way for the experienced Grant Hanley . The game remained a tightly contested affair, with the referee calling for order in the 32nd minute by issuing a yellow card to Elliot Watt . Motherwell 's persistence eventually paid off in the 35th minute. Following a sharp bit of play, Regan Charles-Cook turned provider, setting up Lukas Fadinger , who clinical finish broke the deadlock. Before the interval, the tension continued to rise as Jamie McGrath saw yellow deep into first-half stoppage time, signaling a feisty second period to come. Disciplinary Drama and the Red Card The second half saw Hibernian attempt to wrestle back control with the introduction of Daniel Barlaser and Josh Mulligan . However, the match became increasingly fragmented as challenges flew in from both sides. The defining moment of the half arrived in the 67th minute when Elliot Watt received his second yellow card and was sent off, leaving Motherwell to defend their lead with only ten men. Despite the numerical disadvantage, the visitors displayed incredible resilience. A flurry of tactical changes followed, with Ibrahim Said , Oscar Priestman , and Ante Suto coming on to shore up the Motherwell midfield and defense. Hibernian pushed forward in search of an equalizer, but the visitors held firm through nine minutes of added time to secure a gritty victory. Goals: Lukas Fadinger (35') Red Card: Elliot Watt (67') Assist: Regan Charles-Cook (35')",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Watt",
+                    "team": "Motherwell",
+                    "time": "32'"
+                },
+                {
+                    "assist": "R. Charles-Cook",
+                    "event_type": "Goal",
+                    "player": "L. Fadinger",
+                    "score_update": "0 - 1",
+                    "team": "Motherwell",
+                    "time": "35'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. McGrath",
+                    "team": "Hibernian",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Mulligan",
+                    "team": "Hibernian",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Charles-Cook",
+                    "team": "Motherwell",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Slattery",
+                    "team": "Motherwell",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "E. Watt",
+                    "team": "Motherwell",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Chaiwa",
+                    "team": "Hibernian",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Fadinger",
+                    "team": "Motherwell",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Boyle",
+                    "team": "Hibernian",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Cadden",
+                    "team": "Hibernian",
+                    "time": "136'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Hibernian 0 - 1 Motherwell"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Hearts 3 - 1 Motherwell"
+                        }
+                    ],
+                    "team": "Motherwell"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Hibernian 0 - 1 Motherwell"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        }
+                    ],
+                    "team": "Hibernian"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "21/03/2026",
+                        "teams_and_score": "Motherwell 0 - 0 Hibernian"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "11/01/2025",
+                        "teams_and_score": "Hibernian 3 - 1 Motherwell"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group",
+                        "date": "15/05/2024",
+                        "teams_and_score": "Hibernian 3 - 0 Motherwell"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "13/04/2024",
+                        "teams_and_score": "Motherwell 1 - 1 Hibernian"
+                    }
+                ],
+                "summary": {
+                    "Hibernian_wins": "2",
+                    "Motherwell_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Hibernian": "49%",
+                    "Motherwell": "51%"
+                },
+                "corners": {
+                    "Hibernian": "7",
+                    "Motherwell": "4"
+                },
+                "fouls": {
+                    "Hibernian": "14",
+                    "Motherwell": "13"
+                },
+                "goalkeeper_saves": {
+                    "Hibernian": "5",
+                    "Motherwell": "0"
+                },
+                "offsides": {
+                    "Hibernian": "2",
+                    "Motherwell": "0"
+                },
+                "red_cards": {
+                    "Hibernian": "0",
+                    "Motherwell": "1"
+                },
+                "shots_blocked": {
+                    "Hibernian": "4",
+                    "Motherwell": "1"
+                },
+                "shots_off_target": {
+                    "Hibernian": "6",
+                    "Motherwell": "7"
+                },
+                "shots_on_target": {
+                    "Hibernian": "1",
+                    "Motherwell": "6"
+                },
+                "yellow_cards": {
+                    "Hibernian": "5",
+                    "Motherwell": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/hibernian-motherwell-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/256.webp",
+                    "name": "Motherwell",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/249.webp",
+                    "name": "Hibernian",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-motherwell-2026-05-17-ryHW.webp",
+            "title": "Hibernian - Motherwell"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 3, 2026",
+            "description": "Watch Hibernian vs Celtic highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 3, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "J. McGrath",
+                    "team": "Hibernian",
+                    "time": "21'"
+                },
+                {
+                    "assist": "A. Johnston",
+                    "event_type": "Goal",
+                    "player": "D. Maeda",
+                    "score_update": "0 - 1",
+                    "team": "Celtic",
+                    "time": "43'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Newell",
+                    "score_update": "1 - 1",
+                    "team": "Hibernian",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Obita",
+                    "team": "Hibernian",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Campbell",
+                    "team": "Hibernian",
+                    "time": "54'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Scales",
+                    "team": "Celtic",
+                    "time": "54'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Iheanacho",
+                    "score_update": "1 - 2",
+                    "team": "Celtic",
+                    "time": "72'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Engels",
+                    "team": "Celtic",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Suto",
+                    "team": "Hibernian",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. McCowan",
+                    "team": "Celtic",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Hibernian 1 - 2 Celtic"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "19/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Celtic 6 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Celtic 1 - 0 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Rangers 0 - 0 Celtic"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 1 - 2 Celtic"
+                        }
+                    ],
+                    "team": "Celtic"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Hibernian 1 - 2 Celtic"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        }
+                    ],
+                    "team": "Hibernian"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "22/02/2026",
+                        "teams_and_score": "Celtic 1 - 2 Hibernian"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "10/05/2025",
+                        "teams_and_score": "Celtic 3 - 1 Hibernian"
+                    },
+                    {
+                        "competition": "Scottish Cup: Quarter-Finals",
+                        "date": "09/03/2025",
+                        "teams_and_score": "Celtic 2 - 0 Hibernian"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Hibernian 2 - 1 Celtic"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Round of 16",
+                        "date": "18/08/2024",
+                        "teams_and_score": "Celtic 3 - 1 Hibernian"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "11/08/2024",
+                        "teams_and_score": "Hibernian 0 - 2 Celtic"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "07/02/2024",
+                        "teams_and_score": "Hibernian 1 - 2 Celtic"
+                    }
+                ],
+                "summary": {
+                    "Celtic_wins": "5",
+                    "Hibernian_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Celtic": "81%",
+                    "Hibernian": "19%"
+                },
+                "corners": {
+                    "Celtic": "13",
+                    "Hibernian": "0"
+                },
+                "fouls": {
+                    "Celtic": "11",
+                    "Hibernian": "7"
+                },
+                "goalkeeper_saves": {
+                    "Celtic": "0",
+                    "Hibernian": "4"
+                },
+                "offsides": {
+                    "Celtic": "2",
+                    "Hibernian": "1"
+                },
+                "red_cards": {
+                    "Celtic": "0",
+                    "Hibernian": "1"
+                },
+                "shots_blocked": {
+                    "Celtic": "14",
+                    "Hibernian": "0"
+                },
+                "shots_off_target": {
+                    "Celtic": "7",
+                    "Hibernian": "3"
+                },
+                "shots_on_target": {
+                    "Celtic": "6",
+                    "Hibernian": "1"
+                },
+                "yellow_cards": {
+                    "Celtic": "3",
+                    "Hibernian": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/hibernian-vs-celtic-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/247.webp",
+                    "name": "Celtic",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/249.webp",
+                    "name": "Hibernian",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-vs-celtic-2026-05-03-vjKj.webp",
+            "title": "Hibernian vs Celtic"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 5, 2026",
+            "description": "Watch Hibernian vs Dundee Utd highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 5, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/hibernian-vs-dundee-utd-2026-02-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-vs-dundee-utd-2026-02-05-ReMU.webp",
+            "title": "Hibernian vs Dundee Utd"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Apr 4, 2026",
+            "description": "Watch Hibernian vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on April 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/hibernian-vs-kilmarnock-2026-04-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-vs-kilmarnock-2026-04-04-MRlI.webp",
+            "title": "Hibernian vs Kilmarnock"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Mar 14, 2026",
+            "description": "Watch Hibernian vs Livingston highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on March 14, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Chaiwa",
+                    "team": "Hibernian",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Prior",
+                    "team": "Livingston",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Andrews",
+                    "team": "Hibernian",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "14/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Hibernian 0 - 0 Livingston"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Livingston 1 - 1 St. Mirren"
+                        }
+                    ],
+                    "team": "Livingston"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "14/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Hibernian 0 - 0 Livingston"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 1 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Hibernian 1 - 1 Motherwell"
+                        }
+                    ],
+                    "team": "Hibernian"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "01/11/2025",
+                        "teams_and_score": "Livingston 2 - 2 Hibernian"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Round of 16",
+                        "date": "17/08/2025",
+                        "teams_and_score": "Livingston 0 - 2 Hibernian"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group",
+                        "date": "19/05/2024",
+                        "teams_and_score": "Livingston 1 - 1 Hibernian"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "16/03/2024",
+                        "teams_and_score": "Hibernian 3 - 0 Livingston"
+                    },
+                    {
+                        "competition": "Premiership 22/23",
+                        "date": "04/03/2023",
+                        "teams_and_score": "Livingston 1 - 4 Hibernian"
+                    }
+                ],
+                "summary": {
+                    "Hibernian_wins": "3",
+                    "Livingston_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Hibernian": "75%",
+                    "Livingston": "25%"
+                },
+                "corners": {
+                    "Hibernian": "12",
+                    "Livingston": "0"
+                },
+                "fouls": {
+                    "Hibernian": "6",
+                    "Livingston": "7"
+                },
+                "goalkeeper_saves": {
+                    "Hibernian": "2",
+                    "Livingston": "5"
+                },
+                "offsides": {
+                    "Hibernian": "1",
+                    "Livingston": "1"
+                },
+                "shots_blocked": {
+                    "Hibernian": "7",
+                    "Livingston": "2"
+                },
+                "shots_off_target": {
+                    "Hibernian": "10",
+                    "Livingston": "2"
+                },
+                "shots_on_target": {
+                    "Hibernian": "5",
+                    "Livingston": "2"
+                },
+                "yellow_cards": {
+                    "Hibernian": "2",
+                    "Livingston": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/hibernian-vs-livingston-2026-03-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/255.webp",
+                    "name": "Livingston",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/249.webp",
+                    "name": "Hibernian",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-vs-livingston-2026-03-14-ZnCd.webp",
+            "title": "Hibernian vs Livingston"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Jan 10, 2026",
+            "description": "Watch Hibernian vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on January 10, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/hibernian-vs-motherwell-2026-01-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-vs-motherwell-2026-01-10-8Io9.webp",
+            "title": "Hibernian vs Motherwell"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 1, 2026",
+            "description": "Watch Hibernian vs Rangers highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 1, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Boyle",
+                    "team": "Hibernian",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Newell",
+                    "team": "Hibernian",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Sterling",
+                    "team": "Rangers",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Iredale",
+                    "team": "Hibernian",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Raskin",
+                    "team": "Rangers",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "01/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Hibernian 0 - 0 Rangers"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Porto 3 - 1 Rangers"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "25/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Rangers 3 - 0 Dundee FC"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Rangers 1 - 0 Ludogorets Razgrad"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "16/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Rangers 5 - 0 Annan Athletic"
+                        }
+                    ],
+                    "team": "Rangers"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "01/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Hibernian 0 - 0 Rangers"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 1 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Hibernian 1 - 1 Motherwell"
+                        }
+                    ],
+                    "team": "Hibernian"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "15/12/2025",
+                        "teams_and_score": "Rangers 1 - 0 Hibernian"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Quarter-Finals",
+                        "date": "20/09/2025",
+                        "teams_and_score": "Rangers 2 - 0 Hibernian"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "17/05/2025",
+                        "teams_and_score": "Hibernian 2 - 2 Rangers"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "05/04/2025",
+                        "teams_and_score": "Rangers 0 - 2 Hibernian"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "30/03/2024",
+                        "teams_and_score": "Rangers 3 - 1 Hibernian"
+                    },
+                    {
+                        "competition": "Scottish Cup: Quarter-Finals",
+                        "date": "10/03/2024",
+                        "teams_and_score": "Hibernian 0 - 2 Rangers"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "24/01/2024",
+                        "teams_and_score": "Hibernian 0 - 3 Rangers"
+                    }
+                ],
+                "summary": {
+                    "Hibernian_wins": "1",
+                    "Rangers_wins": "5",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Hibernian": "45%",
+                    "Rangers": "55%"
+                },
+                "corners": {
+                    "Hibernian": "9",
+                    "Rangers": "8"
+                },
+                "fouls": {
+                    "Hibernian": "13",
+                    "Rangers": "5"
+                },
+                "goalkeeper_saves": {
+                    "Hibernian": "1",
+                    "Rangers": "6"
+                },
+                "offsides": {
+                    "Hibernian": "2",
+                    "Rangers": "3"
+                },
+                "shots_blocked": {
+                    "Hibernian": "4",
+                    "Rangers": "7"
+                },
+                "shots_off_target": {
+                    "Hibernian": "7",
+                    "Rangers": "2"
+                },
+                "shots_on_target": {
+                    "Hibernian": "6",
+                    "Rangers": "2"
+                },
+                "yellow_cards": {
+                    "Hibernian": "3",
+                    "Rangers": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/hibernian-vs-rangers-2026-02-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/257.webp",
+                    "name": "Rangers",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/249.webp",
+                    "name": "Hibernian",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-vs-rangers-2026-02-01-uROx.webp",
+            "title": "Hibernian vs Rangers"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 14, 2026",
+            "description": "Watch Hibernian vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/hibernian-vs-st-mirren-2026-02-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-vs-st-mirren-2026-02-14-3aoZ.webp",
+            "title": "Hibernian vs ST Mirren"
+        },
+        {
+            "competition": "UEFA Europa Conference League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-conference-league.webp",
+            "date": "Jul 23, 2026",
+            "description": "Watch Malisheva vs Hibernian highlights and goals from UEFA Europa Conference League on ReFooty: Football Highlights Hub. Match played on July 23, 2026. The stage was set for a high-stakes encounter in the UEFA Europa Conference League as two ambitious sides faced off in a quest for European progression. Supporters gathered in anticipation of a tactical battle that would define their continental ambitions for the season ahead. Early Breakthrough for the Hosts On July 23, 2026 , Malisheva welcomed Hibernian for a crucial match that started with high intensity. The home side found their rhythm early in the first half , and their persistence was rewarded in the 21st minute. Arlind Veliu provided a pinpoint assist for Kreshnik Uka , who calmly slotted the ball home to give Malisheva a vital lead and ignite the home crowd. Tactical Adjustments and Rising Tension As the second half got underway, Hibernian looked to change their fortunes by introducing Adam Mayor into the fray. The contest became increasingly physical, leading to a yellow card for Warren O'Hora in the 52nd minute. Both managers utilized their benches extensively, with Joe Newell and Valmir Nafiu among those introduced as the game entered a cagey period where clear-cut chance s were hard to come by. Nafiu Seals the Victory In the final minute of normal time, Malisheva produced a clinical counter-attack to double their advantage. Kreshnik Uka turned from scorer to provider, setting up Valmir Nafiu for a composed finish in the 90th minute. Despite some late drama involving a yellow card for Azeem Abdulai in stoppage time, the hosts held firm to secure a 2-0 win, taking a significant step forward in their sports journey this season.",
+            "events_timeline": [
+                {
+                    "assist": "A. Veliu",
+                    "event_type": "Goal",
+                    "player": "K. Uka",
+                    "score_update": "1 - 0",
+                    "team": "Malisheva",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. O'Hora",
+                    "team": "Hibernian",
+                    "time": "52'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Ibishi",
+                    "team": "Malisheva",
+                    "time": "88'"
+                },
+                {
+                    "assist": "K. Uka",
+                    "event_type": "Goal",
+                    "player": "V. Nafiu",
+                    "score_update": "2 - 0",
+                    "team": "Malisheva",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Abdulai",
+                    "team": "Hibernian",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification",
+                            "date": "23/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Malisheva 2 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "18/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Hibernian 2 - 1 Broendby IF"
+                        },
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Hibernian 0 - 1 Motherwell"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        }
+                    ],
+                    "team": "Hibernian"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification",
+                            "date": "23/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Malisheva 2 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Superleague",
+                            "date": "31/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Malisheva 3 - 2 Drita"
+                        }
+                    ],
+                    "team": "Malisheva"
+                },
+                "summary": {
+                    "Hibernian_wins": "0",
+                    "Malisheva_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Hibernian": "57%",
+                    "Malisheva": "43%"
+                },
+                "corners": {
+                    "Hibernian": "6",
+                    "Malisheva": "3"
+                },
+                "fouls": {
+                    "Hibernian": "19",
+                    "Malisheva": "7"
+                },
+                "goalkeeper_saves": {
+                    "Hibernian": "4",
+                    "Malisheva": "2"
+                },
+                "offsides": {
+                    "Hibernian": "1",
+                    "Malisheva": "2"
+                },
+                "shots_off_target": {
+                    "Hibernian": "8",
+                    "Malisheva": "2"
+                },
+                "shots_on_target": {
+                    "Hibernian": "2",
+                    "Malisheva": "6"
+                },
+                "yellow_cards": {
+                    "Hibernian": "2",
+                    "Malisheva": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/malisheva-vs-hibernian-2026-07-23_Go4lz.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/249.webp",
+                    "name": "Hibernian",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15576.webp",
+                    "name": "Malisheva",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/malisheva-vs-hibernian-2026-07-23-hJam.webp",
+            "title": "Malisheva vs Hibernian"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Mar 21, 2026",
+            "description": "Watch Motherwell vs Hibernian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on March 21, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. McGrath",
+                    "team": "Hibernian",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Barlaser",
+                    "team": "Hibernian",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Suto",
+                    "team": "Hibernian",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Watt",
+                    "team": "Motherwell",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Chaiwa",
+                    "team": "Hibernian",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Sparrow",
+                    "team": "Motherwell",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Bjrgolfsson",
+                    "team": "Motherwell",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "21/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Motherwell 0 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 1 - 0 Hibernian"
+                        }
+                    ],
+                    "team": "Hibernian"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "21/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Motherwell 0 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "18/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 2 - 0 Motherwell"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "15/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Motherwell 2 - 0 Aberdeen"
+                        }
+                    ],
+                    "team": "Motherwell"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "10/01/2026",
+                        "teams_and_score": "Hibernian 1 - 1 Motherwell"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "11/01/2025",
+                        "teams_and_score": "Hibernian 3 - 1 Motherwell"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group",
+                        "date": "15/05/2024",
+                        "teams_and_score": "Hibernian 3 - 0 Motherwell"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "13/04/2024",
+                        "teams_and_score": "Motherwell 1 - 1 Hibernian"
+                    },
+                    {
+                        "competition": "Premiership 22/23",
+                        "date": "01/04/2023",
+                        "teams_and_score": "Hibernian 1 - 3 Motherwell"
+                    }
+                ],
+                "summary": {
+                    "Hibernian_wins": "2",
+                    "Motherwell_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Hibernian": "40%",
+                    "Motherwell": "61%"
+                },
+                "corners": {
+                    "Hibernian": "4",
+                    "Motherwell": "2"
+                },
+                "fouls": {
+                    "Hibernian": "9",
+                    "Motherwell": "7"
+                },
+                "goalkeeper_saves": {
+                    "Hibernian": "3",
+                    "Motherwell": "1"
+                },
+                "offsides": {
+                    "Hibernian": "4",
+                    "Motherwell": "6"
+                },
+                "shots_blocked": {
+                    "Hibernian": "2",
+                    "Motherwell": "3"
+                },
+                "shots_off_target": {
+                    "Hibernian": "4",
+                    "Motherwell": "1"
+                },
+                "shots_on_target": {
+                    "Hibernian": "1",
+                    "Motherwell": "3"
+                },
+                "yellow_cards": {
+                    "Hibernian": "4",
+                    "Motherwell": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/motherwell-vs-hibernian-2026-03-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/249.webp",
+                    "name": "Hibernian",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/256.webp",
+                    "name": "Motherwell",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/motherwell-vs-hibernian-2026-03-21-Mnja.webp",
+            "title": "Motherwell vs Hibernian"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 13, 2026",
+            "description": "Watch Rangers vs Hibernian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 13, 2026. The eyes of the Scottish Premiership were fixed on Ibrox this May 13, 2026 , as Rangers hosted Hibernian in a clash that promised high stakes and intense rivalry. Both teams took to the pitch with clear tactical intentions, setting the stage for a match defined by momentum shifts and clinical finishing. An Explosive Opening Exchange Hibernian wasted no time in making their mark on the game, finding the net just five minutes after the opening whistle. Jordan Obita provided a pinpoint assist for Martin Boyle , who finished clinically to give the visitors an early lead. The shock of the early goal spurred Rangers into action, and they dominated much of the possession as they searched for a way back into the contest. Following a yellow card for Warren O'Hora , the hosts finally found their breakthrough in the 41st minute when Thelo Aasgaard struck a powerful equalizer, ensuring the teams went into the break on level terms. Tactical Substitutions and Rising Tension The second half saw a more cagey affair as both managers turned to their benches to find a winning edge. Rangers introduced the likes of Djeidi Gassama and Jayden Meghoma , while Hibernian brought on Joe Newell and Bojan Miovski to maintain their attacking threat. The physical nature of the game increased, resulting in bookings for Connor Barron , Jordan Obita , and Nasser Djiga . As the match entered its final ten minutes, it appeared that both sides would have to settle for a hard-earned point. Scarlett Strikes Late However, the match had one final dramatic twist in store. In the 89th minute, substitute Dane Scarlett —who had replaced Boyle earlier in the half—found himself in the perfect position to decide the outcome. Fed by a precise pass from Felix Passlack , Scarlett kept his composure to slot the ball home and restore Hibernian 's lead. Despite a frantic final few minutes of stoppage time, Rangers were unable to find a second equalizer, leaving the visitors to celebrate a famous victory when the final whistle blew after 94 minutes.",
+            "events_timeline": [
+                {
+                    "assist": "J. Obita",
+                    "event_type": "Goal",
+                    "player": "M. Boyle",
+                    "score_update": "0 - 1",
+                    "team": "Hibernian",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. O'Hora",
+                    "team": "Hibernian",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Aasgaard",
+                    "score_update": "1 - 1",
+                    "team": "Rangers",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Barron",
+                    "team": "Rangers",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Obita",
+                    "team": "Hibernian",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Djiga",
+                    "team": "Rangers",
+                    "time": "76'"
+                },
+                {
+                    "assist": "F. Passlack",
+                    "event_type": "Goal",
+                    "player": "D. Scarlett",
+                    "score_update": "1 - 2",
+                    "team": "Hibernian",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "13/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Rangers 1 - 2 Hibernian"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        }
+                    ],
+                    "team": "Hibernian"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "13/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Rangers 1 - 2 Hibernian"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 3 - 6 Rangers"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Rangers 0 - 0 Celtic"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Rangers 2 - 2 Celtic"
+                        }
+                    ],
+                    "team": "Rangers"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "01/02/2026",
+                        "teams_and_score": "Hibernian 0 - 0 Rangers"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Quarter-Finals",
+                        "date": "20/09/2025",
+                        "teams_and_score": "Rangers 2 - 0 Hibernian"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "17/05/2025",
+                        "teams_and_score": "Hibernian 2 - 2 Rangers"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "05/04/2025",
+                        "teams_and_score": "Rangers 0 - 2 Hibernian"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "30/03/2024",
+                        "teams_and_score": "Rangers 3 - 1 Hibernian"
+                    },
+                    {
+                        "competition": "Scottish Cup: Quarter-Finals",
+                        "date": "10/03/2024",
+                        "teams_and_score": "Hibernian 0 - 2 Rangers"
+                    }
+                ],
+                "summary": {
+                    "Hibernian_wins": "1",
+                    "Rangers_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Hibernian": "28%",
+                    "Rangers": "72%"
+                },
+                "corners": {
+                    "Hibernian": "3",
+                    "Rangers": "9"
+                },
+                "fouls": {
+                    "Hibernian": "12",
+                    "Rangers": "14"
+                },
+                "goalkeeper_saves": {
+                    "Hibernian": "6",
+                    "Rangers": "2"
+                },
+                "offsides": {
+                    "Hibernian": "2",
+                    "Rangers": "2"
+                },
+                "shots_blocked": {
+                    "Hibernian": "1",
+                    "Rangers": "5"
+                },
+                "shots_off_target": {
+                    "Hibernian": "3",
+                    "Rangers": "9"
+                },
+                "shots_on_target": {
+                    "Hibernian": "4",
+                    "Rangers": "7"
+                },
+                "yellow_cards": {
+                    "Hibernian": "2",
+                    "Rangers": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/rangers-hibernian-2026-05-13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/249.webp",
+                    "name": "Hibernian",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/257.webp",
+                    "name": "Rangers",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rangers-hibernian-2026-05-13-ORPg.webp",
+            "title": "Rangers - Hibernian"
+        }
+    ]
+}

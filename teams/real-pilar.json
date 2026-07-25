@@ -1,0 +1,113 @@
+{
+    "team": "Real Pilar",
+    "team_logo": "https://img.refooty.com/logo/teams/2422.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 26, 2026",
+            "description": "Watch Banfield vs Real Pilar highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 26, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "T. Perrotta",
+                    "score_update": "1 - 0",
+                    "team": "Banfield",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Perrotta",
+                    "score_update": "2 - 0",
+                    "team": "Banfield",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Anselmo",
+                    "score_update": "3 - 0",
+                    "team": "Banfield",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "26/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Banfield 3 - 0 Real Pilar"
+                        },
+                        {
+                            "competition": "Primera B Metropolitana",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "CA Defensores Unidos 1 - 2 Real Pilar"
+                        },
+                        {
+                            "competition": "Primera B Metropolitana: Promotion Playoff",
+                            "date": "10/12/2025",
+                            "result": "D",
+                            "teams_and_score": "Real Pilar 1 - 1 Acassuso"
+                        }
+                    ],
+                    "team": "Real Pilar"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "26/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Banfield 3 - 0 Real Pilar"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Banfield 1 - 0 Tigre"
+                        }
+                    ],
+                    "team": "Banfield"
+                },
+                "summary": {
+                    "Banfield_wins": "0",
+                    "Real Pilar_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/banfield-vs-real-pilar-2026-03-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2422.webp",
+                    "name": "Real Pilar",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/449.webp",
+                    "name": "Banfield",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/banfield-vs-real-pilar-2026-03-26-kKKc.webp",
+            "title": "Banfield vs Real Pilar"
+        }
+    ]
+}

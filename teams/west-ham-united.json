@@ -1,0 +1,42 @@
+{
+    "team": "West Ham United",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Dec 7, 2025",
+            "description": "Watch Brighton vs West Ham highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on December 7, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Brighton_v_West_Ham_2025_12_07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brighton-v-west-ham-2025-12-07-v969.webp",
+            "title": "Brighton vs West Ham United"
+        }
+    ]
+}

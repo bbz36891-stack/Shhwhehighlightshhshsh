@@ -1,0 +1,172 @@
+{
+    "team": "Saint Louis FC",
+    "team_logo": "https://img.refooty.com/logo/teams/13187.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 12, 2026",
+            "description": "Watch FC Dallas vs Saint Louis FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 12, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "D. Fagundez",
+                    "score_update": "1 - 0",
+                    "team": "FC Dallas",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Williams",
+                    "score_update": "1 - 1",
+                    "team": "Saint Louis FC",
+                    "time": "90+11'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "D",
+                            "teams_and_score": "New England Revolution 1 - 1 Rhode Island"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Lexington SC 1 - 3 Rhode Island"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "01/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Rhode Island 2 - 0 Hartford Athletic"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "28/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Miami FC 2 - 1 Rhode Island"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "17/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Rhode Island 4 - 0 CD Faialense"
+                        }
+                    ],
+                    "team": "Saint Louis FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "D",
+                            "teams_and_score": "New England Revolution 1 - 1 Rhode Island"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "New England Revolution 1 - 0 DC United"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "18/10/2025",
+                            "result": "D",
+                            "teams_and_score": "New England Revolution 2 - 2 Chicago Fire"
+                        }
+                    ],
+                    "team": "FC Dallas"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "US Open Cup",
+                        "date": "07/05/2025",
+                        "teams_and_score": "Rhode Island 1 - 2 New England Revolution"
+                    }
+                ],
+                "summary": {
+                    "FC Dallas_wins": "1",
+                    "Saint Louis FC_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "FC Dallas": "46%",
+                    "Saint Louis FC": "54%"
+                },
+                "corners": {
+                    "FC Dallas": "4",
+                    "Saint Louis FC": "3"
+                },
+                "fouls": {
+                    "FC Dallas": "19",
+                    "Saint Louis FC": "22"
+                },
+                "goalkeeper_saves": {
+                    "FC Dallas": "2",
+                    "Saint Louis FC": "0"
+                },
+                "offsides": {
+                    "FC Dallas": "0",
+                    "Saint Louis FC": "1"
+                },
+                "shots_blocked": {
+                    "FC Dallas": "5",
+                    "Saint Louis FC": "0"
+                },
+                "shots_off_target": {
+                    "FC Dallas": "4",
+                    "Saint Louis FC": "7"
+                },
+                "shots_on_target": {
+                    "FC Dallas": "2",
+                    "Saint Louis FC": "3"
+                },
+                "yellow_cards": {
+                    "FC Dallas": "4",
+                    "Saint Louis FC": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-dallas-vs-saint-louis-fc-2026-04-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/13187.webp",
+                    "name": "Saint Louis FC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1597.webp",
+                    "name": "FC Dallas",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-dallas-vs-saint-louis-fc-2026-04-12-JFDN.webp",
+            "title": "FC Dallas vs Saint Louis FC"
+        }
+    ]
+}

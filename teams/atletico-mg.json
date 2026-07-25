@@ -1,0 +1,2671 @@
+{
+    "team": "Atletico MG",
+    "team_logo": "https://img.refooty.com/logo/teams/1062.webp",
+    "total_matches": 12,
+    "matches": [
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 10, 2026",
+            "description": "Watch Atletico MG vs Botafogo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 10, 2026. The Brazilian Serie A featured a high-stakes encounter between Bahia and Botafogo on May 10, 2026. Both sides entered the pitch looking to claim dominance in a match characterized by physical duels and tactical shifts. First Half Dominance and Clinical Finishing The game began with palpable tension, as the referee was kept busy with early bookings for Joao Paulo and Fabricio Bruno . The deadlock was eventually broken in the 27th minute when Bahia earned a penalty. Luciano Juba stepped up to the spot and clinicaly dispatched the ball into the net to give his side the lead. This goal galvanized the home crowd and set the tone for the remainder of the half. As the clock ticked toward halftime, the pressure intensified. In the 41st minute, Neyser Villarreal turned provider, setting up Kaua Moraes for a well-placed finish that doubled the advantage. However, the intensity of the match led to further disciplinary action, with Santiago Ramos and Everaldo both receiving yellow cards before the teams headed to the dressing rooms for the interval. Tactical Shifts and Late Drama The second half saw both managers turn to their benches to influence the flow of the match . The introduction of Kenji and Ademir Santos at the restart provided fresh energy, though the physical nature of the contest remained, resulting in yellows for Kaua Moraes and Lucas Daniel Romero . A wave of substitutions in the 71st minute further altered the dynamics as Botafogo pushed to find a way back into the contest. Their persistence finally paid off in the 86th minute when Kenji found the back of the net following a sharp assist from Lucas Daniel Romero . This late strike set up a frantic finale, with Otavio Costa picking up a yellow card in the 89th minute as both teams fought for every ball. Despite the late pressure, the encounter concluded as a thrilling showcase of Brazilian football .",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. J. Paulo",
+                    "team": "Atletico MG",
+                    "time": "18'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Bruno",
+                    "team": "Botafogo",
+                    "time": "24'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Juba",
+                    "score_update": "1 - 0",
+                    "team": "Atletico MG",
+                    "time": "27'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. R. Mingo",
+                    "team": "Atletico MG",
+                    "time": "35'"
+                },
+                {
+                    "assist": "N. Villareal",
+                    "event_type": "Goal",
+                    "player": "K. Moraes",
+                    "score_update": "1 - 1",
+                    "team": "Botafogo",
+                    "time": "41'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Everaldo",
+                    "team": "Atletico MG",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Moraes",
+                    "team": "Botafogo",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Romero",
+                    "team": "Botafogo",
+                    "time": "61'"
+                },
+                {
+                    "assist": "L. Romero",
+                    "event_type": "Goal",
+                    "player": "Kenji",
+                    "score_update": "1 - 2",
+                    "team": "Botafogo",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Costa",
+                    "team": "Botafogo",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 2 Cruzeiro"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "07/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Universidad Catolica 0 - 0 Cruzeiro"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Cruzeiro 1 - 3 Atletico MG"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Cruzeiro 1 - 0 Boca Juniors"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Remo 0 - 1 Cruzeiro"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 2 Cruzeiro"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Flamengo 2 - 0 Bahia"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "15/09/2025",
+                        "teams_and_score": "Bahia 1 - 2 Cruzeiro"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "19/10/2024",
+                        "teams_and_score": "Cruzeiro 1 - 1 Bahia"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "25/10/2023",
+                        "teams_and_score": "Cruzeiro 3 - 0 Bahia"
+                    },
+                    {
+                        "competition": "Serie B",
+                        "date": "23/07/2022",
+                        "teams_and_score": "Cruzeiro 1 - 0 Bahia"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "03/11/2019",
+                        "teams_and_score": "Cruzeiro 1 - 1 Bahia"
+                    }
+                ],
+                "summary": {
+                    "Atletico MG_wins": "1",
+                    "Botafogo_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atletico MG": "46%",
+                    "Botafogo": "54%"
+                },
+                "corners": {
+                    "Atletico MG": "6",
+                    "Botafogo": "8"
+                },
+                "fouls": {
+                    "Atletico MG": "14",
+                    "Botafogo": "16"
+                },
+                "goalkeeper_saves": {
+                    "Atletico MG": "5",
+                    "Botafogo": "2"
+                },
+                "offsides": {
+                    "Atletico MG": "0",
+                    "Botafogo": "2"
+                },
+                "shots_blocked": {
+                    "Atletico MG": "2",
+                    "Botafogo": "3"
+                },
+                "shots_off_target": {
+                    "Atletico MG": "3",
+                    "Botafogo": "10"
+                },
+                "shots_on_target": {
+                    "Atletico MG": "3",
+                    "Botafogo": "7"
+                },
+                "yellow_cards": {
+                    "Atletico MG": "3",
+                    "Botafogo": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/atletico-mineiro-botafogo-2026-05-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-mineiro-botafogo-2026-05-10-Lqqc.webp",
+            "title": "Atletico Mineiro - Botafogo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Atletico MG vs Mirassol highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 17, 2026. The stage was set for a gripping Serie A encounter as Bahia hosted Mirassol on May 17, 2026. With both teams desperate for points, the match promised a blend of tactical discipline and high-octane drama that lived up to the billing until the very last second. First Half Flourish and Quick Responses Bahia wasted little time in establishing their presence on home turf. In the 22nd minute, the deadlock was broken when the experienced Everton Ribeiro threaded a perfect pass to Erick , who finished with composure to give the hosts the lead. However, Mirassol proved to be resilient opponents. They fought back and found an equalizer in the 35th minute, as Alef Manga turned provider for Patrick , who silenced the home crowd with a clinical strike. As the first half drew to a close, the game grew increasingly physical. The referee was forced to reach for his pocket, issuing yellow cards to Jean Lucas and Jaja as both sides struggled to maintain their discipline amidst the rising intensity of the contest. Tactical Shifts and Defensive Grit The second half began with a similar edge, as Marcos Victor and Cristian Olivera were both cautioned early on. Recognizing the need for fresh energy, Bahia introduced several substitutes, including Leonel Picco and Rodrigo Nestor , hoping to break the stalemate of this May 17, 2026 fixture. The middle period of the half became a cagey affair, with yellow cards for Marcelo and Luciano Juba highlighting the stakes involved. Both managers exhausted their options, with Matheus Alexandre entering the fray late on for the visitors-turned-hosts’ benefit. Despite the tactical tinkering, neither side seemed able to find the definitive breakthrough as the match headed into stoppage time. Stoppage Time Drama Just as the fans prepared for a draw, the match reached a fever pitch in the 90+1st minute. Matheus Alexandre played a decisive role, providing the assist for Leonel Picco , who struck a powerful blow to make it 2-1. The late goal sparked wild celebrations in the stands. Despite seven minutes of added time and frantic attempts by Mirassol to rescue a point, the final whistle confirmed a hard-fought and emotional victory for Bahia .",
+            "events_timeline": [
+                {
+                    "assist": "E. Ribeiro",
+                    "event_type": "Goal",
+                    "player": "E. Conrado",
+                    "score_update": "0 - 1",
+                    "team": "Mirassol",
+                    "time": "1'"
+                },
+                {
+                    "assist": "A. Manga",
+                    "event_type": "Goal",
+                    "player": "Patrick",
+                    "score_update": "1 - 1",
+                    "team": "Atletico MG",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Lucas",
+                    "team": "Mirassol",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Jaja",
+                    "team": "Atletico MG",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Victor",
+                    "team": "Mirassol",
+                    "time": "47'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Olivera",
+                    "team": "Mirassol",
+                    "time": "56'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Marcelo",
+                    "team": "Atletico MG",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Juba",
+                    "team": "Mirassol",
+                    "time": "86'"
+                },
+                {
+                    "assist": "M. Alexandre",
+                    "event_type": "Goal",
+                    "player": "L. Picco",
+                    "score_update": "2 - 1",
+                    "team": "Atletico MG",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Remo 2 - 1 Bahia"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 2 Cruzeiro"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Flamengo 2 - 0 Bahia"
+                        }
+                    ],
+                    "team": "Mirassol"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Remo 2 - 1 Bahia"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Remo 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "RB Bragantino 4 - 2 Remo"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "22/04/2026",
+                        "teams_and_score": "Bahia 1 - 3 Remo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "22/03/2026",
+                        "teams_and_score": "Remo 4 - 1 Bahia"
+                    },
+                    {
+                        "competition": "Cup",
+                        "date": "19/04/2012",
+                        "teams_and_score": "Bahia 4 - 0 Remo"
+                    }
+                ],
+                "summary": {
+                    "Atletico MG_wins": "1",
+                    "Mirassol_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atletico MG": "40%",
+                    "Mirassol": "60%"
+                },
+                "corners": {
+                    "Atletico MG": "7",
+                    "Mirassol": "8"
+                },
+                "fouls": {
+                    "Atletico MG": "12",
+                    "Mirassol": "12"
+                },
+                "goalkeeper_saves": {
+                    "Atletico MG": "6",
+                    "Mirassol": "3"
+                },
+                "offsides": {
+                    "Atletico MG": "1",
+                    "Mirassol": "5"
+                },
+                "shots_blocked": {
+                    "Atletico MG": "1",
+                    "Mirassol": "0"
+                },
+                "shots_off_target": {
+                    "Atletico MG": "2",
+                    "Mirassol": "4"
+                },
+                "shots_on_target": {
+                    "Atletico MG": "5",
+                    "Mirassol": "7"
+                },
+                "yellow_cards": {
+                    "Atletico MG": "2",
+                    "Mirassol": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/atletico-mineiro-mirassol-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/7848.webp",
+                    "name": "Mirassol",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-mineiro-mirassol-2026-05-17-6c3D.webp",
+            "title": "Atletico Mineiro - Mirassol"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 19, 2026",
+            "description": "Watch Atletico MG vs Sao Paulo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 19, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "Jean Lucas",
+                    "event_type": "Goal",
+                    "player": "L. Juba",
+                    "score_update": "1 - 0",
+                    "team": "Atletico MG",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Conrado",
+                    "score_update": "2 - 0",
+                    "team": "Atletico MG",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Rodriguinho",
+                    "team": "Sao Paulo",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Acevedo",
+                    "team": "Atletico MG",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Nestor",
+                    "team": "Atletico MG",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Conrado",
+                    "team": "Atletico MG",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 2 - 0 RB Bragantino"
+                        },
+                        {
+                            "competition": "Paulista A1: Play-off",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "RB Bragantino 1 - 2 Sao Paulo"
+                        },
+                        {
+                            "competition": "Paulista A1",
+                            "date": "15/02/2026",
+                            "result": "L",
+                            "teams_and_score": "RB Bragantino 3 - 0 Novorizontino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 2 - 0 RB Bragantino"
+                        },
+                        {
+                            "competition": "Paulista A1",
+                            "date": "08/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Velo Clube 1 - 1 RB Bragantino"
+                        }
+                    ],
+                    "team": "Sao Paulo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 2 - 0 RB Bragantino"
+                        },
+                        {
+                            "competition": "Baiano: Play-off",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 2 - 1 Vitoria"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "25/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 2 - 1 O'Higgins"
+                        },
+                        {
+                            "competition": "Baiano",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Alagoinhas 2 - 4 Bahia"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "18/02/2026",
+                            "result": "L",
+                            "teams_and_score": "O'Higgins 1 - 0 Bahia"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "02/11/2025",
+                        "teams_and_score": "Bahia 2 - 1 RB Bragantino"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "01/09/2024",
+                        "teams_and_score": "RB Bragantino 2 - 1 Bahia"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "20/08/2023",
+                        "teams_and_score": "Bahia 4 - 0 RB Bragantino"
+                    },
+                    {
+                        "competition": "Serie A 2021",
+                        "date": "19/09/2021",
+                        "teams_and_score": "Bahia 1 - 1 RB Bragantino"
+                    },
+                    {
+                        "competition": "Serie A 2020",
+                        "date": "20/11/2020",
+                        "teams_and_score": "RB Bragantino 4 - 0 Bahia"
+                    }
+                ],
+                "summary": {
+                    "Atletico MG_wins": "0",
+                    "Sao Paulo_wins": "4",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atletico MG": "57%",
+                    "Sao Paulo": "43%"
+                },
+                "corners": {
+                    "Atletico MG": "7",
+                    "Sao Paulo": "7"
+                },
+                "fouls": {
+                    "Atletico MG": "15",
+                    "Sao Paulo": "16"
+                },
+                "goalkeeper_saves": {
+                    "Atletico MG": "3",
+                    "Sao Paulo": "6"
+                },
+                "offsides": {
+                    "Atletico MG": "2",
+                    "Sao Paulo": "1"
+                },
+                "shots_off_target": {
+                    "Atletico MG": "5",
+                    "Sao Paulo": "8"
+                },
+                "shots_on_target": {
+                    "Atletico MG": "9",
+                    "Sao Paulo": "3"
+                },
+                "yellow_cards": {
+                    "Atletico MG": "3",
+                    "Sao Paulo": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/atletico-mineiro-sao-paulo-2026-03-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/126.webp",
+                    "name": "Sao Paulo",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-mineiro-sao-paulo-2026-03-19-Bnfq.webp",
+            "title": "Atletico Mineiro - Sao Paulo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Jul 22, 2026",
+            "description": "Watch Atletico MG vs Bahia highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on July 22, 2026. The eyes of the footballing world turned to a high-stakes Serie A encounter as two Brazilian heavyweights locked horns in a tactical battle for supremacy. The atmosphere was electric, with both sides eager to assert their dominance in a match that promised plenty of drama. First Half Breakthrough On July 22, 2026 , the clash between Atlético Mineiro and Bahia began with a display of disciplined defending and midfield grit. For much of the opening period, clear-cut chances were at a premium as both tactical setups cancelled each other out. However, the deadlock was finally broken in stoppage time. In the 46th minute, Bernard turned provider with a pinpoint pass to Ruan , who found the back of the net to give the home side a crucial lead just before the halftime whistle. Second Half Response and Tactical Shifts Following the break, the visitors looked to find a way back into the game, introducing Marcos Victor to solidify the defense. The persistence paid off in the 57th minute when Rodrigo Nestor set up Ademir Santos for a clinical finish, leveling the scoreline. The goal sparked a flurry of substitutions from both managers, with the likes of Everton Ribeiro , Reinier , and Iago entering the fray to find a late winner. Late Tension and the Final Whistle The closing stages were defined by rising tensions and physical play. Jose Guilherme and Erick both saw yellow as the battle for possession intensified. Despite the tactical changes and six minutes of added time, neither side could find the decisive blow. The referee’s final whistle at 90+6' confirmed a hard-fought draw, leaving both teams to reflect on a match where momentum shifted with every passing minute.",
+            "events_timeline": [
+                {
+                    "assist": "Bernard",
+                    "event_type": "Goal",
+                    "player": "Ruan",
+                    "score_update": "1 - 0",
+                    "team": "Atletico MG",
+                    "time": "45+1'"
+                },
+                {
+                    "assist": "R. Nestor",
+                    "event_type": "Goal",
+                    "player": "A. Santos",
+                    "score_update": "1 - 1",
+                    "team": "Bahia",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Z. Guilherme",
+                    "team": "Bahia",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Conrado",
+                    "team": "Bahia",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "21/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico MG 1 - 1 Bahia"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Remo 2 - 1 Bahia"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 1 - 2 Cruzeiro"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        }
+                    ],
+                    "team": "Bahia"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "21/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico MG 1 - 1 Bahia"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "27/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 1 - 0 Academia Puerto Cabello"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 2 - 0 Cienciano"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 3 - 1 Mirassol"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "05/11/2025",
+                        "teams_and_score": "Atletico MG 3 - 0 Bahia"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "15/09/2024",
+                        "teams_and_score": "Bahia 3 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "07/12/2023",
+                        "teams_and_score": "Bahia 4 - 1 Atletico MG"
+                    },
+                    {
+                        "competition": "Serie A 2021",
+                        "date": "02/12/2021",
+                        "teams_and_score": "Bahia 2 - 3 Atletico MG"
+                    },
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "05/08/2021",
+                        "teams_and_score": "Bahia 2 - 1 Atletico MG"
+                    },
+                    {
+                        "competition": "Serie A 2021",
+                        "date": "25/07/2021",
+                        "teams_and_score": "Atletico MG 3 - 0 Bahia"
+                    }
+                ],
+                "summary": {
+                    "Atletico MG_wins": "3",
+                    "Bahia_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atletico MG": "50%",
+                    "Bahia": "50%"
+                },
+                "corners": {
+                    "Atletico MG": "6",
+                    "Bahia": "4"
+                },
+                "fouls": {
+                    "Atletico MG": "4",
+                    "Bahia": "12"
+                },
+                "goalkeeper_saves": {
+                    "Atletico MG": "3",
+                    "Bahia": "3"
+                },
+                "offsides": {
+                    "Atletico MG": "2",
+                    "Bahia": "1"
+                },
+                "shots_blocked": {
+                    "Atletico MG": "4",
+                    "Bahia": "5"
+                },
+                "shots_off_target": {
+                    "Atletico MG": "8",
+                    "Bahia": "12"
+                },
+                "shots_on_target": {
+                    "Atletico MG": "4",
+                    "Bahia": "4"
+                },
+                "yellow_cards": {
+                    "Atletico MG": "0",
+                    "Bahia": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/atletico-mineiro-bahia-2026-07-22_mNIgI.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/118.webp",
+                    "name": "Bahia",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-mineiro-bahia-2026-07-22-R6ef.webp",
+            "title": "Atlético Mineiro - Bahia"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 27, 2026",
+            "description": "Watch Atletico MG vs Flamengo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 27, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "S. Lino",
+                    "event_type": "Goal",
+                    "player": "Pedro",
+                    "score_update": "0 - 1",
+                    "team": "Flamengo",
+                    "time": "8'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Varela",
+                    "team": "Flamengo",
+                    "time": "26'"
+                },
+                {
+                    "assist": "S. Lino",
+                    "event_type": "Goal",
+                    "player": "G. Plata",
+                    "score_update": "0 - 2",
+                    "team": "Flamengo",
+                    "time": "31'"
+                },
+                {
+                    "assist": "G. Varela",
+                    "event_type": "Goal",
+                    "player": "G. d. Arrascaeta",
+                    "score_update": "0 - 3",
+                    "team": "Flamengo",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Lino",
+                    "team": "Flamengo",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Perez",
+                    "team": "Atletico MG",
+                    "time": "46'"
+                },
+                {
+                    "assist": "E. Araujo",
+                    "event_type": "Goal",
+                    "player": "Pedro",
+                    "score_update": "0 - 4",
+                    "team": "Flamengo",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 0 - 4 Flamengo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "23/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Flamengo 2 - 1 Vitoria"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Flamengo 2 - 0 Bahia"
+                        },
+                        {
+                            "competition": "Group A",
+                            "date": "17/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Flamengo 4 - 1 Independiente Medellin"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Fluminense 1 - 2 Flamengo"
+                        }
+                    ],
+                    "team": "Flamengo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico MG 0 - 4 Flamengo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "23/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 2 - 1 Ceara"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Coritiba 2 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 2 - 1 Juventud de las Piedras"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Santos FC 1 - 0 Atletico MG"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "26/11/2025",
+                        "teams_and_score": "Atletico MG 1 - 1 Flamengo"
+                    },
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "06/08/2025",
+                        "teams_and_score": "Atletico MG 0 - 1 Flamengo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "27/07/2025",
+                        "teams_and_score": "Flamengo 1 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "13/11/2024",
+                        "teams_and_score": "Flamengo 0 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "10/11/2024",
+                        "teams_and_score": "Atletico MG 0 - 1 Flamengo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "04/07/2024",
+                        "teams_and_score": "Atletico MG 2 - 4 Flamengo"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "29/11/2023",
+                        "teams_and_score": "Flamengo 0 - 3 Atletico MG"
+                    }
+                ],
+                "summary": {
+                    "Atletico MG_wins": "1",
+                    "Flamengo_wins": "4",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atletico MG": "51%",
+                    "Flamengo": "49%"
+                },
+                "corners": {
+                    "Atletico MG": "8",
+                    "Flamengo": "1"
+                },
+                "fouls": {
+                    "Atletico MG": "10",
+                    "Flamengo": "13"
+                },
+                "goalkeeper_saves": {
+                    "Atletico MG": "2",
+                    "Flamengo": "4"
+                },
+                "offsides": {
+                    "Atletico MG": "1",
+                    "Flamengo": "2"
+                },
+                "shots_off_target": {
+                    "Atletico MG": "5",
+                    "Flamengo": "1"
+                },
+                "shots_on_target": {
+                    "Atletico MG": "6",
+                    "Flamengo": "6"
+                },
+                "yellow_cards": {
+                    "Atletico MG": "1",
+                    "Flamengo": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/atletico-mineiro-flamengo-2026-04-27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/127.webp",
+                    "name": "Flamengo",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-mineiro-flamengo-2026-04-27-xVo5.webp",
+            "title": "Atlético Mineiro - Flamengo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 24, 2026",
+            "description": "Watch Corinthians vs Atletico MG highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 24, 2026. A tactical battle in the heart of Brazil On May 24, 2026, the stage was set for a high-stakes encounter in the Brazilian Serie A as Corinthians faced off against Atlético Mineiro . The match developed into a hard-fought affair, characterized by relentless pressure and a tactical tug-of-war that kept the spectators on the edge of their seats. First half grit and intensity The opening period was defined by intense physical duels across the pitch. Referee intervention became necessary as early as the 37th minute, when Tomas Cuello received a yellow card for a hard challenge. Despite both sides pushing for an opening, the defensive discipline remained intact, leading to a goalless conclusion to the first half. Managers looked to the bench immediately after the restart, with Kaio replacing Jesse Lingard to inject fresh impetus into the second half. The late decisive moment As the game progressed into the final stages, the frustration mounted on both sides, resulting in cautions for Ruan and Yuri Alberto . Recognizing the need for a spark, Corinthians introduced Zakaria Labyad in the 77th minute. The move proved to be the masterstroke of the match. In the 88th minute, Matheuzinho orchestrated the decisive play, providing a clinical assist for Zakaria Labyad . With the goal secured, Corinthians held firm until the final whistle at 90+9 minutes. It was a testament to the team's persistence, overcoming a stubborn opponent in the closing moments of a thrilling sports spectacle.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Cuello",
+                    "team": "Atletico MG",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Ruan",
+                    "team": "Atletico MG",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Alberto",
+                    "team": "Corinthians",
+                    "time": "61'"
+                },
+                {
+                    "assist": "Matheuzinho",
+                    "event_type": "Goal",
+                    "player": "Z. Labyad",
+                    "score_update": "1 - 0",
+                    "team": "Corinthians",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 2 - 0 Cienciano"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 3 - 1 Mirassol"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Ceara 2 - 1 Atletico MG"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico MG 1 - 1 Botafogo FR"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "22/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Club Atletico Penarol 1 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 3 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 1 - 0 Barra FC"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 3 - 2 Sao Paulo"
+                        }
+                    ],
+                    "team": "Corinthians"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "18/10/2025",
+                        "teams_and_score": "Corinthians 1 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "28/07/2024",
+                        "teams_and_score": "Atletico MG 2 - 1 Corinthians"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "09/11/2023",
+                        "teams_and_score": "Corinthians 1 - 1 Atletico MG"
+                    },
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "01/06/2023",
+                        "teams_and_score": "Corinthians 2 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Serie A 2022",
+                        "date": "13/11/2022",
+                        "teams_and_score": "Corinthians 0 - 1 Atletico MG"
+                    }
+                ],
+                "summary": {
+                    "Atletico MG_wins": "2",
+                    "Corinthians_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atletico MG": "42%",
+                    "Corinthians": "58%"
+                },
+                "corners": {
+                    "Atletico MG": "0",
+                    "Corinthians": "3"
+                },
+                "fouls": {
+                    "Atletico MG": "14",
+                    "Corinthians": "15"
+                },
+                "goalkeeper_saves": {
+                    "Atletico MG": "3",
+                    "Corinthians": "2"
+                },
+                "offsides": {
+                    "Atletico MG": "2",
+                    "Corinthians": "3"
+                },
+                "shots_blocked": {
+                    "Atletico MG": "5",
+                    "Corinthians": "2"
+                },
+                "shots_off_target": {
+                    "Atletico MG": "4",
+                    "Corinthians": "4"
+                },
+                "shots_on_target": {
+                    "Atletico MG": "2",
+                    "Corinthians": "4"
+                },
+                "yellow_cards": {
+                    "Atletico MG": "2",
+                    "Corinthians": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/corinthians-atletico-mineiro-2026-05-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/131.webp",
+                    "name": "Corinthians",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/corinthians-atletico-mineiro-2026-05-24-25GB.webp",
+            "title": "Corinthians - Atlético Mineiro"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 19, 2026",
+            "description": "Watch Coritiba vs Atletico MG highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 19, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "Breno",
+                    "score_update": "1 - 0",
+                    "team": "Coritiba",
+                    "time": "7'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Gomez",
+                    "team": "Coritiba",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Rocha",
+                    "score_update": "2 - 0",
+                    "team": "Coritiba",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Lyanco",
+                    "team": "Atletico MG",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Santos",
+                    "team": "Coritiba",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "R. Marques",
+                    "team": "Coritiba",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "R. Lodi",
+                    "team": "Atletico MG",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Coritiba 2 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 2 - 1 Juventud de las Piedras"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Santos FC 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Academia Puerto Cabello 2 - 1 Atletico MG"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 2 - 1 Athletico Paranaense"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Coritiba 2 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Paranaense: Play-offs",
+                            "date": "21/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Coritiba 2 - 2 Operario Ferroviario"
+                        }
+                    ],
+                    "team": "Coritiba"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "08/10/2023",
+                        "teams_and_score": "Atletico MG 1 - 2 Coritiba"
+                    },
+                    {
+                        "competition": "Serie A 2022",
+                        "date": "14/08/2022",
+                        "teams_and_score": "Coritiba 0 - 1 Atletico MG"
+                    },
+                    {
+                        "competition": "Serie A 2020",
+                        "date": "26/12/2020",
+                        "teams_and_score": "Atletico MG 2 - 0 Coritiba"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "19/11/2017",
+                        "teams_and_score": "Atletico MG 3 - 0 Coritiba"
+                    }
+                ],
+                "summary": {
+                    "Atletico MG_wins": "3",
+                    "Coritiba_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atletico MG": "75%",
+                    "Coritiba": "25%"
+                },
+                "corners": {
+                    "Atletico MG": "8",
+                    "Coritiba": "2"
+                },
+                "fouls": {
+                    "Atletico MG": "10",
+                    "Coritiba": "18"
+                },
+                "goalkeeper_saves": {
+                    "Atletico MG": "0",
+                    "Coritiba": "8"
+                },
+                "offsides": {
+                    "Atletico MG": "1",
+                    "Coritiba": "3"
+                },
+                "red_cards": {
+                    "Atletico MG": "1",
+                    "Coritiba": "1"
+                },
+                "shots_off_target": {
+                    "Atletico MG": "7",
+                    "Coritiba": "0"
+                },
+                "shots_on_target": {
+                    "Atletico MG": "8",
+                    "Coritiba": "2"
+                },
+                "yellow_cards": {
+                    "Atletico MG": "1",
+                    "Coritiba": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/coritiba-atletico-mineiro-2026-04-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/147.webp",
+                    "name": "Coritiba",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/coritiba-atletico-mineiro-2026-04-19-ubx0.webp",
+            "title": "Coritiba - Atletico Mineiro"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 3, 2026",
+            "description": "Watch Cruzeiro vs Atletico MG highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 3, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Ruan",
+                    "team": "Atletico MG",
+                    "time": "5'"
+                },
+                {
+                    "assist": "M. Cassierra",
+                    "event_type": "Goal",
+                    "player": "A. Minda",
+                    "score_update": "0 - 1",
+                    "team": "Atletico MG",
+                    "time": "12'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Barberan",
+                    "score_update": "0 - 2",
+                    "team": "Atletico MG",
+                    "time": "32'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Franco",
+                    "team": "Atletico MG",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Christian",
+                    "team": "Cruzeiro",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Lyanco",
+                    "team": "Atletico MG",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Arroyo",
+                    "team": "Cruzeiro",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "K. Arroyo",
+                    "team": "Cruzeiro",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Cassierra",
+                    "team": "Atletico MG",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Pereira",
+                    "team": "Cruzeiro",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Pereira",
+                    "team": "Cruzeiro",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Reinier",
+                    "team": "Atletico MG",
+                    "time": "106'"
+                },
+                {
+                    "assist": "R. Lodi",
+                    "event_type": "Goal",
+                    "player": "M. Cassierra",
+                    "score_update": "0 - 3",
+                    "team": "Atletico MG",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "K. B. Kaiki",
+                    "team": "Cruzeiro",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "Lyanco",
+                    "team": "Atletico MG",
+                    "time": "136'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Alonso",
+                    "team": "Atletico MG",
+                    "time": "151'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Jorge",
+                    "score_update": "1 - 2",
+                    "team": "Cruzeiro",
+                    "time": "166'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Cruzeiro 1 - 3 Atletico MG"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "30/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Cienciano 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico MG 0 - 4 Flamengo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "23/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 2 - 1 Ceara"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Coritiba 2 - 0 Atletico MG"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Cruzeiro 1 - 3 Atletico MG"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "29/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cruzeiro 1 - 0 Boca Juniors"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Remo 0 - 1 Cruzeiro"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Goias 2 - 2 Cruzeiro"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cruzeiro 2 - 0 Gremio"
+                        }
+                    ],
+                    "team": "Cruzeiro"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Mineiro: Play-off",
+                        "date": "08/03/2026",
+                        "teams_and_score": "Cruzeiro 1 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Mineiro",
+                        "date": "25/01/2026",
+                        "teams_and_score": "Atletico MG 2 - 1 Cruzeiro"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "16/10/2025",
+                        "teams_and_score": "Atletico MG 1 - 1 Cruzeiro"
+                    },
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "11/09/2025",
+                        "teams_and_score": "Cruzeiro 2 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "18/05/2025",
+                        "teams_and_score": "Cruzeiro 0 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Mineiro",
+                        "date": "09/02/2025",
+                        "teams_and_score": "Cruzeiro 0 - 2 Atletico MG"
+                    },
+                    {
+                        "competition": "Club Friendlies 2025",
+                        "date": "18/01/2025",
+                        "teams_and_score": "Atletico MG 0 - 0 Cruzeiro"
+                    }
+                ],
+                "summary": {
+                    "Atletico MG_wins": "2",
+                    "Cruzeiro_wins": "2",
+                    "draws": "4"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atletico MG": "31%",
+                    "Cruzeiro": "69%"
+                },
+                "corners": {
+                    "Atletico MG": "1",
+                    "Cruzeiro": "5"
+                },
+                "fouls": {
+                    "Atletico MG": "17",
+                    "Cruzeiro": "15"
+                },
+                "goalkeeper_saves": {
+                    "Atletico MG": "1",
+                    "Cruzeiro": "1"
+                },
+                "red_cards": {
+                    "Atletico MG": "1",
+                    "Cruzeiro": "2"
+                },
+                "shots_blocked": {
+                    "Atletico MG": "1",
+                    "Cruzeiro": "6"
+                },
+                "shots_off_target": {
+                    "Atletico MG": "1",
+                    "Cruzeiro": "6"
+                },
+                "shots_on_target": {
+                    "Atletico MG": "4",
+                    "Cruzeiro": "2"
+                },
+                "yellow_cards": {
+                    "Atletico MG": "6",
+                    "Cruzeiro": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cruzeiro-athletico-mineiro-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/135.webp",
+                    "name": "Cruzeiro",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cruzeiro-athletico-mineiro-2026-05-03-OQGe.webp",
+            "title": "Cruzeiro - Athletico Mineiro"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 9, 2026",
+            "description": "Watch Cruzeiro vs Atletico MG highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 9, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "K. Jorge",
+                    "score_update": "1 - 0",
+                    "team": "Cruzeiro",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Mineiro: Play-off",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Cruzeiro 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Gremio 2 - 1 Atletico MG"
+                        },
+                        {
+                            "competition": "Mineiro: Play-off",
+                            "date": "22/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico MG 1 - 1 America MG"
+                        },
+                        {
+                            "competition": "Mineiro",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Itabirito 2 - 7 Atletico MG"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "11/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico MG 3 - 3 Remo"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Mineiro: Play-off",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Cruzeiro 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Cruzeiro 1 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Mineiro: Play-off",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Pouso Alegre 1 - 2 Cruzeiro"
+                        },
+                        {
+                            "competition": "Mineiro",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Urt MG 1 - 2 Cruzeiro"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "11/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Mirassol 2 - 2 Cruzeiro"
+                        }
+                    ],
+                    "team": "Cruzeiro"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Mineiro",
+                        "date": "25/01/2026",
+                        "teams_and_score": "Atletico MG 2 - 1 Cruzeiro"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "16/10/2025",
+                        "teams_and_score": "Atletico MG 1 - 1 Cruzeiro"
+                    },
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "11/09/2025",
+                        "teams_and_score": "Cruzeiro 2 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "18/05/2025",
+                        "teams_and_score": "Cruzeiro 0 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Mineiro",
+                        "date": "09/02/2025",
+                        "teams_and_score": "Cruzeiro 0 - 2 Atletico MG"
+                    },
+                    {
+                        "competition": "Club Friendlies 2025",
+                        "date": "18/01/2025",
+                        "teams_and_score": "Atletico MG 0 - 0 Cruzeiro"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "11/08/2024",
+                        "teams_and_score": "Cruzeiro 0 - 0 Atletico MG"
+                    }
+                ],
+                "summary": {
+                    "Atletico MG_wins": "3",
+                    "Cruzeiro_wins": "1",
+                    "draws": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cruzeiro-vs-atletico-mg-2026-03-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/135.webp",
+                    "name": "Cruzeiro",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cruzeiro-vs-atletico-mg-2026-03-09-PE5v.webp",
+            "title": "Cruzeiro vs Atletico-MG"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 22, 2026",
+            "description": "Watch Fluminense vs Atletico MG highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 22, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Acosta",
+                    "team": "Fluminense",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Roman",
+                    "team": "Atletico MG",
+                    "time": "1'"
+                },
+                {
+                    "assist": "A. Canobbio",
+                    "event_type": "Goal",
+                    "player": "R. Castillo",
+                    "score_update": "1 - 0",
+                    "team": "Fluminense",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Arana",
+                    "team": "Fluminense",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Hulk",
+                    "team": "Atletico MG",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Alonso",
+                    "team": "Atletico MG",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Ruan",
+                    "team": "Atletico MG",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Canobbio",
+                    "team": "Fluminense",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Martinelli",
+                    "team": "Fluminense",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Jemmes",
+                    "team": "Fluminense",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Franco",
+                    "team": "Atletico MG",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Fluminense 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Mineiro: Play-off",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Cruzeiro 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Gremio 2 - 1 Atletico MG"
+                        },
+                        {
+                            "competition": "Mineiro: Play-off",
+                            "date": "22/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico MG 1 - 1 America MG"
+                        },
+                        {
+                            "competition": "Mineiro",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Itabirito 2 - 7 Atletico MG"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Fluminense 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Carioca Taca Guanabara: Play-off",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Fluminense 0 - 0 Flamengo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Palmeiras 2 - 1 Fluminense"
+                        },
+                        {
+                            "competition": "Carioca Taca Guanabara: Play-off",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Vasco da Gama 0 - 1 Fluminense"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Fluminense 1 - 0 Botafogo FR"
+                        }
+                    ],
+                    "team": "Fluminense"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "04/10/2025",
+                        "teams_and_score": "Fluminense 3 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Quarter-Finals",
+                        "date": "25/09/2024",
+                        "teams_and_score": "Atletico MG 2 - 0 Fluminense"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "25/08/2024",
+                        "teams_and_score": "Atletico MG 0 - 2 Fluminense"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "29/10/2023",
+                        "teams_and_score": "Atletico MG 2 - 0 Fluminense"
+                    },
+                    {
+                        "competition": "Serie A 2022",
+                        "date": "01/10/2022",
+                        "teams_and_score": "Atletico MG 2 - 0 Fluminense"
+                    }
+                ],
+                "summary": {
+                    "Atletico MG_wins": "3",
+                    "Fluminense_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atletico MG": "44%",
+                    "Fluminense": "56%"
+                },
+                "corners": {
+                    "Atletico MG": "2",
+                    "Fluminense": "3"
+                },
+                "fouls": {
+                    "Atletico MG": "14",
+                    "Fluminense": "17"
+                },
+                "goalkeeper_saves": {
+                    "Atletico MG": "2",
+                    "Fluminense": "4"
+                },
+                "shots_off_target": {
+                    "Atletico MG": "5",
+                    "Fluminense": "8"
+                },
+                "shots_on_target": {
+                    "Atletico MG": "4",
+                    "Fluminense": "3"
+                },
+                "yellow_cards": {
+                    "Atletico MG": "5",
+                    "Fluminense": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fluminense-atletico-mineiro-2026-03-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/124.webp",
+                    "name": "Fluminense",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fluminense-atletico-mineiro-2026-03-22-YwL4.webp",
+            "title": "Fluminense - Atletico Mineiro"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 12, 2026",
+            "description": "Watch Santos vs Atletico MG highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 12, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Escobar",
+                    "team": "Santos",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Barbosa",
+                    "team": "Santos",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Peres",
+                    "team": "Santos",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Lyanco",
+                    "team": "Atletico MG",
+                    "time": "46'"
+                },
+                {
+                    "assist": "G. Barbosa",
+                    "event_type": "Goal",
+                    "player": "M. Moises",
+                    "score_update": "1 - 0",
+                    "team": "Santos",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Santos FC 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Academia Puerto Cabello 2 - 1 Atletico MG"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 2 - 1 Athletico Paranaense"
+                        },
+                        {
+                            "competition": "Mineiro: Play-off",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Cruzeiro 1 - 0 Atletico MG"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Santos FC 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "08/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo Cuenca 1 - 0 Santos FC"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Flamengo 3 - 1 Santos FC"
+                        },
+                        {
+                            "competition": "Paulista A1: Play-off",
+                            "date": "22/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Novorizontino 2 - 1 Santos FC"
+                        }
+                    ],
+                    "team": "Santos"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "14/09/2025",
+                        "teams_and_score": "Atletico MG 1 - 1 Santos FC"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "27/08/2023",
+                        "teams_and_score": "Atletico MG 2 - 0 Santos FC"
+                    },
+                    {
+                        "competition": "Serie A 2022",
+                        "date": "06/10/2022",
+                        "teams_and_score": "Santos FC 1 - 2 Atletico MG"
+                    },
+                    {
+                        "competition": "Serie A 2021",
+                        "date": "13/10/2021",
+                        "teams_and_score": "Atletico MG 3 - 1 Santos FC"
+                    },
+                    {
+                        "competition": "Serie A 2020",
+                        "date": "26/01/2021",
+                        "teams_and_score": "Atletico MG 2 - 0 Santos FC"
+                    }
+                ],
+                "summary": {
+                    "Atletico MG_wins": "4",
+                    "Santos_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atletico MG": "53%",
+                    "Santos": "47%"
+                },
+                "corners": {
+                    "Atletico MG": "7",
+                    "Santos": "5"
+                },
+                "fouls": {
+                    "Atletico MG": "17",
+                    "Santos": "8"
+                },
+                "goalkeeper_saves": {
+                    "Atletico MG": "2",
+                    "Santos": "3"
+                },
+                "offsides": {
+                    "Atletico MG": "0",
+                    "Santos": "2"
+                },
+                "shots_off_target": {
+                    "Atletico MG": "3",
+                    "Santos": "6"
+                },
+                "shots_on_target": {
+                    "Atletico MG": "3",
+                    "Santos": "3"
+                },
+                "yellow_cards": {
+                    "Atletico MG": "1",
+                    "Santos": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/santos-atletico-mineiro-2026-04-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/128.webp",
+                    "name": "Santos",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/santos-atletico-mineiro-2026-04-12-omfi.webp",
+            "title": "Santos - Atlético Mineiro"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 31, 2026",
+            "description": "Watch ABC vs Atletico MG highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 31, 2026. The atmosphere was electric as two of Brazil's football heavyweights met in a clash that promised intensity from the first whistle. Fans gathered to witness a tactical battle where every inch of the pitch was fiercely contested. Vitor Hugo Breaks the Deadlock On May 31, 2026, Vasco hosted Atlético Mineiro in a high-stakes Serie A encounter. The game started with high energy, but the deadlock was broken in the 33rd minute. Bernard , showing his trademark vision, provided a perfect assist for Vitor Hugo , who found the back of the net to put the visitors ahead. The momentum shifted immediately, and the physicality increased, resulting in a yellow card for Cauan Barros just a minute after the opening goal. Tactical Adjustments in the Second Half The second half saw both managers turning to their benches to find fresh solutions as the pace of the match remained relentless. Atlético Mineiro brought on Alexsander Gomes and Mamady Cisse to replace the goalscorer Vitor Hugo and the architect Bernard . Vasco responded with their own changes, introducing players like David and Bruno Lopes to chase the equalizer, piling pressure on the visitors' defensive line. Late Drama and Defensive Resilience As the match reached its final stages, Vasco made a bold quadruple substitution in the 80th minute, bringing on Caua Campos , Kaua Pascini , Lukas Zuccarello , and Paulo Henrique in a desperate attempt to salvage a point. The intensity boiled over in the 88th minute when Ivan Roman received a yellow card. Despite six minutes of stoppage time and significant pressure from the home side, Atlético Mineiro held firm to protect their lead until the final whistle.",
+            "events_timeline": [
+                {
+                    "assist": "Bernard",
+                    "event_type": "Goal",
+                    "player": "V. Hugo",
+                    "score_update": "0 - 1",
+                    "team": "Atletico MG",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Barros",
+                    "team": "ABC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Roman",
+                    "team": "Atletico MG",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "31/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Vasco da Gama 0 - 1 Atletico MG"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "27/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 1 - 0 Academia Puerto Cabello"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 2 - 0 Cienciano"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 3 - 1 Mirassol"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "31/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Vasco da Gama 0 - 1 Atletico MG"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "27/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Vasco da Gama 3 - 0 Barracas Central"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Vasco da Gama 0 - 3 RB Bragantino"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "20/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Olimpia 3 - 1 Vasco da Gama"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Internacional 4 - 1 Vasco da Gama"
+                        }
+                    ],
+                    "team": "ABC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "07/12/2025",
+                        "teams_and_score": "Atletico MG 5 - 0 Vasco da Gama"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "04/12/2024",
+                        "teams_and_score": "Vasco da Gama 2 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "19/10/2024",
+                        "teams_and_score": "Vasco da Gama 1 - 1 Atletico MG"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "21/07/2024",
+                        "teams_and_score": "Atletico MG 2 - 0 Vasco da Gama"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "20/08/2023",
+                        "teams_and_score": "Vasco da Gama 1 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Serie A 2020",
+                        "date": "24/01/2021",
+                        "teams_and_score": "Vasco da Gama 3 - 2 Atletico MG"
+                    }
+                ],
+                "summary": {
+                    "ABC_wins": "0",
+                    "Atletico MG_wins": "5",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "ABC": "61%",
+                    "Atletico MG": "39%"
+                },
+                "corners": {
+                    "ABC": "3",
+                    "Atletico MG": "4"
+                },
+                "fouls": {
+                    "ABC": "18",
+                    "Atletico MG": "15"
+                },
+                "goalkeeper_saves": {
+                    "ABC": "3",
+                    "Atletico MG": "8"
+                },
+                "offsides": {
+                    "ABC": "1",
+                    "Atletico MG": "2"
+                },
+                "shots_blocked": {
+                    "ABC": "9",
+                    "Atletico MG": "3"
+                },
+                "shots_off_target": {
+                    "ABC": "8",
+                    "Atletico MG": "3"
+                },
+                "shots_on_target": {
+                    "ABC": "8",
+                    "Atletico MG": "4"
+                },
+                "yellow_cards": {
+                    "ABC": "1",
+                    "Atletico MG": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/vasco-atletico-mineiro-2026-05-31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/754.webp",
+                    "name": "ABC",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/vasco-atletico-mineiro-2026-05-31-XE6w.webp",
+            "title": "Vasco - Atlético Mineiro"
+        }
+    ]
+}

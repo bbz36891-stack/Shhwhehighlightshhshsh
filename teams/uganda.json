@@ -1,0 +1,77 @@
+{
+    "team": "Uganda",
+    "team_logo": "",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "Africa Cup of Nations",
+            "competition_cover": "https://refooty.com/covers/africa-cup-of-nations.webp",
+            "date": "Dec 23, 2025",
+            "description": "Watch Tunisia vs Uganda highlights and goals from Africa Cup of Nations on ReFooty: Football Highlights Hub. Match played on December 23, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Tunisia_v_Uganda_2025_12_23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/tunisia-v-uganda-2025-12-23.webp",
+            "title": "Tunisia vs Uganda"
+        },
+        {
+            "competition": "Africa Cup of Nations",
+            "competition_cover": "https://refooty.com/covers/africa-cup-of-nations.webp",
+            "date": "Dec 30, 2025",
+            "description": "Watch Uganda vs Nigeria highlights and goals from Africa Cup of Nations on ReFooty: Football Highlights Hub. Match played on December 30, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Uganda_v_Nigeria_2025_12_30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/uganda-v-nigeria-2025-12-30.webp",
+            "title": "Uganda vs Nigeria"
+        }
+    ]
+}

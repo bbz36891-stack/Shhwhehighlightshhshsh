@@ -1,0 +1,3542 @@
+{
+    "team": "Bologna",
+    "team_logo": "https://img.refooty.com/logo/teams/500.webp",
+    "total_matches": 30,
+    "matches": [
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Mar 19, 2026",
+            "description": "Watch AS Roma vs Bologna highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on March 19, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "S. Castro",
+                    "event_type": "Goal",
+                    "player": "J. Rowe",
+                    "score_update": "0 - 1",
+                    "team": "Bologna",
+                    "time": "22'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Vitík",
+                    "team": "Bologna",
+                    "time": "26'"
+                },
+                {
+                    "assist": "L. Pellegrini",
+                    "event_type": "Goal",
+                    "player": "E. Ndicka",
+                    "score_update": "1 - 1",
+                    "team": "AS Roma",
+                    "time": "32'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Bernardeschi",
+                    "score_update": "1 - 2",
+                    "team": "Bologna",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Z. Çelik",
+                    "team": "AS Roma",
+                    "time": "46'"
+                },
+                {
+                    "assist": "J. Rowe",
+                    "event_type": "Goal",
+                    "player": "S. Castro",
+                    "score_update": "1 - 3",
+                    "team": "Bologna",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Malen",
+                    "score_update": "2 - 3",
+                    "team": "AS Roma",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Zortea",
+                    "team": "Bologna",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Lucumí",
+                    "team": "Bologna",
+                    "time": "106'"
+                },
+                {
+                    "assist": "R. Vaz",
+                    "event_type": "Goal",
+                    "player": "L. Pellegrini",
+                    "score_update": "3 - 3",
+                    "team": "AS Roma",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Gasperini",
+                    "team": "AS Roma",
+                    "time": "136'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Freuler",
+                    "team": "Bologna",
+                    "time": "108'"
+                },
+                {
+                    "assist": "T. Dallinga",
+                    "event_type": "Goal",
+                    "player": "N. Cambiaghi",
+                    "score_update": "3 - 4",
+                    "team": "Bologna",
+                    "time": "111'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Ferguson",
+                    "team": "Bologna",
+                    "time": "116'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Mancini",
+                    "team": "AS Roma",
+                    "time": "120+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AS Roma 3 - 4 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sassuolo 0 - 1 Bologna"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Bologna 1 - 1 AS Roma"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 1 - 2 Hellas Verona"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 1 - 0 Brann"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "L",
+                            "teams_and_score": "AS Roma 3 - 4 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Como 1907 2 - 1 AS Roma"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Bologna 1 - 1 AS Roma"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Genoa 2 - 1 AS Roma"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Panathinaikos 1 - 1 AS Roma"
+                        }
+                    ],
+                    "team": "AS Roma"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Knockout Stage",
+                        "date": "12/03/2026",
+                        "teams_and_score": "Bologna 1 - 1 AS Roma"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "23/08/2025",
+                        "teams_and_score": "AS Roma 1 - 0 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "12/01/2025",
+                        "teams_and_score": "Bologna 2 - 2 AS Roma"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "22/04/2024",
+                        "teams_and_score": "AS Roma 1 - 3 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "14/05/2023",
+                        "teams_and_score": "Bologna 0 - 0 AS Roma"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "01/05/2022",
+                        "teams_and_score": "AS Roma 0 - 0 Bologna"
+                    }
+                ],
+                "summary": {
+                    "AS Roma_wins": "1",
+                    "Bologna_wins": "1",
+                    "draws": "4"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AS Roma": "61%",
+                    "Bologna": "39%"
+                },
+                "corners": {
+                    "AS Roma": "8",
+                    "Bologna": "4"
+                },
+                "crosses": {
+                    "AS Roma": "10",
+                    "Bologna": "1"
+                },
+                "fouls": {
+                    "AS Roma": "21",
+                    "Bologna": "27"
+                },
+                "goalkeeper_saves": {
+                    "AS Roma": "5",
+                    "Bologna": "4"
+                },
+                "offsides": {
+                    "AS Roma": "3",
+                    "Bologna": "1"
+                },
+                "shots_blocked": {
+                    "AS Roma": "7",
+                    "Bologna": "2"
+                },
+                "shots_off_target": {
+                    "AS Roma": "10",
+                    "Bologna": "3"
+                },
+                "shots_on_target": {
+                    "AS Roma": "7",
+                    "Bologna": "9"
+                },
+                "yellow_cards": {
+                    "AS Roma": "2",
+                    "Bologna": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/AS_Roma_v_Bologna_2026_03_19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/497.webp",
+                    "name": "AS Roma",
+                    "score": "3"
+                },
+                "status": "AET"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/as-roma-v-bologna-2026-03-19-ndwU.webp",
+            "title": "AS Roma vs Bologna"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Apr 16, 2026",
+            "description": "Watch Aston Villa vs Bologna highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on April 16, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "M. Rogers",
+                    "event_type": "Goal",
+                    "player": "O. Watkins",
+                    "score_update": "1 - 0",
+                    "team": "Aston Villa",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Rogers",
+                    "score_update": "1 - 0",
+                    "team": "Aston Villa",
+                    "time": "16'"
+                },
+                {
+                    "assist": "L. Digne",
+                    "event_type": "Goal",
+                    "player": "E. Buendía",
+                    "score_update": "2 - 0",
+                    "team": "Aston Villa",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Bernardeschi",
+                    "team": "Bologna",
+                    "time": "46'"
+                },
+                {
+                    "assist": "J. McGinn",
+                    "event_type": "Goal",
+                    "player": "M. Rogers",
+                    "score_update": "3 - 0",
+                    "team": "Aston Villa",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Konsa",
+                    "score_update": "4 - 0",
+                    "team": "Aston Villa",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aston Villa 4 - 0 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 2 - 0 Lecce"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 1 - 3 Aston Villa"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cremonese 1 - 2 Bologna"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AS Roma 3 - 4 Bologna"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Aston Villa 4 - 0 Bologna"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "12/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Nottingham Forest 1 - 1 Aston Villa"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "09/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 1 - 3 Aston Villa"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Aston Villa 2 - 0 West Ham United"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Aston Villa 2 - 0 Lille"
+                        }
+                    ],
+                    "team": "Aston Villa"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Knockout Stage",
+                        "date": "09/04/2026",
+                        "teams_and_score": "Bologna 1 - 3 Aston Villa"
+                    },
+                    {
+                        "competition": "League Stage",
+                        "date": "25/09/2025",
+                        "teams_and_score": "Aston Villa 1 - 0 Bologna"
+                    },
+                    {
+                        "competition": "League Stage 24/25",
+                        "date": "22/10/2024",
+                        "teams_and_score": "Aston Villa 2 - 0 Bologna"
+                    }
+                ],
+                "summary": {
+                    "Aston Villa_wins": "3",
+                    "Bologna_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aston Villa": "46%",
+                    "Bologna": "54%"
+                },
+                "corners": {
+                    "Aston Villa": "4",
+                    "Bologna": "2"
+                },
+                "crosses": {
+                    "Aston Villa": "1",
+                    "Bologna": "4"
+                },
+                "fouls": {
+                    "Aston Villa": "13",
+                    "Bologna": "17"
+                },
+                "goalkeeper_saves": {
+                    "Aston Villa": "3",
+                    "Bologna": "3"
+                },
+                "offsides": {
+                    "Aston Villa": "0",
+                    "Bologna": "1"
+                },
+                "shots_blocked": {
+                    "Aston Villa": "5",
+                    "Bologna": "4"
+                },
+                "shots_off_target": {
+                    "Aston Villa": "1",
+                    "Bologna": "3"
+                },
+                "shots_on_target": {
+                    "Aston Villa": "7",
+                    "Bologna": "4"
+                },
+                "yellow_cards": {
+                    "Aston Villa": "0",
+                    "Bologna": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Aston_Villa_v_Bologna_2026_04_16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/66.webp",
+                    "name": "Aston Villa",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aston-villa-v-bologna-2026-04-16-3pwZ.webp",
+            "title": "Aston Villa vs Bologna"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Atalanta vs Bologna highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on May 17, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Pobega",
+                    "team": "Bologna",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Pašalić",
+                    "team": "Atalanta",
+                    "time": "61'"
+                },
+                {
+                    "assist": "J. Rowe",
+                    "event_type": "Goal",
+                    "player": "R. Orsolini",
+                    "score_update": "0 - 1",
+                    "team": "Bologna",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atalanta 0 - 1 Bologna"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aston Villa 4 - 0 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 2 - 0 Lecce"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 1 - 3 Aston Villa"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cremonese 1 - 2 Bologna"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Atalanta 0 - 1 Bologna"
+                        },
+                        {
+                            "competition": "Coppa Italia: Semi-Finals",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Atalanta 1 - 1 Lazio"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "AS Roma 1 - 1 Atalanta"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "18/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Bayern Munich 4 - 1 Atalanta"
+                        }
+                    ],
+                    "team": "Atalanta"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "07/01/2026",
+                        "teams_and_score": "Bologna 0 - 2 Atalanta"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "13/04/2025",
+                        "teams_and_score": "Atalanta 2 - 0 Bologna"
+                    },
+                    {
+                        "competition": "Coppa Italia: Quarter-Finals",
+                        "date": "04/02/2025",
+                        "teams_and_score": "Atalanta 0 - 1 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "28/09/2024",
+                        "teams_and_score": "Bologna 1 - 1 Atalanta"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "03/03/2024",
+                        "teams_and_score": "Atalanta 1 - 2 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "08/04/2023",
+                        "teams_and_score": "Atalanta 0 - 2 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "20/03/2022",
+                        "teams_and_score": "Bologna 0 - 1 Atalanta"
+                    }
+                ],
+                "summary": {
+                    "Atalanta_wins": "3",
+                    "Bologna_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atalanta": "45%",
+                    "Bologna": "55%"
+                },
+                "corners": {
+                    "Atalanta": "2",
+                    "Bologna": "5"
+                },
+                "crosses": {
+                    "Atalanta": "5",
+                    "Bologna": "5"
+                },
+                "fouls": {
+                    "Atalanta": "17",
+                    "Bologna": "6"
+                },
+                "goalkeeper_saves": {
+                    "Atalanta": "4",
+                    "Bologna": "1"
+                },
+                "offsides": {
+                    "Atalanta": "3",
+                    "Bologna": "1"
+                },
+                "shots_blocked": {
+                    "Atalanta": "4",
+                    "Bologna": "2"
+                },
+                "shots_off_target": {
+                    "Atalanta": "5",
+                    "Bologna": "3"
+                },
+                "shots_on_target": {
+                    "Atalanta": "1",
+                    "Bologna": "5"
+                },
+                "yellow_cards": {
+                    "Atalanta": "1",
+                    "Bologna": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/atalanta-vs-bologna-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/499.webp",
+                    "name": "Atalanta",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/atalanta-vs-bologna-2026-05-17-tZk6.webp",
+            "title": "Atalanta vs Bologna"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Feb 3, 2026",
+            "description": "Watch Bologna vs AC Milan highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on February 3, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Rabiot",
+                    "event_type": "Goal",
+                    "player": "R. Loftus-Cheek",
+                    "score_update": "0 - 1",
+                    "team": "AC Milan",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Nkunku",
+                    "score_update": "0 - 2",
+                    "team": "AC Milan",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Rabiot",
+                    "score_update": "0 - 3",
+                    "team": "AC Milan",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Ravaglia",
+                    "team": "Bologna",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Freuler",
+                    "team": "Bologna",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Ferguson",
+                    "team": "Bologna",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "03/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 0 - 3 AC Milan"
+                        },
+                        {
+                            "competition": "Super Cup",
+                            "date": "18/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Napoli 2 - 0 AC Milan"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "14/12/2025",
+                            "result": "D",
+                            "teams_and_score": "AC Milan 2 - 2 Sassuolo"
+                        }
+                    ],
+                    "team": "AC Milan"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "03/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 0 - 3 AC Milan"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Maccabi Tel Aviv 0 - 3 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Genoa 3 - 2 Bologna"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Bologna 2 - 2 Celtic"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "18/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 1 - 2 Fiorentina"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "14/09/2025",
+                        "teams_and_score": "AC Milan 1 - 0 Bologna"
+                    },
+                    {
+                        "competition": "Coppa Italia: Final",
+                        "date": "14/05/2025",
+                        "teams_and_score": "AC Milan 0 - 1 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "09/05/2025",
+                        "teams_and_score": "AC Milan 3 - 1 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "27/01/2024",
+                        "teams_and_score": "AC Milan 2 - 2 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "15/04/2023",
+                        "teams_and_score": "Bologna 1 - 1 AC Milan"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "04/04/2022",
+                        "teams_and_score": "AC Milan 0 - 0 Bologna"
+                    }
+                ],
+                "summary": {
+                    "AC Milan_wins": "2",
+                    "Bologna_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AC Milan": "46%",
+                    "Bologna": "54%"
+                },
+                "corners": {
+                    "AC Milan": "0",
+                    "Bologna": "5"
+                },
+                "crosses": {
+                    "AC Milan": "4",
+                    "Bologna": "8"
+                },
+                "fouls": {
+                    "AC Milan": "10",
+                    "Bologna": "14"
+                },
+                "goalkeeper_saves": {
+                    "AC Milan": "2",
+                    "Bologna": "4"
+                },
+                "offsides": {
+                    "AC Milan": "1",
+                    "Bologna": "0"
+                },
+                "shots_blocked": {
+                    "AC Milan": "1",
+                    "Bologna": "2"
+                },
+                "shots_off_target": {
+                    "AC Milan": "2",
+                    "Bologna": "9"
+                },
+                "shots_on_target": {
+                    "AC Milan": "7",
+                    "Bologna": "2"
+                },
+                "yellow_cards": {
+                    "AC Milan": "0",
+                    "Bologna": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_AC_Milan_2026_02_03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/489.webp",
+                    "name": "AC Milan",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-ac-milan-2026-02-03-v92t.webp",
+            "title": "Bologna vs AC Milan"
+        },
+        {
+            "competition": "Coppa Italia",
+            "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
+            "date": "Dec 4, 2025",
+            "description": "Watch Bologna vs Parma highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on December 4, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Parma_2025_12_04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-parma-2025-12-04.webp",
+            "title": "Bologna vs AC Parma"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Apr 25, 2026",
+            "description": "Watch Bologna vs AS Roma highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on April 25, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "N. E. Aynaoui",
+                    "event_type": "Goal",
+                    "player": "D. Malen",
+                    "score_update": "0 - 1",
+                    "team": "AS Roma",
+                    "time": "7'"
+                },
+                {
+                    "assist": "D. Malen",
+                    "event_type": "Goal",
+                    "player": "N. E. Aynaoui",
+                    "score_update": "0 - 2",
+                    "team": "AS Roma",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Hermoso",
+                    "team": "AS Roma",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Rensch",
+                    "team": "AS Roma",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. E. Aynaoui",
+                    "team": "AS Roma",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 0 - 2 AS Roma"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "L",
+                            "teams_and_score": "AS Roma 3 - 4 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Como 1907 2 - 1 AS Roma"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Bologna 1 - 1 AS Roma"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Genoa 2 - 1 AS Roma"
+                        }
+                    ],
+                    "team": "AS Roma"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 0 - 2 AS Roma"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aston Villa 4 - 0 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 2 - 0 Lecce"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 1 - 3 Aston Villa"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cremonese 1 - 2 Bologna"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Knockout Stage",
+                        "date": "19/03/2026",
+                        "teams_and_score": "AS Roma 3 - 4 Bologna"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "23/08/2025",
+                        "teams_and_score": "AS Roma 1 - 0 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "12/01/2025",
+                        "teams_and_score": "Bologna 2 - 2 AS Roma"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "22/04/2024",
+                        "teams_and_score": "AS Roma 1 - 3 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "14/05/2023",
+                        "teams_and_score": "Bologna 0 - 0 AS Roma"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "01/05/2022",
+                        "teams_and_score": "AS Roma 0 - 0 Bologna"
+                    }
+                ],
+                "summary": {
+                    "AS Roma_wins": "1",
+                    "Bologna_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AS Roma": "40%",
+                    "Bologna": "60%"
+                },
+                "corners": {
+                    "AS Roma": "7",
+                    "Bologna": "7"
+                },
+                "crosses": {
+                    "AS Roma": "4",
+                    "Bologna": "3"
+                },
+                "fouls": {
+                    "AS Roma": "16",
+                    "Bologna": "10"
+                },
+                "goalkeeper_saves": {
+                    "AS Roma": "2",
+                    "Bologna": "0"
+                },
+                "offsides": {
+                    "AS Roma": "3",
+                    "Bologna": "2"
+                },
+                "shots_blocked": {
+                    "AS Roma": "3",
+                    "Bologna": "4"
+                },
+                "shots_off_target": {
+                    "AS Roma": "2",
+                    "Bologna": "4"
+                },
+                "shots_on_target": {
+                    "AS Roma": "2",
+                    "Bologna": "2"
+                },
+                "yellow_cards": {
+                    "AS Roma": "3",
+                    "Bologna": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_AS_Roma_2026_04_25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/497.webp",
+                    "name": "AS Roma",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-as-roma-2026-04-25-fSQG.webp",
+            "title": "Bologna vs AS Roma"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Apr 9, 2026",
+            "description": "Watch Bologna vs Aston Villa highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on April 9, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Lucumí",
+                    "team": "Bologna",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Konsa",
+                    "team": "Bologna",
+                    "time": "16'"
+                },
+                {
+                    "assist": "Y. Tielemans",
+                    "event_type": "Goal",
+                    "player": "E. Konsa",
+                    "score_update": "0 - 1",
+                    "team": "Aston Villa",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "O. Watkins",
+                    "score_update": "0 - 2",
+                    "team": "Aston Villa",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Pobega",
+                    "team": "Bologna",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Rogers",
+                    "team": "Aston Villa",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Rowe",
+                    "score_update": "1 - 2",
+                    "team": "Bologna",
+                    "time": "90'"
+                },
+                {
+                    "assist": "Y. Tielemans",
+                    "event_type": "Goal",
+                    "player": "O. Watkins",
+                    "score_update": "1 - 3",
+                    "team": "Aston Villa",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "09/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 1 - 3 Aston Villa"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Aston Villa 2 - 0 West Ham United"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Aston Villa 2 - 0 Lille"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Manchester United 3 - 1 Aston Villa"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Lille 0 - 1 Aston Villa"
+                        }
+                    ],
+                    "team": "Aston Villa"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 1 - 3 Aston Villa"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cremonese 1 - 2 Bologna"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AS Roma 3 - 4 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sassuolo 0 - 1 Bologna"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Bologna 1 - 1 AS Roma"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "League Stage",
+                        "date": "25/09/2025",
+                        "teams_and_score": "Aston Villa 1 - 0 Bologna"
+                    },
+                    {
+                        "competition": "League Stage 24/25",
+                        "date": "22/10/2024",
+                        "teams_and_score": "Aston Villa 2 - 0 Bologna"
+                    }
+                ],
+                "summary": {
+                    "Aston Villa_wins": "2",
+                    "Bologna_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aston Villa": "42%",
+                    "Bologna": "58%"
+                },
+                "corners": {
+                    "Aston Villa": "3",
+                    "Bologna": "4"
+                },
+                "crosses": {
+                    "Aston Villa": "4",
+                    "Bologna": "3"
+                },
+                "fouls": {
+                    "Aston Villa": "15",
+                    "Bologna": "19"
+                },
+                "goalkeeper_saves": {
+                    "Aston Villa": "3",
+                    "Bologna": "1"
+                },
+                "offsides": {
+                    "Aston Villa": "1",
+                    "Bologna": "7"
+                },
+                "shots_blocked": {
+                    "Aston Villa": "0",
+                    "Bologna": "10"
+                },
+                "shots_off_target": {
+                    "Aston Villa": "4",
+                    "Bologna": "5"
+                },
+                "shots_on_target": {
+                    "Aston Villa": "4",
+                    "Bologna": "4"
+                },
+                "yellow_cards": {
+                    "Aston Villa": "1",
+                    "Bologna": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Aston_Villa_2026_04_09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/66.webp",
+                    "name": "Aston Villa",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-aston-villa-2026-04-09-2pjb.webp",
+            "title": "Bologna vs Aston Villa"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Feb 26, 2026",
+            "description": "Watch Bologna vs Brann highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on February 26, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Vitík",
+                    "team": "Bologna",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Sørensen",
+                    "team": "Brann",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Bernardeschi",
+                    "team": "Bologna",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Mário",
+                    "score_update": "1 - 0",
+                    "team": "Bologna",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Holten",
+                    "team": "Brann",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Orsolini",
+                    "team": "Bologna",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 1 - 0 Brann"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Odds Ballklubb 1 - 6 Brann"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Sturm Graz 1 - 0 Brann"
+                        },
+                        {
+                            "competition": "Eliteserien",
+                            "date": "30/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Brann 3 - 1 HamKam"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "27/11/2025",
+                            "result": "D",
+                            "teams_and_score": "PAOK FC 1 - 1 Brann"
+                        }
+                    ],
+                    "team": "Brann"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 1 - 0 Brann"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "23/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 1 - 0 Udinese"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Brann 0 - 1 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "15/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 1 - 2 Bologna"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "11/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Bologna 1 - 1 Lazio"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Knockout Stage",
+                        "date": "19/02/2026",
+                        "teams_and_score": "Brann 0 - 1 Bologna"
+                    },
+                    {
+                        "competition": "League Stage",
+                        "date": "06/11/2025",
+                        "teams_and_score": "Bologna 0 - 0 Brann"
+                    }
+                ],
+                "summary": {
+                    "Bologna_wins": "1",
+                    "Brann_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bologna": "61%",
+                    "Brann": "39%"
+                },
+                "corners": {
+                    "Bologna": "13",
+                    "Brann": "1"
+                },
+                "crosses": {
+                    "Bologna": "7",
+                    "Brann": "0"
+                },
+                "fouls": {
+                    "Bologna": "15",
+                    "Brann": "9"
+                },
+                "goalkeeper_saves": {
+                    "Bologna": "2",
+                    "Brann": "4"
+                },
+                "offsides": {
+                    "Bologna": "3",
+                    "Brann": "0"
+                },
+                "red_cards": {
+                    "Bologna": "0",
+                    "Brann": "1"
+                },
+                "shots_blocked": {
+                    "Bologna": "8",
+                    "Brann": "2"
+                },
+                "shots_off_target": {
+                    "Bologna": "3",
+                    "Brann": "2"
+                },
+                "shots_on_target": {
+                    "Bologna": "5",
+                    "Brann": "3"
+                },
+                "yellow_cards": {
+                    "Bologna": "3",
+                    "Brann": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Brann_2026_02_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/319.webp",
+                    "name": "Brann",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-brann-2026-02-26-hyV3.webp",
+            "title": "Bologna vs Brann"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "May 3, 2026",
+            "description": "Watch Bologna vs Cagliari highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on May 3, 2026. A high-stakes Serie A encounter on May 3, 2026 , saw two of Italy’s most competitive sides trade blows in a match defined by momentum shifts and clinical finishing. Both clubs searched for supremacy in a contest that kept the supporters on the edge of their seats until the very last second. Bologna’s Early Command Bologna began the afternoon with aggressive intent, needing only nine minutes to break the deadlock. Juan Miranda turned provider with a pinpoint pass to Federico Bernardeschi , who composed himself to fire a left-footed shot into the back of the net. The momentum was firmly with the hosts, and they nearly doubled their lead shortly after when Juan Miranda rattled the post with a fierce strike that had the SSC Napoli defense scrambling. The pressure eventually led to a decisive VAR intervention in the 32nd minute. After reviewing a challenge by Giovanni Di Lorenzo on Juan Miranda , the referee awarded a penalty. Riccardo Orsolini stepped up in the 34th minute and, despite Vanja Milinkovic-Savic getting a hand to it, the power of the strike ensured the ball found the net to make it 2-0. Napoli Strike Back Just as Bologna seemed to be cruising toward halftime, SSC Napoli found a lifeline. In the second minute of first-half stoppage time, Giovanni Di Lorenzo reacted quickest to a loose ball in the box, stabbing it home to reduce the deficit. The goal revitalized the visitors, who emerged for the second half with renewed vigor. Only three minutes after the restart, Napoli were level. Rasmus Højlund showcased his vision to find Alisson Santos , who clinicaly finished with his right foot to make it 2-2. The game then descended into a tense tactical battle, characterized by several yellow cards, including bookings for Jhon Lucumí and Matteo Politano , as both sides fought for every inch of grass. Rowe’s Moment of Magic As the match entered the 90th minute, the stage was set for a hero. In the first minute of added time, substitute Jonathan Rowe produced a moment of pure brilliance. Connecting with a cross in the box, Rowe launched into a spectacular bicycle kick, sending the ball past the keeper to restore Bologna's lead in breathtaking fashion. SSC Napoli threw everything forward in the final moments, with Amir Rrahmani seeing a late header saved by Massimo Pessina . Despite the late pressure and a flurry of corners, the home side held firm to secure a 3-2 victory, leaving the fans at the stadium breathless after a true football spectacle.",
+            "events_timeline": [
+                {
+                    "assist": "J. Miranda",
+                    "event_type": "Goal",
+                    "player": "F. Bernardeschi",
+                    "score_update": "0 - 1",
+                    "team": "Cagliari",
+                    "time": "9'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Orsolini",
+                    "score_update": "0 - 2",
+                    "team": "Cagliari",
+                    "time": "34'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Mário",
+                    "team": "Cagliari",
+                    "time": "38'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. D. Lorenzo",
+                    "score_update": "1 - 2",
+                    "team": "Bologna",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Bernardeschi",
+                    "team": "Cagliari",
+                    "time": "47'"
+                },
+                {
+                    "assist": "R. Højlund",
+                    "event_type": "Goal",
+                    "player": "A. Santos",
+                    "score_update": "2 - 2",
+                    "team": "Bologna",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. F. Helland",
+                    "team": "Cagliari",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Lucumí",
+                    "team": "Cagliari",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Politano",
+                    "team": "Bologna",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Rowe",
+                    "score_update": "2 - 3",
+                    "team": "Cagliari",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Napoli 2 - 3 Bologna"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aston Villa 4 - 0 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 2 - 0 Lecce"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "09/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 1 - 3 Aston Villa"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cremonese 1 - 2 Bologna"
+                        }
+                    ],
+                    "team": "Cagliari"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Napoli 2 - 3 Bologna"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Super Cup",
+                        "date": "22/12/2025",
+                        "teams_and_score": "Napoli 2 - 0 Bologna"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "09/11/2025",
+                        "teams_and_score": "Bologna 2 - 0 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "07/04/2025",
+                        "teams_and_score": "Bologna 1 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "11/05/2024",
+                        "teams_and_score": "Napoli 0 - 2 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "28/05/2023",
+                        "teams_and_score": "Bologna 2 - 2 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "17/01/2022",
+                        "teams_and_score": "Bologna 0 - 2 Napoli"
+                    }
+                ],
+                "summary": {
+                    "Bologna_wins": "2",
+                    "Cagliari_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bologna": "52%",
+                    "Cagliari": "48%"
+                },
+                "corners": {
+                    "Bologna": "7",
+                    "Cagliari": "1"
+                },
+                "crosses": {
+                    "Bologna": "5",
+                    "Cagliari": "1"
+                },
+                "fouls": {
+                    "Bologna": "10",
+                    "Cagliari": "12"
+                },
+                "goalkeeper_saves": {
+                    "Bologna": "1",
+                    "Cagliari": "3"
+                },
+                "offsides": {
+                    "Bologna": "4",
+                    "Cagliari": "0"
+                },
+                "shots_blocked": {
+                    "Bologna": "4",
+                    "Cagliari": "1"
+                },
+                "shots_off_target": {
+                    "Bologna": "5",
+                    "Cagliari": "5"
+                },
+                "shots_on_target": {
+                    "Bologna": "5",
+                    "Cagliari": "4"
+                },
+                "yellow_cards": {
+                    "Bologna": "1",
+                    "Cagliari": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/bologna-vs-cagliari-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/490.webp",
+                    "name": "Cagliari",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-vs-cagliari-2026-05-03-cJWI.webp",
+            "title": "Bologna vs Cagliari"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Jan 22, 2026",
+            "description": "Watch Bologna vs Celtic highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on January 22, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Celtic_2026_01_22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-celtic-2026-01-22-DGr7.webp",
+            "title": "Bologna vs Celtic"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Dec 1, 2025",
+            "description": "Watch Bologna vs Cremonese highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on December 1, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Cremonese_2025_12_01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-cremonese-2025-12-01.webp",
+            "title": "Bologna vs Cremonese"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Jan 18, 2026",
+            "description": "Watch Bologna vs Fiorentina highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on January 18, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Fiorentina_2026_01_18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-fiorentina-2026-01-18-Q71H.webp",
+            "title": "Bologna vs Fiorentina"
+        },
+        {
+            "competition": "Super Cup",
+            "competition_cover": "https://refooty.com/covers/super-cup-italia.webp",
+            "date": "Dec 19, 2025",
+            "description": "Watch Bologna vs Inter highlights and goals from Super Cup on ReFooty: Football Highlights Hub. Match played on December 19, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Inter"
+                },
+                "home_team_form": {
+                    "team": "Bologna"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Inter_2025_12_19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/505.webp",
+                    "name": "Inter",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-inter-2025-12-19-o8Yt.webp",
+            "title": "Bologna vs Inter Milan"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Dec 14, 2025",
+            "description": "Watch Bologna vs Juventus highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on December 14, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Juventus"
+                },
+                "home_team_form": {
+                    "team": "Bologna"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Juventus_2025_12_14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/496.webp",
+                    "name": "Juventus",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-juventus-2025-12-14.webp",
+            "title": "Bologna vs Juventus"
+        },
+        {
+            "competition": "Coppa Italia",
+            "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
+            "date": "Feb 11, 2026",
+            "description": "Watch Bologna vs Lazio highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on February 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Gila",
+                    "team": "Lazio",
+                    "time": "1'"
+                },
+                {
+                    "assist": "N. Moro",
+                    "event_type": "Goal",
+                    "player": "S. Castro",
+                    "score_update": "1 - 0",
+                    "team": "Bologna",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Castro",
+                    "team": "Bologna",
+                    "time": "47'"
+                },
+                {
+                    "assist": "F. Dele-Bashiru",
+                    "event_type": "Goal",
+                    "player": "T. Noslin",
+                    "score_update": "1 - 1",
+                    "team": "Lazio",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Miranda",
+                    "team": "Bologna",
+                    "time": "74'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Tavares",
+                    "team": "Lazio",
+                    "time": "86'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Vitík",
+                    "team": "Bologna",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Ferguson",
+                    "score_update": "0 - 1",
+                    "team": "Bologna",
+                    "time": "PEN 1"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Tavares",
+                    "score_update": "0 - 1",
+                    "team": "Lazio",
+                    "time": "PEN 1"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Dallinga",
+                    "score_update": "1 - 2",
+                    "team": "Bologna",
+                    "time": "PEN 2"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Dia",
+                    "score_update": "0 - 2",
+                    "team": "Lazio",
+                    "time": "PEN 2"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Orsolini",
+                    "score_update": "1 - 3",
+                    "team": "Bologna",
+                    "time": "PEN 3"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Marušić",
+                    "score_update": "1 - 3",
+                    "team": "Lazio",
+                    "time": "PEN 3"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Taylor",
+                    "score_update": "1 - 4",
+                    "team": "Lazio",
+                    "time": "PEN 4"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "11/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Bologna 1 - 1 Lazio"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "08/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Juventus 2 - 2 Lazio"
+                        }
+                    ],
+                    "team": "Lazio"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "11/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Bologna 1 - 1 Lazio"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 0 - 1 Parma"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Maccabi Tel Aviv 0 - 3 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Genoa 3 - 2 Bologna"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Bologna 2 - 2 Celtic"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "07/12/2025",
+                        "teams_and_score": "Lazio 1 - 1 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "16/03/2025",
+                        "teams_and_score": "Bologna 5 - 0 Lazio"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "18/02/2024",
+                        "teams_and_score": "Lazio 1 - 2 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "11/03/2023",
+                        "teams_and_score": "Bologna 0 - 0 Lazio"
+                    },
+                    {
+                        "competition": "Coppa Italia: Round of 16 22/23",
+                        "date": "19/01/2023",
+                        "teams_and_score": "Lazio 1 - 0 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "14/08/2022",
+                        "teams_and_score": "Lazio 2 - 1 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "12/02/2022",
+                        "teams_and_score": "Lazio 3 - 0 Bologna"
+                    }
+                ],
+                "summary": {
+                    "Bologna_wins": "2",
+                    "Lazio_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bologna": "49%",
+                    "Lazio": "51%"
+                },
+                "corners": {
+                    "Bologna": "5",
+                    "Lazio": "2"
+                },
+                "fouls": {
+                    "Bologna": "17",
+                    "Lazio": "12"
+                },
+                "goalkeeper_saves": {
+                    "Bologna": "1",
+                    "Lazio": "1"
+                },
+                "offsides": {
+                    "Bologna": "1",
+                    "Lazio": "1"
+                },
+                "shots_blocked": {
+                    "Bologna": "5",
+                    "Lazio": "0"
+                },
+                "shots_off_target": {
+                    "Bologna": "6",
+                    "Lazio": "3"
+                },
+                "shots_on_target": {
+                    "Bologna": "2",
+                    "Lazio": "2"
+                },
+                "yellow_cards": {
+                    "Bologna": "3",
+                    "Lazio": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Lazio_2026_02_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/487.webp",
+                    "name": "Lazio",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-lazio-2026-02-11-XWP9.webp",
+            "title": "Bologna vs Lazio"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Oct 5, 2025",
+            "description": "Watch Bologna vs Pisa highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on October 5, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Pisa_2025_10_05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-pisa-2025-10-05-RnTX.webp",
+            "title": "Bologna vs Pisa"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Nov 27, 2025",
+            "description": "Watch Bologna vs Red Bull Salzburg highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on November 27, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Salzburg_2025_11_27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-salzburg-2025-11-27-W6Nw.webp",
+            "title": "Bologna vs Salzburg"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Oct 2, 2025",
+            "description": "Watch Bologna vs SC Freiburg highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on October 2, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Freiburg_2025_10_02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-freiburg-2025-10-02.webp",
+            "title": "Bologna vs SC Freiburg"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Oct 29, 2025",
+            "description": "Watch Bologna vs Torino highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on October 29, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Torino_2025_10_29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-torino-2025-10-29.webp",
+            "title": "Bologna vs Torino"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Feb 23, 2026",
+            "description": "Watch Bologna vs Udinese highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on February 23, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Buksa",
+                    "team": "Udinese",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Miranda",
+                    "team": "Bologna",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Bernardeschi",
+                    "score_update": "1 - 0",
+                    "team": "Bologna",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "23/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 1 - 0 Udinese"
+                        }
+                    ],
+                    "team": "Udinese"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "23/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 1 - 0 Udinese"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Brann 0 - 1 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "15/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 1 - 2 Bologna"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "11/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Bologna 1 - 1 Lazio"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 0 - 1 Parma"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "22/11/2025",
+                        "teams_and_score": "Udinese 0 - 3 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "28/04/2025",
+                        "teams_and_score": "Udinese 0 - 0 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "28/04/2024",
+                        "teams_and_score": "Bologna 1 - 1 Udinese"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "02/04/2023",
+                        "teams_and_score": "Bologna 3 - 0 Udinese"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "24/04/2022",
+                        "teams_and_score": "Bologna 2 - 2 Udinese"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "08/05/2021",
+                        "teams_and_score": "Udinese 1 - 1 Bologna"
+                    }
+                ],
+                "summary": {
+                    "Bologna_wins": "2",
+                    "Udinese_wins": "0",
+                    "draws": "4"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bologna": "46%",
+                    "Udinese": "54%"
+                },
+                "corners": {
+                    "Bologna": "4",
+                    "Udinese": "7"
+                },
+                "crosses": {
+                    "Bologna": "3",
+                    "Udinese": "2"
+                },
+                "fouls": {
+                    "Bologna": "10",
+                    "Udinese": "13"
+                },
+                "goalkeeper_saves": {
+                    "Bologna": "3",
+                    "Udinese": "4"
+                },
+                "offsides": {
+                    "Bologna": "3",
+                    "Udinese": "3"
+                },
+                "shots_blocked": {
+                    "Bologna": "2",
+                    "Udinese": "4"
+                },
+                "shots_off_target": {
+                    "Bologna": "3",
+                    "Udinese": "3"
+                },
+                "shots_on_target": {
+                    "Bologna": "6",
+                    "Udinese": "3"
+                },
+                "yellow_cards": {
+                    "Bologna": "1",
+                    "Udinese": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Udinese_2026_02_23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/494.webp",
+                    "name": "Udinese",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-udinese-2026-02-23-GiMw.webp",
+            "title": "Bologna vs Udinese"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Feb 19, 2026",
+            "description": "Watch Brann vs Bologna highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on February 19, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "N. Cambiaghi",
+                    "event_type": "Goal",
+                    "player": "S. Castro",
+                    "score_update": "0 - 1",
+                    "team": "Bologna",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Bernardeschi",
+                    "team": "Bologna",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Boakye",
+                    "team": "Brann",
+                    "time": "31'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Brann 0 - 1 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "15/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 1 - 2 Bologna"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "11/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Bologna 1 - 1 Lazio"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 0 - 1 Parma"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Maccabi Tel Aviv 0 - 3 Bologna"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Brann 0 - 1 Bologna"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Odds Ballklubb 1 - 6 Brann"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Sturm Graz 1 - 0 Brann"
+                        },
+                        {
+                            "competition": "Eliteserien",
+                            "date": "30/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Brann 3 - 1 HamKam"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "27/11/2025",
+                            "result": "D",
+                            "teams_and_score": "PAOK FC 1 - 1 Brann"
+                        }
+                    ],
+                    "team": "Brann"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "League Stage",
+                        "date": "06/11/2025",
+                        "teams_and_score": "Bologna 0 - 0 Brann"
+                    }
+                ],
+                "summary": {
+                    "Bologna_wins": "0",
+                    "Brann_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bologna": "35%",
+                    "Brann": "65%"
+                },
+                "corners": {
+                    "Bologna": "4",
+                    "Brann": "7"
+                },
+                "crosses": {
+                    "Bologna": "2",
+                    "Brann": "4"
+                },
+                "fouls": {
+                    "Bologna": "20",
+                    "Brann": "14"
+                },
+                "goalkeeper_saves": {
+                    "Bologna": "2",
+                    "Brann": "4"
+                },
+                "offsides": {
+                    "Bologna": "1",
+                    "Brann": "4"
+                },
+                "shots_blocked": {
+                    "Bologna": "4",
+                    "Brann": "0"
+                },
+                "shots_off_target": {
+                    "Bologna": "4",
+                    "Brann": "2"
+                },
+                "shots_on_target": {
+                    "Bologna": "5",
+                    "Brann": "2"
+                },
+                "yellow_cards": {
+                    "Bologna": "1",
+                    "Brann": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Brann_v_Bologna_2026_02_19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/319.webp",
+                    "name": "Brann",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brann-v-bologna-2026-02-19-ynRp.webp",
+            "title": "Brann vs Bologna"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Dec 11, 2025",
+            "description": "Watch Celta Vigo vs Bologna highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on December 11, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Celta_Vigo_v_Bologna_2025_12_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/celta-vigo-v-bologna-2025-12-11.webp",
+            "title": "Celta Vigo vs Bologna"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Apr 5, 2026",
+            "description": "Watch Cremonese vs Bologna highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on April 5, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Cremonese_v_Bologna_2026_04_05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cremonese-v-bologna-2026-04-05-uBxm.webp",
+            "title": "Cremonese vs Bologna"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Oct 23, 2025",
+            "description": "Watch FCSB vs Bologna highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on October 23, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/FCSB_v_Bologna_2025_10_23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fcsb-v-bologna-2025-10-23-nUKO.webp",
+            "title": "FC FCSB vs Bologna"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Jan 4, 2026",
+            "description": "Watch Inter vs Bologna highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on January 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Bologna"
+                },
+                "home_team_form": {
+                    "team": "Inter"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Inter_v_Bologna_2026_01_04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/505.webp",
+                    "name": "Inter",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/inter-v-bologna-2026-01-04.webp",
+            "title": "Inter Milan vs Bologna"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Apr 19, 2026",
+            "description": "Watch Juventus vs Bologna highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on April 19, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "P. Kalulu",
+                    "event_type": "Goal",
+                    "player": "J. David",
+                    "score_update": "1 - 0",
+                    "team": "Juventus",
+                    "time": "1'"
+                },
+                {
+                    "assist": "W. McKennie",
+                    "event_type": "Goal",
+                    "player": "K. Thuram",
+                    "score_update": "2 - 0",
+                    "team": "Juventus",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Locatelli",
+                    "team": "Juventus",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Juventus 2 - 0 Bologna"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aston Villa 4 - 0 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 2 - 0 Lecce"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 1 - 3 Aston Villa"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cremonese 1 - 2 Bologna"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Juventus 2 - 0 Bologna"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "25/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Juventus 3 - 2 Galatasaray"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "21/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Juventus 0 - 2 Como 1907"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Galatasaray 5 - 2 Juventus"
+                        }
+                    ],
+                    "team": "Juventus"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "14/12/2025",
+                        "teams_and_score": "Bologna 0 - 1 Juventus"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "04/05/2025",
+                        "teams_and_score": "Bologna 1 - 1 Juventus"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "20/05/2024",
+                        "teams_and_score": "Bologna 3 - 3 Juventus"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "30/04/2023",
+                        "teams_and_score": "Bologna 1 - 1 Juventus"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "16/04/2022",
+                        "teams_and_score": "Juventus 1 - 1 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "23/05/2021",
+                        "teams_and_score": "Bologna 1 - 4 Juventus"
+                    }
+                ],
+                "summary": {
+                    "Bologna_wins": "0",
+                    "Juventus_wins": "2",
+                    "draws": "4"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bologna": "45%",
+                    "Juventus": "55%"
+                },
+                "corners": {
+                    "Bologna": "1",
+                    "Juventus": "6"
+                },
+                "crosses": {
+                    "Bologna": "0",
+                    "Juventus": "4"
+                },
+                "fouls": {
+                    "Bologna": "5",
+                    "Juventus": "10"
+                },
+                "goalkeeper_saves": {
+                    "Bologna": "2",
+                    "Juventus": "1"
+                },
+                "offsides": {
+                    "Bologna": "0",
+                    "Juventus": "4"
+                },
+                "shots_blocked": {
+                    "Bologna": "2",
+                    "Juventus": "6"
+                },
+                "shots_off_target": {
+                    "Bologna": "5",
+                    "Juventus": "4"
+                },
+                "shots_on_target": {
+                    "Bologna": "0",
+                    "Juventus": "4"
+                },
+                "yellow_cards": {
+                    "Bologna": "0",
+                    "Juventus": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Juventus_v_Bologna_2026_04_19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/496.webp",
+                    "name": "Juventus",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/juventus-v-bologna-2026-04-19-W5pk.webp",
+            "title": "Juventus vs Bologna"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "May 11, 2026",
+            "description": "Watch Napoli vs Bologna highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on May 11, 2026. The Stadio Diego Armando Maradona played host to a captivating Serie A encounter as SSC Napoli and Bologna locked horns in a clash defined by momentum swings and individual brilliance. On May 11, 2026 , the tactical battle on the pitch kept the supporters on the edge of their seats until the very final whistle. Early Momentum and VAR Drama Bologna wasted no time establishing their presence, taking the lead in the 9th minute when Federico Bernardeschi clinicaly slotted home a left-footed strike following an assist from Juan Miranda . The visitors were inches away from doubling their lead shortly after, but Juan Miranda 's effort rattled the post in the 13th minute. The pressure eventually told in the 34th minute after a lengthy VAR review. The referee awarded a penalty for a trip by Giovanni Di Lorenzo on Juan Miranda , which Riccardo Orsolini converted with composure to make it 0-2. Napoli's Spirited Fightback Just as it looked like the visitors would cruise into the break, SSC Napoli found a lifeline. In the second minute of first-half stoppage time, Giovanni Di Lorenzo redeemed himself by reacting quickest to a loose ball in the box, stabbing it home to reduce the deficit. The momentum shifted entirely at the start of the second half. In the 48th minute, Alisson Santos leveled the score with a well-placed right-footed finish, expertly set up by Rasmus Hoejlund , bringing the home crowd back to life. Rowe's Late Heroics The final stages of the match were a tense affair, featuring a flurry of tactical substitutions and yellow cards for the likes of Jhon Lucumí and Matteo Politano . Bologna manager's decision to introduce Jonathan Rowe in the 73rd minute proved to be a masterstroke. In the 91st minute, Jonathan Rowe produced a moment of pure magic, scoring a sensational bicycle kick that flew into the net to restore the visitors' lead. Despite a late scare when Amir Rrahmani 's header was saved by Massimo Pessina in the 94th minute, Bologna held on to secure a hard-fought 3-2 victory.",
+            "events_timeline": [
+                {
+                    "assist": "J. Miranda",
+                    "event_type": "Goal",
+                    "player": "F. Bernardeschi",
+                    "score_update": "0 - 1",
+                    "team": "Bologna",
+                    "time": "9'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Orsolini",
+                    "score_update": "0 - 2",
+                    "team": "Bologna",
+                    "time": "34'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Mário",
+                    "team": "Bologna",
+                    "time": "38'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. D. Lorenzo",
+                    "score_update": "1 - 2",
+                    "team": "Napoli",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Bernardeschi",
+                    "team": "Bologna",
+                    "time": "47'"
+                },
+                {
+                    "assist": "R. Højlund",
+                    "event_type": "Goal",
+                    "player": "A. Santos",
+                    "score_update": "2 - 2",
+                    "team": "Napoli",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. F. Helland",
+                    "team": "Bologna",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Lucumí",
+                    "team": "Bologna",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Politano",
+                    "team": "Napoli",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Rowe",
+                    "score_update": "2 - 3",
+                    "team": "Bologna",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Napoli 2 - 3 Bologna"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aston Villa 4 - 0 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 2 - 0 Lecce"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 1 - 3 Aston Villa"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cremonese 1 - 2 Bologna"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 2 - 3 Bologna"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Super Cup",
+                        "date": "22/12/2025",
+                        "teams_and_score": "Napoli 2 - 0 Bologna"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "09/11/2025",
+                        "teams_and_score": "Bologna 2 - 0 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "07/04/2025",
+                        "teams_and_score": "Bologna 1 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "11/05/2024",
+                        "teams_and_score": "Napoli 0 - 2 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "28/05/2023",
+                        "teams_and_score": "Bologna 2 - 2 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "17/01/2022",
+                        "teams_and_score": "Bologna 0 - 2 Napoli"
+                    }
+                ],
+                "summary": {
+                    "Bologna_wins": "2",
+                    "Napoli_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bologna": "48%",
+                    "Napoli": "52%"
+                },
+                "corners": {
+                    "Bologna": "1",
+                    "Napoli": "7"
+                },
+                "crosses": {
+                    "Bologna": "1",
+                    "Napoli": "5"
+                },
+                "fouls": {
+                    "Bologna": "12",
+                    "Napoli": "10"
+                },
+                "goalkeeper_saves": {
+                    "Bologna": "3",
+                    "Napoli": "1"
+                },
+                "offsides": {
+                    "Bologna": "0",
+                    "Napoli": "4"
+                },
+                "shots_blocked": {
+                    "Bologna": "1",
+                    "Napoli": "4"
+                },
+                "shots_off_target": {
+                    "Bologna": "5",
+                    "Napoli": "5"
+                },
+                "shots_on_target": {
+                    "Bologna": "4",
+                    "Napoli": "5"
+                },
+                "yellow_cards": {
+                    "Bologna": "4",
+                    "Napoli": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Bologna_2026_05_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-bologna-2026-05-11-GcCB.webp",
+            "title": "Napoli vs Bologna"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Nov 2, 2025",
+            "description": "Watch Parma vs Bologna highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on November 2, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Parma_v_Bologna_2025_11_02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/parma-v-bologna-2025-11-02.webp",
+            "title": "Parma vs Bologna"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Nov 22, 2025",
+            "description": "Watch Udinese vs Bologna highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on November 22, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Udinese_v_Bologna_2025_11_22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/udinese-v-bologna-2025-11-22.webp",
+            "title": "Udinese vs Bologna"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Jan 15, 2026",
+            "description": "Watch Verona vs Bologna highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on January 15, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Verona_v_Bologna_2026_01_15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/verona-v-bologna-2026-01-15-O3po.webp",
+            "title": "Verona vs Bologna"
+        }
+    ]
+}

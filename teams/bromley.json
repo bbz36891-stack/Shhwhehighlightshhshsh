@@ -1,0 +1,615 @@
+{
+    "team": "Bromley",
+    "team_logo": "",
+    "total_matches": 6,
+    "matches": [
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 14, 2026",
+            "description": "Watch Bromley vs Bristol Rovers highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/bromley-vs-bristol-rovers-2026-03-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bromley-vs-bristol-rovers-2026-03-14-k3nH.webp",
+            "title": "Bromley vs Bristol Rovers"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Apr 17, 2026",
+            "description": "Watch Bromley vs Cambridge United highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on April 17, 2026. The League Two encounter between Bromley and Cambridge United promised to be a battle of persistence and tactical discipline from the very first whistle. With both sides desperate for points to climb the table, the atmosphere at the stadium was thick with anticipation for a match that would test the physical and mental limits of both squads. Early Friction and the Opening Goal The match, held on April 17, 2026 , began with high physical intensity, resulting in a flurry of yellow cards within the first half-hour. Kacper Lopata , Mason Hancock , and Aden Flint were all cautioned as the teams fought for midfield supremacy. However, the deadlock was finally broken in the 37th minute when Ashley Charles found Ben Thompson with a precise pass, allowing the latter to clinicaly find the back of the net and give Bromley the lead heading into the break. Second Half Dominance After the restart, Bromley elevated their game to a level that Cambridge United simply could not match. In the 60th minute, Nicke Kabamba turned provider for Mitchell Pinnock , who finished with aplomb to double the advantage. The momentum stayed firmly with the hosts, and just two minutes later, substitute Jid Okeke —who had replaced the injured Harrison Burke late in the first half—seized his moment to score the third, leaving the visitors shell-shocked. Sealing the Result Refusing to take their foot off the gas, Bromley added a fourth in the 67th minute. Omar Sowunmi was the beneficiary of a brilliant delivery from Mitchell Pinnock , effectively ending any hopes of a comeback. The closing stages were marked by tactical substitutions and game management, with the likes of Aaron Loupalo-Bi and Jamie Jellis entering the fray. Despite a late yellow card for Jellis , Bromley remained in total control until the final whistle, securing a emphatic victory.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Łopata",
+                    "team": "Cambridge United",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Hancock",
+                    "team": "Cambridge United",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Flint",
+                    "team": "Cambridge United",
+                    "time": "31'"
+                },
+                {
+                    "assist": "A. Charles",
+                    "event_type": "Goal",
+                    "player": "B. Thompson",
+                    "score_update": "1 - 0",
+                    "team": "Bromley",
+                    "time": "46'"
+                },
+                {
+                    "assist": "N. Kabamba",
+                    "event_type": "Goal",
+                    "player": "M. Pinnock",
+                    "score_update": "2 - 0",
+                    "team": "Bromley",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Okeke",
+                    "score_update": "2 - 1",
+                    "team": "Cambridge United",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Pinnock",
+                    "event_type": "Goal",
+                    "player": "O. Sowunmi",
+                    "score_update": "3 - 1",
+                    "team": "Bromley",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Jellis",
+                    "team": "Cambridge United",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Bromley 3 - 1 Walsall"
+                        }
+                    ],
+                    "team": "Cambridge United"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Bromley 3 - 1 Walsall"
+                        }
+                    ],
+                    "team": "Bromley"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "League 2",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Walsall 3 - 1 Bromley"
+                    },
+                    {
+                        "competition": "League 2",
+                        "date": "13/03/2025",
+                        "teams_and_score": "Bromley 2 - 2 Walsall"
+                    }
+                ],
+                "summary": {
+                    "Bromley_wins": "0",
+                    "Cambridge United_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bromley": "54%",
+                    "Cambridge United": "46%"
+                },
+                "corners": {
+                    "Bromley": "11",
+                    "Cambridge United": "5"
+                },
+                "crosses": {
+                    "Bromley": "10",
+                    "Cambridge United": "5"
+                },
+                "fouls": {
+                    "Bromley": "4",
+                    "Cambridge United": "10"
+                },
+                "goalkeeper_saves": {
+                    "Bromley": "4",
+                    "Cambridge United": "4"
+                },
+                "offsides": {
+                    "Bromley": "2",
+                    "Cambridge United": "1"
+                },
+                "shots_blocked": {
+                    "Bromley": "8",
+                    "Cambridge United": "4"
+                },
+                "shots_off_target": {
+                    "Bromley": "7",
+                    "Cambridge United": "4"
+                },
+                "shots_on_target": {
+                    "Bromley": "7",
+                    "Cambridge United": "5"
+                },
+                "yellow_cards": {
+                    "Bromley": "0",
+                    "Cambridge United": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/bromley-vs-cambridge-united-2026-04-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1370.webp",
+                    "name": "Cambridge United",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1832.webp",
+                    "name": "Bromley",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bromley-vs-cambridge-united-2026-04-17-HCxM.webp",
+            "title": "Bromley vs Cambridge United"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 4, 2026",
+            "description": "Watch Bromley vs Oldham highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/bromley-vs-oldham-2026-03-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bromley-vs-oldham-2026-03-04-dRVv.webp",
+            "title": "Bromley vs Oldham"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Apr 8, 2026",
+            "description": "Watch Bromley vs Shrewsbury Town highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on April 8, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/bromley-vs-shrewsbury-town-2026-04-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bromley-vs-shrewsbury-town-2026-04-08-NT5L.webp",
+            "title": "Bromley vs Shrewsbury Town"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Bromley vs Walsall highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on May 2, 2026. The tension was palpable as the League Two season reached its crescendo on May 2, 2026 , with Bromley and Walsall locking horns in a fixture filled with significant implications. Both sides entered the fray looking to dictate the tempo and seize control of the midfield from the opening whistle. Physical Opening and the Breakthrough The contest began with a cagey and highly physical atmosphere, as the referee was forced to reach for his pocket early and often. The middle of the first half saw a flurry of disciplinary action, with Kacper Lopata , Mason Hancock , and Aden Flint all receiving yellow cards within a frantic five-minute window. Amidst the persistent fouls and disrupted rhythm, it was Bromley who managed to find the necessary composure to break the deadlock. In the 37th minute, Ashley Charles turned provider with a precise delivery that found Ben Thompson , who made no mistake in firing his side into the lead. Just before the interval, Bromley were forced into an early tactical adjustment when Harrison Burke was replaced by Jid Okeke . Despite the disruption, the hosts maintained their defensive discipline to see out the remainder of the half, heading into the tunnel with a narrow but deserved advantage while Walsall struggled to find a clinical edge in the final third. Seven Minutes of Devastation If the first half was a battle of attrition, the second period transformed into a showcase of Bromley ’s offensive firepower. The momentum shifted irrevocably on the hour mark when Nicke Kabamba played a key role in setting up Mitchell Pinnock , who doubled the lead with a composed finish. Before Walsall could even catch their breath, the hosts struck again. Only three minutes later, the substitute Jid Okeke vindicated his manager’s faith by finding the back of the net to make it three. Walsall attempted to stem the tide with a double substitution in the 62nd minute, introducing Jamie Jellis and Aaron Loupalo-Bi for Aaron Pressley and Albert Adomah . However, the tactical shift failed to dampen the hosts' spirits. In the 67th minute, Mitchell Pinnock turned from scorer to creator, delivering a perfect ball for Omar Sowunmi to head home. The three-goal burst in just seven minutes effectively ended the game as a contest, leaving the visitors shell-shocked. Professional Management to the Whistle With a commanding lead established, Bromley focused on game management and defensive solidity for the remainder of the afternoon. Marcus Ifill was withdrawn in the 85th minute to a standing ovation, replaced by Ben Krauhaus , as the hosts began to wind down the clock. Walsall ’s frustrations boiled over in the closing stages, leading to a late yellow card for Jamie Jellis as they struggled to find a way past a resolute backline. In the final minutes, both managers utilized their benches to freshen up their tired ranks. Charlie Lakin and Mason Hancock made way for Will Etheridge and Vincent Harper , but the changes were purely academic. Bromley ’s dominant performance ensured all three points remained at home, providing a massive boost to their late-season momentum while leaving Walsall to reflect on a difficult afternoon where they were simply outclassed by a more clinical opponent. Key Match Events 30' - Yellow Card: Kacper Lopata ( Walsall ) 37' - Goal: Ben Thompson ; Assist: Ashley Charles ( Bromley ) 60' - Goal: Mitchell Pinnock ; Assist: Nicke Kabamba ( Bromley ) 63' - Goal: Jid Okeke ( Bromley ) 67' - Goal: Omar Sowunmi ; Assist: Mitchell Pinnock ( Bromley ) 88' - Yellow Card: Jamie Jellis ( Walsall )",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Łopata",
+                    "team": "Walsall",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Hancock",
+                    "team": "Walsall",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Flint",
+                    "team": "Walsall",
+                    "time": "31'"
+                },
+                {
+                    "assist": "A. Charles",
+                    "event_type": "Goal",
+                    "player": "B. Thompson",
+                    "score_update": "1 - 0",
+                    "team": "Bromley",
+                    "time": "46'"
+                },
+                {
+                    "assist": "N. Kabamba",
+                    "event_type": "Goal",
+                    "player": "M. Pinnock",
+                    "score_update": "2 - 0",
+                    "team": "Bromley",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Okeke",
+                    "score_update": "1 - 1",
+                    "team": "Walsall",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Pinnock",
+                    "event_type": "Goal",
+                    "player": "O. Sowunmi",
+                    "score_update": "3 - 1",
+                    "team": "Bromley",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Jellis",
+                    "team": "Walsall",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Bromley 3 - 1 Walsall"
+                        }
+                    ],
+                    "team": "Walsall"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Bromley 3 - 1 Walsall"
+                        }
+                    ],
+                    "team": "Bromley"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "League 2",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Walsall 3 - 1 Bromley"
+                    },
+                    {
+                        "competition": "League 2",
+                        "date": "13/03/2025",
+                        "teams_and_score": "Bromley 2 - 2 Walsall"
+                    }
+                ],
+                "summary": {
+                    "Bromley_wins": "0",
+                    "Walsall_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bromley": "53%",
+                    "Walsall": "47%"
+                },
+                "corners": {
+                    "Bromley": "11",
+                    "Walsall": "5"
+                },
+                "crosses": {
+                    "Bromley": "9",
+                    "Walsall": "5"
+                },
+                "fouls": {
+                    "Bromley": "4",
+                    "Walsall": "9"
+                },
+                "goalkeeper_saves": {
+                    "Bromley": "4",
+                    "Walsall": "5"
+                },
+                "offsides": {
+                    "Bromley": "2",
+                    "Walsall": "2"
+                },
+                "shots_blocked": {
+                    "Bromley": "8",
+                    "Walsall": "4"
+                },
+                "shots_off_target": {
+                    "Bromley": "6",
+                    "Walsall": "4"
+                },
+                "shots_on_target": {
+                    "Bromley": "8",
+                    "Walsall": "5"
+                },
+                "yellow_cards": {
+                    "Bromley": "0",
+                    "Walsall": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/bromley-walsall-2026-05-02-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1342.webp",
+                    "name": "Walsall",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1832.webp",
+                    "name": "Bromley",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bromley-walsall-2026-05-02-vn-5co4.webp",
+            "title": "bromley - walsall"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Apr 23, 2026",
+            "description": "Watch Salford City vs Bromley highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on April 23, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Turton",
+                    "team": "Salford City",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. C. Webster",
+                    "team": "Bromley",
+                    "time": "16'"
+                },
+                {
+                    "assist": "L. Garbutt",
+                    "event_type": "Goal",
+                    "player": "J. Grant",
+                    "score_update": "1 - 0",
+                    "team": "Salford City",
+                    "time": "52'"
+                },
+                {
+                    "assist": "J. Grant",
+                    "event_type": "Goal",
+                    "player": "O. Turton",
+                    "score_update": "2 - 0",
+                    "team": "Salford City",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Young",
+                    "team": "Salford City",
+                    "time": "90+8'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "23/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Salford City 2 - 0 Bromley"
+                        }
+                    ],
+                    "team": "Bromley"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "23/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Salford City 2 - 0 Bromley"
+                        }
+                    ],
+                    "team": "Salford City"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "League 2",
+                        "date": "22/11/2025",
+                        "teams_and_score": "Bromley 2 - 0 Salford City"
+                    },
+                    {
+                        "competition": "League 2",
+                        "date": "29/03/2025",
+                        "teams_and_score": "Bromley 2 - 3 Salford City"
+                    },
+                    {
+                        "competition": "National League",
+                        "date": "30/03/2019",
+                        "teams_and_score": "Salford City 2 - 1 Bromley"
+                    }
+                ],
+                "summary": {
+                    "Bromley_wins": "1",
+                    "Salford City_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bromley": "51%",
+                    "Salford City": "49%"
+                },
+                "corners": {
+                    "Bromley": "4",
+                    "Salford City": "6"
+                },
+                "crosses": {
+                    "Bromley": "3",
+                    "Salford City": "3"
+                },
+                "fouls": {
+                    "Bromley": "12",
+                    "Salford City": "5"
+                },
+                "goalkeeper_saves": {
+                    "Bromley": "2",
+                    "Salford City": "3"
+                },
+                "offsides": {
+                    "Bromley": "3",
+                    "Salford City": "0"
+                },
+                "shots_blocked": {
+                    "Bromley": "3",
+                    "Salford City": "1"
+                },
+                "shots_off_target": {
+                    "Bromley": "6",
+                    "Salford City": "4"
+                },
+                "shots_on_target": {
+                    "Bromley": "3",
+                    "Salford City": "4"
+                },
+                "yellow_cards": {
+                    "Bromley": "1",
+                    "Salford City": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/salford-city-bromley-2026-04-23-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1832.webp",
+                    "name": "Bromley",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1844.webp",
+                    "name": "Salford City",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/salford-city-bromley-2026-04-23-vn-1txg.webp",
+            "title": "salford city - bromley"
+        }
+    ]
+}

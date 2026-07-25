@@ -1,0 +1,124 @@
+{
+    "team": "Bandırmaspor",
+    "team_logo": "https://img.refooty.com/logo/teams/3584.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Mar 1, 2026",
+            "description": "Watch Ümraniyespor vs Bandırmaspor highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on March 1, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "A. Bulbul",
+                    "score_update": "1 - 0",
+                    "team": "Ümraniyespor",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Amaral",
+                    "score_update": "1 - 1",
+                    "team": "Bandırmaspor",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Acar",
+                    "score_update": "1 - 2",
+                    "team": "Bandırmaspor",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "1st Lig",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Umraniyespor 1 - 2 Bandirmaspor"
+                        }
+                    ],
+                    "team": "Bandırmaspor"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "1st Lig",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Umraniyespor 1 - 2 Bandirmaspor"
+                        }
+                    ],
+                    "team": "Ümraniyespor"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "1st Lig",
+                        "date": "04/10/2025",
+                        "teams_and_score": "Bandirmaspor 2 - 1 Umraniyespor"
+                    },
+                    {
+                        "competition": "1st Lig",
+                        "date": "02/03/2025",
+                        "teams_and_score": "Bandirmaspor 2 - 0 Umraniyespor"
+                    },
+                    {
+                        "competition": "1st Lig",
+                        "date": "24/02/2024",
+                        "teams_and_score": "Bandirmaspor 4 - 1 Umraniyespor"
+                    },
+                    {
+                        "competition": "1st Lig 21/22",
+                        "date": "06/02/2022",
+                        "teams_and_score": "Bandirmaspor 2 - 0 Umraniyespor"
+                    },
+                    {
+                        "competition": "1st Lig",
+                        "date": "23/01/2021",
+                        "teams_and_score": "Bandirmaspor 1 - 0 Umraniyespor"
+                    },
+                    {
+                        "competition": "1. Lig",
+                        "date": "18/03/2017",
+                        "teams_and_score": "Umraniyespor 0 - 0 Bandirmaspor"
+                    }
+                ],
+                "summary": {
+                    "Bandırmaspor_wins": "5",
+                    "draws": "1",
+                    "Ümraniyespor_wins": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/umraniyespor-vs-bandrmaspor-2026-03-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3584.webp",
+                    "name": "Bandırmaspor",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3577.webp",
+                    "name": "Ümraniyespor",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/umraniyespor-vs-bandrmaspor-2026-03-01-62tZ.webp",
+            "title": "Ümraniyespor vs Bandırmaspor"
+        }
+    ]
+}

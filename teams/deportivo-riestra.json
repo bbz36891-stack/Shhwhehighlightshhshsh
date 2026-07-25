@@ -1,0 +1,1383 @@
+{
+    "team": "Deportivo Riestra",
+    "team_logo": "https://img.refooty.com/logo/teams/476.webp",
+    "total_matches": 10,
+    "matches": [
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 18, 2026",
+            "description": "Watch Central Cordoba de Santiago vs Deportivo Riestra highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 18, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "E. Naya",
+                    "score_update": "1 - 0",
+                    "team": "Central Cordoba de Santiago",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Benegas",
+                    "team": "Deportivo Riestra",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Garcia",
+                    "team": "Deportivo Riestra",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Ramirez",
+                    "team": "Deportivo Riestra",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Arce",
+                    "team": "Deportivo Riestra",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "18/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Central Cordoba de Santiago 1 - 0 Deportivo Riestra"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Deportivo Riestra 1 - 0 Deportivo Maipu"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "01/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Barracas Central 1 - 1 Deportivo Riestra"
+                        }
+                    ],
+                    "team": "Deportivo Riestra"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "18/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Central Cordoba de Santiago 1 - 0 Deportivo Riestra"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "12/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Central Cordoba de Santiago 2 - 2 CA Gimnasia de Jujuy"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Central Cordoba de Santiago 1 - 0 Union"
+                        }
+                    ],
+                    "team": "Central Cordoba de Santiago"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primera Division: Clausura",
+                        "date": "12/09/2025",
+                        "teams_and_score": "Deportivo Riestra 2 - 0 Central Cordoba de Santiago"
+                    },
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "01/03/2025",
+                        "teams_and_score": "Central Cordoba de Santiago 0 - 0 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "05/08/2024",
+                        "teams_and_score": "Deportivo Riestra 1 - 0 Central Cordoba de Santiago"
+                    }
+                ],
+                "summary": {
+                    "Central Cordoba de Santiago_wins": "0",
+                    "Deportivo Riestra_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Central Cordoba de Santiago": "52%",
+                    "Deportivo Riestra": "48%"
+                },
+                "corners": {
+                    "Central Cordoba de Santiago": "2",
+                    "Deportivo Riestra": "3"
+                },
+                "fouls": {
+                    "Central Cordoba de Santiago": "8",
+                    "Deportivo Riestra": "13"
+                },
+                "goalkeeper_saves": {
+                    "Central Cordoba de Santiago": "4",
+                    "Deportivo Riestra": "1"
+                },
+                "offsides": {
+                    "Central Cordoba de Santiago": "1",
+                    "Deportivo Riestra": "2"
+                },
+                "shots_off_target": {
+                    "Central Cordoba de Santiago": "2",
+                    "Deportivo Riestra": "3"
+                },
+                "shots_on_target": {
+                    "Central Cordoba de Santiago": "2",
+                    "Deportivo Riestra": "4"
+                },
+                "yellow_cards": {
+                    "Central Cordoba de Santiago": "0",
+                    "Deportivo Riestra": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/central-cordoba-de-santiago-vs-deportivo-riestra-2026-03-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/476.webp",
+                    "name": "Deportivo Riestra",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1065.webp",
+                    "name": "Central Cordoba de Santiago",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/central-cordoba-de-santiago-vs-deportivo-riestra-2026-03-18-nrQZ.webp",
+            "title": "Central Cordoba de Santiago vs Deportivo Riestra"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 12, 2026",
+            "description": "Watch Deportivo Riestra vs Gimnasia M. highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 12, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/deportivo-riestra-gimnasia-mendoza-2026-03-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/deportivo-riestra-gimnasia-mendoza-2026-03-12-RTJ4.webp",
+            "title": "Deportivo Riestra - Gimnasia Mendoza"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Deportivo Riestra vs Instituto Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Paz",
+                    "team": "Deportivo Riestra",
+                    "time": "48'"
+                },
+                {
+                    "assist": "D. A. Sosa",
+                    "event_type": "Goal",
+                    "player": "A. N. Luna",
+                    "score_update": "0 - 1",
+                    "team": "Instituto Cordoba",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Abregu",
+                    "team": "Instituto Cordoba",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. R. Alarcon",
+                    "team": "Instituto Cordoba",
+                    "time": "72'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Gallardo",
+                    "team": "Instituto Cordoba",
+                    "time": "86'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Fonseca",
+                    "team": "Instituto Cordoba",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Deportivo Riestra 0 - 1 Instituto Cordoba"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "02/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Instituto Cordoba 2 - 0 Atlanta"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Boca Juniors 2 - 0 Instituto Cordoba"
+                        }
+                    ],
+                    "team": "Instituto Cordoba"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo Riestra 0 - 1 Instituto Cordoba"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "08/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo Riestra 0 - 0 Palestino"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "03/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Union 2 - 0 Deportivo Riestra"
+                        }
+                    ],
+                    "team": "Deportivo Riestra"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primera Division: Clausura",
+                        "date": "20/10/2025",
+                        "teams_and_score": "Deportivo Riestra 1 - 0 Instituto Cordoba"
+                    },
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "13/04/2025",
+                        "teams_and_score": "Instituto Cordoba 3 - 0 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "01/12/2024",
+                        "teams_and_score": "Instituto Cordoba 2 - 1 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Copa de la Liga Profesional",
+                        "date": "25/01/2024",
+                        "teams_and_score": "Instituto Cordoba 0 - 0 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Cup",
+                        "date": "08/06/2023",
+                        "teams_and_score": "Instituto Cordoba 2 - 1 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Primera Nacional",
+                        "date": "13/08/2022",
+                        "teams_and_score": "Instituto Cordoba 1 - 1 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Primera Nacional: Group B",
+                        "date": "22/02/2020",
+                        "teams_and_score": "Instituto Cordoba 0 - 0 Deportivo Riestra"
+                    }
+                ],
+                "summary": {
+                    "Deportivo Riestra_wins": "1",
+                    "Instituto Cordoba_wins": "4",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Deportivo Riestra": "53%",
+                    "Instituto Cordoba": "47%"
+                },
+                "corners": {
+                    "Deportivo Riestra": "7",
+                    "Instituto Cordoba": "5"
+                },
+                "fouls": {
+                    "Deportivo Riestra": "12",
+                    "Instituto Cordoba": "15"
+                },
+                "goalkeeper_saves": {
+                    "Deportivo Riestra": "5",
+                    "Instituto Cordoba": "4"
+                },
+                "offsides": {
+                    "Deportivo Riestra": "4",
+                    "Instituto Cordoba": "1"
+                },
+                "shots_off_target": {
+                    "Deportivo Riestra": "4",
+                    "Instituto Cordoba": "8"
+                },
+                "shots_on_target": {
+                    "Deportivo Riestra": "4",
+                    "Instituto Cordoba": "6"
+                },
+                "yellow_cards": {
+                    "Deportivo Riestra": "1",
+                    "Instituto Cordoba": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/deportivo-riestra-instituto-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/478.webp",
+                    "name": "Instituto Cordoba",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/476.webp",
+                    "name": "Deportivo Riestra",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/deportivo-riestra-instituto-2026-04-11-ezvh.webp",
+            "title": "Deportivo Riestra - Instituto"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 3, 2026",
+            "description": "Watch Deportivo Riestra vs Platense highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 3, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/deportivo-riestra-platense-2026-03-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/deportivo-riestra-platense-2026-03-03-YKW4.webp",
+            "title": "Deportivo Riestra - Platense"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 26, 2026",
+            "description": "Watch Deportivo Riestra vs San Lorenzo highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 26, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Arce",
+                    "team": "Deportivo Riestra",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Alonso",
+                    "score_update": "1 - 0",
+                    "team": "Deportivo Riestra",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Alonso",
+                    "team": "Deportivo Riestra",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Tripichio",
+                    "team": "San Lorenzo",
+                    "time": "61'"
+                },
+                {
+                    "assist": "F. Gulli",
+                    "event_type": "Goal",
+                    "player": "A. Cuello",
+                    "score_update": "1 - 1",
+                    "team": "San Lorenzo",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo Riestra 1 - 1 San Lorenzo de Almagro"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "San Lorenzo de Almagro 5 - 0 Deportivo Rincon"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "16/03/2026",
+                            "result": "L",
+                            "teams_and_score": "San Lorenzo de Almagro 2 - 5 Defensa y Justicia"
+                        }
+                    ],
+                    "team": "San Lorenzo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo Riestra 1 - 1 San Lorenzo de Almagro"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Deportivo Riestra 1 - 0 Deportivo Maipu"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "01/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Barracas Central 1 - 1 Deportivo Riestra"
+                        }
+                    ],
+                    "team": "Deportivo Riestra"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primera Division: Clausura",
+                        "date": "31/10/2025",
+                        "teams_and_score": "San Lorenzo de Almagro 1 - 0 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "20/04/2025",
+                        "teams_and_score": "Deportivo Riestra 0 - 0 San Lorenzo de Almagro"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "12/05/2024",
+                        "teams_and_score": "Deportivo Riestra 1 - 0 San Lorenzo de Almagro"
+                    }
+                ],
+                "summary": {
+                    "Deportivo Riestra_wins": "1",
+                    "San Lorenzo_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Deportivo Riestra": "36%",
+                    "San Lorenzo": "64%"
+                },
+                "corners": {
+                    "Deportivo Riestra": "2",
+                    "San Lorenzo": "4"
+                },
+                "fouls": {
+                    "Deportivo Riestra": "13",
+                    "San Lorenzo": "15"
+                },
+                "goalkeeper_saves": {
+                    "Deportivo Riestra": "1",
+                    "San Lorenzo": "1"
+                },
+                "offsides": {
+                    "Deportivo Riestra": "4",
+                    "San Lorenzo": "1"
+                },
+                "shots_off_target": {
+                    "Deportivo Riestra": "3",
+                    "San Lorenzo": "3"
+                },
+                "shots_on_target": {
+                    "Deportivo Riestra": "2",
+                    "San Lorenzo": "2"
+                },
+                "yellow_cards": {
+                    "Deportivo Riestra": "2",
+                    "San Lorenzo": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/deportivo-riestra-san-lorenzo-2026-03-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/460.webp",
+                    "name": "San Lorenzo",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/476.webp",
+                    "name": "Deportivo Riestra",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/deportivo-riestra-san-lorenzo-2026-03-26-M17k.webp",
+            "title": "Deportivo Riestra - San Lorenzo"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Feb 6, 2026",
+            "description": "Watch Deportivo Riestra vs Deportivo Maipu highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on February 6, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Arce",
+                    "team": "Deportivo Riestra",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Alonso",
+                    "score_update": "1 - 0",
+                    "team": "Deportivo Riestra",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Alonso",
+                    "team": "Deportivo Riestra",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Tripichio",
+                    "team": "Deportivo Maipu",
+                    "time": "61'"
+                },
+                {
+                    "assist": "F. Gulli",
+                    "event_type": "Goal",
+                    "player": "A. Cuello",
+                    "score_update": "1 - 1",
+                    "team": "Deportivo Maipu",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo Riestra 1 - 1 San Lorenzo de Almagro"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "San Lorenzo de Almagro 5 - 0 Deportivo Rincon"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "16/03/2026",
+                            "result": "W",
+                            "teams_and_score": "San Lorenzo de Almagro 2 - 5 Defensa y Justicia"
+                        }
+                    ],
+                    "team": "Deportivo Maipu"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo Riestra 1 - 1 San Lorenzo de Almagro"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Deportivo Riestra 1 - 0 Deportivo Maipu"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "01/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Barracas Central 1 - 1 Deportivo Riestra"
+                        }
+                    ],
+                    "team": "Deportivo Riestra"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primera Division: Clausura",
+                        "date": "31/10/2025",
+                        "teams_and_score": "San Lorenzo de Almagro 1 - 0 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "20/04/2025",
+                        "teams_and_score": "Deportivo Riestra 0 - 0 San Lorenzo de Almagro"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "12/05/2024",
+                        "teams_and_score": "Deportivo Riestra 1 - 0 San Lorenzo de Almagro"
+                    }
+                ],
+                "summary": {
+                    "Deportivo Maipu_wins": "1",
+                    "Deportivo Riestra_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Deportivo Maipu": "64%",
+                    "Deportivo Riestra": "36%"
+                },
+                "corners": {
+                    "Deportivo Maipu": "4",
+                    "Deportivo Riestra": "2"
+                },
+                "fouls": {
+                    "Deportivo Maipu": "15",
+                    "Deportivo Riestra": "13"
+                },
+                "goalkeeper_saves": {
+                    "Deportivo Maipu": "1",
+                    "Deportivo Riestra": "1"
+                },
+                "offsides": {
+                    "Deportivo Maipu": "1",
+                    "Deportivo Riestra": "4"
+                },
+                "shots_off_target": {
+                    "Deportivo Maipu": "3",
+                    "Deportivo Riestra": "3"
+                },
+                "shots_on_target": {
+                    "Deportivo Maipu": "2",
+                    "Deportivo Riestra": "2"
+                },
+                "yellow_cards": {
+                    "Deportivo Maipu": "1",
+                    "Deportivo Riestra": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/deportivo-riestra-vs-deportivo-maipu-2026-02-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1954.webp",
+                    "name": "Deportivo Maipu",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/476.webp",
+                    "name": "Deportivo Riestra",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/deportivo-riestra-vs-deportivo-maipu-2026-02-06-DS53.webp",
+            "title": "Deportivo Riestra vs Deportivo Maipu"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Lanus vs Deportivo Riestra highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on May 2, 2026. On May 2, 2026, the Liga Profesional Argentina continued as Lanús welcomed Deportivo Riestra for a match that prioritized defensive organization over open-play flair. Fans gathered expecting a clash of styles, wondering which side would find the spark to break the deadlock in a highly anticipated league fixture. A Physical Opening Exchange The match began with an immediate intensity that set the tone for a physical afternoon of football. From the opening whistle, both sides struggled to find a rhythm as the referee was called into action frequently to manage a series of heavy challenges. The disciplinary record began to fill up early; Walter Bou was the first into the book in the 12th minute, followed quickly by his Lanús teammate Dylan Aquino just six minutes later. The visitors were not to be outdone in the physical department, as Mariano Bracamonte received a yellow card for Deportivo Riestra in the 20th minute, reflecting a first half defined more by tactical fouls and defensive positioning than clear-cut scoring opportunities. Despite the high energy, both goalkeepers remained largely untested heading into the interval. Tactical Adjustments and Rising Tension Returning for the second half, Lanús looked to inject fresh energy into their setup, introducing Felipe Pena Biafore in place of Facundo Sanchez at the break. The tactical shift aimed to provide more control in the middle of the park, yet the scrappy nature of the contest persisted. Deportivo Riestra 's Gonzalo Flores earned a yellow card in the 56th minute, shortly before a flurry of substitutions altered the complexion of the game. In a bold triple move near the hour mark, Lanús brought on Marcelino no , Gabriel Obredor , and Antony Alonso , replacing the cautioned Walter Bou , Gonzalo Flores , and Mauro Smarra as they searched for a late breakthrough. A Resilient Finish As the clock ticked toward the final whistle, the game became a war of attrition. Deportivo Riestra ’s Juan Cruz Randazzo was cautioned in the 66th minute as the visitors dug in to protect their clean sheet. Lanús turned to the experience of Eduardo Salvio and Lucas Besozzi in the 68th minute, hoping their creative spark could unlock a stubborn Riestra backline. The visitors responded with defensive reinforcements of their own, bringing on Matias Garcia to see out the closing stages. Despite a late introduction for Ramiro Carrera and six minutes of added time, neither side could find the decisive touch. The referee blew the final whistle at 90+6', ending a contest where defensive discipline ultimately triumphed over attacking ambition.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Bou",
+                    "team": "Lanus",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Aquino",
+                    "team": "Lanus",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Bracamonte",
+                    "team": "Deportivo Riestra",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Gonzalo",
+                    "team": "Deportivo Riestra",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. C. Randazzo",
+                    "team": "Deportivo Riestra",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Lanus 0 - 0 Deportivo Riestra"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "29/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Deportivo Riestra 2 - 1 Montevideo City Torque"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "24/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Deportivo Riestra 2 - 0 Independiente"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Gremio 1 - 0 Deportivo Riestra"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo Riestra 0 - 1 Instituto Cordoba"
+                        }
+                    ],
+                    "team": "Deportivo Riestra"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Lanus 0 - 0 Deportivo Riestra"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "28/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Lanus 1 - 0 LDU de Quito"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "24/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Lanus 0 - 0 Central Cordoba de Santiago"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Lanus 1 - 0 Always Ready"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "13/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Lanus 1 - 0 Banfield"
+                        }
+                    ],
+                    "team": "Lanus"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primera Division: Clausura",
+                        "date": "14/07/2025",
+                        "teams_and_score": "Deportivo Riestra 1 - 0 Lanus"
+                    },
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "24/01/2025",
+                        "teams_and_score": "Lanus 0 - 2 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "09/08/2024",
+                        "teams_and_score": "Deportivo Riestra 3 - 1 Lanus"
+                    }
+                ],
+                "summary": {
+                    "Deportivo Riestra_wins": "3",
+                    "Lanus_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Deportivo Riestra": "0%",
+                    "Lanus": "0%"
+                },
+                "yellow_cards": {
+                    "Deportivo Riestra": "3",
+                    "Lanus": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/lanus-deportivo-riestra-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/476.webp",
+                    "name": "Deportivo Riestra",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/446.webp",
+                    "name": "Lanus",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lanus-deportivo-riestra-2026-05-02-Arq9.webp",
+            "title": "Lanús - Deportivo Riestra"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Apr 24, 2026",
+            "description": "Watch Deportivo Riestra vs Independiente highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on April 24, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Ramirez",
+                    "team": "Deportivo Riestra",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Bracamonte",
+                    "score_update": "1 - 0",
+                    "team": "Deportivo Riestra",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Perez",
+                    "team": "Independiente",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. C. Randazzo",
+                    "team": "Deportivo Riestra",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Goitía",
+                    "team": "Deportivo Riestra",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Marcone",
+                    "team": "Independiente",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Herrera",
+                    "team": "Deportivo Riestra",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "",
+                    "score_update": "2 - 0",
+                    "team": "Deportivo Riestra",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Gonzalo",
+                    "team": "Deportivo Riestra",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Zabala",
+                    "team": "Independiente",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "24/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo Riestra 2 - 0 Independiente"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "27/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Independiente 4 - 2 Sportivo Atenas"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente 1 - 2 Talleres"
+                        }
+                    ],
+                    "team": "Independiente"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "24/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Deportivo Riestra 2 - 0 Independiente"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Gremio 1 - 0 Deportivo Riestra"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo Riestra 0 - 1 Instituto Cordoba"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "08/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo Riestra 0 - 0 Palestino"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "03/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Union 2 - 0 Deportivo Riestra"
+                        }
+                    ],
+                    "team": "Deportivo Riestra"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primera Division: Clausura",
+                        "date": "10/11/2025",
+                        "teams_and_score": "Deportivo Riestra 0 - 1 Independiente"
+                    },
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "28/04/2025",
+                        "teams_and_score": "Independiente 0 - 0 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "06/10/2024",
+                        "teams_and_score": "Independiente 3 - 1 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Copa de la Liga Profesional",
+                        "date": "15/03/2024",
+                        "teams_and_score": "Deportivo Riestra 1 - 0 Independiente"
+                    }
+                ],
+                "summary": {
+                    "Deportivo Riestra_wins": "1",
+                    "Independiente_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Deportivo Riestra": "35%",
+                    "Independiente": "65%"
+                },
+                "corners": {
+                    "Deportivo Riestra": "3",
+                    "Independiente": "3"
+                },
+                "fouls": {
+                    "Deportivo Riestra": "14",
+                    "Independiente": "12"
+                },
+                "goalkeeper_saves": {
+                    "Deportivo Riestra": "9",
+                    "Independiente": "1"
+                },
+                "offsides": {
+                    "Deportivo Riestra": "1",
+                    "Independiente": "2"
+                },
+                "shots_off_target": {
+                    "Deportivo Riestra": "2",
+                    "Independiente": "2"
+                },
+                "shots_on_target": {
+                    "Deportivo Riestra": "3",
+                    "Independiente": "9"
+                },
+                "yellow_cards": {
+                    "Deportivo Riestra": "5",
+                    "Independiente": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/riestra-independiente-2026-04-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/453.webp",
+                    "name": "Independiente",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/476.webp",
+                    "name": "Deportivo Riestra",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/riestra-independiente-2026-04-24-VvAx.webp",
+            "title": "Riestra - Independiente"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Apr 20, 2026",
+            "description": "Watch Talleres Cordoba vs Deportivo Riestra highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on April 20, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Gremio 1 - 0 Deportivo Riestra"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo Riestra 0 - 1 Instituto Cordoba"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "08/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo Riestra 0 - 0 Palestino"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "03/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Union 2 - 0 Deportivo Riestra"
+                        }
+                    ],
+                    "team": "Deportivo Riestra"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "13/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Defensa y Justicia 1 - 2 Talleres"
+                        }
+                    ],
+                    "team": "Talleres Cordoba"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primera Division: Clausura",
+                        "date": "31/08/2025",
+                        "teams_and_score": "Talleres 0 - 1 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "21/02/2025",
+                        "teams_and_score": "Deportivo Riestra 0 - 0 Talleres"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "02/11/2024",
+                        "teams_and_score": "Deportivo Riestra 0 - 0 Talleres"
+                    },
+                    {
+                        "competition": "Copa de la Liga Profesional",
+                        "date": "07/03/2024",
+                        "teams_and_score": "Deportivo Riestra 0 - 1 Talleres"
+                    }
+                ],
+                "summary": {
+                    "Deportivo Riestra_wins": "0",
+                    "Talleres Cordoba_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Deportivo Riestra": "29%",
+                    "Talleres Cordoba": "71%"
+                },
+                "corners": {
+                    "Deportivo Riestra": "7",
+                    "Talleres Cordoba": "4"
+                },
+                "fouls": {
+                    "Deportivo Riestra": "13",
+                    "Talleres Cordoba": "10"
+                },
+                "goalkeeper_saves": {
+                    "Deportivo Riestra": "6",
+                    "Talleres Cordoba": "1"
+                },
+                "offsides": {
+                    "Deportivo Riestra": "4",
+                    "Talleres Cordoba": "1"
+                },
+                "shots_blocked": {
+                    "Deportivo Riestra": "1",
+                    "Talleres Cordoba": "2"
+                },
+                "shots_off_target": {
+                    "Deportivo Riestra": "7",
+                    "Talleres Cordoba": "5"
+                },
+                "shots_on_target": {
+                    "Deportivo Riestra": "1",
+                    "Talleres Cordoba": "8"
+                },
+                "yellow_cards": {
+                    "Deportivo Riestra": "2",
+                    "Talleres Cordoba": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/talleres-de-cordoba-deportivo-riestra-2026-04-20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/476.webp",
+                    "name": "Deportivo Riestra",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/456.webp",
+                    "name": "Talleres Cordoba",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/talleres-de-cordoba-deportivo-riestra-2026-04-20-xcC1.webp",
+            "title": "Talleres de Cordoba - Deportivo Riestra"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Feb 26, 2026",
+            "description": "Watch Velez Sarsfield vs Deportivo Riestra highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on February 26, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/velez-sarsfield-vs-deportivo-riestra-2026-02-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/velez-sarsfield-vs-deportivo-riestra-2026-02-26-8HoM.webp",
+            "title": "Velez Sarsfield vs Deportivo Riestra"
+        }
+    ]
+}

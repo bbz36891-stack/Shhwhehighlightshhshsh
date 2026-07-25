@@ -1,0 +1,4003 @@
+{
+    "team": "Borussia Dortmund",
+    "team_logo": "https://img.refooty.com/logo/teams/165.webp",
+    "total_matches": 35,
+    "matches": [
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Feb 25, 2026",
+            "description": "Watch Atalanta vs Borussia Dortmund highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on February 25, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "G. Scamacca",
+                    "score_update": "1 - 0",
+                    "team": "Atalanta",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Bensebaini",
+                    "team": "Borussia Dortmund",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Zappacosta",
+                    "score_update": "2 - 0",
+                    "team": "Atalanta",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Can",
+                    "team": "Borussia Dortmund",
+                    "time": "53'"
+                },
+                {
+                    "assist": "M. De Roon",
+                    "event_type": "Goal",
+                    "player": "M. Pašalić",
+                    "score_update": "3 - 0",
+                    "team": "Atalanta",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Hien",
+                    "team": "Atalanta",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Silva",
+                    "team": "Borussia Dortmund",
+                    "time": "69'"
+                },
+                {
+                    "assist": "C. Chukwuemeka",
+                    "event_type": "Goal",
+                    "player": "K. Adeyemi",
+                    "score_update": "3 - 1",
+                    "team": "Borussia Dortmund",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "G. Scalvini",
+                    "team": "Atalanta",
+                    "time": "90+7'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "N. Schlotterbeck",
+                    "team": "Borussia Dortmund",
+                    "time": "90+7'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "R. Bensebaini",
+                    "team": "Borussia Dortmund",
+                    "time": "90+7'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Samardžić",
+                    "score_update": "4 - 1",
+                    "team": "Atalanta",
+                    "time": "90+8'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Ryerson",
+                    "team": "Borussia Dortmund",
+                    "time": "90+9'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "25/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Atalanta 4 - 1 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "21/02/2026",
+                            "result": "D",
+                            "teams_and_score": "RB Leipzig 2 - 2 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 2 - 0 Atalanta"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 4 - 0 Mainz 05"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Borussia Dortmund 0 - 2 Inter"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "25/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Atalanta 4 - 1 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Atalanta 2 - 1 Napoli"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Borussia Dortmund 2 - 0 Atalanta"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Lazio 0 - 2 Atalanta"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Atalanta 3 - 0 Juventus"
+                        }
+                    ],
+                    "team": "Atalanta"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Knockout Stage",
+                        "date": "17/02/2026",
+                        "teams_and_score": "Borussia Dortmund 2 - 0 Atalanta"
+                    },
+                    {
+                        "competition": "Europa League Final Stage",
+                        "date": "22/02/2018",
+                        "teams_and_score": "Atalanta 1 - 1 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "01/08/2017",
+                        "teams_and_score": "Borussia Dortmund 0 - 1 Atalanta"
+                    }
+                ],
+                "summary": {
+                    "Atalanta_wins": "1",
+                    "Borussia Dortmund_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atalanta": "44%",
+                    "Borussia Dortmund": "56%"
+                },
+                "corners": {
+                    "Atalanta": "5",
+                    "Borussia Dortmund": "1"
+                },
+                "crosses": {
+                    "Atalanta": "5",
+                    "Borussia Dortmund": "2"
+                },
+                "fouls": {
+                    "Atalanta": "17",
+                    "Borussia Dortmund": "10"
+                },
+                "goalkeeper_saves": {
+                    "Atalanta": "3",
+                    "Borussia Dortmund": "4"
+                },
+                "offsides": {
+                    "Atalanta": "2",
+                    "Borussia Dortmund": "2"
+                },
+                "red_cards": {
+                    "Atalanta": "1",
+                    "Borussia Dortmund": "2"
+                },
+                "shots_blocked": {
+                    "Atalanta": "2",
+                    "Borussia Dortmund": "1"
+                },
+                "shots_off_target": {
+                    "Atalanta": "4",
+                    "Borussia Dortmund": "2"
+                },
+                "shots_on_target": {
+                    "Atalanta": "9",
+                    "Borussia Dortmund": "4"
+                },
+                "yellow_cards": {
+                    "Atalanta": "1",
+                    "Borussia Dortmund": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Atalanta_v_Dortmund_2026_02_25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/499.webp",
+                    "name": "Atalanta",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/atalanta-v-dortmund-2026-02-25-gOIR.webp",
+            "title": "Atalanta vs Borussia Dortmund"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Oct 31, 2025",
+            "description": "Watch FC Augsburg vs Borussia Dortmund highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on October 31, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Augsburg_v_Dortmund_2025_10_31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/augsburg-v-dortmund-2025-10-31.webp",
+            "title": "Augsburg vs Borussia Dortmund"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Nov 29, 2025",
+            "description": "Watch Bayer Leverkusen vs Borussia Dortmund highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on November 29, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leverkusen_v_Dortmund_2025_11_29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leverkusen-v-dortmund-2025-11-29.webp",
+            "title": "Bayer Leverkusen vs Borussia Dortmund"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Feb 17, 2026",
+            "description": "Watch Borussia Dortmund vs Atalanta highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on February 17, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Ryerson",
+                    "event_type": "Goal",
+                    "player": "S. Guirassy",
+                    "score_update": "1 - 0",
+                    "team": "Borussia Dortmund",
+                    "time": "3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Reggiani",
+                    "team": "Borussia Dortmund",
+                    "time": "18'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Kossounou",
+                    "team": "Atalanta",
+                    "time": "40'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Djimsiti",
+                    "team": "Atalanta",
+                    "time": "40'"
+                },
+                {
+                    "assist": "S. Guirassy",
+                    "event_type": "Goal",
+                    "player": "M. Beier",
+                    "score_update": "2 - 0",
+                    "team": "Borussia Dortmund",
+                    "time": "42'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Scamacca",
+                    "team": "Atalanta",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Anton",
+                    "team": "Borussia Dortmund",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Borussia Dortmund 2 - 0 Atalanta"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Lazio 0 - 2 Atalanta"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Atalanta 3 - 0 Juventus"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "01/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Como 1907 0 - 0 Atalanta"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 1 - 0 Atalanta"
+                        }
+                    ],
+                    "team": "Atalanta"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 2 - 0 Atalanta"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 4 - 0 Mainz 05"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Borussia Dortmund 0 - 2 Inter"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "24/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Union Berlin 0 - 3 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "20/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Tottenham Hotspur 2 - 0 Borussia Dortmund"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Europa League Final Stage",
+                        "date": "22/02/2018",
+                        "teams_and_score": "Atalanta 1 - 1 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "01/08/2017",
+                        "teams_and_score": "Borussia Dortmund 0 - 1 Atalanta"
+                    }
+                ],
+                "summary": {
+                    "Atalanta_wins": "1",
+                    "Borussia Dortmund_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atalanta": "56%",
+                    "Borussia Dortmund": "44%"
+                },
+                "corners": {
+                    "Atalanta": "2",
+                    "Borussia Dortmund": "3"
+                },
+                "crosses": {
+                    "Atalanta": "3",
+                    "Borussia Dortmund": "4"
+                },
+                "fouls": {
+                    "Atalanta": "13",
+                    "Borussia Dortmund": "11"
+                },
+                "goalkeeper_saves": {
+                    "Atalanta": "0",
+                    "Borussia Dortmund": "3"
+                },
+                "offsides": {
+                    "Atalanta": "1",
+                    "Borussia Dortmund": "1"
+                },
+                "shots_blocked": {
+                    "Atalanta": "2",
+                    "Borussia Dortmund": "3"
+                },
+                "shots_off_target": {
+                    "Atalanta": "2",
+                    "Borussia Dortmund": "4"
+                },
+                "shots_on_target": {
+                    "Atalanta": "3",
+                    "Borussia Dortmund": "2"
+                },
+                "yellow_cards": {
+                    "Atalanta": "3",
+                    "Borussia Dortmund": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Dortmund_v_Atalanta_2026_02_17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/499.webp",
+                    "name": "Atalanta",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dortmund-v-atalanta-2026-02-17-zZUQ.webp",
+            "title": "Borussia Dortmund vs Atalanta"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Oct 1, 2025",
+            "description": "Watch Borussia Dortmund vs Ba highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on October 1, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://video.bongdaminhtai.top/Dortmund_v_Athletic_Club_2025_10_01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dortmund-v-athletic-club-2025-10-01.webp",
+            "title": "Borussia Dortmund vs Athletic Bilbao"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Borussia Dortmund vs Bayer Leverkusen highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Bensebaini",
+                    "team": "Borussia Dortmund",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Andrich",
+                    "score_update": "0 - 1",
+                    "team": "Bayer Leverkusen",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Guirassy",
+                    "team": "Borussia Dortmund",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Beier",
+                    "team": "Borussia Dortmund",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 0 - 1 Bayer Leverkusen"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Arsenal 2 - 0 Bayer Leverkusen"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "14/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Bayer Leverkusen 1 - 1 Bayern Munich"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "11/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Bayer Leverkusen 1 - 1 Arsenal"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "07/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Freiburg 3 - 3 Bayer Leverkusen"
+                        }
+                    ],
+                    "team": "Bayer Leverkusen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Borussia Dortmund 0 - 1 Bayer Leverkusen"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "25/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Atalanta 4 - 1 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "21/02/2026",
+                            "result": "D",
+                            "teams_and_score": "RB Leipzig 2 - 2 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 2 - 0 Atalanta"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 4 - 0 Mainz 05"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "DFB Cup: Round of 16",
+                        "date": "02/12/2025",
+                        "teams_and_score": "Borussia Dortmund 0 - 1 Bayer Leverkusen"
+                    },
+                    {
+                        "competition": "Bundesliga",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Bayer Leverkusen 1 - 2 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 24/25",
+                        "date": "11/05/2025",
+                        "teams_and_score": "Bayer Leverkusen 2 - 4 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 23/24",
+                        "date": "21/04/2024",
+                        "teams_and_score": "Borussia Dortmund 1 - 1 Bayer Leverkusen"
+                    },
+                    {
+                        "competition": "Bundesliga 22/23",
+                        "date": "29/01/2023",
+                        "teams_and_score": "Bayer Leverkusen 0 - 2 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 21/22",
+                        "date": "06/02/2022",
+                        "teams_and_score": "Borussia Dortmund 2 - 5 Bayer Leverkusen"
+                    }
+                ],
+                "summary": {
+                    "Bayer Leverkusen_wins": "2",
+                    "Borussia Dortmund_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bayer Leverkusen": "48%",
+                    "Borussia Dortmund": "53%"
+                },
+                "corners": {
+                    "Bayer Leverkusen": "5",
+                    "Borussia Dortmund": "5"
+                },
+                "crosses": {
+                    "Bayer Leverkusen": "2",
+                    "Borussia Dortmund": "8"
+                },
+                "fouls": {
+                    "Bayer Leverkusen": "6",
+                    "Borussia Dortmund": "5"
+                },
+                "goalkeeper_saves": {
+                    "Bayer Leverkusen": "0",
+                    "Borussia Dortmund": "3"
+                },
+                "offsides": {
+                    "Bayer Leverkusen": "1",
+                    "Borussia Dortmund": "2"
+                },
+                "shots_blocked": {
+                    "Bayer Leverkusen": "3",
+                    "Borussia Dortmund": "2"
+                },
+                "shots_off_target": {
+                    "Bayer Leverkusen": "4",
+                    "Borussia Dortmund": "11"
+                },
+                "shots_on_target": {
+                    "Bayer Leverkusen": "4",
+                    "Borussia Dortmund": "1"
+                },
+                "yellow_cards": {
+                    "Bayer Leverkusen": "0",
+                    "Borussia Dortmund": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Borussia_Dortmund_v_Bayer_Leverkusen_2026_04_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/168.webp",
+                    "name": "Bayer Leverkusen",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/borussia-dortmund-v-bayer-leverkusen-2026-04-11-A8ja.webp",
+            "title": "Borussia Dortmund vs Bayer Leverkusen"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Dec 10, 2025",
+            "description": "Watch Borussia Dortmund vs Bodo/Glimt highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on December 10, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Dortmund_v_Bodo_Glimt_2025_12_10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dortmund-v-bodo-glimt-2025-12-10-FpzC.webp",
+            "title": "Borussia Dortmund vs Bodo Glimt"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "May 8, 2026",
+            "description": "Watch Borussia Dortmund vs Eintracht Frankfurt highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on May 8, 2026. Late Drama as Dortmund Edges Frankfurt in Thrilling Bundesliga Encounter A thrilling encounter marked the matchday of May 8, 2026, as Borussia Dortmund hosted Eintracht Frankfurt . The fixture promised high-level football, and both sides delivered a spectacle full of twists and turns, and moments of pure tension. Frankfurt Takes an Early Lead, Dortmund Responds Fiercely The visiting side, Eintracht Frankfurt , drew first blood. In the 2nd minute, Can Uzun opened the scoring with a precise left-footed strike, assisted by Mahmoud Dahoud . The initial lead seemed to give the visitors control, but Borussia Dortmund would demonstrate their resilience. Before halftime, the hosts orchestrated a spectacular comeback. In the 42nd minute, Serhou Guirassy equalized with a right-footed goal, following a crucial pass from Julian Ryerson , who was himself assisted by Marcel Sabitzer . Just three minutes later, deep into first-half stoppage time, Dortmund completed the turnaround. Nico Schlotterbeck scored with his left foot, with Maximilian Beier providing the decisive pass after a build-up involving Jobe Bellingham . Second Half of Tactics and Anxiety Borussia Dortmund solidified their advantage in the second half. In the 72nd minute, Samuele Inacio extended the lead to 3-1 with a right-footed goal, assisted by Maximilian Beier , who in turn received a key pass from Jobe Bellingham . The home side appeared to have the game under control, but Eintracht Frankfurt refused to give up. The Frankfurt side mounted a late surge that kept the game electrifying until the final whistle. In the 87th minute, Jonathan Burkardt reduced the deficit to 3-2 with a left-footed shot, injecting hope into his team. The match saw a series of substitutions from both camps, with managers looking to bolster their lines for the decisive moments. In the dying minutes, Dortmund saw Samuele Inacio and Gregor Kobel receive yellow cards for time-wasting, a clear attempt to hold onto the result. Borussia Dortmund thus managed to secure all three points at home, in a match that tested the nerves of all involved, culminating with the final whistle after four minutes of added time.",
+            "events_timeline": [
+                {
+                    "assist": "M. Dahoud",
+                    "event_type": "Goal",
+                    "player": "C. Uzun",
+                    "score_update": "0 - 1",
+                    "team": "Eintracht Frankfurt",
+                    "time": "2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Reggiani",
+                    "team": "Borussia Dortmund",
+                    "time": "21'"
+                },
+                {
+                    "assist": "J. Ryerson",
+                    "event_type": "Goal",
+                    "player": "S. Guirassy",
+                    "score_update": "1 - 1",
+                    "team": "Borussia Dortmund",
+                    "time": "42'"
+                },
+                {
+                    "assist": "M. Beier",
+                    "event_type": "Goal",
+                    "player": "N. Schlotterbeck",
+                    "score_update": "2 - 1",
+                    "team": "Borussia Dortmund",
+                    "time": "45+1'"
+                },
+                {
+                    "assist": "M. Beier",
+                    "event_type": "Goal",
+                    "player": "S. Inacio",
+                    "score_update": "3 - 1",
+                    "team": "Borussia Dortmund",
+                    "time": "72'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Burkardt",
+                    "score_update": "3 - 2",
+                    "team": "Eintracht Frankfurt",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Inacio",
+                    "team": "Borussia Dortmund",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Kobel",
+                    "team": "Borussia Dortmund",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "08/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Borussia Dortmund 3 - 2 Eintracht Frankfurt"
+                        }
+                    ],
+                    "team": "Eintracht Frankfurt"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "08/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 3 - 2 Eintracht Frankfurt"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Bundesliga",
+                        "date": "09/01/2026",
+                        "teams_and_score": "Eintracht Frankfurt 3 - 3 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "DFB Cup: Round 2",
+                        "date": "28/10/2025",
+                        "teams_and_score": "Eintracht Frankfurt 1 - 1 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 24/25",
+                        "date": "17/01/2025",
+                        "teams_and_score": "Eintracht Frankfurt 2 - 0 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 23/24",
+                        "date": "17/03/2024",
+                        "teams_and_score": "Borussia Dortmund 3 - 1 Eintracht Frankfurt"
+                    },
+                    {
+                        "competition": "Bundesliga 22/23",
+                        "date": "22/04/2023",
+                        "teams_and_score": "Borussia Dortmund 4 - 0 Eintracht Frankfurt"
+                    },
+                    {
+                        "competition": "Bundesliga 21/22",
+                        "date": "08/01/2022",
+                        "teams_and_score": "Eintracht Frankfurt 2 - 3 Borussia Dortmund"
+                    }
+                ],
+                "summary": {
+                    "Borussia Dortmund_wins": "3",
+                    "Eintracht Frankfurt_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Borussia Dortmund": "56%",
+                    "Eintracht Frankfurt": "44%"
+                },
+                "corners": {
+                    "Borussia Dortmund": "6",
+                    "Eintracht Frankfurt": "2"
+                },
+                "crosses": {
+                    "Borussia Dortmund": "8",
+                    "Eintracht Frankfurt": "0"
+                },
+                "fouls": {
+                    "Borussia Dortmund": "14",
+                    "Eintracht Frankfurt": "8"
+                },
+                "goalkeeper_saves": {
+                    "Borussia Dortmund": "2",
+                    "Eintracht Frankfurt": "5"
+                },
+                "offsides": {
+                    "Borussia Dortmund": "0",
+                    "Eintracht Frankfurt": "5"
+                },
+                "shots_blocked": {
+                    "Borussia Dortmund": "0",
+                    "Eintracht Frankfurt": "2"
+                },
+                "shots_off_target": {
+                    "Borussia Dortmund": "5",
+                    "Eintracht Frankfurt": "3"
+                },
+                "shots_on_target": {
+                    "Borussia Dortmund": "8",
+                    "Eintracht Frankfurt": "4"
+                },
+                "yellow_cards": {
+                    "Borussia Dortmund": "3",
+                    "Eintracht Frankfurt": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Borussia_Dortmund_v_Eintracht_Frankfurt_2026_05_08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/169.webp",
+                    "name": "Eintracht Frankfurt",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/borussia-dortmund-v-eintracht-frankfurt-2026-05-08-2csH.webp",
+            "title": "Borussia Dortmund vs Eintracht Frankfurt"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Oct 25, 2025",
+            "description": "Watch Borussia Dortmund vs Bayern München highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on October 25, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Dortmund_v_FC_Cologne_2025_10_25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dortmund-v-fc-cologne-2025-10-25.webp",
+            "title": "Borussia Dortmund vs FC Cologne"
+        },
+        {
+            "competition": "FIFA Club World Cup",
+            "competition_cover": "https://refooty.com/covers/fifa-club-world-cup.webp",
+            "date": "Jun 17, 2025",
+            "description": "Watch Borussia Dortmund vs Fluminense highlights and goals from FIFA Club World Cup on ReFooty: Football Highlights Hub. Match played on June 17, 2025.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Bensebaini",
+                    "team": "Borussia Dortmund",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Andrich",
+                    "score_update": "0 - 1",
+                    "team": "Fluminense",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Guirassy",
+                    "team": "Borussia Dortmund",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Beier",
+                    "team": "Borussia Dortmund",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 0 - 1 Bayer Leverkusen"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Arsenal 2 - 0 Bayer Leverkusen"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "14/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Bayer Leverkusen 1 - 1 Bayern Munich"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "11/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Bayer Leverkusen 1 - 1 Arsenal"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "07/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Freiburg 3 - 3 Bayer Leverkusen"
+                        }
+                    ],
+                    "team": "Fluminense"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Borussia Dortmund 0 - 1 Bayer Leverkusen"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "25/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Atalanta 4 - 1 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "21/02/2026",
+                            "result": "D",
+                            "teams_and_score": "RB Leipzig 2 - 2 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 2 - 0 Atalanta"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 4 - 0 Mainz 05"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "DFB Cup: Round of 16",
+                        "date": "02/12/2025",
+                        "teams_and_score": "Borussia Dortmund 0 - 1 Bayer Leverkusen"
+                    },
+                    {
+                        "competition": "Bundesliga",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Bayer Leverkusen 1 - 2 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 24/25",
+                        "date": "11/05/2025",
+                        "teams_and_score": "Bayer Leverkusen 2 - 4 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 23/24",
+                        "date": "21/04/2024",
+                        "teams_and_score": "Borussia Dortmund 1 - 1 Bayer Leverkusen"
+                    },
+                    {
+                        "competition": "Bundesliga 22/23",
+                        "date": "29/01/2023",
+                        "teams_and_score": "Bayer Leverkusen 0 - 2 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 21/22",
+                        "date": "06/02/2022",
+                        "teams_and_score": "Borussia Dortmund 2 - 5 Bayer Leverkusen"
+                    }
+                ],
+                "summary": {
+                    "Borussia Dortmund_wins": "3",
+                    "Fluminense_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Borussia Dortmund": "53%",
+                    "Fluminense": "48%"
+                },
+                "corners": {
+                    "Borussia Dortmund": "5",
+                    "Fluminense": "5"
+                },
+                "crosses": {
+                    "Borussia Dortmund": "8",
+                    "Fluminense": "2"
+                },
+                "fouls": {
+                    "Borussia Dortmund": "5",
+                    "Fluminense": "6"
+                },
+                "goalkeeper_saves": {
+                    "Borussia Dortmund": "3",
+                    "Fluminense": "0"
+                },
+                "offsides": {
+                    "Borussia Dortmund": "2",
+                    "Fluminense": "1"
+                },
+                "shots_blocked": {
+                    "Borussia Dortmund": "2",
+                    "Fluminense": "3"
+                },
+                "shots_off_target": {
+                    "Borussia Dortmund": "11",
+                    "Fluminense": "4"
+                },
+                "shots_on_target": {
+                    "Borussia Dortmund": "1",
+                    "Fluminense": "4"
+                },
+                "yellow_cards": {
+                    "Borussia Dortmund": "3",
+                    "Fluminense": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/borussia-dortmund-vs-fluminense-2025-06-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/124.webp",
+                    "name": "Fluminense",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/borussia-dortmund-vs-fluminense-2025-06-17-PRIo.webp",
+            "title": "Borussia Dortmund vs Fluminense"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Dec 7, 2025",
+            "description": "Watch Borussia Dortmund vs Hoffenheim highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on December 7, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Dortmund_v_Hoffenheim_2025_12_07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dortmund-v-hoffenheim-2025-12-07.webp",
+            "title": "Borussia Dortmund vs Hoffenheim"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Jan 28, 2026",
+            "description": "Watch Borussia Dortmund vs Inter highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on January 28, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Akanji",
+                    "team": "Inter",
+                    "time": "56'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Bensebaini",
+                    "team": "Borussia Dortmund",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Dimarco",
+                    "score_update": "0 - 1",
+                    "team": "Inter",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Acerbi",
+                    "team": "Inter",
+                    "time": "90+1'"
+                },
+                {
+                    "assist": "D. Frattesi",
+                    "event_type": "Goal",
+                    "player": "A. Diouf",
+                    "score_update": "0 - 2",
+                    "team": "Inter",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Inter"
+                },
+                "home_team_form": {
+                    "team": "Borussia Dortmund"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Borussia Dortmund": "45%",
+                    "Inter": "55%"
+                },
+                "corners": {
+                    "Borussia Dortmund": "5",
+                    "Inter": "3"
+                },
+                "crosses": {
+                    "Borussia Dortmund": "3",
+                    "Inter": "6"
+                },
+                "fouls": {
+                    "Borussia Dortmund": "12",
+                    "Inter": "14"
+                },
+                "goalkeeper_saves": {
+                    "Borussia Dortmund": "3",
+                    "Inter": "1"
+                },
+                "offsides": {
+                    "Borussia Dortmund": "0",
+                    "Inter": "2"
+                },
+                "shots_blocked": {
+                    "Borussia Dortmund": "5",
+                    "Inter": "3"
+                },
+                "shots_off_target": {
+                    "Borussia Dortmund": "3",
+                    "Inter": "4"
+                },
+                "shots_on_target": {
+                    "Borussia Dortmund": "1",
+                    "Inter": "5"
+                },
+                "yellow_cards": {
+                    "Borussia Dortmund": "1",
+                    "Inter": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Dortmund_v_Inter_2026_01_28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/505.webp",
+                    "name": "Inter",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dortmund-v-inter-2026-01-28-Q4qg.webp",
+            "title": "Borussia Dortmund vs Inter Milan"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Dec 19, 2025",
+            "description": "Watch Borussia Dortmund vs Borussia M'gladbach highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on December 19, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Borussia M'gladbach"
+                },
+                "home_team_form": {
+                    "team": "Borussia Dortmund"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Dortmund_v_Monchengladbach_2025_12_19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/9368.webp",
+                    "name": "Borussia M'gladbach",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dortmund-v-monchengladbach-2025-12-19.webp",
+            "title": "Borussia Dortmund vs M'gladbach"
+        },
+        {
+            "competition": "FIFA Club World Cup",
+            "competition_cover": "https://refooty.com/covers/fifa-club-world-cup.webp",
+            "date": "Jun 22, 2025",
+            "description": "Watch Borussia Dortmund vs Mamelodi Sundowns highlights and goals from FIFA Club World Cup on ReFooty: Football Highlights Hub. Match played on June 22, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/borussia-dortmund-vs-mamelodi-sundowns-2025-06-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/borussia-dortmund-vs-mamelodi-sundowns-2025-06-22-UrOd.webp",
+            "title": "Borussia Dortmund vs Mamelodi Sundowns"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Oct 4, 2025",
+            "description": "Watch Borussia Dortmund vs RB Leipzig highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on October 4, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Dortmund_v_RB_Leipzig_2025_10_04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dortmund-v-rb-leipzig-2025-10-04.webp",
+            "title": "Borussia Dortmund vs RB Leipzig"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Jun 1, 2024",
+            "description": "Watch Borussia Dortmund vs Real Madrid highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on June 1, 2024.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Bensebaini",
+                    "team": "Borussia Dortmund",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Andrich",
+                    "score_update": "0 - 1",
+                    "team": "Real Madrid",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Guirassy",
+                    "team": "Borussia Dortmund",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Beier",
+                    "team": "Borussia Dortmund",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 0 - 1 Bayer Leverkusen"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Arsenal 2 - 0 Bayer Leverkusen"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "14/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Bayer Leverkusen 1 - 1 Bayern Munich"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "11/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Bayer Leverkusen 1 - 1 Arsenal"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "07/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Freiburg 3 - 3 Bayer Leverkusen"
+                        }
+                    ],
+                    "team": "Real Madrid"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Borussia Dortmund 0 - 1 Bayer Leverkusen"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "25/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Atalanta 4 - 1 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "21/02/2026",
+                            "result": "D",
+                            "teams_and_score": "RB Leipzig 2 - 2 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 2 - 0 Atalanta"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 4 - 0 Mainz 05"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "DFB Cup: Round of 16",
+                        "date": "02/12/2025",
+                        "teams_and_score": "Borussia Dortmund 0 - 1 Bayer Leverkusen"
+                    },
+                    {
+                        "competition": "Bundesliga",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Bayer Leverkusen 1 - 2 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 24/25",
+                        "date": "11/05/2025",
+                        "teams_and_score": "Bayer Leverkusen 2 - 4 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 23/24",
+                        "date": "21/04/2024",
+                        "teams_and_score": "Borussia Dortmund 1 - 1 Bayer Leverkusen"
+                    },
+                    {
+                        "competition": "Bundesliga 22/23",
+                        "date": "29/01/2023",
+                        "teams_and_score": "Bayer Leverkusen 0 - 2 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 21/22",
+                        "date": "06/02/2022",
+                        "teams_and_score": "Borussia Dortmund 2 - 5 Bayer Leverkusen"
+                    }
+                ],
+                "summary": {
+                    "Borussia Dortmund_wins": "3",
+                    "Real Madrid_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Borussia Dortmund": "53%",
+                    "Real Madrid": "48%"
+                },
+                "corners": {
+                    "Borussia Dortmund": "5",
+                    "Real Madrid": "5"
+                },
+                "crosses": {
+                    "Borussia Dortmund": "8",
+                    "Real Madrid": "2"
+                },
+                "fouls": {
+                    "Borussia Dortmund": "5",
+                    "Real Madrid": "6"
+                },
+                "goalkeeper_saves": {
+                    "Borussia Dortmund": "3",
+                    "Real Madrid": "0"
+                },
+                "offsides": {
+                    "Borussia Dortmund": "2",
+                    "Real Madrid": "1"
+                },
+                "shots_blocked": {
+                    "Borussia Dortmund": "2",
+                    "Real Madrid": "3"
+                },
+                "shots_off_target": {
+                    "Borussia Dortmund": "11",
+                    "Real Madrid": "4"
+                },
+                "shots_on_target": {
+                    "Borussia Dortmund": "1",
+                    "Real Madrid": "4"
+                },
+                "yellow_cards": {
+                    "Borussia Dortmund": "3",
+                    "Real Madrid": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/borussia-dortmund-vs-real-madrid-2024-06-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/541.webp",
+                    "name": "Real Madrid",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/borussia-dortmund-vs-real-madrid-2024-06-01-ncM1.webp",
+            "title": "Borussia Dortmund vs Real Madrid"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch Borussia Dortmund vs SC Freiburg highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on April 26, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "R. Bensebaini",
+                    "event_type": "Goal",
+                    "player": "M. Beier",
+                    "score_update": "1 - 0",
+                    "team": "Borussia Dortmund",
+                    "time": "1'"
+                },
+                {
+                    "assist": "J. Brandt",
+                    "event_type": "Goal",
+                    "player": "S. Guirassy",
+                    "score_update": "2 - 0",
+                    "team": "Borussia Dortmund",
+                    "time": "16'"
+                },
+                {
+                    "assist": "J. Ryerson",
+                    "event_type": "Goal",
+                    "player": "R. Bensebaini",
+                    "score_update": "3 - 0",
+                    "team": "Borussia Dortmund",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "L. Holer",
+                    "team": "SC Freiburg",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Bellingham",
+                    "team": "Borussia Dortmund",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Silva",
+                    "score_update": "4 - 0",
+                    "team": "Borussia Dortmund",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Borussia Dortmund 4 - 0 Freiburg"
+                        },
+                        {
+                            "competition": "DFB Cup: Semi-Finals",
+                            "date": "23/04/2026",
+                            "result": "L",
+                            "teams_and_score": "VfB Stuttgart 2 - 1 Freiburg"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Freiburg 2 - 1 FC Heidenheim"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Celta Vigo 1 - 3 Freiburg"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Mainz 05 0 - 1 Freiburg"
+                        }
+                    ],
+                    "team": "SC Freiburg"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 4 - 0 Freiburg"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "25/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Atalanta 4 - 1 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "21/02/2026",
+                            "result": "D",
+                            "teams_and_score": "RB Leipzig 2 - 2 Borussia Dortmund"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Bundesliga",
+                        "date": "14/12/2025",
+                        "teams_and_score": "Freiburg 1 - 1 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 24/25",
+                        "date": "05/04/2025",
+                        "teams_and_score": "Freiburg 1 - 4 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 23/24",
+                        "date": "09/02/2024",
+                        "teams_and_score": "Borussia Dortmund 3 - 0 Freiburg"
+                    },
+                    {
+                        "competition": "Bundesliga 22/23",
+                        "date": "04/02/2023",
+                        "teams_and_score": "Borussia Dortmund 5 - 1 Freiburg"
+                    },
+                    {
+                        "competition": "Bundesliga 21/22",
+                        "date": "14/01/2022",
+                        "teams_and_score": "Borussia Dortmund 5 - 1 Freiburg"
+                    },
+                    {
+                        "competition": "Bundesliga 20/21",
+                        "date": "06/02/2021",
+                        "teams_and_score": "Freiburg 2 - 1 Borussia Dortmund"
+                    }
+                ],
+                "summary": {
+                    "Borussia Dortmund_wins": "4",
+                    "SC Freiburg_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Borussia Dortmund": "61%",
+                    "SC Freiburg": "39%"
+                },
+                "corners": {
+                    "Borussia Dortmund": "5",
+                    "SC Freiburg": "0"
+                },
+                "crosses": {
+                    "Borussia Dortmund": "6",
+                    "SC Freiburg": "1"
+                },
+                "fouls": {
+                    "Borussia Dortmund": "19",
+                    "SC Freiburg": "10"
+                },
+                "goalkeeper_saves": {
+                    "Borussia Dortmund": "4",
+                    "SC Freiburg": "1"
+                },
+                "offsides": {
+                    "Borussia Dortmund": "0",
+                    "SC Freiburg": "2"
+                },
+                "shots_blocked": {
+                    "Borussia Dortmund": "7",
+                    "SC Freiburg": "0"
+                },
+                "shots_off_target": {
+                    "Borussia Dortmund": "5",
+                    "SC Freiburg": "3"
+                },
+                "shots_on_target": {
+                    "Borussia Dortmund": "5",
+                    "SC Freiburg": "4"
+                },
+                "yellow_cards": {
+                    "Borussia Dortmund": "1",
+                    "SC Freiburg": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Borussia_Dortmund_v_SC_Freiburg_2026_04_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/160.webp",
+                    "name": "SC Freiburg",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/borussia-dortmund-v-sc-freiburg-2026-04-26-fJuL.webp",
+            "title": "Borussia Dortmund vs SC Freiburg"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Jan 17, 2026",
+            "description": "Watch Borussia Dortmund vs St. Pauli highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on January 17, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Dortmund_v_St_Pauli_2026_01_17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dortmund-v-st-pauli-2026-01-17-Hg4S.webp",
+            "title": "Borussia Dortmund vs St Pauli"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Nov 22, 2025",
+            "description": "Watch Borussia Dortmund vs Stuttgart highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on November 22, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Dortmund_v_Stuttgart_2025_11_22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dortmund-v-stuttgart-2025-11-22.webp",
+            "title": "Borussia Dortmund vs Stuttgart"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Nov 25, 2025",
+            "description": "Watch Borussia Dortmund vs Villarreal highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on November 25, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Dortmund_v_Villarreal_2025_11_25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dortmund-v-villarreal-2025-11-25.webp",
+            "title": "Borussia Dortmund vs Villarreal"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Feb 13, 2026",
+            "description": "Watch Borussia Dortmund vs Mainz 05 highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on February 13, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "C. Baumgartner",
+                    "team": "Mainz 05",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Werner",
+                    "team": "Mainz 05",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Stanišić",
+                    "team": "Borussia Dortmund",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Vandevoordt",
+                    "team": "Mainz 05",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "H. Kane",
+                    "score_update": "1 - 0",
+                    "team": "Borussia Dortmund",
+                    "time": "76'"
+                },
+                {
+                    "assist": "M. Olise",
+                    "event_type": "Goal",
+                    "player": "L. Díaz",
+                    "score_update": "2 - 0",
+                    "team": "Borussia Dortmund",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Seiwald",
+                    "team": "Mainz 05",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Pavlović",
+                    "team": "Borussia Dortmund",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Romulo",
+                    "team": "Mainz 05",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Lukeba",
+                    "team": "Mainz 05",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Baumgartner",
+                    "team": "Mainz 05",
+                    "time": "136'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Laimer",
+                    "team": "Borussia Dortmund",
+                    "time": "151'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "DFB Cup: Quarter-Finals",
+                            "date": "11/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bayern Munich 2 - 0 RB Leipzig"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "08/02/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cologne 1 - 2 RB Leipzig"
+                        }
+                    ],
+                    "team": "Mainz 05"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "DFB Cup: Quarter-Finals",
+                            "date": "11/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bayern Munich 2 - 0 RB Leipzig"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bayern Munich 5 - 1 Hoffenheim"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "W",
+                            "teams_and_score": "PSV Eindhoven 1 - 2 Bayern Munich"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "24/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Bayern Munich 1 - 2 Augsburg"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "21/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Bayern Munich 2 - 0 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Bundesliga",
+                        "date": "17/01/2026",
+                        "teams_and_score": "RB Leipzig 1 - 5 Bayern Munich"
+                    },
+                    {
+                        "competition": "Bundesliga 24/25",
+                        "date": "03/05/2025",
+                        "teams_and_score": "RB Leipzig 3 - 3 Bayern Munich"
+                    },
+                    {
+                        "competition": "Bundesliga 23/24",
+                        "date": "24/02/2024",
+                        "teams_and_score": "Bayern Munich 2 - 1 RB Leipzig"
+                    },
+                    {
+                        "competition": "DFL Super Cup",
+                        "date": "12/08/2023",
+                        "teams_and_score": "Bayern Munich 0 - 3 RB Leipzig"
+                    },
+                    {
+                        "competition": "Bundesliga 22/23",
+                        "date": "20/05/2023",
+                        "teams_and_score": "Bayern Munich 1 - 3 RB Leipzig"
+                    },
+                    {
+                        "competition": "DFL Super Cup",
+                        "date": "30/07/2022",
+                        "teams_and_score": "RB Leipzig 3 - 5 Bayern Munich"
+                    }
+                ],
+                "summary": {
+                    "Borussia Dortmund_wins": "4",
+                    "Mainz 05_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Borussia Dortmund": "58%",
+                    "Mainz 05": "42%"
+                },
+                "corners": {
+                    "Borussia Dortmund": "4",
+                    "Mainz 05": "6"
+                },
+                "crosses": {
+                    "Borussia Dortmund": "12",
+                    "Mainz 05": "11"
+                },
+                "fouls": {
+                    "Borussia Dortmund": "11",
+                    "Mainz 05": "14"
+                },
+                "goalkeeper_saves": {
+                    "Borussia Dortmund": "1",
+                    "Mainz 05": "4"
+                },
+                "offsides": {
+                    "Borussia Dortmund": "3",
+                    "Mainz 05": "1"
+                },
+                "shots_blocked": {
+                    "Borussia Dortmund": "3",
+                    "Mainz 05": "2"
+                },
+                "shots_off_target": {
+                    "Borussia Dortmund": "4",
+                    "Mainz 05": "3"
+                },
+                "shots_on_target": {
+                    "Borussia Dortmund": "6",
+                    "Mainz 05": "1"
+                },
+                "yellow_cards": {
+                    "Borussia Dortmund": "3",
+                    "Mainz 05": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Dortmund_v_Mainz_05_2026_02_13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/21564.webp",
+                    "name": "Mainz 05",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dortmund-v-mainz-05-2026-02-13-jKbS.webp",
+            "title": "Dortmund vs Mainz 05"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Jan 9, 2026",
+            "description": "Watch Eintracht Frankfurt vs Borussia Dortmund highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on January 9, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Frankfurt_v_Dortmund_2026_01_09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/frankfurt-v-dortmund-2026-01-09-PO8U.webp",
+            "title": "Eintracht Frankfurt vs Borussia Dortmund"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Mar 7, 2026",
+            "description": "Watch 1.FC Köln vs Borussia Dortmund highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on March 7, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "M. Beier",
+                    "event_type": "Goal",
+                    "player": "S. Guirassy",
+                    "score_update": "0 - 1",
+                    "team": "Borussia Dortmund",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Simpson-Pusey",
+                    "team": "1.FC Köln",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Bensebaini",
+                    "team": "Borussia Dortmund",
+                    "time": "45+5'"
+                },
+                {
+                    "assist": "J. Brandt",
+                    "event_type": "Goal",
+                    "player": "M. Beier",
+                    "score_update": "0 - 2",
+                    "team": "Borussia Dortmund",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Martel",
+                    "team": "1.FC Köln",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Kaminski",
+                    "score_update": "1 - 2",
+                    "team": "1.FC Köln",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cologne 1 - 2 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "25/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Atalanta 4 - 1 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "21/02/2026",
+                            "result": "D",
+                            "teams_and_score": "RB Leipzig 2 - 2 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 2 - 0 Atalanta"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 4 - 0 Mainz 05"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cologne 1 - 2 Borussia Dortmund"
+                        }
+                    ],
+                    "team": "1.FC Köln"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Bundesliga",
+                        "date": "25/10/2025",
+                        "teams_and_score": "Borussia Dortmund 1 - 0 FC Cologne"
+                    },
+                    {
+                        "competition": "Bundesliga 23/24",
+                        "date": "20/01/2024",
+                        "teams_and_score": "FC Cologne 0 - 4 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 22/23",
+                        "date": "18/03/2023",
+                        "teams_and_score": "Borussia Dortmund 6 - 1 FC Cologne"
+                    },
+                    {
+                        "competition": "Bundesliga 21/22",
+                        "date": "20/03/2022",
+                        "teams_and_score": "FC Cologne 1 - 1 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 20/21",
+                        "date": "20/03/2021",
+                        "teams_and_score": "FC Cologne 2 - 2 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "1. Bundesliga",
+                        "date": "24/01/2020",
+                        "teams_and_score": "Borussia Dortmund 5 - 1 FC Cologne"
+                    }
+                ],
+                "summary": {
+                    "1FC Köln_wins": "1",
+                    "Borussia Dortmund_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "1FC Köln": "39%",
+                    "Borussia Dortmund": "61%"
+                },
+                "corners": {
+                    "1FC Köln": "9",
+                    "Borussia Dortmund": "4"
+                },
+                "crosses": {
+                    "1FC Köln": "8",
+                    "Borussia Dortmund": "4"
+                },
+                "fouls": {
+                    "1FC Köln": "9",
+                    "Borussia Dortmund": "13"
+                },
+                "goalkeeper_saves": {
+                    "1FC Köln": "3",
+                    "Borussia Dortmund": "4"
+                },
+                "offsides": {
+                    "1FC Köln": "5",
+                    "Borussia Dortmund": "2"
+                },
+                "red_cards": {
+                    "1FC Köln": "1",
+                    "Borussia Dortmund": "0"
+                },
+                "shots_blocked": {
+                    "1FC Köln": "5",
+                    "Borussia Dortmund": "4"
+                },
+                "shots_off_target": {
+                    "1FC Köln": "5",
+                    "Borussia Dortmund": "4"
+                },
+                "shots_on_target": {
+                    "1FC Köln": "4",
+                    "Borussia Dortmund": "5"
+                },
+                "yellow_cards": {
+                    "1FC Köln": "1",
+                    "Borussia Dortmund": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Cologne_v_Dortmund_2026_03_07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/192.webp",
+                    "name": "1.FC Köln",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cologne-v-dortmund-2026-03-07-50g2.webp",
+            "title": "FC Cologne vs Borussia Dortmund"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Oct 21, 2025",
+            "description": "Watch FC Copenhagen vs Borussia Dortmund highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on October 21, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Copenhagen_v_Dortmund_2025_10_21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/copenhagen-v-dortmund-2025-10-21.webp",
+            "title": "FC Copenhagen vs Borussia Dortmund"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Nov 8, 2025",
+            "description": "Watch Hamburger SV vs Borussia Dortmund highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on November 8, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Borussia Dortmund"
+                },
+                "home_team_form": {
+                    "team": "Hamburger SV"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Hamburg_v_Dortmund_2025_11_08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/175.webp",
+                    "name": "Hamburger SV",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hamburg-v-dortmund-2025-11-08.webp",
+            "title": "Hamburger SV vs Borussia Dortmund"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Apr 18, 2026",
+            "description": "Watch Hoffenheim vs Borussia Dortmund highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on April 18, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Burger",
+                    "team": "Hoffenheim",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Kramarić",
+                    "score_update": "1 - 0",
+                    "team": "Hoffenheim",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Prass",
+                    "team": "Hoffenheim",
+                    "time": "77'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Schlotterbeck",
+                    "team": "Borussia Dortmund",
+                    "time": "84'"
+                },
+                {
+                    "assist": "R. Bensebaini",
+                    "event_type": "Goal",
+                    "player": "S. Guirassy",
+                    "score_update": "1 - 1",
+                    "team": "Borussia Dortmund",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Ryerson",
+                    "team": "Borussia Dortmund",
+                    "time": "90+7'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Kramarić",
+                    "score_update": "2 - 1",
+                    "team": "Hoffenheim",
+                    "time": "90+8'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Inacio",
+                    "team": "Borussia Dortmund",
+                    "time": "90+10'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Hoffenheim 2 - 1 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "25/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Atalanta 4 - 1 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "21/02/2026",
+                            "result": "D",
+                            "teams_and_score": "RB Leipzig 2 - 2 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 2 - 0 Atalanta"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Hoffenheim 2 - 1 Borussia Dortmund"
+                        }
+                    ],
+                    "team": "Hoffenheim"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Bundesliga",
+                        "date": "07/12/2025",
+                        "teams_and_score": "Borussia Dortmund 2 - 0 Hoffenheim"
+                    },
+                    {
+                        "competition": "Bundesliga 24/25",
+                        "date": "26/04/2025",
+                        "teams_and_score": "Hoffenheim 2 - 3 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 23/24",
+                        "date": "25/02/2024",
+                        "teams_and_score": "Borussia Dortmund 2 - 3 Hoffenheim"
+                    },
+                    {
+                        "competition": "DFB Cup: Round 2 23/24",
+                        "date": "01/11/2023",
+                        "teams_and_score": "Borussia Dortmund 1 - 0 Hoffenheim"
+                    },
+                    {
+                        "competition": "Bundesliga 23/24",
+                        "date": "29/09/2023",
+                        "teams_and_score": "Hoffenheim 1 - 3 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 22/23",
+                        "date": "25/02/2023",
+                        "teams_and_score": "Hoffenheim 0 - 1 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 21/22",
+                        "date": "22/01/2022",
+                        "teams_and_score": "Hoffenheim 2 - 3 Borussia Dortmund"
+                    }
+                ],
+                "summary": {
+                    "Borussia Dortmund_wins": "6",
+                    "Hoffenheim_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Borussia Dortmund": "54%",
+                    "Hoffenheim": "46%"
+                },
+                "corners": {
+                    "Borussia Dortmund": "3",
+                    "Hoffenheim": "4"
+                },
+                "crosses": {
+                    "Borussia Dortmund": "4",
+                    "Hoffenheim": "5"
+                },
+                "fouls": {
+                    "Borussia Dortmund": "11",
+                    "Hoffenheim": "14"
+                },
+                "goalkeeper_saves": {
+                    "Borussia Dortmund": "2",
+                    "Hoffenheim": "2"
+                },
+                "offsides": {
+                    "Borussia Dortmund": "3",
+                    "Hoffenheim": "6"
+                },
+                "shots_blocked": {
+                    "Borussia Dortmund": "2",
+                    "Hoffenheim": "5"
+                },
+                "shots_off_target": {
+                    "Borussia Dortmund": "3",
+                    "Hoffenheim": "4"
+                },
+                "shots_on_target": {
+                    "Borussia Dortmund": "3",
+                    "Hoffenheim": "4"
+                },
+                "yellow_cards": {
+                    "Borussia Dortmund": "3",
+                    "Hoffenheim": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Hoffenheim_v_Borussia_Dortmund_2026_04_18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/7955.webp",
+                    "name": "Hoffenheim",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hoffenheim-v-borussia-dortmund-2026-04-18-cJ9d.webp",
+            "title": "Hoffenheim vs Borussia Dortmund"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "May 3, 2026",
+            "description": "Watch Borussia M'gladbach vs Borussia Dortmund highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on May 3, 2026. A packed house witnessed a high-stakes Bundesliga encounter as Borussia M'gladbach hosted Borussia Dortmund in a match defined by tactical discipline and technological intervention. Both sides navigated a cagey affair where the smallest of margins threatened to decide the outcome under the lights. A Tense Opening Exchange On May 3, 2026 , over 54,000 spectators filled the stands for this highly anticipated fixture, creating an electric atmosphere that belied the cautious approach taken by both managers in the opening stages. Borussia M'gladbach appeared to have found the breakthrough early in the 25th minute when Nico Elvedi found the back of the net, but the celebrations were cut short. A lengthy VAR review determined the defender was in an offside position, keeping the scoreline level. Yannik Engelhardt also went close for the hosts with a header that drifted wide, while Dortmund struggled to find their usual fluidity in the final third, leading to a stalemate as the first half drew to a close. Tactical Shifts and Rising Temperatures The second half saw an increase in physical intensity as both teams fought for control of the midfield. In the 54th minute, Kevin Stöger was cautioned for a cynical shirt-pull, followed shortly by Nico Schlotterbeck of Borussia Dortmund receiving a yellow card for a dangerous challenge. As the game entered its final quarter, Dortmund manager introduced fresh legs in the form of Fabio Silva , Salih Ozcan , and later Carney Chukwuemeka , attempting to break the deadlock. Gladbach responded with chances of their own, most notably a stinging long-range effort from Yannik Engelhardt in the 81st minute that whistled just past the upright. Late Drama and VAR Confirmation The defining moment of the match arrived in the 88th minute. Rocco Reitz showcased excellent vision to create a scoring opportunity for Haris Tabaković , who made no mistake with a clinical right-footed finish. The stadium erupted, but play was once again halted for a VAR check to verify the legitimacy of the goal. After a tense wait, the referee signaled that the goal stood in the 90th minute. Tabaković was so swept up in the emotion of the moment that he received a yellow card for his celebrations, but his contribution proved decisive. In a frantic four minutes of stoppage time, Borussia Dortmund pushed forward through Yan Couto and Daniel Svensson , but the Gladbach defense, led by timely interceptions from Joseph Scally , held firm. The final whistle confirmed a significant victory for the home side, rewarding their persistence in a match where every inch was contested.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Stöger",
+                    "team": "Borussia M'gladbach",
+                    "time": "54'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Schlotterbeck",
+                    "team": "Borussia Dortmund",
+                    "time": "56'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Elvedi",
+                    "team": "Borussia M'gladbach",
+                    "time": "87'"
+                },
+                {
+                    "assist": "R. Reitz",
+                    "event_type": "Goal",
+                    "player": "H. Tabaković",
+                    "score_update": "1 - 0",
+                    "team": "Borussia M'gladbach",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Tabaković",
+                    "team": "Borussia M'gladbach",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Borussia M'gladbach 1 - 0 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "25/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Atalanta 4 - 1 Borussia Dortmund"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia M'gladbach 1 - 0 Borussia Dortmund"
+                        }
+                    ],
+                    "team": "Borussia M'gladbach"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Bundesliga",
+                        "date": "19/12/2025",
+                        "teams_and_score": "Borussia Dortmund 2 - 0 Borussia M'gladbach"
+                    },
+                    {
+                        "competition": "Bundesliga 24/25",
+                        "date": "20/04/2025",
+                        "teams_and_score": "Borussia Dortmund 3 - 2 Borussia M'gladbach"
+                    },
+                    {
+                        "competition": "Bundesliga 23/24",
+                        "date": "13/04/2024",
+                        "teams_and_score": "Borussia M'gladbach 1 - 2 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 22/23",
+                        "date": "13/05/2023",
+                        "teams_and_score": "Borussia Dortmund 5 - 2 Borussia M'gladbach"
+                    },
+                    {
+                        "competition": "Bundesliga 21/22",
+                        "date": "20/02/2022",
+                        "teams_and_score": "Borussia Dortmund 6 - 0 Borussia M'gladbach"
+                    },
+                    {
+                        "competition": "DFB Cup 20/21",
+                        "date": "02/03/2021",
+                        "teams_and_score": "Borussia M'gladbach 0 - 1 Borussia Dortmund"
+                    }
+                ],
+                "summary": {
+                    "Borussia Dortmund_wins": "6",
+                    "Borussia M'gladbach_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Borussia Dortmund": "49%",
+                    "Borussia M'gladbach": "51%"
+                },
+                "corners": {
+                    "Borussia Dortmund": "1",
+                    "Borussia M'gladbach": "1"
+                },
+                "crosses": {
+                    "Borussia Dortmund": "2",
+                    "Borussia M'gladbach": "6"
+                },
+                "fouls": {
+                    "Borussia Dortmund": "17",
+                    "Borussia M'gladbach": "14"
+                },
+                "goalkeeper_saves": {
+                    "Borussia Dortmund": "3",
+                    "Borussia M'gladbach": "1"
+                },
+                "offsides": {
+                    "Borussia Dortmund": "0",
+                    "Borussia M'gladbach": "1"
+                },
+                "shots_blocked": {
+                    "Borussia Dortmund": "0",
+                    "Borussia M'gladbach": "3"
+                },
+                "shots_off_target": {
+                    "Borussia Dortmund": "5",
+                    "Borussia M'gladbach": "5"
+                },
+                "shots_on_target": {
+                    "Borussia Dortmund": "1",
+                    "Borussia M'gladbach": "4"
+                },
+                "yellow_cards": {
+                    "Borussia Dortmund": "1",
+                    "Borussia M'gladbach": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Monchengladbach_v_Borussia_Dortmund_2026_05_03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/9368.webp",
+                    "name": "Borussia M'gladbach",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/monchengladbach-v-borussia-dortmund-2026-05-03-LS6T.webp",
+            "title": "M'gladbach vs Borussia Dortmund"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Nov 5, 2025",
+            "description": "Watch Manchester City vs Borussia Dortmund highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on November 5, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Manchester_City_v_Dortmund_2025_11_05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-city-v-dortmund-2025-11-05.webp",
+            "title": "Man City vs Borussia Dortmund"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Feb 21, 2026",
+            "description": "Watch RB Leipzig vs Borussia Dortmund highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on February 21, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "Y. Diomande",
+                    "event_type": "Goal",
+                    "player": "C. Baumgartner",
+                    "score_update": "1 - 0",
+                    "team": "RB Leipzig",
+                    "time": "20'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Romulo",
+                    "team": "RB Leipzig",
+                    "time": "30'"
+                },
+                {
+                    "assist": "D. Raum",
+                    "event_type": "Goal",
+                    "player": "C. Baumgartner",
+                    "score_update": "2 - 0",
+                    "team": "RB Leipzig",
+                    "time": "39'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Lukeba",
+                    "team": "RB Leipzig",
+                    "time": "41'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Bensebaini",
+                    "team": "Borussia Dortmund",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Romulo",
+                    "team": "Borussia Dortmund",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Reggiani",
+                    "team": "Borussia Dortmund",
+                    "time": "54'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Ryerson",
+                    "team": "Borussia Dortmund",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Silva",
+                    "team": "Borussia Dortmund",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Raum",
+                    "team": "RB Leipzig",
+                    "time": "90+2'"
+                },
+                {
+                    "assist": "K. Adeyemi",
+                    "event_type": "Goal",
+                    "player": "F. Silva",
+                    "score_update": "2 - 2",
+                    "team": "Borussia Dortmund",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "21/02/2026",
+                            "result": "D",
+                            "teams_and_score": "RB Leipzig 2 - 2 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 2 - 0 Atalanta"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 4 - 0 Mainz 05"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Borussia Dortmund 0 - 2 Inter"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "24/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Union Berlin 0 - 3 Borussia Dortmund"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "21/02/2026",
+                            "result": "D",
+                            "teams_and_score": "RB Leipzig 2 - 2 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "DFB Cup: Quarter-Finals",
+                            "date": "11/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bayern Munich 2 - 0 RB Leipzig"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "08/02/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cologne 1 - 2 RB Leipzig"
+                        }
+                    ],
+                    "team": "RB Leipzig"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Bundesliga",
+                        "date": "04/10/2025",
+                        "teams_and_score": "Borussia Dortmund 1 - 1 RB Leipzig"
+                    },
+                    {
+                        "competition": "Bundesliga 24/25",
+                        "date": "15/03/2025",
+                        "teams_and_score": "RB Leipzig 2 - 0 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 23/24",
+                        "date": "27/04/2024",
+                        "teams_and_score": "RB Leipzig 4 - 1 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "DFB Cup: Quarter-Finals 22/23",
+                        "date": "05/04/2023",
+                        "teams_and_score": "RB Leipzig 2 - 0 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 22/23",
+                        "date": "03/03/2023",
+                        "teams_and_score": "Borussia Dortmund 2 - 1 RB Leipzig"
+                    },
+                    {
+                        "competition": "Bundesliga 21/22",
+                        "date": "02/04/2022",
+                        "teams_and_score": "Borussia Dortmund 1 - 4 RB Leipzig"
+                    }
+                ],
+                "summary": {
+                    "Borussia Dortmund_wins": "1",
+                    "RB Leipzig_wins": "4",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Borussia Dortmund": "45%",
+                    "RB Leipzig": "55%"
+                },
+                "corners": {
+                    "Borussia Dortmund": "2",
+                    "RB Leipzig": "6"
+                },
+                "crosses": {
+                    "Borussia Dortmund": "6",
+                    "RB Leipzig": "6"
+                },
+                "fouls": {
+                    "Borussia Dortmund": "17",
+                    "RB Leipzig": "11"
+                },
+                "goalkeeper_saves": {
+                    "Borussia Dortmund": "1",
+                    "RB Leipzig": "4"
+                },
+                "offsides": {
+                    "Borussia Dortmund": "4",
+                    "RB Leipzig": "0"
+                },
+                "shots_blocked": {
+                    "Borussia Dortmund": "4",
+                    "RB Leipzig": "4"
+                },
+                "shots_off_target": {
+                    "Borussia Dortmund": "2",
+                    "RB Leipzig": "7"
+                },
+                "shots_on_target": {
+                    "Borussia Dortmund": "5",
+                    "RB Leipzig": "3"
+                },
+                "yellow_cards": {
+                    "Borussia Dortmund": "4",
+                    "RB Leipzig": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/RB_Leipzig_v_Borussia_Dortmund_2026_02_21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/173.webp",
+                    "name": "RB Leipzig",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rb-leipzig-v-borussia-dortmund-2026-02-21-zB3w.webp",
+            "title": "RB Leipzig vs Borussia Dortmund"
+        },
+        {
+            "competition": "FIFA Club World Cup",
+            "competition_cover": "https://refooty.com/covers/fifa-club-world-cup.webp",
+            "date": "Jul 6, 2025",
+            "description": "Watch Real Madrid vs Borussia Dortmund highlights and goals from FIFA Club World Cup on ReFooty: Football Highlights Hub. Match played on July 6, 2025.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Mbappé",
+                    "team": "Real Madrid",
+                    "time": "1'"
+                },
+                {
+                    "assist": "B. Díaz",
+                    "event_type": "Goal",
+                    "player": "F. Valverde",
+                    "score_update": "1 - 0",
+                    "team": "Real Madrid",
+                    "time": "46'"
+                },
+                {
+                    "assist": "A. Martínez",
+                    "event_type": "Goal",
+                    "player": "T. Lemar",
+                    "score_update": "1 - 1",
+                    "team": "Borussia Dortmund",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Valverde",
+                    "team": "Real Madrid",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Rincon",
+                    "team": "Borussia Dortmund",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "LaLiga",
+                            "date": "10/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Real Madrid 1 - 1 Girona"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "LaLiga",
+                            "date": "10/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Real Madrid 1 - 1 Girona"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "07/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Real Madrid 1 - 2 Bayern Munich"
+                        },
+                        {
+                            "competition": "LaLiga",
+                            "date": "04/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Mallorca 2 - 1 Real Madrid"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Manchester City 1 - 2 Real Madrid"
+                        },
+                        {
+                            "competition": "LaLiga",
+                            "date": "14/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Real Madrid 4 - 1 Elche"
+                        }
+                    ],
+                    "team": "Real Madrid"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "LaLiga",
+                        "date": "30/11/2025",
+                        "teams_and_score": "Girona 1 - 1 Real Madrid"
+                    },
+                    {
+                        "competition": "LaLiga 24/25",
+                        "date": "23/02/2025",
+                        "teams_and_score": "Real Madrid 2 - 0 Girona"
+                    },
+                    {
+                        "competition": "LaLiga 23/24",
+                        "date": "10/02/2024",
+                        "teams_and_score": "Real Madrid 4 - 0 Girona"
+                    },
+                    {
+                        "competition": "LaLiga 22/23",
+                        "date": "25/04/2023",
+                        "teams_and_score": "Girona 4 - 2 Real Madrid"
+                    },
+                    {
+                        "competition": "LaLiga",
+                        "date": "17/02/2019",
+                        "teams_and_score": "Real Madrid 1 - 2 Girona"
+                    },
+                    {
+                        "competition": "Copa del Rey",
+                        "date": "31/01/2019",
+                        "teams_and_score": "Girona 1 - 3 Real Madrid"
+                    }
+                ],
+                "summary": {
+                    "Borussia Dortmund_wins": "2",
+                    "Real Madrid_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Borussia Dortmund": "39%",
+                    "Real Madrid": "61%"
+                },
+                "corners": {
+                    "Borussia Dortmund": "1",
+                    "Real Madrid": "10"
+                },
+                "crosses": {
+                    "Borussia Dortmund": "0",
+                    "Real Madrid": "6"
+                },
+                "fouls": {
+                    "Borussia Dortmund": "13",
+                    "Real Madrid": "9"
+                },
+                "goalkeeper_saves": {
+                    "Borussia Dortmund": "7",
+                    "Real Madrid": "1"
+                },
+                "offsides": {
+                    "Borussia Dortmund": "0",
+                    "Real Madrid": "3"
+                },
+                "shots_blocked": {
+                    "Borussia Dortmund": "3",
+                    "Real Madrid": "6"
+                },
+                "shots_off_target": {
+                    "Borussia Dortmund": "5",
+                    "Real Madrid": "7"
+                },
+                "shots_on_target": {
+                    "Borussia Dortmund": "2",
+                    "Real Madrid": "9"
+                },
+                "yellow_cards": {
+                    "Borussia Dortmund": "1",
+                    "Real Madrid": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/real-madrid-vs-borussia-dortmund-2025-07-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/541.webp",
+                    "name": "Real Madrid",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/real-madrid-vs-borussia-dortmund-2025-07-06-mDNS.webp",
+            "title": "Real Madrid vs Borussia Dortmund"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Dec 14, 2025",
+            "description": "Watch SC Freiburg vs Borussia Dortmund highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on December 14, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Borussia Dortmund"
+                },
+                "home_team_form": {
+                    "team": "SC Freiburg"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Freiburg_v_Dortmund_2025_12_14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/160.webp",
+                    "name": "SC Freiburg",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/freiburg-v-dortmund-2025-12-14.webp",
+            "title": "SC Freiburg vs Borussia Dortmund"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Jan 20, 2026",
+            "description": "Watch Tottenham vs Borussia Dortmund highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on January 20, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Tottenham_v_Dortmund_2026_01_20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/tottenham-v-dortmund-2026-01-20-SfDe.webp",
+            "title": "Tottenham Hotspur vs Borussia Dortmund"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Jan 24, 2026",
+            "description": "Watch Union Berlin vs Borussia Dortmund highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on January 24, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Union_Berlin_v_Dortmund_2026_01_24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/union-berlin-v-dortmund-2026-01-24-JfFd.webp",
+            "title": "Union Berlin vs Borussia Dortmund"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "May 16, 2026",
+            "description": "Watch Werder Bremen vs Borussia Dortmund highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on May 16, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Ryerson",
+                    "event_type": "Goal",
+                    "player": "S. Guirassy",
+                    "score_update": "0 - 1",
+                    "team": "Borussia Dortmund",
+                    "time": "60'"
+                },
+                {
+                    "assist": "K. Adeyemi",
+                    "event_type": "Goal",
+                    "player": "Y. Couto",
+                    "score_update": "0 - 2",
+                    "team": "Borussia Dortmund",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Werder Bremen 0 - 2 Borussia Dortmund"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Werder Bremen 0 - 2 Borussia Dortmund"
+                        }
+                    ],
+                    "team": "Werder Bremen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Bundesliga",
+                        "date": "13/01/2026",
+                        "teams_and_score": "Borussia Dortmund 3 - 0 Werder Bremen"
+                    },
+                    {
+                        "competition": "Bundesliga 24/25",
+                        "date": "25/01/2025",
+                        "teams_and_score": "Borussia Dortmund 2 - 2 Werder Bremen"
+                    },
+                    {
+                        "competition": "Bundesliga 23/24",
+                        "date": "09/03/2024",
+                        "teams_and_score": "Werder Bremen 1 - 2 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 22/23",
+                        "date": "11/02/2023",
+                        "teams_and_score": "Werder Bremen 0 - 2 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 20/21",
+                        "date": "18/04/2021",
+                        "teams_and_score": "Borussia Dortmund 4 - 1 Werder Bremen"
+                    },
+                    {
+                        "competition": "1. Bundesliga",
+                        "date": "22/02/2020",
+                        "teams_and_score": "Werder Bremen 0 - 2 Borussia Dortmund"
+                    }
+                ],
+                "summary": {
+                    "Borussia Dortmund_wins": "5",
+                    "Werder Bremen_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Borussia Dortmund": "49%",
+                    "Werder Bremen": "51%"
+                },
+                "corners": {
+                    "Borussia Dortmund": "5",
+                    "Werder Bremen": "4"
+                },
+                "crosses": {
+                    "Borussia Dortmund": "9",
+                    "Werder Bremen": "5"
+                },
+                "fouls": {
+                    "Borussia Dortmund": "5",
+                    "Werder Bremen": "8"
+                },
+                "goalkeeper_saves": {
+                    "Borussia Dortmund": "3",
+                    "Werder Bremen": "7"
+                },
+                "offsides": {
+                    "Borussia Dortmund": "0",
+                    "Werder Bremen": "4"
+                },
+                "shots_blocked": {
+                    "Borussia Dortmund": "5",
+                    "Werder Bremen": "3"
+                },
+                "shots_off_target": {
+                    "Borussia Dortmund": "3",
+                    "Werder Bremen": "3"
+                },
+                "shots_on_target": {
+                    "Borussia Dortmund": "9",
+                    "Werder Bremen": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/werder-bremen-vs-borussia-dortmund-2026-05-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/162.webp",
+                    "name": "Werder Bremen",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/werder-bremen-vs-borussia-dortmund-2026-05-16-nJW8.webp",
+            "title": "Werder Bremen vs Borussia Dortmund"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Feb 7, 2026",
+            "description": "Watch VfL Wolfsburg vs Borussia Dortmund highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on February 7, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Ryerson",
+                    "event_type": "Goal",
+                    "player": "J. Brandt",
+                    "score_update": "0 - 1",
+                    "team": "Borussia Dortmund",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Daghim",
+                    "team": "VfL Wolfsburg",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Schlotterbeck",
+                    "team": "Borussia Dortmund",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Arnold",
+                    "event_type": "Goal",
+                    "player": "K. Koulierakis",
+                    "score_update": "1 - 1",
+                    "team": "VfL Wolfsburg",
+                    "time": "76'"
+                },
+                {
+                    "assist": "F. Silva",
+                    "event_type": "Goal",
+                    "player": "S. Guirassy",
+                    "score_update": "1 - 2",
+                    "team": "Borussia Dortmund",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Wolfsburg 1 - 2 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Borussia Dortmund 0 - 2 Inter"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "24/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Union Berlin 0 - 3 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "20/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Tottenham Hotspur 2 - 0 Borussia Dortmund"
+                        },
+                        {
+                            "competition": "Bundesliga",
+                            "date": "17/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 3 - 2 St. Pauli"
+                        }
+                    ],
+                    "team": "Borussia Dortmund"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Bundesliga",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Wolfsburg 1 - 2 Borussia Dortmund"
+                        }
+                    ],
+                    "team": "VfL Wolfsburg"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Bundesliga",
+                        "date": "21/09/2025",
+                        "teams_and_score": "Borussia Dortmund 1 - 0 Wolfsburg"
+                    },
+                    {
+                        "competition": "Bundesliga 24/25",
+                        "date": "03/05/2025",
+                        "teams_and_score": "Borussia Dortmund 4 - 0 Wolfsburg"
+                    },
+                    {
+                        "competition": "DFB Cup: Round 2 24/25",
+                        "date": "29/10/2024",
+                        "teams_and_score": "Wolfsburg 1 - 0 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 23/24",
+                        "date": "17/02/2024",
+                        "teams_and_score": "Wolfsburg 1 - 1 Borussia Dortmund"
+                    },
+                    {
+                        "competition": "Bundesliga 22/23",
+                        "date": "07/05/2023",
+                        "teams_and_score": "Borussia Dortmund 6 - 0 Wolfsburg"
+                    },
+                    {
+                        "competition": "Bundesliga 21/22",
+                        "date": "16/04/2022",
+                        "teams_and_score": "Borussia Dortmund 6 - 1 Wolfsburg"
+                    }
+                ],
+                "summary": {
+                    "Borussia Dortmund_wins": "5",
+                    "VfL Wolfsburg_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Borussia Dortmund": "65%",
+                    "VfL Wolfsburg": "35%"
+                },
+                "corners": {
+                    "Borussia Dortmund": "8",
+                    "VfL Wolfsburg": "4"
+                },
+                "crosses": {
+                    "Borussia Dortmund": "7",
+                    "VfL Wolfsburg": "7"
+                },
+                "fouls": {
+                    "Borussia Dortmund": "10",
+                    "VfL Wolfsburg": "13"
+                },
+                "goalkeeper_saves": {
+                    "Borussia Dortmund": "1",
+                    "VfL Wolfsburg": "2"
+                },
+                "offsides": {
+                    "Borussia Dortmund": "2",
+                    "VfL Wolfsburg": "0"
+                },
+                "shots_blocked": {
+                    "Borussia Dortmund": "14",
+                    "VfL Wolfsburg": "2"
+                },
+                "shots_off_target": {
+                    "Borussia Dortmund": "3",
+                    "VfL Wolfsburg": "8"
+                },
+                "shots_on_target": {
+                    "Borussia Dortmund": "4",
+                    "VfL Wolfsburg": "2"
+                },
+                "yellow_cards": {
+                    "Borussia Dortmund": "1",
+                    "VfL Wolfsburg": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Wolfsburg_v_Dortmund_2026_02_07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/165.webp",
+                    "name": "Borussia Dortmund",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/161.webp",
+                    "name": "VfL Wolfsburg",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/wolfsburg-v-dortmund-2026-02-07-UoY9.webp",
+            "title": "Wolfsburg vs Borussia Dortmund"
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "team": "Eastleigh",
+    "team_logo": "https://img.refooty.com/logo/teams/1822.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jul 12, 2025",
+            "description": "Watch Eastleigh vs Southampton highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 12, 2025.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Storey",
+                    "team": "Eastleigh",
+                    "time": "1'"
+                },
+                {
+                    "assist": "Welington",
+                    "event_type": "Goal",
+                    "player": "T. Harwood-Bellis",
+                    "score_update": "0 - 1",
+                    "team": "Southampton",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Moran",
+                    "team": "Eastleigh",
+                    "time": "31'"
+                },
+                {
+                    "assist": "C. Archer",
+                    "event_type": "Goal",
+                    "player": "R. Stewart",
+                    "score_update": "0 - 2",
+                    "team": "Southampton",
+                    "time": "47'"
+                },
+                {
+                    "assist": "D. Cornell",
+                    "event_type": "Goal",
+                    "player": "L. Dobbin",
+                    "score_update": "1 - 2",
+                    "team": "Eastleigh",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Azaz",
+                    "team": "Southampton",
+                    "time": "81'"
+                },
+                {
+                    "assist": "S. Edozie",
+                    "event_type": "Goal",
+                    "player": "C. Larin",
+                    "score_update": "1 - 3",
+                    "team": "Southampton",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Vukcevic",
+                    "team": "Eastleigh",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Preston North End 1 - 3 Southampton"
+                        },
+                        {
+                            "competition": "FA Cup: Semi-Finals",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Manchester City 2 - 1 Southampton"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "21/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Southampton 2 - 2 Bristol City"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Southampton 2 - 1 Arsenal"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Southampton 2 - 0 Oxford United"
+                        }
+                    ],
+                    "team": "Southampton"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Preston North End 1 - 3 Southampton"
+                        }
+                    ],
+                    "team": "Eastleigh"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "01/11/2025",
+                        "teams_and_score": "Southampton 0 - 2 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "16/04/2024",
+                        "teams_and_score": "Southampton 3 - 0 Preston North End"
+                    },
+                    {
+                        "competition": "Club Friendlies 2019",
+                        "date": "20/07/2019",
+                        "teams_and_score": "Preston North End 1 - 3 Southampton"
+                    },
+                    {
+                        "competition": "League Cup",
+                        "date": "21/09/2011",
+                        "teams_and_score": "Southampton 2 - 1 Preston North End"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "21/02/2009",
+                        "teams_and_score": "Southampton 3 - 1 Preston North End"
+                    }
+                ],
+                "summary": {
+                    "Eastleigh_wins": "2",
+                    "Southampton_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Eastleigh": "46%",
+                    "Southampton": "54%"
+                },
+                "corners": {
+                    "Eastleigh": "10",
+                    "Southampton": "5"
+                },
+                "crosses": {
+                    "Eastleigh": "6",
+                    "Southampton": "3"
+                },
+                "fouls": {
+                    "Eastleigh": "11",
+                    "Southampton": "6"
+                },
+                "goalkeeper_saves": {
+                    "Eastleigh": "2",
+                    "Southampton": "4"
+                },
+                "offsides": {
+                    "Eastleigh": "0",
+                    "Southampton": "2"
+                },
+                "shots_blocked": {
+                    "Eastleigh": "5",
+                    "Southampton": "7"
+                },
+                "shots_off_target": {
+                    "Eastleigh": "6",
+                    "Southampton": "6"
+                },
+                "shots_on_target": {
+                    "Eastleigh": "5",
+                    "Southampton": "5"
+                },
+                "yellow_cards": {
+                    "Eastleigh": "3",
+                    "Southampton": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/eastleigh-vs-southampton-2025-07-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/41.webp",
+                    "name": "Southampton",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1822.webp",
+                    "name": "Eastleigh",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/eastleigh-vs-southampton-2025-07-12-xI2l.webp",
+            "title": "Eastleigh vs Southampton"
+        }
+    ]
+}

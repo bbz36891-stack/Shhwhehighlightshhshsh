@@ -1,0 +1,42 @@
+{
+    "team": "Queen's Park",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Apr 14, 2026",
+            "description": "Watch Queen's Park vs Raith Rovers highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on April 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/queens-park-vs-raith-rovers-2026-04-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/queens-park-vs-raith-rovers-2026-04-14-7Djf.webp",
+            "title": "Queen's Park vs Raith Rovers"
+        }
+    ]
+}

@@ -1,0 +1,2612 @@
+{
+    "team": "ST Mirren",
+    "team_logo": "https://img.refooty.com/logo/teams/251.webp",
+    "total_matches": 19,
+    "matches": [
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 12, 2026",
+            "description": "Watch Aberdeen vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 12, 2026. The atmosphere was electric for this Scottish Premiership clash on May 12, 2026 . As both teams sought supremacy in the league, the duel at Pittodrie Stadium promised to be a tactical battle defined by minute details and moments of individual brilliance. Early Pressure and the Opening Goal The match began with a notable physical intensity, typical of Scottish football. As early as the 16th minute, the tone of the encounter was set when Marcus Fraser received a yellow card for a late challenge, signaling the competitive nature of the game. Celtic attempted to control possession, but Aberdeen 's defensive organization proved difficult to break down. As half-time approached, the home side found their way to the goal. In the 42nd minute, Jacob Devaney demonstrated excellent vision by picking out Richard King , who finished with precision to put Aberdeen ahead. The goal rewarded the team's persistence and forced the visitors to rethink their strategy for the second period. Tactical Changes and Securing the Win The second half started with a series of tactical alterations. Aberdeen introduced Lyall Cameron and Jack Milne in place of Afeez Aremu and Liam Morrison , seeking to maintain physical vigor in midfield. The match remained fiercely contested, with Jacob Devaney and Dennis Geiger receiving yellow cards following hard challenges during a period of high tension. The decisive moment occurred in the 80th minute. Mikael Mandron produced a brilliant piece of play on the wing before crossing for Killian Phillips , who made no mistake in doubling the lead. With the score at 2-0, the Aberdeen manager brought on Graeme Shinnie and later Luke Douglas to close out the game. The final whistle confirmed a solid victory for the hosts, who successfully neutralized Celtic 's main threats throughout the 90 minutes.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Fraser",
+                    "team": "ST Mirren",
+                    "time": "1'"
+                },
+                {
+                    "assist": "J. Devaney",
+                    "event_type": "Goal",
+                    "player": "R. King",
+                    "score_update": "0 - 1",
+                    "team": "ST Mirren",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Devaney",
+                    "team": "ST Mirren",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Geiger",
+                    "team": "Aberdeen",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Mandron",
+                    "event_type": "Goal",
+                    "player": "K. Phillips",
+                    "score_update": "0 - 2",
+                    "team": "ST Mirren",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "12/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 0 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 6 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 1 - 0 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 2 - 1 Partick Thistle"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "12/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 0 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 1 - 2 Celtic"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "04/04/2026",
+                        "teams_and_score": "St. Mirren 2 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "03/05/2025",
+                        "teams_and_score": "St. Mirren 1 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "25/01/2025",
+                        "teams_and_score": "Aberdeen 0 - 3 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "02/03/2024",
+                        "teams_and_score": "St. Mirren 2 - 1 Aberdeen"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "0",
+                    "ST Mirren_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "58%",
+                    "ST Mirren": "42%"
+                },
+                "corners": {
+                    "Aberdeen": "6",
+                    "ST Mirren": "1"
+                },
+                "fouls": {
+                    "Aberdeen": "14",
+                    "ST Mirren": "11"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "3",
+                    "ST Mirren": "1"
+                },
+                "offsides": {
+                    "Aberdeen": "1",
+                    "ST Mirren": "2"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "3",
+                    "ST Mirren": "1"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "4",
+                    "ST Mirren": "3"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "1",
+                    "ST Mirren": "5"
+                },
+                "yellow_cards": {
+                    "Aberdeen": "1",
+                    "ST Mirren": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/aberdeen-2-2026-05-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-st-mirren-2026-05-12-jWuC.webp",
+            "title": "Aberdeen - ST Mirren"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Celtic vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "A. Oxlade-Chamberlain",
+                    "score_update": "1 - 0",
+                    "team": "Celtic",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Donnelly",
+                    "team": "ST Mirren",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Gogic",
+                    "team": "ST Mirren",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 1 - 0 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 2 - 1 Partick Thistle"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 1 St. Mirren"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Celtic 1 - 0 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Rangers 0 - 0 Celtic"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 1 - 2 Celtic"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "VfB Stuttgart 0 - 1 Celtic"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "22/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 1 - 2 Hibernian"
+                        }
+                    ],
+                    "team": "Celtic"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Scottish League Cup: Final",
+                        "date": "14/12/2025",
+                        "teams_and_score": "St. Mirren 3 - 1 Celtic"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "22/11/2025",
+                        "teams_and_score": "St. Mirren 0 - 1 Celtic"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "17/05/2025",
+                        "teams_and_score": "Celtic 1 - 1 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "01/03/2025",
+                        "teams_and_score": "St. Mirren 2 - 5 Celtic"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "18/05/2024",
+                        "teams_and_score": "Celtic 3 - 2 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "13/04/2024",
+                        "teams_and_score": "Celtic 3 - 0 St. Mirren"
+                    },
+                    {
+                        "competition": "Scottish Cup: Round 5",
+                        "date": "11/02/2024",
+                        "teams_and_score": "St. Mirren 0 - 2 Celtic"
+                    }
+                ],
+                "summary": {
+                    "Celtic_wins": "5",
+                    "ST Mirren_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Celtic": "56%",
+                    "ST Mirren": "44%"
+                },
+                "corners": {
+                    "Celtic": "3",
+                    "ST Mirren": "7"
+                },
+                "fouls": {
+                    "Celtic": "12",
+                    "ST Mirren": "14"
+                },
+                "goalkeeper_saves": {
+                    "Celtic": "1",
+                    "ST Mirren": "3"
+                },
+                "offsides": {
+                    "Celtic": "2",
+                    "ST Mirren": "5"
+                },
+                "shots_blocked": {
+                    "Celtic": "2",
+                    "ST Mirren": "1"
+                },
+                "shots_off_target": {
+                    "Celtic": "1",
+                    "ST Mirren": "3"
+                },
+                "shots_on_target": {
+                    "Celtic": "4",
+                    "ST Mirren": "1"
+                },
+                "yellow_cards": {
+                    "Celtic": "0",
+                    "ST Mirren": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/celtic-vs-st-mirren-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/247.webp",
+                    "name": "Celtic",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/celtic-vs-st-mirren-2026-04-11-FzXZ.webp",
+            "title": "Celtic vs ST Mirren"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Dundee FC vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 2, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "J. Westley",
+                    "score_update": "1 - 0",
+                    "team": "Dundee FC",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Devaney",
+                    "team": "ST Mirren",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Mandron",
+                    "team": "ST Mirren",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Halliday",
+                    "team": "Dundee FC",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee FC 1 - 0 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 6 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 1 - 0 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 2 - 1 Partick Thistle"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 1 St. Mirren"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Dundee FC 1 - 0 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Kilmarnock 2 - 2 Dundee FC"
+                        }
+                    ],
+                    "team": "Dundee FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "31/01/2026",
+                        "teams_and_score": "St. Mirren 0 - 0 Dundee FC"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "05/04/2025",
+                        "teams_and_score": "Dundee FC 2 - 0 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "04/05/2024",
+                        "teams_and_score": "Dundee FC 1 - 3 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "07/02/2024",
+                        "teams_and_score": "St. Mirren 2 - 0 Dundee FC"
+                    }
+                ],
+                "summary": {
+                    "Dundee FC_wins": "1",
+                    "ST Mirren_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Dundee FC": "40%",
+                    "ST Mirren": "60%"
+                },
+                "corners": {
+                    "Dundee FC": "5",
+                    "ST Mirren": "6"
+                },
+                "fouls": {
+                    "Dundee FC": "9",
+                    "ST Mirren": "12"
+                },
+                "goalkeeper_saves": {
+                    "Dundee FC": "6",
+                    "ST Mirren": "4"
+                },
+                "shots_blocked": {
+                    "Dundee FC": "3",
+                    "ST Mirren": "2"
+                },
+                "shots_off_target": {
+                    "Dundee FC": "2",
+                    "ST Mirren": "3"
+                },
+                "shots_on_target": {
+                    "Dundee FC": "5",
+                    "ST Mirren": "6"
+                },
+                "yellow_cards": {
+                    "Dundee FC": "1",
+                    "ST Mirren": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/dundee-fc-vs-st-mirren-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/253.webp",
+                    "name": "Dundee FC",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-fc-vs-st-mirren-2026-05-02-76fa.webp",
+            "title": "Dundee FC vs ST Mirren"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Mar 21, 2026",
+            "description": "Watch Falkirk vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on March 21, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "D. Tait",
+                    "event_type": "Goal",
+                    "player": "B. Stewart",
+                    "score_update": "1 - 0",
+                    "team": "Falkirk",
+                    "time": "1'"
+                },
+                {
+                    "assist": "S. Tanser",
+                    "event_type": "Goal",
+                    "player": "M. Freckleton",
+                    "score_update": "1 - 1",
+                    "team": "ST Mirren",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Mccann",
+                    "team": "Falkirk",
+                    "time": "31'"
+                },
+                {
+                    "assist": "M. O'Hara",
+                    "event_type": "Goal",
+                    "player": "L. Donnelly",
+                    "score_update": "1 - 2",
+                    "team": "ST Mirren",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Phillips",
+                    "team": "ST Mirren",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Gogic",
+                    "team": "ST Mirren",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 1 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 2 - 1 Partick Thistle"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 1 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "06/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Airdrieonians 1 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/02/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 1 - 0 Hearts"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 1 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 5 - 1 Kilmarnock"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "08/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Stenhousemuir 0 - 2 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Livingston 1 - 2 Falkirk"
+                        }
+                    ],
+                    "team": "Falkirk"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "10/01/2026",
+                        "teams_and_score": "St. Mirren 0 - 2 Falkirk"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "28/04/2018",
+                        "teams_and_score": "Falkirk 1 - 0 St. Mirren"
+                    }
+                ],
+                "summary": {
+                    "Falkirk_wins": "2",
+                    "ST Mirren_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Falkirk": "58%",
+                    "ST Mirren": "42%"
+                },
+                "corners": {
+                    "Falkirk": "7",
+                    "ST Mirren": "4"
+                },
+                "fouls": {
+                    "Falkirk": "15",
+                    "ST Mirren": "14"
+                },
+                "goalkeeper_saves": {
+                    "Falkirk": "2",
+                    "ST Mirren": "1"
+                },
+                "offsides": {
+                    "Falkirk": "2",
+                    "ST Mirren": "1"
+                },
+                "shots_blocked": {
+                    "Falkirk": "4",
+                    "ST Mirren": "4"
+                },
+                "shots_off_target": {
+                    "Falkirk": "5",
+                    "ST Mirren": "3"
+                },
+                "shots_on_target": {
+                    "Falkirk": "2",
+                    "ST Mirren": "4"
+                },
+                "yellow_cards": {
+                    "Falkirk": "1",
+                    "ST Mirren": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/falkirk-vs-st-mirren-2026-03-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1389.webp",
+                    "name": "Falkirk",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/falkirk-vs-st-mirren-2026-03-21-1Xw5.webp",
+            "title": "Falkirk vs ST Mirren"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Jan 15, 2026",
+            "description": "Watch Heart Of Midlothian vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on January 15, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/heart-of-midlothian-vs-st-mirren-2026-01-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/heart-of-midlothian-vs-st-mirren-2026-01-15-4PHs.webp",
+            "title": "Heart Of Midlothian vs ST Mirren"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 14, 2026",
+            "description": "Watch Hibernian vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/hibernian-vs-st-mirren-2026-02-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-vs-st-mirren-2026-02-14-3aoZ.webp",
+            "title": "Hibernian vs ST Mirren"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 11, 2026",
+            "description": "Watch Kilmarnock vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kilmarnock-vs-st-mirren-2026-02-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kilmarnock-vs-st-mirren-2026-02-11-R5UL.webp",
+            "title": "Kilmarnock vs ST Mirren"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 28, 2026",
+            "description": "Watch Livingston vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 28, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "M. Mandron",
+                    "event_type": "Goal",
+                    "player": "D. Nlundulu",
+                    "score_update": "0 - 1",
+                    "team": "ST Mirren",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Danso",
+                    "team": "Livingston",
+                    "time": "54'"
+                },
+                {
+                    "assist": "B. McKay",
+                    "event_type": "Goal",
+                    "player": "B. Kabongolo",
+                    "score_update": "1 - 1",
+                    "team": "Livingston",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Fraser",
+                    "team": "ST Mirren",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Mandron",
+                    "team": "ST Mirren",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Livingston 1 - 1 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "06/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Airdrieonians 1 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/02/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 1 - 0 Hearts"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Livingston 1 - 1 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "14/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Hearts 2 - 0 St. Mirren"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Livingston 1 - 1 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Livingston 1 - 1 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Livingston 1 - 1 Kilmarnock"
+                        }
+                    ],
+                    "team": "Livingston"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "20/01/2026",
+                        "teams_and_score": "Livingston 1 - 1 St. Mirren"
+                    },
+                    {
+                        "competition": "Scottish Cup: Round 4",
+                        "date": "17/01/2026",
+                        "teams_and_score": "Livingston 1 - 1 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "20/12/2025",
+                        "teams_and_score": "St. Mirren 1 - 0 Livingston"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "17/02/2024",
+                        "teams_and_score": "Livingston 1 - 0 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership 22/23",
+                        "date": "01/04/2023",
+                        "teams_and_score": "St. Mirren 3 - 0 Livingston"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group 21/22",
+                        "date": "11/05/2022",
+                        "teams_and_score": "St. Mirren 0 - 0 Livingston"
+                    }
+                ],
+                "summary": {
+                    "Livingston_wins": "1",
+                    "ST Mirren_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Livingston": "51%",
+                    "ST Mirren": "50%"
+                },
+                "corners": {
+                    "Livingston": "7",
+                    "ST Mirren": "2"
+                },
+                "fouls": {
+                    "Livingston": "11",
+                    "ST Mirren": "17"
+                },
+                "goalkeeper_saves": {
+                    "Livingston": "1",
+                    "ST Mirren": "2"
+                },
+                "offsides": {
+                    "Livingston": "2",
+                    "ST Mirren": "1"
+                },
+                "shots_blocked": {
+                    "Livingston": "1",
+                    "ST Mirren": "4"
+                },
+                "shots_off_target": {
+                    "Livingston": "6",
+                    "ST Mirren": "6"
+                },
+                "shots_on_target": {
+                    "Livingston": "3",
+                    "ST Mirren": "2"
+                },
+                "yellow_cards": {
+                    "Livingston": "1",
+                    "ST Mirren": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/livingston-vs-st-mirren-2026-02-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/255.webp",
+                    "name": "Livingston",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/livingston-vs-st-mirren-2026-02-28-NzQM.webp",
+            "title": "Livingston vs ST Mirren"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 21, 2026",
+            "description": "Watch Partick vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 21, 2026. The Scottish Premiership took center stage on May 21, 2026 , as Partick Thistle played host to St Mirren in a highly anticipated match. Both sets of fans filled the stadium with noise, expecting a contest defined by tactical discipline and moments of individual brilliance. Deadlock Broken in a Physical First Half The match began with both sides battling for midfield supremacy, but it was the visitors who eventually found the breakthrough. In the 39th minute, St Mirren moved ahead when Mikael Mandron displayed excellent vision to set up Killian Phillips , who finished clinically to silence the home crowd. The physical nature of the contest was evident shortly after, as Jacob Devaney picked up a yellow card in the 42nd minute following a mistimed challenge, ensuring the visitors went into the break with a narrow lead and a reminder of the game's intensity. Thistle Fight Back in the Second Period Following the restart, Partick Thistle looked to change their fortunes with the introduction of Tsoanelo Letsosa . The home side’s persistence paid off in the 63rd minute when a moment of quality leveled the scores. Tony Watt turned provider with a precise assist for Aidan Fitzpatrick , who made no mistake in finding the back of the net to ignite the stadium. The goal prompted immediate tactical shifts, with St Mirren bringing on Luke Douglas to shore up their ranks as the momentum shifted toward the hosts. Late Drama and Shared Spoils As the clock ticked toward full time, the game became a tactical chess match involving multiple substitutions. Aidan Fitzpatrick , the hero of the equalizer, found himself in the referee's book in the 84th minute before being replaced by Gary Mackay-Steven for the closing stages. Despite five minutes of added time and late pressure from both squads, neither side could find a decisive winner. The referee’s final whistle confirmed a hard-fought draw, reflecting a balanced encounter between two determined Scottish outfits.",
+            "events_timeline": [
+                {
+                    "assist": "M. Mandron",
+                    "event_type": "Goal",
+                    "player": "K. Phillips",
+                    "score_update": "0 - 1",
+                    "team": "ST Mirren",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Devaney",
+                    "team": "ST Mirren",
+                    "time": "16'"
+                },
+                {
+                    "assist": "T. Watt",
+                    "event_type": "Goal",
+                    "player": "A. Fitzpatrick",
+                    "score_update": "1 - 1",
+                    "team": "Partick",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Fitzpatrick",
+                    "team": "Partick",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Qualification",
+                            "date": "21/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Partick Thistle 1 - 1 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "St. Mirren 1 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 6 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 1 - 0 St. Mirren"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Qualification",
+                            "date": "21/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Partick Thistle 1 - 1 St. Mirren"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "01/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Partick Thistle 1 - 1 Queen's Park"
+                        }
+                    ],
+                    "team": "Partick"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Scottish Cup: Quarter-Finals",
+                        "date": "08/03/2026",
+                        "teams_and_score": "St. Mirren 2 - 1 Partick Thistle"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Group H 21/22",
+                        "date": "25/07/2021",
+                        "teams_and_score": "St. Mirren 2 - 0 Partick Thistle"
+                    },
+                    {
+                        "competition": "League Cup: Group G",
+                        "date": "07/10/2020",
+                        "teams_and_score": "St. Mirren 4 - 1 Partick Thistle"
+                    },
+                    {
+                        "competition": "League Cup Grp. H",
+                        "date": "22/07/2017",
+                        "teams_and_score": "Partick Thistle 5 - 0 St. Mirren"
+                    },
+                    {
+                        "competition": "FA Cup",
+                        "date": "08/01/2016",
+                        "teams_and_score": "St. Mirren 1 - 2 Partick Thistle"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "02/05/2015",
+                        "teams_and_score": "Partick Thistle 3 - 0 St. Mirren"
+                    },
+                    {
+                        "competition": "League Cup",
+                        "date": "23/09/2014",
+                        "teams_and_score": "Partick Thistle 1 - 0 St. Mirren"
+                    }
+                ],
+                "summary": {
+                    "Partick_wins": "4",
+                    "ST Mirren_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Partick": "45%",
+                    "ST Mirren": "55%"
+                },
+                "corners": {
+                    "Partick": "4",
+                    "ST Mirren": "5"
+                },
+                "fouls": {
+                    "Partick": "9",
+                    "ST Mirren": "12"
+                },
+                "goalkeeper_saves": {
+                    "Partick": "4",
+                    "ST Mirren": "3"
+                },
+                "offsides": {
+                    "Partick": "2",
+                    "ST Mirren": "1"
+                },
+                "shots_blocked": {
+                    "Partick": "5",
+                    "ST Mirren": "5"
+                },
+                "shots_off_target": {
+                    "Partick": "3",
+                    "ST Mirren": "5"
+                },
+                "shots_on_target": {
+                    "Partick": "4",
+                    "ST Mirren": "5"
+                },
+                "yellow_cards": {
+                    "Partick": "1",
+                    "ST Mirren": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/partick-thistle-st-mirren-2026-05-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/901.webp",
+                    "name": "Partick",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/partick-thistle-st-mirren-2026-05-21-TEWc.webp",
+            "title": "Partick Thistle - St. Mirren"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 17, 2026",
+            "description": "Watch ST Mirren vs Dundee Utd highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 17, 2026. Both sides entered the pitch with clear tactical intentions, eager to assert their dominance in this high-stakes Premiership fixture. The opening exchanges On May 17, 2026 , St. Mirren squared off against Dundee United in a Scottish Premiership match that kept fans on edge. The defensive focus was evident early, as Sam Cleall-Harding picked up a yellow card in the 20th minute. The deadlock was broken shortly after; in the 27th minute, Max Watters provided a clinical assist for Zachary Sapsford , who calmly converted to give his side the lead heading into the break. Second half momentum The second half saw both managers shuffle their packs, with a flurry of substitutions aimed at finding a tactical edge. The adjustment paid off for the visitors in the 69th minute when Richard King set up Jake Young to level the scores. As the game entered the closing stages, the intensity remained high, but neither side could force a winner despite the tactical changes made by both coaches. The match concluded at the 94th minute mark as the referee signaled the end of the action.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Harding",
+                    "team": "Dundee Utd",
+                    "time": "1'"
+                },
+                {
+                    "assist": "M. Watters",
+                    "event_type": "Goal",
+                    "player": "Z. Sapsford",
+                    "score_update": "0 - 1",
+                    "team": "Dundee Utd",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Strain",
+                    "team": "Dundee Utd",
+                    "time": "46'"
+                },
+                {
+                    "assist": "R. King",
+                    "event_type": "Goal",
+                    "player": "J. Young",
+                    "score_update": "1 - 1",
+                    "team": "ST Mirren",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "St. Mirren 1 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 3 - 2 Livingston"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "06/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+                        }
+                    ],
+                    "team": "Dundee Utd"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "St. Mirren 1 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 6 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 1 - 0 St. Mirren"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "03/03/2026",
+                        "teams_and_score": "Dundee United 2 - 1 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "10/05/2025",
+                        "teams_and_score": "Dundee United 0 - 2 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "11/01/2025",
+                        "teams_and_score": "St. Mirren 0 - 1 Dundee United"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Round of 16",
+                        "date": "18/08/2024",
+                        "teams_and_score": "Dundee United 1 - 0 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership 22/23",
+                        "date": "18/03/2023",
+                        "teams_and_score": "Dundee United 1 - 1 St. Mirren"
+                    }
+                ],
+                "summary": {
+                    "Dundee Utd_wins": "2",
+                    "ST Mirren_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Dundee Utd": "51%",
+                    "ST Mirren": "49%"
+                },
+                "corners": {
+                    "Dundee Utd": "2",
+                    "ST Mirren": "10"
+                },
+                "fouls": {
+                    "Dundee Utd": "10",
+                    "ST Mirren": "10"
+                },
+                "goalkeeper_saves": {
+                    "Dundee Utd": "6",
+                    "ST Mirren": "2"
+                },
+                "offsides": {
+                    "Dundee Utd": "2",
+                    "ST Mirren": "4"
+                },
+                "shots_blocked": {
+                    "Dundee Utd": "0",
+                    "ST Mirren": "6"
+                },
+                "shots_off_target": {
+                    "Dundee Utd": "3",
+                    "ST Mirren": "3"
+                },
+                "shots_on_target": {
+                    "Dundee Utd": "3",
+                    "ST Mirren": "8"
+                },
+                "yellow_cards": {
+                    "Dundee Utd": "2",
+                    "ST Mirren": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-dundee-united-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1386.webp",
+                    "name": "Dundee Utd",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-dundee-united-2026-05-17-hdYz.webp",
+            "title": "St. Mirren - Dundee United"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 25, 2026",
+            "description": "Watch ST Mirren vs Partick highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 25, 2026. The stage was set for a compelling encounter in the Scottish Premiership as St. Mirren played host to Partick Thistle . With both sides looking to climb the table, the atmosphere was thick with anticipation for a match that promised to be decided by the narrowest of margins. Tactical Stalemate in the Opening Half The match, held on May 25, 2026 , began with both teams displaying significant tactical discipline. The opening 45 minutes were characterized by a midfield battle where clear-cut chances were hard to come by. St. Mirren attempted to dictate the tempo, but Partick Thistle remained compact and organized, absorbing pressure and looking to exploit any defensive lapses. As the referee blew for half-time, the deadlock remained unbroken, leaving everything to play for in the second period. The Breakthrough and Substitutions The second half saw an immediate increase in intensity, and it wasn't long before the referee had to reach for his pocket, booking Luke McBeth and Scott Tanser . The defining moment arrived in the 62nd minute when Mark O'Hara was introduced from the bench. His impact was instantaneous; just three minutes later, Mark O'Hara provided a pinpoint assist for Marcus Fraser , who clinically found the target to give St. Mirren a 1-0 lead in the 65th minute. This goal shifted the momentum entirely, forcing the visitors to rethink their approach. Late Drama and Solid Defending In a bid to find an equalizer, Partick Thistle made several offensive changes, but the St. Mirren backline held firm. As the clock ticked towards full-time, the game became increasingly physical. Lee Ashcroft received a yellow card in the 87th minute, and the tension boiled over into stoppage time as Alexandros Gogic and Alex Samuel were both cautioned in the 93rd minute. Despite the late pressure, St. Mirren navigated the final moments successfully to secure a vital victory, sparked by Marcus Fraser 's decisive strike.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. McBeth",
+                    "team": "Partick",
+                    "time": "49'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Tanser",
+                    "team": "ST Mirren",
+                    "time": "60'"
+                },
+                {
+                    "assist": "M. O'Hara",
+                    "event_type": "Goal",
+                    "player": "M. Fraser",
+                    "score_update": "1 - 0",
+                    "team": "ST Mirren",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Ashcroft",
+                    "team": "Partick",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Gogic",
+                    "team": "ST Mirren",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Samuel",
+                    "team": "Partick",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Qualification",
+                            "date": "25/05/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 1 - 0 Partick Thistle"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "01/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Partick Thistle 1 - 1 Queen's Park"
+                        }
+                    ],
+                    "team": "Partick"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Qualification",
+                            "date": "25/05/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 1 - 0 Partick Thistle"
+                        },
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "St. Mirren 1 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 6 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 1 - 0 St. Mirren"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership: Qualification",
+                        "date": "21/05/2026",
+                        "teams_and_score": "Partick Thistle 1 - 1 St. Mirren"
+                    },
+                    {
+                        "competition": "Scottish Cup: Quarter-Finals",
+                        "date": "08/03/2026",
+                        "teams_and_score": "St. Mirren 2 - 1 Partick Thistle"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Group H 21/22",
+                        "date": "25/07/2021",
+                        "teams_and_score": "St. Mirren 2 - 0 Partick Thistle"
+                    },
+                    {
+                        "competition": "League Cup: Group G",
+                        "date": "07/10/2020",
+                        "teams_and_score": "St. Mirren 4 - 1 Partick Thistle"
+                    },
+                    {
+                        "competition": "League Cup Grp. H",
+                        "date": "22/07/2017",
+                        "teams_and_score": "Partick Thistle 5 - 0 St. Mirren"
+                    },
+                    {
+                        "competition": "FA Cup",
+                        "date": "08/01/2016",
+                        "teams_and_score": "St. Mirren 1 - 2 Partick Thistle"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "02/05/2015",
+                        "teams_and_score": "Partick Thistle 3 - 0 St. Mirren"
+                    }
+                ],
+                "summary": {
+                    "Partick_wins": "6",
+                    "ST Mirren_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Partick": "49%",
+                    "ST Mirren": "51%"
+                },
+                "corners": {
+                    "Partick": "5",
+                    "ST Mirren": "4"
+                },
+                "fouls": {
+                    "Partick": "13",
+                    "ST Mirren": "16"
+                },
+                "offsides": {
+                    "Partick": "0",
+                    "ST Mirren": "2"
+                },
+                "shots_off_target": {
+                    "Partick": "3",
+                    "ST Mirren": "5"
+                },
+                "shots_on_target": {
+                    "Partick": "5",
+                    "ST Mirren": "7"
+                },
+                "yellow_cards": {
+                    "Partick": "3",
+                    "ST Mirren": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-partick-thistle-2026-05-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/901.webp",
+                    "name": "Partick",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-partick-thistle-2026-05-25-b5KM.webp",
+            "title": "St. Mirren - Partick Thistle"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Apr 4, 2026",
+            "description": "Watch ST Mirren vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on April 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-vs-aberdeen-2026-04-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-vs-aberdeen-2026-04-04-21Gu.webp",
+            "title": "ST Mirren vs Aberdeen"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Jan 31, 2026",
+            "description": "Watch ST Mirren vs Dundee FC highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on January 31, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Young",
+                    "team": "ST Mirren",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "31/01/2026",
+                            "result": "D",
+                            "teams_and_score": "St. Mirren 0 - 0 Dundee FC"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Kilmarnock 1 - 2 Dundee FC"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee FC 0 - 1 Hearts"
+                        }
+                    ],
+                    "team": "Dundee FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "31/01/2026",
+                            "result": "D",
+                            "teams_and_score": "St. Mirren 0 - 0 Dundee FC"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Livingston 1 - 1 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "14/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Hearts 2 - 0 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish League Cup: Final",
+                            "date": "14/12/2025",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 3 - 1 Celtic"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Dundee FC 3 - 1 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "05/04/2025",
+                        "teams_and_score": "Dundee FC 2 - 0 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "04/05/2024",
+                        "teams_and_score": "Dundee FC 1 - 3 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "07/02/2024",
+                        "teams_and_score": "St. Mirren 2 - 0 Dundee FC"
+                    },
+                    {
+                        "competition": "Scottish Cup",
+                        "date": "21/01/2023",
+                        "teams_and_score": "St. Mirren 0 - 0 Dundee FC"
+                    }
+                ],
+                "summary": {
+                    "Dundee FC_wins": "3",
+                    "ST Mirren_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Dundee FC": "60%",
+                    "ST Mirren": "40%"
+                },
+                "corners": {
+                    "Dundee FC": "6",
+                    "ST Mirren": "5"
+                },
+                "fouls": {
+                    "Dundee FC": "10",
+                    "ST Mirren": "12"
+                },
+                "goalkeeper_saves": {
+                    "Dundee FC": "2",
+                    "ST Mirren": "2"
+                },
+                "offsides": {
+                    "Dundee FC": "1",
+                    "ST Mirren": "0"
+                },
+                "red_cards": {
+                    "Dundee FC": "0",
+                    "ST Mirren": "1"
+                },
+                "shots_blocked": {
+                    "Dundee FC": "5",
+                    "ST Mirren": "2"
+                },
+                "shots_off_target": {
+                    "Dundee FC": "4",
+                    "ST Mirren": "6"
+                },
+                "shots_on_target": {
+                    "Dundee FC": "2",
+                    "ST Mirren": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-vs-dundee-2026-01-31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/253.webp",
+                    "name": "Dundee FC",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-vs-dundee-2026-01-31-ErCl.webp",
+            "title": "ST Mirren vs Dundee"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Jan 11, 2026",
+            "description": "Watch ST Mirren vs Falkirk highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on January 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-vs-falkirk-2026-01-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-vs-falkirk-2026-01-11-1jn7.webp",
+            "title": "ST Mirren vs Falkirk"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 4, 2026",
+            "description": "Watch ST Mirren vs Heart Of Midlothian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-vs-heart-of-midlothian-2026-02-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-vs-heart-of-midlothian-2026-02-04-p2RF.webp",
+            "title": "ST Mirren vs Heart Of Midlothian"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 9, 2026",
+            "description": "Watch ST Mirren vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 9, 2026. The showdown between St Mirren and Kilmarnock served as a pivotal moment in the Scottish Premiership season, with both sides eager to establish their dominance on the pitch. Supporters gathered for what promised to be a hard-fought battle under the lights. An Early Twist On May 9, 2026 , the match took an immediate and dramatic turn in the opening stages. Just nine minutes into the contest, Miguel Freckleton suffered a moment of misfortune, turning the ball into his own net to hand the visitors an early advantage. The remainder of the first half turned into a rugged physical encounter, with referee intervention required as Liam Donnelly and Roland Idowu both entered the official's notebook for tactical fouls. Curtis Takes Control Following the halftime break, the tactical landscape shifted significantly. Within just one minute of the restart, Findlay Curtis struck with clinical precision after receiving a polished assist from Greg Kiltie . The goal injected fresh energy into the match, and Kilmarnock pressed their advantage home. The decisive blow arrived in the 68th minute when Tom Lowery delivered an expert ball to Findlay Curtis , who finished his second of the game. Despite late adjustments from both managers and a flurry of substitutions, Kilmarnock held firm to secure the victory as the final whistle echoed through the stadium.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Freckleton",
+                    "team": "Kilmarnock",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Donnelly",
+                    "team": "ST Mirren",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Idowu",
+                    "team": "ST Mirren",
+                    "time": "31'"
+                },
+                {
+                    "assist": "G. Kiltie",
+                    "event_type": "Goal",
+                    "player": "F. Curtis",
+                    "score_update": "0 - 2",
+                    "team": "Kilmarnock",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Hugill",
+                    "team": "Kilmarnock",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Phillips",
+                    "team": "ST Mirren",
+                    "time": "76'"
+                },
+                {
+                    "assist": "T. Lowery",
+                    "event_type": "Goal",
+                    "player": "F. Curtis",
+                    "score_update": "0 - 3",
+                    "team": "Kilmarnock",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "09/05/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Mirren 0 - 3 Kilmarnock"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Kilmarnock 2 - 2 Dundee FC"
+                        }
+                    ],
+                    "team": "Kilmarnock"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "09/05/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Mirren 0 - 3 Kilmarnock"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 6 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 1 - 0 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 2 - 1 Partick Thistle"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 1 St. Mirren"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "11/02/2026",
+                        "teams_and_score": "Kilmarnock 4 - 3 St. Mirren"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Quarter-Finals",
+                        "date": "19/09/2025",
+                        "teams_and_score": "Kilmarnock 2 - 2 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "29/03/2025",
+                        "teams_and_score": "St. Mirren 5 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "11/05/2024",
+                        "teams_and_score": "St. Mirren 0 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "16/03/2024",
+                        "teams_and_score": "Kilmarnock 5 - 2 St. Mirren"
+                    }
+                ],
+                "summary": {
+                    "Kilmarnock_wins": "3",
+                    "ST Mirren_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Kilmarnock": "41%",
+                    "ST Mirren": "59%"
+                },
+                "corners": {
+                    "Kilmarnock": "4",
+                    "ST Mirren": "1"
+                },
+                "fouls": {
+                    "Kilmarnock": "11",
+                    "ST Mirren": "11"
+                },
+                "goalkeeper_saves": {
+                    "Kilmarnock": "2",
+                    "ST Mirren": "2"
+                },
+                "offsides": {
+                    "Kilmarnock": "1",
+                    "ST Mirren": "0"
+                },
+                "shots_blocked": {
+                    "Kilmarnock": "4",
+                    "ST Mirren": "7"
+                },
+                "shots_off_target": {
+                    "Kilmarnock": "2",
+                    "ST Mirren": "3"
+                },
+                "shots_on_target": {
+                    "Kilmarnock": "4",
+                    "ST Mirren": "2"
+                },
+                "yellow_cards": {
+                    "Kilmarnock": "1",
+                    "ST Mirren": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-vs-kilmarnock-2026-05-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/250.webp",
+                    "name": "Kilmarnock",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-vs-kilmarnock-2026-05-09-mppo.webp",
+            "title": "ST Mirren vs Kilmarnock"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Apr 25, 2026",
+            "description": "Watch ST Mirren vs Livingston highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on April 25, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Gogic",
+                    "team": "ST Mirren",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Campbell",
+                    "team": "ST Mirren",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Sylla",
+                    "team": "Livingston",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Gogic",
+                    "team": "Livingston",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Muirhead",
+                    "team": "Livingston",
+                    "time": "91'"
+                },
+                {
+                    "assist": "L. Smith",
+                    "event_type": "Goal",
+                    "player": "S. Pittman",
+                    "score_update": "0 - 2",
+                    "team": "Livingston",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Mirren 0 - 2 Livingston"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 3 - 2 Livingston"
+                        }
+                    ],
+                    "team": "Livingston"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Mirren 0 - 2 Livingston"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 6 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 1 - 0 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 2 - 1 Partick Thistle"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 1 St. Mirren"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "28/02/2026",
+                        "teams_and_score": "Livingston 1 - 1 St. Mirren"
+                    },
+                    {
+                        "competition": "Scottish Cup: Round 4",
+                        "date": "17/01/2026",
+                        "teams_and_score": "Livingston 1 - 1 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "20/12/2025",
+                        "teams_and_score": "St. Mirren 1 - 0 Livingston"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "17/02/2024",
+                        "teams_and_score": "Livingston 1 - 0 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership 22/23",
+                        "date": "01/04/2023",
+                        "teams_and_score": "St. Mirren 3 - 0 Livingston"
+                    }
+                ],
+                "summary": {
+                    "Livingston_wins": "3",
+                    "ST Mirren_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Livingston": "37%",
+                    "ST Mirren": "63%"
+                },
+                "corners": {
+                    "Livingston": "7",
+                    "ST Mirren": "8"
+                },
+                "fouls": {
+                    "Livingston": "10",
+                    "ST Mirren": "13"
+                },
+                "goalkeeper_saves": {
+                    "Livingston": "4",
+                    "ST Mirren": "1"
+                },
+                "offsides": {
+                    "Livingston": "1",
+                    "ST Mirren": "1"
+                },
+                "shots_blocked": {
+                    "Livingston": "1",
+                    "ST Mirren": "5"
+                },
+                "shots_off_target": {
+                    "Livingston": "1",
+                    "ST Mirren": "8"
+                },
+                "shots_on_target": {
+                    "Livingston": "2",
+                    "ST Mirren": "4"
+                },
+                "yellow_cards": {
+                    "Livingston": "2",
+                    "ST Mirren": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-vs-livingston-2026-04-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/255.webp",
+                    "name": "Livingston",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-vs-livingston-2026-04-25-MsZV.webp",
+            "title": "ST Mirren vs Livingston"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 21, 2026",
+            "description": "Watch ST Mirren vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 21, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-vs-motherwell-2026-02-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-vs-motherwell-2026-02-21-TJ33.webp",
+            "title": "ST Mirren vs Motherwell"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch ST Mirren vs Rangers highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "N. Raskin",
+                    "event_type": "Goal",
+                    "player": "T. Rommens",
+                    "score_update": "0 - 1",
+                    "team": "Rangers",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Djiga",
+                    "team": "Rangers",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Mirren 0 - 1 Rangers"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Rangers 0 - 0 Celtic"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Rangers 2 - 2 Celtic"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "08/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Rangers 8 - 0 Queen's Park"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Rangers 5 - 1 Kilmarnock"
+                        }
+                    ],
+                    "team": "Rangers"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Mirren 0 - 1 Rangers"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 2 - 1 Partick Thistle"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 1 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "06/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Airdrieonians 1 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/02/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 1 - 0 Hearts"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "30/12/2025",
+                        "teams_and_score": "Rangers 2 - 1 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "26/04/2025",
+                        "teams_and_score": "St. Mirren 2 - 2 Rangers"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Rangers 0 - 2 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "28/04/2024",
+                        "teams_and_score": "St. Mirren 1 - 2 Rangers"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "27/01/2024",
+                        "teams_and_score": "St. Mirren 0 - 1 Rangers"
+                    }
+                ],
+                "summary": {
+                    "Rangers_wins": "1",
+                    "ST Mirren_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Rangers": "53%",
+                    "ST Mirren": "47%"
+                },
+                "corners": {
+                    "Rangers": "11",
+                    "ST Mirren": "1"
+                },
+                "fouls": {
+                    "Rangers": "11",
+                    "ST Mirren": "7"
+                },
+                "goalkeeper_saves": {
+                    "Rangers": "1",
+                    "ST Mirren": "5"
+                },
+                "offsides": {
+                    "Rangers": "3",
+                    "ST Mirren": "4"
+                },
+                "shots_blocked": {
+                    "Rangers": "5",
+                    "ST Mirren": "2"
+                },
+                "shots_off_target": {
+                    "Rangers": "5",
+                    "ST Mirren": "3"
+                },
+                "shots_on_target": {
+                    "Rangers": "7",
+                    "ST Mirren": "1"
+                },
+                "yellow_cards": {
+                    "Rangers": "1",
+                    "ST Mirren": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-vs-rangers-2026-03-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/257.webp",
+                    "name": "Rangers",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-vs-rangers-2026-03-15-2Ehy.webp",
+            "title": "ST Mirren vs Rangers"
+        }
+    ]
+}

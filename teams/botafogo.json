@@ -1,0 +1,4262 @@
+{
+    "team": "Botafogo",
+    "team_logo": "https://img.refooty.com/logo/teams/120.webp",
+    "total_matches": 23,
+    "matches": [
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 30, 2026",
+            "description": "Watch Athletico Paranaense vs Botafogo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 30, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "K. Dudu",
+                    "event_type": "Goal",
+                    "player": "K. Viveros",
+                    "score_update": "1 - 0",
+                    "team": "Athletico Paranaense",
+                    "time": "3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Gustavo",
+                    "team": "Athletico Paranaense",
+                    "time": "18'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Medina",
+                    "team": "Botafogo",
+                    "time": "36'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Edenilson",
+                    "score_update": "1 - 1",
+                    "team": "Botafogo",
+                    "time": "43'"
+                },
+                {
+                    "assist": "G. Benavidez",
+                    "event_type": "Goal",
+                    "player": "K. Viveros",
+                    "score_update": "2 - 1",
+                    "team": "Athletico Paranaense",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Barboza",
+                    "team": "Botafogo",
+                    "time": "48'"
+                },
+                {
+                    "assist": "L. Esquivel",
+                    "event_type": "Goal",
+                    "player": "J. Aguirre",
+                    "score_update": "3 - 1",
+                    "team": "Athletico Paranaense",
+                    "time": "49'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Dias",
+                    "team": "Athletico Paranaense",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Esquivel",
+                    "score_update": "4 - 1",
+                    "team": "Athletico Paranaense",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Santos",
+                    "team": "Botafogo",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "29/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Athletico Paranaense 4 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "11/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 0 - 1 Barcelona SC"
+                        },
+                        {
+                            "competition": "Carioca Taca Rio: Play-off",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 3 - 1 Bangu"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Barcelona SC 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Carioca Taca Rio: Play-off",
+                            "date": "28/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 0 - 0 Boavista"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "29/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Athletico Paranaense 4 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Paranaense: Play-offs",
+                            "date": "22/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Athletico Paranaense 0 - 1 Londrina EC"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Athletico Paranaense 0 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Paranaense: Play-offs",
+                            "date": "15/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Londrina EC 2 - 2 Athletico Paranaense"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Athletico Paranaense 2 - 1 Santos FC"
+                        }
+                    ],
+                    "team": "Athletico Paranaense"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "05/10/2024",
+                        "teams_and_score": "Athletico Paranaense 0 - 1 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "22/10/2023",
+                        "teams_and_score": "Botafogo FR 1 - 1 Athletico Paranaense"
+                    },
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "01/06/2023",
+                        "teams_and_score": "Botafogo FR 1 - 0 Athletico Paranaense"
+                    },
+                    {
+                        "competition": "Serie A 2022",
+                        "date": "13/11/2022",
+                        "teams_and_score": "Athletico Paranaense 3 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A 2020",
+                        "date": "06/01/2021",
+                        "teams_and_score": "Botafogo FR 0 - 2 Athletico Paranaense"
+                    }
+                ],
+                "summary": {
+                    "Athletico Paranaense_wins": "2",
+                    "Botafogo_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Athletico Paranaense": "43%",
+                    "Botafogo": "57%"
+                },
+                "corners": {
+                    "Athletico Paranaense": "1",
+                    "Botafogo": "8"
+                },
+                "fouls": {
+                    "Athletico Paranaense": "15",
+                    "Botafogo": "13"
+                },
+                "goalkeeper_saves": {
+                    "Athletico Paranaense": "1",
+                    "Botafogo": "3"
+                },
+                "offsides": {
+                    "Athletico Paranaense": "4",
+                    "Botafogo": "2"
+                },
+                "shots_off_target": {
+                    "Athletico Paranaense": "1",
+                    "Botafogo": "4"
+                },
+                "shots_on_target": {
+                    "Athletico Paranaense": "7",
+                    "Botafogo": "2"
+                },
+                "yellow_cards": {
+                    "Athletico Paranaense": "2",
+                    "Botafogo": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/athletico-paranaense-botafogo-2026-03-30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/134.webp",
+                    "name": "Athletico Paranaense",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/athletico-paranaense-botafogo-2026-03-30-Si4M.webp",
+            "title": "Athletico Paranaense - Botafogo"
+        },
+        {
+            "competition": "FIFA Club World Cup",
+            "competition_cover": "https://refooty.com/covers/fifa-club-world-cup.webp",
+            "date": "Jun 24, 2025",
+            "description": "Watch Atletico Madrid vs Botafogo highlights and goals from FIFA Club World Cup on ReFooty: Football Highlights Hub. Match played on June 24, 2025.",
+            "events_timeline": [
+                {
+                    "assist": "F. Torres",
+                    "event_type": "Goal",
+                    "player": "L. Yamal",
+                    "score_update": "0 - 1",
+                    "team": "Botafogo",
+                    "time": "1'"
+                },
+                {
+                    "assist": "D. Olmo",
+                    "event_type": "Goal",
+                    "player": "F. Torres",
+                    "score_update": "0 - 2",
+                    "team": "Botafogo",
+                    "time": "16'"
+                },
+                {
+                    "assist": "M. Llorente",
+                    "event_type": "Goal",
+                    "player": "A. Lookman",
+                    "score_update": "1 - 2",
+                    "team": "Atletico Madrid",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "F. Torres",
+                    "team": "Botafogo",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Gavi",
+                    "team": "Botafogo",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "E. García",
+                    "team": "Botafogo",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Madrid 1 - 2 Barcelona"
+                        },
+                        {
+                            "competition": "LaLiga",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Barcelona 4 - 1 Espanyol"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "08/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Barcelona 0 - 2 Atletico Madrid"
+                        },
+                        {
+                            "competition": "LaLiga",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Madrid 1 - 2 Barcelona"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "18/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Barcelona 7 - 2 Newcastle United"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico Madrid 1 - 2 Barcelona"
+                        },
+                        {
+                            "competition": "LaLiga",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sevilla 2 - 1 Atletico Madrid"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "08/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Barcelona 0 - 2 Atletico Madrid"
+                        },
+                        {
+                            "competition": "LaLiga",
+                            "date": "04/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico Madrid 1 - 2 Barcelona"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "18/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Tottenham Hotspur 3 - 2 Atletico Madrid"
+                        }
+                    ],
+                    "team": "Atletico Madrid"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Knockout Stage",
+                        "date": "08/04/2026",
+                        "teams_and_score": "Barcelona 0 - 2 Atletico Madrid"
+                    },
+                    {
+                        "competition": "LaLiga",
+                        "date": "04/04/2026",
+                        "teams_and_score": "Atletico Madrid 1 - 2 Barcelona"
+                    },
+                    {
+                        "competition": "Copa del Rey: Semi-Finals",
+                        "date": "03/03/2026",
+                        "teams_and_score": "Barcelona 3 - 0 Atletico Madrid"
+                    },
+                    {
+                        "competition": "LaLiga",
+                        "date": "02/12/2025",
+                        "teams_and_score": "Barcelona 3 - 1 Atletico Madrid"
+                    },
+                    {
+                        "competition": "Copa del Rey: Semi-Finals",
+                        "date": "02/04/2025",
+                        "teams_and_score": "Atletico Madrid 0 - 1 Barcelona"
+                    },
+                    {
+                        "competition": "LaLiga 24/25",
+                        "date": "16/03/2025",
+                        "teams_and_score": "Atletico Madrid 2 - 4 Barcelona"
+                    },
+                    {
+                        "competition": "Copa del Rey: Semi-Finals",
+                        "date": "25/02/2025",
+                        "teams_and_score": "Barcelona 4 - 4 Atletico Madrid"
+                    }
+                ],
+                "summary": {
+                    "Atletico Madrid_wins": "2",
+                    "Botafogo_wins": "6",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atletico Madrid": "29%",
+                    "Botafogo": "71%"
+                },
+                "corners": {
+                    "Atletico Madrid": "2",
+                    "Botafogo": "4"
+                },
+                "crosses": {
+                    "Atletico Madrid": "2",
+                    "Botafogo": "6"
+                },
+                "fouls": {
+                    "Atletico Madrid": "15",
+                    "Botafogo": "8"
+                },
+                "goalkeeper_saves": {
+                    "Atletico Madrid": "7",
+                    "Botafogo": "4"
+                },
+                "offsides": {
+                    "Atletico Madrid": "0",
+                    "Botafogo": "1"
+                },
+                "red_cards": {
+                    "Atletico Madrid": "0",
+                    "Botafogo": "1"
+                },
+                "shots_blocked": {
+                    "Atletico Madrid": "4",
+                    "Botafogo": "4"
+                },
+                "shots_off_target": {
+                    "Atletico Madrid": "6",
+                    "Botafogo": "3"
+                },
+                "shots_on_target": {
+                    "Atletico Madrid": "5",
+                    "Botafogo": "8"
+                },
+                "yellow_cards": {
+                    "Atletico Madrid": "0",
+                    "Botafogo": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/atletico-madrid-vs-botafogo-2025-06-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/530.webp",
+                    "name": "Atletico Madrid",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-madrid-vs-botafogo-2025-06-24-CiVH.webp",
+            "title": "Atletico Madrid vs Botafogo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 10, 2026",
+            "description": "Watch Atletico MG vs Botafogo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 10, 2026. The Brazilian Serie A featured a high-stakes encounter between Bahia and Botafogo on May 10, 2026. Both sides entered the pitch looking to claim dominance in a match characterized by physical duels and tactical shifts. First Half Dominance and Clinical Finishing The game began with palpable tension, as the referee was kept busy with early bookings for Joao Paulo and Fabricio Bruno . The deadlock was eventually broken in the 27th minute when Bahia earned a penalty. Luciano Juba stepped up to the spot and clinicaly dispatched the ball into the net to give his side the lead. This goal galvanized the home crowd and set the tone for the remainder of the half. As the clock ticked toward halftime, the pressure intensified. In the 41st minute, Neyser Villarreal turned provider, setting up Kaua Moraes for a well-placed finish that doubled the advantage. However, the intensity of the match led to further disciplinary action, with Santiago Ramos and Everaldo both receiving yellow cards before the teams headed to the dressing rooms for the interval. Tactical Shifts and Late Drama The second half saw both managers turn to their benches to influence the flow of the match . The introduction of Kenji and Ademir Santos at the restart provided fresh energy, though the physical nature of the contest remained, resulting in yellows for Kaua Moraes and Lucas Daniel Romero . A wave of substitutions in the 71st minute further altered the dynamics as Botafogo pushed to find a way back into the contest. Their persistence finally paid off in the 86th minute when Kenji found the back of the net following a sharp assist from Lucas Daniel Romero . This late strike set up a frantic finale, with Otavio Costa picking up a yellow card in the 89th minute as both teams fought for every ball. Despite the late pressure, the encounter concluded as a thrilling showcase of Brazilian football .",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. J. Paulo",
+                    "team": "Atletico MG",
+                    "time": "18'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Bruno",
+                    "team": "Botafogo",
+                    "time": "24'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Juba",
+                    "score_update": "1 - 0",
+                    "team": "Atletico MG",
+                    "time": "27'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. R. Mingo",
+                    "team": "Atletico MG",
+                    "time": "35'"
+                },
+                {
+                    "assist": "N. Villareal",
+                    "event_type": "Goal",
+                    "player": "K. Moraes",
+                    "score_update": "1 - 1",
+                    "team": "Botafogo",
+                    "time": "41'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Everaldo",
+                    "team": "Atletico MG",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Moraes",
+                    "team": "Botafogo",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Romero",
+                    "team": "Botafogo",
+                    "time": "61'"
+                },
+                {
+                    "assist": "L. Romero",
+                    "event_type": "Goal",
+                    "player": "Kenji",
+                    "score_update": "1 - 2",
+                    "team": "Botafogo",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Costa",
+                    "team": "Botafogo",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 2 Cruzeiro"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "07/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Universidad Catolica 0 - 0 Cruzeiro"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Cruzeiro 1 - 3 Atletico MG"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Cruzeiro 1 - 0 Boca Juniors"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Remo 0 - 1 Cruzeiro"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 2 Cruzeiro"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Flamengo 2 - 0 Bahia"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "15/09/2025",
+                        "teams_and_score": "Bahia 1 - 2 Cruzeiro"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "19/10/2024",
+                        "teams_and_score": "Cruzeiro 1 - 1 Bahia"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "25/10/2023",
+                        "teams_and_score": "Cruzeiro 3 - 0 Bahia"
+                    },
+                    {
+                        "competition": "Serie B",
+                        "date": "23/07/2022",
+                        "teams_and_score": "Cruzeiro 1 - 0 Bahia"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "03/11/2019",
+                        "teams_and_score": "Cruzeiro 1 - 1 Bahia"
+                    }
+                ],
+                "summary": {
+                    "Atletico MG_wins": "1",
+                    "Botafogo_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atletico MG": "46%",
+                    "Botafogo": "54%"
+                },
+                "corners": {
+                    "Atletico MG": "6",
+                    "Botafogo": "8"
+                },
+                "fouls": {
+                    "Atletico MG": "14",
+                    "Botafogo": "16"
+                },
+                "goalkeeper_saves": {
+                    "Atletico MG": "5",
+                    "Botafogo": "2"
+                },
+                "offsides": {
+                    "Atletico MG": "0",
+                    "Botafogo": "2"
+                },
+                "shots_blocked": {
+                    "Atletico MG": "2",
+                    "Botafogo": "3"
+                },
+                "shots_off_target": {
+                    "Atletico MG": "3",
+                    "Botafogo": "10"
+                },
+                "shots_on_target": {
+                    "Atletico MG": "3",
+                    "Botafogo": "7"
+                },
+                "yellow_cards": {
+                    "Atletico MG": "3",
+                    "Botafogo": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/atletico-mineiro-botafogo-2026-05-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-mineiro-botafogo-2026-05-10-Lqqc.webp",
+            "title": "Atletico Mineiro - Botafogo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 30, 2026",
+            "description": "Watch Bahia vs Botafogo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 30, 2026. The Serie A clash between Bahia and Botafogo offered a masterclass in resilience and tactical shifts. As both sides met on May 30, 2026 , the atmosphere was electric with every challenge carrying significant weight for the league standings. Early Breakthrough and Disciplinary Woes Botafogo wasted no time establishing their presence, as Huguinho clinical strike in the 7th minute gave the visitors an early lead. However, the first half was soon defined more by the referee's notebook than the scoreline. A series of yellow cards for players like Alvaro Montoro and Cristian Medina signaled a rising temperature on the pitch. The game reached a boiling point in stoppage time when Neto was shown a straight red card. The decision sparked heavy protests from the Botafogo camp, leaving them to face the remainder of the match with only ten men. Numerical Advantage and the Turning Tide Following the interval, Bahia looked to capitalize on their extra man, introducing veteran presence Everton Ribeiro to control the tempo. The pressure eventually forced a mistake in the 57th minute when Nahuel Ferraresi inadvertently sent the ball into his own net, leveling the score. Despite the setback, Botafogo attempted to stabilize with substitutions, bringing on Newton and Matheus Martins , but the momentum had clearly swung in favor of the home side. A Dramatic Conclusion As the clock ticked deep into stoppage time, Bahia finally found the breakthrough they had been chasing. In the 90+2nd minute, Ademir Santos provided a pinpoint assist for David Duarte , who made no mistake in finding the back of the net to complete the comeback. The final moments were frantic, featuring yellow cards for Duarte and Willian Jose as tensions flared, but Bahia held firm to secure a hard-fought 2-1 victory.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "Huguinho",
+                    "score_update": "0 - 1",
+                    "team": "Botafogo",
+                    "time": "7'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Montoro",
+                    "team": "Botafogo",
+                    "time": "21'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Ferraresi",
+                    "team": "Botafogo",
+                    "time": "37'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Medina",
+                    "team": "Botafogo",
+                    "time": "43'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Conrado",
+                    "team": "Bahia",
+                    "time": "44'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "Neto",
+                    "team": "Botafogo",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Huguinho",
+                    "team": "Botafogo",
+                    "time": "45+10'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Ferraresi",
+                    "team": "Bahia",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. A. Newton",
+                    "team": "Botafogo",
+                    "time": "83'"
+                },
+                {
+                    "assist": "A. Santos",
+                    "event_type": "Goal",
+                    "player": "D. Duarte",
+                    "score_update": "2 - 1",
+                    "team": "Bahia",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Duarte",
+                    "team": "Bahia",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. José",
+                    "team": "Bahia",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "30/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 2 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "27/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Caracas 1 - 3 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "23/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Independiente Petrolero 0 - 3 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 3 - 1 Corinthians"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "30/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 2 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Remo 2 - 1 Bahia"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 1 - 2 Cruzeiro"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Flamengo 2 - 0 Bahia"
+                        }
+                    ],
+                    "team": "Bahia"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "02/10/2025",
+                        "teams_and_score": "Botafogo FR 2 - 1 Bahia"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "25/08/2024",
+                        "teams_and_score": "Bahia 0 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "07/08/2024",
+                        "teams_and_score": "Bahia 1 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "05/05/2024",
+                        "teams_and_score": "Botafogo FR 1 - 2 Bahia"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "27/08/2023",
+                        "teams_and_score": "Botafogo FR 3 - 0 Bahia"
+                    },
+                    {
+                        "competition": "Serie A 2020",
+                        "date": "08/11/2020",
+                        "teams_and_score": "Bahia 1 - 0 Botafogo FR"
+                    }
+                ],
+                "summary": {
+                    "Bahia_wins": "3",
+                    "Botafogo_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bahia": "68%",
+                    "Botafogo": "32%"
+                },
+                "corners": {
+                    "Bahia": "10",
+                    "Botafogo": "4"
+                },
+                "fouls": {
+                    "Bahia": "14",
+                    "Botafogo": "16"
+                },
+                "goalkeeper_saves": {
+                    "Bahia": "5",
+                    "Botafogo": "8"
+                },
+                "offsides": {
+                    "Bahia": "2",
+                    "Botafogo": "1"
+                },
+                "red_cards": {
+                    "Bahia": "0",
+                    "Botafogo": "1"
+                },
+                "shots_blocked": {
+                    "Bahia": "6",
+                    "Botafogo": "3"
+                },
+                "shots_off_target": {
+                    "Bahia": "9",
+                    "Botafogo": "4"
+                },
+                "shots_on_target": {
+                    "Bahia": "9",
+                    "Botafogo": "6"
+                },
+                "yellow_cards": {
+                    "Bahia": "3",
+                    "Botafogo": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/bahia-botafogo-2026-05-30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/118.webp",
+                    "name": "Bahia",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bahia-botafogo-2026-05-30-hkdw.webp",
+            "title": "Bahia - Botafogo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Botafogo vs Corinthians highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 17, 2026. High-Octane Serie A Clash Sees Arthur Cabral Star for Botafogo A thrilling Serie A encounter unfolded on May 17, 2026, as Botafogo hosted Corinthians in a match that delivered a spectacle of goals and intense play. The home side asserted their dominance early on, with Arthur Cabral emerging as the standout performer, netting a hat-trick. Early Dominance and Botafogo's Lead Botafogo set the tone for the game in the opening exchanges. In the 7th minute, Arthur Cabral opened the scoring, assisted by Lucas Villalba , putting the home team in front. Their offensive pressure continued, and by the 11th minute, Rodrigo Garro doubled the lead, set up by Jesse Lingard , further boosting the hosts' confidence. Corinthians , striving to find a foothold, saw Cristian Medina receive a yellow card in the 39th minute. Just before halftime, at the 32nd minute, Arthur Cabral struck again, with Kadir Barria credited with the assist. The first half concluded with Botafogo in a commanding position, despite a number of bookings, including one for Jesse Lingard in added time. Second Half: Goals Galore and Yellow Cards Aplenty The second half, commencing after the interval, brought further drama and a flurry of yellow cards. Botafogo maintained their attacking impetus, and in the 70th minute, Arthur Cabral completed his hat-trick with an assist from Kauan Toledo , emphatically extending the home team's lead. However, the match also saw its disciplinary side surface. Corinthians had Arthur Cabral booked just after his third goal in the 71st minute, followed by Lucas Villalba in the 73rd. Botafogo also saw players cautioned, with Alexander Barboza and Alex Telles receiving yellow cards in the closing stages. Substitutions were frequent as both sides attempted to alter the game's complexion. In the end, Botafogo secured a memorable victory in a match that offered a compelling display of football, marked by individual brilliance and fierce competition.",
+            "events_timeline": [
+                {
+                    "assist": "L. Villalba",
+                    "event_type": "Goal",
+                    "player": "A. Cabral",
+                    "score_update": "1 - 0",
+                    "team": "Botafogo",
+                    "time": "7'"
+                },
+                {
+                    "assist": "J. Lingard",
+                    "event_type": "Goal",
+                    "player": "R. Garro",
+                    "score_update": "1 - 1",
+                    "team": "Corinthians",
+                    "time": "11'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Ponte",
+                    "team": "Botafogo",
+                    "time": "20'"
+                },
+                {
+                    "assist": "K. Barria",
+                    "event_type": "Goal",
+                    "player": "A. Cabral",
+                    "score_update": "2 - 1",
+                    "team": "Botafogo",
+                    "time": "32'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Medina",
+                    "team": "Botafogo",
+                    "time": "39'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Lingard",
+                    "team": "Corinthians",
+                    "time": "45+6'"
+                },
+                {
+                    "assist": "K. A. Toledo",
+                    "event_type": "Goal",
+                    "player": "A. Cabral",
+                    "score_update": "3 - 1",
+                    "team": "Botafogo",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Cabral",
+                    "team": "Botafogo",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Villalba",
+                    "team": "Botafogo",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Barboza",
+                    "team": "Botafogo",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Telles",
+                    "team": "Botafogo",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 3 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 1 - 0 Barra FC"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 3 - 2 Sao Paulo"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "07/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Santa Fe 1 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Mirassol 2 - 1 Corinthians"
+                        }
+                    ],
+                    "team": "Corinthians"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 3 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Chapecoense AF 2 - 0 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico MG 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "07/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 2 - 1 Racing Club"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 1 - 2 Remo"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "30/11/2025",
+                        "teams_and_score": "Corinthians 2 - 2 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "15/09/2024",
+                        "teams_and_score": "Botafogo FR 2 - 1 Corinthians"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "22/09/2023",
+                        "teams_and_score": "Corinthians 1 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A 2022",
+                        "date": "30/07/2022",
+                        "teams_and_score": "Corinthians 1 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A 2020",
+                        "date": "27/12/2020",
+                        "teams_and_score": "Botafogo FR 0 - 2 Corinthians"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "1",
+                    "Corinthians_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "35%",
+                    "Corinthians": "65%"
+                },
+                "corners": {
+                    "Botafogo": "3",
+                    "Corinthians": "2"
+                },
+                "fouls": {
+                    "Botafogo": "22",
+                    "Corinthians": "8"
+                },
+                "goalkeeper_saves": {
+                    "Botafogo": "0",
+                    "Corinthians": "2"
+                },
+                "offsides": {
+                    "Botafogo": "0",
+                    "Corinthians": "1"
+                },
+                "shots_blocked": {
+                    "Botafogo": "2",
+                    "Corinthians": "6"
+                },
+                "shots_off_target": {
+                    "Botafogo": "6",
+                    "Corinthians": "12"
+                },
+                "shots_on_target": {
+                    "Botafogo": "5",
+                    "Corinthians": "1"
+                },
+                "yellow_cards": {
+                    "Botafogo": "6",
+                    "Corinthians": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/botafogo-corinthians-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/131.webp",
+                    "name": "Corinthians",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-corinthians-2026-05-17-8hEP.webp",
+            "title": "Botafogo - Corinthians"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch Botafogo vs Flamengo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "G. Varela",
+                    "event_type": "Goal",
+                    "player": "S. Lino",
+                    "score_update": "0 - 1",
+                    "team": "Flamengo",
+                    "time": "13'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Barboza",
+                    "team": "Botafogo",
+                    "time": "44'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Allan",
+                    "team": "Botafogo",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Pereira",
+                    "score_update": "0 - 2",
+                    "team": "Flamengo",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "A. Barboza",
+                    "team": "Botafogo",
+                    "time": "45+9'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Anselmi",
+                    "team": "Botafogo",
+                    "time": "45+12'"
+                },
+                {
+                    "assist": "G. Varela",
+                    "event_type": "Goal",
+                    "player": "Pedro",
+                    "score_update": "0 - 3",
+                    "team": "Flamengo",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Pulgar",
+                    "team": "Flamengo",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Cabral",
+                    "team": "Botafogo",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Jorginho",
+                    "team": "Flamengo",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "14/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 0 - 3 Flamengo"
+                        },
+                        {
+                            "competition": "Carioca Taca Guanabara: Play-off",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Fluminense 0 - 0 Flamengo"
+                        },
+                        {
+                            "competition": "Recopa Sudamericana",
+                            "date": "27/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Flamengo 2 - 3 Lanus"
+                        },
+                        {
+                            "competition": "Carioca Taca Guanabara: Play-off",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Flamengo 3 - 0 Madureira RJ"
+                        },
+                        {
+                            "competition": "Recopa Sudamericana",
+                            "date": "20/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Lanus 1 - 0 Flamengo"
+                        }
+                    ],
+                    "team": "Flamengo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "14/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 0 - 3 Flamengo"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "11/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 0 - 1 Barcelona SC"
+                        },
+                        {
+                            "competition": "Carioca Taca Rio: Play-off",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 3 - 1 Bangu"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Barcelona SC 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Carioca Taca Rio: Play-off",
+                            "date": "28/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 0 - 0 Boavista"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Carioca Taca Guanabara: Play-off",
+                        "date": "15/02/2026",
+                        "teams_and_score": "Botafogo FR 1 - 2 Flamengo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "15/10/2025",
+                        "teams_and_score": "Botafogo FR 0 - 3 Flamengo"
+                    },
+                    {
+                        "competition": "Carioca Taca Guanabara",
+                        "date": "13/02/2025",
+                        "teams_and_score": "Flamengo 1 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Supercopa do Brasil",
+                        "date": "02/02/2025",
+                        "teams_and_score": "Botafogo FR 1 - 3 Flamengo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "18/08/2024",
+                        "teams_and_score": "Botafogo FR 4 - 1 Flamengo"
+                    },
+                    {
+                        "competition": "Carioca Taca Guanabara",
+                        "date": "08/02/2024",
+                        "teams_and_score": "Flamengo 1 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "03/09/2023",
+                        "teams_and_score": "Botafogo FR 1 - 2 Flamengo"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "1",
+                    "Flamengo_wins": "6",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "45%",
+                    "Flamengo": "55%"
+                },
+                "corners": {
+                    "Botafogo": "2",
+                    "Flamengo": "4"
+                },
+                "fouls": {
+                    "Botafogo": "13",
+                    "Flamengo": "11"
+                },
+                "goalkeeper_saves": {
+                    "Botafogo": "2",
+                    "Flamengo": "1"
+                },
+                "offsides": {
+                    "Botafogo": "0",
+                    "Flamengo": "1"
+                },
+                "red_cards": {
+                    "Botafogo": "1",
+                    "Flamengo": "0"
+                },
+                "shots_off_target": {
+                    "Botafogo": "2",
+                    "Flamengo": "6"
+                },
+                "shots_on_target": {
+                    "Botafogo": "1",
+                    "Flamengo": "5"
+                },
+                "yellow_cards": {
+                    "Botafogo": "4",
+                    "Flamengo": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/botafogo-flamengo-2026-03-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/127.webp",
+                    "name": "Flamengo",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-flamengo-2026-03-15-omco.webp",
+            "title": "Botafogo - Flamengo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 25, 2026",
+            "description": "Watch Botafogo vs Internacional highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 25, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Cabral",
+                    "team": "Botafogo",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Torres",
+                    "team": "Internacional",
+                    "time": "16'"
+                },
+                {
+                    "assist": "M. Ponte",
+                    "event_type": "Goal",
+                    "player": "D. Oliveira",
+                    "score_update": "1 - 0",
+                    "team": "Botafogo",
+                    "time": "54'"
+                },
+                {
+                    "assist": "Alerrandro",
+                    "event_type": "Goal",
+                    "player": "J. Carbonero",
+                    "score_update": "1 - 1",
+                    "team": "Internacional",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Medina",
+                    "score_update": "2 - 1",
+                    "team": "Botafogo",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Gabriel",
+                    "team": "Internacional",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Bernabei",
+                    "score_update": "2 - 2",
+                    "team": "Internacional",
+                    "time": "74'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Correa",
+                    "team": "Botafogo",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Clayton",
+                    "team": "Internacional",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 2 - 2 Internacional"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Athletic Club 1 - 2 Internacional"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Internacional 1 - 2 Mirassol"
+                        }
+                    ],
+                    "team": "Internacional"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 2 - 2 Internacional"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "21/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 1 - 0 Chapecoense AF"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Chapecoense AF 1 - 4 Botafogo FR"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Racing Club 2 - 3 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 2 - 2 Coritiba"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "04/10/2025",
+                        "teams_and_score": "Internacional 2 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "05/12/2024",
+                        "teams_and_score": "Internacional 0 - 1 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "07/12/2023",
+                        "teams_and_score": "Internacional 3 - 1 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A 2022",
+                        "date": "16/10/2022",
+                        "teams_and_score": "Botafogo FR 0 - 1 Internacional"
+                    },
+                    {
+                        "competition": "Serie A 2020",
+                        "date": "12/12/2020",
+                        "teams_and_score": "Internacional 2 - 1 Botafogo FR"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "1",
+                    "Internacional_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "54%",
+                    "Internacional": "46%"
+                },
+                "corners": {
+                    "Botafogo": "3",
+                    "Internacional": "4"
+                },
+                "fouls": {
+                    "Botafogo": "16",
+                    "Internacional": "14"
+                },
+                "goalkeeper_saves": {
+                    "Botafogo": "2",
+                    "Internacional": "4"
+                },
+                "offsides": {
+                    "Botafogo": "2",
+                    "Internacional": "3"
+                },
+                "shots_off_target": {
+                    "Botafogo": "6",
+                    "Internacional": "2"
+                },
+                "shots_on_target": {
+                    "Botafogo": "6",
+                    "Internacional": "4"
+                },
+                "yellow_cards": {
+                    "Botafogo": "2",
+                    "Internacional": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/botafogo-internacional-2026-04-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/119.webp",
+                    "name": "Internacional",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-internacional-2026-04-25-lDtH.webp",
+            "title": "Botafogo - Internacional"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 2, 2026",
+            "description": "Watch Botafogo vs Mirassol highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 2, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/botafogo-mirassol-2026-04-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-mirassol-2026-04-02-WvuK.webp",
+            "title": "Botafogo - Mirassol"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Botafogo vs Remo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 2, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Telles",
+                    "event_type": "Goal",
+                    "player": "N. Ferraresi",
+                    "score_update": "1 - 0",
+                    "team": "Botafogo",
+                    "time": "13'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Vitinho",
+                    "team": "Botafogo",
+                    "time": "37'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Tchamba",
+                    "team": "Remo",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Oliveira",
+                    "team": "Botafogo",
+                    "time": "49'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Manga",
+                    "score_update": "1 - 1",
+                    "team": "Remo",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Picco",
+                    "team": "Remo",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Jaja",
+                    "score_update": "1 - 2",
+                    "team": "Remo",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 1 - 2 Remo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "RB Bragantino 4 - 2 Remo"
+                        }
+                    ],
+                    "team": "Remo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 1 - 2 Remo"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "28/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 3 - 0 Independiente Petrolero"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 2 - 2 Internacional"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "21/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 1 - 0 Chapecoense AF"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Chapecoense AF 1 - 4 Botafogo FR"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie B",
+                        "date": "04/09/2021",
+                        "teams_and_score": "Remo 0 - 1 Botafogo FR"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "1",
+                    "Remo_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "58%",
+                    "Remo": "42%"
+                },
+                "corners": {
+                    "Botafogo": "9",
+                    "Remo": "6"
+                },
+                "fouls": {
+                    "Botafogo": "14",
+                    "Remo": "10"
+                },
+                "offsides": {
+                    "Botafogo": "2",
+                    "Remo": "2"
+                },
+                "shots_off_target": {
+                    "Botafogo": "7",
+                    "Remo": "3"
+                },
+                "shots_on_target": {
+                    "Botafogo": "5",
+                    "Remo": "9"
+                },
+                "yellow_cards": {
+                    "Botafogo": "2",
+                    "Remo": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/botafogo-remo-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1198.webp",
+                    "name": "Remo",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-remo-2026-05-02-UMN8.webp",
+            "title": "Botafogo - Remo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Jul 17, 2026",
+            "description": "Watch Botafogo vs Santos highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on July 17, 2026. The Serie A clash between Botafogo and Santos provided a masterclass in competitive tension and late-game heroics. On July 17, 2026 , both sides took to the pitch with high ambitions, setting the stage for a match defined by tactical shifts and physical duels. A Hard-Fought Opening Period The first half was a testament to the rivalry's intensity, with Huguinho and Thaciano picking up early bookings as they battled for supremacy in the center of the park. Botafogo eventually found their rhythm in the 41st minute when Kauan Toledo set up Lucas Emanuel for a clinical finish to open the scoring. The temperature rose just before the interval, leading to yellow cards for Matheus Martins and Alvaro Barreal during a heated stoppage-time period. Santos Strike Back in the Second Half Santos emerged from the break with renewed energy and successfully leveled the score in the 57th minute through a strike by Alvaro Barreal . This equalizer prompted a wave of tactical changes from both benches, including the introduction of Kadir Barria for the hosts. As the game entered its final phase, Nahuel Ferraresi was cautioned, reflecting the growing desperation of both teams to secure a decisive advantage. Last-Minute Drama and the Winning Goal Just as the points seemed destined to be shared, the match reached a stunning climax in the 5th minute of added time. Substitute Kadir Barria produced a moment of magic to find the back of the net, sealing a dramatic win for Botafogo . Although Barria was booked for his exuberant celebration, the goal stood as the final act of a pulsating encounter, leaving the home fans in raptures as the referee blew the final whistle.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Huguinho",
+                    "team": "Botafogo",
+                    "time": "25'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Thaciano",
+                    "team": "Santos",
+                    "time": "26'"
+                },
+                {
+                    "assist": "K. A. Toledo",
+                    "event_type": "Goal",
+                    "player": "L. Emanuel",
+                    "score_update": "1 - 0",
+                    "team": "Botafogo",
+                    "time": "41'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Martins",
+                    "team": "Botafogo",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Barreal",
+                    "team": "Santos",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Barreal",
+                    "score_update": "1 - 1",
+                    "team": "Santos",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Ferraresi",
+                    "team": "Botafogo",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Barria",
+                    "score_update": "2 - 1",
+                    "team": "Botafogo",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Barria",
+                    "team": "Botafogo",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "16/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 2 - 1 Santos FC"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "27/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Santos FC 3 - 0 Deportivo Cuenca"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "23/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Gremio 3 - 2 Santos FC"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Santos FC 2 - 2 San Lorenzo de Almagro"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Santos FC 0 - 3 Coritiba"
+                        }
+                    ],
+                    "team": "Santos"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "16/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 2 - 1 Santos FC"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "27/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Caracas 1 - 3 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "23/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Independiente Petrolero 0 - 3 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 3 - 1 Corinthians"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "26/10/2025",
+                        "teams_and_score": "Botafogo FR 2 - 2 Santos FC"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "26/11/2023",
+                        "teams_and_score": "Botafogo FR 1 - 1 Santos FC"
+                    },
+                    {
+                        "competition": "Serie A 2022",
+                        "date": "10/11/2022",
+                        "teams_and_score": "Botafogo FR 3 - 0 Santos FC"
+                    },
+                    {
+                        "competition": "Serie A 2020",
+                        "date": "17/01/2021",
+                        "teams_and_score": "Santos FC 2 - 1 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "03/11/2019",
+                        "teams_and_score": "Santos FC 4 - 1 Botafogo FR"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "1",
+                    "Santos_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "48%",
+                    "Santos": "52%"
+                },
+                "corners": {
+                    "Botafogo": "5",
+                    "Santos": "5"
+                },
+                "fouls": {
+                    "Botafogo": "10",
+                    "Santos": "13"
+                },
+                "goalkeeper_saves": {
+                    "Botafogo": "8",
+                    "Santos": "5"
+                },
+                "offsides": {
+                    "Botafogo": "1",
+                    "Santos": "0"
+                },
+                "shots_blocked": {
+                    "Botafogo": "6",
+                    "Santos": "7"
+                },
+                "shots_off_target": {
+                    "Botafogo": "4",
+                    "Santos": "6"
+                },
+                "shots_on_target": {
+                    "Botafogo": "7",
+                    "Santos": "9"
+                },
+                "yellow_cards": {
+                    "Botafogo": "4",
+                    "Santos": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/botafogo-santos-2026-07-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/128.webp",
+                    "name": "Santos",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-santos-2026-07-17-C4D1.webp",
+            "title": "Botafogo - Santos"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Jul 24, 2026",
+            "description": "Watch Botafogo vs Vitoria highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on July 24, 2026. In a contest defined by tactical discipline and intense physical battles, both teams fought hard for supremacy but ultimately struggled to penetrate well-organized defensive lines. This Serie A encounter, played on July 24, 2026, turned into a war of attrition as both sides searched for a breakthrough that never materialized. Midfield Battles and First Half Tension From the very start, Botafogo and Vitoria engaged in a high-stakes tactical struggle. The first half was a stop-start affair, with neither team willing to concede space. The intensity of the match was underscored by the disciplinary actions required, with Emmanuel Martinez picking up a yellow card in the 34th minute as the physical nature of the game became clear. Strategic Substitutions and Late Drama As the second half unfolded, both managers looked to the bench to shift the momentum. The second period saw a wave of substitutions from both sides, as fresh legs like Renato Kayzer and Caique for the hosts, and Tomas Pochettino and Diego Tarzia for the visitors, entered the fray to challenge the fatigue levels of the opposition. Despite the flurry of changes throughout the closing stages, the defensive resilience of both squads remained unbroken. A final moment of tension saw Mateo Ponte cautioned in the 90+1st minute, shortly before the referee signaled the end of the match in the 90+9th minute, confirming the stalemate.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Martinez",
+                    "team": "Vitoria",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Ponte",
+                    "team": "Botafogo",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "23/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 0 - 0 Vitoria"
+                        },
+                        {
+                            "competition": "Copa do Nordeste: Knockout Stage",
+                            "date": "06/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Vitoria 2 - 1 Fortaleza"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "30/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Santos FC 3 - 1 Vitoria"
+                        },
+                        {
+                            "competition": "Copa do Nordeste: Knockout Stage",
+                            "date": "28/05/2026",
+                            "result": "W",
+                            "teams_and_score": "ABC 3 - 4 Vitoria"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "23/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Vitoria 2 - 0 Internacional"
+                        }
+                    ],
+                    "team": "Vitoria"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "23/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 0 - 0 Vitoria"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "27/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Caracas 1 - 3 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "23/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Independiente Petrolero 0 - 3 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 3 - 1 Corinthians"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "09/11/2025",
+                        "teams_and_score": "Vitoria 0 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "23/11/2024",
+                        "teams_and_score": "Botafogo FR 1 - 1 Vitoria"
+                    },
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "22/05/2024",
+                        "teams_and_score": "Vitoria 1 - 2 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie B",
+                        "date": "30/09/2021",
+                        "teams_and_score": "Vitoria 0 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "23/09/2018",
+                        "teams_and_score": "Vitoria 3 - 4 Botafogo FR"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "2",
+                    "Vitoria_wins": "0",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "57%",
+                    "Vitoria": "43%"
+                },
+                "corners": {
+                    "Botafogo": "9",
+                    "Vitoria": "3"
+                },
+                "fouls": {
+                    "Botafogo": "16",
+                    "Vitoria": "14"
+                },
+                "goalkeeper_saves": {
+                    "Botafogo": "1",
+                    "Vitoria": "6"
+                },
+                "shots_blocked": {
+                    "Botafogo": "6",
+                    "Vitoria": "2"
+                },
+                "shots_off_target": {
+                    "Botafogo": "7",
+                    "Vitoria": "2"
+                },
+                "shots_on_target": {
+                    "Botafogo": "6",
+                    "Vitoria": "1"
+                },
+                "yellow_cards": {
+                    "Botafogo": "1",
+                    "Vitoria": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/botafogo-vitoria-2026-07-24_DFXUv.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/136.webp",
+                    "name": "Vitoria",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-vitoria-2026-07-24-Qmwx.webp",
+            "title": "Botafogo - Vitoria"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 10, 2026",
+            "description": "Watch Botafogo vs Barcelona EC highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 10, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Céliz",
+                    "score_update": "0 - 1",
+                    "team": "Barcelona EC",
+                    "time": "1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "11/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 0 - 1 Barcelona SC"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Barcelona SC 1 - 0 Emelec"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Barcelona SC 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo Cuenca 2 - 1 Barcelona SC"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Argentinos Juniors 0 - 1 Barcelona SC"
+                        }
+                    ],
+                    "team": "Barcelona EC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "11/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 0 - 1 Barcelona SC"
+                        },
+                        {
+                            "competition": "Carioca Taca Rio: Play-off",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 3 - 1 Bangu"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Barcelona SC 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Carioca Taca Rio: Play-off",
+                            "date": "28/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 0 - 0 Boavista"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 2 - 0 Nacional Potosi"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Qualification 2026",
+                        "date": "04/03/2026",
+                        "teams_and_score": "Barcelona SC 1 - 1 Botafogo FR"
+                    },
+                    {
+                        "competition": "Copa Libertadores Grp. A",
+                        "date": "03/05/2017",
+                        "teams_and_score": "Botafogo FR 0 - 2 Barcelona SC"
+                    }
+                ],
+                "summary": {
+                    "Barcelona EC_wins": "1",
+                    "Botafogo_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/botafogo-vs-barcelona-ec-2026-03-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/23571.webp",
+                    "name": "Barcelona EC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-vs-barcelona-ec-2026-03-10-0t14.webp",
+            "title": "Botafogo vs Barcelona EC"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Jan 30, 2026",
+            "description": "Watch Botafogo vs Cruzeiro highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on January 30, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Silva",
+                    "team": "Cruzeiro",
+                    "time": "17'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Allan",
+                    "team": "Botafogo",
+                    "time": "45+4'"
+                },
+                {
+                    "assist": "A. Cabral",
+                    "event_type": "Goal",
+                    "player": "D. Oliveira",
+                    "score_update": "1 - 0",
+                    "team": "Botafogo",
+                    "time": "48'"
+                },
+                {
+                    "assist": "A. Montoro",
+                    "event_type": "Goal",
+                    "player": "M. Martins",
+                    "score_update": "2 - 0",
+                    "team": "Botafogo",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Kenji",
+                    "team": "Cruzeiro",
+                    "time": "83'"
+                },
+                {
+                    "assist": "N. Fernandes",
+                    "event_type": "Goal",
+                    "player": "D. Oliveira",
+                    "score_update": "3 - 0",
+                    "team": "Botafogo",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Artur",
+                    "score_update": "4 - 0",
+                    "team": "Botafogo",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "30/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 4 - 0 Cruzeiro"
+                        },
+                        {
+                            "competition": "Mineiro",
+                            "date": "25/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico MG 2 - 1 Cruzeiro"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 1 - 2 Cruzeiro"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "07/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Santos FC 3 - 0 Cruzeiro"
+                        }
+                    ],
+                    "team": "Cruzeiro"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "30/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 4 - 0 Cruzeiro"
+                        },
+                        {
+                            "competition": "Carioca Taca Guanabara",
+                            "date": "25/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 2 - 0 Bangu"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "07/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 4 - 2 Fortaleza"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "04/12/2025",
+                        "teams_and_score": "Cruzeiro 2 - 2 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "28/07/2024",
+                        "teams_and_score": "Botafogo FR 0 - 3 Cruzeiro"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "03/12/2023",
+                        "teams_and_score": "Botafogo FR 0 - 0 Cruzeiro"
+                    },
+                    {
+                        "competition": "Serie B",
+                        "date": "13/10/2021",
+                        "teams_and_score": "Cruzeiro 0 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "01/11/2019",
+                        "teams_and_score": "Botafogo FR 0 - 2 Cruzeiro"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "0",
+                    "Cruzeiro_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "46%",
+                    "Cruzeiro": "54%"
+                },
+                "corners": {
+                    "Botafogo": "3",
+                    "Cruzeiro": "7"
+                },
+                "fouls": {
+                    "Botafogo": "10",
+                    "Cruzeiro": "12"
+                },
+                "goalkeeper_saves": {
+                    "Botafogo": "4",
+                    "Cruzeiro": "1"
+                },
+                "offsides": {
+                    "Botafogo": "0",
+                    "Cruzeiro": "5"
+                },
+                "shots_off_target": {
+                    "Botafogo": "3",
+                    "Cruzeiro": "5"
+                },
+                "shots_on_target": {
+                    "Botafogo": "5",
+                    "Cruzeiro": "4"
+                },
+                "yellow_cards": {
+                    "Botafogo": "1",
+                    "Cruzeiro": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/team-3036-vs-team-3051-2026-01-30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/135.webp",
+                    "name": "Cruzeiro",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-vs-cruzeiro-2026-01-30-68HO.webp",
+            "title": "Botafogo vs Cruzeiro"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch Botafogo vs Flamengo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "G. Varela",
+                    "event_type": "Goal",
+                    "player": "S. Lino",
+                    "score_update": "0 - 1",
+                    "team": "Flamengo",
+                    "time": "13'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Barboza",
+                    "team": "Botafogo",
+                    "time": "44'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Allan",
+                    "team": "Botafogo",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Pereira",
+                    "score_update": "0 - 2",
+                    "team": "Flamengo",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "A. Barboza",
+                    "team": "Botafogo",
+                    "time": "45+9'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Anselmi",
+                    "team": "Botafogo",
+                    "time": "45+12'"
+                },
+                {
+                    "assist": "G. Varela",
+                    "event_type": "Goal",
+                    "player": "Pedro",
+                    "score_update": "0 - 3",
+                    "team": "Flamengo",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Pulgar",
+                    "team": "Flamengo",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Cabral",
+                    "team": "Botafogo",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Jorginho",
+                    "team": "Flamengo",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "14/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 0 - 3 Flamengo"
+                        },
+                        {
+                            "competition": "Carioca Taca Guanabara: Play-off",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Fluminense 0 - 0 Flamengo"
+                        },
+                        {
+                            "competition": "Recopa Sudamericana",
+                            "date": "27/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Flamengo 2 - 3 Lanus"
+                        },
+                        {
+                            "competition": "Carioca Taca Guanabara: Play-off",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Flamengo 3 - 0 Madureira RJ"
+                        },
+                        {
+                            "competition": "Recopa Sudamericana",
+                            "date": "20/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Lanus 1 - 0 Flamengo"
+                        }
+                    ],
+                    "team": "Flamengo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "14/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 0 - 3 Flamengo"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "11/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 0 - 1 Barcelona SC"
+                        },
+                        {
+                            "competition": "Carioca Taca Rio: Play-off",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 3 - 1 Bangu"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Barcelona SC 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Carioca Taca Rio: Play-off",
+                            "date": "28/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 0 - 0 Boavista"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Carioca Taca Guanabara: Play-off",
+                        "date": "15/02/2026",
+                        "teams_and_score": "Botafogo FR 1 - 2 Flamengo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "15/10/2025",
+                        "teams_and_score": "Botafogo FR 0 - 3 Flamengo"
+                    },
+                    {
+                        "competition": "Carioca Taca Guanabara",
+                        "date": "13/02/2025",
+                        "teams_and_score": "Flamengo 1 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Supercopa do Brasil",
+                        "date": "02/02/2025",
+                        "teams_and_score": "Botafogo FR 1 - 3 Flamengo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "18/08/2024",
+                        "teams_and_score": "Botafogo FR 4 - 1 Flamengo"
+                    },
+                    {
+                        "competition": "Carioca Taca Guanabara",
+                        "date": "08/02/2024",
+                        "teams_and_score": "Flamengo 1 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "03/09/2023",
+                        "teams_and_score": "Botafogo FR 1 - 2 Flamengo"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "1",
+                    "Flamengo_wins": "6",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "45%",
+                    "Flamengo": "55%"
+                },
+                "corners": {
+                    "Botafogo": "2",
+                    "Flamengo": "4"
+                },
+                "fouls": {
+                    "Botafogo": "13",
+                    "Flamengo": "11"
+                },
+                "goalkeeper_saves": {
+                    "Botafogo": "2",
+                    "Flamengo": "1"
+                },
+                "offsides": {
+                    "Botafogo": "0",
+                    "Flamengo": "1"
+                },
+                "red_cards": {
+                    "Botafogo": "1",
+                    "Flamengo": "0"
+                },
+                "shots_off_target": {
+                    "Botafogo": "2",
+                    "Flamengo": "6"
+                },
+                "shots_on_target": {
+                    "Botafogo": "1",
+                    "Flamengo": "5"
+                },
+                "yellow_cards": {
+                    "Botafogo": "4",
+                    "Flamengo": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/botafogo-vs-flamengo-2026-03-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/127.webp",
+                    "name": "Flamengo",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-vs-flamengo-2026-03-15-1tG6.webp",
+            "title": "Botafogo vs Flamengo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Dec 8, 2025",
+            "description": "Watch Botafogo vs Fortaleza EC highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on December 8, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/botafogo-vs-fortaleza-ec-2025-12-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-vs-fortaleza-ec-2025-12-08-390X.webp",
+            "title": "Botafogo vs Fortaleza EC"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 19, 2026",
+            "description": "Watch Chapecoense AF vs Botafogo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 19, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Telles",
+                    "event_type": "Goal",
+                    "player": "Edenilson",
+                    "score_update": "0 - 1",
+                    "team": "Botafogo",
+                    "time": "10'"
+                },
+                {
+                    "assist": "D. Oliveira",
+                    "event_type": "Goal",
+                    "player": "M. Martins",
+                    "score_update": "0 - 2",
+                    "team": "Botafogo",
+                    "time": "14'"
+                },
+                {
+                    "assist": "Vitinho",
+                    "event_type": "Goal",
+                    "player": "Edenilson",
+                    "score_update": "0 - 3",
+                    "team": "Botafogo",
+                    "time": "20'"
+                },
+                {
+                    "assist": "Y. Bolasie",
+                    "event_type": "Goal",
+                    "player": "M. A. Marcinho",
+                    "score_update": "1 - 3",
+                    "team": "Chapecoense AF",
+                    "time": "45+3'"
+                },
+                {
+                    "assist": "J. Correa",
+                    "event_type": "Goal",
+                    "player": "M. Martins",
+                    "score_update": "1 - 4",
+                    "team": "Botafogo",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Chapecoense AF 1 - 4 Botafogo FR"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Racing Club 2 - 3 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 2 - 2 Coritiba"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "09/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 1 - 1 Caracas"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Vasco da Gama 1 - 2 Botafogo FR"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Chapecoense AF 1 - 4 Botafogo FR"
+                        },
+                        {
+                            "competition": "Catarinense: Play-off",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Chapecoense AF 1 - 0 Barra FC"
+                        }
+                    ],
+                    "team": "Chapecoense AF"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "27/11/2019",
+                        "teams_and_score": "Chapecoense AF 0 - 1 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "15/11/2018",
+                        "teams_and_score": "Chapecoense AF 0 - 1 Botafogo FR"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "2",
+                    "Chapecoense AF_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "48%",
+                    "Chapecoense AF": "52%"
+                },
+                "corners": {
+                    "Botafogo": "4",
+                    "Chapecoense AF": "4"
+                },
+                "fouls": {
+                    "Botafogo": "5",
+                    "Chapecoense AF": "4"
+                },
+                "goalkeeper_saves": {
+                    "Botafogo": "1",
+                    "Chapecoense AF": "3"
+                },
+                "offsides": {
+                    "Botafogo": "1",
+                    "Chapecoense AF": "1"
+                },
+                "shots_off_target": {
+                    "Botafogo": "4",
+                    "Chapecoense AF": "2"
+                },
+                "shots_on_target": {
+                    "Botafogo": "7",
+                    "Chapecoense AF": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/chapecoense-botafogo-2026-04-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/22722.webp",
+                    "name": "Chapecoense AF",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/chapecoense-botafogo-2026-04-19-TMGk.webp",
+            "title": "Chapecoense - Botafogo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Feb 12, 2026",
+            "description": "Watch Fluminense vs Botafogo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on February 12, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fluminense-vs-botafogo-2026-02-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fluminense-vs-botafogo-2026-02-12-lRaC.webp",
+            "title": "Fluminense vs Botafogo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Feb 4, 2026",
+            "description": "Watch Gremio vs Botafogo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on February 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/gremio-vs-botafogo-2026-02-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/gremio-vs-botafogo-2026-02-04-ciaV.webp",
+            "title": "Gremio vs Botafogo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 19, 2026",
+            "description": "Watch Palmeiras vs Botafogo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 19, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Pereira",
+                    "event_type": "Goal",
+                    "player": "Allan",
+                    "score_update": "1 - 0",
+                    "team": "Palmeiras",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "C. Medina",
+                    "team": "Botafogo",
+                    "time": "16'"
+                },
+                {
+                    "assist": "A. Pereira",
+                    "event_type": "Goal",
+                    "player": "J. Arias",
+                    "score_update": "2 - 0",
+                    "team": "Palmeiras",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Oliveira",
+                    "score_update": "2 - 1",
+                    "team": "Botafogo",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Sosa",
+                    "team": "Palmeiras",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Correa",
+                    "team": "Botafogo",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Villalba",
+                    "team": "Botafogo",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Palmeiras 2 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "11/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 0 - 1 Barcelona SC"
+                        },
+                        {
+                            "competition": "Carioca Taca Rio: Play-off",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 3 - 1 Bangu"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Barcelona SC 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Carioca Taca Rio: Play-off",
+                            "date": "28/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 0 - 0 Boavista"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Palmeiras 2 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Paulista A1: Play-off",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Novorizontino 1 - 2 Palmeiras"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Palmeiras 2 - 1 Fluminense"
+                        },
+                        {
+                            "competition": "Paulista A1: Play-off",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Palmeiras 4 - 0 Capivariano"
+                        },
+                        {
+                            "competition": "Paulista A1",
+                            "date": "15/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Palmeiras 1 - 1 Guarani"
+                        }
+                    ],
+                    "team": "Palmeiras"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "17/08/2025",
+                        "teams_and_score": "Botafogo FR 0 - 1 Palmeiras"
+                    },
+                    {
+                        "competition": "FIFA Club World Cup: Final Stage",
+                        "date": "28/06/2025",
+                        "teams_and_score": "Palmeiras 1 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "30/03/2025",
+                        "teams_and_score": "Palmeiras 0 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "27/11/2024",
+                        "teams_and_score": "Palmeiras 1 - 3 Botafogo FR"
+                    },
+                    {
+                        "competition": "Round of 16",
+                        "date": "22/08/2024",
+                        "teams_and_score": "Palmeiras 2 - 2 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "18/07/2024",
+                        "teams_and_score": "Botafogo FR 1 - 0 Palmeiras"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "02/11/2023",
+                        "teams_and_score": "Botafogo FR 3 - 4 Palmeiras"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "2",
+                    "Palmeiras_wins": "4",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "48%",
+                    "Palmeiras": "52%"
+                },
+                "corners": {
+                    "Botafogo": "1",
+                    "Palmeiras": "6"
+                },
+                "fouls": {
+                    "Botafogo": "13",
+                    "Palmeiras": "13"
+                },
+                "goalkeeper_saves": {
+                    "Botafogo": "5",
+                    "Palmeiras": "2"
+                },
+                "offsides": {
+                    "Botafogo": "0",
+                    "Palmeiras": "5"
+                },
+                "red_cards": {
+                    "Botafogo": "1",
+                    "Palmeiras": "0"
+                },
+                "shots_off_target": {
+                    "Botafogo": "1",
+                    "Palmeiras": "11"
+                },
+                "shots_on_target": {
+                    "Botafogo": "3",
+                    "Palmeiras": "6"
+                },
+                "yellow_cards": {
+                    "Botafogo": "2",
+                    "Palmeiras": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/palmeiras-botafogo-2026-03-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/121.webp",
+                    "name": "Palmeiras",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/palmeiras-botafogo-2026-03-19-Jw7I.webp",
+            "title": "Palmeiras - Botafogo"
+        },
+        {
+            "competition": "FIFA Club World Cup",
+            "competition_cover": "https://refooty.com/covers/fifa-club-world-cup.webp",
+            "date": "Jun 20, 2025",
+            "description": "Watch Paris Saint Germain vs Botafogo highlights and goals from FIFA Club World Cup on ReFooty: Football Highlights Hub. Match played on June 20, 2025.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. M. Allister",
+                    "team": "Paris Saint Germain",
+                    "time": "45+1'"
+                },
+                {
+                    "assist": "K. Kvaratskhelia",
+                    "event_type": "Goal",
+                    "player": "O. Dembélé",
+                    "score_update": "0 - 1",
+                    "team": "Botafogo",
+                    "time": "72'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Konaté",
+                    "team": "Paris Saint Germain",
+                    "time": "85'"
+                },
+                {
+                    "assist": "B. Barcola",
+                    "event_type": "Goal",
+                    "player": "O. Dembélé",
+                    "score_update": "0 - 2",
+                    "team": "Botafogo",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Liverpool 0 - 2 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 3 - 1 Toulouse"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Chelsea 0 - 3 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Paris Saint-Germain 1 - 3 AS Monaco"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "25/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris Saint-Germain 2 - 2 AS Monaco"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Liverpool 0 - 2 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Liverpool 2 - 0 Fulham"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "08/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 2 - 0 Liverpool"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "04/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Manchester City 4 - 0 Liverpool"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Brighton 2 - 1 Liverpool"
+                        }
+                    ],
+                    "team": "Paris Saint Germain"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Knockout Stage",
+                        "date": "08/04/2026",
+                        "teams_and_score": "Paris Saint-Germain 2 - 0 Liverpool"
+                    },
+                    {
+                        "competition": "Knockout Stage",
+                        "date": "11/03/2025",
+                        "teams_and_score": "Liverpool 0 - 1 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Champions League Grp. C",
+                        "date": "28/11/2018",
+                        "teams_and_score": "Paris Saint-Germain 2 - 1 Liverpool"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "2",
+                    "Paris Saint Germain_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "47%",
+                    "Paris Saint Germain": "53%"
+                },
+                "corners": {
+                    "Botafogo": "2",
+                    "Paris Saint Germain": "8"
+                },
+                "crosses": {
+                    "Botafogo": "1",
+                    "Paris Saint Germain": "7"
+                },
+                "fouls": {
+                    "Botafogo": "10",
+                    "Paris Saint Germain": "9"
+                },
+                "goalkeeper_saves": {
+                    "Botafogo": "6",
+                    "Paris Saint Germain": "3"
+                },
+                "offsides": {
+                    "Botafogo": "4",
+                    "Paris Saint Germain": "4"
+                },
+                "shots_blocked": {
+                    "Botafogo": "4",
+                    "Paris Saint Germain": "7"
+                },
+                "shots_off_target": {
+                    "Botafogo": "2",
+                    "Paris Saint Germain": "9"
+                },
+                "shots_on_target": {
+                    "Botafogo": "6",
+                    "Paris Saint Germain": "5"
+                },
+                "yellow_cards": {
+                    "Botafogo": "0",
+                    "Paris Saint Germain": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/paris-saint-germain-vs-botafogo-2025-06-20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/85.webp",
+                    "name": "Paris Saint Germain",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/paris-saint-germain-vs-botafogo-2025-06-20-xfrc.webp",
+            "title": "Paris Saint Germain vs Botafogo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 21, 2026",
+            "description": "Watch RB Bragantino vs Botafogo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 21, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "Jean Lucas",
+                    "event_type": "Goal",
+                    "player": "L. Juba",
+                    "score_update": "1 - 0",
+                    "team": "RB Bragantino",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Conrado",
+                    "score_update": "2 - 0",
+                    "team": "RB Bragantino",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Rodriguinho",
+                    "team": "Botafogo",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Acevedo",
+                    "team": "RB Bragantino",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Nestor",
+                    "team": "RB Bragantino",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Conrado",
+                    "team": "RB Bragantino",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "RB Bragantino 1 - 2 Botafogo FR"
+                        },
+                        {
+                            "competition": "Paulista A1: Play-off",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "RB Bragantino 1 - 2 Sao Paulo"
+                        },
+                        {
+                            "competition": "Paulista A1",
+                            "date": "15/02/2026",
+                            "result": "L",
+                            "teams_and_score": "RB Bragantino 3 - 0 Novorizontino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 2 - 0 RB Bragantino"
+                        },
+                        {
+                            "competition": "Paulista A1",
+                            "date": "08/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Velo Clube 1 - 1 RB Bragantino"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 2 - 0 RB Bragantino"
+                        },
+                        {
+                            "competition": "Baiano: Play-off",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 2 - 1 Vitoria"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "25/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 2 - 1 O'Higgins"
+                        },
+                        {
+                            "competition": "Baiano",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Alagoinhas 2 - 4 Bahia"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "18/02/2026",
+                            "result": "L",
+                            "teams_and_score": "O'Higgins 1 - 0 Bahia"
+                        }
+                    ],
+                    "team": "RB Bragantino"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "02/11/2025",
+                        "teams_and_score": "Bahia 2 - 1 RB Bragantino"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "01/09/2024",
+                        "teams_and_score": "RB Bragantino 2 - 1 Bahia"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "20/08/2023",
+                        "teams_and_score": "Bahia 4 - 0 RB Bragantino"
+                    },
+                    {
+                        "competition": "Serie A 2021",
+                        "date": "19/09/2021",
+                        "teams_and_score": "Bahia 1 - 1 RB Bragantino"
+                    },
+                    {
+                        "competition": "Serie A 2020",
+                        "date": "20/11/2020",
+                        "teams_and_score": "RB Bragantino 4 - 0 Bahia"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "2",
+                    "RB Bragantino_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "43%",
+                    "RB Bragantino": "57%"
+                },
+                "corners": {
+                    "Botafogo": "7",
+                    "RB Bragantino": "7"
+                },
+                "fouls": {
+                    "Botafogo": "16",
+                    "RB Bragantino": "15"
+                },
+                "goalkeeper_saves": {
+                    "Botafogo": "6",
+                    "RB Bragantino": "3"
+                },
+                "offsides": {
+                    "Botafogo": "1",
+                    "RB Bragantino": "2"
+                },
+                "shots_off_target": {
+                    "Botafogo": "8",
+                    "RB Bragantino": "5"
+                },
+                "shots_on_target": {
+                    "Botafogo": "3",
+                    "RB Bragantino": "9"
+                },
+                "yellow_cards": {
+                    "Botafogo": "1",
+                    "RB Bragantino": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/red-bull-bragantino-botafogo-2026-03-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/794.webp",
+                    "name": "RB Bragantino",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/red-bull-bragantino-botafogo-2026-03-21-MbRj.webp",
+            "title": "Red Bull Bragantino - Botafogo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 23, 2026",
+            "description": "Watch Sao Paulo vs Botafogo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 23, 2026. The Brazilian Serie A delivered a high-stakes encounter on May 23, 2026 , as Sao Paulo hosted Botafogo in a match filled with tactical battles and escalating tension. Both sides fought for supremacy in a contest that kept the spectators at the edge of their seats until the very last second. Early Spark and Physicality Sao Paulo wasted no time in igniting the home crowd. Just 4 minutes into the match, Luciano Neves clinical finish put the hosts ahead, providing them with an early platform to dictate play. The goal set the tone for a competitive opening period, but the match quickly descended into a physical battle. The intensity on the pitch led to yellow cards for both the goalscorer Luciano Neves and Botafogo's Gabriel Justino before the half-hour mark. Sao Paulo's strategic plans took an unexpected hit in the 30th minute when Luciano Neves was forced off, replaced by Pedro Ferreira . Shortly before the interval, the home side had to make another adjustment as Luis Osorio came on for Sabino , ending a first half characterized by a narrow lead and fierce midfield duels. Tactical Adjustments and Rising Pressure As the second half commenced, Botafogo looked to respond by introducing Kadir Barria for Lucas Villalba . The game became increasingly cagey, with a flurry of cautions reflecting the high stakes. Alvaro Montoro saw yellow in the 61st minute, moments before being substituted for Edenilson as the visitors sought fresh energy to break down the Sao Paulo defense. Botafogo's coaching staff also turned to Jordan Barrera , a substitution that would later prove to be an inspired masterstroke. While Sao Paulo attempted to stabilize their lead with the introductions of Djhordney and Gonzalo Tapia , the visitors' persistence began to mount, forcing the hosts into a more defensive posture. Late Drama and the Final Blow The tension reached its boiling point in the final stages of the match. Following a series of yellow cards for Wendell , Joaquin Correa , Rafael , and Gonzalo Tapia , Botafogo finally found the breakthrough they had been searching for. In the 91st minute, Jordan Barrera silenced the stadium with a dramatic equalizer, rewarding the visitors' late surge. Despite eight minutes of stoppage time and a final booking for Christopher Ramos , the scoreline remained level until the final whistle. The match ended in a draw, leaving Sao Paulo to rue missed opportunities while Botafogo celebrated a hard-earned point away from home.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "L. Neves",
+                    "score_update": "1 - 0",
+                    "team": "Sao Paulo",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Neves",
+                    "team": "Sao Paulo",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. P. Justino",
+                    "team": "Botafogo",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Montoro",
+                    "team": "Botafogo",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Wendell",
+                    "team": "Sao Paulo",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Correa",
+                    "team": "Botafogo",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Rafael",
+                    "team": "Sao Paulo",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Tapia",
+                    "team": "Sao Paulo",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Barrera",
+                    "score_update": "1 - 1",
+                    "team": "Botafogo",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Ramos",
+                    "team": "Botafogo",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "23/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Independiente Petrolero 0 - 3 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 3 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Chapecoense AF 2 - 0 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico MG 1 - 1 Botafogo FR"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "23/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Millonarios"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Fluminense 2 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "13/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Juventude 3 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 3 - 2 Sao Paulo"
+                        }
+                    ],
+                    "team": "Sao Paulo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "14/09/2025",
+                        "teams_and_score": "Sao Paulo 1 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "08/12/2024",
+                        "teams_and_score": "Botafogo FR 2 - 1 Sao Paulo"
+                    },
+                    {
+                        "competition": "Quarter-Finals",
+                        "date": "26/09/2024",
+                        "teams_and_score": "Sao Paulo 1 - 1 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "24/07/2024",
+                        "teams_and_score": "Sao Paulo 2 - 2 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "19/08/2023",
+                        "teams_and_score": "Sao Paulo 0 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A 2022",
+                        "date": "09/10/2022",
+                        "teams_and_score": "Sao Paulo 0 - 1 Botafogo FR"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "2",
+                    "Sao Paulo_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "46%",
+                    "Sao Paulo": "54%"
+                },
+                "corners": {
+                    "Botafogo": "3",
+                    "Sao Paulo": "4"
+                },
+                "fouls": {
+                    "Botafogo": "19",
+                    "Sao Paulo": "20"
+                },
+                "goalkeeper_saves": {
+                    "Botafogo": "3",
+                    "Sao Paulo": "5"
+                },
+                "offsides": {
+                    "Botafogo": "3",
+                    "Sao Paulo": "0"
+                },
+                "shots_blocked": {
+                    "Botafogo": "1",
+                    "Sao Paulo": "4"
+                },
+                "shots_off_target": {
+                    "Botafogo": "7",
+                    "Sao Paulo": "6"
+                },
+                "shots_on_target": {
+                    "Botafogo": "6",
+                    "Sao Paulo": "4"
+                },
+                "yellow_cards": {
+                    "Botafogo": "4",
+                    "Sao Paulo": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sao-paulo-botafogo-2026-05-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/126.webp",
+                    "name": "Sao Paulo",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sao-paulo-botafogo-2026-05-23-EBW1.webp",
+            "title": "Sao Paulo - Botafogo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 5, 2026",
+            "description": "Watch Vasco DA Gama vs Botafogo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 5, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/vasco-da-gama-botafogo-2026-04-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/vasco-da-gama-botafogo-2026-04-05-GSRz.webp",
+            "title": "Vasco da Gama - Botafogo"
+        }
+    ]
+}

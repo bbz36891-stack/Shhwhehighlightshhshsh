@@ -1,0 +1,42 @@
+{
+    "team": "Gimnasia y Esgrima",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Apr 3, 2026",
+            "description": "Watch Gimnasia M. vs Velez Sarsfield highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on April 3, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/gimnasia-y-esgrima-velez-sarsfield-2026-04-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/gimnasia-y-esgrima-velez-sarsfield-2026-04-03-CAPq.webp",
+            "title": "Gimnasia y Esgrima - Vélez Sarsfield"
+        }
+    ]
+}

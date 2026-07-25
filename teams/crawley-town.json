@@ -1,0 +1,77 @@
+{
+    "team": "Crawley Town",
+    "team_logo": "",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Bristol Rovers vs Crawley Town highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/bristol-rovers-vs-crawley-town-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bristol-rovers-vs-crawley-town-2026-04-11-MMpQ.webp",
+            "title": "Bristol Rovers vs Crawley Town"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Mar 18, 2026",
+            "description": "Watch Crawley Town vs Barnet highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on March 18, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/crawley-town-vs-barnet-2026-03-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/crawley-town-vs-barnet-2026-03-18-rU41.webp",
+            "title": "Crawley Town vs Barnet"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "team": "Rapid Wien",
+    "team_logo": "https://img.refooty.com/logo/teams/8247.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jul 19, 2026",
+            "description": "Watch Rapid Wien vs Hamburger SV highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 19, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "E. Kara",
+                    "score_update": "1 - 0",
+                    "team": "Rapid Wien",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Y. Poulsen",
+                    "score_update": "1 - 1",
+                    "team": "Hamburger SV",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Grønbæk",
+                    "score_update": "1 - 2",
+                    "team": "Hamburger SV",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Kara",
+                    "score_update": "2 - 2",
+                    "team": "Rapid Wien",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Auer",
+                    "score_update": "3 - 2",
+                    "team": "Rapid Wien",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "18/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Rapid Wien 3 - 2 Hamburger SV"
+                        },
+                        {
+                            "competition": "Bundesliga 25/26",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Bayer Leverkusen 1 - 1 Hamburger SV"
+                        }
+                    ],
+                    "team": "Hamburger SV"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "18/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Rapid Wien 3 - 2 Hamburger SV"
+                        },
+                        {
+                            "competition": "Bundesliga: UECL Play-off",
+                            "date": "25/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Rapid Wien 3 - 0 SV Ried"
+                        },
+                        {
+                            "competition": "Bundesliga: Championship",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Sturm Graz 2 - 0 Rapid Wien"
+                        }
+                    ],
+                    "team": "Rapid Wien"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "14/07/2018",
+                        "teams_and_score": "Rapid Wien 1 - 2 Hamburger SV"
+                    },
+                    {
+                        "competition": "Europa League Grp. C",
+                        "date": "02/12/2009",
+                        "teams_and_score": "Hamburger SV 2 - 0 Rapid Wien"
+                    }
+                ],
+                "summary": {
+                    "Hamburger SV_wins": "2",
+                    "Rapid Wien_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/rapid-wien-vs-hamburger-sv-2026-07-19_FJaoO.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/175.webp",
+                    "name": "Hamburger SV",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/8247.webp",
+                    "name": "Rapid Wien",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rapid-wien-vs-hamburger-sv-2026-07-19-0TIX.webp",
+            "title": "Rapid Wien vs Hamburger SV"
+        }
+    ]
+}

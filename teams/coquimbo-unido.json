@@ -1,0 +1,725 @@
+{
+    "team": "Coquimbo Unido",
+    "team_logo": "https://img.refooty.com/logo/teams/2330.webp",
+    "total_matches": 6,
+    "matches": [
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 26, 2026",
+            "description": "Watch Club Nacional vs Coquimbo Unido highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 26, 2026. On May 26, 2026 , the CONMEBOL Libertadores played host to a gripping encounter defined by an early breakthrough and a dramatic shift in momentum. The atmosphere was electric as both sides sought to navigate the challenges of South America's premier club competition. Early Breakthrough and Rising Tension The match ignited in the 7th minute when Maximiliano Gomez found the back of the net, handing Club Nacional an early lead. His clinical finish forced Coquimbo Unido to abandon their defensive posture and search for a way back into the contest. The physical nature of the game became apparent early on, with Dylan Glaby receiving a yellow card in the 12th minute as he attempted to break up the opposition's fluid attacking moves. Red Card Drama Shakes the Stadium As the first half entered stoppage time on this May 26, 2026 evening, the match took a chaotic turn. Agustin Rogel was cautioned in the 45+3rd minute, but the most significant incident occurred moments earlier. In the 45+1st minute, Tomas Viera was shown a straight red card, sparking heavy protests from his teammates. This dismissal left Nacional with a numerical disadvantage for the entirety of the second half, forcing a tactical overhaul during the break. Tactical Adjustments and Defensive Grit The second half saw a flurry of activity on the benches. Club Nacional introduced Emiliano Ancheta , Mateo Barcia , and goalkeeper Ignacio Suarez to fortify their lines. Coquimbo Unido pushed forward to capitalize on their extra man, but the match became a fragmented affair characterized by tactical fouls. Manuel Fernandez and Benjamin Gazzolo were both shown yellow cards as the visitors struggled to break through a resilient defensive block. A Frantic Finish In the closing stages, the intensity remained high as both managers utilized their substitutes. Luis Riveros and Alejandro Azocar were brought on to provide fresh energy for the visitors' attack. Deep into injury time, Lucas Pratto was booked as the frustration of the chase began to show. Despite six minutes of added time and relentless pressure, the match concluded with the early goal and the first-half red card remaining the defining moments of a fierce continental battle.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Gómez",
+                    "score_update": "1 - 0",
+                    "team": "Club Nacional",
+                    "time": "7'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. E. Glaby",
+                    "team": "Coquimbo Unido",
+                    "time": "12'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "T. Viera",
+                    "team": "Club Nacional",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Rogel",
+                    "team": "Club Nacional",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Fernandez",
+                    "team": "Coquimbo Unido",
+                    "time": "49'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Gazzolo",
+                    "team": "Coquimbo Unido",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Pratto",
+                    "team": "Coquimbo Unido",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group B",
+                            "date": "27/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Nacional 1 - 0 Coquimbo Unido"
+                        },
+                        {
+                            "competition": "Primera División",
+                            "date": "22/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton CD 1 - 1 Coquimbo Unido"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "19/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Coquimbo Unido 3 - 0 Tolima"
+                        },
+                        {
+                            "competition": "Primera División",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Coquimbo Unido 3 - 0 Audax Italiano"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "08/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Coquimbo Unido 2 - 1 Universitario de Deportes"
+                        }
+                    ],
+                    "team": "Coquimbo Unido"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group B",
+                            "date": "27/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Nacional 1 - 0 Coquimbo Unido"
+                        },
+                        {
+                            "competition": "Primera División: Intermedio Group B",
+                            "date": "23/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Nacional 1 - 0 Albion"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Nacional 0 - 0 Universitario de Deportes"
+                        },
+                        {
+                            "competition": "Primera División: Intermedio Group B",
+                            "date": "15/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Montevideo City Torque 1 - 2 Nacional"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Nacional 4 - 0 Cerro"
+                        }
+                    ],
+                    "team": "Club Nacional"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group B",
+                        "date": "08/04/2026",
+                        "teams_and_score": "Coquimbo Unido 1 - 1 Nacional"
+                    }
+                ],
+                "summary": {
+                    "Club Nacional_wins": "0",
+                    "Coquimbo Unido_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Club Nacional": "33%",
+                    "Coquimbo Unido": "67%"
+                },
+                "corners": {
+                    "Club Nacional": "2",
+                    "Coquimbo Unido": "8"
+                },
+                "fouls": {
+                    "Club Nacional": "11",
+                    "Coquimbo Unido": "16"
+                },
+                "goalkeeper_saves": {
+                    "Club Nacional": "3",
+                    "Coquimbo Unido": "2"
+                },
+                "offsides": {
+                    "Club Nacional": "0",
+                    "Coquimbo Unido": "1"
+                },
+                "red_cards": {
+                    "Club Nacional": "1",
+                    "Coquimbo Unido": "0"
+                },
+                "shots_off_target": {
+                    "Club Nacional": "3",
+                    "Coquimbo Unido": "3"
+                },
+                "shots_on_target": {
+                    "Club Nacional": "3",
+                    "Coquimbo Unido": "3"
+                },
+                "yellow_cards": {
+                    "Club Nacional": "1",
+                    "Coquimbo Unido": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/club-nacional-vs-coquimbo-unido-2026-05-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2330.webp",
+                    "name": "Coquimbo Unido",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2356.webp",
+                    "name": "Club Nacional",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/club-nacional-vs-coquimbo-unido-2026-05-26-BWsK.webp",
+            "title": "Club Nacional vs Coquimbo Unido"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 15, 2026",
+            "description": "Watch Club Universitario vs Coquimbo Unido highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 15, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/club-universitario-vs-coquimbo-unido-2026-04-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/club-universitario-vs-coquimbo-unido-2026-04-15-MMEC.webp",
+            "title": "Club Universitario vs Coquimbo Unido"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 8, 2026",
+            "description": "Watch Coquimbo Unido vs Club Nacional highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 8, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/coquimbo-unido-vs-club-nacional-2026-04-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/coquimbo-unido-vs-club-nacional-2026-04-08-k3G9.webp",
+            "title": "Coquimbo Unido vs Club Nacional"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 19, 2026",
+            "description": "Watch Coquimbo Unido vs Deportes Tolima highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 19, 2026. The atmosphere was electric in the CONMEBOL Libertadores as the squads took to the pitch for their encounter on May 19, 2026. Both teams looked to establish dominance early, knowing that every moment of the match would be critical in such a high-stakes competition. Establishing the advantage The intensity was palpable from the start, with both sides searching for an opening. The breakthrough arrived in the 27th minute when Manuel Fernandez found the back of the net, clinical work set up by a precise assist from Benjamin Chandia . Coquimbo Unido continued to press, and their persistence paid off deep into first-half stoppage time. Guido Vadala turned provider, delivering a perfectly weighted ball for Cristian Zavala to double the lead just before the referee blew for half time. Maintaining the momentum Following the interval, the game remained competitive as Deportes Tolima sought a way back into the match. However, it was the hosts who struck again; in the 56th minute, Nicolas Johansen added a third goal to his side’s tally, significantly shifting the momentum. As the intensity of the play increased, the referee was forced to issue several yellow cards, with Guido Vadala , Juan Pablo Torres , Diego Sanchez , and Salvador Cordero all entering the book for late or aggressive challenges. Tactical adjustments and the final whistle Both managers utilized their benches to manage the game, with substitutions such as Lucas Pratto , Alejandro Azocar , and Jherson Mosquera bringing fresh legs to the pitch. Despite these tactical shifts, the scoreline remained stable throughout the remainder of the second half. By the time the final whistle blew in the 95th minute, the hard work put in during the opening stages proved to be the decisive factor in this memorable football match .",
+            "events_timeline": [
+                {
+                    "assist": "B. Chandia",
+                    "event_type": "Goal",
+                    "player": "M. Fernandez",
+                    "score_update": "1 - 0",
+                    "team": "Coquimbo Unido",
+                    "time": "27'"
+                },
+                {
+                    "assist": "G. N. Vadala",
+                    "event_type": "Goal",
+                    "player": "C. Zavala",
+                    "score_update": "2 - 0",
+                    "team": "Coquimbo Unido",
+                    "time": "45+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. N. Vadala",
+                    "team": "Coquimbo Unido",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Johansen",
+                    "score_update": "3 - 0",
+                    "team": "Coquimbo Unido",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. P. Torres",
+                    "team": "Deportes Tolima",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Sanchez",
+                    "team": "Coquimbo Unido",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Cordero",
+                    "team": "Coquimbo Unido",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group B",
+                            "date": "19/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Coquimbo Unido 3 - 0 Tolima"
+                        },
+                        {
+                            "competition": "Primera A: Apertura: Play-off",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Tolima 0 - 1 Atletico Nacional"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "07/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Tolima 3 - 0 Nacional"
+                        },
+                        {
+                            "competition": "Primera A: Apertura",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Tolima 1 - 1 Deportivo Cali"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Tolima 3 - 0 Coquimbo Unido"
+                        }
+                    ],
+                    "team": "Deportes Tolima"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group B",
+                            "date": "19/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Coquimbo Unido 3 - 0 Tolima"
+                        },
+                        {
+                            "competition": "Primera División",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Coquimbo Unido 3 - 0 Audax Italiano"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "08/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Coquimbo Unido 2 - 1 Universitario de Deportes"
+                        },
+                        {
+                            "competition": "Primera División",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Colo Colo 3 - 1 Coquimbo Unido"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Tolima 3 - 0 Coquimbo Unido"
+                        }
+                    ],
+                    "team": "Coquimbo Unido"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group B",
+                        "date": "29/04/2026",
+                        "teams_and_score": "Tolima 3 - 0 Coquimbo Unido"
+                    }
+                ],
+                "summary": {
+                    "Coquimbo Unido_wins": "0",
+                    "Deportes Tolima_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Coquimbo Unido": "33%",
+                    "Deportes Tolima": "67%"
+                },
+                "corners": {
+                    "Coquimbo Unido": "3",
+                    "Deportes Tolima": "9"
+                },
+                "fouls": {
+                    "Coquimbo Unido": "14",
+                    "Deportes Tolima": "8"
+                },
+                "goalkeeper_saves": {
+                    "Coquimbo Unido": "2",
+                    "Deportes Tolima": "7"
+                },
+                "offsides": {
+                    "Coquimbo Unido": "3",
+                    "Deportes Tolima": "1"
+                },
+                "shots_blocked": {
+                    "Coquimbo Unido": "2",
+                    "Deportes Tolima": "0"
+                },
+                "shots_off_target": {
+                    "Coquimbo Unido": "2",
+                    "Deportes Tolima": "5"
+                },
+                "shots_on_target": {
+                    "Coquimbo Unido": "10",
+                    "Deportes Tolima": "2"
+                },
+                "yellow_cards": {
+                    "Coquimbo Unido": "3",
+                    "Deportes Tolima": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/coquimbo-unido-vs-deportes-tolima-2026-05-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1142.webp",
+                    "name": "Deportes Tolima",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2330.webp",
+                    "name": "Coquimbo Unido",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/coquimbo-unido-vs-deportes-tolima-2026-05-19-CPHz.webp",
+            "title": "Coquimbo Unido vs Deportes Tolima"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 8, 2026",
+            "description": "Watch Coquimbo Unido vs Universitario highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 8, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/coquimbo-unido-vs-universitario-2026-05-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/coquimbo-unido-vs-universitario-2026-05-08-QPqI.webp",
+            "title": "Coquimbo Unido vs Universitario"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 29, 2026",
+            "description": "Watch Deportes Tolima vs Coquimbo Unido highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 29, 2026. High-stakes continental football took center stage on April 29, 2026, as Deportes Tolima hosted Coquimbo Unido in a gripping CONMEBOL Libertadores encounter. Both sides looked to assert their dominance in a match defined by tactical shifts and intense individual battles under the lights. A Cagey Opening Exchange The match began with both teams searching for a rhythm, but the early proceedings were marked more by physical challenges than fluid attacking play. On April 29, 2026, the competitive nature of the CONMEBOL Libertadores was on full display as the referee was forced to go to his pocket early. In the 18th minute, a heated confrontation resulted in yellow cards for both Cristian Arrieta and Cristian Zavala , setting a combative tone for the remainder of the first half. Despite several half-chances, neither side could find the clinical edge required to break the deadlock before the interval, leading to a scoreless stalemate at the break. Second Half Fireworks and the Penalty Breakthrough The tactical chess match evolved rapidly after the restart as the intensity shifted up a gear. In the 59th minute, the deadlock was finally broken when Deportes Tolima were awarded a penalty following a foul by Manuel Fernandez , who received a yellow card for his troubles. Sebastian Guzman stepped up to the spot and showing nerves of steel, powered his effort home to give the home side the lead. However, the celebrations were short-lived as Coquimbo Unido refused to buckle under the pressure. Just seven minutes after falling behind, the Chilean visitors found their response. A well-orchestrated move saw Juan Pablo Torres provide a precise assist for Luis Sandoval , who finished clinicaly in the 66th minute to restore parity. The equalizer prompted a flurry of tactical changes from both benches, with Coquimbo Unido introducing veteran presence in Lucas Pratto , while Tolima looked for fresh legs in the final third. Jersson Gonzalez Decides the Contest The managerial gamble from the Deportes Tolima dugout proved to be the masterstroke of the evening. In the 70th minute, Jersson Gonzalez was introduced to the fray, and it took him only eight minutes to make a defining impact on the match. In the 78th minute, Gonzalez found space in the box and fired home to put the hosts back in front, sparking wild celebrations in the stands. As the clock ticked toward the final whistle, Coquimbo Unido pushed for a second equalizer, but their frustrations grew as Guido Vadala was cautioned in the 84th minute. Tolima managed the closing stages with composure, navigating six minutes of stoppage time to secure all three points. The referee’s final whistle confirmed a hard-fought victory for the Colombian side, leaving the visitors to rue their missed opportunities in a pulsating second half.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Arrieta",
+                    "team": "Deportes Tolima",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Zavala",
+                    "team": "Coquimbo Unido",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Guzman",
+                    "score_update": "1 - 0",
+                    "team": "Deportes Tolima",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Fernandez",
+                    "team": "Coquimbo Unido",
+                    "time": "46'"
+                },
+                {
+                    "assist": "J. P. Torres",
+                    "event_type": "Goal",
+                    "player": "L. Sandoval",
+                    "score_update": "2 - 0",
+                    "team": "Deportes Tolima",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Gonzalez",
+                    "score_update": "3 - 0",
+                    "team": "Deportes Tolima",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. N. Vadala",
+                    "team": "Coquimbo Unido",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group B",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Tolima 3 - 0 Coquimbo Unido"
+                        },
+                        {
+                            "competition": "Primera División",
+                            "date": "24/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Union La Calera 1 - 2 Coquimbo Unido"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Universitario de Deportes 0 - 2 Coquimbo Unido"
+                        },
+                        {
+                            "competition": "Primera División",
+                            "date": "03/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Coquimbo Unido 3 - 2 Cobresal"
+                        }
+                    ],
+                    "team": "Coquimbo Unido"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group B",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Tolima 3 - 0 Coquimbo Unido"
+                        },
+                        {
+                            "competition": "Primera A: Apertura",
+                            "date": "24/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Millonarios 2 - 0 Tolima"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Nacional 3 - 1 Tolima"
+                        },
+                        {
+                            "competition": "Primera A: Apertura",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo Pasto 1 - 0 Tolima"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "08/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Tolima 0 - 0 Universitario de Deportes"
+                        }
+                    ],
+                    "team": "Deportes Tolima"
+                },
+                "summary": {
+                    "Coquimbo Unido_wins": "0",
+                    "Deportes Tolima_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Coquimbo Unido": "30%",
+                    "Deportes Tolima": "70%"
+                },
+                "corners": {
+                    "Coquimbo Unido": "4",
+                    "Deportes Tolima": "1"
+                },
+                "fouls": {
+                    "Coquimbo Unido": "13",
+                    "Deportes Tolima": "9"
+                },
+                "goalkeeper_saves": {
+                    "Coquimbo Unido": "2",
+                    "Deportes Tolima": "4"
+                },
+                "offsides": {
+                    "Coquimbo Unido": "2",
+                    "Deportes Tolima": "0"
+                },
+                "shots_off_target": {
+                    "Coquimbo Unido": "3",
+                    "Deportes Tolima": "2"
+                },
+                "shots_on_target": {
+                    "Coquimbo Unido": "4",
+                    "Deportes Tolima": "5"
+                },
+                "yellow_cards": {
+                    "Coquimbo Unido": "3",
+                    "Deportes Tolima": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/deportes-tolima-vs-coquimbo-unido-2026-04-29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2330.webp",
+                    "name": "Coquimbo Unido",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1142.webp",
+                    "name": "Deportes Tolima",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/deportes-tolima-vs-coquimbo-unido-2026-04-29-RtPu.webp",
+            "title": "Deportes Tolima vs Coquimbo Unido"
+        }
+    ]
+}

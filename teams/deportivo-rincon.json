@@ -1,0 +1,183 @@
+{
+    "team": "Deportivo Rincon",
+    "team_logo": "https://img.refooty.com/logo/teams/1959.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 21, 2026",
+            "description": "Watch San Lorenzo vs Deportivo Rincon highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 21, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Arce",
+                    "team": "San Lorenzo",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Alonso",
+                    "score_update": "1 - 0",
+                    "team": "San Lorenzo",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Alonso",
+                    "team": "San Lorenzo",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Tripichio",
+                    "team": "Deportivo Rincon",
+                    "time": "61'"
+                },
+                {
+                    "assist": "F. Gulli",
+                    "event_type": "Goal",
+                    "player": "A. Cuello",
+                    "score_update": "1 - 1",
+                    "team": "Deportivo Rincon",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo Riestra 1 - 1 San Lorenzo de Almagro"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "San Lorenzo de Almagro 5 - 0 Deportivo Rincon"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "16/03/2026",
+                            "result": "W",
+                            "teams_and_score": "San Lorenzo de Almagro 2 - 5 Defensa y Justicia"
+                        }
+                    ],
+                    "team": "Deportivo Rincon"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo Riestra 1 - 1 San Lorenzo de Almagro"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "05/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo Riestra 1 - 0 Deportivo Maipu"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "01/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Barracas Central 1 - 1 Deportivo Riestra"
+                        }
+                    ],
+                    "team": "San Lorenzo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primera Division: Clausura",
+                        "date": "31/10/2025",
+                        "teams_and_score": "San Lorenzo de Almagro 1 - 0 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "20/04/2025",
+                        "teams_and_score": "Deportivo Riestra 0 - 0 San Lorenzo de Almagro"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "12/05/2024",
+                        "teams_and_score": "Deportivo Riestra 1 - 0 San Lorenzo de Almagro"
+                    }
+                ],
+                "summary": {
+                    "Deportivo Rincon_wins": "1",
+                    "San Lorenzo_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Deportivo Rincon": "64%",
+                    "San Lorenzo": "36%"
+                },
+                "corners": {
+                    "Deportivo Rincon": "4",
+                    "San Lorenzo": "2"
+                },
+                "fouls": {
+                    "Deportivo Rincon": "15",
+                    "San Lorenzo": "13"
+                },
+                "goalkeeper_saves": {
+                    "Deportivo Rincon": "1",
+                    "San Lorenzo": "1"
+                },
+                "offsides": {
+                    "Deportivo Rincon": "1",
+                    "San Lorenzo": "4"
+                },
+                "shots_off_target": {
+                    "Deportivo Rincon": "3",
+                    "San Lorenzo": "3"
+                },
+                "shots_on_target": {
+                    "Deportivo Rincon": "2",
+                    "San Lorenzo": "2"
+                },
+                "yellow_cards": {
+                    "Deportivo Rincon": "1",
+                    "San Lorenzo": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/san-lorenzo-vs-deportivo-rincon-2026-03-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1959.webp",
+                    "name": "Deportivo Rincon",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/460.webp",
+                    "name": "San Lorenzo",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/san-lorenzo-vs-deportivo-rincon-2026-03-21-CwqB.webp",
+            "title": "San Lorenzo vs Deportivo Rincon"
+        }
+    ]
+}

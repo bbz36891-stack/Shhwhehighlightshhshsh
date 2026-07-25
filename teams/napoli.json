@@ -1,0 +1,4139 @@
+{
+    "team": "Napoli",
+    "team_logo": "",
+    "total_matches": 38,
+    "matches": [
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Nov 30, 2025",
+            "description": "Watch AS Roma vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on November 30, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Roma_v_Napoli_2025_11_30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/roma-v-napoli-2025-11-30.webp",
+            "title": "AS Roma vs Napoli"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Feb 22, 2026",
+            "description": "Watch Atalanta vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on February 22, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "M. Gutiérrez",
+                    "event_type": "Goal",
+                    "player": "S. Beukema",
+                    "score_update": "0 - 1",
+                    "team": "Napoli",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Jesus",
+                    "team": "Napoli",
+                    "time": "16'"
+                },
+                {
+                    "assist": "N. Zalewski",
+                    "event_type": "Goal",
+                    "player": "M. Pašalić",
+                    "score_update": "1 - 1",
+                    "team": "Atalanta",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Zalewski",
+                    "team": "Atalanta",
+                    "time": "61'"
+                },
+                {
+                    "assist": "L. Bernasconi",
+                    "event_type": "Goal",
+                    "player": "L. Samardžić",
+                    "score_update": "2 - 1",
+                    "team": "Atalanta",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "22/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Atalanta 2 - 1 Napoli"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Napoli 1 - 1 Como 1907"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Genoa 2 - 3 Napoli"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 2 - 3 Chelsea"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Juventus 3 - 0 Napoli"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Atalanta 2 - 1 Napoli"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Borussia Dortmund 2 - 0 Atalanta"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Lazio 0 - 2 Atalanta"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Atalanta 3 - 0 Juventus"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "01/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Como 1907 0 - 0 Atalanta"
+                        }
+                    ],
+                    "team": "Atalanta"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "22/11/2025",
+                        "teams_and_score": "Napoli 3 - 1 Atalanta"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "18/01/2025",
+                        "teams_and_score": "Atalanta 2 - 3 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "30/03/2024",
+                        "teams_and_score": "Napoli 0 - 3 Atalanta"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "11/03/2023",
+                        "teams_and_score": "Napoli 2 - 0 Atalanta"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "03/04/2022",
+                        "teams_and_score": "Atalanta 1 - 3 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "21/02/2021",
+                        "teams_and_score": "Atalanta 4 - 2 Napoli"
+                    }
+                ],
+                "summary": {
+                    "Atalanta_wins": "2",
+                    "Napoli_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atalanta": "56%",
+                    "Napoli": "44%"
+                },
+                "corners": {
+                    "Atalanta": "6",
+                    "Napoli": "1"
+                },
+                "crosses": {
+                    "Atalanta": "4",
+                    "Napoli": "1"
+                },
+                "fouls": {
+                    "Atalanta": "10",
+                    "Napoli": "9"
+                },
+                "goalkeeper_saves": {
+                    "Atalanta": "3",
+                    "Napoli": "5"
+                },
+                "offsides": {
+                    "Atalanta": "1",
+                    "Napoli": "2"
+                },
+                "shots_blocked": {
+                    "Atalanta": "1",
+                    "Napoli": "2"
+                },
+                "shots_off_target": {
+                    "Atalanta": "2",
+                    "Napoli": "4"
+                },
+                "shots_on_target": {
+                    "Atalanta": "7",
+                    "Napoli": "4"
+                },
+                "yellow_cards": {
+                    "Atalanta": "1",
+                    "Napoli": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Atalanta_v_Napoli_2026_02_22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/499.webp",
+                    "name": "Atalanta",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/atalanta-v-napoli-2026-02-22-9EXS.webp",
+            "title": "Atalanta vs Napoli"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Dec 10, 2025",
+            "description": "Watch Benfica vs Napoli highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on December 10, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Benfica_v_Napoli_2025_12_10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/benfica-v-napoli-2025-12-10-tqYA.webp",
+            "title": "Benfica vs Napoli"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Mar 20, 2026",
+            "description": "Watch Cagliari vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on March 20, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "S. McTominay",
+                    "score_update": "0 - 1",
+                    "team": "Napoli",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Lobotka",
+                    "team": "Napoli",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Zé Pedro",
+                    "team": "Cagliari",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Olivera",
+                    "team": "Napoli",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Dossena",
+                    "team": "Cagliari",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "20/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Cagliari 0 - 1 Napoli"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Napoli 1 - 1 Como 1907"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Genoa 2 - 3 Napoli"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 2 - 3 Chelsea"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "20/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Cagliari 0 - 1 Napoli"
+                        }
+                    ],
+                    "team": "Cagliari"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Coppa Italia: Round of 16",
+                        "date": "03/12/2025",
+                        "teams_and_score": "Napoli 1 - 1 Cagliari"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "30/08/2025",
+                        "teams_and_score": "Napoli 1 - 0 Cagliari"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "23/05/2025",
+                        "teams_and_score": "Napoli 2 - 0 Cagliari"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "25/02/2024",
+                        "teams_and_score": "Cagliari 1 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "21/02/2022",
+                        "teams_and_score": "Cagliari 1 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "02/05/2021",
+                        "teams_and_score": "Napoli 1 - 1 Cagliari"
+                    }
+                ],
+                "summary": {
+                    "Cagliari_wins": "0",
+                    "Napoli_wins": "2",
+                    "draws": "4"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cagliari": "33%",
+                    "Napoli": "67%"
+                },
+                "corners": {
+                    "Cagliari": "2",
+                    "Napoli": "7"
+                },
+                "crosses": {
+                    "Cagliari": "1",
+                    "Napoli": "2"
+                },
+                "fouls": {
+                    "Cagliari": "12",
+                    "Napoli": "16"
+                },
+                "goalkeeper_saves": {
+                    "Cagliari": "4",
+                    "Napoli": "0"
+                },
+                "offsides": {
+                    "Cagliari": "0",
+                    "Napoli": "2"
+                },
+                "shots_blocked": {
+                    "Cagliari": "0",
+                    "Napoli": "8"
+                },
+                "shots_off_target": {
+                    "Cagliari": "7",
+                    "Napoli": "4"
+                },
+                "shots_on_target": {
+                    "Cagliari": "0",
+                    "Napoli": "5"
+                },
+                "yellow_cards": {
+                    "Cagliari": "2",
+                    "Napoli": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Cagliari_v_Napoli_2026_03_20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/490.webp",
+                    "name": "Cagliari",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cagliari-v-napoli-2026-03-20-1Wc4.webp",
+            "title": "Cagliari vs Napoli"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Como vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on May 2, 2026. The Serie A spotlight fell on a high-stakes encounter on May 2, 2026 , where tactical discipline and technology took center stage. The match promised intensity from the opening whistle, with both sides battling for every inch of grass in a duel defined by crucial officiating decisions. VAR Drama and Tactical Rigor The first half was characterized by Como 's dominance in possession, as they controlled the tempo but struggled to break down a resilient Verona defense. The visitors looked dangerous on the counter and saw VAR intervene during two critical moments. On both occasions, the referee reviewed potential penalties for Verona , only to stick with the original calls and deny the visitors a chance from the spot. The mounting frustration led to a yellow card for Paolo Sammarco as the teams headed into the break level. Douvikas Finds the Breakthrough Seeking a spark, Como introduced Ivan Smolcic , Maxence Caqueret , and Martin Baturina at the start of the second half. The pressure finally told in the 71st minute when Marc-Oliver Kempf turned provider for Anastasios Douvikas , who clinicaly finished with his right foot. The drama intensified minutes later when Verona thought they had equalized through Nicolas Valentini , only for VAR to rule the goal out for offside. The closing stages were frantic, with Cesc Fabregas receiving a yellow card for his vocal protests on the touchline. Verona threw everything forward in stoppage time, but a comfortable save by Jean Butez from a late Valentini header ensured Como held onto their slender lead until the final whistle, concluding a nerve-wracking afternoon.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Sammarco",
+                    "team": "Como",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Caqueret",
+                    "team": "Napoli",
+                    "time": "46'"
+                },
+                {
+                    "assist": "M. Kempf",
+                    "event_type": "Goal",
+                    "player": "A. Douvikas",
+                    "score_update": "0 - 1",
+                    "team": "Napoli",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Fàbregas",
+                    "team": "Napoli",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Frese",
+                    "team": "Como",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Hellas Verona 0 - 1 Como 1907"
+                        },
+                        {
+                            "competition": "Coppa Italia: Semi-Finals",
+                            "date": "21/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Inter 3 - 2 Como 1907"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sassuolo 2 - 1 Como 1907"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Hellas Verona 0 - 1 Como 1907"
+                        }
+                    ],
+                    "team": "Como"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "29/10/2025",
+                        "teams_and_score": "Como 1907 3 - 1 Hellas Verona"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "18/05/2025",
+                        "teams_and_score": "Hellas Verona 1 - 1 Como 1907"
+                    },
+                    {
+                        "competition": "Serie C1 A",
+                        "date": "09/01/2011",
+                        "teams_and_score": "Como 1907 1 - 1 Hellas Verona"
+                    },
+                    {
+                        "competition": "Coppa Italia",
+                        "date": "18/08/2004",
+                        "teams_and_score": "Como 1907 0 - 2 Hellas Verona"
+                    },
+                    {
+                        "competition": "Serie Bwin",
+                        "date": "12/06/2004",
+                        "teams_and_score": "Como 1907 0 - 2 Hellas Verona"
+                    }
+                ],
+                "summary": {
+                    "Como_wins": "1",
+                    "Napoli_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Como": "36%",
+                    "Napoli": "64%"
+                },
+                "corners": {
+                    "Como": "7",
+                    "Napoli": "7"
+                },
+                "crosses": {
+                    "Como": "6",
+                    "Napoli": "6"
+                },
+                "fouls": {
+                    "Como": "17",
+                    "Napoli": "14"
+                },
+                "goalkeeper_saves": {
+                    "Como": "3",
+                    "Napoli": "3"
+                },
+                "offsides": {
+                    "Como": "3",
+                    "Napoli": "2"
+                },
+                "shots_blocked": {
+                    "Como": "3",
+                    "Napoli": "3"
+                },
+                "shots_off_target": {
+                    "Como": "5",
+                    "Napoli": "4"
+                },
+                "shots_on_target": {
+                    "Como": "3",
+                    "Napoli": "4"
+                },
+                "yellow_cards": {
+                    "Como": "1",
+                    "Napoli": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/como-vs-napoli-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/895.webp",
+                    "name": "Como",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/como-vs-napoli-2026-05-02-ty43.webp",
+            "title": "Como vs Napoli"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Dec 28, 2025",
+            "description": "Watch Cremonese vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on December 28, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Napoli"
+                },
+                "home_team_form": {
+                    "team": "Cremonese"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Cremonese_v_Napoli_2025_12_28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/520.webp",
+                    "name": "Cremonese",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cremonese-v-napoli-2025-12-28-Psoc.webp",
+            "title": "Cremonese vs Napoli"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Jan 20, 2026",
+            "description": "Watch FC Copenhagen vs Napoli highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on January 20, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Copenhagen_v_Napoli_2026_01_20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/copenhagen-v-napoli-2026-01-20-LYzP.webp",
+            "title": "FC Copenhagen vs Napoli"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Feb 7, 2026",
+            "description": "Watch Genoa vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on February 7, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Meret",
+                    "team": "Napoli",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Malinovskyi",
+                    "score_update": "1 - 0",
+                    "team": "Genoa",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Højlund",
+                    "score_update": "1 - 1",
+                    "team": "Napoli",
+                    "time": "31'"
+                },
+                {
+                    "assist": "A. Rrahmani",
+                    "event_type": "Goal",
+                    "player": "S. McTominay",
+                    "score_update": "1 - 2",
+                    "team": "Napoli",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Vásquez",
+                    "team": "Genoa",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Colombo",
+                    "score_update": "2 - 2",
+                    "team": "Genoa",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Jesus",
+                    "team": "Napoli",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Jesus",
+                    "team": "Napoli",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Marcandalli",
+                    "team": "Genoa",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Spinazzola",
+                    "team": "Napoli",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Højlund",
+                    "score_update": "2 - 3",
+                    "team": "Napoli",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Genoa 2 - 3 Napoli"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 2 - 3 Chelsea"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Juventus 3 - 0 Napoli"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "20/01/2026",
+                            "result": "D",
+                            "teams_and_score": "FC Copenhagen 1 - 1 Napoli"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Napoli 1 - 0 Sassuolo"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "07/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Genoa 2 - 3 Napoli"
+                        }
+                    ],
+                    "team": "Genoa"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "05/10/2025",
+                        "teams_and_score": "Napoli 2 - 1 Genoa"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "11/05/2025",
+                        "teams_and_score": "Napoli 2 - 2 Genoa"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "17/02/2024",
+                        "teams_and_score": "Napoli 1 - 1 Genoa"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "15/05/2022",
+                        "teams_and_score": "Napoli 3 - 0 Genoa"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "06/02/2021",
+                        "teams_and_score": "Genoa 2 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 19/20",
+                        "date": "08/07/2020",
+                        "teams_and_score": "Genoa 1 - 2 Napoli"
+                    }
+                ],
+                "summary": {
+                    "Genoa_wins": "1",
+                    "Napoli_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Genoa": "40%",
+                    "Napoli": "60%"
+                },
+                "corners": {
+                    "Genoa": "4",
+                    "Napoli": "3"
+                },
+                "crosses": {
+                    "Genoa": "5",
+                    "Napoli": "2"
+                },
+                "fouls": {
+                    "Genoa": "16",
+                    "Napoli": "12"
+                },
+                "goalkeeper_saves": {
+                    "Genoa": "2",
+                    "Napoli": "1"
+                },
+                "offsides": {
+                    "Genoa": "1",
+                    "Napoli": "1"
+                },
+                "red_cards": {
+                    "Genoa": "0",
+                    "Napoli": "1"
+                },
+                "shots_blocked": {
+                    "Genoa": "1",
+                    "Napoli": "2"
+                },
+                "shots_off_target": {
+                    "Genoa": "8",
+                    "Napoli": "7"
+                },
+                "shots_on_target": {
+                    "Genoa": "3",
+                    "Napoli": "5"
+                },
+                "yellow_cards": {
+                    "Genoa": "2",
+                    "Napoli": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Genoa_v_Napoli_2026_02_07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/495.webp",
+                    "name": "Genoa",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/genoa-v-napoli-2026-02-07-xK3E.webp",
+            "title": "Genoa vs Napoli"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Feb 28, 2026",
+            "description": "Watch Verona vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on February 28, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Vergara",
+                    "event_type": "Goal",
+                    "player": "R. Højlund",
+                    "score_update": "0 - 1",
+                    "team": "Napoli",
+                    "time": "2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Akpa",
+                    "team": "Verona",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Vergara",
+                    "team": "Napoli",
+                    "time": "56'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Sammarco",
+                    "team": "Verona",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Akpa",
+                    "score_update": "1 - 1",
+                    "team": "Verona",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Conte",
+                    "team": "Napoli",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Elmas",
+                    "team": "Napoli",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Suslov",
+                    "team": "Verona",
+                    "time": "74'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Harroui",
+                    "team": "Verona",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Jesus",
+                    "team": "Napoli",
+                    "time": "90'"
+                },
+                {
+                    "assist": "Giovane",
+                    "event_type": "Goal",
+                    "player": "R. Lukaku",
+                    "score_update": "1 - 2",
+                    "team": "Napoli",
+                    "time": "90+6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Lukaku",
+                    "team": "Napoli",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Hellas Verona 1 - 2 Napoli"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Napoli 1 - 1 Como 1907"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Genoa 2 - 3 Napoli"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 2 - 3 Chelsea"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Juventus 3 - 0 Napoli"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Hellas Verona 1 - 2 Napoli"
+                        }
+                    ],
+                    "team": "Verona"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "07/01/2026",
+                        "teams_and_score": "Napoli 2 - 2 Hellas Verona"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "12/01/2025",
+                        "teams_and_score": "Napoli 2 - 0 Hellas Verona"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "04/02/2024",
+                        "teams_and_score": "Napoli 2 - 1 Hellas Verona"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "15/04/2023",
+                        "teams_and_score": "Napoli 0 - 0 Hellas Verona"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "13/03/2022",
+                        "teams_and_score": "Hellas Verona 1 - 2 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "23/05/2021",
+                        "teams_and_score": "Napoli 1 - 1 Hellas Verona"
+                    }
+                ],
+                "summary": {
+                    "Napoli_wins": "3",
+                    "Verona_wins": "0",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Napoli": "65%",
+                    "Verona": "35%"
+                },
+                "corners": {
+                    "Napoli": "5",
+                    "Verona": "2"
+                },
+                "crosses": {
+                    "Napoli": "0",
+                    "Verona": "3"
+                },
+                "fouls": {
+                    "Napoli": "11",
+                    "Verona": "11"
+                },
+                "goalkeeper_saves": {
+                    "Napoli": "1",
+                    "Verona": "3"
+                },
+                "offsides": {
+                    "Napoli": "2",
+                    "Verona": "1"
+                },
+                "shots_blocked": {
+                    "Napoli": "0",
+                    "Verona": "3"
+                },
+                "shots_off_target": {
+                    "Napoli": "3",
+                    "Verona": "3"
+                },
+                "shots_on_target": {
+                    "Napoli": "5",
+                    "Verona": "2"
+                },
+                "yellow_cards": {
+                    "Napoli": "4",
+                    "Verona": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Verona_v_Napoli_2026_02_28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/504.webp",
+                    "name": "Verona",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/verona-v-napoli-2026-02-28-IJlm.webp",
+            "title": "Hellas Verona vs Napoli"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Jan 11, 2026",
+            "description": "Watch Inter vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on January 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Inter_v_Napoli_2026_01_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/inter-v-napoli-2026-01-11-cQfF.webp",
+            "title": "Inter Milan vs Napoli"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Jan 25, 2026",
+            "description": "Watch Juventus vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on January 25, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Juventus_v_Napoli_2026_01_25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/juventus-v-napoli-2026-01-25-nfKA.webp",
+            "title": "Juventus vs Napoli"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Jan 4, 2026",
+            "description": "Watch Lazio vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on January 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Napoli"
+                },
+                "home_team_form": {
+                    "team": "Lazio"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Lazio_v_Napoli_2026_01_04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/487.webp",
+                    "name": "Lazio",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lazio-v-napoli-2026-01-04.webp",
+            "title": "Lazio vs Napoli"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Oct 28, 2025",
+            "description": "Watch Lecce vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on October 28, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Lecce_v_Napoli_2025_10_28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lecce-v-napoli-2025-10-28.webp",
+            "title": "Lecce vs Napoli"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Apr 6, 2026",
+            "description": "Watch Napoli vs AC Milan highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on April 6, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Buongiorno",
+                    "team": "Napoli",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Politano",
+                    "score_update": "1 - 0",
+                    "team": "Napoli",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Politano",
+                    "team": "Napoli",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "06/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 1 - 0 AC Milan"
+                        }
+                    ],
+                    "team": "AC Milan"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "06/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Napoli 1 - 0 AC Milan"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Napoli 1 - 1 Como 1907"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Genoa 2 - 3 Napoli"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Super Cup",
+                        "date": "18/12/2025",
+                        "teams_and_score": "Napoli 2 - 0 AC Milan"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "28/09/2025",
+                        "teams_and_score": "AC Milan 2 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "30/03/2025",
+                        "teams_and_score": "Napoli 2 - 1 AC Milan"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "11/02/2024",
+                        "teams_and_score": "AC Milan 1 - 0 Napoli"
+                    },
+                    {
+                        "competition": "Quarter-Finals 22/23",
+                        "date": "18/04/2023",
+                        "teams_and_score": "Napoli 1 - 1 AC Milan"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "02/04/2023",
+                        "teams_and_score": "Napoli 0 - 4 AC Milan"
+                    }
+                ],
+                "summary": {
+                    "AC Milan_wins": "3",
+                    "Napoli_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AC Milan": "48%",
+                    "Napoli": "53%"
+                },
+                "corners": {
+                    "AC Milan": "3",
+                    "Napoli": "4"
+                },
+                "crosses": {
+                    "AC Milan": "7",
+                    "Napoli": "2"
+                },
+                "fouls": {
+                    "AC Milan": "6",
+                    "Napoli": "7"
+                },
+                "goalkeeper_saves": {
+                    "AC Milan": "2",
+                    "Napoli": "1"
+                },
+                "offsides": {
+                    "AC Milan": "2",
+                    "Napoli": "5"
+                },
+                "shots_blocked": {
+                    "AC Milan": "0",
+                    "Napoli": "1"
+                },
+                "shots_off_target": {
+                    "AC Milan": "6",
+                    "Napoli": "6"
+                },
+                "shots_on_target": {
+                    "AC Milan": "1",
+                    "Napoli": "3"
+                },
+                "yellow_cards": {
+                    "AC Milan": "0",
+                    "Napoli": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_AC_Milan_2026_04_06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/489.webp",
+                    "name": "AC Milan",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-ac-milan-2026-04-06-OS4B.webp",
+            "title": "Napoli vs AC Milan"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Feb 15, 2026",
+            "description": "Watch Napoli vs AS Roma highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on February 15, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "B. Zaragoza",
+                    "event_type": "Goal",
+                    "player": "D. Malen",
+                    "score_update": "0 - 1",
+                    "team": "AS Roma",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Mancini",
+                    "team": "AS Roma",
+                    "time": "16'"
+                },
+                {
+                    "assist": "E. Elmas",
+                    "event_type": "Goal",
+                    "player": "L. Spinazzola",
+                    "score_update": "1 - 1",
+                    "team": "Napoli",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Rrahmani",
+                    "team": "Napoli",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Malen",
+                    "score_update": "1 - 2",
+                    "team": "AS Roma",
+                    "time": "61'"
+                },
+                {
+                    "assist": "Giovane",
+                    "event_type": "Goal",
+                    "player": "A. Santos",
+                    "score_update": "2 - 2",
+                    "team": "Napoli",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "15/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Napoli 2 - 2 AS Roma"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Panathinaikos 1 - 1 AS Roma"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/01/2026",
+                            "result": "D",
+                            "teams_and_score": "AS Roma 1 - 1 AC Milan"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "W",
+                            "teams_and_score": "AS Roma 2 - 0 VfB Stuttgart"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "18/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 0 - 2 AS Roma"
+                        }
+                    ],
+                    "team": "AS Roma"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "15/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Napoli 2 - 2 AS Roma"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Napoli 1 - 1 Como 1907"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Genoa 2 - 3 Napoli"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 2 - 3 Chelsea"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Juventus 3 - 0 Napoli"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "30/11/2025",
+                        "teams_and_score": "AS Roma 0 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "02/02/2025",
+                        "teams_and_score": "AS Roma 1 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "28/04/2024",
+                        "teams_and_score": "Napoli 2 - 2 AS Roma"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "29/01/2023",
+                        "teams_and_score": "Napoli 2 - 1 AS Roma"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "18/04/2022",
+                        "teams_and_score": "Napoli 1 - 1 AS Roma"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "21/03/2021",
+                        "teams_and_score": "AS Roma 0 - 2 Napoli"
+                    }
+                ],
+                "summary": {
+                    "AS Roma_wins": "0",
+                    "Napoli_wins": "3",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AS Roma": "39%",
+                    "Napoli": "61%"
+                },
+                "corners": {
+                    "AS Roma": "1",
+                    "Napoli": "2"
+                },
+                "crosses": {
+                    "AS Roma": "7",
+                    "Napoli": "2"
+                },
+                "fouls": {
+                    "AS Roma": "14",
+                    "Napoli": "14"
+                },
+                "goalkeeper_saves": {
+                    "AS Roma": "5",
+                    "Napoli": "0"
+                },
+                "offsides": {
+                    "AS Roma": "2",
+                    "Napoli": "1"
+                },
+                "shots_blocked": {
+                    "AS Roma": "3",
+                    "Napoli": "3"
+                },
+                "shots_off_target": {
+                    "AS Roma": "4",
+                    "Napoli": "1"
+                },
+                "shots_on_target": {
+                    "AS Roma": "2",
+                    "Napoli": "7"
+                },
+                "yellow_cards": {
+                    "AS Roma": "1",
+                    "Napoli": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_AS_Roma_2026_02_15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/497.webp",
+                    "name": "AS Roma",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-as-roma-2026-02-15-iZbr.webp",
+            "title": "Napoli vs AS Roma"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Nov 22, 2025",
+            "description": "Watch Napoli vs Atalanta highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on November 22, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Atalanta_2025_11_22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-atalanta-2025-11-22.webp",
+            "title": "Napoli vs Atalanta"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "May 11, 2026",
+            "description": "Watch Napoli vs Bologna highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on May 11, 2026. The Stadio Diego Armando Maradona played host to a captivating Serie A encounter as SSC Napoli and Bologna locked horns in a clash defined by momentum swings and individual brilliance. On May 11, 2026 , the tactical battle on the pitch kept the supporters on the edge of their seats until the very final whistle. Early Momentum and VAR Drama Bologna wasted no time establishing their presence, taking the lead in the 9th minute when Federico Bernardeschi clinicaly slotted home a left-footed strike following an assist from Juan Miranda . The visitors were inches away from doubling their lead shortly after, but Juan Miranda 's effort rattled the post in the 13th minute. The pressure eventually told in the 34th minute after a lengthy VAR review. The referee awarded a penalty for a trip by Giovanni Di Lorenzo on Juan Miranda , which Riccardo Orsolini converted with composure to make it 0-2. Napoli's Spirited Fightback Just as it looked like the visitors would cruise into the break, SSC Napoli found a lifeline. In the second minute of first-half stoppage time, Giovanni Di Lorenzo redeemed himself by reacting quickest to a loose ball in the box, stabbing it home to reduce the deficit. The momentum shifted entirely at the start of the second half. In the 48th minute, Alisson Santos leveled the score with a well-placed right-footed finish, expertly set up by Rasmus Hoejlund , bringing the home crowd back to life. Rowe's Late Heroics The final stages of the match were a tense affair, featuring a flurry of tactical substitutions and yellow cards for the likes of Jhon Lucumí and Matteo Politano . Bologna manager's decision to introduce Jonathan Rowe in the 73rd minute proved to be a masterstroke. In the 91st minute, Jonathan Rowe produced a moment of pure magic, scoring a sensational bicycle kick that flew into the net to restore the visitors' lead. Despite a late scare when Amir Rrahmani 's header was saved by Massimo Pessina in the 94th minute, Bologna held on to secure a hard-fought 3-2 victory.",
+            "events_timeline": [
+                {
+                    "assist": "J. Miranda",
+                    "event_type": "Goal",
+                    "player": "F. Bernardeschi",
+                    "score_update": "0 - 1",
+                    "team": "Bologna",
+                    "time": "9'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Orsolini",
+                    "score_update": "0 - 2",
+                    "team": "Bologna",
+                    "time": "34'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Mário",
+                    "team": "Bologna",
+                    "time": "38'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. D. Lorenzo",
+                    "score_update": "1 - 2",
+                    "team": "Napoli",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Bernardeschi",
+                    "team": "Bologna",
+                    "time": "47'"
+                },
+                {
+                    "assist": "R. Højlund",
+                    "event_type": "Goal",
+                    "player": "A. Santos",
+                    "score_update": "2 - 2",
+                    "team": "Napoli",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. F. Helland",
+                    "team": "Bologna",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Lucumí",
+                    "team": "Bologna",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Politano",
+                    "team": "Napoli",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Rowe",
+                    "score_update": "2 - 3",
+                    "team": "Bologna",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Napoli 2 - 3 Bologna"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aston Villa 4 - 0 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 2 - 0 Lecce"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 1 - 3 Aston Villa"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cremonese 1 - 2 Bologna"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 2 - 3 Bologna"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Super Cup",
+                        "date": "22/12/2025",
+                        "teams_and_score": "Napoli 2 - 0 Bologna"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "09/11/2025",
+                        "teams_and_score": "Bologna 2 - 0 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "07/04/2025",
+                        "teams_and_score": "Bologna 1 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "11/05/2024",
+                        "teams_and_score": "Napoli 0 - 2 Bologna"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "28/05/2023",
+                        "teams_and_score": "Bologna 2 - 2 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "17/01/2022",
+                        "teams_and_score": "Bologna 0 - 2 Napoli"
+                    }
+                ],
+                "summary": {
+                    "Bologna_wins": "2",
+                    "Napoli_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bologna": "48%",
+                    "Napoli": "52%"
+                },
+                "corners": {
+                    "Bologna": "1",
+                    "Napoli": "7"
+                },
+                "crosses": {
+                    "Bologna": "1",
+                    "Napoli": "5"
+                },
+                "fouls": {
+                    "Bologna": "12",
+                    "Napoli": "10"
+                },
+                "goalkeeper_saves": {
+                    "Bologna": "3",
+                    "Napoli": "1"
+                },
+                "offsides": {
+                    "Bologna": "0",
+                    "Napoli": "4"
+                },
+                "shots_blocked": {
+                    "Bologna": "1",
+                    "Napoli": "4"
+                },
+                "shots_off_target": {
+                    "Bologna": "5",
+                    "Napoli": "5"
+                },
+                "shots_on_target": {
+                    "Bologna": "4",
+                    "Napoli": "5"
+                },
+                "yellow_cards": {
+                    "Bologna": "4",
+                    "Napoli": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Bologna_2026_05_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-bologna-2026-05-11-GcCB.webp",
+            "title": "Napoli vs Bologna"
+        },
+        {
+            "competition": "Coppa Italia",
+            "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
+            "date": "Dec 3, 2025",
+            "description": "Watch Napoli vs Cagliari highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on December 3, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Cagliari_2025_12_03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-cagliari-2025-12-03.webp",
+            "title": "Napoli vs Cagliari"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Jan 28, 2026",
+            "description": "Watch Napoli vs Chelsea highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on January 28, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Jesus",
+                    "team": "Napoli",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Fernández",
+                    "score_update": "0 - 1",
+                    "team": "Chelsea",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Vergara",
+                    "score_update": "1 - 1",
+                    "team": "Napoli",
+                    "time": "31'"
+                },
+                {
+                    "assist": "M. Olivera",
+                    "event_type": "Goal",
+                    "player": "R. Højlund",
+                    "score_update": "2 - 1",
+                    "team": "Napoli",
+                    "time": "46'"
+                },
+                {
+                    "assist": "C. Palmer",
+                    "event_type": "Goal",
+                    "player": "J. Pedro",
+                    "score_update": "2 - 2",
+                    "team": "Chelsea",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Elmas",
+                    "team": "Napoli",
+                    "time": "61'"
+                },
+                {
+                    "assist": "C. Palmer",
+                    "event_type": "Goal",
+                    "player": "J. Pedro",
+                    "score_update": "2 - 3",
+                    "team": "Chelsea",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Fofana",
+                    "team": "Chelsea",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Chelsea"
+                },
+                "home_team_form": {
+                    "team": "Napoli"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Chelsea": "54%",
+                    "Napoli": "46%"
+                },
+                "corners": {
+                    "Chelsea": "1",
+                    "Napoli": "4"
+                },
+                "crosses": {
+                    "Chelsea": "2",
+                    "Napoli": "4"
+                },
+                "fouls": {
+                    "Chelsea": "15",
+                    "Napoli": "15"
+                },
+                "goalkeeper_saves": {
+                    "Chelsea": "3",
+                    "Napoli": "2"
+                },
+                "offsides": {
+                    "Chelsea": "1",
+                    "Napoli": "1"
+                },
+                "shots_blocked": {
+                    "Chelsea": "3",
+                    "Napoli": "1"
+                },
+                "shots_off_target": {
+                    "Chelsea": "3",
+                    "Napoli": "2"
+                },
+                "shots_on_target": {
+                    "Chelsea": "5",
+                    "Napoli": "5"
+                },
+                "yellow_cards": {
+                    "Chelsea": "1",
+                    "Napoli": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Chelsea_2026_01_28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/49.webp",
+                    "name": "Chelsea",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-chelsea-2026-01-28-bRSs.webp",
+            "title": "Napoli vs Chelsea FC"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Nov 1, 2025",
+            "description": "Watch Napoli vs Como highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on November 1, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Como_2025_11_01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-como-2025-11-01.webp",
+            "title": "Napoli vs Como"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Apr 24, 2026",
+            "description": "Watch Napoli vs Cremonese highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on April 24, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "K. D. Bruyne",
+                    "event_type": "Goal",
+                    "player": "S. McTominay",
+                    "score_update": "1 - 0",
+                    "team": "Napoli",
+                    "time": "3'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Terracciano",
+                    "team": "Napoli",
+                    "time": "45'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. D. Bruyne",
+                    "score_update": "3 - 0",
+                    "team": "Napoli",
+                    "time": "45+3'"
+                },
+                {
+                    "assist": "V. Milinković-Savić",
+                    "event_type": "Goal",
+                    "player": "A. Santos",
+                    "score_update": "4 - 0",
+                    "team": "Napoli",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. McTominay",
+                    "score_update": "4 - 0",
+                    "team": "Napoli",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "24/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 4 - 0 Cremonese"
+                        }
+                    ],
+                    "team": "Cremonese"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "24/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Napoli 4 - 0 Cremonese"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "28/12/2025",
+                        "teams_and_score": "Cremonese 0 - 2 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "12/02/2023",
+                        "teams_and_score": "Napoli 3 - 0 Cremonese"
+                    },
+                    {
+                        "competition": "Coppa Italia: Round of 16 22/23",
+                        "date": "17/01/2023",
+                        "teams_and_score": "Napoli 2 - 2 Cremonese"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "09/10/2022",
+                        "teams_and_score": "Cremonese 1 - 4 Napoli"
+                    },
+                    {
+                        "competition": "Club Friendlies 2019",
+                        "date": "24/07/2019",
+                        "teams_and_score": "Napoli 3 - 3 Cremonese"
+                    }
+                ],
+                "summary": {
+                    "Cremonese_wins": "0",
+                    "Napoli_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cremonese": "44%",
+                    "Napoli": "56%"
+                },
+                "corners": {
+                    "Cremonese": "5",
+                    "Napoli": "7"
+                },
+                "crosses": {
+                    "Cremonese": "5",
+                    "Napoli": "5"
+                },
+                "fouls": {
+                    "Cremonese": "11",
+                    "Napoli": "7"
+                },
+                "goalkeeper_saves": {
+                    "Cremonese": "6",
+                    "Napoli": "5"
+                },
+                "offsides": {
+                    "Cremonese": "0",
+                    "Napoli": "2"
+                },
+                "shots_blocked": {
+                    "Cremonese": "2",
+                    "Napoli": "6"
+                },
+                "shots_off_target": {
+                    "Cremonese": "1",
+                    "Napoli": "10"
+                },
+                "shots_on_target": {
+                    "Cremonese": "4",
+                    "Napoli": "9"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Cremonese_2026_04_24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/520.webp",
+                    "name": "Cremonese",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-cremonese-2026-04-24-By0u.webp",
+            "title": "Napoli vs Cremonese"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Nov 4, 2025",
+            "description": "Watch Napoli vs Eintracht Frankfurt highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on November 4, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Frankfurt_2025_11_04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-frankfurt-2025-11-04.webp",
+            "title": "Napoli vs Eintracht Frankfurt"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Jan 31, 2026",
+            "description": "Watch Napoli vs Fiorentina highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on January 31, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Meret",
+                    "event_type": "Goal",
+                    "player": "A. Vergara",
+                    "score_update": "1 - 0",
+                    "team": "Napoli",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Fabbian",
+                    "team": "Fiorentina",
+                    "time": "16'"
+                },
+                {
+                    "assist": "A. Vergara",
+                    "event_type": "Goal",
+                    "player": "M. Gutiérrez",
+                    "score_update": "2 - 0",
+                    "team": "Napoli",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Buongiorno",
+                    "team": "Napoli",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Solomon",
+                    "score_update": "2 - 1",
+                    "team": "Fiorentina",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Fiorentina"
+                },
+                "home_team_form": {
+                    "team": "Napoli"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fiorentina": "47%",
+                    "Napoli": "53%"
+                },
+                "corners": {
+                    "Fiorentina": "4",
+                    "Napoli": "4"
+                },
+                "crosses": {
+                    "Fiorentina": "8",
+                    "Napoli": "2"
+                },
+                "fouls": {
+                    "Fiorentina": "13",
+                    "Napoli": "21"
+                },
+                "goalkeeper_saves": {
+                    "Fiorentina": "4",
+                    "Napoli": "4"
+                },
+                "offsides": {
+                    "Fiorentina": "2",
+                    "Napoli": "0"
+                },
+                "shots_blocked": {
+                    "Fiorentina": "2",
+                    "Napoli": "7"
+                },
+                "shots_off_target": {
+                    "Fiorentina": "8",
+                    "Napoli": "6"
+                },
+                "shots_on_target": {
+                    "Fiorentina": "5",
+                    "Napoli": "6"
+                },
+                "yellow_cards": {
+                    "Fiorentina": "1",
+                    "Napoli": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Fiorentina_2026_01_31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/502.webp",
+                    "name": "Fiorentina",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-fiorentina-2026-01-31-JQUB.webp",
+            "title": "Napoli vs Fiorentina"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Oct 5, 2025",
+            "description": "Watch Napoli vs Genoa highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on October 5, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Genoa_2025_10_05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-genoa-2025-10-05.webp",
+            "title": "Napoli vs Genoa"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Oct 25, 2025",
+            "description": "Watch Napoli vs Inter highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on October 25, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Inter_2025_10_25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-inter-2025-10-25.webp",
+            "title": "Napoli vs Inter Milan"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Dec 7, 2025",
+            "description": "Watch Napoli vs Juventus highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on December 7, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Juventus_2025_12_07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-juventus-2025-12-07.webp",
+            "title": "Napoli vs Juventus"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Apr 18, 2026",
+            "description": "Watch Napoli vs Lazio highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on April 18, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "K. Taylor",
+                    "event_type": "Goal",
+                    "player": "M. Cancellieri",
+                    "score_update": "0 - 1",
+                    "team": "Lazio",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Lobotka",
+                    "team": "Napoli",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Zaccagni",
+                    "score_update": "0 - 1",
+                    "team": "Lazio",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Cataldi",
+                    "team": "Lazio",
+                    "time": "46'"
+                },
+                {
+                    "assist": "M. Cancellieri",
+                    "event_type": "Goal",
+                    "player": "T. Bašić",
+                    "score_update": "0 - 2",
+                    "team": "Lazio",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Taylor",
+                    "team": "Lazio",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Dia",
+                    "team": "Lazio",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Napoli 0 - 2 Lazio"
+                        },
+                        {
+                            "competition": "Coppa Italia: Semi-Finals",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lazio 2 - 2 Atalanta"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Torino 2 - 0 Lazio"
+                        }
+                    ],
+                    "team": "Lazio"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 0 - 2 Lazio"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Napoli 1 - 1 Como 1907"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "04/01/2026",
+                        "teams_and_score": "Lazio 0 - 2 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "15/02/2025",
+                        "teams_and_score": "Lazio 2 - 2 Napoli"
+                    },
+                    {
+                        "competition": "Coppa Italia: Round of 16",
+                        "date": "05/12/2024",
+                        "teams_and_score": "Lazio 3 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "28/01/2024",
+                        "teams_and_score": "Lazio 0 - 0 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "03/03/2023",
+                        "teams_and_score": "Napoli 0 - 1 Lazio"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "27/02/2022",
+                        "teams_and_score": "Lazio 1 - 2 Napoli"
+                    }
+                ],
+                "summary": {
+                    "Lazio_wins": "2",
+                    "Napoli_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lazio": "33%",
+                    "Napoli": "67%"
+                },
+                "corners": {
+                    "Lazio": "0",
+                    "Napoli": "12"
+                },
+                "crosses": {
+                    "Lazio": "0",
+                    "Napoli": "4"
+                },
+                "fouls": {
+                    "Lazio": "9",
+                    "Napoli": "11"
+                },
+                "goalkeeper_saves": {
+                    "Lazio": "0",
+                    "Napoli": "5"
+                },
+                "offsides": {
+                    "Lazio": "0",
+                    "Napoli": "2"
+                },
+                "shots_blocked": {
+                    "Lazio": "1",
+                    "Napoli": "4"
+                },
+                "shots_off_target": {
+                    "Lazio": "6",
+                    "Napoli": "8"
+                },
+                "shots_on_target": {
+                    "Lazio": "7",
+                    "Napoli": "0"
+                },
+                "yellow_cards": {
+                    "Lazio": "3",
+                    "Napoli": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Lazio_2026_04_18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/487.webp",
+                    "name": "Lazio",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-lazio-2026-04-18-qJgD.webp",
+            "title": "Napoli vs Lazio"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Mar 14, 2026",
+            "description": "Watch Napoli vs Lecce highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on March 14, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Gallo",
+                    "event_type": "Goal",
+                    "player": "J. Siebert",
+                    "score_update": "0 - 1",
+                    "team": "Lecce",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Siebert",
+                    "team": "Lecce",
+                    "time": "16'"
+                },
+                {
+                    "assist": "M. Politano",
+                    "event_type": "Goal",
+                    "player": "R. Højlund",
+                    "score_update": "1 - 1",
+                    "team": "Napoli",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Politano",
+                    "score_update": "2 - 1",
+                    "team": "Napoli",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "14/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 2 - 1 Lecce"
+                        }
+                    ],
+                    "team": "Lecce"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "14/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Napoli 2 - 1 Lecce"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Napoli 1 - 1 Como 1907"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Genoa 2 - 3 Napoli"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 2 - 3 Chelsea"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Juventus 3 - 0 Napoli"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "28/10/2025",
+                        "teams_and_score": "Lecce 0 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "03/05/2025",
+                        "teams_and_score": "Lecce 0 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "26/05/2024",
+                        "teams_and_score": "Napoli 0 - 0 Lecce"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "07/04/2023",
+                        "teams_and_score": "Lecce 1 - 2 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 19/20",
+                        "date": "09/02/2020",
+                        "teams_and_score": "Napoli 2 - 3 Lecce"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "25/04/2012",
+                        "teams_and_score": "Lecce 0 - 2 Napoli"
+                    }
+                ],
+                "summary": {
+                    "Lecce_wins": "1",
+                    "Napoli_wins": "4",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lecce": "30%",
+                    "Napoli": "70%"
+                },
+                "corners": {
+                    "Lecce": "7",
+                    "Napoli": "7"
+                },
+                "crosses": {
+                    "Lecce": "6",
+                    "Napoli": "3"
+                },
+                "fouls": {
+                    "Lecce": "7",
+                    "Napoli": "11"
+                },
+                "goalkeeper_saves": {
+                    "Lecce": "2",
+                    "Napoli": "1"
+                },
+                "shots_blocked": {
+                    "Lecce": "4",
+                    "Napoli": "2"
+                },
+                "shots_off_target": {
+                    "Lecce": "6",
+                    "Napoli": "6"
+                },
+                "shots_on_target": {
+                    "Lecce": "2",
+                    "Napoli": "4"
+                },
+                "yellow_cards": {
+                    "Lecce": "1",
+                    "Napoli": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Lecce_2026_03_14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/867.webp",
+                    "name": "Lecce",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-lecce-2026-03-14-Yrjx.webp",
+            "title": "Napoli vs Lecce"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Nov 1, 2017",
+            "description": "Watch Napoli vs Manchester City highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on November 1, 2017.",
+            "events_timeline": [
+                {
+                    "assist": "N. Elphege",
+                    "event_type": "Goal",
+                    "player": "G. Strefezza",
+                    "score_update": "1 - 0",
+                    "team": "Napoli",
+                    "time": "1'"
+                },
+                {
+                    "assist": "R. Højlund",
+                    "event_type": "Goal",
+                    "player": "S. McTominay",
+                    "score_update": "1 - 1",
+                    "team": "Manchester City",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Circati",
+                    "team": "Napoli",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "12/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Parma 1 - 1 Napoli"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Napoli 1 - 1 Como 1907"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Genoa 2 - 3 Napoli"
+                        }
+                    ],
+                    "team": "Manchester City"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "12/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Parma 1 - 1 Napoli"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "14/01/2026",
+                        "teams_and_score": "Napoli 0 - 0 Parma"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "18/05/2025",
+                        "teams_and_score": "Parma 0 - 0 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "31/01/2021",
+                        "teams_and_score": "Napoli 2 - 0 Parma"
+                    },
+                    {
+                        "competition": "Serie A 19/20",
+                        "date": "22/07/2020",
+                        "teams_and_score": "Parma 2 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "24/02/2019",
+                        "teams_and_score": "Parma 0 - 4 Napoli"
+                    }
+                ],
+                "summary": {
+                    "Manchester City_wins": "1",
+                    "Napoli_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Manchester City": "75%",
+                    "Napoli": "26%"
+                },
+                "corners": {
+                    "Manchester City": "7",
+                    "Napoli": "3"
+                },
+                "crosses": {
+                    "Manchester City": "11",
+                    "Napoli": "1"
+                },
+                "fouls": {
+                    "Manchester City": "8",
+                    "Napoli": "4"
+                },
+                "goalkeeper_saves": {
+                    "Manchester City": "1",
+                    "Napoli": "4"
+                },
+                "offsides": {
+                    "Manchester City": "2",
+                    "Napoli": "2"
+                },
+                "shots_blocked": {
+                    "Manchester City": "8",
+                    "Napoli": "1"
+                },
+                "shots_off_target": {
+                    "Manchester City": "6",
+                    "Napoli": "0"
+                },
+                "shots_on_target": {
+                    "Manchester City": "6",
+                    "Napoli": "2"
+                },
+                "yellow_cards": {
+                    "Manchester City": "0",
+                    "Napoli": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/napoli-vs-manchester-city-2017-11-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/50.webp",
+                    "name": "Manchester City",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-vs-manchester-city-2017-11-01-VQ13.webp",
+            "title": "Napoli vs Manchester City"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Nov 25, 2025",
+            "description": "Watch Napoli vs Qarabag highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on November 25, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Qarabag_2025_11_25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-qarabag-2025-11-25.webp",
+            "title": "Napoli vs Qarabag"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Oct 1, 2025",
+            "description": "Watch Napoli vs Sporting CP highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on October 1, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://video.bongdaminhtai.top/Napoli_v_Sporting_2025_10_01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-sporting-2025-10-01.webp",
+            "title": "Napoli vs Sporting CP"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Mar 6, 2026",
+            "description": "Watch Napoli vs Torino highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on March 6, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "L. Spinazzola",
+                    "event_type": "Goal",
+                    "player": "A. Santos",
+                    "score_update": "1 - 0",
+                    "team": "Napoli",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Gineitis",
+                    "team": "Torino",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Ismajli",
+                    "team": "Torino",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Politano",
+                    "event_type": "Goal",
+                    "player": "E. Elmas",
+                    "score_update": "2 - 0",
+                    "team": "Napoli",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Lazaro",
+                    "team": "Torino",
+                    "time": "91'"
+                },
+                {
+                    "assist": "C. Adams",
+                    "event_type": "Goal",
+                    "player": "C. Casadei",
+                    "score_update": "2 - 1",
+                    "team": "Torino",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "06/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 2 - 1 Torino"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "04/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Inter 2 - 1 Torino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "01/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 1 - 0 Lecce"
+                        },
+                        {
+                            "competition": "Coppa Italia: Round of 16",
+                            "date": "13/01/2026",
+                            "result": "W",
+                            "teams_and_score": "AS Roma 2 - 3 Torino"
+                        }
+                    ],
+                    "team": "Torino"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Napoli 2 - 1 Torino"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Napoli 1 - 1 Como 1907"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Genoa 2 - 3 Napoli"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 2 - 3 Chelsea"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Juventus 3 - 0 Napoli"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "18/10/2025",
+                        "teams_and_score": "Torino 1 - 0 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "27/04/2025",
+                        "teams_and_score": "Napoli 2 - 0 Torino"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "08/03/2024",
+                        "teams_and_score": "Napoli 1 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "19/03/2023",
+                        "teams_and_score": "Torino 0 - 4 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "07/05/2022",
+                        "teams_and_score": "Torino 0 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "26/04/2021",
+                        "teams_and_score": "Torino 0 - 2 Napoli"
+                    }
+                ],
+                "summary": {
+                    "Napoli_wins": "4",
+                    "Torino_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Napoli": "64%",
+                    "Torino": "36%"
+                },
+                "corners": {
+                    "Napoli": "11",
+                    "Torino": "2"
+                },
+                "crosses": {
+                    "Napoli": "6",
+                    "Torino": "1"
+                },
+                "fouls": {
+                    "Napoli": "9",
+                    "Torino": "11"
+                },
+                "goalkeeper_saves": {
+                    "Napoli": "3",
+                    "Torino": "7"
+                },
+                "offsides": {
+                    "Napoli": "1",
+                    "Torino": "1"
+                },
+                "shots_blocked": {
+                    "Napoli": "2",
+                    "Torino": "3"
+                },
+                "shots_off_target": {
+                    "Napoli": "3",
+                    "Torino": "0"
+                },
+                "shots_on_target": {
+                    "Napoli": "9",
+                    "Torino": "4"
+                },
+                "yellow_cards": {
+                    "Napoli": "0",
+                    "Torino": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Torino_2026_03_06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/503.webp",
+                    "name": "Torino",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-torino-2026-03-06-NSuV.webp",
+            "title": "Napoli vs Torino"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "May 24, 2026",
+            "description": "Watch Napoli vs Udinese highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on May 24, 2026. A pivotal Serie A encounter unfolded on 2026-05-24 as SSC Napoli hosted Udinese in a match that tested the resolve and tactical discipline of both squads. Fans at the stadium witnessed a battle where every inch of the pitch was contested, with momentum swinging between the two sides throughout the ninety minutes. Hoejlund Strikes as Napoli Dominate Possession From the opening whistle, SSC Napoli signaled their intent to control the tempo, utilizing their creative midfielders to carve out opportunities. An early header from Amir Rrahmani forced a comfortable save from Maduka Okoye , but the deadlock would not last long. In the 24th minute, a fluid attacking move saw Scott McTominay deliver a key pass to Kevin De Bruyne , who in turn provided the assist for Rasmus Hoejlund . The striker clinical finished with his right foot to put the hosts ahead. Udinese struggled to find a rhythm in response, often restricted to long-range efforts that failed to trouble Alex Meret . Napoli maintained a staggering 68% of the ball, dictating play and forcing the visitors into a defensive posture for much of the first half. While Matteo Politano and Eljif Elmas remained constant threats from distance, the visitors' defense held firm to prevent further damage before the interval. Red Card Drama and the Final Stand The complexion of the match shifted significantly in the 64th minute. After a VAR review for violent conduct, the referee upgraded a yellow card to a straight red card for Udinese defender Christian Kabasele . Facing a numerical disadvantage, the visitors introduced Adam Buksa and Idrissa Gueye to spark a late resurgence. Napoli responded with tactical substitutions of their own, including the introduction of Nikita Contini in goal and Pasquale Mazzocchi to shore up the flanks. In a frantic final sequence, Udinese threw everything forward, earning corners and testing the resolve of the Napoli backline. Juan Jesus and Billy Gilmour were forced into vital interceptions as the clock ticked down. Despite a late flurry of activity and shots from Idrissa Gueye and Branimir Mlacic being blocked, SSC Napoli held their nerve to secure the victory and all three points.",
+            "events_timeline": [
+                {
+                    "assist": "K. D. Bruyne",
+                    "event_type": "Goal",
+                    "player": "R. Højlund",
+                    "score_update": "1 - 0",
+                    "team": "Napoli",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Karlstrom",
+                    "team": "Udinese",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "C. Kabasele",
+                    "team": "Udinese",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Buksa",
+                    "team": "Udinese",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Miller",
+                    "team": "Udinese",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 1 - 0 Udinese"
+                        }
+                    ],
+                    "team": "Udinese"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Napoli 1 - 0 Udinese"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "14/12/2025",
+                        "teams_and_score": "Udinese 1 - 0 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "09/02/2025",
+                        "teams_and_score": "Napoli 1 - 1 Udinese"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "06/05/2024",
+                        "teams_and_score": "Udinese 1 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "04/05/2023",
+                        "teams_and_score": "Udinese 1 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "19/03/2022",
+                        "teams_and_score": "Napoli 2 - 1 Udinese"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "11/05/2021",
+                        "teams_and_score": "Napoli 5 - 1 Udinese"
+                    }
+                ],
+                "summary": {
+                    "Napoli_wins": "2",
+                    "Udinese_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Napoli": "67%",
+                    "Udinese": "33%"
+                },
+                "corners": {
+                    "Napoli": "3",
+                    "Udinese": "3"
+                },
+                "crosses": {
+                    "Napoli": "2",
+                    "Udinese": "3"
+                },
+                "fouls": {
+                    "Napoli": "3",
+                    "Udinese": "13"
+                },
+                "goalkeeper_saves": {
+                    "Napoli": "2",
+                    "Udinese": "5"
+                },
+                "offsides": {
+                    "Napoli": "4",
+                    "Udinese": "0"
+                },
+                "red_cards": {
+                    "Napoli": "0",
+                    "Udinese": "1"
+                },
+                "shots_blocked": {
+                    "Napoli": "3",
+                    "Udinese": "6"
+                },
+                "shots_off_target": {
+                    "Napoli": "5",
+                    "Udinese": "1"
+                },
+                "shots_on_target": {
+                    "Napoli": "6",
+                    "Udinese": "3"
+                },
+                "yellow_cards": {
+                    "Napoli": "0",
+                    "Udinese": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/napoli-vs-udinese-2026-05-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/494.webp",
+                    "name": "Udinese",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-vs-udinese-2026-05-24-58iA.webp",
+            "title": "Napoli vs Udinese"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Jan 7, 2026",
+            "description": "Watch Napoli vs Verona highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on January 7, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Verona_2026_01_07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-verona-2026-01-07.webp",
+            "title": "Napoli vs Verona"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Jan 21, 1995",
+            "description": "Watch Parma vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on January 21, 1995.",
+            "events_timeline": [
+                {
+                    "assist": "G. Strefezza",
+                    "event_type": "Goal",
+                    "player": "N. Elphege",
+                    "score_update": "0 - 1",
+                    "team": "Napoli",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Zaniolo",
+                    "team": "Parma",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Karlstrom",
+                    "team": "Parma",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Udinese 0 - 1 Parma"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Udinese 0 - 1 Parma"
+                        }
+                    ],
+                    "team": "Parma"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Parma 0 - 2 Udinese"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "01/03/2025",
+                        "teams_and_score": "Udinese 1 - 0 Parma"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "21/02/2021",
+                        "teams_and_score": "Parma 2 - 2 Udinese"
+                    },
+                    {
+                        "competition": "Serie A 19/20",
+                        "date": "26/01/2020",
+                        "teams_and_score": "Parma 0 - 2 Udinese"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "19/01/2019",
+                        "teams_and_score": "Udinese 1 - 2 Parma"
+                    }
+                ],
+                "summary": {
+                    "Napoli_wins": "3",
+                    "Parma_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Napoli": "44%",
+                    "Parma": "57%"
+                },
+                "corners": {
+                    "Napoli": "5",
+                    "Parma": "10"
+                },
+                "crosses": {
+                    "Napoli": "3",
+                    "Parma": "4"
+                },
+                "fouls": {
+                    "Napoli": "8",
+                    "Parma": "11"
+                },
+                "goalkeeper_saves": {
+                    "Napoli": "3",
+                    "Parma": "0"
+                },
+                "offsides": {
+                    "Napoli": "1",
+                    "Parma": "2"
+                },
+                "shots_blocked": {
+                    "Napoli": "4",
+                    "Parma": "4"
+                },
+                "shots_off_target": {
+                    "Napoli": "5",
+                    "Parma": "9"
+                },
+                "shots_on_target": {
+                    "Napoli": "1",
+                    "Parma": "3"
+                },
+                "yellow_cards": {
+                    "Napoli": "0",
+                    "Parma": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/parma-vs-napoli-1995-01-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/523.webp",
+                    "name": "Parma",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/parma-vs-napoli-1995-01-21-tBTV.webp",
+            "title": "Parma vs Napoli"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Pisa vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on May 17, 2026. Late Drama Secures Napoli Victory A thrilling encounter between Pisa and SSC Napoli on May 17, 2026, concluded with SSC Napoli snatching all three points in stoppage time. Early Intensity and Napoli's Grip The first half saw SSC Napoli establish their dominance, seeking an opening. At the 21st minute, a key pass from Stanislav Lobotka found Rasmus Højlund , who provided the assist for Scott McTominay to break the deadlock with a well-placed right-footed shot. Shortly after, at the 27th minute, a corner swung in by Eljif Elmas from the right proved decisive, as Amir Rrahmani rose to head the ball home, extending Napoli's lead. Tactical Shifts and Cautionary Measures The second half brought further substitutions and increased physicality. Both teams made changes in an attempt to alter the game's flow. At the 53rd minute, the match became more heated with yellow cards shown to Arturo Calabresi and Eljif Elmas for violent conduct. Later, at the 78th minute, Alisson Santos and Antonio Caracciolo were also booked by the referee for fouls. The Decisive Blow in Stoppage Time Just as the match seemed to be winding down, SSC Napoli sealed the victory in spectacular fashion. In the 90+2 minute, a moment of brilliance saw Kevin De Bruyne play a crucial pass to Pasquale Mazzocchi , who then set up Rasmus Højlund . The Danish striker finished expertly with his left foot, scoring the third goal and securing the win for SSC Napoli . Final Whistle The referee blew the final whistle at the 90+5 minute, confirming SSC Napoli as the victors. Possession statistics underscored Napoli's control, with 77% of the ball compared to Pisa 's 23%, highlighting the visitors' command of the contest.",
+            "events_timeline": [
+                {
+                    "assist": "R. Højlund",
+                    "event_type": "Goal",
+                    "player": "S. McTominay",
+                    "score_update": "0 - 1",
+                    "team": "Napoli",
+                    "time": "1'"
+                },
+                {
+                    "assist": "E. Elmas",
+                    "event_type": "Goal",
+                    "player": "A. Rrahmani",
+                    "score_update": "0 - 2",
+                    "team": "Napoli",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Calabresi",
+                    "team": "Pisa",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Elmas",
+                    "team": "Napoli",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Caracciolo",
+                    "team": "Pisa",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Santos",
+                    "team": "Napoli",
+                    "time": "78'"
+                },
+                {
+                    "assist": "P. Mazzocchi",
+                    "event_type": "Goal",
+                    "player": "R. Højlund",
+                    "score_update": "0 - 3",
+                    "team": "Napoli",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Pisa 0 - 3 Napoli"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Pisa 0 - 3 Napoli"
+                        }
+                    ],
+                    "team": "Pisa"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "22/09/2025",
+                        "teams_and_score": "Napoli 3 - 2 Pisa"
+                    },
+                    {
+                        "competition": "Coppa Italia",
+                        "date": "18/08/2007",
+                        "teams_and_score": "Napoli 3 - 1 Pisa"
+                    },
+                    {
+                        "competition": "Serie C1 B",
+                        "date": "19/03/2006",
+                        "teams_and_score": "Napoli 2 - 0 Pisa"
+                    }
+                ],
+                "summary": {
+                    "Napoli_wins": "3",
+                    "Pisa_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Napoli": "76%",
+                    "Pisa": "24%"
+                },
+                "corners": {
+                    "Napoli": "6",
+                    "Pisa": "1"
+                },
+                "crosses": {
+                    "Napoli": "4",
+                    "Pisa": "3"
+                },
+                "fouls": {
+                    "Napoli": "8",
+                    "Pisa": "13"
+                },
+                "goalkeeper_saves": {
+                    "Napoli": "2",
+                    "Pisa": "2"
+                },
+                "offsides": {
+                    "Napoli": "2",
+                    "Pisa": "0"
+                },
+                "shots_blocked": {
+                    "Napoli": "3",
+                    "Pisa": "0"
+                },
+                "shots_off_target": {
+                    "Napoli": "2",
+                    "Pisa": "2"
+                },
+                "shots_on_target": {
+                    "Napoli": "5",
+                    "Pisa": "2"
+                },
+                "yellow_cards": {
+                    "Napoli": "2",
+                    "Pisa": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Pisa_v_Napoli_2026_05_17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/801.webp",
+                    "name": "Pisa",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/pisa-v-napoli-2026-05-17-IdtT.webp",
+            "title": "Pisa vs Napoli"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Oct 21, 2025",
+            "description": "Watch PSV Eindhoven vs Napoli highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on October 21, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/PSV_v_Napoli_2025_10_21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/psv-v-napoli-2025-10-21.webp",
+            "title": "PSV Eindhoven vs Napoli"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Dec 14, 2025",
+            "description": "Watch Udinese vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on December 14, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Napoli"
+                },
+                "home_team_form": {
+                    "team": "Udinese"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Udinese_v_Napoli_2025_12_14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/494.webp",
+                    "name": "Udinese",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/udinese-v-napoli-2025-12-14.webp",
+            "title": "Udinese vs Napoli"
+        }
+    ]
+}

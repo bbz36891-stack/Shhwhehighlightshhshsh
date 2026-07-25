@@ -1,0 +1,77 @@
+{
+    "team": "Huesca",
+    "team_logo": "",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "La Liga",
+            "competition_cover": "https://refooty.com/covers/la-liga.webp",
+            "date": "Mar 28, 2026",
+            "description": "Watch Granada vs Huesca highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on March 28, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/granada-vs-huesca-2026-03-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/granada-vs-huesca-2026-03-28-PY51.webp",
+            "title": "Granada vs Huesca"
+        },
+        {
+            "competition": "Segunda División",
+            "competition_cover": "",
+            "date": "May 25, 2026",
+            "description": "Watch Huesca vs Castellón highlights and goals from Segunda División on ReFooty: Football Highlights Hub. Match played on May 25, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/huesca-vs-castellon-2026-05-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/huesca-vs-castellon-2026-05-25-obcb.webp",
+            "title": "Huesca vs Castellón"
+        }
+    ]
+}

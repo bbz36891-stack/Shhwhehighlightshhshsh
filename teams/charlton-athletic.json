@@ -1,0 +1,751 @@
+{
+    "team": "Charlton Athletic",
+    "team_logo": "",
+    "total_matches": 7,
+    "matches": [
+        {
+            "competition": "FA Cup",
+            "competition_cover": "https://refooty.com/covers/fa-cup.webp",
+            "date": "Jan 10, 2026",
+            "description": "Watch Charlton Athletic vs Chelsea highlights and goals from FA Cup on ReFooty: Football Highlights Hub. Match played on January 10, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Charlton_v_Chelsea_2026_01_10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charlton-v-chelsea-2026-01-10-KTEo.webp",
+            "title": "Charlton Athletic vs Chelsea FC"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Apr 22, 2026",
+            "description": "Watch Charlton Athletic vs Ipswich highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on April 22, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "G. Docherty",
+                    "score_update": "1 - 0",
+                    "team": "Charlton Athletic",
+                    "time": "1'"
+                },
+                {
+                    "assist": "A. Matusiwa",
+                    "event_type": "Goal",
+                    "player": "D. Furlong",
+                    "score_update": "1 - 1",
+                    "team": "Ipswich",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Gillesphey",
+                    "team": "Charlton Athletic",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Philogene",
+                    "score_update": "1 - 2",
+                    "team": "Ipswich",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Dykes",
+                    "team": "Charlton Athletic",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Taylor",
+                    "team": "Ipswich",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Clarke",
+                    "team": "Ipswich",
+                    "time": "90+8'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlton Athletic 1 - 2 Ipswich Town"
+                        }
+                    ],
+                    "team": "Ipswich"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "22/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlton Athletic 1 - 2 Ipswich Town"
+                        }
+                    ],
+                    "team": "Charlton Athletic"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "21/10/2025",
+                        "teams_and_score": "Ipswich Town 0 - 3 Charlton Athletic"
+                    },
+                    {
+                        "competition": "Club Friendlies 2025",
+                        "date": "29/07/2025",
+                        "teams_and_score": "Charlton Athletic 1 - 2 Ipswich Town"
+                    },
+                    {
+                        "competition": "League 1 22/23",
+                        "date": "15/04/2023",
+                        "teams_and_score": "Ipswich Town 6 - 0 Charlton Athletic"
+                    },
+                    {
+                        "competition": "League 1 21/22",
+                        "date": "30/04/2022",
+                        "teams_and_score": "Ipswich Town 4 - 0 Charlton Athletic"
+                    },
+                    {
+                        "competition": "League 1 20/21",
+                        "date": "17/04/2021",
+                        "teams_and_score": "Charlton Athletic 0 - 0 Ipswich Town"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "29/07/2017",
+                        "teams_and_score": "Charlton Athletic 6 - 1 Ipswich Town"
+                    }
+                ],
+                "summary": {
+                    "Charlton Athletic_wins": "2",
+                    "Ipswich_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlton Athletic": "36%",
+                    "Ipswich": "64%"
+                },
+                "corners": {
+                    "Charlton Athletic": "1",
+                    "Ipswich": "4"
+                },
+                "crosses": {
+                    "Charlton Athletic": "4",
+                    "Ipswich": "5"
+                },
+                "fouls": {
+                    "Charlton Athletic": "18",
+                    "Ipswich": "11"
+                },
+                "goalkeeper_saves": {
+                    "Charlton Athletic": "3",
+                    "Ipswich": "2"
+                },
+                "offsides": {
+                    "Charlton Athletic": "1",
+                    "Ipswich": "0"
+                },
+                "shots_blocked": {
+                    "Charlton Athletic": "2",
+                    "Ipswich": "4"
+                },
+                "shots_off_target": {
+                    "Charlton Athletic": "1",
+                    "Ipswich": "4"
+                },
+                "shots_on_target": {
+                    "Charlton Athletic": "3",
+                    "Ipswich": "5"
+                },
+                "yellow_cards": {
+                    "Charlton Athletic": "2",
+                    "Ipswich": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charlton-athletic-vs-ipswich-2026-04-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/22895.webp",
+                    "name": "Ipswich",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15402.webp",
+                    "name": "Charlton Athletic",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charlton-athletic-vs-ipswich-2026-04-22-LMu9.webp",
+            "title": "Charlton Athletic vs Ipswich"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 18, 2026",
+            "description": "Watch Charlton Athletic vs Portsmouth highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 18, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charlton-athletic-vs-portsmouth-2026-02-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charlton-athletic-vs-portsmouth-2026-02-18-kF92.webp",
+            "title": "Charlton Athletic vs Portsmouth"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Nov 22, 2025",
+            "description": "Watch Charlton Athletic vs Southampton highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on November 22, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Charlton_v_Southampton_2025_11_22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charlton-v-southampton-2025-11-22.webp",
+            "title": "Charlton Athletic vs Southampton"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 28, 2026",
+            "description": "Watch Charlton Athletic vs Wrexham highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 28, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Ramsay",
+                    "team": "Charlton Athletic",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "O. Rathbone",
+                    "score_update": "0 - 1",
+                    "team": "Wrexham",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Coventry",
+                    "team": "Charlton Athletic",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Moore",
+                    "team": "Wrexham",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlton Athletic 0 - 1 Wrexham"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Wrexham 1 - 0 Ipswich Town"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "07/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Wrexham 0 - 2 Millwall"
+                        }
+                    ],
+                    "team": "Wrexham"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlton Athletic 0 - 1 Wrexham"
+                        }
+                    ],
+                    "team": "Charlton Athletic"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "08/11/2025",
+                        "teams_and_score": "Wrexham 1 - 0 Charlton Athletic"
+                    },
+                    {
+                        "competition": "League 1",
+                        "date": "26/04/2025",
+                        "teams_and_score": "Wrexham 3 - 0 Charlton Athletic"
+                    }
+                ],
+                "summary": {
+                    "Charlton Athletic_wins": "0",
+                    "Wrexham_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlton Athletic": "55%",
+                    "Wrexham": "46%"
+                },
+                "corners": {
+                    "Charlton Athletic": "4",
+                    "Wrexham": "2"
+                },
+                "crosses": {
+                    "Charlton Athletic": "5",
+                    "Wrexham": "3"
+                },
+                "fouls": {
+                    "Charlton Athletic": "4",
+                    "Wrexham": "11"
+                },
+                "goalkeeper_saves": {
+                    "Charlton Athletic": "1",
+                    "Wrexham": "1"
+                },
+                "offsides": {
+                    "Charlton Athletic": "3",
+                    "Wrexham": "1"
+                },
+                "shots_blocked": {
+                    "Charlton Athletic": "6",
+                    "Wrexham": "3"
+                },
+                "shots_off_target": {
+                    "Charlton Athletic": "5",
+                    "Wrexham": "3"
+                },
+                "shots_on_target": {
+                    "Charlton Athletic": "1",
+                    "Wrexham": "2"
+                },
+                "yellow_cards": {
+                    "Charlton Athletic": "2",
+                    "Wrexham": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charlton-athletic-vs-wrexham-2026-02-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1837.webp",
+                    "name": "Wrexham",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15402.webp",
+                    "name": "Charlton Athletic",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charlton-athletic-vs-wrexham-2026-02-28-KWll.webp",
+            "title": "Charlton Athletic vs Wrexham"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 11, 2026",
+            "description": "Watch Middlesbrough vs Charlton Athletic highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Chambers",
+                    "team": "Charlton Athletic",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Gillesphey",
+                    "team": "Charlton Athletic",
+                    "time": "16'"
+                },
+                {
+                    "assist": "H. Clarke",
+                    "event_type": "Goal",
+                    "player": "C. Coady",
+                    "score_update": "0 - 1",
+                    "team": "Charlton Athletic",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "11/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Middlesbrough 0 - 1 Charlton Athletic"
+                        }
+                    ],
+                    "team": "Charlton Athletic"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "11/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Middlesbrough 0 - 1 Charlton Athletic"
+                        }
+                    ],
+                    "team": "Middlesbrough"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "09/12/2025",
+                        "teams_and_score": "Charlton Athletic 1 - 2 Middlesbrough"
+                    },
+                    {
+                        "competition": "Championship 19/20",
+                        "date": "07/03/2020",
+                        "teams_and_score": "Charlton Athletic 0 - 1 Middlesbrough"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "13/03/2016",
+                        "teams_and_score": "Charlton Athletic 2 - 0 Middlesbrough"
+                    }
+                ],
+                "summary": {
+                    "Charlton Athletic_wins": "1",
+                    "Middlesbrough_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlton Athletic": "22%",
+                    "Middlesbrough": "78%"
+                },
+                "corners": {
+                    "Charlton Athletic": "2",
+                    "Middlesbrough": "11"
+                },
+                "crosses": {
+                    "Charlton Athletic": "1",
+                    "Middlesbrough": "14"
+                },
+                "fouls": {
+                    "Charlton Athletic": "12",
+                    "Middlesbrough": "8"
+                },
+                "goalkeeper_saves": {
+                    "Charlton Athletic": "7",
+                    "Middlesbrough": "1"
+                },
+                "offsides": {
+                    "Charlton Athletic": "1",
+                    "Middlesbrough": "0"
+                },
+                "shots_blocked": {
+                    "Charlton Athletic": "2",
+                    "Middlesbrough": "16"
+                },
+                "shots_off_target": {
+                    "Charlton Athletic": "1",
+                    "Middlesbrough": "11"
+                },
+                "shots_on_target": {
+                    "Charlton Athletic": "2",
+                    "Middlesbrough": "7"
+                },
+                "yellow_cards": {
+                    "Charlton Athletic": "2",
+                    "Middlesbrough": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/middlesbrough-charlton-athletic-2026-03-11-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15402.webp",
+                    "name": "Charlton Athletic",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/70.webp",
+                    "name": "Middlesbrough",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/middlesbrough-charlton-athletic-2026-03-11-vn-EIW1.webp",
+            "title": "middlesbrough - charlton athletic"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Swansea City vs Charlton Athletic highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on May 2, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Key",
+                    "event_type": "Goal",
+                    "player": "A. Idah",
+                    "score_update": "1 - 0",
+                    "team": "Swansea City",
+                    "time": "46'"
+                },
+                {
+                    "assist": "S. Carey",
+                    "event_type": "Goal",
+                    "player": "M. Leaburn",
+                    "score_update": "1 - 1",
+                    "team": "Charlton Athletic",
+                    "time": "61'"
+                },
+                {
+                    "assist": "T. Woodward",
+                    "event_type": "Goal",
+                    "player": "A. Idah",
+                    "score_update": "2 - 1",
+                    "team": "Swansea City",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Walta",
+                    "score_update": "3 - 1",
+                    "team": "Swansea City",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Swansea City 3 - 1 Charlton Athletic"
+                        }
+                    ],
+                    "team": "Charlton Athletic"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Swansea City 3 - 1 Charlton Athletic"
+                        }
+                    ],
+                    "team": "Swansea City"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "01/11/2025",
+                        "teams_and_score": "Charlton Athletic 1 - 1 Swansea City"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "23/07/2022",
+                        "teams_and_score": "Charlton Athletic 1 - 2 Swansea City"
+                    },
+                    {
+                        "competition": "Championship 19/20",
+                        "date": "02/01/2020",
+                        "teams_and_score": "Swansea City 1 - 0 Charlton Athletic"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "28/02/2009",
+                        "teams_and_score": "Swansea City 1 - 1 Charlton Athletic"
+                    }
+                ],
+                "summary": {
+                    "Charlton Athletic_wins": "0",
+                    "Swansea City_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlton Athletic": "28%",
+                    "Swansea City": "72%"
+                },
+                "corners": {
+                    "Charlton Athletic": "4",
+                    "Swansea City": "10"
+                },
+                "crosses": {
+                    "Charlton Athletic": "3",
+                    "Swansea City": "4"
+                },
+                "fouls": {
+                    "Charlton Athletic": "14",
+                    "Swansea City": "5"
+                },
+                "goalkeeper_saves": {
+                    "Charlton Athletic": "5",
+                    "Swansea City": "2"
+                },
+                "offsides": {
+                    "Charlton Athletic": "1",
+                    "Swansea City": "4"
+                },
+                "shots_blocked": {
+                    "Charlton Athletic": "5",
+                    "Swansea City": "6"
+                },
+                "shots_off_target": {
+                    "Charlton Athletic": "4",
+                    "Swansea City": "6"
+                },
+                "shots_on_target": {
+                    "Charlton Athletic": "3",
+                    "Swansea City": "8"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/swansea-city-vs-charlton-athletic-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15402.webp",
+                    "name": "Charlton Athletic",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/23192.webp",
+                    "name": "Swansea City",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/swansea-city-vs-charlton-athletic-2026-05-02-eo44.webp",
+            "title": "Swansea City vs Charlton Athletic"
+        }
+    ]
+}

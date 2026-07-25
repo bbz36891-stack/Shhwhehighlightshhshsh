@@ -1,0 +1,42 @@
+{
+    "competition": "Super Cup",
+    "competition_cover": "https://refooty.com/covers/super-cup-italia.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Super Cup",
+            "competition_cover": "https://refooty.com/covers/super-cup-italia.webp",
+            "date": "Dec 19, 2025",
+            "description": "Watch Bologna vs Inter highlights and goals from Super Cup on ReFooty: Football Highlights Hub. Match played on December 19, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Inter"
+                },
+                "home_team_form": {
+                    "team": "Bologna"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Inter_2025_12_19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/505.webp",
+                    "name": "Inter",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-inter-2025-12-19-o8Yt.webp",
+            "title": "Bologna vs Inter Milan"
+        }
+    ]
+}

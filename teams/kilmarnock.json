@@ -1,0 +1,2335 @@
+{
+    "team": "Kilmarnock",
+    "team_logo": "https://img.refooty.com/logo/teams/250.webp",
+    "total_matches": 17,
+    "matches": [
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Apr 25, 2026",
+            "description": "Watch Aberdeen vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on April 25, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "S. Armstrong",
+                    "event_type": "Goal",
+                    "player": "A. Afeez",
+                    "score_update": "1 - 0",
+                    "team": "Aberdeen",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Stanger",
+                    "team": "Kilmarnock",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Lowery",
+                    "team": "Kilmarnock",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Deas",
+                    "team": "Kilmarnock",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Morrison",
+                    "team": "Aberdeen",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Magennis",
+                    "team": "Kilmarnock",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 1 - 0 Kilmarnock"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Kilmarnock 2 - 2 Dundee FC"
+                        }
+                    ],
+                    "team": "Kilmarnock"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 1 - 0 Kilmarnock"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 1 - 2 Celtic"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "31/01/2026",
+                        "teams_and_score": "Kilmarnock 3 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Aberdeen 1 - 0 Kilmarnock"
+                    },
+                    {
+                        "competition": "Scottish Cup: Quarter-Finals",
+                        "date": "09/03/2024",
+                        "teams_and_score": "Aberdeen 3 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "24/02/2024",
+                        "teams_and_score": "Kilmarnock 2 - 0 Aberdeen"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "2",
+                    "Kilmarnock_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "41%",
+                    "Kilmarnock": "59%"
+                },
+                "corners": {
+                    "Aberdeen": "6",
+                    "Kilmarnock": "5"
+                },
+                "fouls": {
+                    "Aberdeen": "16",
+                    "Kilmarnock": "16"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "3",
+                    "Kilmarnock": "3"
+                },
+                "offsides": {
+                    "Aberdeen": "1",
+                    "Kilmarnock": "0"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "1",
+                    "Kilmarnock": "3"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "5",
+                    "Kilmarnock": "5"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "4",
+                    "Kilmarnock": "3"
+                },
+                "yellow_cards": {
+                    "Aberdeen": "1",
+                    "Kilmarnock": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/aberdeen-vs-kilmarnock-2026-04-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/250.webp",
+                    "name": "Kilmarnock",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-vs-kilmarnock-2026-04-25-XRwe.webp",
+            "title": "Aberdeen vs Kilmarnock"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 21, 2026",
+            "description": "Watch Dundee Utd vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 21, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/dundee-utd-vs-kilmarnock-2026-02-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-utd-vs-kilmarnock-2026-02-21-dB0k.webp",
+            "title": "Dundee Utd vs Kilmarnock"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 28, 2026",
+            "description": "Watch Falkirk vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 28, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "E. Brown",
+                    "team": "Falkirk",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Tait",
+                    "score_update": "2 - 0",
+                    "team": "Falkirk",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Spencer",
+                    "team": "Falkirk",
+                    "time": "31'"
+                },
+                {
+                    "assist": "C. Donaldson",
+                    "event_type": "Goal",
+                    "player": "B. Stewart",
+                    "score_update": "3 - 0",
+                    "team": "Falkirk",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Kiltie",
+                    "score_update": "3 - 1",
+                    "team": "Kilmarnock",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Kiltie",
+                    "team": "Kilmarnock",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Donaldson",
+                    "team": "Falkirk",
+                    "time": "91'"
+                },
+                {
+                    "assist": "C. Miller",
+                    "event_type": "Goal",
+                    "player": "B. Stewart",
+                    "score_update": "4 - 1",
+                    "team": "Falkirk",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Deas",
+                    "team": "Kilmarnock",
+                    "time": "61'"
+                },
+                {
+                    "assist": "B. Broggio",
+                    "event_type": "Goal",
+                    "player": "D. Tait",
+                    "score_update": "5 - 1",
+                    "team": "Falkirk",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Mccann",
+                    "team": "Falkirk",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 5 - 1 Kilmarnock"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Kilmarnock 1 - 2 Dundee FC"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Livingston 1 - 1 Kilmarnock"
+                        }
+                    ],
+                    "team": "Kilmarnock"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 5 - 1 Kilmarnock"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "08/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Stenhousemuir 0 - 2 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Livingston 1 - 2 Falkirk"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Hearts 1 - 1 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "14/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 0 - 1 Celtic"
+                        }
+                    ],
+                    "team": "Falkirk"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "20/12/2025",
+                        "teams_and_score": "Kilmarnock 0 - 1 Falkirk"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "24/06/2022",
+                        "teams_and_score": "Falkirk 1 - 4 Kilmarnock"
+                    },
+                    {
+                        "competition": "Challenge Cup 21/22",
+                        "date": "04/09/2021",
+                        "teams_and_score": "Kilmarnock 3 - 1 Falkirk"
+                    },
+                    {
+                        "competition": "League Cup: Group E",
+                        "date": "06/10/2020",
+                        "teams_and_score": "Falkirk 3 - 0 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership Qualification",
+                        "date": "22/05/2016",
+                        "teams_and_score": "Kilmarnock 4 - 0 Falkirk"
+                    },
+                    {
+                        "competition": "Premier League",
+                        "date": "08/05/2010",
+                        "teams_and_score": "Kilmarnock 0 - 0 Falkirk"
+                    },
+                    {
+                        "competition": "Tennents Scottish Cup",
+                        "date": "18/01/2010",
+                        "teams_and_score": "Kilmarnock 1 - 0 Falkirk"
+                    }
+                ],
+                "summary": {
+                    "Falkirk_wins": "2",
+                    "Kilmarnock_wins": "4",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Falkirk": "50%",
+                    "Kilmarnock": "50%"
+                },
+                "corners": {
+                    "Falkirk": "3",
+                    "Kilmarnock": "2"
+                },
+                "fouls": {
+                    "Falkirk": "9",
+                    "Kilmarnock": "15"
+                },
+                "goalkeeper_saves": {
+                    "Falkirk": "2",
+                    "Kilmarnock": "6"
+                },
+                "offsides": {
+                    "Falkirk": "2",
+                    "Kilmarnock": "3"
+                },
+                "shots_blocked": {
+                    "Falkirk": "2",
+                    "Kilmarnock": "3"
+                },
+                "shots_off_target": {
+                    "Falkirk": "8",
+                    "Kilmarnock": "0"
+                },
+                "shots_on_target": {
+                    "Falkirk": "10",
+                    "Kilmarnock": "3"
+                },
+                "yellow_cards": {
+                    "Falkirk": "3",
+                    "Kilmarnock": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/falkirk-vs-kilmarnock-2026-02-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/250.webp",
+                    "name": "Kilmarnock",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1389.webp",
+                    "name": "Falkirk",
+                    "score": "5"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/falkirk-vs-kilmarnock-2026-02-28-FjtD.webp",
+            "title": "Falkirk vs Kilmarnock"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Apr 4, 2026",
+            "description": "Watch Hibernian vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on April 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/hibernian-vs-kilmarnock-2026-04-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-vs-kilmarnock-2026-04-04-MRlI.webp",
+            "title": "Hibernian vs Kilmarnock"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 12, 2026",
+            "description": "Watch Kilmarnock vs Dundee FC highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 12, 2026. On May 12, 2026, Kilmarnock and Celtic faced off in a highly anticipated Premiership clash, with both sides looking to exert their dominance in a physical encounter. The atmosphere was electric as the teams took to the pitch for a match that promised plenty of action and tactical intrigue. A Battle of Attrition The match began with a display of defensive grit and high-intensity challenges. The referee was kept busy early on, issuing yellow cards to Finlay Robertson , Bruce Anderson , and Robbie Deas as both teams struggled to find a rhythm amidst a flurry of fouls. While clear-cut chances were scarce in the opening 45 minutes, the underlying tension suggested that the second half would provide the breakthrough the fans were desperate to see. Highs and Lows for Lowery The deadlock was finally broken in the 62nd minute when Tom Lowery fired Kilmarnock into the lead, capitalizing on a well-placed assist from Michael Schjoenning-Larsen . The home crowd's joy was short-lived, however, as the unpredictable nature of football took center stage in the 77th minute. In a moment of absolute misfortune, Tom Lowery turned the ball into his own net, gifting Celtic an equalizer and setting up a grandstand finish. Hugill Seals the Points As the clock ticked toward full-time, the drama intensified. In the 85th minute, Kilmarnock was awarded a penalty, which Joe Hugill expertly dispatched to restore the lead. The closing stages were frantic, with Joe Bevan and Kieran O'Hara receiving bookings as frustrations boiled over for the visitors. Deep into stoppage time, at 90+4 minutes, Joe Hugill struck again to make it 3-1, ensuring the victory and sparking wild celebrations across the stadium before the final whistle confirmed a hard-fought triumph.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Robertson",
+                    "team": "Dundee FC",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Anderson",
+                    "team": "Kilmarnock",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Deas",
+                    "team": "Kilmarnock",
+                    "time": "31'"
+                },
+                {
+                    "assist": "M. Schjönning-Larsen",
+                    "event_type": "Goal",
+                    "player": "T. Lowery",
+                    "score_update": "1 - 0",
+                    "team": "Kilmarnock",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Lowery",
+                    "team": "Dundee FC",
+                    "time": "77'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Bevan",
+                    "team": "Dundee FC",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. O'Hara",
+                    "team": "Dundee FC",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Hugill",
+                    "score_update": "2 - 1",
+                    "team": "Kilmarnock",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Mayo",
+                    "team": "Kilmarnock",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Hugill",
+                    "score_update": "3 - 1",
+                    "team": "Kilmarnock",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Hugill",
+                    "team": "Kilmarnock",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "12/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Kilmarnock 3 - 1 Dundee FC"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Kilmarnock 2 - 2 Dundee FC"
+                        }
+                    ],
+                    "team": "Dundee FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "12/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Kilmarnock 3 - 1 Dundee FC"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Kilmarnock 2 - 2 Dundee FC"
+                        }
+                    ],
+                    "team": "Kilmarnock"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "11/04/2026",
+                        "teams_and_score": "Kilmarnock 2 - 2 Dundee FC"
+                    },
+                    {
+                        "competition": "Scottish Cup: Round 4",
+                        "date": "17/01/2026",
+                        "teams_and_score": "Kilmarnock 1 - 2 Dundee FC"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "30/12/2025",
+                        "teams_and_score": "Dundee FC 2 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group",
+                        "date": "10/05/2025",
+                        "teams_and_score": "Kilmarnock 3 - 2 Dundee FC"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "30/11/2024",
+                        "teams_and_score": "Kilmarnock 1 - 1 Dundee FC"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "18/05/2024",
+                        "teams_and_score": "Dundee FC 1 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "02/03/2024",
+                        "teams_and_score": "Dundee FC 2 - 2 Kilmarnock"
+                    }
+                ],
+                "summary": {
+                    "Dundee FC_wins": "2",
+                    "Kilmarnock_wins": "1",
+                    "draws": "4"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Dundee FC": "48%",
+                    "Kilmarnock": "52%"
+                },
+                "corners": {
+                    "Dundee FC": "2",
+                    "Kilmarnock": "6"
+                },
+                "fouls": {
+                    "Dundee FC": "18",
+                    "Kilmarnock": "13"
+                },
+                "goalkeeper_saves": {
+                    "Dundee FC": "5",
+                    "Kilmarnock": "2"
+                },
+                "offsides": {
+                    "Dundee FC": "0",
+                    "Kilmarnock": "1"
+                },
+                "shots_blocked": {
+                    "Dundee FC": "2",
+                    "Kilmarnock": "5"
+                },
+                "shots_off_target": {
+                    "Dundee FC": "3",
+                    "Kilmarnock": "6"
+                },
+                "shots_on_target": {
+                    "Dundee FC": "2",
+                    "Kilmarnock": "8"
+                },
+                "yellow_cards": {
+                    "Dundee FC": "3",
+                    "Kilmarnock": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kilmarnock-1-2026-05-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/253.webp",
+                    "name": "Dundee FC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/250.webp",
+                    "name": "Kilmarnock",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kilmarnock-dundee-fc-2026-05-12-Qxns.webp",
+            "title": "Kilmarnock - Dundee FC"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Jan 31, 2026",
+            "description": "Watch Kilmarnock vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on January 31, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Shinnie",
+                    "team": "Aberdeen",
+                    "time": "6'"
+                },
+                {
+                    "assist": "G. Kiltie",
+                    "event_type": "Goal",
+                    "player": "B. Lyons",
+                    "score_update": "1 - 0",
+                    "team": "Kilmarnock",
+                    "time": "12'"
+                },
+                {
+                    "assist": "T. John-Jules",
+                    "event_type": "Goal",
+                    "player": "B. Anderson",
+                    "score_update": "2 - 0",
+                    "team": "Kilmarnock",
+                    "time": "14'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Watson",
+                    "team": "Kilmarnock",
+                    "time": "42'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Morrison",
+                    "team": "Aberdeen",
+                    "time": "45+7'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "G. Shinnie",
+                    "team": "Aberdeen",
+                    "time": "51'"
+                },
+                {
+                    "assist": "B. Anderson",
+                    "event_type": "Goal",
+                    "player": "T. John-Jules",
+                    "score_update": "3 - 0",
+                    "team": "Kilmarnock",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Thompson",
+                    "team": "Kilmarnock",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Mar Kjartansson",
+                    "team": "Aberdeen",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Brown",
+                    "team": "Kilmarnock",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "31/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Kilmarnock 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "18/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 1 - 0 Raith Rovers"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 0 - 2 Rangers"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "18/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Sparta Prague 3 - 0 Aberdeen"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Kilmarnock 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Kilmarnock 1 - 2 Dundee FC"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Livingston 1 - 1 Kilmarnock"
+                        }
+                    ],
+                    "team": "Kilmarnock"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "14/12/2025",
+                        "teams_and_score": "Aberdeen 2 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Aberdeen 1 - 0 Kilmarnock"
+                    },
+                    {
+                        "competition": "Scottish Cup: Quarter-Finals",
+                        "date": "09/03/2024",
+                        "teams_and_score": "Aberdeen 3 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "24/02/2024",
+                        "teams_and_score": "Kilmarnock 2 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership 22/23",
+                        "date": "08/04/2023",
+                        "teams_and_score": "Aberdeen 2 - 0 Kilmarnock"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "4",
+                    "Kilmarnock_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "45%",
+                    "Kilmarnock": "55%"
+                },
+                "corners": {
+                    "Aberdeen": "3",
+                    "Kilmarnock": "7"
+                },
+                "fouls": {
+                    "Aberdeen": "10",
+                    "Kilmarnock": "16"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "5",
+                    "Kilmarnock": "3"
+                },
+                "offsides": {
+                    "Aberdeen": "3",
+                    "Kilmarnock": "3"
+                },
+                "red_cards": {
+                    "Aberdeen": "1",
+                    "Kilmarnock": "0"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "3",
+                    "Kilmarnock": "2"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "1",
+                    "Kilmarnock": "8"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "4",
+                    "Kilmarnock": "9"
+                },
+                "yellow_cards": {
+                    "Aberdeen": "3",
+                    "Kilmarnock": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kilmarnock-vs-aberdeen-2026-01-31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/250.webp",
+                    "name": "Kilmarnock",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kilmarnock-vs-aberdeen-2026-01-31-QoXl.webp",
+            "title": "Kilmarnock vs Aberdeen"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 15, 2026",
+            "description": "Watch Kilmarnock vs Celtic highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 15, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kilmarnock-vs-celtic-2026-02-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kilmarnock-vs-celtic-2026-02-15-9uaa.webp",
+            "title": "Kilmarnock vs Celtic"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Kilmarnock vs Dundee FC highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Halliday",
+                    "team": "Dundee FC",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Hugill",
+                    "score_update": "1 - 0",
+                    "team": "Kilmarnock",
+                    "time": "16'"
+                },
+                {
+                    "assist": "T. Yogane",
+                    "event_type": "Goal",
+                    "player": "S. Murray",
+                    "score_update": "1 - 1",
+                    "team": "Dundee FC",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Schjönning-Larsen",
+                    "score_update": "2 - 1",
+                    "team": "Kilmarnock",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Deas",
+                    "team": "Kilmarnock",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Hamilton",
+                    "team": "Dundee FC",
+                    "time": "55'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Tshibola",
+                    "team": "Kilmarnock",
+                    "time": "75'"
+                },
+                {
+                    "assist": "I. Samuels",
+                    "event_type": "Goal",
+                    "player": "S. Wright",
+                    "score_update": "2 - 2",
+                    "team": "Dundee FC",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Stanger",
+                    "team": "Kilmarnock",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Brandon",
+                    "team": "Kilmarnock",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Westley",
+                    "score_update": "2 - 2",
+                    "team": "Dundee FC",
+                    "time": "90+13'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Kilmarnock 2 - 2 Dundee FC"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "07/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 2 - 1 Dundee FC"
+                        }
+                    ],
+                    "team": "Dundee FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Kilmarnock 2 - 2 Dundee FC"
+                        }
+                    ],
+                    "team": "Kilmarnock"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Scottish Cup: Round 4",
+                        "date": "17/01/2026",
+                        "teams_and_score": "Kilmarnock 1 - 2 Dundee FC"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "30/12/2025",
+                        "teams_and_score": "Dundee FC 2 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group",
+                        "date": "10/05/2025",
+                        "teams_and_score": "Kilmarnock 3 - 2 Dundee FC"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "30/11/2024",
+                        "teams_and_score": "Kilmarnock 1 - 1 Dundee FC"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "18/05/2024",
+                        "teams_and_score": "Dundee FC 1 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "02/03/2024",
+                        "teams_and_score": "Dundee FC 2 - 2 Kilmarnock"
+                    },
+                    {
+                        "competition": "Scottish Cup: Round 4",
+                        "date": "20/01/2024",
+                        "teams_and_score": "Kilmarnock 2 - 0 Dundee FC"
+                    }
+                ],
+                "summary": {
+                    "Dundee FC_wins": "2",
+                    "Kilmarnock_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Dundee FC": "49%",
+                    "Kilmarnock": "51%"
+                },
+                "corners": {
+                    "Dundee FC": "2",
+                    "Kilmarnock": "4"
+                },
+                "fouls": {
+                    "Dundee FC": "7",
+                    "Kilmarnock": "24"
+                },
+                "goalkeeper_saves": {
+                    "Dundee FC": "1",
+                    "Kilmarnock": "4"
+                },
+                "offsides": {
+                    "Dundee FC": "1",
+                    "Kilmarnock": "1"
+                },
+                "shots_blocked": {
+                    "Dundee FC": "0",
+                    "Kilmarnock": "6"
+                },
+                "shots_off_target": {
+                    "Dundee FC": "2",
+                    "Kilmarnock": "4"
+                },
+                "shots_on_target": {
+                    "Dundee FC": "6",
+                    "Kilmarnock": "3"
+                },
+                "yellow_cards": {
+                    "Dundee FC": "2",
+                    "Kilmarnock": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kilmarnock-vs-dundee-fc-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/253.webp",
+                    "name": "Dundee FC",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/250.webp",
+                    "name": "Kilmarnock",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kilmarnock-vs-dundee-fc-2026-04-11-x42M.webp",
+            "title": "Kilmarnock vs Dundee FC"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Kilmarnock vs Dundee Utd highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 2, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "G. Kiltie",
+                    "event_type": "Goal",
+                    "player": "R. Deas",
+                    "score_update": "1 - 0",
+                    "team": "Kilmarnock",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Farrugia",
+                    "team": "Dundee Utd",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Curtis",
+                    "score_update": "2 - 0",
+                    "team": "Kilmarnock",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Hugill",
+                    "score_update": "3 - 0",
+                    "team": "Kilmarnock",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Kilmarnock 3 - 0 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 3 - 2 Livingston"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "06/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 1 St. Mirren"
+                        }
+                    ],
+                    "team": "Dundee Utd"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Kilmarnock 3 - 0 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Kilmarnock 2 - 2 Dundee FC"
+                        }
+                    ],
+                    "team": "Kilmarnock"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "21/02/2026",
+                        "teams_and_score": "Dundee United 1 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Round of 16",
+                        "date": "17/08/2025",
+                        "teams_and_score": "Kilmarnock 2 - 1 Dundee United"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "01/02/2025",
+                        "teams_and_score": "Kilmarnock 1 - 0 Dundee United"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group 22/23",
+                        "date": "24/05/2023",
+                        "teams_and_score": "Dundee United 0 - 3 Kilmarnock"
+                    },
+                    {
+                        "competition": "Scottish Cup",
+                        "date": "11/02/2023",
+                        "teams_and_score": "Dundee United 0 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership 22/23",
+                        "date": "01/02/2023",
+                        "teams_and_score": "Kilmarnock 1 - 0 Dundee United"
+                    }
+                ],
+                "summary": {
+                    "Dundee Utd_wins": "0",
+                    "Kilmarnock_wins": "5",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Dundee Utd": "58%",
+                    "Kilmarnock": "42%"
+                },
+                "corners": {
+                    "Dundee Utd": "8",
+                    "Kilmarnock": "4"
+                },
+                "fouls": {
+                    "Dundee Utd": "10",
+                    "Kilmarnock": "13"
+                },
+                "goalkeeper_saves": {
+                    "Dundee Utd": "5",
+                    "Kilmarnock": "5"
+                },
+                "offsides": {
+                    "Dundee Utd": "2",
+                    "Kilmarnock": "1"
+                },
+                "shots_blocked": {
+                    "Dundee Utd": "5",
+                    "Kilmarnock": "0"
+                },
+                "shots_off_target": {
+                    "Dundee Utd": "9",
+                    "Kilmarnock": "3"
+                },
+                "shots_on_target": {
+                    "Dundee Utd": "5",
+                    "Kilmarnock": "8"
+                },
+                "yellow_cards": {
+                    "Dundee Utd": "1",
+                    "Kilmarnock": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kilmarnock-vs-dundee-utd-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1386.webp",
+                    "name": "Dundee Utd",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/250.webp",
+                    "name": "Kilmarnock",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kilmarnock-vs-dundee-utd-2026-05-02-Ki97.webp",
+            "title": "Kilmarnock vs Dundee Utd"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch Kilmarnock vs Heart Of Midlothian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Schjönning-Larsen",
+                    "score_update": "1 - 0",
+                    "team": "Kilmarnock",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Deas",
+                    "team": "Kilmarnock",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Halkett",
+                    "team": "Heart Of Midlothian",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Polworth",
+                    "team": "Kilmarnock",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Chesnokov",
+                    "team": "Heart Of Midlothian",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "14/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Kilmarnock 1 - 0 Hearts"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Hearts 1 - 1 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "14/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Hearts 2 - 0 St. Mirren"
+                        }
+                    ],
+                    "team": "Heart Of Midlothian"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "14/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Kilmarnock 1 - 0 Hearts"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Kilmarnock 1 - 2 Dundee FC"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Livingston 1 - 1 Kilmarnock"
+                        }
+                    ],
+                    "team": "Kilmarnock"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "03/12/2025",
+                        "teams_and_score": "Hearts 1 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group",
+                        "date": "18/05/2025",
+                        "teams_and_score": "Kilmarnock 0 - 1 Hearts"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "25/01/2025",
+                        "teams_and_score": "Hearts 3 - 2 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "27/04/2024",
+                        "teams_and_score": "Kilmarnock 0 - 0 Hearts"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "30/03/2024",
+                        "teams_and_score": "Hearts 1 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Quarter-Finals 23/24",
+                        "date": "26/09/2023",
+                        "teams_and_score": "Kilmarnock 1 - 2 Hearts"
+                    }
+                ],
+                "summary": {
+                    "Heart Of Midlothian_wins": "3",
+                    "Kilmarnock_wins": "0",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Heart Of Midlothian": "62%",
+                    "Kilmarnock": "38%"
+                },
+                "corners": {
+                    "Heart Of Midlothian": "9",
+                    "Kilmarnock": "2"
+                },
+                "fouls": {
+                    "Heart Of Midlothian": "14",
+                    "Kilmarnock": "13"
+                },
+                "goalkeeper_saves": {
+                    "Heart Of Midlothian": "3",
+                    "Kilmarnock": "3"
+                },
+                "offsides": {
+                    "Heart Of Midlothian": "0",
+                    "Kilmarnock": "2"
+                },
+                "shots_blocked": {
+                    "Heart Of Midlothian": "5",
+                    "Kilmarnock": "5"
+                },
+                "shots_off_target": {
+                    "Heart Of Midlothian": "7",
+                    "Kilmarnock": "2"
+                },
+                "shots_on_target": {
+                    "Heart Of Midlothian": "3",
+                    "Kilmarnock": "4"
+                },
+                "yellow_cards": {
+                    "Heart Of Midlothian": "2",
+                    "Kilmarnock": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kilmarnock-vs-heart-of-midlothian-2026-03-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/254.webp",
+                    "name": "Heart Of Midlothian",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/250.webp",
+                    "name": "Kilmarnock",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kilmarnock-vs-heart-of-midlothian-2026-03-15-G8En.webp",
+            "title": "Kilmarnock vs Heart Of Midlothian"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Mar 21, 2026",
+            "description": "Watch Kilmarnock vs Livingston highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on March 21, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "M. Watkins",
+                    "event_type": "Goal",
+                    "player": "J. Hugill",
+                    "score_update": "1 - 0",
+                    "team": "Kilmarnock",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Montano",
+                    "team": "Livingston",
+                    "time": "46'"
+                },
+                {
+                    "assist": "J. Hugill",
+                    "event_type": "Goal",
+                    "player": "F. Curtis",
+                    "score_update": "2 - 0",
+                    "team": "Kilmarnock",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "B. Kabongolo",
+                    "team": "Livingston",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Kilmarnock 2 - 0 Livingston"
+                        }
+                    ],
+                    "team": "Livingston"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Kilmarnock 2 - 0 Livingston"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Kilmarnock 1 - 2 Dundee FC"
+                        }
+                    ],
+                    "team": "Kilmarnock"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "10/01/2026",
+                        "teams_and_score": "Livingston 1 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Group H",
+                        "date": "16/07/2025",
+                        "teams_and_score": "Kilmarnock 1 - 0 Livingston"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "07/02/2024",
+                        "teams_and_score": "Kilmarnock 1 - 0 Livingston"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group 22/23",
+                        "date": "13/05/2023",
+                        "teams_and_score": "Kilmarnock 2 - 0 Livingston"
+                    },
+                    {
+                        "competition": "Premiership 22/23",
+                        "date": "04/02/2023",
+                        "teams_and_score": "Livingston 3 - 1 Kilmarnock"
+                    }
+                ],
+                "summary": {
+                    "Kilmarnock_wins": "3",
+                    "Livingston_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Kilmarnock": "41%",
+                    "Livingston": "59%"
+                },
+                "corners": {
+                    "Kilmarnock": "3",
+                    "Livingston": "4"
+                },
+                "fouls": {
+                    "Kilmarnock": "14",
+                    "Livingston": "7"
+                },
+                "goalkeeper_saves": {
+                    "Kilmarnock": "1",
+                    "Livingston": "2"
+                },
+                "offsides": {
+                    "Kilmarnock": "1",
+                    "Livingston": "2"
+                },
+                "red_cards": {
+                    "Kilmarnock": "0",
+                    "Livingston": "1"
+                },
+                "shots_blocked": {
+                    "Kilmarnock": "6",
+                    "Livingston": "1"
+                },
+                "shots_off_target": {
+                    "Kilmarnock": "7",
+                    "Livingston": "8"
+                },
+                "shots_on_target": {
+                    "Kilmarnock": "4",
+                    "Livingston": "1"
+                },
+                "yellow_cards": {
+                    "Kilmarnock": "0",
+                    "Livingston": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kilmarnock-vs-livingston-2026-03-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/255.webp",
+                    "name": "Livingston",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/250.webp",
+                    "name": "Kilmarnock",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kilmarnock-vs-livingston-2026-03-21-2N5a.webp",
+            "title": "Kilmarnock vs Livingston"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 11, 2026",
+            "description": "Watch Kilmarnock vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kilmarnock-vs-st-mirren-2026-02-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kilmarnock-vs-st-mirren-2026-02-11-R5UL.webp",
+            "title": "Kilmarnock vs ST Mirren"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Livingston vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 17, 2026. Goal Frenzy in First Half Sets the Tone for a Thrilling Encounter The match between Livingston and Kilmarnock on May 17, 2026, at [Stadium Name - if available] , promised action from the outset, with a goal-laden first half that had fans on the edge of their seats. Opening the Scoring and Quick Responses It was Kilmarnock who drew first blood in the 19th minute, with Stevie May finding the back of the net following an assist from Barrie McKay . The lead, however, was short-lived as Livingston responded emphatically. In the 24th minute, Joe Hugill equalized, with Dominic Thompson providing the crucial pass. Just minutes later, at the 34th minute, Kilmarnock regained their advantage through Nicky Clescenco , who was set up by Greg Kiltie . Goals Continue to Flow Before the Break The goal rush showed no signs of abating. Livingston displayed resilience, pulling level once more in the 53rd minute courtesy of Findlay Curtis , who was again assisted by Dominic Thompson . The momentum seemed to be shifting in Livingston's favour in the 58th minute, when Joe Hugill scored his second of the game, this time set up by Robbie Deas , to give the home side the lead for the first time. Second Half Sees Strategic Shifts and Substitutions The second half saw a flurry of substitutions from both sides as managers looked to manage the game. Livingston made changes at the 56th, 62nd, and 66th minute marks, while Kilmarnock also shuffled their pack at 46, 56, 62, and 66 minutes. A yellow card was shown to Kilmarnock's Brad Lyons in the 70th minute as the teams battled to assert control. Despite efforts from both camps in the closing stages, including further substitutions, the scoreline remained unchanged, capping off an electrifying contest that was largely defined by its explosive opening 45 minutes.",
+            "events_timeline": [
+                {
+                    "assist": "B. McKay",
+                    "event_type": "Goal",
+                    "player": "S. May",
+                    "score_update": "1 - 0",
+                    "team": "Livingston",
+                    "time": "1'"
+                },
+                {
+                    "assist": "D. Thompson",
+                    "event_type": "Goal",
+                    "player": "J. Hugill",
+                    "score_update": "1 - 1",
+                    "team": "Kilmarnock",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Danso",
+                    "team": "Livingston",
+                    "time": "31'"
+                },
+                {
+                    "assist": "G. Kiltie",
+                    "event_type": "Goal",
+                    "player": "N. Clescenco",
+                    "score_update": "1 - 2",
+                    "team": "Kilmarnock",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Thompson",
+                    "team": "Kilmarnock",
+                    "time": "61'"
+                },
+                {
+                    "assist": "D. Thompson",
+                    "event_type": "Goal",
+                    "player": "F. Curtis",
+                    "score_update": "1 - 3",
+                    "team": "Kilmarnock",
+                    "time": "46'"
+                },
+                {
+                    "assist": "R. Deas",
+                    "event_type": "Goal",
+                    "player": "J. Hugill",
+                    "score_update": "1 - 4",
+                    "team": "Kilmarnock",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Lyons",
+                    "team": "Kilmarnock",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Livingston 1 - 4 Kilmarnock"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Kilmarnock 2 - 2 Dundee FC"
+                        }
+                    ],
+                    "team": "Kilmarnock"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Livingston 1 - 4 Kilmarnock"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 3 - 2 Livingston"
+                        }
+                    ],
+                    "team": "Livingston"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "21/03/2026",
+                        "teams_and_score": "Kilmarnock 2 - 0 Livingston"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Group H",
+                        "date": "16/07/2025",
+                        "teams_and_score": "Kilmarnock 1 - 0 Livingston"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "07/02/2024",
+                        "teams_and_score": "Kilmarnock 1 - 0 Livingston"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group 22/23",
+                        "date": "13/05/2023",
+                        "teams_and_score": "Kilmarnock 2 - 0 Livingston"
+                    },
+                    {
+                        "competition": "Premiership 22/23",
+                        "date": "04/02/2023",
+                        "teams_and_score": "Livingston 3 - 1 Kilmarnock"
+                    }
+                ],
+                "summary": {
+                    "Kilmarnock_wins": "4",
+                    "Livingston_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Kilmarnock": "48%",
+                    "Livingston": "52%"
+                },
+                "corners": {
+                    "Kilmarnock": "1",
+                    "Livingston": "6"
+                },
+                "fouls": {
+                    "Kilmarnock": "10",
+                    "Livingston": "10"
+                },
+                "goalkeeper_saves": {
+                    "Kilmarnock": "3",
+                    "Livingston": "0"
+                },
+                "offsides": {
+                    "Kilmarnock": "2",
+                    "Livingston": "1"
+                },
+                "shots_blocked": {
+                    "Kilmarnock": "4",
+                    "Livingston": "2"
+                },
+                "shots_off_target": {
+                    "Kilmarnock": "6",
+                    "Livingston": "3"
+                },
+                "shots_on_target": {
+                    "Kilmarnock": "4",
+                    "Livingston": "4"
+                },
+                "yellow_cards": {
+                    "Kilmarnock": "2",
+                    "Livingston": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/livingston-kilmarnock-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/250.webp",
+                    "name": "Kilmarnock",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/255.webp",
+                    "name": "Livingston",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/livingston-kilmarnock-2026-05-17-GOI4.webp",
+            "title": "Livingston - Kilmarnock"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Jan 10, 2026",
+            "description": "Watch Livingston vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on January 10, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/livingston-vs-kilmarnock-2026-01-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/livingston-vs-kilmarnock-2026-01-10-rh76.webp",
+            "title": "Livingston vs Kilmarnock"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Jan 25, 2026",
+            "description": "Watch Motherwell vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on January 25, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/motherwell-vs-kilmarnock-2026-01-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/motherwell-vs-kilmarnock-2026-01-25-BYcg.webp",
+            "title": "Motherwell vs Kilmarnock"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 5, 2026",
+            "description": "Watch Rangers vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 5, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/rangers-vs-kilmarnock-2026-02-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rangers-vs-kilmarnock-2026-02-05-g1Mb.webp",
+            "title": "Rangers vs Kilmarnock"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 9, 2026",
+            "description": "Watch ST Mirren vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 9, 2026. The showdown between St Mirren and Kilmarnock served as a pivotal moment in the Scottish Premiership season, with both sides eager to establish their dominance on the pitch. Supporters gathered for what promised to be a hard-fought battle under the lights. An Early Twist On May 9, 2026 , the match took an immediate and dramatic turn in the opening stages. Just nine minutes into the contest, Miguel Freckleton suffered a moment of misfortune, turning the ball into his own net to hand the visitors an early advantage. The remainder of the first half turned into a rugged physical encounter, with referee intervention required as Liam Donnelly and Roland Idowu both entered the official's notebook for tactical fouls. Curtis Takes Control Following the halftime break, the tactical landscape shifted significantly. Within just one minute of the restart, Findlay Curtis struck with clinical precision after receiving a polished assist from Greg Kiltie . The goal injected fresh energy into the match, and Kilmarnock pressed their advantage home. The decisive blow arrived in the 68th minute when Tom Lowery delivered an expert ball to Findlay Curtis , who finished his second of the game. Despite late adjustments from both managers and a flurry of substitutions, Kilmarnock held firm to secure the victory as the final whistle echoed through the stadium.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Freckleton",
+                    "team": "Kilmarnock",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Donnelly",
+                    "team": "ST Mirren",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Idowu",
+                    "team": "ST Mirren",
+                    "time": "31'"
+                },
+                {
+                    "assist": "G. Kiltie",
+                    "event_type": "Goal",
+                    "player": "F. Curtis",
+                    "score_update": "0 - 2",
+                    "team": "Kilmarnock",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Hugill",
+                    "team": "Kilmarnock",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Phillips",
+                    "team": "ST Mirren",
+                    "time": "76'"
+                },
+                {
+                    "assist": "T. Lowery",
+                    "event_type": "Goal",
+                    "player": "F. Curtis",
+                    "score_update": "0 - 3",
+                    "team": "Kilmarnock",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "09/05/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Mirren 0 - 3 Kilmarnock"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Kilmarnock 2 - 2 Dundee FC"
+                        }
+                    ],
+                    "team": "Kilmarnock"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "09/05/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Mirren 0 - 3 Kilmarnock"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 6 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 1 - 0 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 2 - 1 Partick Thistle"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 1 St. Mirren"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "11/02/2026",
+                        "teams_and_score": "Kilmarnock 4 - 3 St. Mirren"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Quarter-Finals",
+                        "date": "19/09/2025",
+                        "teams_and_score": "Kilmarnock 2 - 2 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "29/03/2025",
+                        "teams_and_score": "St. Mirren 5 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "11/05/2024",
+                        "teams_and_score": "St. Mirren 0 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "16/03/2024",
+                        "teams_and_score": "Kilmarnock 5 - 2 St. Mirren"
+                    }
+                ],
+                "summary": {
+                    "Kilmarnock_wins": "3",
+                    "ST Mirren_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Kilmarnock": "41%",
+                    "ST Mirren": "59%"
+                },
+                "corners": {
+                    "Kilmarnock": "4",
+                    "ST Mirren": "1"
+                },
+                "fouls": {
+                    "Kilmarnock": "11",
+                    "ST Mirren": "11"
+                },
+                "goalkeeper_saves": {
+                    "Kilmarnock": "2",
+                    "ST Mirren": "2"
+                },
+                "offsides": {
+                    "Kilmarnock": "1",
+                    "ST Mirren": "0"
+                },
+                "shots_blocked": {
+                    "Kilmarnock": "4",
+                    "ST Mirren": "7"
+                },
+                "shots_off_target": {
+                    "Kilmarnock": "2",
+                    "ST Mirren": "3"
+                },
+                "shots_on_target": {
+                    "Kilmarnock": "4",
+                    "ST Mirren": "2"
+                },
+                "yellow_cards": {
+                    "Kilmarnock": "1",
+                    "ST Mirren": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-vs-kilmarnock-2026-05-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/250.webp",
+                    "name": "Kilmarnock",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-vs-kilmarnock-2026-05-09-mppo.webp",
+            "title": "ST Mirren vs Kilmarnock"
+        }
+    ]
+}

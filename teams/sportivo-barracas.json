@@ -1,0 +1,113 @@
+{
+    "team": "Sportivo Barracas",
+    "team_logo": "https://img.refooty.com/logo/teams/1931.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 26, 2026",
+            "description": "Watch Atletico Tucuman vs Sportivo Barracas highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 26, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "L. Diaz",
+                    "score_update": "1 - 0",
+                    "team": "Atletico Tucuman",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "",
+                    "score_update": "1 - 1",
+                    "team": "Sportivo Barracas",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Ferreira",
+                    "score_update": "2 - 1",
+                    "team": "Atletico Tucuman",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "25/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico Tucuman 2 - 1 Sportivo Barracas"
+                        },
+                        {
+                            "competition": "Primera C",
+                            "date": "16/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Sportivo Barracas 0 - 1 CA Fenix"
+                        },
+                        {
+                            "competition": "Primera C: Promotion Play-off",
+                            "date": "08/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Ituzaingo 0 - 1 Sportivo Barracas"
+                        }
+                    ],
+                    "team": "Sportivo Barracas"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "25/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Tucuman 2 - 1 Sportivo Barracas"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Tucuman 1 - 0 Gimnasia LP"
+                        }
+                    ],
+                    "team": "Atletico Tucuman"
+                },
+                "summary": {
+                    "Atletico Tucuman_wins": "0",
+                    "Sportivo Barracas_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/atletico-tucuman-vs-sportivo-barracas-2026-03-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1931.webp",
+                    "name": "Sportivo Barracas",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/455.webp",
+                    "name": "Atletico Tucuman",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-tucuman-vs-sportivo-barracas-2026-03-26-E2CB.webp",
+            "title": "Atletico Tucuman vs Sportivo Barracas"
+        }
+    ]
+}

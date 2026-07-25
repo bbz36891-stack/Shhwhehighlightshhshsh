@@ -1,0 +1,3419 @@
+{
+    "team": "Anderlecht",
+    "team_logo": "https://img.refooty.com/logo/teams/554.webp",
+    "total_matches": 18,
+    "matches": [
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Mar 23, 2026",
+            "description": "Watch Anderlecht vs Cercle Brugge highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on March 23, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "E. Diop",
+                    "score_update": "0 - 1",
+                    "team": "Cercle Brugge",
+                    "time": "1'"
+                },
+                {
+                    "assist": "T. Hazard",
+                    "event_type": "Goal",
+                    "player": "M. Cvetkovic",
+                    "score_update": "1 - 1",
+                    "team": "Anderlecht",
+                    "time": "16'"
+                },
+                {
+                    "assist": "E. Kakou",
+                    "event_type": "Goal",
+                    "player": "P. Gerkens",
+                    "score_update": "1 - 2",
+                    "team": "Cercle Brugge",
+                    "time": "31'"
+                },
+                {
+                    "assist": "G. Magnée",
+                    "event_type": "Goal",
+                    "player": "E. Kakou",
+                    "score_update": "1 - 3",
+                    "team": "Cercle Brugge",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Nazinho",
+                    "team": "Cercle Brugge",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Ilic",
+                    "team": "Anderlecht",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Diop",
+                    "team": "Cercle Brugge",
+                    "time": "80'"
+                },
+                {
+                    "assist": "A. Maamar",
+                    "event_type": "Goal",
+                    "player": "T. Hazard",
+                    "score_update": "2 - 3",
+                    "team": "Anderlecht",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 2 - 3 Cercle Brugge"
+                        }
+                    ],
+                    "team": "Cercle Brugge"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 2 - 3 Cercle Brugge"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "12/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 0 - 4 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Genk 2 - 0 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "05/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 0 - 1 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "01/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Standard Liege 2 - 0 Anderlecht"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "03/08/2025",
+                        "teams_and_score": "Cercle Brugge 0 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "16/03/2025",
+                        "teams_and_score": "Anderlecht 3 - 0 Cercle Brugge"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group 23/24",
+                        "date": "28/04/2024",
+                        "teams_and_score": "Cercle Brugge 1 - 1 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "27/12/2023",
+                        "teams_and_score": "Anderlecht 2 - 0 Cercle Brugge"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "12/03/2023",
+                        "teams_and_score": "Anderlecht 2 - 0 Cercle Brugge"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "26/01/2022",
+                        "teams_and_score": "Anderlecht 0 - 2 Cercle Brugge"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "4",
+                    "Cercle Brugge_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "71%",
+                    "Cercle Brugge": "29%"
+                },
+                "corners": {
+                    "Anderlecht": "8",
+                    "Cercle Brugge": "7"
+                },
+                "fouls": {
+                    "Anderlecht": "14",
+                    "Cercle Brugge": "11"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "2",
+                    "Cercle Brugge": "3"
+                },
+                "offsides": {
+                    "Anderlecht": "1",
+                    "Cercle Brugge": "4"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "3",
+                    "Cercle Brugge": "2"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "2",
+                    "Cercle Brugge": "7"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "8",
+                    "Cercle Brugge": "5"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "1",
+                    "Cercle Brugge": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/anderlecht-vs-cercle-brugge-2026-03-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/741.webp",
+                    "name": "Cercle Brugge",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/anderlecht-vs-cercle-brugge-2026-03-23-4dU5.webp",
+            "title": "Anderlecht vs Cercle Brugge"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 4, 2026",
+            "description": "Watch Anderlecht vs Club Brugge highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 4, 2026. The historic rivalry between Anderlecht and Club Brugge renewed its chapter on May 4, 2026, as both sides stepped onto the pitch with heavy expectations. The atmosphere at the stadium was electric for this Jupiler Pro League clash, promising a tactical battle between two of Belgium's football giants. Early Setback and Tactical Adjustments The match began in the worst possible way for the home side. In just the 8th minute, a moment of misfortune saw Mathys Angely inadvertently direct the ball into his own net, giving Club Brugge an early lead without them having to register a shot on target. The opening period was further marred by physical intensity, as Hugo Vetlesen picked up an early yellow card. Both managers were forced into early changes due to injuries. Club Brugge lost goalkeeper Nordin Jackers in the 20th minute, replaced by Dani van den Heuvel , while Anderlecht had to replace Moussa Diarra with Mihajlo Ilic before the half-hour mark. Despite Anderlecht 's attempts to organize a response, the visitors held their lead into the break. Second Half Blitz Following the halftime interval, where Anderlecht introduced Nathan De Cat to stabilize the midfield, the visitors shifted into a higher gear. In the 59th minute, Joaquin Seys orchestrated a brilliant move that allowed Carlos Forbs to double the lead. The momentum was firmly with the visitors, and they struck again just three minutes later. Hugo Vetlesen turned provider this time, finding Christos Tzolis , who made no mistake in making it 3-0. Late Consolation and Final Whistle Despite the mountain they had to climb, Anderlecht refused to surrender completely in front of their home fans. In the 83rd minute, substitute Adriano Bertaccini set up Mihajlo Cvetkovic for a well-deserved goal, offering a glimmer of hope. However, the clock was against them. The closing stages were characterized by tactical fouls, leading to bookings for Marco Kana and Cisse Sandra in stoppage time. Ultimately, the early advantage and clinical second-half finishing proved decisive for Club Brugge , leaving the hosts to rue their early errors.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Angely",
+                    "team": "Club Brugge",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Vetlesen",
+                    "team": "Club Brugge",
+                    "time": "16'"
+                },
+                {
+                    "assist": "J. Seys",
+                    "event_type": "Goal",
+                    "player": "C. Forbs",
+                    "score_update": "0 - 2",
+                    "team": "Club Brugge",
+                    "time": "59'"
+                },
+                {
+                    "assist": "H. Vetlesen",
+                    "event_type": "Goal",
+                    "player": "C. Tzolis",
+                    "score_update": "0 - 3",
+                    "team": "Club Brugge",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. D. Cat",
+                    "team": "Anderlecht",
+                    "time": "67'"
+                },
+                {
+                    "assist": "A. Bertaccini",
+                    "event_type": "Goal",
+                    "player": "M. Cvetkovic",
+                    "score_update": "1 - 3",
+                    "team": "Anderlecht",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Kana",
+                    "team": "Anderlecht",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Sandra",
+                    "team": "Club Brugge",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 1 - 3 Club Brugge"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Brugge 4 - 1 KV Mechelen"
+                        }
+                    ],
+                    "team": "Club Brugge"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 1 - 3 Club Brugge"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 2 - 3 Cercle Brugge"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Championship Group",
+                        "date": "06/04/2026",
+                        "teams_and_score": "Club Brugge 4 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "08/03/2026",
+                        "teams_and_score": "Club Brugge 2 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group",
+                        "date": "18/05/2025",
+                        "teams_and_score": "Anderlecht 1 - 3 Club Brugge"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "04/05/2025",
+                        "teams_and_score": "Club Brugge 2 - 1 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group",
+                        "date": "30/03/2025",
+                        "teams_and_score": "Club Brugge 2 - 0 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "12/01/2025",
+                        "teams_and_score": "Anderlecht 0 - 3 Club Brugge"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group 23/24",
+                        "date": "19/05/2024",
+                        "teams_and_score": "Anderlecht 0 - 1 Club Brugge"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "0",
+                    "Club Brugge_wins": "6",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "60%",
+                    "Club Brugge": "40%"
+                },
+                "corners": {
+                    "Anderlecht": "8",
+                    "Club Brugge": "4"
+                },
+                "fouls": {
+                    "Anderlecht": "8",
+                    "Club Brugge": "9"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "6",
+                    "Club Brugge": "3"
+                },
+                "offsides": {
+                    "Anderlecht": "1",
+                    "Club Brugge": "2"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "2",
+                    "Club Brugge": "5"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "9",
+                    "Club Brugge": "9"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "4",
+                    "Club Brugge": "8"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "2",
+                    "Club Brugge": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/anderlecht-vs-club-brugge-2026-05-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/569.webp",
+                    "name": "Club Brugge",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/anderlecht-vs-club-brugge-2026-05-04-ZkaK.webp",
+            "title": "Anderlecht vs Club Brugge"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 12, 2026",
+            "description": "Watch Anderlecht vs KAA Gent highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 12, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "W. Kanga",
+                    "score_update": "0 - 1",
+                    "team": "KAA Gent",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Skóraś",
+                    "team": "KAA Gent",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. V. d. Heyden",
+                    "team": "KAA Gent",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Y. Verschaeren",
+                    "score_update": "1 - 1",
+                    "team": "Anderlecht",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Degreef",
+                    "score_update": "2 - 1",
+                    "team": "Anderlecht",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Bertaccini",
+                    "score_update": "3 - 1",
+                    "team": "Anderlecht",
+                    "time": "90+6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Bertaccini",
+                    "team": "Anderlecht",
+                    "time": "90+8'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 3 - 1 Gent"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FCV Dender EH 1 - 3 Gent"
+                        }
+                    ],
+                    "team": "KAA Gent"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 3 - 1 Gent"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 2 - 3 Cercle Brugge"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "12/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 0 - 4 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Genk 2 - 0 Anderlecht"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "18/01/2026",
+                        "teams_and_score": "Gent 4 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "15/01/2026",
+                        "teams_and_score": "Anderlecht 1 - 0 Gent"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "23/09/2025",
+                        "teams_and_score": "Anderlecht 1 - 0 Gent"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group",
+                        "date": "27/04/2025",
+                        "teams_and_score": "Gent 0 - 1 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "02/02/2025",
+                        "teams_and_score": "Gent 1 - 0 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "04/02/2024",
+                        "teams_and_score": "Anderlecht 1 - 0 Gent"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "05/03/2023",
+                        "teams_and_score": "Gent 1 - 0 Anderlecht"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "4",
+                    "KAA Gent_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "65%",
+                    "KAA Gent": "35%"
+                },
+                "corners": {
+                    "Anderlecht": "4",
+                    "KAA Gent": "1"
+                },
+                "fouls": {
+                    "Anderlecht": "12",
+                    "KAA Gent": "9"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "5",
+                    "KAA Gent": "4"
+                },
+                "offsides": {
+                    "Anderlecht": "1",
+                    "KAA Gent": "1"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "7",
+                    "KAA Gent": "2"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "1",
+                    "KAA Gent": "4"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "7",
+                    "KAA Gent": "6"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "1",
+                    "KAA Gent": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/anderlecht-vs-kaa-gent-ii-2026-04-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/19685.webp",
+                    "name": "KAA Gent",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/anderlecht-vs-kaa-gent-ii-2026-04-12-2s7E.webp",
+            "title": "Anderlecht vs KAA Gent II"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Mar 1, 2026",
+            "description": "Watch Anderlecht vs OH Leuven highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on March 1, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "O. Gil",
+                    "score_update": "0 - 1",
+                    "team": "OH Leuven",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Pletinckx",
+                    "team": "Anderlecht",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Verlinden",
+                    "team": "OH Leuven",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Opoku",
+                    "team": "OH Leuven",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Hazard",
+                    "score_update": "2 - 1",
+                    "team": "Anderlecht",
+                    "time": "47'"
+                },
+                {
+                    "assist": "T. Hazard",
+                    "event_type": "Goal",
+                    "player": "M. Cvetkovic",
+                    "score_update": "3 - 1",
+                    "team": "Anderlecht",
+                    "time": "52'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Augustinsson",
+                    "team": "Anderlecht",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Verstraete",
+                    "team": "OH Leuven",
+                    "time": "63'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Diarra",
+                    "team": "Anderlecht",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Dussenne",
+                    "team": "OH Leuven",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Hazard",
+                    "score_update": "4 - 1",
+                    "team": "Anderlecht",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Ilic",
+                    "team": "Anderlecht",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Degreef",
+                    "team": "Anderlecht",
+                    "time": "82'"
+                },
+                {
+                    "assist": "N. De Cat",
+                    "event_type": "Goal",
+                    "player": "A. Bertaccini",
+                    "score_update": "5 - 1",
+                    "team": "Anderlecht",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 5 - 1 Oud-Heverlee Leuven"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "08/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Preussen Muenster 2 - 1 Oud-Heverlee Leuven"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "27/12/2025",
+                            "result": "D",
+                            "teams_and_score": "Raal La Louviere 0 - 0 Oud-Heverlee Leuven"
+                        }
+                    ],
+                    "team": "OH Leuven"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 5 - 1 Oud-Heverlee Leuven"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "12/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 0 - 4 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Genk 2 - 0 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "05/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 0 - 1 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "01/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Standard Liege 2 - 0 Anderlecht"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "26/09/2025",
+                        "teams_and_score": "Oud-Heverlee Leuven 1 - 1 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "01/12/2024",
+                        "teams_and_score": "Oud-Heverlee Leuven 0 - 0 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "21/01/2024",
+                        "teams_and_score": "Oud-Heverlee Leuven 1 - 1 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "19/03/2023",
+                        "teams_and_score": "Oud-Heverlee Leuven 0 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "26/02/2022",
+                        "teams_and_score": "Oud-Heverlee Leuven 0 - 0 Anderlecht"
+                    },
+                    {
+                        "competition": "First Division A 20/21",
+                        "date": "10/01/2021",
+                        "teams_and_score": "Oud-Heverlee Leuven 1 - 0 Anderlecht"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "1",
+                    "OH Leuven_wins": "1",
+                    "draws": "4"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "56%",
+                    "OH Leuven": "44%"
+                },
+                "corners": {
+                    "Anderlecht": "9",
+                    "OH Leuven": "9"
+                },
+                "fouls": {
+                    "Anderlecht": "17",
+                    "OH Leuven": "13"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "1",
+                    "OH Leuven": "2"
+                },
+                "offsides": {
+                    "Anderlecht": "1",
+                    "OH Leuven": "1"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "4",
+                    "OH Leuven": "3"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "4",
+                    "OH Leuven": "2"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "6",
+                    "OH Leuven": "2"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "4",
+                    "OH Leuven": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/anderlecht-vs-oh-leuven-2026-03-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/260.webp",
+                    "name": "OH Leuven",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "5"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/anderlecht-vs-oh-leuven-2026-03-01-BkQL.webp",
+            "title": "Anderlecht vs OH Leuven"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 16, 2026",
+            "description": "Watch Anderlecht vs RAAL La Louvière highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 16, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/anderlecht-vs-raal-la-louviere-2026-02-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/anderlecht-vs-raal-la-louviere-2026-02-16-RYyY.webp",
+            "title": "Anderlecht vs RAAL La Louvière"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 27, 2026",
+            "description": "Watch Anderlecht vs Union St. Gilloise highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 27, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Khalaili",
+                    "event_type": "Goal",
+                    "player": "A. Zorgane",
+                    "score_update": "0 - 1",
+                    "team": "Union St. Gilloise",
+                    "time": "17'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Sykes",
+                    "team": "Union St. Gilloise",
+                    "time": "19'"
+                },
+                {
+                    "assist": "A. A. E. Hadj",
+                    "event_type": "Goal",
+                    "player": "A. Zorgane",
+                    "score_update": "0 - 2",
+                    "team": "Union St. Gilloise",
+                    "time": "25'"
+                },
+                {
+                    "assist": "A. Maamar",
+                    "event_type": "Goal",
+                    "player": "M. Cvetkovic",
+                    "score_update": "1 - 2",
+                    "team": "Anderlecht",
+                    "time": "32'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Cvetkovic",
+                    "team": "Anderlecht",
+                    "time": "42'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Rodríguez",
+                    "team": "Union St. Gilloise",
+                    "time": "45+6'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "K. Sardella",
+                    "team": "Anderlecht",
+                    "time": "45+7'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Smith",
+                    "score_update": "1 - 3",
+                    "team": "Union St. Gilloise",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. M. Allister",
+                    "team": "Union St. Gilloise",
+                    "time": "68'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Kanate",
+                    "team": "Anderlecht",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 1 - 3 Union St.Gilloise"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "Union St. Gilloise"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 1 - 3 Union St.Gilloise"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 2 - 3 Cercle Brugge"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "30/11/2025",
+                        "teams_and_score": "Anderlecht 1 - 0 Union St.Gilloise"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group",
+                        "date": "10/05/2025",
+                        "teams_and_score": "Anderlecht 0 - 1 Union St.Gilloise"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "23/02/2025",
+                        "teams_and_score": "Anderlecht 0 - 2 Union St.Gilloise"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group 23/24",
+                        "date": "05/05/2024",
+                        "teams_and_score": "Union St.Gilloise 0 - 0 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "28/01/2024",
+                        "teams_and_score": "Anderlecht 2 - 2 Union St.Gilloise"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "25/01/2024",
+                        "teams_and_score": "Union St.Gilloise 2 - 1 Anderlecht"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "1",
+                    "Union St Gilloise_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "55%",
+                    "Union St Gilloise": "45%"
+                },
+                "corners": {
+                    "Anderlecht": "4",
+                    "Union St Gilloise": "3"
+                },
+                "fouls": {
+                    "Anderlecht": "16",
+                    "Union St Gilloise": "8"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "1",
+                    "Union St Gilloise": "2"
+                },
+                "offsides": {
+                    "Anderlecht": "3",
+                    "Union St Gilloise": "0"
+                },
+                "red_cards": {
+                    "Anderlecht": "1",
+                    "Union St Gilloise": "0"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "4",
+                    "Union St Gilloise": "2"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "6",
+                    "Union St Gilloise": "6"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "3",
+                    "Union St Gilloise": "4"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "2",
+                    "Union St Gilloise": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/anderlecht-vs-union-st-gilloise-2026-04-27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1393.webp",
+                    "name": "Union St. Gilloise",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/anderlecht-vs-union-st-gilloise-2026-04-27-OO0W.webp",
+            "title": "Anderlecht vs Union St. Gilloise"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 12, 2026",
+            "description": "Watch Antwerp vs Anderlecht highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 12, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/antwerp-vs-anderlecht-2026-02-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/antwerp-vs-anderlecht-2026-02-12-j8fs.webp",
+            "title": "Antwerp vs Anderlecht"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 6, 2026",
+            "description": "Watch Club Brugge vs Anderlecht highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 6, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Seys",
+                    "event_type": "Goal",
+                    "player": "K. Sabbe",
+                    "score_update": "1 - 0",
+                    "team": "Club Brugge",
+                    "time": "1'"
+                },
+                {
+                    "assist": "C. Tzolis",
+                    "event_type": "Goal",
+                    "player": "A. Stankovic",
+                    "score_update": "2 - 0",
+                    "team": "Club Brugge",
+                    "time": "16'"
+                },
+                {
+                    "assist": "N. Tresoldi",
+                    "event_type": "Goal",
+                    "player": "C. Tzolis",
+                    "score_update": "3 - 0",
+                    "team": "Club Brugge",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Stankovic",
+                    "team": "Club Brugge",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Llansana",
+                    "team": "Anderlecht",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Hazard",
+                    "score_update": "3 - 1",
+                    "team": "Anderlecht",
+                    "time": "55'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Tzolis",
+                    "team": "Club Brugge",
+                    "time": "74'"
+                },
+                {
+                    "assist": "Y. Verschaeren",
+                    "event_type": "Goal",
+                    "player": "M. Cvetkovic",
+                    "score_update": "3 - 2",
+                    "team": "Anderlecht",
+                    "time": "90+1'"
+                },
+                {
+                    "assist": "C. Tzolis",
+                    "event_type": "Goal",
+                    "player": "R. Vermant",
+                    "score_update": "4 - 2",
+                    "team": "Club Brugge",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "06/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Brugge 4 - 2 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 2 - 3 Cercle Brugge"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "12/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 0 - 4 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Genk 2 - 0 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "05/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 0 - 1 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "06/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Brugge 4 - 2 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Brugge 4 - 1 KV Mechelen"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "24/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico Madrid 4 - 1 Club Brugge"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Brugge 2 - 1 Oud-Heverlee Leuven"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "18/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Club Brugge 3 - 3 Atletico Madrid"
+                        }
+                    ],
+                    "team": "Club Brugge"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "08/03/2026",
+                        "teams_and_score": "Club Brugge 2 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group",
+                        "date": "18/05/2025",
+                        "teams_and_score": "Anderlecht 1 - 3 Club Brugge"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "04/05/2025",
+                        "teams_and_score": "Club Brugge 2 - 1 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group",
+                        "date": "30/03/2025",
+                        "teams_and_score": "Club Brugge 2 - 0 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "12/01/2025",
+                        "teams_and_score": "Anderlecht 0 - 3 Club Brugge"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group 23/24",
+                        "date": "19/05/2024",
+                        "teams_and_score": "Anderlecht 0 - 1 Club Brugge"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "25/02/2024",
+                        "teams_and_score": "Club Brugge 1 - 2 Anderlecht"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "1",
+                    "Club Brugge_wins": "5",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "42%",
+                    "Club Brugge": "58%"
+                },
+                "corners": {
+                    "Anderlecht": "2",
+                    "Club Brugge": "8"
+                },
+                "fouls": {
+                    "Anderlecht": "14",
+                    "Club Brugge": "11"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "3",
+                    "Club Brugge": "3"
+                },
+                "offsides": {
+                    "Anderlecht": "1",
+                    "Club Brugge": "0"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "3",
+                    "Club Brugge": "10"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "4",
+                    "Club Brugge": "8"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "6",
+                    "Club Brugge": "9"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "1",
+                    "Club Brugge": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/club-brugge-vs-anderlecht-2026-04-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/569.webp",
+                    "name": "Club Brugge",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/club-brugge-vs-anderlecht-2026-04-06-4RZ3.webp",
+            "title": "Club Brugge vs Anderlecht"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Jul 23, 2026",
+            "description": "Watch Hammarby vs Anderlecht highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on July 23, 2026. High stakes defined the atmosphere in Stockholm for this UEFA Europa League clash on 2026-07-23 as Hammarby hosted Anderlecht . Both sides entered the pitch with everything to play for in a match characterized by tactical discipline and sudden shifts in momentum. Early Pressure and Defensive Grit The visitors wasted no time asserting their dominance. In the 6th minute, Danylo Sikan found the back of the net to give Anderlecht an early lead, a goal that immediately put Hammarby on the back foot. The first half subsequently devolved into a gritty battle in the middle of the park, with the referee busy managing a series of fouls. Yellow cards were issued to Nathan Saliba , Ludwig Augustinsson , and Frederik Winther before the break, as the intensity of the competition led to several heated exchanges and limited clear-cut chances for the home side. Red Card and Tactical Reshuffle The second half began with similar intensity, as Victor Eriksson went into the book almost immediately after the restart. The game reached its major turning point in the 78th minute when Nathan Saliba received his second yellow card and was sent off, leaving Anderlecht to defend their lead with ten men. Sensing an opportunity, the hosts made several changes, including the introduction of Frank Junior Adjei for Victor Lind in the 86th minute. Meanwhile, the visitors brought on Zoumana Keita and Noah Kalonji in an attempt to shore up their defense and see out the result. Dramatic Equalizer at the Death With the clock ticking toward full time, the home side’s persistence finally paid off. In the 89th minute, Paulos Abraham provided a decisive assist for Frank Junior Adjei , who clinicaly finished to level the score. The late strike electrified the stadium and rewarded Hammarby for their relentless pressure following the red card. Despite four minutes of stoppage time, neither side could find a winner, leaving the points shared after a night of high drama in the European circuit.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "D. Sikan",
+                    "score_update": "0 - 1",
+                    "team": "Anderlecht",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Saliba",
+                    "team": "Anderlecht",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Augustinsson",
+                    "team": "Anderlecht",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Winther",
+                    "team": "Hammarby",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Eriksson",
+                    "team": "Hammarby",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "N. Saliba",
+                    "team": "Anderlecht",
+                    "time": "61'"
+                },
+                {
+                    "assist": "P. Abraham",
+                    "event_type": "Goal",
+                    "player": "F. J. Adjei",
+                    "score_update": "1 - 1",
+                    "team": "Hammarby",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification",
+                            "date": "23/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Hammarby IF 1 - 1 Anderlecht"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "11/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 3 - 2 NEC Nijmegen"
+                        },
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "24/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 5 - 1 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 3 - 1 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Gent 1 - 1 Anderlecht"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification",
+                            "date": "23/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Hammarby IF 1 - 1 Anderlecht"
+                        },
+                        {
+                            "competition": "Allsvenskan",
+                            "date": "19/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Hammarby IF 4 - 0 Degerfors"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "24/06/2026",
+                            "result": "W",
+                            "teams_and_score": "BK Haecken 1 - 4 Hammarby IF"
+                        },
+                        {
+                            "competition": "Allsvenskan",
+                            "date": "31/05/2026",
+                            "result": "L",
+                            "teams_and_score": "BK Haecken 3 - 2 Hammarby IF"
+                        },
+                        {
+                            "competition": "Svenska Cupen: Knockout Stage",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Mjaellby 2 - 1 Hammarby IF"
+                        }
+                    ],
+                    "team": "Hammarby"
+                },
+                "summary": {
+                    "Anderlecht_wins": "0",
+                    "Hammarby_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "44%",
+                    "Hammarby": "56%"
+                },
+                "corners": {
+                    "Anderlecht": "2",
+                    "Hammarby": "5"
+                },
+                "fouls": {
+                    "Anderlecht": "15",
+                    "Hammarby": "15"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "5",
+                    "Hammarby": "3"
+                },
+                "offsides": {
+                    "Anderlecht": "4",
+                    "Hammarby": "2"
+                },
+                "red_cards": {
+                    "Anderlecht": "1",
+                    "Hammarby": "0"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "2",
+                    "Hammarby": "6"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "4",
+                    "Hammarby": "6"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "3",
+                    "Hammarby": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/hammarby-vs-anderlecht-2026-07-23_8ccgR.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15630.webp",
+                    "name": "Hammarby",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hammarby-vs-anderlecht-2026-07-23-qOQR.webp",
+            "title": "Hammarby vs Anderlecht"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Jan 18, 2026",
+            "description": "Watch KAA Gent vs Anderlecht highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on January 18, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kaa-gent-ii-vs-anderlecht-2026-01-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kaa-gent-ii-vs-anderlecht-2026-01-18-W210.webp",
+            "title": "KAA Gent II vs Anderlecht"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 11, 2026",
+            "description": "Watch KAA Gent vs Anderlecht highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "L. Lopes",
+                    "team": "Anderlecht",
+                    "time": "11'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Kana",
+                    "team": "Anderlecht",
+                    "time": "28'"
+                },
+                {
+                    "assist": "H. Goore",
+                    "event_type": "Goal",
+                    "player": "J. Duverne",
+                    "score_update": "1 - 1",
+                    "team": "KAA Gent",
+                    "time": "44'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "M. Cvetkovic",
+                    "team": "Anderlecht",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. V. d. Heyden",
+                    "team": "KAA Gent",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Cisse",
+                    "team": "KAA Gent",
+                    "time": "45+6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. L. Sonko",
+                    "team": "KAA Gent",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Sikan",
+                    "team": "Anderlecht",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Maamar",
+                    "team": "Anderlecht",
+                    "time": "90+6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Araujo",
+                    "team": "KAA Gent",
+                    "time": "90+7'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. D. Cat",
+                    "team": "Anderlecht",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Gent 1 - 1 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 2 - 3 Cercle Brugge"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Gent 1 - 1 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FCV Dender EH 1 - 3 Gent"
+                        }
+                    ],
+                    "team": "KAA Gent"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Championship Group",
+                        "date": "12/04/2026",
+                        "teams_and_score": "Anderlecht 3 - 1 Gent"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "18/01/2026",
+                        "teams_and_score": "Gent 4 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "15/01/2026",
+                        "teams_and_score": "Anderlecht 1 - 0 Gent"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "23/09/2025",
+                        "teams_and_score": "Anderlecht 1 - 0 Gent"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group",
+                        "date": "27/04/2025",
+                        "teams_and_score": "Gent 0 - 1 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "02/02/2025",
+                        "teams_and_score": "Gent 1 - 0 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "04/02/2024",
+                        "teams_and_score": "Anderlecht 1 - 0 Gent"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "6",
+                    "KAA Gent_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kaa-gent-rsc-anderlecht-2026-05-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/19685.webp",
+                    "name": "KAA Gent",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kaa-gent-rsc-anderlecht-2026-05-11-7owV.webp",
+            "title": "KAA Gent - RSC Anderlecht"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 19, 2026",
+            "description": "Watch KV Mechelen vs Anderlecht highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 19, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. S. Jago",
+                    "team": "KV Mechelen",
+                    "time": "14'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Maamar",
+                    "team": "Anderlecht",
+                    "time": "22'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. G. D. Costa",
+                    "team": "Anderlecht",
+                    "time": "39'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Antonio",
+                    "team": "KV Mechelen",
+                    "time": "41'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Saliba",
+                    "team": "Anderlecht",
+                    "time": "44'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Llansana",
+                    "team": "Anderlecht",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Boersma",
+                    "score_update": "1 - 0",
+                    "team": "KV Mechelen",
+                    "time": "45+8'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Cvetkovic",
+                    "score_update": "1 - 1",
+                    "team": "Anderlecht",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Mrabti",
+                    "team": "KV Mechelen",
+                    "time": "70'"
+                },
+                {
+                    "assist": "L. Augustinsson",
+                    "event_type": "Goal",
+                    "player": "A. Bertaccini",
+                    "score_update": "1 - 2",
+                    "team": "Anderlecht",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Diarra",
+                    "team": "Anderlecht",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Cvetkovic",
+                    "team": "Anderlecht",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Marsa",
+                    "team": "KV Mechelen",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "KV Mechelen 1 - 2 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 2 - 3 Cercle Brugge"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "12/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 0 - 4 Anderlecht"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "KV Mechelen 1 - 2 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Brugge 4 - 1 KV Mechelen"
+                        }
+                    ],
+                    "team": "KV Mechelen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "15/03/2026",
+                        "teams_and_score": "KV Mechelen 1 - 0 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "26/01/2025",
+                        "teams_and_score": "Anderlecht 4 - 1 KV Mechelen"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "01/02/2024",
+                        "teams_and_score": "KV Mechelen 2 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "23/04/2023",
+                        "teams_and_score": "Anderlecht 2 - 3 KV Mechelen"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "23/01/2022",
+                        "teams_and_score": "KV Mechelen 0 - 1 Anderlecht"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "2",
+                    "KV Mechelen_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "54%",
+                    "KV Mechelen": "46%"
+                },
+                "corners": {
+                    "Anderlecht": "3",
+                    "KV Mechelen": "5"
+                },
+                "fouls": {
+                    "Anderlecht": "19",
+                    "KV Mechelen": "10"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "4",
+                    "KV Mechelen": "2"
+                },
+                "offsides": {
+                    "Anderlecht": "4",
+                    "KV Mechelen": "0"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "5",
+                    "KV Mechelen": "7"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "4",
+                    "KV Mechelen": "6"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "4",
+                    "KV Mechelen": "5"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "6",
+                    "KV Mechelen": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kv-mechelen-vs-anderlecht-2026-04-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/266.webp",
+                    "name": "KV Mechelen",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kv-mechelen-vs-anderlecht-2026-04-19-6hVV.webp",
+            "title": "KV Mechelen vs Anderlecht"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 18, 2026",
+            "description": "Watch Anderlecht vs KV Mechelen highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 18, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. v. Brederode",
+                    "score_update": "0 - 1",
+                    "team": "KV Mechelen",
+                    "time": "1'"
+                },
+                {
+                    "assist": "D. Sikan",
+                    "event_type": "Goal",
+                    "player": "N. Saliba",
+                    "score_update": "1 - 1",
+                    "team": "Anderlecht",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Halhal",
+                    "team": "KV Mechelen",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Salifou",
+                    "team": "KV Mechelen",
+                    "time": "46'"
+                },
+                {
+                    "assist": "M. v. Brederode",
+                    "event_type": "Goal",
+                    "player": "T. Koudou",
+                    "score_update": "1 - 2",
+                    "team": "KV Mechelen",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Decoene",
+                    "team": "KV Mechelen",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Konate",
+                    "team": "KV Mechelen",
+                    "time": "90'"
+                },
+                {
+                    "assist": "A. Maamar",
+                    "event_type": "Goal",
+                    "player": "I. Camara",
+                    "score_update": "2 - 2",
+                    "team": "Anderlecht",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Anderlecht 2 - 2 KV Mechelen"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Brugge 4 - 1 KV Mechelen"
+                        }
+                    ],
+                    "team": "KV Mechelen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Anderlecht 2 - 2 KV Mechelen"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 3 - 1 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Gent 1 - 1 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 2 - 3 Cercle Brugge"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Championship Group",
+                        "date": "18/04/2026",
+                        "teams_and_score": "KV Mechelen 1 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "15/03/2026",
+                        "teams_and_score": "KV Mechelen 1 - 0 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "26/01/2025",
+                        "teams_and_score": "Anderlecht 4 - 1 KV Mechelen"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "01/02/2024",
+                        "teams_and_score": "KV Mechelen 2 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "23/04/2023",
+                        "teams_and_score": "Anderlecht 2 - 3 KV Mechelen"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "23/01/2022",
+                        "teams_and_score": "KV Mechelen 0 - 1 Anderlecht"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "3",
+                    "KV Mechelen_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "59%",
+                    "KV Mechelen": "41%"
+                },
+                "corners": {
+                    "Anderlecht": "2",
+                    "KV Mechelen": "2"
+                },
+                "fouls": {
+                    "Anderlecht": "16",
+                    "KV Mechelen": "15"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "1",
+                    "KV Mechelen": "7"
+                },
+                "offsides": {
+                    "Anderlecht": "1",
+                    "KV Mechelen": "2"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "0",
+                    "KV Mechelen": "3"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "4",
+                    "KV Mechelen": "3"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "9",
+                    "KV Mechelen": "3"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "0",
+                    "KV Mechelen": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/rsc-anderlecht-kv-mechelen-2026-05-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/266.webp",
+                    "name": "KV Mechelen",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rsc-anderlecht-kv-mechelen-2026-05-18-ri4z.webp",
+            "title": "RSC Anderlecht - KV Mechelen"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 22, 2026",
+            "description": "Watch Anderlecht vs St. Truiden highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 22, 2026. The Jupiler Pro League delivered another intense chapter as RSC Anderlecht hosted STVV in a clash filled with tactical shifts and clinical finishing. Fans at the stadium on May 22, 2026, witnessed a match defined by individual brilliance and a late surge of emotion as both sides fought for dominance. Sikan's First-Half Masterclass From the opening whistle, RSC Anderlecht looked to dictate the tempo and pin their opponents back. While STVV 's Arbnor Muja saw an early yellow card just four minutes in, the home side capitalized on their mounting pressure in the 20th minute. Tristan Degreef delivered a precise pass to Danylo Sikan , who made no mistake in finding the back of the net to break the deadlock. The momentum stayed firmly with the hosts, and just before the halftime whistle in the 45+2 minute, Sikan struck again, securing a comfortable cushion going into the break after a dominant display. STVV Responds Under Pressure The second half saw a tactical reshuffle as STVV introduced Kaito Matsuzawa for Muja in an attempt to spark a comeback. This change paid dividends in the 77th minute when Matsuzawa provided a crucial assist for Abdoulaye Sissako , whose clinical finish narrowed the gap and put the home defense on high alert. With the score at 2-1, the match entered a frantic final phase characterized by strategic substitutions and mounting tension, including yellow cards for Killian Sardella and Enric Llansana as Anderlecht fought to maintain their lead. Late Drama and the Decisive Blow As the clock ticked deep into stoppage time, STVV pushed forward in search of a dramatic equalizer, but Anderlecht 's depth proved decisive. Adriano Bertaccini , who had replaced Yari Verschaeren earlier in the half, became the hero of the final moments. In the 90+2 minute, Ali Maamar set up Bertaccini for a goal that effectively ended the contest. Despite a late yellow card for Simen Kristiansen Jukleroed , the home side held firm to secure all three points in a hard-fought encounter that kept the fans on the edge of their seats until the final whistle.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Muja",
+                    "team": "St. Truiden",
+                    "time": "4'"
+                },
+                {
+                    "assist": "T. Degreef",
+                    "event_type": "Goal",
+                    "player": "D. Sikan",
+                    "score_update": "1 - 0",
+                    "team": "Anderlecht",
+                    "time": "20'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Sikan",
+                    "score_update": "2 - 0",
+                    "team": "Anderlecht",
+                    "time": "45+2'"
+                },
+                {
+                    "assist": "K. Matsuzawa",
+                    "event_type": "Goal",
+                    "player": "A. Sissako",
+                    "score_update": "2 - 1",
+                    "team": "St. Truiden",
+                    "time": "77'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Sardella",
+                    "team": "Anderlecht",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Llansana",
+                    "team": "Anderlecht",
+                    "time": "90+1'"
+                },
+                {
+                    "assist": "A. Maamar",
+                    "event_type": "Goal",
+                    "player": "A. Bertaccini",
+                    "score_update": "3 - 1",
+                    "team": "Anderlecht",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Juklerod",
+                    "team": "St. Truiden",
+                    "time": "90+8'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "21/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 3 - 1 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 3 - 1 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 3 - 1 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Gent 1 - 1 Anderlecht"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Championship Group",
+                        "date": "23/04/2026",
+                        "teams_and_score": "St.Truiden 2 - 0 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "13/12/2025",
+                        "teams_and_score": "Anderlecht 2 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "15/12/2024",
+                        "teams_and_score": "St.Truiden 0 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "18/02/2024",
+                        "teams_and_score": "Anderlecht 4 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "12/02/2023",
+                        "teams_and_score": "Anderlecht 3 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "25/06/2022",
+                        "teams_and_score": "Anderlecht 0 - 1 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "4",
+                    "St Truiden_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "39%",
+                    "St Truiden": "61%"
+                },
+                "corners": {
+                    "Anderlecht": "8",
+                    "St Truiden": "9"
+                },
+                "fouls": {
+                    "Anderlecht": "11",
+                    "St Truiden": "12"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "2",
+                    "St Truiden": "4"
+                },
+                "offsides": {
+                    "Anderlecht": "1",
+                    "St Truiden": "1"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "10",
+                    "St Truiden": "3"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "3",
+                    "St Truiden": "6"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "7",
+                    "St Truiden": "3"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "2",
+                    "St Truiden": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/rsc-anderlecht-stvv-2026-05-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rsc-anderlecht-stvv-2026-05-22-fXj7.webp",
+            "title": "RSC Anderlecht - STVV"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 23, 2026",
+            "description": "Watch St. Truiden vs Anderlecht highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 23, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Saliba",
+                    "team": "Anderlecht",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Diarra",
+                    "team": "Anderlecht",
+                    "time": "66'"
+                },
+                {
+                    "assist": "R. Ito",
+                    "event_type": "Goal",
+                    "player": "K. Goto",
+                    "score_update": "1 - 0",
+                    "team": "St. Truiden",
+                    "time": "75'"
+                },
+                {
+                    "assist": "I. Sebaoui",
+                    "event_type": "Goal",
+                    "player": "R. Merlen",
+                    "score_update": "2 - 0",
+                    "team": "St. Truiden",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "23/04/2026",
+                            "result": "L",
+                            "teams_and_score": "St.Truiden 2 - 0 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 2 - 3 Cercle Brugge"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "23/04/2026",
+                            "result": "L",
+                            "teams_and_score": "St.Truiden 2 - 0 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "13/12/2025",
+                        "teams_and_score": "Anderlecht 2 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "15/12/2024",
+                        "teams_and_score": "St.Truiden 0 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "18/02/2024",
+                        "teams_and_score": "Anderlecht 4 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "12/02/2023",
+                        "teams_and_score": "Anderlecht 3 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "25/06/2022",
+                        "teams_and_score": "Anderlecht 0 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "14/12/2021",
+                        "teams_and_score": "Anderlecht 2 - 0 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "4",
+                    "St Truiden_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "46%",
+                    "St Truiden": "54%"
+                },
+                "corners": {
+                    "Anderlecht": "7",
+                    "St Truiden": "4"
+                },
+                "fouls": {
+                    "Anderlecht": "9",
+                    "St Truiden": "8"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "4",
+                    "St Truiden": "5"
+                },
+                "offsides": {
+                    "Anderlecht": "1",
+                    "St Truiden": "1"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "7",
+                    "St Truiden": "3"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "7",
+                    "St Truiden": "6"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "5",
+                    "St Truiden": "7"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "2",
+                    "St Truiden": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-truiden-vs-anderlecht-2026-04-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-truiden-vs-anderlecht-2026-04-23-dgwm.webp",
+            "title": "St. Truiden vs Anderlecht"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 1, 2026",
+            "description": "Watch Standard Liege vs Anderlecht highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 1, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Karamoko",
+                    "team": "Standard Liege",
+                    "time": "17'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. De Cat",
+                    "team": "Anderlecht",
+                    "time": "17'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Saliba",
+                    "team": "Anderlecht",
+                    "time": "22'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Ilaimaharitra",
+                    "team": "Standard Liege",
+                    "time": "24'"
+                },
+                {
+                    "assist": "R. Said",
+                    "event_type": "Goal",
+                    "player": "I. Karamoko",
+                    "score_update": "1 - 0",
+                    "team": "Standard Liege",
+                    "time": "29'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Hey",
+                    "team": "Anderlecht",
+                    "time": "45+5'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Said",
+                    "score_update": "2 - 0",
+                    "team": "Standard Liege",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Sardella",
+                    "team": "Anderlecht",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "01/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Standard Liege 2 - 0 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "15/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 1 - 0 Gent"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "26/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 1 - 2 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "04/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Genk 1 - 3 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "30/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 1 - 0 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "01/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Standard Liege 2 - 0 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "02/12/2025",
+                            "result": "L",
+                            "teams_and_score": "FCV Dender EH 3 - 2 Standard Liege"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "28/11/2025",
+                            "result": "W",
+                            "teams_and_score": "KV Mechelen 0 - 1 Standard Liege"
+                        }
+                    ],
+                    "team": "Standard Liege"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "05/10/2025",
+                        "teams_and_score": "Anderlecht 1 - 0 Standard Liege"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "02/03/2025",
+                        "teams_and_score": "Standard Liege 0 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "10/12/2023",
+                        "teams_and_score": "Anderlecht 2 - 2 Standard Liege"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "07/12/2023",
+                        "teams_and_score": "Anderlecht 2 - 0 Standard Liege"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "22/10/2023",
+                        "teams_and_score": "Standard Liege 3 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "26/02/2023",
+                        "teams_and_score": "Anderlecht 2 - 2 Standard Liege"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "16/01/2022",
+                        "teams_and_score": "Anderlecht 1 - 1 Standard Liege"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "3",
+                    "Standard Liege_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "64%",
+                    "Standard Liege": "36%"
+                },
+                "corners": {
+                    "Anderlecht": "4",
+                    "Standard Liege": "9"
+                },
+                "fouls": {
+                    "Anderlecht": "19",
+                    "Standard Liege": "10"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "1",
+                    "Standard Liege": "3"
+                },
+                "offsides": {
+                    "Anderlecht": "1",
+                    "Standard Liege": "0"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "2",
+                    "Standard Liege": "3"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "9",
+                    "Standard Liege": "3"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "4",
+                    "Standard Liege": "3"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "4",
+                    "Standard Liege": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/standard-liege-vs-anderlecht-2026-02-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/733.webp",
+                    "name": "Standard Liege",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/standard-liege-vs-anderlecht-2026-02-01-boxK.webp",
+            "title": "Standard Liege vs Anderlecht"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 25, 2026",
+            "description": "Watch Union St. Gilloise vs Anderlecht highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 25, 2026. The Jupiler Pro League witnessed a high-stakes encounter between Union St. Gilloise and Anderlecht , where history and local pride set the stage for a dramatic evening of football. Both sides took to the pitch on May 25, 2026 , looking to assert their dominance in one of the league's most anticipated fixtures. A Dominant First-Half Display Union St. Gilloise started with an intensity that left the visitors struggling to find their rhythm. After Marco Kana received an early booking, the deadlock was broken in the 18th minute when Mateo Biondic clinical finished a move orchestrated by Besfort Zeneli . The momentum stayed firmly with the hosts as Kevin Rodriguez doubled the lead just three minutes later, once again benefiting from the creative vision of Zeneli . The clinical nature of the Union SG attack continued to punish a shell-shocked Anderlecht defense. In the 32nd minute, Anouar Ait El Hadj added a third goal following an assist from Kevin Rodriguez . The rout was further extended before the halftime whistle, as Anan Khalaili converted a chance created by Adem Zorgane in the 42nd minute, leaving the visitors with a mountain to climb in the second period. Red Card Drama and Late Consolidation The second half began with a significant turning point that ended any hopes of an Anderlecht comeback. Just two minutes after the restart, Thorgan Hazard was shown a straight red card following heavy protests, forcing the visitors to play the remainder of the match with ten men. Union SG capitalized on their advantage in the 59th minute, with Ross Sykes heading home a third assist of the day from the standout Besfort Zeneli . Despite the deficit in players and goals, Anderlecht managed to find a late response through their substitutes. Ibrahim Kanate , who came off the bench, managed to pull one back in the 75th minute after being set up by Yari Verschaeren . The closing stages were characterized by physical play and yellow cards for Fedde Leysen and Christian Burgess , but the outcome was never in doubt as Union St. Gilloise secured a comprehensive victory.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Kana",
+                    "team": "Anderlecht",
+                    "time": "1'"
+                },
+                {
+                    "assist": "B. Zeneli",
+                    "event_type": "Goal",
+                    "player": "M. Biondic",
+                    "score_update": "1 - 0",
+                    "team": "Union St. Gilloise",
+                    "time": "16'"
+                },
+                {
+                    "assist": "B. Zeneli",
+                    "event_type": "Goal",
+                    "player": "K. Rodríguez",
+                    "score_update": "2 - 0",
+                    "team": "Union St. Gilloise",
+                    "time": "31'"
+                },
+                {
+                    "assist": "K. Rodríguez",
+                    "event_type": "Goal",
+                    "player": "A. A. E. Hadj",
+                    "score_update": "3 - 0",
+                    "team": "Union St. Gilloise",
+                    "time": "46'"
+                },
+                {
+                    "assist": "A. Zorgane",
+                    "event_type": "Goal",
+                    "player": "A. Khalaili",
+                    "score_update": "4 - 0",
+                    "team": "Union St. Gilloise",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "T. Hazard",
+                    "team": "Anderlecht",
+                    "time": "46'"
+                },
+                {
+                    "assist": "B. Zeneli",
+                    "event_type": "Goal",
+                    "player": "R. Sykes",
+                    "score_update": "5 - 0",
+                    "team": "Union St. Gilloise",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. D. Ridder",
+                    "team": "Anderlecht",
+                    "time": "76'"
+                },
+                {
+                    "assist": "Y. Verschaeren",
+                    "event_type": "Goal",
+                    "player": "I. Kanate",
+                    "score_update": "5 - 1",
+                    "team": "Anderlecht",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Leysen",
+                    "team": "Union St. Gilloise",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Burgess",
+                    "team": "Union St. Gilloise",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "24/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 5 - 1 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 3 - 1 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Gent 1 - 1 Anderlecht"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "24/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 5 - 1 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 3 - 1 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 3 - 0 KV Mechelen"
+                        }
+                    ],
+                    "team": "Union St. Gilloise"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "14/05/2026",
+                        "teams_and_score": "Union St.Gilloise 3 - 1 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League Playoff: Championship Group",
+                        "date": "26/04/2026",
+                        "teams_and_score": "Anderlecht 1 - 3 Union St.Gilloise"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "30/11/2025",
+                        "teams_and_score": "Anderlecht 1 - 0 Union St.Gilloise"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group",
+                        "date": "10/05/2025",
+                        "teams_and_score": "Anderlecht 0 - 1 Union St.Gilloise"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "23/02/2025",
+                        "teams_and_score": "Anderlecht 0 - 2 Union St.Gilloise"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group 23/24",
+                        "date": "05/05/2024",
+                        "teams_and_score": "Union St.Gilloise 0 - 0 Anderlecht"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "2",
+                    "Union St Gilloise_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "33%",
+                    "Union St Gilloise": "67%"
+                },
+                "corners": {
+                    "Anderlecht": "1",
+                    "Union St Gilloise": "4"
+                },
+                "fouls": {
+                    "Anderlecht": "14",
+                    "Union St Gilloise": "10"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "4",
+                    "Union St Gilloise": "2"
+                },
+                "offsides": {
+                    "Anderlecht": "0",
+                    "Union St Gilloise": "1"
+                },
+                "red_cards": {
+                    "Anderlecht": "1",
+                    "Union St Gilloise": "0"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "2",
+                    "Union St Gilloise": "5"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "4",
+                    "Union St Gilloise": "8"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "3",
+                    "Union St Gilloise": "9"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "2",
+                    "Union St Gilloise": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/union-sg-rsc-anderlecht-2026-05-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1393.webp",
+                    "name": "Union St. Gilloise",
+                    "score": "5"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/union-sg-rsc-anderlecht-2026-05-25-uM0v.webp",
+            "title": "Union SG - RSC Anderlecht"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 22, 2026",
+            "description": "Watch Zulte Waregem vs Anderlecht highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 22, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "T. Hazard",
+                    "score_update": "0 - 1",
+                    "team": "Anderlecht",
+                    "time": "1'"
+                },
+                {
+                    "assist": "N. De Cat",
+                    "event_type": "Goal",
+                    "player": "T. Hazard",
+                    "score_update": "0 - 2",
+                    "team": "Anderlecht",
+                    "time": "16'"
+                },
+                {
+                    "assist": "T. Degreef",
+                    "event_type": "Goal",
+                    "player": "I. Camara",
+                    "score_update": "0 - 3",
+                    "team": "Anderlecht",
+                    "time": "31'"
+                },
+                {
+                    "assist": "E. Soglo",
+                    "event_type": "Goal",
+                    "player": "A. Ementa",
+                    "score_update": "1 - 3",
+                    "team": "Zulte Waregem",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Saliba",
+                    "team": "Anderlecht",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Soglo",
+                    "team": "Zulte Waregem",
+                    "time": "77'"
+                },
+                {
+                    "assist": "N. De Cat",
+                    "event_type": "Goal",
+                    "player": "T. Hazard",
+                    "score_update": "1 - 4",
+                    "team": "Anderlecht",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Ake",
+                    "score_update": "2 - 4",
+                    "team": "Zulte Waregem",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Zulte Waregem 2 - 4 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "12/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 0 - 4 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Genk 2 - 0 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "05/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 0 - 1 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "01/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Standard Liege 2 - 0 Anderlecht"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Zulte Waregem 2 - 4 Anderlecht"
+                        }
+                    ],
+                    "team": "Zulte Waregem"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "10/08/2025",
+                        "teams_and_score": "Anderlecht 2 - 3 Zulte Waregem"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "18/01/2023",
+                        "teams_and_score": "Anderlecht 2 - 3 Zulte Waregem"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "12/02/2022",
+                        "teams_and_score": "Zulte Waregem 1 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "09/01/2022",
+                        "teams_and_score": "Anderlecht 3 - 0 Zulte Waregem"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "05/12/2021",
+                        "teams_and_score": "Anderlecht 3 - 2 Zulte Waregem"
+                    },
+                    {
+                        "competition": "First Division A 20/21",
+                        "date": "21/03/2021",
+                        "teams_and_score": "Anderlecht 4 - 1 Zulte Waregem"
+                    },
+                    {
+                        "competition": "First Division A 19/20",
+                        "date": "07/03/2020",
+                        "teams_and_score": "Anderlecht 7 - 0 Zulte Waregem"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "5",
+                    "Zulte Waregem_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "45%",
+                    "Zulte Waregem": "55%"
+                },
+                "corners": {
+                    "Anderlecht": "4",
+                    "Zulte Waregem": "6"
+                },
+                "fouls": {
+                    "Anderlecht": "12",
+                    "Zulte Waregem": "9"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "4",
+                    "Zulte Waregem": "1"
+                },
+                "offsides": {
+                    "Anderlecht": "5",
+                    "Zulte Waregem": "2"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "6",
+                    "Zulte Waregem": "10"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "1",
+                    "Zulte Waregem": "13"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "5",
+                    "Zulte Waregem": "7"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "1",
+                    "Zulte Waregem": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/zulte-waregem-vs-anderlecht-2026-02-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/600.webp",
+                    "name": "Zulte Waregem",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/zulte-waregem-vs-anderlecht-2026-02-22-uWFx.webp",
+            "title": "Zulte Waregem vs Anderlecht"
+        }
+    ]
+}

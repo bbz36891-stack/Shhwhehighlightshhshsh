@@ -1,0 +1,77 @@
+{
+    "team": "Rochdale",
+    "team_logo": "",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Jan 28, 2026",
+            "description": "Watch Rochdale vs Southend United U23 highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on January 28, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/rochdale-vs-southend-united-u23-2026-01-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rochdale-vs-southend-united-u23-2026-01-28-veDp.webp",
+            "title": "Rochdale vs Southend United U23"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 18, 2026",
+            "description": "Watch Southend vs Rochdale highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 18, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/southend-vs-rochdale-2026-03-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/southend-vs-rochdale-2026-03-18-a3PB.webp",
+            "title": "Southend vs Rochdale"
+        }
+    ]
+}

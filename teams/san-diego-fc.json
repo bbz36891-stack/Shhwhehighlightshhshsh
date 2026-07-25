@@ -1,0 +1,42 @@
+{
+    "team": "San Diego FC",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 5, 2026",
+            "description": "Watch San Jose Earthquakes vs San Diego highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 5, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/san-jose-earthquakes-san-diego-fc-2026-04-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/san-jose-earthquakes-san-diego-fc-2026-04-05-IGrZ.webp",
+            "title": "San Jose Earthquakes - San Diego FC"
+        }
+    ]
+}

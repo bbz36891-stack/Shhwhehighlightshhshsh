@@ -1,0 +1,3088 @@
+{
+    "team": "Marseille",
+    "team_logo": "https://img.refooty.com/logo/teams/81.webp",
+    "total_matches": 15,
+    "matches": [
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Feb 20, 2026",
+            "description": "Watch Brest vs Marseille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on February 20, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "L. Ajorque",
+                    "score_update": "1 - 0",
+                    "team": "Brest",
+                    "time": "1'"
+                },
+                {
+                    "assist": "H. Magnetti",
+                    "event_type": "Goal",
+                    "player": "L. Ajorque",
+                    "score_update": "2 - 0",
+                    "team": "Brest",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Højbjerg",
+                    "team": "Marseille",
+                    "time": "67'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Ajorque",
+                    "team": "Brest",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Q. Timber",
+                    "team": "Marseille",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Greenwood",
+                    "score_update": "2 - 0",
+                    "team": "Marseille",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Nwaneri",
+                    "team": "Marseille",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Nadir",
+                    "team": "Marseille",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "20/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Brest 2 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "03/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris FC 2 - 2 Marseille"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Brugge 3 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "24/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 1 Lens"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "20/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Brest 2 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "19/12/2025",
+                            "result": "D",
+                            "teams_and_score": "Avranches 1 - 1 Brest"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "13/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Rennes 3 - 1 Brest"
+                        }
+                    ],
+                    "team": "Brest"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "08/11/2025",
+                        "teams_and_score": "Marseille 3 - 0 Brest"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "27/04/2025",
+                        "teams_and_score": "Marseille 4 - 1 Brest"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "18/02/2024",
+                        "teams_and_score": "Brest 1 - 0 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "27/05/2023",
+                        "teams_and_score": "Marseille 1 - 2 Brest"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "13/03/2022",
+                        "teams_and_score": "Brest 1 - 4 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "13/03/2021",
+                        "teams_and_score": "Marseille 3 - 1 Brest"
+                    }
+                ],
+                "summary": {
+                    "Brest_wins": "2",
+                    "Marseille_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Brest": "32%",
+                    "Marseille": "68%"
+                },
+                "corners": {
+                    "Brest": "3",
+                    "Marseille": "2"
+                },
+                "crosses": {
+                    "Brest": "4",
+                    "Marseille": "9"
+                },
+                "fouls": {
+                    "Brest": "10",
+                    "Marseille": "17"
+                },
+                "goalkeeper_saves": {
+                    "Brest": "4",
+                    "Marseille": "2"
+                },
+                "offsides": {
+                    "Brest": "2",
+                    "Marseille": "1"
+                },
+                "shots_blocked": {
+                    "Brest": "2",
+                    "Marseille": "4"
+                },
+                "shots_off_target": {
+                    "Brest": "6",
+                    "Marseille": "9"
+                },
+                "shots_on_target": {
+                    "Brest": "4",
+                    "Marseille": "4"
+                },
+                "yellow_cards": {
+                    "Brest": "1",
+                    "Marseille": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Brest_v_Marseille_2026_02_20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/9958.webp",
+                    "name": "Brest",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brest-v-marseille-2026-02-20-Pn77.webp",
+            "title": "Brest vs Olympique Marseille"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Jan 28, 2026",
+            "description": "Watch Club Brugge vs Marseille highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on January 28, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Stankovic",
+                    "event_type": "Goal",
+                    "player": "M. Diakhon",
+                    "score_update": "1 - 0",
+                    "team": "Club Brugge",
+                    "time": "1'"
+                },
+                {
+                    "assist": "A. Stankovic",
+                    "event_type": "Goal",
+                    "player": "R. Vermant",
+                    "score_update": "2 - 0",
+                    "team": "Club Brugge",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Murillo",
+                    "team": "Marseille",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Vanaken",
+                    "team": "Club Brugge",
+                    "time": "46'"
+                },
+                {
+                    "assist": "C. Forbs",
+                    "event_type": "Goal",
+                    "player": "A. Stankovic",
+                    "score_update": "3 - 0",
+                    "team": "Club Brugge",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Gouiri",
+                    "team": "Marseille",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Brugge 3 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "24/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 1 Lens"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "21/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Marseille 0 - 3 Liverpool"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "17/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Angers 2 - 5 Marseille"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "13/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Bayeux 0 - 9 Marseille"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Brugge 3 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "24/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Brugge 4 - 3 Zulte Waregem"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "20/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Kairat Almaty 1 - 4 Club Brugge"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "16/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Brugge 2 - 3 Raal La Louviere"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "13/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Charleroi 2 - 0 Club Brugge"
+                        }
+                    ],
+                    "team": "Club Brugge"
+                },
+                "summary": {
+                    "Club Brugge_wins": "0",
+                    "Marseille_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Club Brugge": "37%",
+                    "Marseille": "63%"
+                },
+                "corners": {
+                    "Club Brugge": "4",
+                    "Marseille": "10"
+                },
+                "crosses": {
+                    "Club Brugge": "2",
+                    "Marseille": "4"
+                },
+                "fouls": {
+                    "Club Brugge": "10",
+                    "Marseille": "9"
+                },
+                "goalkeeper_saves": {
+                    "Club Brugge": "9",
+                    "Marseille": "2"
+                },
+                "offsides": {
+                    "Club Brugge": "2",
+                    "Marseille": "2"
+                },
+                "shots_blocked": {
+                    "Club Brugge": "3",
+                    "Marseille": "4"
+                },
+                "shots_off_target": {
+                    "Club Brugge": "3",
+                    "Marseille": "5"
+                },
+                "shots_on_target": {
+                    "Club Brugge": "5",
+                    "Marseille": "9"
+                },
+                "yellow_cards": {
+                    "Club Brugge": "1",
+                    "Marseille": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Club_Brugge_v_Marseille_2026_01_28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/569.webp",
+                    "name": "Club Brugge",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/club-brugge-v-marseille-2026-01-28-lSDd.webp",
+            "title": "Club Brugge vs Olympique Marseille"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "May 10, 2026",
+            "description": "Watch Le Havre vs Marseille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on May 10, 2026. The atmosphere was thick with anticipation on May 10, 2026, as Le Havre hosted Marseille for a high-stakes encounter in Ligue 1 . Both sides entered the match knowing the outcome would play a significant role in their seasonal ambitions, leading to a fiercely contested affair from the opening whistle. The penalty deadlock Following a first half characterized by tactical discipline and physical battles, the deadlock was finally broken shortly after the break. In the 52nd minute, a handball by Le Havre ’s Lucas Gourna-Douath led to a VAR review and a subsequent penalty for the visitors. Mason Greenwood stepped up in the 55th minute, confidently drilling the ball home to give Marseille the lead. The hosts were handed a golden opportunity to respond in the 71st minute when Sofiane Boufal was fouled by Facundo Medina , but the woodwork intervened, as Boufal ’s penalty ricocheted off the crossbar, preserving the narrow margin. Late drama and VAR intervention The closing stages were defined by frantic energy and tactical shifts from both benches. As Le Havre pushed for a late equalizer, the game reached a fever pitch in added time. A goal by Marseille substitute Igor Paixão in the 97th minute initially sent the away bench into celebration, but a lengthy VAR check ultimately ruled the strike out for offside. Despite a final surge from the hosts, highlighted by a header from Mbwana Samatta , Marseille held firm to secure a hard-fought victory.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Boufal",
+                    "team": "Le Havre",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Seko",
+                    "team": "Le Havre",
+                    "time": "47'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Greenwood",
+                    "score_update": "0 - 1",
+                    "team": "Marseille",
+                    "time": "55'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Zouaoui",
+                    "team": "Le Havre",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Nadi",
+                    "team": "Marseille",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Boufal",
+                    "score_update": "0 - 1",
+                    "team": "Le Havre",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Q. Timber",
+                    "team": "Marseille",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Ebonog",
+                    "team": "Le Havre",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "I. Paixão",
+                    "team": "Marseille",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Le Havre 0 - 1 Marseille"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Marseille 2 - 2 Toulouse"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Le Havre 0 - 1 Marseille"
+                        }
+                    ],
+                    "team": "Le Havre"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "18/10/2025",
+                        "teams_and_score": "Marseille 6 - 2 Le Havre"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "10/05/2025",
+                        "teams_and_score": "Le Havre 1 - 3 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "19/05/2024",
+                        "teams_and_score": "Le Havre 1 - 2 Marseille"
+                    },
+                    {
+                        "competition": "FA Cup",
+                        "date": "22/01/2012",
+                        "teams_and_score": "Marseille 3 - 1 Le Havre"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "17/01/2009",
+                        "teams_and_score": "Marseille 2 - 0 Le Havre"
+                    },
+                    {
+                        "competition": "FA Cup",
+                        "date": "08/01/2006",
+                        "teams_and_score": "Marseille 4 - 0 Le Havre"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "05/02/2003",
+                        "teams_and_score": "Marseille 2 - 0 Le Havre"
+                    }
+                ],
+                "summary": {
+                    "Le Havre_wins": "0",
+                    "Marseille_wins": "7",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Le Havre": "50%",
+                    "Marseille": "50%"
+                },
+                "corners": {
+                    "Le Havre": "3",
+                    "Marseille": "0"
+                },
+                "crosses": {
+                    "Le Havre": "0",
+                    "Marseille": "1"
+                },
+                "fouls": {
+                    "Le Havre": "20",
+                    "Marseille": "22"
+                },
+                "goalkeeper_saves": {
+                    "Le Havre": "2",
+                    "Marseille": "2"
+                },
+                "offsides": {
+                    "Le Havre": "4",
+                    "Marseille": "3"
+                },
+                "shots_blocked": {
+                    "Le Havre": "4",
+                    "Marseille": "1"
+                },
+                "shots_off_target": {
+                    "Le Havre": "4",
+                    "Marseille": "3"
+                },
+                "shots_on_target": {
+                    "Le Havre": "2",
+                    "Marseille": "3"
+                },
+                "yellow_cards": {
+                    "Le Havre": "4",
+                    "Marseille": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/le-havre-vs-marseille-2026-05-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/111.webp",
+                    "name": "Le Havre",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/le-havre-vs-marseille-2026-05-10-FehA.webp",
+            "title": "Le Havre vs Marseille"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Apr 18, 2026",
+            "description": "Watch Lorient vs Marseille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on April 18, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "P. Katseris",
+                    "score_update": "1 - 0",
+                    "team": "Lorient",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Pavard",
+                    "team": "Marseille",
+                    "time": "46'"
+                },
+                {
+                    "assist": "P. Pagis",
+                    "event_type": "Goal",
+                    "player": "B. Dieng",
+                    "score_update": "2 - 0",
+                    "team": "Lorient",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Nadir",
+                    "team": "Marseille",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Weah",
+                    "team": "Marseille",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Lorient 2 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Marseille 2 - 2 Toulouse"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 2 Lyon"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Lorient 2 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lorient 0 - 0 Nice"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lorient 2 - 2 Auxerre"
+                        }
+                    ],
+                    "team": "Lorient"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "12/09/2025",
+                        "teams_and_score": "Marseille 4 - 0 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "12/05/2024",
+                        "teams_and_score": "Marseille 3 - 1 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "09/04/2023",
+                        "teams_and_score": "Lorient 0 - 0 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "08/05/2022",
+                        "teams_and_score": "Lorient 0 - 3 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "17/04/2021",
+                        "teams_and_score": "Marseille 3 - 2 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "05/03/2017",
+                        "teams_and_score": "Lorient 1 - 4 Marseille"
+                    }
+                ],
+                "summary": {
+                    "Lorient_wins": "0",
+                    "Marseille_wins": "5",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lorient": "43%",
+                    "Marseille": "57%"
+                },
+                "corners": {
+                    "Lorient": "1",
+                    "Marseille": "7"
+                },
+                "crosses": {
+                    "Lorient": "2",
+                    "Marseille": "7"
+                },
+                "fouls": {
+                    "Lorient": "6",
+                    "Marseille": "10"
+                },
+                "goalkeeper_saves": {
+                    "Lorient": "2",
+                    "Marseille": "3"
+                },
+                "offsides": {
+                    "Lorient": "2",
+                    "Marseille": "0"
+                },
+                "shots_blocked": {
+                    "Lorient": "1",
+                    "Marseille": "1"
+                },
+                "shots_off_target": {
+                    "Lorient": "6",
+                    "Marseille": "13"
+                },
+                "shots_on_target": {
+                    "Lorient": "4",
+                    "Marseille": "2"
+                },
+                "yellow_cards": {
+                    "Lorient": "0",
+                    "Marseille": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Lorient_v_Olympique_Marseille_2026_04_18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/97.webp",
+                    "name": "Lorient",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lorient-v-olympique-marseille-2026-04-18-8NaP.webp",
+            "title": "Lorient vs Olympique Marseille"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Mar 14, 2026",
+            "description": "Watch Marseille vs Auxerre highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on March 14, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Medina",
+                    "team": "Marseille",
+                    "time": "22'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Egan-Riley",
+                    "team": "Marseille",
+                    "time": "37'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Okoh",
+                    "team": "Auxerre",
+                    "time": "45'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Pelissier",
+                    "team": "Auxerre",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Paixão",
+                    "team": "Marseille",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Gouiri",
+                    "score_update": "1 - 0",
+                    "team": "Marseille",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Q. Timber",
+                    "team": "Marseille",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Diomande",
+                    "team": "Auxerre",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "13/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Marseille 1 - 0 Auxerre"
+                        }
+                    ],
+                    "team": "Auxerre"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "13/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 1 - 0 Auxerre"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Marseille 2 - 2 Toulouse"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 2 Lyon"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "03/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris FC 2 - 2 Marseille"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "01/11/2025",
+                        "teams_and_score": "Auxerre 0 - 1 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Auxerre 3 - 0 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "30/04/2023",
+                        "teams_and_score": "Marseille 2 - 1 Auxerre"
+                    },
+                    {
+                        "competition": "Coupe de France 20/21",
+                        "date": "10/02/2021",
+                        "teams_and_score": "Auxerre 0 - 2 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "13/05/2012",
+                        "teams_and_score": "Marseille 3 - 0 Auxerre"
+                    }
+                ],
+                "summary": {
+                    "Auxerre_wins": "1",
+                    "Marseille_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Auxerre": "42%",
+                    "Marseille": "58%"
+                },
+                "corners": {
+                    "Auxerre": "2",
+                    "Marseille": "9"
+                },
+                "crosses": {
+                    "Auxerre": "0",
+                    "Marseille": "2"
+                },
+                "fouls": {
+                    "Auxerre": "17",
+                    "Marseille": "12"
+                },
+                "goalkeeper_saves": {
+                    "Auxerre": "2",
+                    "Marseille": "3"
+                },
+                "offsides": {
+                    "Auxerre": "0",
+                    "Marseille": "1"
+                },
+                "shots_blocked": {
+                    "Auxerre": "3",
+                    "Marseille": "6"
+                },
+                "shots_off_target": {
+                    "Auxerre": "2",
+                    "Marseille": "7"
+                },
+                "shots_on_target": {
+                    "Auxerre": "3",
+                    "Marseille": "3"
+                },
+                "yellow_cards": {
+                    "Auxerre": "2",
+                    "Marseille": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/marseille-vs-auxerre-2026-03-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/108.webp",
+                    "name": "Auxerre",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-vs-auxerre-2026-03-14-8OWF.webp",
+            "title": "Marseille vs Auxerre"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch Marseille vs Nice highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on April 26, 2026. The stage was set for a high-stakes Ligue 1 clash as two ambitious sides faced off in a match that promised plenty of tactical intrigue. Fans expected a battle of nerves and skill, and the opening exchanges did not disappoint in terms of intensity. Tactical Stalemate in the Opening Half On April 26, 2026 , Marseille and Nantes locked horns in a contest that began with both sides prioritizing defensive solidity. Marseille dominated the early possession, dictating the tempo through the midfield, while Nantes remained content to absorb pressure and strike on the counter. The physicality of the match was evident early on, with Matthis Abline receiving an early booking for a heavy challenge, followed by Quinten Timber seeing yellow for a professional foul to stop a breakaway. Despite numerous corner opportunities delivered by Remy Cabella , neither side could find a clear opening before the interval. An Eight-Minute Blitz The complexion of the game shifted dramatically early in the second half as Nantes produced a clinical spell of football. The deadlock was finally broken in the 50th minute when Matthis Abline turned provider for Ignatius Ganago , who finished expertly with his right foot. Before the home side could regroup, they were hit again in the 54th minute; Ganago this time provided the assist for Remy Cabella to double the lead. The collapse was finalized in the 58th minute as Mohamed Kaba set up Matthis Abline , who capped a superb individual display by making it 3-0 in a devastating eight-minute window. Marseille’s Pursuit and the Final Whistle Chasing a three-goal deficit, Marseille introduced Igor Paixao and Ange Lago to find a spark. Paixao was a constant threat from set-pieces, swinging in several dangerous corners, but the Nantes backline, anchored by Chidozie Awaziem , refused to buckle. Frustration boiled over late on for the hosts, with Facundo Medina entering the referee's book for a rough challenge. The match ended on a somber note for the home side as Hamed Traore was forced off with an injury in stoppage time. Despite holding 58% of the ball, Marseille could not find a way through, and the referee blew the final whistle after eight minutes of added time to confirm a resounding away win.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Abline",
+                    "team": "Marseille",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Q. Timber",
+                    "team": "Nice",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Lago",
+                    "team": "Nice",
+                    "time": "46'"
+                },
+                {
+                    "assist": "M. Abline",
+                    "event_type": "Goal",
+                    "player": "I. Ganago",
+                    "score_update": "1 - 0",
+                    "team": "Marseille",
+                    "time": "61'"
+                },
+                {
+                    "assist": "I. Ganago",
+                    "event_type": "Goal",
+                    "player": "R. Cabella",
+                    "score_update": "2 - 0",
+                    "team": "Marseille",
+                    "time": "76'"
+                },
+                {
+                    "assist": "M. Kaba",
+                    "event_type": "Goal",
+                    "player": "M. Abline",
+                    "score_update": "3 - 0",
+                    "team": "Marseille",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Medina",
+                    "team": "Nice",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Nantes 3 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Marseille 2 - 2 Toulouse"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Marseille 3 - 2 Lyon"
+                        }
+                    ],
+                    "team": "Nice"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Nantes 3 - 0 Marseille"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "04/01/2026",
+                        "teams_and_score": "Marseille 0 - 2 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "02/03/2025",
+                        "teams_and_score": "Marseille 2 - 0 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "10/03/2024",
+                        "teams_and_score": "Marseille 2 - 0 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "01/02/2023",
+                        "teams_and_score": "Nantes 0 - 2 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "20/04/2022",
+                        "teams_and_score": "Marseille 3 - 2 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "20/02/2021",
+                        "teams_and_score": "Nantes 1 - 1 Marseille"
+                    }
+                ],
+                "summary": {
+                    "Marseille_wins": "4",
+                    "Nice_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Marseille": "42%",
+                    "Nice": "58%"
+                },
+                "corners": {
+                    "Marseille": "7",
+                    "Nice": "8"
+                },
+                "crosses": {
+                    "Marseille": "4",
+                    "Nice": "3"
+                },
+                "fouls": {
+                    "Marseille": "12",
+                    "Nice": "11"
+                },
+                "goalkeeper_saves": {
+                    "Marseille": "8",
+                    "Nice": "2"
+                },
+                "offsides": {
+                    "Marseille": "2",
+                    "Nice": "1"
+                },
+                "shots_blocked": {
+                    "Marseille": "5",
+                    "Nice": "4"
+                },
+                "shots_off_target": {
+                    "Marseille": "6",
+                    "Nice": "4"
+                },
+                "shots_on_target": {
+                    "Marseille": "6",
+                    "Nice": "8"
+                },
+                "yellow_cards": {
+                    "Marseille": "1",
+                    "Nice": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/marseille-vs-nice-2026-04-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/84.webp",
+                    "name": "Nice",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-vs-nice-2026-04-26-6acX.webp",
+            "title": "Marseille vs Nice"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Marseille vs Rennes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on May 17, 2026. The stage was set for a highly anticipated Ligue 1 clash, as two tactical sides prepared to battle for vital points. On May 17, 2026, Marseille and Rennes met in a fixture that promised high intensity and crucial turning points. A Clinical Start Marseille wasted no time in asserting their dominance. Just 2 minutes into the game, Pierre-Emile Hoejbjerg found the back of the net with a clinical right-footed finish, set up by an assist from Mason Greenwood and a key pass by Timothy Weah . This early breakthrough forced Rennes to chase the game, yet the home side remained disciplined, effectively neutralizing any threat throughout the first half while dictating the flow of the match. Maintaining Control The momentum continued after the interval as the home side sought to put the result beyond doubt. At the 55th minute, Pierre-Emerick Aubameyang produced a moment of magic, lofting an exquisite lob over the goalkeeper following a pass from Pierre-Emile Hoejbjerg to bring the score to 3-0. Despite the mounting deficit, the visitors refused to surrender, maintaining pressure through late-game tactical shifts. In the 84th minute, Esteban Lepaul offered a glimmer of hope for the visitors, heading home a delivery from Arnaud Nordin to reduce the gap. The final minutes saw Rennes throw everything forward, with Quentin Merlin whipping in several dangerous corners. However, goalkeeper Geronimo Rulli stood firm, ensuring the scoreline remained intact as the referee signaled the end of the match, confirming a deserved victory for Marseille .",
+            "events_timeline": [
+                {
+                    "assist": "M. Greenwood",
+                    "event_type": "Goal",
+                    "player": "P. Højbjerg",
+                    "score_update": "1 - 0",
+                    "team": "Marseille",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Gouiri",
+                    "score_update": "2 - 0",
+                    "team": "Marseille",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Højbjerg",
+                    "team": "Marseille",
+                    "time": "49'"
+                },
+                {
+                    "assist": "P. Højbjerg",
+                    "event_type": "Goal",
+                    "player": "P. Aubameyang",
+                    "score_update": "3 - 0",
+                    "team": "Marseille",
+                    "time": "55'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Gouiri",
+                    "team": "Marseille",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Camara",
+                    "team": "Rennes",
+                    "time": "79'"
+                },
+                {
+                    "assist": "A. Nordin",
+                    "event_type": "Goal",
+                    "player": "E. Lepaul",
+                    "score_update": "3 - 1",
+                    "team": "Rennes",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Pavard",
+                    "team": "Marseille",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Marseille 3 - 1 Rennes"
+                        }
+                    ],
+                    "team": "Rennes"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 1 Rennes"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Coupe de France",
+                        "date": "03/02/2026",
+                        "teams_and_score": "Marseille 3 - 0 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "15/08/2025",
+                        "teams_and_score": "Rennes 1 - 0 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "17/05/2025",
+                        "teams_and_score": "Marseille 4 - 2 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "17/03/2024",
+                        "teams_and_score": "Rennes 2 - 0 Marseille"
+                    },
+                    {
+                        "competition": "Coupe de France 23/24",
+                        "date": "21/01/2024",
+                        "teams_and_score": "Rennes 1 - 1 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "03/12/2023",
+                        "teams_and_score": "Marseille 2 - 0 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "05/03/2023",
+                        "teams_and_score": "Rennes 0 - 1 Marseille"
+                    }
+                ],
+                "summary": {
+                    "Marseille_wins": "5",
+                    "Rennes_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Marseille": "45%",
+                    "Rennes": "55%"
+                },
+                "corners": {
+                    "Marseille": "4",
+                    "Rennes": "11"
+                },
+                "crosses": {
+                    "Marseille": "2",
+                    "Rennes": "7"
+                },
+                "fouls": {
+                    "Marseille": "11",
+                    "Rennes": "10"
+                },
+                "goalkeeper_saves": {
+                    "Marseille": "4",
+                    "Rennes": "8"
+                },
+                "offsides": {
+                    "Marseille": "2",
+                    "Rennes": "2"
+                },
+                "shots_blocked": {
+                    "Marseille": "7",
+                    "Rennes": "7"
+                },
+                "shots_off_target": {
+                    "Marseille": "9",
+                    "Rennes": "14"
+                },
+                "shots_on_target": {
+                    "Marseille": "11",
+                    "Rennes": "6"
+                },
+                "yellow_cards": {
+                    "Marseille": "3",
+                    "Rennes": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/marseille-vs-rennes-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/94.webp",
+                    "name": "Rennes",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-vs-rennes-2026-05-17-1LH3.webp",
+            "title": "Marseille vs Rennes"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Nantes vs Marseille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on May 2, 2026. The Stade de la Beaujoire played host to a tactical chess match on May 2, 2026, as Nantes and Marseille faced off in a highly anticipated Ligue 1 fixture. Both sides entered the contest looking to assert their dominance in the league standings, setting the stage for a match where patience and precision would eventually outweigh possession. A Tense and Physical Opening The first half was characterized by a lack of clear-cut chances and a high degree of physicality. Both teams struggled to find their rhythm in the final third, with much of the action restricted to set-piece deliveries that failed to test the opposing goalkeepers. Remy Cabella was busy for Nantes , delivering several dangerous corners, while Tochukwu Nnadi and Emerson attempted to spark Marseille into life from the flanks. Despite the frequent deliveries into the box, neither side could find a teammate to apply the finishing touch. Discipline became a talking point as the intensity grew. Nantes forward Matthis Abline received a yellow card in the 18th minute for a rough challenge, and Marseille 's Quinten Timber followed him into the book just after the half-hour mark for a tactical foul intended to halt a counter-attack. Pierre-Emerick Aubameyang thought he had found an opening for the visitors, but the veteran striker was flagged for offside, leaving the match scoreless as the teams headed into the break. The Second-Half Explosion The complexion of the match changed entirely following the restart as Nantes produced a devastating eight-minute spell that left Marseille reeling. The breakthrough arrived in the 50th minute when Matthis Abline turned provider, setting up Ignatius Ganago , who clinicaly slotted the ball home with his right foot to give the hosts the lead. Before the visitors could catch their breath, Nantes struck again. In the 54th minute, Ganago turned from scorer to creator, assisting Remy Cabella for a well-taken goal that doubled the advantage. The onslaught was completed in the 58th minute. Mohamed Kaba found Matthis Abline in a dangerous position, and the young forward capped off a magnificent individual performance by firing a right-footed shot into the net. Within the space of just eight minutes, Nantes had transformed a cagey affair into a dominant lead, leaving the Marseille defense shell-shocked and the home crowd in raptures. Marseille Struggles to Respond Marseille manager attempted to salvage the result with a flurry of substitutions, introducing Igor Paixao , Ange Lago , and Amine Gouiri . While the visitors controlled the lion's share of possession, finishing the match with 58%, they lacked the clinical edge shown by their opponents. Ange Lago had a golden opportunity to pull one back in the 82th minute with a powerful header, but Nantes goalkeeper Patrik Carlgren was equal to the task, making a comfortable save to preserve the clean sheet. The closing stages were marred by injuries and further cautions, with Facundo Medina receiving a yellow card for a rough foul. Marseille 's Hamed Traore was forced off the field in stoppage time after sustaining an injury, adding to a frustrating afternoon for the away side. Despite a late flurry of corners from Igor Paixao , the Nantes defense held firm, ensuring a comprehensive victory built on a clinical second-half masterclass.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Abline",
+                    "team": "Nantes",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Q. Timber",
+                    "team": "Marseille",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Lago",
+                    "team": "Marseille",
+                    "time": "46'"
+                },
+                {
+                    "assist": "M. Abline",
+                    "event_type": "Goal",
+                    "player": "I. Ganago",
+                    "score_update": "1 - 0",
+                    "team": "Nantes",
+                    "time": "61'"
+                },
+                {
+                    "assist": "I. Ganago",
+                    "event_type": "Goal",
+                    "player": "R. Cabella",
+                    "score_update": "2 - 0",
+                    "team": "Nantes",
+                    "time": "76'"
+                },
+                {
+                    "assist": "M. Kaba",
+                    "event_type": "Goal",
+                    "player": "M. Abline",
+                    "score_update": "3 - 0",
+                    "team": "Nantes",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Medina",
+                    "team": "Marseille",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Nantes 3 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Marseille 2 - 2 Toulouse"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 2 Lyon"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Nantes 3 - 0 Marseille"
+                        }
+                    ],
+                    "team": "Nantes"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "04/01/2026",
+                        "teams_and_score": "Marseille 0 - 2 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "02/03/2025",
+                        "teams_and_score": "Marseille 2 - 0 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "10/03/2024",
+                        "teams_and_score": "Marseille 2 - 0 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "01/02/2023",
+                        "teams_and_score": "Nantes 0 - 2 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "20/04/2022",
+                        "teams_and_score": "Marseille 3 - 2 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "20/02/2021",
+                        "teams_and_score": "Nantes 1 - 1 Marseille"
+                    }
+                ],
+                "summary": {
+                    "Marseille_wins": "4",
+                    "Nantes_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Marseille": "58%",
+                    "Nantes": "42%"
+                },
+                "corners": {
+                    "Marseille": "8",
+                    "Nantes": "7"
+                },
+                "crosses": {
+                    "Marseille": "3",
+                    "Nantes": "4"
+                },
+                "fouls": {
+                    "Marseille": "11",
+                    "Nantes": "12"
+                },
+                "goalkeeper_saves": {
+                    "Marseille": "2",
+                    "Nantes": "8"
+                },
+                "offsides": {
+                    "Marseille": "1",
+                    "Nantes": "2"
+                },
+                "shots_blocked": {
+                    "Marseille": "4",
+                    "Nantes": "5"
+                },
+                "shots_off_target": {
+                    "Marseille": "4",
+                    "Nantes": "6"
+                },
+                "shots_on_target": {
+                    "Marseille": "8",
+                    "Nantes": "6"
+                },
+                "yellow_cards": {
+                    "Marseille": "3",
+                    "Nantes": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/nantes-vs-marseille-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/83.webp",
+                    "name": "Nantes",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nantes-vs-marseille-2026-05-02-vIJ3.webp",
+            "title": "Nantes vs Marseille"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Dec 14, 2025",
+            "description": "Watch Marseille vs Monaco highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on December 14, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Monaco"
+                },
+                "home_team_form": {
+                    "team": "Marseille"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Marseille_v_Monaco_2025_12_14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/91.webp",
+                    "name": "Monaco",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-v-monaco-2025-12-14.webp",
+            "title": "Olympique Marseille vs AS Monaco"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Nov 8, 2025",
+            "description": "Watch Marseille vs Arles highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on November 8, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Arles"
+                },
+                "home_team_form": {
+                    "team": "Marseille"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Marseille_v_Brest_2025_11_08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4652.webp",
+                    "name": "Arles",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-v-brest-2025-11-08.webp",
+            "title": "Olympique Marseille vs Brest"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Mar 1, 2026",
+            "description": "Watch Marseille vs Lyon highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on March 1, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "Endrick",
+                    "event_type": "Goal",
+                    "player": "C. Tolisso",
+                    "score_update": "0 - 1",
+                    "team": "Lyon",
+                    "time": "3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Mata",
+                    "team": "Lyon",
+                    "time": "30'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Morton",
+                    "team": "Lyon",
+                    "time": "45+1'"
+                },
+                {
+                    "assist": "P. Højbjerg",
+                    "event_type": "Goal",
+                    "player": "I. Paixão",
+                    "score_update": "1 - 1",
+                    "team": "Marseille",
+                    "time": "52'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Kondogbia",
+                    "team": "Marseille",
+                    "time": "74'"
+                },
+                {
+                    "assist": "Endrick",
+                    "event_type": "Goal",
+                    "player": "R. Himbert",
+                    "score_update": "1 - 2",
+                    "team": "Lyon",
+                    "time": "76'"
+                },
+                {
+                    "assist": "I. Paixão",
+                    "event_type": "Goal",
+                    "player": "P. Aubameyang",
+                    "score_update": "2 - 2",
+                    "team": "Marseille",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Aguerd",
+                    "team": "Marseille",
+                    "time": "83'"
+                },
+                {
+                    "assist": "E. Nwaneri",
+                    "event_type": "Goal",
+                    "player": "P. Aubameyang",
+                    "score_update": "3 - 2",
+                    "team": "Marseille",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Abdelli",
+                    "team": "Marseille",
+                    "time": "90+8'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Marseille 3 - 2 Lyon"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Lyon 2 - 0 Laval"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Lyon 1 - 0 Lille"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Lyon 4 - 2 PAOK FC"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "25/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Metz 2 - 5 Lyon"
+                        }
+                    ],
+                    "team": "Lyon"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 2 Lyon"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "03/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris FC 2 - 2 Marseille"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Brugge 3 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "24/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 1 Lens"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "31/08/2025",
+                        "teams_and_score": "Lyon 1 - 0 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "02/02/2025",
+                        "teams_and_score": "Marseille 3 - 2 Lyon"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "04/02/2024",
+                        "teams_and_score": "Lyon 1 - 0 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "23/04/2023",
+                        "teams_and_score": "Lyon 1 - 2 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "01/05/2022",
+                        "teams_and_score": "Marseille 0 - 3 Lyon"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "28/02/2021",
+                        "teams_and_score": "Marseille 1 - 1 Lyon"
+                    }
+                ],
+                "summary": {
+                    "Lyon_wins": "3",
+                    "Marseille_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lyon": "48%",
+                    "Marseille": "52%"
+                },
+                "corners": {
+                    "Lyon": "1",
+                    "Marseille": "8"
+                },
+                "crosses": {
+                    "Lyon": "1",
+                    "Marseille": "8"
+                },
+                "fouls": {
+                    "Lyon": "8",
+                    "Marseille": "16"
+                },
+                "goalkeeper_saves": {
+                    "Lyon": "4",
+                    "Marseille": "4"
+                },
+                "offsides": {
+                    "Lyon": "4",
+                    "Marseille": "0"
+                },
+                "shots_blocked": {
+                    "Lyon": "1",
+                    "Marseille": "6"
+                },
+                "shots_off_target": {
+                    "Lyon": "5",
+                    "Marseille": "5"
+                },
+                "shots_on_target": {
+                    "Lyon": "6",
+                    "Marseille": "7"
+                },
+                "yellow_cards": {
+                    "Lyon": "2",
+                    "Marseille": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Marseille_v_Lyon_2026_03_01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/80.webp",
+                    "name": "Lyon",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-v-lyon-2026-03-01-K5iW.webp",
+            "title": "Olympique Marseille vs Olympique Lyonnais"
+        },
+        {
+            "competition": "Coupe de France",
+            "competition_cover": "https://refooty.com/covers/coupe-de-france.webp",
+            "date": "Feb 3, 2026",
+            "description": "Watch Marseille vs Rennes highlights and goals from Coupe de France on ReFooty: Football Highlights Hub. Match played on February 3, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "T. Weah",
+                    "event_type": "Goal",
+                    "player": "A. Gouiri",
+                    "score_update": "1 - 0",
+                    "team": "Marseille",
+                    "time": "2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Nwaneri",
+                    "team": "Marseille",
+                    "time": "22'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Seidu",
+                    "team": "Rennes",
+                    "time": "42'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Højbjerg",
+                    "team": "Marseille",
+                    "time": "45+3'"
+                },
+                {
+                    "assist": "A. Gouiri",
+                    "event_type": "Goal",
+                    "player": "M. Greenwood",
+                    "score_update": "2 - 0",
+                    "team": "Marseille",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Q. Merlin",
+                    "team": "Rennes",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Ait Boudlal",
+                    "team": "Rennes",
+                    "time": "76'"
+                },
+                {
+                    "assist": "M. Greenwood",
+                    "event_type": "Goal",
+                    "player": "P. Aubameyang",
+                    "score_update": "3 - 0",
+                    "team": "Marseille",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. De Zerbi",
+                    "team": "Marseille",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Kondogbia",
+                    "team": "Marseille",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Balerdi",
+                    "team": "Marseille",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Embolo",
+                    "team": "Rennes",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Coupe de France",
+                            "date": "03/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Marseille 3 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "L",
+                            "teams_and_score": "AS Monaco 4 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Chantilly US 1 - 3 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Lille 0 - 2 Rennes"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "21/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Rennes 3 - 0 Les Sables VF"
+                        }
+                    ],
+                    "team": "Rennes"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Coupe de France",
+                            "date": "03/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris FC 2 - 2 Marseille"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Brugge 3 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "24/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 1 Lens"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "21/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Marseille 0 - 3 Liverpool"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "15/08/2025",
+                        "teams_and_score": "Rennes 1 - 0 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "17/05/2025",
+                        "teams_and_score": "Marseille 4 - 2 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "17/03/2024",
+                        "teams_and_score": "Rennes 2 - 0 Marseille"
+                    },
+                    {
+                        "competition": "Coupe de France 23/24",
+                        "date": "21/01/2024",
+                        "teams_and_score": "Rennes 1 - 1 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "03/12/2023",
+                        "teams_and_score": "Marseille 2 - 0 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "05/03/2023",
+                        "teams_and_score": "Rennes 0 - 1 Marseille"
+                    },
+                    {
+                        "competition": "Coupe de France 22/23",
+                        "date": "20/01/2023",
+                        "teams_and_score": "Marseille 1 - 0 Rennes"
+                    }
+                ],
+                "summary": {
+                    "Marseille_wins": "4",
+                    "Rennes_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Marseille": "49%",
+                    "Rennes": "51%"
+                },
+                "corners": {
+                    "Marseille": "2",
+                    "Rennes": "3"
+                },
+                "fouls": {
+                    "Marseille": "19",
+                    "Rennes": "12"
+                },
+                "goalkeeper_saves": {
+                    "Marseille": "4",
+                    "Rennes": "1"
+                },
+                "offsides": {
+                    "Marseille": "4",
+                    "Rennes": "1"
+                },
+                "shots_blocked": {
+                    "Marseille": "1",
+                    "Rennes": "3"
+                },
+                "shots_off_target": {
+                    "Marseille": "4",
+                    "Rennes": "4"
+                },
+                "shots_on_target": {
+                    "Marseille": "4",
+                    "Rennes": "4"
+                },
+                "yellow_cards": {
+                    "Marseille": "5",
+                    "Rennes": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Marseille_v_Rennes_2026_02_03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/94.webp",
+                    "name": "Rennes",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-v-rennes-2026-02-03-BL0E.webp",
+            "title": "Olympique Marseille vs Rennes"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Feb 14, 2026",
+            "description": "Watch Marseille vs Strasbourg highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on February 14, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Gouiri",
+                    "event_type": "Goal",
+                    "player": "M. Greenwood",
+                    "score_update": "1 - 0",
+                    "team": "Marseille",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Pavard",
+                    "team": "Marseille",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Aguerd",
+                    "team": "Marseille",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Gouiri",
+                    "score_update": "2 - 0",
+                    "team": "Marseille",
+                    "time": "47'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Paixão",
+                    "team": "Marseille",
+                    "time": "72'"
+                },
+                {
+                    "assist": "M. Godo",
+                    "event_type": "Goal",
+                    "player": "S. Nanasi",
+                    "score_update": "2 - 1",
+                    "team": "Strasbourg",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Panichelli",
+                    "team": "Strasbourg",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Panichelli",
+                    "score_update": "2 - 2",
+                    "team": "Strasbourg",
+                    "time": "90+7'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Weah",
+                    "team": "Marseille",
+                    "time": "90+8'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Barco",
+                    "team": "Strasbourg",
+                    "time": "90+9'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "14/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Marseille 2 - 2 Strasbourg"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Strasbourg 3 - 1 AS Monaco"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Strasbourg 1 - 2 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "10/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Avranches 0 - 6 Strasbourg"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Nice 1 - 1 Strasbourg"
+                        }
+                    ],
+                    "team": "Strasbourg"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "14/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Marseille 2 - 2 Strasbourg"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "03/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris FC 2 - 2 Marseille"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Brugge 3 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "24/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 1 Lens"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "26/09/2025",
+                        "teams_and_score": "Strasbourg 1 - 2 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "19/01/2025",
+                        "teams_and_score": "Marseille 1 - 1 Strasbourg"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "12/01/2024",
+                        "teams_and_score": "Marseille 1 - 1 Strasbourg"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "12/03/2023",
+                        "teams_and_score": "Marseille 2 - 2 Strasbourg"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "21/05/2022",
+                        "teams_and_score": "Marseille 4 - 0 Strasbourg"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "30/04/2021",
+                        "teams_and_score": "Marseille 1 - 1 Strasbourg"
+                    }
+                ],
+                "summary": {
+                    "Marseille_wins": "2",
+                    "Strasbourg_wins": "0",
+                    "draws": "4"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Marseille": "44%",
+                    "Strasbourg": "57%"
+                },
+                "corners": {
+                    "Marseille": "5",
+                    "Strasbourg": "5"
+                },
+                "crosses": {
+                    "Marseille": "2",
+                    "Strasbourg": "7"
+                },
+                "fouls": {
+                    "Marseille": "11",
+                    "Strasbourg": "10"
+                },
+                "goalkeeper_saves": {
+                    "Marseille": "2",
+                    "Strasbourg": "4"
+                },
+                "shots_blocked": {
+                    "Marseille": "0",
+                    "Strasbourg": "1"
+                },
+                "shots_off_target": {
+                    "Marseille": "4",
+                    "Strasbourg": "7"
+                },
+                "shots_on_target": {
+                    "Marseille": "6",
+                    "Strasbourg": "4"
+                },
+                "yellow_cards": {
+                    "Marseille": "4",
+                    "Strasbourg": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Marseille_v_Strasbourg_2026_02_14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/95.webp",
+                    "name": "Strasbourg",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-v-strasbourg-2026-02-14-ZZmr.webp",
+            "title": "Olympique Marseille vs Strasbourg"
+        },
+        {
+            "competition": "Coupe de France",
+            "competition_cover": "https://refooty.com/covers/coupe-de-france.webp",
+            "date": "Mar 4, 2026",
+            "description": "Watch Marseille vs Toulouse highlights and goals from Coupe de France on ReFooty: Football Highlights Hub. Match played on March 4, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Greenwood",
+                    "score_update": "1 - 0",
+                    "team": "Marseille",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Abdelli",
+                    "team": "Marseille",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Y. Gboho",
+                    "score_update": "1 - 1",
+                    "team": "Toulouse",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Greenwood",
+                    "team": "Marseille",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Da Silva",
+                    "team": "Toulouse",
+                    "time": "61'"
+                },
+                {
+                    "assist": "G. Kondogbia",
+                    "event_type": "Goal",
+                    "player": "I. Paixão",
+                    "score_update": "2 - 1",
+                    "team": "Marseille",
+                    "time": "46'"
+                },
+                {
+                    "assist": "A. Dønnum",
+                    "event_type": "Goal",
+                    "player": "C. Cresswell",
+                    "score_update": "2 - 2",
+                    "team": "Toulouse",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Greenwood",
+                    "score_update": "1 - 1",
+                    "team": "Marseille",
+                    "time": "PEN 1"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Dønnum",
+                    "score_update": "0 - 1",
+                    "team": "Toulouse",
+                    "time": "PEN 1"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Aubameyang",
+                    "score_update": "2 - 2",
+                    "team": "Marseille",
+                    "time": "PEN 2"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Y. Gboho",
+                    "score_update": "1 - 2",
+                    "team": "Toulouse",
+                    "time": "PEN 2"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Balerdi",
+                    "score_update": "2 - 3",
+                    "team": "Marseille",
+                    "time": "PEN 3"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Sidibe",
+                    "score_update": "2 - 3",
+                    "team": "Toulouse",
+                    "time": "PEN 3"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Aguerd",
+                    "score_update": "3 - 3",
+                    "team": "Marseille",
+                    "time": "PEN 4"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Cásseres Jr",
+                    "score_update": "2 - 3",
+                    "team": "Toulouse",
+                    "time": "PEN 4"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Nwaneri",
+                    "score_update": "3 - 4",
+                    "team": "Marseille",
+                    "time": "PEN 5"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Diop",
+                    "score_update": "3 - 4",
+                    "team": "Toulouse",
+                    "time": "PEN 5"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Marseille 2 - 2 Toulouse"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Rennes 1 - 0 Toulouse"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Toulouse 1 - 0 Amiens"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Toulouse 0 - 0 Auxerre"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Angers 1 - 1 Toulouse"
+                        }
+                    ],
+                    "team": "Toulouse"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Marseille 2 - 2 Toulouse"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 2 Lyon"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "03/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris FC 2 - 2 Marseille"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Brugge 3 - 0 Marseille"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Marseille 2 - 2 Toulouse"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "06/04/2025",
+                        "teams_and_score": "Marseille 3 - 2 Toulouse"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "21/04/2024",
+                        "teams_and_score": "Toulouse 2 - 2 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "19/02/2023",
+                        "teams_and_score": "Toulouse 2 - 3 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 19/20",
+                        "date": "08/02/2020",
+                        "teams_and_score": "Marseille 1 - 0 Toulouse"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "18/05/2019",
+                        "teams_and_score": "Toulouse 2 - 5 Marseille"
+                    }
+                ],
+                "summary": {
+                    "Marseille_wins": "4",
+                    "Toulouse_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Marseille": "63%",
+                    "Toulouse": "37%"
+                },
+                "corners": {
+                    "Marseille": "5",
+                    "Toulouse": "5"
+                },
+                "fouls": {
+                    "Marseille": "9",
+                    "Toulouse": "10"
+                },
+                "goalkeeper_saves": {
+                    "Marseille": "4",
+                    "Toulouse": "1"
+                },
+                "offsides": {
+                    "Marseille": "3",
+                    "Toulouse": "2"
+                },
+                "shots_blocked": {
+                    "Marseille": "4",
+                    "Toulouse": "2"
+                },
+                "shots_off_target": {
+                    "Marseille": "6",
+                    "Toulouse": "3"
+                },
+                "shots_on_target": {
+                    "Marseille": "3",
+                    "Toulouse": "6"
+                },
+                "yellow_cards": {
+                    "Marseille": "2",
+                    "Toulouse": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Marseille_v_Toulouse_2026_03_04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/96.webp",
+                    "name": "Toulouse",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-v-toulouse-2026-03-04-Cnry.webp",
+            "title": "Olympique Marseille vs Toulouse"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Feb 8, 2026",
+            "description": "Watch Paris Saint Germain vs Marseille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on February 8, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Vitinha",
+                    "team": "Paris Saint Germain",
+                    "time": "1'"
+                },
+                {
+                    "assist": "N. Mendes",
+                    "event_type": "Goal",
+                    "player": "O. Dembélé",
+                    "score_update": "1 - 0",
+                    "team": "Paris Saint Germain",
+                    "time": "16'"
+                },
+                {
+                    "assist": "S. Mayulu",
+                    "event_type": "Goal",
+                    "player": "O. Dembélé",
+                    "score_update": "2 - 0",
+                    "team": "Paris Saint Germain",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Zaïre-Emery",
+                    "team": "Paris Saint Germain",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Medina",
+                    "team": "Paris Saint Germain",
+                    "time": "64'"
+                },
+                {
+                    "assist": "O. Dembélé",
+                    "event_type": "Goal",
+                    "player": "K. Kvaratskhelia",
+                    "score_update": "4 - 0",
+                    "team": "Paris Saint Germain",
+                    "time": "66'"
+                },
+                {
+                    "assist": "S. Mayulu",
+                    "event_type": "Goal",
+                    "player": "L. Kang-in",
+                    "score_update": "5 - 0",
+                    "team": "Paris Saint Germain",
+                    "time": "74'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Emerson",
+                    "team": "Marseille",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Balerdi",
+                    "team": "Marseille",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 5 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "03/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris FC 2 - 2 Marseille"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Brugge 3 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "24/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 1 Lens"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 5 - 0 Marseille"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris Saint-Germain 1 - 1 Newcastle United"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "23/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Auxerre 0 - 1 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "20/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting CP 2 - 1 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "16/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 3 - 0 Lille"
+                        }
+                    ],
+                    "team": "Paris Saint Germain"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Trophee des Champions",
+                        "date": "08/01/2026",
+                        "teams_and_score": "Paris Saint-Germain 2 - 2 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "22/09/2025",
+                        "teams_and_score": "Marseille 1 - 0 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "16/03/2025",
+                        "teams_and_score": "Paris Saint-Germain 3 - 1 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "31/03/2024",
+                        "teams_and_score": "Marseille 0 - 2 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "26/02/2023",
+                        "teams_and_score": "Marseille 0 - 3 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Coupe de France 22/23",
+                        "date": "08/02/2023",
+                        "teams_and_score": "Marseille 2 - 1 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "16/10/2022",
+                        "teams_and_score": "Paris Saint-Germain 1 - 0 Marseille"
+                    }
+                ],
+                "summary": {
+                    "Marseille_wins": "5",
+                    "Paris Saint Germain_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Marseille": "42%",
+                    "Paris Saint Germain": "58%"
+                },
+                "corners": {
+                    "Marseille": "2",
+                    "Paris Saint Germain": "5"
+                },
+                "crosses": {
+                    "Marseille": "2",
+                    "Paris Saint Germain": "3"
+                },
+                "fouls": {
+                    "Marseille": "18",
+                    "Paris Saint Germain": "11"
+                },
+                "goalkeeper_saves": {
+                    "Marseille": "3",
+                    "Paris Saint Germain": "3"
+                },
+                "offsides": {
+                    "Marseille": "1",
+                    "Paris Saint Germain": "3"
+                },
+                "shots_blocked": {
+                    "Marseille": "4",
+                    "Paris Saint Germain": "3"
+                },
+                "shots_off_target": {
+                    "Marseille": "2",
+                    "Paris Saint Germain": "12"
+                },
+                "shots_on_target": {
+                    "Marseille": "3",
+                    "Paris Saint Germain": "7"
+                },
+                "yellow_cards": {
+                    "Marseille": "2",
+                    "Paris Saint Germain": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/PSG_v_Marseille_2026_02_08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/85.webp",
+                    "name": "Paris Saint Germain",
+                    "score": "5"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/psg-v-marseille-2026-02-08-mS4R.webp",
+            "title": "Paris SG vs Olympique Marseille"
+        }
+    ]
+}

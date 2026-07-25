@@ -1,0 +1,42 @@
+{
+    "team": "Athletico Mineiro",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 3, 2026",
+            "description": "Watch Chapecoense AF vs Atletico MG highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 3, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/chapecoense-athletico-mineiro-2026-04-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/chapecoense-athletico-mineiro-2026-04-03-hnNA.webp",
+            "title": "Chapecoense - Athletico Mineiro"
+        }
+    ]
+}

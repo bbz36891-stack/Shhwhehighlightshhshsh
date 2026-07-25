@@ -1,0 +1,42 @@
+{
+    "team": "Club Universitario",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 15, 2026",
+            "description": "Watch Club Universitario vs Coquimbo Unido highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 15, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/club-universitario-vs-coquimbo-unido-2026-04-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/club-universitario-vs-coquimbo-unido-2026-04-15-MMEC.webp",
+            "title": "Club Universitario vs Coquimbo Unido"
+        }
+    ]
+}

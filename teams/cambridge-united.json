@@ -1,0 +1,831 @@
+{
+    "team": "Cambridge United",
+    "team_logo": "",
+    "total_matches": 10,
+    "matches": [
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Mar 28, 2026",
+            "description": "Watch Barnet vs Cambridge United highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on March 28, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/barnet-vs-cambridge-united-2026-03-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/barnet-vs-cambridge-united-2026-03-28-KY3v.webp",
+            "title": "Barnet vs Cambridge United"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Apr 17, 2026",
+            "description": "Watch Bromley vs Cambridge United highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on April 17, 2026. The League Two encounter between Bromley and Cambridge United promised to be a battle of persistence and tactical discipline from the very first whistle. With both sides desperate for points to climb the table, the atmosphere at the stadium was thick with anticipation for a match that would test the physical and mental limits of both squads. Early Friction and the Opening Goal The match, held on April 17, 2026 , began with high physical intensity, resulting in a flurry of yellow cards within the first half-hour. Kacper Lopata , Mason Hancock , and Aden Flint were all cautioned as the teams fought for midfield supremacy. However, the deadlock was finally broken in the 37th minute when Ashley Charles found Ben Thompson with a precise pass, allowing the latter to clinicaly find the back of the net and give Bromley the lead heading into the break. Second Half Dominance After the restart, Bromley elevated their game to a level that Cambridge United simply could not match. In the 60th minute, Nicke Kabamba turned provider for Mitchell Pinnock , who finished with aplomb to double the advantage. The momentum stayed firmly with the hosts, and just two minutes later, substitute Jid Okeke —who had replaced the injured Harrison Burke late in the first half—seized his moment to score the third, leaving the visitors shell-shocked. Sealing the Result Refusing to take their foot off the gas, Bromley added a fourth in the 67th minute. Omar Sowunmi was the beneficiary of a brilliant delivery from Mitchell Pinnock , effectively ending any hopes of a comeback. The closing stages were marked by tactical substitutions and game management, with the likes of Aaron Loupalo-Bi and Jamie Jellis entering the fray. Despite a late yellow card for Jellis , Bromley remained in total control until the final whistle, securing a emphatic victory.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Łopata",
+                    "team": "Cambridge United",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Hancock",
+                    "team": "Cambridge United",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Flint",
+                    "team": "Cambridge United",
+                    "time": "31'"
+                },
+                {
+                    "assist": "A. Charles",
+                    "event_type": "Goal",
+                    "player": "B. Thompson",
+                    "score_update": "1 - 0",
+                    "team": "Bromley",
+                    "time": "46'"
+                },
+                {
+                    "assist": "N. Kabamba",
+                    "event_type": "Goal",
+                    "player": "M. Pinnock",
+                    "score_update": "2 - 0",
+                    "team": "Bromley",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Okeke",
+                    "score_update": "2 - 1",
+                    "team": "Cambridge United",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Pinnock",
+                    "event_type": "Goal",
+                    "player": "O. Sowunmi",
+                    "score_update": "3 - 1",
+                    "team": "Bromley",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Jellis",
+                    "team": "Cambridge United",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Bromley 3 - 1 Walsall"
+                        }
+                    ],
+                    "team": "Cambridge United"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Bromley 3 - 1 Walsall"
+                        }
+                    ],
+                    "team": "Bromley"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "League 2",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Walsall 3 - 1 Bromley"
+                    },
+                    {
+                        "competition": "League 2",
+                        "date": "13/03/2025",
+                        "teams_and_score": "Bromley 2 - 2 Walsall"
+                    }
+                ],
+                "summary": {
+                    "Bromley_wins": "0",
+                    "Cambridge United_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bromley": "54%",
+                    "Cambridge United": "46%"
+                },
+                "corners": {
+                    "Bromley": "11",
+                    "Cambridge United": "5"
+                },
+                "crosses": {
+                    "Bromley": "10",
+                    "Cambridge United": "5"
+                },
+                "fouls": {
+                    "Bromley": "4",
+                    "Cambridge United": "10"
+                },
+                "goalkeeper_saves": {
+                    "Bromley": "4",
+                    "Cambridge United": "4"
+                },
+                "offsides": {
+                    "Bromley": "2",
+                    "Cambridge United": "1"
+                },
+                "shots_blocked": {
+                    "Bromley": "8",
+                    "Cambridge United": "4"
+                },
+                "shots_off_target": {
+                    "Bromley": "7",
+                    "Cambridge United": "4"
+                },
+                "shots_on_target": {
+                    "Bromley": "7",
+                    "Cambridge United": "5"
+                },
+                "yellow_cards": {
+                    "Bromley": "0",
+                    "Cambridge United": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/bromley-vs-cambridge-united-2026-04-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1370.webp",
+                    "name": "Cambridge United",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1832.webp",
+                    "name": "Bromley",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bromley-vs-cambridge-united-2026-04-17-HCxM.webp",
+            "title": "Bromley vs Cambridge United"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Cambridge United vs Barrow highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on May 2, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Kaikai",
+                    "team": "Barrow",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Dancey",
+                    "team": "Cambridge United",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Gibbons",
+                    "team": "Barrow",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. R. Mpanzu",
+                    "team": "Barrow",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Crewe Alexandra 0 - 0 Cambridge United"
+                        }
+                    ],
+                    "team": "Barrow"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Crewe Alexandra 0 - 0 Cambridge United"
+                        }
+                    ],
+                    "team": "Cambridge United"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "League 2",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Cambridge United 2 - 1 Crewe Alexandra"
+                    },
+                    {
+                        "competition": "League 1 21/22",
+                        "date": "22/01/2022",
+                        "teams_and_score": "Cambridge United 1 - 0 Crewe Alexandra"
+                    },
+                    {
+                        "competition": "League Two",
+                        "date": "14/09/2019",
+                        "teams_and_score": "Crewe Alexandra 2 - 3 Cambridge United"
+                    }
+                ],
+                "summary": {
+                    "Barrow_wins": "0",
+                    "Cambridge United_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Barrow": "39%",
+                    "Cambridge United": "61%"
+                },
+                "corners": {
+                    "Barrow": "6",
+                    "Cambridge United": "8"
+                },
+                "crosses": {
+                    "Barrow": "4",
+                    "Cambridge United": "6"
+                },
+                "fouls": {
+                    "Barrow": "20",
+                    "Cambridge United": "12"
+                },
+                "goalkeeper_saves": {
+                    "Barrow": "2",
+                    "Cambridge United": "4"
+                },
+                "offsides": {
+                    "Barrow": "0",
+                    "Cambridge United": "3"
+                },
+                "shots_blocked": {
+                    "Barrow": "3",
+                    "Cambridge United": "2"
+                },
+                "shots_off_target": {
+                    "Barrow": "2",
+                    "Cambridge United": "4"
+                },
+                "shots_on_target": {
+                    "Barrow": "5",
+                    "Cambridge United": "2"
+                },
+                "yellow_cards": {
+                    "Barrow": "3",
+                    "Cambridge United": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cambridge-united-vs-barrow-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1819.webp",
+                    "name": "Barrow",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1370.webp",
+                    "name": "Cambridge United",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cambridge-united-vs-barrow-2026-05-02-raH4.webp",
+            "title": "Cambridge United vs Barrow"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 14, 2026",
+            "description": "Watch Cambridge United vs Bristol Rovers highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cambridge-united-vs-bristol-rovers-2026-02-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cambridge-united-vs-bristol-rovers-2026-02-14-zNec.webp",
+            "title": "Cambridge United vs Bristol Rovers"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Mar 14, 2026",
+            "description": "Watch Cambridge United vs Gillingham highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on March 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cambridge-united-vs-gillingham-2026-03-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cambridge-united-vs-gillingham-2026-03-14-zqOG.webp",
+            "title": "Cambridge United vs Gillingham"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Apr 22, 2026",
+            "description": "Watch Cambridge United vs Grimsby highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on April 22, 2026. Cambridge United and Grimsby Town faced off in a highly anticipated League Two clash that promised tactical intrigue and physical intensity. The match at the Abbey Stadium on April 22, 2026 , saw both sides searching for a breakthrough in a contest defined by fine margins and a high-stakes atmosphere. Penalty Heartbreak in the Opening Period The football on display in the opening period was characterized by high energy and defensive discipline as both teams looked to establish dominance in the midfield. The defining moment of the first half arrived in the 24th minute when Cambridge United were awarded a penalty, giving them a golden opportunity to take the lead. Ben Knight stepped up to the spot with a massive chance to shift the momentum, but he failed to convert, much to the frustration of the home support. As the half progressed, the game grew increasingly physical, leading to a yellow card for Sullay Kaikai in the 32nd minute as tempers began to simmer. Tactical Shifts and Rising Tension The second half resumed with immediate tactical adjustments, as Elliott Nevitt replaced Louis Appere to provide a different dimension to the home side's attack. However, the flow of the game became frequently interrupted by fouls and cautious play from both camps. In the 53rd minute, the referee was forced to intervene twice in quick succession, issuing yellow cards to both James Gibbons and Stan Dancey following a heated exchange. Managers from both sides turned to their benches to find a spark, with James Brophy , Alfie Pond , and Luca Moore all introduced as the game entered a crucial phase. A Gritty Conclusion As the match entered its final stages, the intensity remained high despite the lack of a clinical finish. A late booking for Pelly-Ruddock Mpanzu in the 84th minute highlighted the competitive edge that persisted until the final whistle. Grimsby Town introduced Shilow Tracey and Adrien Thibaut in the closing minutes to test the weary Cambridge United backline, but clear-cut openings remained elusive. This sports spectacle eventually concluded with both sides sharing the spoils, a result that showcased defensive resilience over offensive flair in a hard-fought encounter.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Kaikai",
+                    "team": "Grimsby",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Dancey",
+                    "team": "Cambridge United",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Gibbons",
+                    "team": "Grimsby",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. R. Mpanzu",
+                    "team": "Grimsby",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Crewe Alexandra 0 - 0 Cambridge United"
+                        }
+                    ],
+                    "team": "Grimsby"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Crewe Alexandra 0 - 0 Cambridge United"
+                        }
+                    ],
+                    "team": "Cambridge United"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "League 2",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Cambridge United 2 - 1 Crewe Alexandra"
+                    },
+                    {
+                        "competition": "League 1 21/22",
+                        "date": "22/01/2022",
+                        "teams_and_score": "Cambridge United 1 - 0 Crewe Alexandra"
+                    },
+                    {
+                        "competition": "League Two",
+                        "date": "14/09/2019",
+                        "teams_and_score": "Crewe Alexandra 2 - 3 Cambridge United"
+                    }
+                ],
+                "summary": {
+                    "Cambridge United_wins": "3",
+                    "Grimsby_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cambridge United": "61%",
+                    "Grimsby": "39%"
+                },
+                "corners": {
+                    "Cambridge United": "8",
+                    "Grimsby": "6"
+                },
+                "crosses": {
+                    "Cambridge United": "6",
+                    "Grimsby": "4"
+                },
+                "fouls": {
+                    "Cambridge United": "12",
+                    "Grimsby": "20"
+                },
+                "goalkeeper_saves": {
+                    "Cambridge United": "4",
+                    "Grimsby": "1"
+                },
+                "offsides": {
+                    "Cambridge United": "3",
+                    "Grimsby": "0"
+                },
+                "shots_blocked": {
+                    "Cambridge United": "2",
+                    "Grimsby": "3"
+                },
+                "shots_off_target": {
+                    "Cambridge United": "3",
+                    "Grimsby": "2"
+                },
+                "shots_on_target": {
+                    "Cambridge United": "2",
+                    "Grimsby": "5"
+                },
+                "yellow_cards": {
+                    "Cambridge United": "1",
+                    "Grimsby": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cambridge-united-vs-grimsby-2026-04-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1365.webp",
+                    "name": "Grimsby",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1370.webp",
+                    "name": "Cambridge United",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cambridge-united-vs-grimsby-2026-04-22-kEcE.webp",
+            "title": "Cambridge United vs Grimsby"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Cambridge United vs Notts County highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cambridge-united-vs-notts-county-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cambridge-united-vs-notts-county-2026-04-11-745P.webp",
+            "title": "Cambridge United vs Notts County"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Apr 3, 2026",
+            "description": "Watch Cambridge United vs Swindon Town highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on April 3, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cambridge-united-vs-swindon-town-2026-04-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cambridge-united-vs-swindon-town-2026-04-03-BlAw.webp",
+            "title": "Cambridge United vs Swindon Town"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Apr 6, 2026",
+            "description": "Watch Cheltenham vs Cambridge United highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on April 6, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cheltenham-vs-cambridge-united-2026-04-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cheltenham-vs-cambridge-united-2026-04-06-fenA.webp",
+            "title": "Cheltenham vs Cambridge United"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Crewe vs Cambridge United highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on May 2, 2026. Crewe and Cambridge United locked horns in a clash defined by tactical discipline and a high-stakes atmosphere on a significant afternoon in League Two . Both sets of supporters arrived with high hopes on May 2, 2026, as the two sides looked to navigate a crucial fixture in the late-season run-in. Penalty Drama and Early Tension The match began with both sides testing one another in a cautious opening exchange, but the game burst into life in the 24th minute when the hosts were handed a golden opportunity to take the lead. After a foul in the area, Ben Knight stepped up to the penalty spot with the weight of the stadium on his shoulders. However, the player was unable to capitalize, seeing his effort miss the target and leaving the home faithful in a state of disbelief. This missed chance seemed to embolden Cambridge United , who tightened their defensive lines and increased the physical intensity of the contest. The referee was forced to reach for his pocket for the first time in the 32nd minute, issuing a yellow card to Sullay Kaikai as the battle for midfield supremacy grew increasingly heated. Despite the penalty miss, the first half remained a cagey affair with neither side able to find the clinical edge required to break the deadlock. A lengthy period of stoppage time, extending six minutes beyond the regulation forty-five, saw both teams retreat to the dressing rooms with the scoreline still level, though the momentum appeared to be balanced on a knife-edge following the early drama at the spot. Disciplinary Flashpoints and Tactical Shifts The second half commenced with immediate tactical adjustments as Crewe introduced Elliott Nevitt in place of Louis Appere , signaling an intent to freshen up the forward line. However, the rhythm of the match was quickly disrupted by a flurry of disciplinary actions. In the 53rd minute, the referee issued two quickfire yellow cards to James Gibbons and Stan Dancey , as tensions threatened to boil over in the center of the park. The physical nature of the encounter continued to limit clear-cut opportunities, prompting both managers to look toward their benches for a spark of creativity. As the clock ticked past the hour mark, Luca Moore replaced Conor Thomas for Crewe , while Cambridge United responded later in the half by bringing on James Brophy for the cautioned Sullay Kaikai . The game became a chess match of substitutions, with Alfie Pond , Shilow Tracey , Charlie Finney , and Adrien Thibaut all introduced in the closing stages. Despite the influx of fresh legs, neither side could manufacture the decisive goal required to claim all three points. The final stages were marked by a late yellow card for Pelly-Ruddock Mpanzu in the 84th minute, a fitting symbol of a defensive battle where neither sports outfit was willing to yield an inch of ground.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Kaikai",
+                    "team": "Cambridge United",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Dancey",
+                    "team": "Crewe",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Gibbons",
+                    "team": "Cambridge United",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. R. Mpanzu",
+                    "team": "Cambridge United",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Crewe Alexandra 0 - 0 Cambridge United"
+                        }
+                    ],
+                    "team": "Cambridge United"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Crewe Alexandra 0 - 0 Cambridge United"
+                        }
+                    ],
+                    "team": "Crewe"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "League 2",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Cambridge United 2 - 1 Crewe Alexandra"
+                    },
+                    {
+                        "competition": "League 1 21/22",
+                        "date": "22/01/2022",
+                        "teams_and_score": "Cambridge United 1 - 0 Crewe Alexandra"
+                    },
+                    {
+                        "competition": "League Two",
+                        "date": "14/09/2019",
+                        "teams_and_score": "Crewe Alexandra 2 - 3 Cambridge United"
+                    }
+                ],
+                "summary": {
+                    "Cambridge United_wins": "3",
+                    "Crewe_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cambridge United": "39%",
+                    "Crewe": "61%"
+                },
+                "corners": {
+                    "Cambridge United": "6",
+                    "Crewe": "8"
+                },
+                "crosses": {
+                    "Cambridge United": "4",
+                    "Crewe": "6"
+                },
+                "fouls": {
+                    "Cambridge United": "20",
+                    "Crewe": "12"
+                },
+                "goalkeeper_saves": {
+                    "Cambridge United": "2",
+                    "Crewe": "4"
+                },
+                "offsides": {
+                    "Cambridge United": "0",
+                    "Crewe": "3"
+                },
+                "shots_blocked": {
+                    "Cambridge United": "3",
+                    "Crewe": "2"
+                },
+                "shots_off_target": {
+                    "Cambridge United": "2",
+                    "Crewe": "4"
+                },
+                "shots_on_target": {
+                    "Cambridge United": "5",
+                    "Crewe": "2"
+                },
+                "yellow_cards": {
+                    "Cambridge United": "3",
+                    "Crewe": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/crewe-cambridge-united-2026-05-02-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1370.webp",
+                    "name": "Cambridge United",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1363.webp",
+                    "name": "Crewe",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/crewe-cambridge-united-2026-05-02-vn-ZdQr.webp",
+            "title": "crewe - cambridge united"
+        }
+    ]
+}

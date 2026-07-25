@@ -1,0 +1,209 @@
+{
+    "team": "FC Schalke 04",
+    "team_logo": "https://img.refooty.com/logo/teams/174.webp",
+    "total_matches": 3,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jul 18, 2026",
+            "description": "Watch Erzgebirge Aue vs FC Schalke 04 highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 18, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Sylla",
+                    "score_update": "0 - 1",
+                    "team": "FC Schalke 04",
+                    "time": "28'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Sylla",
+                    "score_update": "0 - 2",
+                    "team": "FC Schalke 04",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. P. L. Gomis",
+                    "score_update": "0 - 3",
+                    "team": "FC Schalke 04",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Lasme",
+                    "score_update": "0 - 4",
+                    "team": "FC Schalke 04",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Bar",
+                    "score_update": "1 - 4",
+                    "team": "Erzgebirge Aue",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Ramadan",
+                    "score_update": "2 - 4",
+                    "team": "Erzgebirge Aue",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "19/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Erzgebirge Aue 2 - 4 Schalke 04"
+                        },
+                        {
+                            "competition": "2. Bundesliga",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Schalke 04 1 - 0 Eintracht Braunschweig"
+                        }
+                    ],
+                    "team": "FC Schalke 04"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "19/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Erzgebirge Aue 2 - 4 Schalke 04"
+                        },
+                        {
+                            "competition": "3. Liga",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Schweinfurt 2 - 4 Erzgebirge Aue"
+                        }
+                    ],
+                    "team": "Erzgebirge Aue"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "2. Bundesliga 21/22",
+                        "date": "22/01/2022",
+                        "teams_and_score": "Erzgebirge Aue 0 - 5 Schalke 04"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "29/07/2018",
+                        "teams_and_score": "Erzgebirge Aue 1 - 0 Schalke 04"
+                    }
+                ],
+                "summary": {
+                    "Erzgebirge Aue_wins": "1",
+                    "FC Schalke 04_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/erzgebirge-aue-vs-fc-schalke-04-2026-07-18_C93Wu.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/174.webp",
+                    "name": "FC Schalke 04",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/190.webp",
+                    "name": "Erzgebirge Aue",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/erzgebirge-aue-vs-fc-schalke-04-2026-07-18-tJUX.webp",
+            "title": "Erzgebirge Aue vs FC Schalke 04"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "May 17, 2026",
+            "description": "Watch FC Schalke 04 vs Eintracht Braunschweig highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on May 17, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-schalke-04-vs-eintracht-braunschweig-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-schalke-04-vs-eintracht-braunschweig-2026-05-17-wCVX.webp",
+            "title": "FC Schalke 04 vs Eintracht Braunschweig"
+        },
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "May 3, 2026",
+            "description": "Watch FC Schalke 04 vs Fortuna Düsseldorf highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on May 3, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-schalke-04-vs-fortuna-dusseldorf-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-schalke-04-vs-fortuna-dusseldorf-2026-05-03-goBZ.webp",
+            "title": "FC Schalke 04 vs Fortuna Düsseldorf"
+        }
+    ]
+}

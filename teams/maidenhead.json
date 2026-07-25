@@ -1,0 +1,106 @@
+{
+    "team": "Maidenhead",
+    "team_logo": "https://img.refooty.com/logo/teams/1838.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jul 23, 2026",
+            "description": "Watch Maidenhead vs Wolves highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 23, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Mane",
+                    "score_update": "0 - 1",
+                    "team": "Wolves",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "22/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Maidenhead United 0 - 1 Wolves"
+                        },
+                        {
+                            "competition": "Premier League 25/26",
+                            "date": "24/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Burnley 1 - 1 Wolves"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "06/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Wolves 1 - 3 Liverpool"
+                        }
+                    ],
+                    "team": "Wolves"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "22/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Maidenhead United 0 - 1 Wolves"
+                        },
+                        {
+                            "competition": "National League South: Play-off",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Dorking Wanderers 2 - 0 Maidenhead United"
+                        },
+                        {
+                            "competition": "National League: South",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Hornchurch 0 - 0 Maidenhead United"
+                        }
+                    ],
+                    "team": "Maidenhead"
+                },
+                "summary": {
+                    "Maidenhead_wins": "0",
+                    "Wolves_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/maidenhead-vs-wolves-2026-07-23_5ElE9.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/39.webp",
+                    "name": "Wolves",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1838.webp",
+                    "name": "Maidenhead",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/maidenhead-vs-wolves-2026-07-23-BUC8.webp",
+            "title": "Maidenhead vs Wolves"
+        }
+    ]
+}

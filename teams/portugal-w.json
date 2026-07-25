@@ -1,0 +1,180 @@
+{
+    "team": "Portugal W",
+    "team_logo": "https://img.refooty.com/logo/teams/27.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Jun 5, 2026",
+            "description": "Watch Portugal W vs Latvia W highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on June 5, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "N. Lehtola",
+                    "score_update": "1 - 0",
+                    "team": "Portugal W",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Nazareth",
+                    "score_update": "1 - 1",
+                    "team": "Latvia W",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Lehtola",
+                    "score_update": "2 - 1",
+                    "team": "Portugal W",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Nyström",
+                    "score_update": "3 - 1",
+                    "team": "Portugal W",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "UEFA Qualification: Group B3",
+                            "date": "09/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Finland Women 3 - 1 Portugal Women"
+                        },
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "02/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Portugal Women 0 - 5 Brazil W"
+                        }
+                    ],
+                    "team": "Latvia W"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "UEFA Qualification: Group B3",
+                            "date": "09/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Finland Women 3 - 1 Portugal Women"
+                        },
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "01/12/2025",
+                            "result": "D",
+                            "teams_and_score": "Finland Women 1 - 1 Belgium Women"
+                        },
+                        {
+                            "competition": "League A: Qualification Play-off",
+                            "date": "28/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Denmark Women 2 - 0 Finland Women"
+                        }
+                    ],
+                    "team": "Portugal W"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA Qualification: Group B3",
+                        "date": "03/03/2026",
+                        "teams_and_score": "Portugal Women 2 - 0 Finland Women"
+                    },
+                    {
+                        "competition": "Qualification: Group E",
+                        "date": "19/02/2021",
+                        "teams_and_score": "Finland Women 1 - 0 Portugal Women"
+                    },
+                    {
+                        "competition": "Women's EURO Qualification Grp. B",
+                        "date": "16/09/2016",
+                        "teams_and_score": "Portugal Women 3 - 2 Finland Women"
+                    },
+                    {
+                        "competition": "Algarve Cup Final Stage",
+                        "date": "09/03/2011",
+                        "teams_and_score": "Finland Women 1 - 2 Portugal Women"
+                    }
+                ],
+                "summary": {
+                    "Latvia W_wins": "1",
+                    "Portugal W_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Latvia W": "45%",
+                    "Portugal W": "55%"
+                },
+                "corners": {
+                    "Latvia W": "2",
+                    "Portugal W": "5"
+                },
+                "fouls": {
+                    "Latvia W": "6",
+                    "Portugal W": "12"
+                },
+                "goalkeeper_saves": {
+                    "Latvia W": "5",
+                    "Portugal W": "2"
+                },
+                "offsides": {
+                    "Latvia W": "1",
+                    "Portugal W": "5"
+                },
+                "shots_blocked": {
+                    "Latvia W": "3",
+                    "Portugal W": "1"
+                },
+                "shots_off_target": {
+                    "Latvia W": "1",
+                    "Portugal W": "9"
+                },
+                "shots_on_target": {
+                    "Latvia W": "3",
+                    "Portugal W": "8"
+                },
+                "yellow_cards": {
+                    "Latvia W": "3",
+                    "Portugal W": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/portugal-w-vs-latvia-w-2026-06-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1092.webp",
+                    "name": "Latvia W",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/27.webp",
+                    "name": "Portugal W",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/portugal-w-vs-latvia-w-2026-06-05-VUuE.webp",
+            "title": "Portugal W vs Latvia W"
+        }
+    ]
+}

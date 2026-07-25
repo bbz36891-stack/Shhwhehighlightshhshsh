@@ -1,0 +1,488 @@
+{
+    "team": "North Macedonia",
+    "team_logo": "",
+    "total_matches": 4,
+    "matches": [
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Oct 10, 2025",
+            "description": "Watch Belgium vs North Macedonia highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on October 10, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Belgium_v_North_Macedonia_2025_10_10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/belgium-vs-north-macedonia-belgium-vs-north-macedonia-We2J.webp",
+            "title": "Belgium vs North Macedonia"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Mar 26, 2026",
+            "description": "Watch Denmark vs North Macedonia highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on March 26, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Damsgaard",
+                    "score_update": "1 - 0",
+                    "team": "Denmark",
+                    "time": "46'"
+                },
+                {
+                    "assist": "M. Damsgaard",
+                    "event_type": "Goal",
+                    "player": "G. Isaksen",
+                    "score_update": "2 - 0",
+                    "team": "Denmark",
+                    "time": "61'"
+                },
+                {
+                    "assist": "V. Froholdt",
+                    "event_type": "Goal",
+                    "player": "G. Isaksen",
+                    "score_update": "3 - 0",
+                    "team": "Denmark",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Elmas",
+                    "team": "North Macedonia",
+                    "time": "91'"
+                },
+                {
+                    "assist": "C. Eriksen",
+                    "event_type": "Goal",
+                    "player": "C. Nørgaard",
+                    "score_update": "4 - 0",
+                    "team": "Denmark",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Bardhi",
+                    "team": "North Macedonia",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "26/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Denmark 4 - 0 North Macedonia"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group J",
+                            "date": "18/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Wales 7 - 1 North Macedonia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "13/11/2025",
+                            "result": "D",
+                            "teams_and_score": "North Macedonia 0 - 0 Latvia"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group J",
+                            "date": "13/10/2025",
+                            "result": "D",
+                            "teams_and_score": "North Macedonia 1 - 1 Kazakhstan"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "04/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Saudi Arabia 2 - 1 North Macedonia"
+                        }
+                    ],
+                    "team": "North Macedonia"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "26/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Denmark 4 - 0 North Macedonia"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group C",
+                            "date": "18/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Scotland 4 - 2 Denmark"
+                        },
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "10/06/2025",
+                            "result": "W",
+                            "teams_and_score": "Denmark 5 - 0 Lithuania"
+                        },
+                        {
+                            "competition": "League A: Play-off",
+                            "date": "23/03/2025",
+                            "result": "L",
+                            "teams_and_score": "Portugal 5 - 2 Denmark"
+                        }
+                    ],
+                    "team": "Denmark"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Friendlies",
+                        "date": "06/02/2013",
+                        "teams_and_score": "North Macedonia 3 - 0 Denmark"
+                    }
+                ],
+                "summary": {
+                    "Denmark_wins": "0",
+                    "North Macedonia_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Denmark": "63%",
+                    "North Macedonia": "37%"
+                },
+                "corners": {
+                    "Denmark": "11",
+                    "North Macedonia": "2"
+                },
+                "crosses": {
+                    "Denmark": "29",
+                    "North Macedonia": "10"
+                },
+                "fouls": {
+                    "Denmark": "10",
+                    "North Macedonia": "8"
+                },
+                "goalkeeper_saves": {
+                    "Denmark": "0",
+                    "North Macedonia": "6"
+                },
+                "offsides": {
+                    "Denmark": "2",
+                    "North Macedonia": "0"
+                },
+                "shots_blocked": {
+                    "Denmark": "6",
+                    "North Macedonia": "1"
+                },
+                "shots_off_target": {
+                    "Denmark": "5",
+                    "North Macedonia": "2"
+                },
+                "shots_on_target": {
+                    "Denmark": "10",
+                    "North Macedonia": "0"
+                },
+                "yellow_cards": {
+                    "Denmark": "0",
+                    "North Macedonia": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Denmark_v_North_Macedonia_2026_03_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16061.webp",
+                    "name": "North Macedonia",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/21.webp",
+                    "name": "Denmark",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/denmark-v-north-macedonia-2026-03-26-GbWV.webp",
+            "title": "Denmark vs North Macedonia"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 2, 2026",
+            "description": "Watch Turkey vs North Macedonia highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 2, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "O. Aydin",
+                    "event_type": "Goal",
+                    "player": "O. Kökçü",
+                    "score_update": "1 - 0",
+                    "team": "Turkey",
+                    "time": "1'"
+                },
+                {
+                    "assist": "E. E. Elmali",
+                    "event_type": "Goal",
+                    "player": "C. Uzun",
+                    "score_update": "2 - 0",
+                    "team": "Turkey",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Fetai",
+                    "team": "North Macedonia",
+                    "time": "31'"
+                },
+                {
+                    "assist": "C. Uzun",
+                    "event_type": "Goal",
+                    "player": "D. Gul",
+                    "score_update": "3 - 0",
+                    "team": "Turkey",
+                    "time": "46'"
+                },
+                {
+                    "assist": "İ. Kahveci",
+                    "event_type": "Goal",
+                    "player": "B. A. Yılmaz",
+                    "score_update": "4 - 0",
+                    "team": "Turkey",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies 2026",
+                            "date": "01/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Turkiye 4 - 0 North Macedonia"
+                        },
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "29/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Bosnia and Herzegovina 0 - 0 North Macedonia"
+                        },
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "26/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Denmark 4 - 0 North Macedonia"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group J",
+                            "date": "18/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Wales 7 - 1 North Macedonia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "13/11/2025",
+                            "result": "D",
+                            "teams_and_score": "North Macedonia 0 - 0 Latvia"
+                        }
+                    ],
+                    "team": "North Macedonia"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies 2026",
+                            "date": "01/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Turkiye 4 - 0 North Macedonia"
+                        },
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Kosovo 0 - 1 Turkiye"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group E",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Spain 2 - 2 Turkiye"
+                        },
+                        {
+                            "competition": "Featured Friendlies 2026",
+                            "date": "11/06/2025",
+                            "result": "L",
+                            "teams_and_score": "Mexico 1 - 0 Turkiye"
+                        }
+                    ],
+                    "team": "Turkey"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Friendlies",
+                        "date": "05/06/2017",
+                        "teams_and_score": "North Macedonia 0 - 0 Turkiye"
+                    },
+                    {
+                        "competition": "EURO qualification grp. G",
+                        "date": "11/06/2003",
+                        "teams_and_score": "Turkiye 3 - 2 North Macedonia"
+                    },
+                    {
+                        "competition": "World Cup Qualification UEFA 1st round grp. 4",
+                        "date": "06/06/2001",
+                        "teams_and_score": "Turkiye 3 - 3 North Macedonia"
+                    }
+                ],
+                "summary": {
+                    "North Macedonia_wins": "1",
+                    "Turkey_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "North Macedonia": "40%",
+                    "Turkey": "60%"
+                },
+                "corners": {
+                    "North Macedonia": "1",
+                    "Turkey": "13"
+                },
+                "fouls": {
+                    "North Macedonia": "12",
+                    "Turkey": "14"
+                },
+                "goalkeeper_saves": {
+                    "North Macedonia": "3",
+                    "Turkey": "2"
+                },
+                "offsides": {
+                    "North Macedonia": "1",
+                    "Turkey": "1"
+                },
+                "shots_blocked": {
+                    "North Macedonia": "1",
+                    "Turkey": "5"
+                },
+                "shots_off_target": {
+                    "North Macedonia": "2",
+                    "Turkey": "7"
+                },
+                "shots_on_target": {
+                    "North Macedonia": "2",
+                    "Turkey": "7"
+                },
+                "yellow_cards": {
+                    "North Macedonia": "1",
+                    "Turkey": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/turkey-vs-north-macedonia-2026-06-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16061.webp",
+                    "name": "North Macedonia",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/22501.webp",
+                    "name": "Turkey",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/turkey-vs-north-macedonia-2026-06-02-vXtk.webp",
+            "title": "Turkey vs North Macedonia"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Nov 18, 2025",
+            "description": "Watch Wales vs North Macedonia highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on November 18, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "North Macedonia"
+                },
+                "home_team_form": {
+                    "team": "Wales"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Wales_v_North_Macedonia_2025_11_18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16061.webp",
+                    "name": "North Macedonia",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/767.webp",
+                    "name": "Wales",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/wales-v-north-macedonia-2025-11-18.webp",
+            "title": "Wales vs North Macedonia"
+        }
+    ]
+}

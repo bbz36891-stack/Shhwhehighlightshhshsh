@@ -1,0 +1,42 @@
+{
+    "team": "Panama U23",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Nov 18, 2022",
+            "description": "Watch Cameroon vs Panama U23 highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on November 18, 2022.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cameroon-vs-panama-u23-2022-11-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cameroon-vs-panama-u23-2022-11-18-MD5e.webp",
+            "title": "Cameroon vs Panama U23"
+        }
+    ]
+}

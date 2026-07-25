@@ -1,0 +1,42 @@
+{
+    "team": "Beveren-Leie",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Mar 8, 2026",
+            "description": "Watch Lokeren vs Beveren-Leie highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on March 8, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/lokeren-vs-beveren-leie-2026-03-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lokeren-vs-beveren-leie-2026-03-08-2KS8.webp",
+            "title": "Lokeren vs Beveren-Leie"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "team": "Bosnia-Herzegovina",
+    "team_logo": "",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Nov 15, 2025",
+            "description": "Watch Bosnia & Herzegovina vs Romania highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on November 15, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bosnia_v_Romania_2025_11_15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bosnia-v-romania-2025-11-15-4uoN.webp",
+            "title": "Bosnia-Herzegovina vs Romania"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Oct 9, 2025",
+            "description": "Watch Cyprus vs Bosnia & Herzegovina highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on October 9, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Cyprus_v_Bosnia_2025_10_09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cyprus-vs-bosnia-herzegovina-cyprus-vs-bosnia-herzegovina-DQOz.webp",
+            "title": "Cyprus vs Bosnia-Herzegovina"
+        }
+    ]
+}

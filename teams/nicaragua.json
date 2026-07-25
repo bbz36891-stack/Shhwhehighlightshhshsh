@@ -1,0 +1,218 @@
+{
+    "team": "Nicaragua",
+    "team_logo": "https://img.refooty.com/logo/teams/5164.webp",
+    "total_matches": 3,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 5, 2026",
+            "description": "Watch Paraguay vs Nicaragua highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 5, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Gutierrez",
+                    "team": "Nicaragua",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Kaku",
+                    "score_update": "1 - 0",
+                    "team": "Paraguay",
+                    "time": "16'"
+                },
+                {
+                    "assist": "D. Gomez",
+                    "event_type": "Goal",
+                    "player": "M. Almirón",
+                    "score_update": "2 - 0",
+                    "team": "Paraguay",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Montes",
+                    "team": "Nicaragua",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Galarza",
+                    "score_update": "3 - 0",
+                    "team": "Paraguay",
+                    "time": "61'"
+                },
+                {
+                    "assist": "Mauricio",
+                    "event_type": "Goal",
+                    "player": "A. Maidana",
+                    "score_update": "4 - 0",
+                    "team": "Paraguay",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "05/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Paraguay 4 - 0 Nicaragua"
+                        },
+                        {
+                            "competition": "CONCACAF Qualification: 3rd Round: Group C",
+                            "date": "19/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Haiti 2 - 0 Nicaragua"
+                        },
+                        {
+                            "competition": "CONCACAF Qualification: 2nd Round: Group D",
+                            "date": "11/06/2025",
+                            "result": "L",
+                            "teams_and_score": "Panama 3 - 0 Nicaragua"
+                        }
+                    ],
+                    "team": "Nicaragua"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "05/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Paraguay 4 - 0 Nicaragua"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "19/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Mexico 1 - 2 Paraguay"
+                        },
+                        {
+                            "competition": "CONMEBOL Qualification",
+                            "date": "09/09/2025",
+                            "result": "W",
+                            "teams_and_score": "Peru 0 - 1 Paraguay"
+                        }
+                    ],
+                    "team": "Paraguay"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Friendlies",
+                        "date": "18/06/2023",
+                        "teams_and_score": "Paraguay 2 - 0 Nicaragua"
+                    }
+                ],
+                "summary": {
+                    "Nicaragua_wins": "0",
+                    "Paraguay_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/paraguay-vs-nicaragua-2026-06-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/5164.webp",
+                    "name": "Nicaragua",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2380.webp",
+                    "name": "Paraguay",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/paraguay-vs-nicaragua-2026-06-05-QQ9h.webp",
+            "title": "Paraguay vs Nicaragua"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Mar 27, 2026",
+            "description": "Watch Russia vs Nicaragua highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on March 27, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/russia-vs-nicaragua-2026-03-27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/russia-vs-nicaragua-2026-03-27-hrtw.webp",
+            "title": "Russia vs Nicaragua"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "May 29, 2026",
+            "description": "Watch South Africa vs Nicaragua highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on May 29, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/south-africa-vs-nicaragua-2026-05-29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/south-africa-vs-nicaragua-2026-05-29-KV6N.webp",
+            "title": "South Africa vs Nicaragua"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "team": "Whitecaps II",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Nov 30, 2025",
+            "description": "Watch San Diego vs Whitecaps II highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on November 30, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/san-diego-fc-vs-vancouver-whitecaps-fc-full-match-highlights-2025-audi-mls-cup-playoffsmdexs_4P9RG.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/san-diego-vs-whitecaps-ii-2025-11-30-uNgH.webp",
+            "title": "San Diego vs Whitecaps II"
+        }
+    ]
+}

@@ -1,0 +1,330 @@
+{
+    "team": "FC St. Gallen",
+    "team_logo": "https://img.refooty.com/logo/teams/1011.webp",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Jul 23, 2026",
+            "description": "Watch FC St. Gallen vs Benfica highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on July 23, 2026. FC St. Gallen and Benfica clashed in a high-stakes UEFA Europa League encounter that showcased the tactical depth and competitive spirit of both sides. As the match kicked off on July 23, 2026 , the atmosphere was electric, with both teams looking to establish an early foothold in this prestigious competition. First Half: Tactical Battle Leads to Goals The opening stages were a cagey affair as both sides felt each other out. The physical nature of the game became apparent when Lukas Goertler received a yellow card in the 30th minute. However, Goertler quickly turned from villain to hero, providing a precise assist in the 37th minute for Aliou Balde , who finished clinicaly to put St. Gallen ahead. Benfica refused to be rattled and began to find their rhythm as the interval approached. Their persistence paid off in the 44th minute when Vangelis Pavlidis linked up beautifully with Rafa Silva . The experienced forward made no mistake, leveling the score and ensuring the teams went into the halftime break on equal terms after a pulsating first 45 minutes. Second Half: Gaal Delivers the Decisive Blow The intensity remained high after the restart, with the referee busy as Jozo Stanic and Vangelis Pavlidis both entered the book. Both managers turned to their benches to find a spark, with Benfica introducing Tiago Gouveia and Enzo Barrenechea , while the hosts brought on fresh legs in the form of Andrin Hunziker and Diego Besio . The breakthrough finally arrived in the 80th minute. Lukas Daschner turned provider, setting up Tom Gaal , who struck a powerful shot into the net to restore the lead for St. Gallen . Despite a late scare and a yellow card for Gaal in stoppage time, the home side managed the closing minutes expertly to secure a hard-fought victory against the Portuguese giants.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Görtler",
+                    "team": "FC St. Gallen",
+                    "time": "1'"
+                },
+                {
+                    "assist": "L. Görtler",
+                    "event_type": "Goal",
+                    "player": "A. Balde",
+                    "score_update": "1 - 0",
+                    "team": "FC St. Gallen",
+                    "time": "16'"
+                },
+                {
+                    "assist": "V. Pavlidis",
+                    "event_type": "Goal",
+                    "player": "R. Silva",
+                    "score_update": "1 - 1",
+                    "team": "Benfica",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Stanic",
+                    "team": "FC St. Gallen",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Pavlidis",
+                    "team": "Benfica",
+                    "time": "64'"
+                },
+                {
+                    "assist": "L. Daschner",
+                    "event_type": "Goal",
+                    "player": "T. Gaal",
+                    "score_update": "2 - 1",
+                    "team": "FC St. Gallen",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Gaal",
+                    "team": "FC St. Gallen",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification",
+                            "date": "23/07/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Gallen 2 - 1 Benfica"
+                        },
+                        {
+                            "competition": "Featured Club Friendlies",
+                            "date": "17/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Benfica 2 - 0 Villarreal"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "11/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Benfica 1 - 2 Flamengo"
+                        },
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Estoril 1 - 3 Benfica"
+                        }
+                    ],
+                    "team": "Benfica"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification",
+                            "date": "23/07/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Gallen 2 - 1 Benfica"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "17/07/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Gallen 0 - 3 Norwich City"
+                        },
+                        {
+                            "competition": "Featured Club Friendlies",
+                            "date": "11/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Lyon 6 - 3 St. Gallen"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "04/07/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Gallen 0 - 1 Austria Lustenau"
+                        },
+                        {
+                            "competition": "Cup",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Stade Lausanne-Ouchy 0 - 3 St. Gallen"
+                        }
+                    ],
+                    "team": "FC St. Gallen"
+                },
+                "summary": {
+                    "Benfica_wins": "0",
+                    "FC St Gallen_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Benfica": "61%",
+                    "FC St Gallen": "39%"
+                },
+                "corners": {
+                    "Benfica": "5",
+                    "FC St Gallen": "6"
+                },
+                "crosses": {
+                    "Benfica": "3",
+                    "FC St Gallen": "7"
+                },
+                "fouls": {
+                    "Benfica": "13",
+                    "FC St Gallen": "15"
+                },
+                "goalkeeper_saves": {
+                    "Benfica": "4",
+                    "FC St Gallen": "3"
+                },
+                "offsides": {
+                    "Benfica": "0",
+                    "FC St Gallen": "1"
+                },
+                "shots_blocked": {
+                    "Benfica": "4",
+                    "FC St Gallen": "3"
+                },
+                "shots_off_target": {
+                    "Benfica": "6",
+                    "FC St Gallen": "8"
+                },
+                "shots_on_target": {
+                    "Benfica": "4",
+                    "FC St Gallen": "6"
+                },
+                "yellow_cards": {
+                    "Benfica": "1",
+                    "FC St Gallen": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-st-gallen-vs-benfica-2026-07-23_YlY78.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/211.webp",
+                    "name": "Benfica",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1011.webp",
+                    "name": "FC St. Gallen",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-st-gallen-vs-benfica-2026-07-23-8fNz.webp",
+            "title": "FC St. Gallen vs Benfica"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jul 17, 2026",
+            "description": "Watch FC St. Gallen vs Norwich City highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 17, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "J. Wright",
+                    "score_update": "0 - 1",
+                    "team": "Norwich City",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Maghoma",
+                    "score_update": "0 - 2",
+                    "team": "Norwich City",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. McConville",
+                    "score_update": "0 - 3",
+                    "team": "Norwich City",
+                    "time": "31'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "17/07/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Gallen 0 - 3 Norwich City"
+                        },
+                        {
+                            "competition": "Championship 25/26",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Hull City 2 - 1 Norwich City"
+                        }
+                    ],
+                    "team": "Norwich City"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "17/07/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Gallen 0 - 3 Norwich City"
+                        },
+                        {
+                            "competition": "Featured Club Friendlies",
+                            "date": "11/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Lyon 6 - 3 St. Gallen"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "04/07/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Gallen 0 - 1 Austria Lustenau"
+                        },
+                        {
+                            "competition": "Cup",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Stade Lausanne-Ouchy 0 - 3 St. Gallen"
+                        },
+                        {
+                            "competition": "Super League: Championship Group",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "St. Gallen 1 - 1 Thun"
+                        }
+                    ],
+                    "team": "FC St. Gallen"
+                },
+                "summary": {
+                    "FC St Gallen_wins": "0",
+                    "Norwich City_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-st-gallen-vs-norwich-city-2026-07-17_mtSnO.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18210.webp",
+                    "name": "Norwich City",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1011.webp",
+                    "name": "FC St. Gallen",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-st-gallen-vs-norwich-city-2026-07-17-Rjwo.webp",
+            "title": "FC St. Gallen vs Norwich City"
+        }
+    ]
+}

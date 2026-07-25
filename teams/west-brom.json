@@ -1,0 +1,924 @@
+{
+    "team": "West Brom",
+    "team_logo": "",
+    "total_matches": 5,
+    "matches": [
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Jan 5, 2026",
+            "description": "Watch Leicester vs West Brom highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on January 5, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leicester_v_West_Brom_2026_01_05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leicester-v-west-brom-2026-01-05.webp",
+            "title": "Leicester vs West Brom"
+        },
+        {
+            "competition": "FA Cup",
+            "competition_cover": "https://refooty.com/covers/fa-cup.webp",
+            "date": "Feb 14, 2026",
+            "description": "Watch Norwich City vs West Brom highlights and goals from FA Cup on ReFooty: Football Highlights Hub. Match played on February 14, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Bielik",
+                    "team": "West Brom",
+                    "time": "1'"
+                },
+                {
+                    "assist": "H. Darling",
+                    "event_type": "Goal",
+                    "player": "P. Maghoma",
+                    "score_update": "1 - 0",
+                    "team": "Norwich City",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Darling",
+                    "team": "Norwich City",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Mowatt",
+                    "team": "West Brom",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Field",
+                    "team": "Norwich City",
+                    "time": "58'"
+                },
+                {
+                    "assist": "O. Diakite",
+                    "event_type": "Goal",
+                    "player": "J. Maja",
+                    "score_update": "1 - 1",
+                    "team": "West Brom",
+                    "time": "68'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Fisher",
+                    "team": "Norwich City",
+                    "time": "70'"
+                },
+                {
+                    "assist": "A. Ben Slimane",
+                    "event_type": "Goal",
+                    "player": "B. Chrisene",
+                    "score_update": "2 - 1",
+                    "team": "Norwich City",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Diakite",
+                    "team": "West Brom",
+                    "time": "85'"
+                },
+                {
+                    "assist": "A. Ben Slimane",
+                    "event_type": "Goal",
+                    "player": "M. Toure",
+                    "score_update": "3 - 1",
+                    "team": "Norwich City",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Norwich City 3 - 1 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 0 - 0 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Swansea City 2 - 2 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "05/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Leicester City 2 - 1 West Bromwich Albion"
+                        }
+                    ],
+                    "team": "West Brom"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Norwich City 3 - 1 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Oxford United 0 - 3 Norwich City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Norwich City 5 - 1 Walsall"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "04/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Norwich City 0 - 2 Stoke City"
+                        }
+                    ],
+                    "team": "Norwich City"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "20/01/2026",
+                        "teams_and_score": "West Bromwich Albion 0 - 5 Norwich City"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "29/03/2025",
+                        "teams_and_score": "Norwich City 1 - 0 West Bromwich Albion"
+                    },
+                    {
+                        "competition": "English Football League - Championship 2023/2024",
+                        "date": "20/01/2024",
+                        "teams_and_score": "Norwich City 2 - 0 West Bromwich Albion"
+                    },
+                    {
+                        "competition": "English Football League - Championship 2022/2023",
+                        "date": "29/04/2023",
+                        "teams_and_score": "West Bromwich Albion 2 - 1 Norwich City"
+                    },
+                    {
+                        "competition": "English Football League - Championship 2018/2019",
+                        "date": "12/01/2019",
+                        "teams_and_score": "West Bromwich Albion 1 - 1 Norwich City"
+                    }
+                ],
+                "summary": {
+                    "Norwich City_wins": "3",
+                    "West Brom_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Norwich City": "54%",
+                    "West Brom": "46%"
+                },
+                "corners": {
+                    "Norwich City": "12",
+                    "West Brom": "3"
+                },
+                "crosses": {
+                    "Norwich City": "7",
+                    "West Brom": "0"
+                },
+                "fouls": {
+                    "Norwich City": "7",
+                    "West Brom": "8"
+                },
+                "goalkeeper_saves": {
+                    "Norwich City": "4",
+                    "West Brom": "4"
+                },
+                "offsides": {
+                    "Norwich City": "2",
+                    "West Brom": "3"
+                },
+                "shots_blocked": {
+                    "Norwich City": "6",
+                    "West Brom": "1"
+                },
+                "shots_off_target": {
+                    "Norwich City": "8",
+                    "West Brom": "1"
+                },
+                "shots_on_target": {
+                    "Norwich City": "7",
+                    "West Brom": "5"
+                },
+                "yellow_cards": {
+                    "Norwich City": "3",
+                    "West Brom": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Norwich_City_v_West_Brom_2026_02_14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/60.webp",
+                    "name": "West Brom",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18210.webp",
+                    "name": "Norwich City",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/norwich-city-v-west-brom-2026-02-14-na4i.webp",
+            "title": "Norwich City vs West Brom"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Sheffield Wednesday vs West Brom highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on May 2, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Diakite",
+                    "team": "West Brom",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Chalobah",
+                    "team": "Sheffield Wednesday",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Chalobah",
+                    "score_update": "1 - 0",
+                    "team": "Sheffield Wednesday",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Palmer",
+                    "score_update": "2 - 0",
+                    "team": "Sheffield Wednesday",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Lowe",
+                    "team": "Sheffield Wednesday",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Heskey",
+                    "team": "Sheffield Wednesday",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Grant",
+                    "score_update": "2 - 1",
+                    "team": "West Brom",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Bany",
+                    "team": "West Brom",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Sheffield Wednesday 2 - 1 West Bromwich Albion"
+                        }
+                    ],
+                    "team": "West Brom"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Sheffield Wednesday 2 - 1 West Bromwich Albion"
+                        }
+                    ],
+                    "team": "Sheffield Wednesday"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "01/11/2025",
+                        "teams_and_score": "West Bromwich Albion 0 - 0 Sheffield Wednesday"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "08/02/2025",
+                        "teams_and_score": "West Bromwich Albion 2 - 1 Sheffield Wednesday"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "27/04/2024",
+                        "teams_and_score": "Sheffield Wednesday 3 - 0 West Bromwich Albion"
+                    },
+                    {
+                        "competition": "Club Friendlies 2021",
+                        "date": "20/07/2021",
+                        "teams_and_score": "Sheffield Wednesday 0 - 2 West Bromwich Albion"
+                    },
+                    {
+                        "competition": "Championship 19/20",
+                        "date": "01/07/2020",
+                        "teams_and_score": "Sheffield Wednesday 0 - 3 West Bromwich Albion"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "29/12/2018",
+                        "teams_and_score": "West Bromwich Albion 1 - 1 Sheffield Wednesday"
+                    }
+                ],
+                "summary": {
+                    "Sheffield Wednesday_wins": "1",
+                    "West Brom_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Sheffield Wednesday": "38%",
+                    "West Brom": "62%"
+                },
+                "corners": {
+                    "Sheffield Wednesday": "5",
+                    "West Brom": "2"
+                },
+                "crosses": {
+                    "Sheffield Wednesday": "4",
+                    "West Brom": "3"
+                },
+                "fouls": {
+                    "Sheffield Wednesday": "12",
+                    "West Brom": "8"
+                },
+                "goalkeeper_saves": {
+                    "Sheffield Wednesday": "3",
+                    "West Brom": "3"
+                },
+                "offsides": {
+                    "Sheffield Wednesday": "3",
+                    "West Brom": "1"
+                },
+                "shots_blocked": {
+                    "Sheffield Wednesday": "3",
+                    "West Brom": "5"
+                },
+                "shots_off_target": {
+                    "Sheffield Wednesday": "3",
+                    "West Brom": "3"
+                },
+                "shots_on_target": {
+                    "Sheffield Wednesday": "5",
+                    "West Brom": "5"
+                },
+                "yellow_cards": {
+                    "Sheffield Wednesday": "3",
+                    "West Brom": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sheffield-wednesday-vs-west-brom-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/60.webp",
+                    "name": "West Brom",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/74.webp",
+                    "name": "Sheffield Wednesday",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-wednesday-vs-west-brom-2026-05-02-hziP.webp",
+            "title": "Sheffield Wednesday vs West Brom"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 14, 2026",
+            "description": "Watch West Brom vs Hull City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 14, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Wallace",
+                    "event_type": "Goal",
+                    "player": "J. Maja",
+                    "score_update": "1 - 0",
+                    "team": "West Brom",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "C. Hughes",
+                    "team": "Hull City",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Crooks",
+                    "team": "Hull City",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Diakite",
+                    "team": "West Brom",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. McBurnie",
+                    "team": "Hull City",
+                    "time": "61'"
+                },
+                {
+                    "assist": "J. Jimoh",
+                    "event_type": "Goal",
+                    "player": "A. Heggebø",
+                    "score_update": "2 - 0",
+                    "team": "West Brom",
+                    "time": "67'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Gelhardt",
+                    "team": "Hull City",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Lundstram",
+                    "team": "Hull City",
+                    "time": "88'"
+                },
+                {
+                    "assist": "D. Imray",
+                    "event_type": "Goal",
+                    "player": "I. Price",
+                    "score_update": "3 - 0",
+                    "team": "West Brom",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "14/03/2026",
+                            "result": "L",
+                            "teams_and_score": "West Bromwich Albion 3 - 0 Hull City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "13/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Hull City 0 - 4 Chelsea"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "07/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Hull City 2 - 3 Bristol City"
+                        }
+                    ],
+                    "team": "Hull City"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "14/03/2026",
+                            "result": "W",
+                            "teams_and_score": "West Bromwich Albion 3 - 0 Hull City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Norwich City 3 - 1 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 0 - 0 West Bromwich Albion"
+                        }
+                    ],
+                    "team": "West Brom"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "20/12/2025",
+                        "teams_and_score": "Hull City 1 - 0 West Bromwich Albion"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "15/03/2025",
+                        "teams_and_score": "West Bromwich Albion 1 - 1 Hull City"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "24/02/2024",
+                        "teams_and_score": "Hull City 1 - 1 West Bromwich Albion"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "03/03/2023",
+                        "teams_and_score": "Hull City 2 - 0 West Bromwich Albion"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "05/03/2022",
+                        "teams_and_score": "Hull City 0 - 2 West Bromwich Albion"
+                    },
+                    {
+                        "competition": "Championship 19/20",
+                        "date": "05/07/2020",
+                        "teams_and_score": "West Bromwich Albion 4 - 2 Hull City"
+                    }
+                ],
+                "summary": {
+                    "Hull City_wins": "2",
+                    "West Brom_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Hull City": "32%",
+                    "West Brom": "68%"
+                },
+                "corners": {
+                    "Hull City": "2",
+                    "West Brom": "10"
+                },
+                "crosses": {
+                    "Hull City": "2",
+                    "West Brom": "8"
+                },
+                "fouls": {
+                    "Hull City": "11",
+                    "West Brom": "10"
+                },
+                "goalkeeper_saves": {
+                    "Hull City": "5",
+                    "West Brom": "1"
+                },
+                "offsides": {
+                    "Hull City": "1",
+                    "West Brom": "0"
+                },
+                "red_cards": {
+                    "Hull City": "1",
+                    "West Brom": "0"
+                },
+                "shots_blocked": {
+                    "Hull City": "2",
+                    "West Brom": "12"
+                },
+                "shots_off_target": {
+                    "Hull City": "2",
+                    "West Brom": "6"
+                },
+                "shots_on_target": {
+                    "Hull City": "2",
+                    "West Brom": "8"
+                },
+                "yellow_cards": {
+                    "Hull City": "4",
+                    "West Brom": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/west-brom-hull-city-2026-03-14-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/64.webp",
+                    "name": "Hull City",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/60.webp",
+                    "name": "West Brom",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/west-brom-hull-city-2026-03-14-vn-0IyF.webp",
+            "title": "west brom - hull city"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 11, 2026",
+            "description": "Watch West Brom vs Southampton highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 11, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "D. Dike",
+                    "event_type": "Goal",
+                    "player": "J. Molumby",
+                    "score_update": "1 - 0",
+                    "team": "West Brom",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Stephens",
+                    "team": "Southampton",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Bragg",
+                    "team": "Southampton",
+                    "time": "68'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Imray",
+                    "team": "West Brom",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Diakite",
+                    "team": "West Brom",
+                    "time": "86'"
+                },
+                {
+                    "assist": "S. Edozie",
+                    "event_type": "Goal",
+                    "player": "C. Larin",
+                    "score_update": "1 - 1",
+                    "team": "Southampton",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "11/03/2026",
+                            "result": "D",
+                            "teams_and_score": "West Bromwich Albion 1 - 1 Southampton"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Fulham 0 - 1 Southampton"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Sheffield Wednesday 1 - 3 Southampton"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Southampton 2 - 1 Leicester City"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Leicester City 3 - 4 Southampton"
+                        }
+                    ],
+                    "team": "Southampton"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "11/03/2026",
+                            "result": "D",
+                            "teams_and_score": "West Bromwich Albion 1 - 1 Southampton"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Norwich City 3 - 1 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 0 - 0 West Bromwich Albion"
+                        }
+                    ],
+                    "team": "West Brom"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "09/12/2025",
+                        "teams_and_score": "Southampton 3 - 2 West Bromwich Albion"
+                    },
+                    {
+                        "competition": "Championship: Play-offs 23/24",
+                        "date": "17/05/2024",
+                        "teams_and_score": "Southampton 3 - 1 West Bromwich Albion"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "16/02/2024",
+                        "teams_and_score": "West Bromwich Albion 0 - 2 Southampton"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "12/04/2021",
+                        "teams_and_score": "West Bromwich Albion 3 - 0 Southampton"
+                    },
+                    {
+                        "competition": "FA Cup",
+                        "date": "17/02/2018",
+                        "teams_and_score": "West Bromwich Albion 1 - 2 Southampton"
+                    },
+                    {
+                        "competition": "Premier League",
+                        "date": "03/02/2018",
+                        "teams_and_score": "West Bromwich Albion 2 - 3 Southampton"
+                    }
+                ],
+                "summary": {
+                    "Southampton_wins": "5",
+                    "West Brom_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Southampton": "66%",
+                    "West Brom": "34%"
+                },
+                "corners": {
+                    "Southampton": "3",
+                    "West Brom": "5"
+                },
+                "crosses": {
+                    "Southampton": "6",
+                    "West Brom": "6"
+                },
+                "fouls": {
+                    "Southampton": "11",
+                    "West Brom": "13"
+                },
+                "goalkeeper_saves": {
+                    "Southampton": "5",
+                    "West Brom": "3"
+                },
+                "offsides": {
+                    "Southampton": "2",
+                    "West Brom": "0"
+                },
+                "shots_blocked": {
+                    "Southampton": "3",
+                    "West Brom": "4"
+                },
+                "shots_off_target": {
+                    "Southampton": "5",
+                    "West Brom": "3"
+                },
+                "shots_on_target": {
+                    "Southampton": "4",
+                    "West Brom": "6"
+                },
+                "yellow_cards": {
+                    "Southampton": "2",
+                    "West Brom": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/west-brom-southampton-2026-03-11-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/41.webp",
+                    "name": "Southampton",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/60.webp",
+                    "name": "West Brom",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/west-brom-southampton-2026-03-11-vn-udSJ.webp",
+            "title": "west brom - southampton"
+        }
+    ]
+}

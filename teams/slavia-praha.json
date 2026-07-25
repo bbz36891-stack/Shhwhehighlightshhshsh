@@ -1,0 +1,104 @@
+{
+    "team": "Slavia Praha",
+    "team_logo": "https://img.refooty.com/logo/teams/10923.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jul 18, 2026",
+            "description": "Watch Slavia Praha vs Lyon highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 18, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "18/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Lyon 0 - 2 Slavia Prague"
+                        },
+                        {
+                            "competition": "1st League: Championship",
+                            "date": "24/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Slavia Prague 3 - 0 Viktoria Plzen"
+                        },
+                        {
+                            "competition": "1st League",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Slavia Prague 2 - 1 SK Sigma Olomouc"
+                        }
+                    ],
+                    "team": "Lyon"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "18/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Lyon 0 - 2 Slavia Prague"
+                        },
+                        {
+                            "competition": "Featured Club Friendlies",
+                            "date": "15/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Lyon 2 - 1 Servette"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "08/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Lyon 5 - 2 UF Maconnais"
+                        },
+                        {
+                            "competition": "Ligue 1 25/26",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Lyon 0 - 4 Lens"
+                        }
+                    ],
+                    "team": "Slavia Praha"
+                },
+                "summary": {
+                    "Lyon_wins": "0",
+                    "Slavia Praha_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/slavia-praha-vs-lyon-2026-07-18_CEcmL.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/80.webp",
+                    "name": "Lyon",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10923.webp",
+                    "name": "Slavia Praha",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/slavia-praha-vs-lyon-2026-07-18-c5Qv.webp",
+            "title": "Slavia Praha vs Lyon"
+        }
+    ]
+}

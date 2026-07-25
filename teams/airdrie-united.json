@@ -1,0 +1,42 @@
+{
+    "team": "Airdrie United",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Mar 21, 2026",
+            "description": "Watch Raith Rovers vs Airdrie United highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on March 21, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/raith-rovers-vs-airdrie-united-2026-03-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/raith-rovers-vs-airdrie-united-2026-03-21-C9kB.webp",
+            "title": "Raith Rovers vs Airdrie United"
+        }
+    ]
+}

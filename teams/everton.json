@@ -1,0 +1,4030 @@
+{
+    "team": "Everton",
+    "team_logo": "https://img.refooty.com/logo/teams/45.webp",
+    "total_matches": 32,
+    "matches": [
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Mar 14, 2026",
+            "description": "Watch Arsenal vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on March 14, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Moyes",
+                    "team": "Everton",
+                    "time": "61'"
+                },
+                {
+                    "assist": "P. Hincapié",
+                    "event_type": "Goal",
+                    "player": "V. Gyökeres",
+                    "score_update": "1 - 0",
+                    "team": "Arsenal",
+                    "time": "89'"
+                },
+                {
+                    "assist": "G. Martinelli",
+                    "event_type": "Goal",
+                    "player": "M. Dowman",
+                    "score_update": "2 - 0",
+                    "team": "Arsenal",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "14/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Arsenal 2 - 0 Everton"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Sunderland"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "14/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Arsenal 2 - 0 Everton"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "11/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Bayer Leverkusen 1 - 1 Arsenal"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Mansfield Town 1 - 2 Arsenal"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Brighton 0 - 1 Arsenal"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "15/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Arsenal 4 - 0 Wigan Athletic"
+                        }
+                    ],
+                    "team": "Arsenal"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "20/12/2025",
+                        "teams_and_score": "Everton 0 - 1 Arsenal"
+                    },
+                    {
+                        "competition": "Premier League 24/25",
+                        "date": "05/04/2025",
+                        "teams_and_score": "Everton 1 - 1 Arsenal"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "19/05/2024",
+                        "teams_and_score": "Arsenal 2 - 1 Everton"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "01/03/2023",
+                        "teams_and_score": "Arsenal 4 - 0 Everton"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "16/07/2022",
+                        "teams_and_score": "Everton 0 - 2 Arsenal"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "22/05/2022",
+                        "teams_and_score": "Arsenal 5 - 1 Everton"
+                    }
+                ],
+                "summary": {
+                    "Arsenal_wins": "5",
+                    "Everton_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Arsenal": "65%",
+                    "Everton": "35%"
+                },
+                "corners": {
+                    "Arsenal": "8",
+                    "Everton": "3"
+                },
+                "crosses": {
+                    "Arsenal": "4",
+                    "Everton": "2"
+                },
+                "fouls": {
+                    "Arsenal": "11",
+                    "Everton": "12"
+                },
+                "goalkeeper_saves": {
+                    "Arsenal": "3",
+                    "Everton": "4"
+                },
+                "offsides": {
+                    "Arsenal": "2",
+                    "Everton": "1"
+                },
+                "shots_blocked": {
+                    "Arsenal": "9",
+                    "Everton": "4"
+                },
+                "shots_off_target": {
+                    "Arsenal": "9",
+                    "Everton": "2"
+                },
+                "shots_on_target": {
+                    "Arsenal": "7",
+                    "Everton": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Arsenal_v_Everton_2026_03_14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/42.webp",
+                    "name": "Arsenal",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/arsenal-v-everton-2026-03-14-PtDR.webp",
+            "title": "Arsenal vs Everton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Jan 18, 2026",
+            "description": "Watch Aston Villa vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on January 18, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Aston_Villa_v_Everton_2026_01_18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aston-villa-v-everton-2026-01-18-Lvge.webp",
+            "title": "Aston Villa vs Everton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Dec 2, 2025",
+            "description": "Watch Bournemouth vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on December 2, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bournemouth_v_Everton_2025_12_02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bournemouth-v-everton-2025-12-02.webp",
+            "title": "Bournemouth vs Everton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Brentford vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Pickford",
+                    "team": "Everton",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Thiago",
+                    "score_update": "1 - 0",
+                    "team": "Brentford",
+                    "time": "16'"
+                },
+                {
+                    "assist": "I. G. Gueye",
+                    "event_type": "Goal",
+                    "player": "Beto",
+                    "score_update": "1 - 1",
+                    "team": "Everton",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Garner",
+                    "team": "Everton",
+                    "time": "47'"
+                },
+                {
+                    "assist": "M. Kayode",
+                    "event_type": "Goal",
+                    "player": "I. Thiago",
+                    "score_update": "2 - 1",
+                    "team": "Brentford",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Dewsbury-Hall",
+                    "score_update": "2 - 2",
+                    "team": "Everton",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Brentford 2 - 2 Everton"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Brentford 2 - 2 Everton"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "09/03/2026",
+                            "result": "D",
+                            "teams_and_score": "West Ham United 2 - 2 Brentford"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "03/03/2026",
+                            "result": "D",
+                            "teams_and_score": "AFC Bournemouth 0 - 0 Brentford"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "16/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Macclesfield FC 0 - 1 Brentford"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "12/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Brentford 1 - 1 Arsenal"
+                        }
+                    ],
+                    "team": "Brentford"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "04/01/2026",
+                        "teams_and_score": "Everton 2 - 4 Brentford"
+                    },
+                    {
+                        "competition": "Premier League 24/25",
+                        "date": "26/02/2025",
+                        "teams_and_score": "Brentford 1 - 1 Everton"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "27/04/2024",
+                        "teams_and_score": "Everton 1 - 0 Brentford"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "11/03/2023",
+                        "teams_and_score": "Everton 1 - 0 Brentford"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "15/05/2022",
+                        "teams_and_score": "Everton 2 - 3 Brentford"
+                    },
+                    {
+                        "competition": "FA Cup 21/22",
+                        "date": "05/02/2022",
+                        "teams_and_score": "Everton 4 - 1 Brentford"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "28/11/2021",
+                        "teams_and_score": "Brentford 1 - 0 Everton"
+                    }
+                ],
+                "summary": {
+                    "Brentford_wins": "3",
+                    "Everton_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Brentford": "55%",
+                    "Everton": "45%"
+                },
+                "corners": {
+                    "Brentford": "2",
+                    "Everton": "3"
+                },
+                "crosses": {
+                    "Brentford": "9",
+                    "Everton": "2"
+                },
+                "fouls": {
+                    "Brentford": "6",
+                    "Everton": "7"
+                },
+                "goalkeeper_saves": {
+                    "Brentford": "4",
+                    "Everton": "2"
+                },
+                "offsides": {
+                    "Brentford": "0",
+                    "Everton": "1"
+                },
+                "shots_blocked": {
+                    "Brentford": "6",
+                    "Everton": "4"
+                },
+                "shots_off_target": {
+                    "Brentford": "7",
+                    "Everton": "3"
+                },
+                "shots_on_target": {
+                    "Brentford": "4",
+                    "Everton": "7"
+                },
+                "yellow_cards": {
+                    "Brentford": "0",
+                    "Everton": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Brentford_v_Everton_2026_04_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/55.webp",
+                    "name": "Brentford",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brentford-v-everton-2026-04-11-suIF.webp",
+            "title": "Brentford vs Everton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Jan 31, 2026",
+            "description": "Watch Brighton vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on January 31, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Groß",
+                    "team": "Brighton",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Branthwaite",
+                    "team": "Everton",
+                    "time": "57'"
+                },
+                {
+                    "assist": "Y. Ayari",
+                    "event_type": "Goal",
+                    "player": "P. Groß",
+                    "score_update": "1 - 0",
+                    "team": "Brighton",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Iroegbunam",
+                    "team": "Everton",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Beto",
+                    "score_update": "1 - 1",
+                    "team": "Everton",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Everton"
+                },
+                "home_team_form": {
+                    "team": "Brighton"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Brighton": "54%",
+                    "Everton": "47%"
+                },
+                "corners": {
+                    "Brighton": "5",
+                    "Everton": "2"
+                },
+                "crosses": {
+                    "Brighton": "4",
+                    "Everton": "3"
+                },
+                "fouls": {
+                    "Brighton": "13",
+                    "Everton": "14"
+                },
+                "goalkeeper_saves": {
+                    "Brighton": "3",
+                    "Everton": "1"
+                },
+                "offsides": {
+                    "Brighton": "3",
+                    "Everton": "0"
+                },
+                "shots_blocked": {
+                    "Brighton": "4",
+                    "Everton": "1"
+                },
+                "shots_off_target": {
+                    "Brighton": "5",
+                    "Everton": "2"
+                },
+                "shots_on_target": {
+                    "Brighton": "2",
+                    "Everton": "4"
+                },
+                "yellow_cards": {
+                    "Brighton": "1",
+                    "Everton": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Brighton_v_Everton_2026_01_31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/51.webp",
+                    "name": "Brighton",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brighton-v-everton-2026-01-31-uuOl.webp",
+            "title": "Brighton vs Everton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Dec 27, 2025",
+            "description": "Watch Burnley vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on December 27, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Everton"
+                },
+                "home_team_form": {
+                    "team": "Burnley"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Burnley_v_Everton_2025_12_27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/44.webp",
+                    "name": "Burnley",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/burnley-v-everton-2025-12-27.webp",
+            "title": "Burnley vs Everton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Dec 13, 2025",
+            "description": "Watch Chelsea vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on December 13, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Chelsea_v_Everton_2025_12_13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/chelsea-v-everton-2025-12-13.webp",
+            "title": "Chelsea FC vs Everton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "May 10, 2026",
+            "description": "Watch Crystal Palace vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on May 10, 2026. The stage was set for a classic Premier League encounter as Crystal Palace hosted Everton in a match that promised intensity and tactical drama. With 24,958 fans in attendance, the atmosphere reflected the high stakes of a mid-May battle for positioning in the world's most competitive league. Toffees Strike Early, Eagles Respond The match, held on May 10, 2026 , burst into life within the opening minutes. Everton wasted no time establishing their physical presence, and in the 6th minute, they found the breakthrough. Following a period of sustained pressure from set-pieces, James Tarkowski reacted quickest in the box to slot the ball home with his right foot. The early setback forced Crystal Palace to sharpen their focus, as they began to dominate possession and search for a gap in the organized Everton defense. Their persistence was rewarded in the 34th minute. Ismaila Sarr showcased his clinical edge, picking up a loose ball and firing a left-footed strike past Jordan Pickford to level the scores. The first half ended with a flurry of tactical fouls and yellow cards for James Garner and Vitaliy Mykolenko , signaling the growing tension between the two sides. Second Half Shifts and Late Drama The second half followed a similar script to the first, with Everton regaining the lead almost immediately after the restart. In the 47th minute, provider turned goalscorer as James Tarkowski delivered an assist for Beto , who finished emphatically with his right foot. Facing another deficit, Crystal Palace turned to their bench, introducing Jean-Philippe Mateta in the 65th minute to provide a fresh attacking impetus. Mateta’s impact was instantaneous. In the 77th minute, the French striker found space in the danger zone and unleashed a left-footed shot that drew the hosts level once more. The final stages were dominated by the Eagles , who pushed for a winner with 59% of the total possession. Mateta nearly turned hero in stoppage time but sent a golden opportunity wide, and a late block on Carlos Alcaraz 's goal-bound effort ensured both teams walked away with a hard-earned point.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "J. Tarkowski",
+                    "score_update": "0 - 1",
+                    "team": "Everton",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Garner",
+                    "team": "Everton",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Sarr",
+                    "score_update": "1 - 1",
+                    "team": "Crystal Palace",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Mykolenko",
+                    "team": "Everton",
+                    "time": "46'"
+                },
+                {
+                    "assist": "J. Tarkowski",
+                    "event_type": "Goal",
+                    "player": "Beto",
+                    "score_update": "1 - 2",
+                    "team": "Everton",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Mateta",
+                    "score_update": "2 - 2",
+                    "team": "Crystal Palace",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Crystal Palace 2 - 2 Everton"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Crystal Palace 2 - 2 Everton"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "07/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Crystal Palace 2 - 1 Shakhtar Donetsk"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "AFC Bournemouth 3 - 0 Crystal Palace"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "30/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Shakhtar Donetsk 1 - 3 Crystal Palace"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Liverpool 3 - 1 Crystal Palace"
+                        }
+                    ],
+                    "team": "Crystal Palace"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "05/10/2025",
+                        "teams_and_score": "Everton 2 - 1 Crystal Palace"
+                    },
+                    {
+                        "competition": "Premier League 24/25",
+                        "date": "15/02/2025",
+                        "teams_and_score": "Crystal Palace 1 - 2 Everton"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "19/02/2024",
+                        "teams_and_score": "Everton 1 - 1 Crystal Palace"
+                    },
+                    {
+                        "competition": "FA Cup: Round 3 23/24",
+                        "date": "17/01/2024",
+                        "teams_and_score": "Everton 1 - 0 Crystal Palace"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "11/11/2023",
+                        "teams_and_score": "Crystal Palace 2 - 3 Everton"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "22/04/2023",
+                        "teams_and_score": "Crystal Palace 0 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "19/05/2022",
+                        "teams_and_score": "Everton 3 - 2 Crystal Palace"
+                    }
+                ],
+                "summary": {
+                    "Crystal Palace_wins": "0",
+                    "Everton_wins": "5",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Crystal Palace": "59%",
+                    "Everton": "41%"
+                },
+                "corners": {
+                    "Crystal Palace": "5",
+                    "Everton": "10"
+                },
+                "crosses": {
+                    "Crystal Palace": "8",
+                    "Everton": "6"
+                },
+                "fouls": {
+                    "Crystal Palace": "5",
+                    "Everton": "13"
+                },
+                "goalkeeper_saves": {
+                    "Crystal Palace": "5",
+                    "Everton": "6"
+                },
+                "offsides": {
+                    "Crystal Palace": "1",
+                    "Everton": "2"
+                },
+                "shots_blocked": {
+                    "Crystal Palace": "5",
+                    "Everton": "4"
+                },
+                "shots_off_target": {
+                    "Crystal Palace": "8",
+                    "Everton": "3"
+                },
+                "shots_on_target": {
+                    "Crystal Palace": "8",
+                    "Everton": "6"
+                },
+                "yellow_cards": {
+                    "Crystal Palace": "0",
+                    "Everton": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Crystal_Palace_v_Everton_2026_05_10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/52.webp",
+                    "name": "Crystal Palace",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/crystal-palace-v-everton-2026-05-10-GMMg.webp",
+            "title": "Crystal Palace vs Everton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Dec 20, 2025",
+            "description": "Watch Everton vs Arsenal highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on December 20, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Arsenal"
+                },
+                "home_team_form": {
+                    "team": "Everton"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Arsenal_2025_12_20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/42.webp",
+                    "name": "Arsenal",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-arsenal-2025-12-20.webp",
+            "title": "Everton vs Arsenal"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Feb 10, 2026",
+            "description": "Watch Everton vs Bournemouth highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on February 10, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "I. Ndiaye",
+                    "score_update": "1 - 0",
+                    "team": "Everton",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Rayan",
+                    "team": "Bournemouth",
+                    "time": "57'"
+                },
+                {
+                    "assist": "A. Truffert",
+                    "event_type": "Goal",
+                    "player": "Rayan",
+                    "score_update": "1 - 1",
+                    "team": "Bournemouth",
+                    "time": "61'"
+                },
+                {
+                    "assist": "J. Hill",
+                    "event_type": "Goal",
+                    "player": "A. Adli",
+                    "score_update": "1 - 2",
+                    "team": "Bournemouth",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Beto",
+                    "team": "Everton",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. O'Brien",
+                    "team": "Everton",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Brooks",
+                    "team": "Bournemouth",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Iraola",
+                    "team": "Bournemouth",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Jimenez",
+                    "team": "Bournemouth",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "10/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Everton 1 - 2 AFC Bournemouth"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Newcastle United 3 - 3 AFC Bournemouth"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "W",
+                            "teams_and_score": "AFC Bournemouth 3 - 2 Tottenham Hotspur"
+                        }
+                    ],
+                    "team": "Bournemouth"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "10/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Everton 1 - 2 AFC Bournemouth"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Sunderland"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Wolves"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "02/12/2025",
+                        "teams_and_score": "AFC Bournemouth 0 - 1 Everton"
+                    },
+                    {
+                        "competition": "Premier League Summer Series 2025",
+                        "date": "26/07/2025",
+                        "teams_and_score": "Everton 0 - 3 AFC Bournemouth"
+                    },
+                    {
+                        "competition": "FA Cup: Round 4",
+                        "date": "08/02/2025",
+                        "teams_and_score": "Everton 0 - 2 AFC Bournemouth"
+                    },
+                    {
+                        "competition": "Premier League 24/25",
+                        "date": "04/01/2025",
+                        "teams_and_score": "AFC Bournemouth 1 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "30/03/2024",
+                        "teams_and_score": "AFC Bournemouth 2 - 1 Everton"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "28/05/2023",
+                        "teams_and_score": "Everton 1 - 0 AFC Bournemouth"
+                    },
+                    {
+                        "competition": "EFL Cup 22/23",
+                        "date": "08/11/2022",
+                        "teams_and_score": "AFC Bournemouth 4 - 1 Everton"
+                    }
+                ],
+                "summary": {
+                    "Bournemouth_wins": "5",
+                    "Everton_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bournemouth": "47%",
+                    "Everton": "53%"
+                },
+                "corners": {
+                    "Bournemouth": "2",
+                    "Everton": "7"
+                },
+                "crosses": {
+                    "Bournemouth": "2",
+                    "Everton": "11"
+                },
+                "fouls": {
+                    "Bournemouth": "15",
+                    "Everton": "14"
+                },
+                "goalkeeper_saves": {
+                    "Bournemouth": "5",
+                    "Everton": "2"
+                },
+                "offsides": {
+                    "Bournemouth": "0",
+                    "Everton": "1"
+                },
+                "red_cards": {
+                    "Bournemouth": "0",
+                    "Everton": "1"
+                },
+                "shots_blocked": {
+                    "Bournemouth": "5",
+                    "Everton": "5"
+                },
+                "shots_off_target": {
+                    "Bournemouth": "2",
+                    "Everton": "5"
+                },
+                "shots_on_target": {
+                    "Bournemouth": "4",
+                    "Everton": "6"
+                },
+                "yellow_cards": {
+                    "Bournemouth": "3",
+                    "Everton": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Bournemouth_2026_02_10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/35.webp",
+                    "name": "Bournemouth",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-bournemouth-2026-02-10-esTS.webp",
+            "title": "Everton vs Bournemouth"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Jan 4, 2026",
+            "description": "Watch Everton vs Brentford highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on January 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Brentford"
+                },
+                "home_team_form": {
+                    "team": "Everton"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Brentford_2026_01_04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/55.webp",
+                    "name": "Brentford",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-brentford-2026-01-04.webp",
+            "title": "Everton vs Brentford"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Mar 3, 2026",
+            "description": "Watch Everton vs Burnley highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on March 3, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Garner",
+                    "event_type": "Goal",
+                    "player": "J. Tarkowski",
+                    "score_update": "1 - 0",
+                    "team": "Everton",
+                    "time": "1'"
+                },
+                {
+                    "assist": "I. Ndiaye",
+                    "event_type": "Goal",
+                    "player": "K. Dewsbury-Hall",
+                    "score_update": "2 - 0",
+                    "team": "Everton",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Humphreys",
+                    "team": "Burnley",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Everton 2 - 0 Burnley"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Burnley 1 - 2 Mansfield Town"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "11/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Crystal Palace 2 - 3 Burnley"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Burnley 5 - 1 Millwall"
+                        }
+                    ],
+                    "team": "Burnley"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "03/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Everton 2 - 0 Burnley"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Sunderland"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Wolves"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "27/12/2025",
+                        "teams_and_score": "Burnley 0 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "06/04/2024",
+                        "teams_and_score": "Everton 1 - 0 Burnley"
+                    },
+                    {
+                        "competition": "EFL Cup: Round 4 23/24",
+                        "date": "01/11/2023",
+                        "teams_and_score": "Everton 3 - 0 Burnley"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "06/04/2022",
+                        "teams_and_score": "Burnley 3 - 2 Everton"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "13/03/2021",
+                        "teams_and_score": "Everton 1 - 2 Burnley"
+                    },
+                    {
+                        "competition": "Premier League 19/20",
+                        "date": "26/12/2019",
+                        "teams_and_score": "Everton 1 - 0 Burnley"
+                    }
+                ],
+                "summary": {
+                    "Burnley_wins": "2",
+                    "Everton_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Burnley": "45%",
+                    "Everton": "56%"
+                },
+                "corners": {
+                    "Burnley": "3",
+                    "Everton": "6"
+                },
+                "crosses": {
+                    "Burnley": "0",
+                    "Everton": "3"
+                },
+                "fouls": {
+                    "Burnley": "12",
+                    "Everton": "10"
+                },
+                "goalkeeper_saves": {
+                    "Burnley": "3",
+                    "Everton": "2"
+                },
+                "offsides": {
+                    "Burnley": "2",
+                    "Everton": "1"
+                },
+                "shots_blocked": {
+                    "Burnley": "1",
+                    "Everton": "4"
+                },
+                "shots_off_target": {
+                    "Burnley": "2",
+                    "Everton": "5"
+                },
+                "shots_on_target": {
+                    "Burnley": "2",
+                    "Everton": "5"
+                },
+                "yellow_cards": {
+                    "Burnley": "1",
+                    "Everton": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Burnley_2026_03_03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/44.webp",
+                    "name": "Burnley",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-burnley-2026-03-03-xptg.webp",
+            "title": "Everton vs Burnley"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Mar 21, 2026",
+            "description": "Watch Everton vs Chelsea highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on March 21, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Garner",
+                    "event_type": "Goal",
+                    "player": "Beto",
+                    "score_update": "1 - 0",
+                    "team": "Everton",
+                    "time": "1'"
+                },
+                {
+                    "assist": "I. Gueye",
+                    "event_type": "Goal",
+                    "player": "Beto",
+                    "score_update": "2 - 0",
+                    "team": "Everton",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Garnacho",
+                    "team": "Chelsea",
+                    "time": "61'"
+                },
+                {
+                    "assist": "Beto",
+                    "event_type": "Goal",
+                    "player": "I. Ndiaye",
+                    "score_update": "3 - 0",
+                    "team": "Everton",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Fofana",
+                    "team": "Chelsea",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Everton 3 - 0 Chelsea"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Chelsea 0 - 3 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "14/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Chelsea 0 - 1 Newcastle United"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "11/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 5 - 2 Chelsea"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Wrexham 2 - 4 Chelsea"
+                        }
+                    ],
+                    "team": "Chelsea"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Everton 3 - 0 Chelsea"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "13/12/2025",
+                        "teams_and_score": "Chelsea 2 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 24/25",
+                        "date": "26/04/2025",
+                        "teams_and_score": "Chelsea 1 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "15/04/2024",
+                        "teams_and_score": "Chelsea 6 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "18/03/2023",
+                        "teams_and_score": "Chelsea 2 - 2 Everton"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "01/05/2022",
+                        "teams_and_score": "Everton 1 - 0 Chelsea"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "08/03/2021",
+                        "teams_and_score": "Chelsea 2 - 0 Everton"
+                    }
+                ],
+                "summary": {
+                    "Chelsea_wins": "4",
+                    "Everton_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Chelsea": "64%",
+                    "Everton": "36%"
+                },
+                "corners": {
+                    "Chelsea": "9",
+                    "Everton": "3"
+                },
+                "crosses": {
+                    "Chelsea": "1",
+                    "Everton": "5"
+                },
+                "fouls": {
+                    "Chelsea": "7",
+                    "Everton": "5"
+                },
+                "goalkeeper_saves": {
+                    "Chelsea": "5",
+                    "Everton": "4"
+                },
+                "shots_blocked": {
+                    "Chelsea": "4",
+                    "Everton": "1"
+                },
+                "shots_off_target": {
+                    "Chelsea": "4",
+                    "Everton": "0"
+                },
+                "shots_on_target": {
+                    "Chelsea": "4",
+                    "Everton": "9"
+                },
+                "yellow_cards": {
+                    "Chelsea": "2",
+                    "Everton": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Chelsea_2026_03_21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/49.webp",
+                    "name": "Chelsea",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-chelsea-2026-03-21-N52N.webp",
+            "title": "Everton vs Chelsea FC"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Oct 5, 2025",
+            "description": "Watch Everton vs Crystal Palace highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on October 5, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Crystal_Palace_2025_10_05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-crystal-palace-2025-10-05.webp",
+            "title": "Everton vs Crystal Palace"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Nov 8, 2025",
+            "description": "Watch Everton vs Fulham highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on November 8, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Fulham"
+                },
+                "home_team_form": {
+                    "team": "Everton"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Fulham_2025_11_08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/36.webp",
+                    "name": "Fulham",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-fulham-2025-11-08.webp",
+            "title": "Everton vs Fulham"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Jan 26, 2026",
+            "description": "Watch Everton vs Leeds highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on January 26, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "G. Fabbian",
+                    "event_type": "Goal",
+                    "player": "R. Piccoli",
+                    "score_update": "1 - 0",
+                    "team": "Everton",
+                    "time": "1'"
+                },
+                {
+                    "assist": "D. Carlos",
+                    "event_type": "Goal",
+                    "player": "S. Roberto",
+                    "score_update": "1 - 1",
+                    "team": "Leeds",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Brescianini",
+                    "team": "Everton",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. V. Der Brempt",
+                    "team": "Leeds",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Carlos",
+                    "team": "Leeds",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Paz",
+                    "score_update": "1 - 2",
+                    "team": "Leeds",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Paz",
+                    "team": "Leeds",
+                    "time": "77'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Comuzzo",
+                    "team": "Everton",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Kuhn",
+                    "team": "Leeds",
+                    "time": "81'"
+                },
+                {
+                    "assist": "N. Kuhn",
+                    "event_type": "Goal",
+                    "player": "Á. Morata",
+                    "score_update": "1 - 3",
+                    "team": "Leeds",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Á. Morata",
+                    "team": "Leeds",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Al-Muwallad",
+                    "team": "Everton",
+                    "time": "113'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Kang-in",
+                    "team": "Leeds",
+                    "time": "114'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Al-Breik",
+                    "team": "Everton",
+                    "time": "120+1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Kanno",
+                    "score_update": "1 - 0",
+                    "team": "Everton",
+                    "time": "PEN 1"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Heung-min",
+                    "score_update": "1 - 1",
+                    "team": "Leeds",
+                    "time": "PEN 1"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Abdulhamid",
+                    "score_update": "2 - 1",
+                    "team": "Everton",
+                    "time": "PEN 2"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Young-gwon",
+                    "score_update": "2 - 2",
+                    "team": "Leeds",
+                    "time": "PEN 2"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Al Naji",
+                    "score_update": "2 - 2",
+                    "team": "Everton",
+                    "time": "PEN 3"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Gue-sung",
+                    "score_update": "2 - 3",
+                    "team": "Leeds",
+                    "time": "PEN 3"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Ghareeb",
+                    "score_update": "2 - 3",
+                    "team": "Everton",
+                    "time": "PEN 4"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "H. Hee-chan",
+                    "score_update": "2 - 4",
+                    "team": "Leeds",
+                    "time": "PEN 4"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "26/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Derby County 1 - 3 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Newcastle United 4 - 3 Leeds United"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "26/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Sunderland"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Wolves"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "18/08/2025",
+                        "teams_and_score": "Leeds United 1 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "18/02/2023",
+                        "teams_and_score": "Everton 1 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "12/02/2022",
+                        "teams_and_score": "Everton 3 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "03/02/2021",
+                        "teams_and_score": "Leeds United 1 - 2 Everton"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "01/08/2015",
+                        "teams_and_score": "Leeds United 2 - 0 Everton"
+                    },
+                    {
+                        "competition": "League Cup",
+                        "date": "25/09/2012",
+                        "teams_and_score": "Leeds United 2 - 1 Everton"
+                    },
+                    {
+                        "competition": "Premier League",
+                        "date": "13/04/2004",
+                        "teams_and_score": "Leeds United 1 - 1 Everton"
+                    }
+                ],
+                "summary": {
+                    "Everton_wins": "3",
+                    "Leeds_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Everton": "58%",
+                    "Leeds": "42%"
+                },
+                "corners": {
+                    "Everton": "4",
+                    "Leeds": "4"
+                },
+                "crosses": {
+                    "Everton": "3",
+                    "Leeds": "2"
+                },
+                "fouls": {
+                    "Everton": "9",
+                    "Leeds": "13"
+                },
+                "goalkeeper_saves": {
+                    "Everton": "3",
+                    "Leeds": "2"
+                },
+                "offsides": {
+                    "Everton": "1",
+                    "Leeds": "0"
+                },
+                "shots_blocked": {
+                    "Everton": "4",
+                    "Leeds": "3"
+                },
+                "shots_off_target": {
+                    "Everton": "3",
+                    "Leeds": "7"
+                },
+                "shots_on_target": {
+                    "Everton": "3",
+                    "Leeds": "4"
+                },
+                "yellow_cards": {
+                    "Everton": "0",
+                    "Leeds": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Leeds_2026_01_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "1"
+                },
+                "status": "AET"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-leeds-2026-01-26-3p2Q.webp",
+            "title": "Everton vs Leeds"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Apr 19, 2026",
+            "description": "Watch Everton vs Liverpool highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on April 19, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Pickford",
+                    "team": "Everton",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "I. Ndiaye",
+                    "team": "Everton",
+                    "time": "16'"
+                },
+                {
+                    "assist": "C. Gakpo",
+                    "event_type": "Goal",
+                    "player": "M. Salah",
+                    "score_update": "0 - 1",
+                    "team": "Liverpool",
+                    "time": "31'"
+                },
+                {
+                    "assist": "K. Dewsbury-Hall",
+                    "event_type": "Goal",
+                    "player": "Beto",
+                    "score_update": "1 - 1",
+                    "team": "Everton",
+                    "time": "54'"
+                },
+                {
+                    "assist": "D. Szoboszlai",
+                    "event_type": "Goal",
+                    "player": "V. v. Dijk",
+                    "score_update": "1 - 2",
+                    "team": "Liverpool",
+                    "time": "90+10'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Garner",
+                    "team": "Everton",
+                    "time": "90+12'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "19/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Everton 1 - 2 Liverpool"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Liverpool 0 - 2 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Liverpool 2 - 0 Fulham"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "08/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 2 - 0 Liverpool"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "04/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Manchester City 4 - 0 Liverpool"
+                        }
+                    ],
+                    "team": "Liverpool"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Everton 1 - 2 Liverpool"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "20/09/2025",
+                        "teams_and_score": "Liverpool 2 - 1 Everton"
+                    },
+                    {
+                        "competition": "Premier League 24/25",
+                        "date": "02/04/2025",
+                        "teams_and_score": "Liverpool 1 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "24/04/2024",
+                        "teams_and_score": "Everton 2 - 0 Liverpool"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "13/02/2023",
+                        "teams_and_score": "Liverpool 2 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "24/04/2022",
+                        "teams_and_score": "Liverpool 2 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "20/02/2021",
+                        "teams_and_score": "Liverpool 0 - 2 Everton"
+                    }
+                ],
+                "summary": {
+                    "Everton_wins": "2",
+                    "Liverpool_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Everton": "44%",
+                    "Liverpool": "56%"
+                },
+                "corners": {
+                    "Everton": "1",
+                    "Liverpool": "6"
+                },
+                "crosses": {
+                    "Everton": "4",
+                    "Liverpool": "2"
+                },
+                "fouls": {
+                    "Everton": "8",
+                    "Liverpool": "12"
+                },
+                "goalkeeper_saves": {
+                    "Everton": "3",
+                    "Liverpool": "3"
+                },
+                "offsides": {
+                    "Everton": "4",
+                    "Liverpool": "0"
+                },
+                "shots_blocked": {
+                    "Everton": "1",
+                    "Liverpool": "4"
+                },
+                "shots_off_target": {
+                    "Everton": "5",
+                    "Liverpool": "4"
+                },
+                "shots_on_target": {
+                    "Everton": "4",
+                    "Liverpool": "6"
+                },
+                "yellow_cards": {
+                    "Everton": "2",
+                    "Liverpool": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Liverpool_2026_04_19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/40.webp",
+                    "name": "Liverpool",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-liverpool-2026-04-19-2sWq.webp",
+            "title": "Everton vs Liverpool"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "May 4, 2026",
+            "description": "Watch Everton vs Manchester City highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on May 4, 2026. The atmosphere at Goodison Park was charged with anticipation as both sides locked horns in a pivotal Premier League encounter held on May 4, 2026. Establishing the tempo Manchester City controlled the early proceedings, moving the ball with purpose and probing for openings. Their persistence was rewarded in the 43rd minute when Jeremy Doku clinicaly converted a pass from Bernardo Silva , with Rayan Cherki providing the assist. This opener gave the visitors a deserved lead as they headed into the break, feeling comfortable despite the occasional defensive scramble. The Toffees strike back The second half transformed into a chaotic affair as the hosts surged forward with newfound confidence. Thierno Barry capitalized on a loose ball in the 68th minute to level the playing field. The momentum shifted entirely to the home side when Jake O'Brien powered home a header from a James Garner corner in the 73rd minute. The incredible turnaround continued at the 81st minute mark, with Thierno Barry once again in the right place to put the ball away, leaving the visitors stunned. A dramatic conclusion The visitors responded with urgency to salvage their campaign. Erling Haaland produced an excellent lob in the 83rd minute to narrow the gap. In the dying moments of the match, the pressure finally paid off: deep into stoppage time at the 90+7' mark, Jeremy Doku fired home a right-footed strike from outside the box following a Marc Guehi assist, capping off a spectacular match that ended in a dramatic 3-3 draw.",
+            "events_timeline": [
+                {
+                    "assist": "R. Cherki",
+                    "event_type": "Goal",
+                    "player": "J. Doku",
+                    "score_update": "0 - 1",
+                    "team": "Manchester City",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Keane",
+                    "team": "Everton",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Beto",
+                    "team": "Everton",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Tarkowski",
+                    "team": "Everton",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Barry",
+                    "score_update": "1 - 1",
+                    "team": "Everton",
+                    "time": "68'"
+                },
+                {
+                    "assist": "J. Garner",
+                    "event_type": "Goal",
+                    "player": "J. O'Brien",
+                    "score_update": "2 - 1",
+                    "team": "Everton",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Donnarumma",
+                    "team": "Manchester City",
+                    "time": "74'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Barry",
+                    "score_update": "3 - 1",
+                    "team": "Everton",
+                    "time": "81'"
+                },
+                {
+                    "assist": "M. Kovačić",
+                    "event_type": "Goal",
+                    "player": "E. Haaland",
+                    "score_update": "3 - 2",
+                    "team": "Manchester City",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. O'Brien",
+                    "team": "Everton",
+                    "time": "86'"
+                },
+                {
+                    "assist": "M. Guéhi",
+                    "event_type": "Goal",
+                    "player": "J. Doku",
+                    "score_update": "3 - 3",
+                    "team": "Manchester City",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "04/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 3 - 3 Manchester City"
+                        },
+                        {
+                            "competition": "FA Cup: Semi-Finals",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Manchester City 2 - 1 Southampton"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Burnley 0 - 1 Manchester City"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Manchester City 4 - 0 Liverpool"
+                        },
+                        {
+                            "competition": "EFL Cup: Final",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Arsenal 0 - 2 Manchester City"
+                        }
+                    ],
+                    "team": "Manchester City"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "04/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 3 - 3 Manchester City"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "18/10/2025",
+                        "teams_and_score": "Manchester City 2 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 24/25",
+                        "date": "19/04/2025",
+                        "teams_and_score": "Everton 0 - 2 Manchester City"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "10/02/2024",
+                        "teams_and_score": "Manchester City 2 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "14/05/2023",
+                        "teams_and_score": "Everton 0 - 3 Manchester City"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "26/02/2022",
+                        "teams_and_score": "Everton 0 - 1 Manchester City"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "23/05/2021",
+                        "teams_and_score": "Manchester City 5 - 0 Everton"
+                    }
+                ],
+                "summary": {
+                    "Everton_wins": "0",
+                    "Manchester City_wins": "6",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Everton": "25%",
+                    "Manchester City": "75%"
+                },
+                "corners": {
+                    "Everton": "5",
+                    "Manchester City": "9"
+                },
+                "crosses": {
+                    "Everton": "3",
+                    "Manchester City": "5"
+                },
+                "fouls": {
+                    "Everton": "15",
+                    "Manchester City": "5"
+                },
+                "goalkeeper_saves": {
+                    "Everton": "1",
+                    "Manchester City": "3"
+                },
+                "offsides": {
+                    "Everton": "4",
+                    "Manchester City": "0"
+                },
+                "shots_blocked": {
+                    "Everton": "6",
+                    "Manchester City": "9"
+                },
+                "shots_off_target": {
+                    "Everton": "2",
+                    "Manchester City": "8"
+                },
+                "shots_on_target": {
+                    "Everton": "6",
+                    "Manchester City": "4"
+                },
+                "yellow_cards": {
+                    "Everton": "4",
+                    "Manchester City": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Manchester_City_2026_05_04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/50.webp",
+                    "name": "Manchester City",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-manchester-city-2026-05-04-0ANQ.webp",
+            "title": "Everton vs Manchester City"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Feb 23, 2026",
+            "description": "Watch Everton vs Manchester United highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on February 23, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "B. Mbeumo",
+                    "event_type": "Goal",
+                    "player": "B. Šeško",
+                    "score_update": "0 - 1",
+                    "team": "Manchester United",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Pickford",
+                    "team": "Everton",
+                    "time": "77'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Tarkowski",
+                    "team": "Everton",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Maguire",
+                    "team": "Manchester United",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Mazraoui",
+                    "team": "Manchester United",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Fernandes",
+                    "team": "Manchester United",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "23/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Everton 0 - 1 Manchester United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Manchester United 1 - 2 Brighton"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Burnley 2 - 2 Manchester United"
+                        }
+                    ],
+                    "team": "Manchester United"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "23/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Everton 0 - 1 Manchester United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Sunderland"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Wolves"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "24/11/2025",
+                        "teams_and_score": "Manchester United 0 - 1 Everton"
+                    },
+                    {
+                        "competition": "Premier League Summer Series 2025",
+                        "date": "03/08/2025",
+                        "teams_and_score": "Manchester United 2 - 2 Everton"
+                    },
+                    {
+                        "competition": "Premier League 24/25",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Everton 2 - 2 Manchester United"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "09/03/2024",
+                        "teams_and_score": "Manchester United 2 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "08/04/2023",
+                        "teams_and_score": "Manchester United 2 - 0 Everton"
+                    },
+                    {
+                        "competition": "FA Cup: Round 3 22/23",
+                        "date": "06/01/2023",
+                        "teams_and_score": "Manchester United 3 - 1 Everton"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "09/10/2022",
+                        "teams_and_score": "Everton 1 - 2 Manchester United"
+                    }
+                ],
+                "summary": {
+                    "Everton_wins": "2",
+                    "Manchester United_wins": "4",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Everton": "48%",
+                    "Manchester United": "52%"
+                },
+                "corners": {
+                    "Everton": "10",
+                    "Manchester United": "1"
+                },
+                "crosses": {
+                    "Everton": "5",
+                    "Manchester United": "1"
+                },
+                "fouls": {
+                    "Everton": "12",
+                    "Manchester United": "7"
+                },
+                "goalkeeper_saves": {
+                    "Everton": "1",
+                    "Manchester United": "4"
+                },
+                "offsides": {
+                    "Everton": "1",
+                    "Manchester United": "0"
+                },
+                "shots_blocked": {
+                    "Everton": "6",
+                    "Manchester United": "2"
+                },
+                "shots_off_target": {
+                    "Everton": "2",
+                    "Manchester United": "6"
+                },
+                "shots_on_target": {
+                    "Everton": "4",
+                    "Manchester United": "3"
+                },
+                "yellow_cards": {
+                    "Everton": "2",
+                    "Manchester United": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Manchester_United_2026_02_23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/33.webp",
+                    "name": "Manchester United",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-manchester-united-2026-02-23-7gZ6.webp",
+            "title": "Everton vs Manchester United"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Nov 29, 2025",
+            "description": "Watch Everton vs Newcastle highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on November 29, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Newcastle_2025_11_29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-newcastle-2025-11-29.webp",
+            "title": "Everton vs Newcastle United"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Dec 6, 2025",
+            "description": "Watch Everton vs Nottingham Forest highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on December 6, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Nottingham_2025_12_06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-nottingham-2025-12-06.webp",
+            "title": "Everton vs Nottingham Forest"
+        },
+        {
+            "competition": "FA Cup",
+            "competition_cover": "https://refooty.com/covers/fa-cup.webp",
+            "date": "May 14, 1966",
+            "description": "Watch Everton vs Sheffield Wednesday highlights and goals from FA Cup on ReFooty: Football Highlights Hub. Match played on May 14, 1966.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. O'Brien",
+                    "team": "Sheffield Wednesday",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Tarkowski",
+                    "team": "Sheffield Wednesday",
+                    "time": "47'"
+                },
+                {
+                    "assist": "J. Bowen",
+                    "event_type": "Goal",
+                    "player": "T. Souček",
+                    "score_update": "1 - 0",
+                    "team": "Everton",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Garner",
+                    "team": "Sheffield Wednesday",
+                    "time": "63'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Castellanos",
+                    "team": "Everton",
+                    "time": "70'"
+                },
+                {
+                    "assist": "J. Tarkowski",
+                    "event_type": "Goal",
+                    "player": "K. Dewsbury-Hall",
+                    "score_update": "1 - 1",
+                    "team": "Sheffield Wednesday",
+                    "time": "88'"
+                },
+                {
+                    "assist": "J. Bowen",
+                    "event_type": "Goal",
+                    "player": "C. Wilson",
+                    "score_update": "2 - 1",
+                    "team": "Everton",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Disasi",
+                    "team": "Everton",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Wilson",
+                    "team": "Everton",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Alcaraz",
+                    "team": "Sheffield Wednesday",
+                    "time": "90+9'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "West Ham United 2 - 1 Everton"
+                        }
+                    ],
+                    "team": "Sheffield Wednesday"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "West Ham United 2 - 1 Everton"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "05/04/2026",
+                            "result": "D",
+                            "teams_and_score": "West Ham United 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Aston Villa 2 - 0 West Ham United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "09/03/2026",
+                            "result": "D",
+                            "teams_and_score": "West Ham United 2 - 2 Brentford"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Fulham 0 - 1 West Ham United"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "29/09/2025",
+                        "teams_and_score": "Everton 1 - 1 West Ham United"
+                    },
+                    {
+                        "competition": "Premier League Summer Series 2025",
+                        "date": "30/07/2025",
+                        "teams_and_score": "West Ham United 2 - 1 Everton"
+                    },
+                    {
+                        "competition": "Premier League 24/25",
+                        "date": "15/03/2025",
+                        "teams_and_score": "Everton 1 - 1 West Ham United"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "02/03/2024",
+                        "teams_and_score": "Everton 1 - 3 West Ham United"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "21/01/2023",
+                        "teams_and_score": "West Ham United 2 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "03/04/2022",
+                        "teams_and_score": "West Ham United 2 - 1 Everton"
+                    }
+                ],
+                "summary": {
+                    "Everton_wins": "0",
+                    "Sheffield Wednesday_wins": "4",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Everton": "44%",
+                    "Sheffield Wednesday": "56%"
+                },
+                "corners": {
+                    "Everton": "3",
+                    "Sheffield Wednesday": "4"
+                },
+                "crosses": {
+                    "Everton": "4",
+                    "Sheffield Wednesday": "1"
+                },
+                "fouls": {
+                    "Everton": "9",
+                    "Sheffield Wednesday": "11"
+                },
+                "goalkeeper_saves": {
+                    "Everton": "1",
+                    "Sheffield Wednesday": "1"
+                },
+                "offsides": {
+                    "Everton": "1",
+                    "Sheffield Wednesday": "2"
+                },
+                "shots_blocked": {
+                    "Everton": "3",
+                    "Sheffield Wednesday": "5"
+                },
+                "shots_off_target": {
+                    "Everton": "4",
+                    "Sheffield Wednesday": "3"
+                },
+                "shots_on_target": {
+                    "Everton": "3",
+                    "Sheffield Wednesday": "3"
+                },
+                "yellow_cards": {
+                    "Everton": "3",
+                    "Sheffield Wednesday": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/everton-vs-sheffield-wednesday-1966-05-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/74.webp",
+                    "name": "Sheffield Wednesday",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-vs-sheffield-wednesday-1966-05-14-YS2e.webp",
+            "title": "Everton vs Sheffield Wednesday"
+        },
+        {
+            "competition": "FA Cup",
+            "competition_cover": "https://refooty.com/covers/fa-cup.webp",
+            "date": "Jan 10, 2026",
+            "description": "Watch Everton vs Sunderland highlights and goals from FA Cup on ReFooty: Football Highlights Hub. Match played on January 10, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Sunderland_2026_01_10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-sunderland-2026-01-10-G4HA.webp",
+            "title": "Everton vs Sunderland"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Sep 29, 2025",
+            "description": "Watch Everton vs West Ham highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 29, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://video.bongdaminhtai.top/Everton_v_West_Ham_2025_09_29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-west-ham-2025-09-29.webp",
+            "title": "Everton vs West Ham"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Jan 7, 2026",
+            "description": "Watch Everton vs Wolverhampton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on January 7, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Wolves_2026_01_07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-wolves-2026-01-07.webp",
+            "title": "Everton vs Wolverhampton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Feb 7, 2026",
+            "description": "Watch Fulham vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on February 7, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "V. Mykolenko",
+                    "team": "Fulham",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Gueye",
+                    "team": "Everton",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Garner",
+                    "team": "Everton",
+                    "time": "56'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Mykolenko",
+                    "team": "Everton",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Cuenca",
+                    "team": "Fulham",
+                    "time": "66'"
+                },
+                {
+                    "assist": "V. Mykolenko",
+                    "event_type": "Goal",
+                    "player": "K. Dewsbury-Hall",
+                    "score_update": "1 - 1",
+                    "team": "Everton",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Leno",
+                    "team": "Everton",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. O'Brien",
+                    "team": "Everton",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Pickford",
+                    "team": "Everton",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Fulham 1 - 2 Everton"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Sunderland"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Wolves"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "07/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Fulham 1 - 2 Everton"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Fulham 3 - 1 Middlesbrough"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Fulham 2 - 1 Chelsea"
+                        }
+                    ],
+                    "team": "Fulham"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "08/11/2025",
+                        "teams_and_score": "Everton 2 - 0 Fulham"
+                    },
+                    {
+                        "competition": "Premier League 24/25",
+                        "date": "10/05/2025",
+                        "teams_and_score": "Fulham 1 - 3 Everton"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "30/01/2024",
+                        "teams_and_score": "Fulham 0 - 0 Everton"
+                    },
+                    {
+                        "competition": "EFL Cup: Quarter-Finals 23/24",
+                        "date": "19/12/2023",
+                        "teams_and_score": "Everton 1 - 1 Fulham"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "12/08/2023",
+                        "teams_and_score": "Everton 0 - 1 Fulham"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "15/04/2023",
+                        "teams_and_score": "Everton 1 - 3 Fulham"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "14/02/2021",
+                        "teams_and_score": "Everton 0 - 2 Fulham"
+                    }
+                ],
+                "summary": {
+                    "Everton_wins": "2",
+                    "Fulham_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Everton": "45%",
+                    "Fulham": "55%"
+                },
+                "corners": {
+                    "Everton": "6",
+                    "Fulham": "6"
+                },
+                "crosses": {
+                    "Everton": "6",
+                    "Fulham": "10"
+                },
+                "fouls": {
+                    "Everton": "12",
+                    "Fulham": "11"
+                },
+                "goalkeeper_saves": {
+                    "Everton": "3",
+                    "Fulham": "2"
+                },
+                "offsides": {
+                    "Everton": "2",
+                    "Fulham": "2"
+                },
+                "shots_blocked": {
+                    "Everton": "3",
+                    "Fulham": "2"
+                },
+                "shots_off_target": {
+                    "Everton": "10",
+                    "Fulham": "8"
+                },
+                "shots_on_target": {
+                    "Everton": "3",
+                    "Fulham": "3"
+                },
+                "yellow_cards": {
+                    "Everton": "5",
+                    "Fulham": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Fulham_v_Everton_2026_02_07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/36.webp",
+                    "name": "Fulham",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fulham-v-everton-2026-02-07-UtMJ.webp",
+            "title": "Fulham vs Everton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Nov 24, 2025",
+            "description": "Watch Manchester United vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on November 24, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Manchester_United_v_Everton_2025_11_24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-united-v-everton-2025-11-24.webp",
+            "title": "Manchester United vs Everton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Feb 28, 2026",
+            "description": "Watch Newcastle vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on February 28, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Garner",
+                    "event_type": "Goal",
+                    "player": "J. Branthwaite",
+                    "score_update": "0 - 1",
+                    "team": "Everton",
+                    "time": "1'"
+                },
+                {
+                    "assist": "S. Tonali",
+                    "event_type": "Goal",
+                    "player": "J. Ramsey",
+                    "score_update": "1 - 1",
+                    "team": "Newcastle",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Beto",
+                    "score_update": "1 - 2",
+                    "team": "Everton",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Dewsbury-Hall",
+                    "team": "Everton",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Willock",
+                    "team": "Newcastle",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Garner",
+                    "team": "Everton",
+                    "time": "67'"
+                },
+                {
+                    "assist": "Joelinton",
+                    "event_type": "Goal",
+                    "player": "J. Murphy",
+                    "score_update": "2 - 2",
+                    "team": "Newcastle",
+                    "time": "82'"
+                },
+                {
+                    "assist": "K. Dewsbury-Hall",
+                    "event_type": "Goal",
+                    "player": "T. Barry",
+                    "score_update": "2 - 3",
+                    "team": "Everton",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Burn",
+                    "team": "Newcastle",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Hall",
+                    "team": "Newcastle",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Barry",
+                    "team": "Everton",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Newcastle United 2 - 3 Everton"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Sunderland"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Wolves"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Newcastle United 2 - 3 Everton"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "24/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Newcastle United 3 - 2 Qarabag FK"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "21/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Manchester City 2 - 1 Newcastle United"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "18/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Qarabag FK 1 - 6 Newcastle United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Aston Villa 1 - 3 Newcastle United"
+                        }
+                    ],
+                    "team": "Newcastle"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Everton 1 - 4 Newcastle United"
+                    },
+                    {
+                        "competition": "Premier League 24/25",
+                        "date": "25/05/2025",
+                        "teams_and_score": "Newcastle United 0 - 1 Everton"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "02/04/2024",
+                        "teams_and_score": "Newcastle United 1 - 1 Everton"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "27/04/2023",
+                        "teams_and_score": "Everton 1 - 4 Newcastle United"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "17/03/2022",
+                        "teams_and_score": "Everton 1 - 0 Newcastle United"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "30/01/2021",
+                        "teams_and_score": "Everton 0 - 2 Newcastle United"
+                    }
+                ],
+                "summary": {
+                    "Everton_wins": "2",
+                    "Newcastle_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Everton": "34%",
+                    "Newcastle": "66%"
+                },
+                "corners": {
+                    "Everton": "2",
+                    "Newcastle": "7"
+                },
+                "crosses": {
+                    "Everton": "2",
+                    "Newcastle": "4"
+                },
+                "fouls": {
+                    "Everton": "7",
+                    "Newcastle": "15"
+                },
+                "goalkeeper_saves": {
+                    "Everton": "4",
+                    "Newcastle": "2"
+                },
+                "offsides": {
+                    "Everton": "4",
+                    "Newcastle": "0"
+                },
+                "shots_blocked": {
+                    "Everton": "1",
+                    "Newcastle": "4"
+                },
+                "shots_off_target": {
+                    "Everton": "3",
+                    "Newcastle": "6"
+                },
+                "shots_on_target": {
+                    "Everton": "5",
+                    "Newcastle": "7"
+                },
+                "yellow_cards": {
+                    "Everton": "3",
+                    "Newcastle": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Newcastle_v_Everton_2026_02_28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/34.webp",
+                    "name": "Newcastle",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/newcastle-v-everton-2026-02-28-yWE0.webp",
+            "title": "Newcastle United vs Everton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Dec 30, 2025",
+            "description": "Watch Nottingham Forest vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on December 30, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Everton"
+                },
+                "home_team_form": {
+                    "team": "Nottingham Forest"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Nottingham_v_Everton_2025_12_30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/65.webp",
+                    "name": "Nottingham Forest",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nottingham-v-everton-2025-12-30.webp",
+            "title": "Nottingham Forest vs Everton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Nov 3, 2025",
+            "description": "Watch Sunderland vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on November 3, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Sunderland_v_Everton_2025_11_03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sunderland-v-everton-2025-11-03.webp",
+            "title": "Sunderland vs Everton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "May 24, 2026",
+            "description": "Watch Tottenham vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on May 24, 2026. The Premier League season reached a fever pitch on 2026-05-24 as Tottenham Hotspur and Everton locked horns in a tactical battle at the Tottenham Hotspur Stadium . Both sides entered the fray looking to secure vital points in a match that promised intensity from the opening whistle. Tight Opening and the Breakthrough The match began with both teams testing each other's defensive organization. Everton looked to utilize set-pieces early on through Kiernan Dewsbury-Hall , while Mathys Tel provided the spark for Tottenham with several dangerous corners. The physical nature of the contest was evident when Jake O'Brien was cautioned early for a cynical pull on his opponent. As the first half progressed, the tension grew until the 43rd minute when the deadlock was finally broken. After a corner from Mathys Tel , the ball fell loose in the box, and Joao Palhinha reacted fastest to slot it home with his left foot, giving the hosts a precious lead going into the interval. Second Half Pressure and VAR Controversy Coming out for the second half, Tottenham looked to double their advantage. Richarlison and Kevin Danso both had significant heading opportunities that went wide or were blocked by a resilient Everton defense. The game took a dramatic turn in the 80th minute when Pape Sarr went down in the box. While the home crowd roared for a penalty, the referee deemed it a dive and booked the midfielder instead, a decision that sparked heated debate across the stadium. This moment of controversy injected fresh energy into the match as both managers turned to their benches, with James Maddison and Randal Kolo Muani entering for the hosts, while Beto and Carlos Alcaraz were introduced for the visitors. A Frantic Finish The closing stages were a test of nerves for Tottenham . Everton threw everything forward, earning a succession of corners delivered by James Garner . In the dying moments, the Toffees nearly found an equalizer when James Tarkowski met a cross, but his header drifted agonizingly wide. Goalkeeper Antonin Kinsky was forced into a crucial late save to preserve the lead, even earning a yellow card for time-wasting in the process. Despite late clearances from Radu Dragusin and Micky van de Ven , the pressure was relentless until the final whistle confirmed a hard-fought victory for the London side, with Joao Palhinha standing out as a Man of the Match contender.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. O'Brien",
+                    "team": "Everton",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Palhinha",
+                    "score_update": "1 - 0",
+                    "team": "Tottenham",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. M. Sarr",
+                    "team": "Tottenham",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Palhinha",
+                    "team": "Tottenham",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Tarkowski",
+                    "team": "Everton",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Kinsky",
+                    "team": "Tottenham",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "24/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Tottenham Hotspur 1 - 0 Everton"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Tottenham Hotspur 1 - 0 Everton"
+                        },
+                        {
+                            "competition": "Round of 16",
+                            "date": "18/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Tottenham Hotspur 3 - 2 Atletico Madrid"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "15/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Liverpool 1 - 1 Tottenham Hotspur"
+                        }
+                    ],
+                    "team": "Tottenham"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "26/10/2025",
+                        "teams_and_score": "Everton 0 - 3 Tottenham Hotspur"
+                    },
+                    {
+                        "competition": "Premier League 24/25",
+                        "date": "19/01/2025",
+                        "teams_and_score": "Everton 3 - 2 Tottenham Hotspur"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "03/02/2024",
+                        "teams_and_score": "Everton 2 - 2 Tottenham Hotspur"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "03/04/2023",
+                        "teams_and_score": "Everton 1 - 1 Tottenham Hotspur"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "07/03/2022",
+                        "teams_and_score": "Tottenham Hotspur 5 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "16/04/2021",
+                        "teams_and_score": "Everton 2 - 2 Tottenham Hotspur"
+                    }
+                ],
+                "summary": {
+                    "Everton_wins": "1",
+                    "Tottenham_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Everton": "50%",
+                    "Tottenham": "50%"
+                },
+                "corners": {
+                    "Everton": "7",
+                    "Tottenham": "7"
+                },
+                "crosses": {
+                    "Everton": "7",
+                    "Tottenham": "9"
+                },
+                "fouls": {
+                    "Everton": "18",
+                    "Tottenham": "15"
+                },
+                "goalkeeper_saves": {
+                    "Everton": "1",
+                    "Tottenham": "1"
+                },
+                "shots_blocked": {
+                    "Everton": "3",
+                    "Tottenham": "9"
+                },
+                "shots_off_target": {
+                    "Everton": "6",
+                    "Tottenham": "9"
+                },
+                "shots_on_target": {
+                    "Everton": "1",
+                    "Tottenham": "2"
+                },
+                "yellow_cards": {
+                    "Everton": "2",
+                    "Tottenham": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Tottenham_v_Everton_2026_05_24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/47.webp",
+                    "name": "Tottenham",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/tottenham-v-everton-2026-05-24-q8AH.webp",
+            "title": "Tottenham Hotspur vs Everton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Apr 25, 2026",
+            "description": "Watch West Ham vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on April 25, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. O'Brien",
+                    "team": "Everton",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Tarkowski",
+                    "team": "Everton",
+                    "time": "47'"
+                },
+                {
+                    "assist": "J. Bowen",
+                    "event_type": "Goal",
+                    "player": "T. Souček",
+                    "score_update": "1 - 0",
+                    "team": "West Ham",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Garner",
+                    "team": "Everton",
+                    "time": "63'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Castellanos",
+                    "team": "West Ham",
+                    "time": "70'"
+                },
+                {
+                    "assist": "J. Tarkowski",
+                    "event_type": "Goal",
+                    "player": "K. Dewsbury-Hall",
+                    "score_update": "1 - 1",
+                    "team": "Everton",
+                    "time": "88'"
+                },
+                {
+                    "assist": "J. Bowen",
+                    "event_type": "Goal",
+                    "player": "C. Wilson",
+                    "score_update": "2 - 1",
+                    "team": "West Ham",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Disasi",
+                    "team": "West Ham",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Wilson",
+                    "team": "West Ham",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Alcaraz",
+                    "team": "Everton",
+                    "time": "90+9'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "West Ham United 2 - 1 Everton"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "West Ham United 2 - 1 Everton"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "05/04/2026",
+                            "result": "D",
+                            "teams_and_score": "West Ham United 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Aston Villa 2 - 0 West Ham United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "09/03/2026",
+                            "result": "D",
+                            "teams_and_score": "West Ham United 2 - 2 Brentford"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Fulham 0 - 1 West Ham United"
+                        }
+                    ],
+                    "team": "West Ham"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "29/09/2025",
+                        "teams_and_score": "Everton 1 - 1 West Ham United"
+                    },
+                    {
+                        "competition": "Premier League Summer Series 2025",
+                        "date": "30/07/2025",
+                        "teams_and_score": "West Ham United 2 - 1 Everton"
+                    },
+                    {
+                        "competition": "Premier League 24/25",
+                        "date": "15/03/2025",
+                        "teams_and_score": "Everton 1 - 1 West Ham United"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "02/03/2024",
+                        "teams_and_score": "Everton 1 - 3 West Ham United"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "21/01/2023",
+                        "teams_and_score": "West Ham United 2 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "03/04/2022",
+                        "teams_and_score": "West Ham United 2 - 1 Everton"
+                    }
+                ],
+                "summary": {
+                    "Everton_wins": "0",
+                    "West Ham_wins": "4",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Everton": "56%",
+                    "West Ham": "44%"
+                },
+                "corners": {
+                    "Everton": "4",
+                    "West Ham": "3"
+                },
+                "crosses": {
+                    "Everton": "1",
+                    "West Ham": "4"
+                },
+                "fouls": {
+                    "Everton": "11",
+                    "West Ham": "9"
+                },
+                "goalkeeper_saves": {
+                    "Everton": "1",
+                    "West Ham": "1"
+                },
+                "offsides": {
+                    "Everton": "2",
+                    "West Ham": "1"
+                },
+                "shots_blocked": {
+                    "Everton": "5",
+                    "West Ham": "3"
+                },
+                "shots_off_target": {
+                    "Everton": "3",
+                    "West Ham": "4"
+                },
+                "shots_on_target": {
+                    "Everton": "3",
+                    "West Ham": "3"
+                },
+                "yellow_cards": {
+                    "Everton": "4",
+                    "West Ham": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/West_Ham_v_Everton_2026_04_25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/48.webp",
+                    "name": "West Ham",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/west-ham-v-everton-2026-04-25-oupT.webp",
+            "title": "West Ham vs Everton"
+        }
+    ]
+}

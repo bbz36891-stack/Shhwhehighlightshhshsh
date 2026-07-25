@@ -1,0 +1,938 @@
+{
+    "team": "Always Ready",
+    "team_logo": "https://img.refooty.com/logo/teams/3700.webp",
+    "total_matches": 6,
+    "matches": [
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 6, 2026",
+            "description": "Watch Always Ready vs Lanus highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 6, 2026. The CONMEBOL Libertadores action returned on May 6, 2026, as Always Ready hosted Lanus in a high-stakes encounter. Both teams took to the pitch with clear ambitions, setting the stage for a match filled with intensity and tactical battles in front of an expectant crowd. Early Drama and the Opening Goal The match ignited early when Always Ready was awarded a penalty in the 13th minute. However, the stadium fell into a momentary hush as Fernando Saucedo failed to convert from the spot. The miss did not deter the home side, who continued to apply relentless pressure. Their persistence was rewarded in the 26th minute when Richet Gomez clinicaly finished a pass from Hector Cuellar , breaking the deadlock and shifting the momentum firmly in favor of the hosts. Doubling the Advantage As the first half drew to a close, Always Ready looked to consolidate their lead. Lanus struggled to contain the fluid movement of the opposition and eventually conceded again in the 45th minute. Enrique Triverio found the back of the net after being set up by Carlitos Rodriguez , ensuring the hosts went into the interval with a comfortable two-goal cushion. The visitors attempted to react with tactical substitutions at half-time, bringing on Dylan Aquino , but the challenge ahead remained steep. A Commanding Second Half Finish The restart provided no respite for the visitors. Only a minute into the second half, Joel Amoroso extended the lead to three after an assist from Jesus Maraude , effectively ending the contest as a competitive spectacle. The remainder of the half was characterized by a flurry of substitutions and bookings, with Dieguito Rodriguez , Dario Torrico , and Agustin Medina all seeing yellow as the intensity remained high. In the dying embers of the game, the home side added further gloss to the scoreline. In the 89th minute, substitute Marcelo Suarez capitalized on an assist from Fernando Nava to make it 4-0. The final whistle confirmed a comprehensive victory for Always Ready , marking a night where their attacking prowess and defensive organization left Lanus with no answers.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "F. Saucedo",
+                    "score_update": "0 - 0",
+                    "team": "Always Ready",
+                    "time": "1'"
+                },
+                {
+                    "assist": "H. Cuéllar",
+                    "event_type": "Goal",
+                    "player": "R. G. Miranda",
+                    "score_update": "1 - 0",
+                    "team": "Always Ready",
+                    "time": "16'"
+                },
+                {
+                    "assist": "C. Rodriguez",
+                    "event_type": "Goal",
+                    "player": "E. Triverio",
+                    "score_update": "2 - 0",
+                    "team": "Always Ready",
+                    "time": "31'"
+                },
+                {
+                    "assist": "J. Maraude",
+                    "event_type": "Goal",
+                    "player": "E. J. Amoroso",
+                    "score_update": "3 - 0",
+                    "team": "Always Ready",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Rodriguez",
+                    "team": "Always Ready",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Torrico",
+                    "team": "Always Ready",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Medina",
+                    "team": "Lanus",
+                    "time": "91'"
+                },
+                {
+                    "assist": "F. Nava",
+                    "event_type": "Goal",
+                    "player": "M. Suárez",
+                    "score_update": "4 - 0",
+                    "team": "Always Ready",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group G",
+                            "date": "06/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Always Ready 4 - 0 Lanus"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Lanus 0 - 0 Deportivo Riestra"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "28/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Lanus 1 - 0 LDU de Quito"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "24/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Lanus 0 - 0 Central Cordoba de Santiago"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Lanus 1 - 0 Always Ready"
+                        }
+                    ],
+                    "team": "Lanus"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group G",
+                            "date": "06/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Always Ready 4 - 0 Lanus"
+                        },
+                        {
+                            "competition": "Primera Division",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Always Ready 3 - 1 Nacional Potosi"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Mirassol 2 - 0 Always Ready"
+                        },
+                        {
+                            "competition": "Primera Division",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Guabira 1 - 2 Always Ready"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Lanus 1 - 0 Always Ready"
+                        }
+                    ],
+                    "team": "Always Ready"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group G",
+                        "date": "16/04/2026",
+                        "teams_and_score": "Lanus 1 - 0 Always Ready"
+                    }
+                ],
+                "summary": {
+                    "Always Ready_wins": "0",
+                    "Lanus_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Always Ready": "64%",
+                    "Lanus": "36%"
+                },
+                "corners": {
+                    "Always Ready": "2",
+                    "Lanus": "5"
+                },
+                "fouls": {
+                    "Always Ready": "16",
+                    "Lanus": "7"
+                },
+                "goalkeeper_saves": {
+                    "Always Ready": "4",
+                    "Lanus": "5"
+                },
+                "offsides": {
+                    "Always Ready": "1",
+                    "Lanus": "1"
+                },
+                "shots_off_target": {
+                    "Always Ready": "11",
+                    "Lanus": "2"
+                },
+                "shots_on_target": {
+                    "Always Ready": "9",
+                    "Lanus": "4"
+                },
+                "yellow_cards": {
+                    "Always Ready": "2",
+                    "Lanus": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/always-ready-vs-lanus-2026-05-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/446.webp",
+                    "name": "Lanus",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3700.webp",
+                    "name": "Always Ready",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/always-ready-vs-lanus-2026-05-06-Ck2g.webp",
+            "title": "Always Ready vs Lanus"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 8, 2026",
+            "description": "Watch Always Ready vs LDU de Quito highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 8, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/always-ready-vs-ldu-de-quito-2026-04-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/always-ready-vs-ldu-de-quito-2026-04-08-setC.webp",
+            "title": "Always Ready vs LDU de Quito"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 19, 2026",
+            "description": "Watch Always Ready vs Mirassol highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 19, 2026. High Stakes at the Libertadores On May 19, 2026, the football pitch became a battleground for the CONMEBOL Libertadores as Always Ready hosted Mirassol in a match defined by tactical physicality and shifting momentum. The atmosphere was charged from the opening whistle, with both sides treating every possession as a vital chance to assert dominance in the tournament. Tactical Battles and Early Goals Mirassol drew first blood in the 11th minute when Shaylon capitalized on an assist from Alesson Batista to silence the home crowd. The goal set a frantic tone, with the first half becoming increasingly scrappy as both teams struggled to contain the opposition, leading to a flurry of disciplinary actions. Always Ready worked hard to stabilize, but the visitors entered the break with their slender lead intact. The Dramatic Climax The intensity did not drop in the second half, with the match becoming a test of composure as fouls mounted up. The pressure finally yielded a breakthrough for the hosts in the 75th minute, as Jesus Maraude netted the equalizer after a clever setup by Enrique Triverio . However, the decisive moment arrived at the 82-minute mark when Nathan Fogaca fired home, again assisted by Alesson Batista , to swing the tide back in favor of Mirassol . Despite the late drama of a red card for Victor Luis , the visitors held their ground to secure a hard-fought result.",
+            "events_timeline": [
+                {
+                    "assist": "A. Alesson",
+                    "event_type": "Goal",
+                    "player": "Shaylon",
+                    "score_update": "0 - 1",
+                    "team": "Mirassol",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Maraude",
+                    "team": "Always Ready",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Carius",
+                    "team": "Mirassol",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Nava",
+                    "team": "Always Ready",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Luis",
+                    "team": "Mirassol",
+                    "time": "49'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Saucedo",
+                    "team": "Always Ready",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Eduardo",
+                    "team": "Mirassol",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Cuéllar",
+                    "team": "Always Ready",
+                    "time": "73'"
+                },
+                {
+                    "assist": "E. Triverio",
+                    "event_type": "Goal",
+                    "player": "J. Maraude",
+                    "score_update": "1 - 1",
+                    "team": "Always Ready",
+                    "time": "75'"
+                },
+                {
+                    "assist": "A. Alesson",
+                    "event_type": "Goal",
+                    "player": "N. Fogaca",
+                    "score_update": "1 - 2",
+                    "team": "Mirassol",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "V. Luis",
+                    "team": "Mirassol",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group G",
+                            "date": "20/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Always Ready 1 - 2 Mirassol"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico MG 3 - 1 Mirassol"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "13/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Mirassol 2 - 1 RB Bragantino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Mirassol 1 - 1 Chapecoense AF"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "07/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Mirassol 2 - 0 LDU de Quito"
+                        }
+                    ],
+                    "team": "Mirassol"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group G",
+                            "date": "20/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Always Ready 1 - 2 Mirassol"
+                        },
+                        {
+                            "competition": "Primera Division",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Always Ready 0 - 1 The Strongest"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "06/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Always Ready 4 - 0 Lanus"
+                        },
+                        {
+                            "competition": "Primera Division",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Always Ready 3 - 1 Nacional Potosi"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Mirassol 2 - 0 Always Ready"
+                        }
+                    ],
+                    "team": "Always Ready"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group G",
+                        "date": "29/04/2026",
+                        "teams_and_score": "Mirassol 2 - 0 Always Ready"
+                    }
+                ],
+                "summary": {
+                    "Always Ready_wins": "0",
+                    "Mirassol_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Always Ready": "45%",
+                    "Mirassol": "55%"
+                },
+                "corners": {
+                    "Always Ready": "2",
+                    "Mirassol": "2"
+                },
+                "fouls": {
+                    "Always Ready": "12",
+                    "Mirassol": "6"
+                },
+                "goalkeeper_saves": {
+                    "Always Ready": "1",
+                    "Mirassol": "0"
+                },
+                "offsides": {
+                    "Always Ready": "1",
+                    "Mirassol": "0"
+                },
+                "red_cards": {
+                    "Always Ready": "0",
+                    "Mirassol": "1"
+                },
+                "shots_off_target": {
+                    "Always Ready": "3",
+                    "Mirassol": "5"
+                },
+                "shots_on_target": {
+                    "Always Ready": "1",
+                    "Mirassol": "3"
+                },
+                "yellow_cards": {
+                    "Always Ready": "4",
+                    "Mirassol": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/always-ready-vs-mirassol-2026-05-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/7848.webp",
+                    "name": "Mirassol",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3700.webp",
+                    "name": "Always Ready",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/always-ready-vs-mirassol-2026-05-19-wIyE.webp",
+            "title": "Always Ready vs Mirassol"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 17, 2026",
+            "description": "Watch Lanus vs Always Ready highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 17, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Canale",
+                    "team": "Lanus",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. G. Miranda",
+                    "team": "Always Ready",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Y. Valois",
+                    "score_update": "1 - 0",
+                    "team": "Lanus",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Nava",
+                    "team": "Always Ready",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Caicedo",
+                    "team": "Always Ready",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "L. Caicedo",
+                    "team": "Always Ready",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group G",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Lanus 1 - 0 Always Ready"
+                        },
+                        {
+                            "competition": "Primera Division",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Aurora 1 - 1 Always Ready"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "08/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Always Ready 0 - 1 LDU de Quito"
+                        },
+                        {
+                            "competition": "Primera Division",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Always Ready 4 - 0 Real Tomayapo"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "14/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Independiente Petrolero 5 - 2 Always Ready"
+                        }
+                    ],
+                    "team": "Always Ready"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group G",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Lanus 1 - 0 Always Ready"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "13/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Lanus 1 - 0 Banfield"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "08/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Mirassol 1 - 0 Lanus"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "01/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Lanus 0 - 0 Club Atletico Platense"
+                        }
+                    ],
+                    "team": "Lanus"
+                },
+                "summary": {
+                    "Always Ready_wins": "0",
+                    "Lanus_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Always Ready": "34%",
+                    "Lanus": "66%"
+                },
+                "corners": {
+                    "Always Ready": "1",
+                    "Lanus": "11"
+                },
+                "fouls": {
+                    "Always Ready": "13",
+                    "Lanus": "10"
+                },
+                "goalkeeper_saves": {
+                    "Always Ready": "4",
+                    "Lanus": "2"
+                },
+                "red_cards": {
+                    "Always Ready": "1",
+                    "Lanus": "0"
+                },
+                "shots_off_target": {
+                    "Always Ready": "2",
+                    "Lanus": "12"
+                },
+                "shots_on_target": {
+                    "Always Ready": "2",
+                    "Lanus": "5"
+                },
+                "yellow_cards": {
+                    "Always Ready": "2",
+                    "Lanus": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/lanus-vs-always-ready-2026-04-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3700.webp",
+                    "name": "Always Ready",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/446.webp",
+                    "name": "Lanus",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lanus-vs-always-ready-2026-04-17-XQoc.webp",
+            "title": "Lanus vs Always Ready"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 26, 2026",
+            "description": "Watch LDU de Quito vs Always Ready highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 26, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/ldu-de-quito-vs-always-ready-2026-05-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/ldu-de-quito-vs-always-ready-2026-05-26-UV95.webp",
+            "title": "LDU de Quito vs Always Ready"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 29, 2026",
+            "description": "Watch Mirassol vs Always Ready highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 29, 2026. Mirassol and Always Ready locked horns in a high-stakes CONMEBOL Libertadores fixture that tested the limits of both sides' tactical discipline and composure. The encounter on April 29, 2026 , provided a rollercoaster of emotions, with the momentum shifting unpredictably as the officiating and clinical finishing took center stage. Early Breakthrough and Physicality The match ignited early under the continental lights as Mirassol wasted no time establishing their presence. In just the 10th minute, a slick attacking move saw Alesson Batista turn provider, threading a precise pass to Carlos Eduardo . The forward made no mistake, firing his effort home to give the home side an early advantage. This opening strike forced Always Ready to rethink their defensive approach, but the game quickly descended into a physical battle rather than a tactical chess match. As the first half progressed, the referee was kept busy by a series of reckless challenges. Fernando Saucedo was the first to enter the book for the visitors, followed closely by the goal-provider Alesson Batista and Richet Gomez . The stop-start nature of the game hindered Always Ready 's attempts to find an equalizer before the interval, as the half concluded with both sides more focused on the physical contest than creative play. Tactical Adjustments and Red Card Drama The second half began with a flurry of activity from the touchline. Always Ready manager looked to inject fresh energy into his squad, introducing Fernando Nava and Dieguito Rodriguez immediately after the break. Mirassol also tinkered with their lineup as the hour mark approached, bringing on Daniel Borges and Carlos Eduardo to maintain their intensity. However, the game took a dramatic and potentially disastrous turn for the hosts in the 75th minute. In a moment of madness that sparked heavy protests from the home bench and players, Joao Victor was shown a straight red card. The dismissal left Mirassol a man down for the final quarter of the match, handing Always Ready a golden opportunity to capitalize on their numerical superiority. The atmosphere grew increasingly hostile as the visitors pushed forward, sensing a chance to salvage a result from the encounter. Clinical Response and Final Whistle Despite the disadvantage, Mirassol demonstrated remarkable resilience. Rather than retreating into a defensive shell, they caught Always Ready off guard with a clinical counter-attack in the 80th minute. In a poetic reversal of the first goal, Carlos Eduardo turned creator, setting up Alesson Batista to double the lead and effectively kill off the contest. The goal stunned the visitors, who had expected to dominate the closing stages against ten men. The final minutes were marked by further disciplinary action as Denilson and Walter were cautioned in a frantic finish. Always Ready threw on Maximo Mamani in a desperate attempt to find a late lifeline, but Mirassol 's organized backline held firm through seven minutes of stoppage time. When the final whistle eventually blew, it confirmed a hard-fought victory for the hosts, who navigated a treacherous second half to secure all three points in their Libertadores campaign.",
+            "events_timeline": [
+                {
+                    "assist": "A. Alesson",
+                    "event_type": "Goal",
+                    "player": "C. Eduardo",
+                    "score_update": "1 - 0",
+                    "team": "Mirassol",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Saucedo",
+                    "team": "Always Ready",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Alesson",
+                    "team": "Mirassol",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. G. Miranda",
+                    "team": "Always Ready",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Formiga",
+                    "team": "Mirassol",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Rodriguez",
+                    "team": "Always Ready",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. V. J. Victor",
+                    "team": "Mirassol",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Walter",
+                    "team": "Mirassol",
+                    "time": "91'"
+                },
+                {
+                    "assist": "C. Eduardo",
+                    "event_type": "Goal",
+                    "player": "A. Alesson",
+                    "score_update": "2 - 0",
+                    "team": "Mirassol",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Denilson",
+                    "team": "Mirassol",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group G",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Mirassol 2 - 0 Always Ready"
+                        },
+                        {
+                            "competition": "Primera Division",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Guabira 1 - 2 Always Ready"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Lanus 1 - 0 Always Ready"
+                        },
+                        {
+                            "competition": "Primera Division",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Aurora 1 - 1 Always Ready"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "08/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Always Ready 0 - 1 LDU de Quito"
+                        }
+                    ],
+                    "team": "Always Ready"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group G",
+                            "date": "29/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Mirassol 2 - 0 Always Ready"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sao Paulo 1 - 0 Mirassol"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "23/04/2026",
+                            "result": "D",
+                            "teams_and_score": "RB Bragantino 1 - 1 Mirassol"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Internacional 1 - 2 Mirassol"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "15/04/2026",
+                            "result": "L",
+                            "teams_and_score": "LDU de Quito 2 - 0 Mirassol"
+                        }
+                    ],
+                    "team": "Mirassol"
+                },
+                "summary": {
+                    "Always Ready_wins": "0",
+                    "Mirassol_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Always Ready": "50%",
+                    "Mirassol": "50%"
+                },
+                "corners": {
+                    "Always Ready": "6",
+                    "Mirassol": "7"
+                },
+                "fouls": {
+                    "Always Ready": "7",
+                    "Mirassol": "13"
+                },
+                "goalkeeper_saves": {
+                    "Always Ready": "3",
+                    "Mirassol": "3"
+                },
+                "offsides": {
+                    "Always Ready": "3",
+                    "Mirassol": "1"
+                },
+                "red_cards": {
+                    "Always Ready": "0",
+                    "Mirassol": "1"
+                },
+                "shots_off_target": {
+                    "Always Ready": "4",
+                    "Mirassol": "4"
+                },
+                "shots_on_target": {
+                    "Always Ready": "3",
+                    "Mirassol": "5"
+                },
+                "yellow_cards": {
+                    "Always Ready": "3",
+                    "Mirassol": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/mirassol-vs-always-ready-2026-04-29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3700.webp",
+                    "name": "Always Ready",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/7848.webp",
+                    "name": "Mirassol",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/mirassol-vs-always-ready-2026-04-29-iFal.webp",
+            "title": "Mirassol vs Always Ready"
+        }
+    ]
+}

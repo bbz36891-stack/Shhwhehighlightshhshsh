@@ -1,0 +1,127 @@
+{
+    "team": "El Salvador",
+    "team_logo": "https://img.refooty.com/logo/teams/5159.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 4, 2026",
+            "description": "Watch South Korea vs El Salvador highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 4, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "L. Dong-gyeong",
+                    "score_update": "1 - 0",
+                    "team": "South Korea",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "04/06/2026",
+                            "result": "L",
+                            "teams_and_score": "South Korea 1 - 0 El Salvador"
+                        },
+                        {
+                            "competition": "CONCACAF Qualification: 3rd Round: Group A",
+                            "date": "19/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Panama 3 - 0 El Salvador"
+                        },
+                        {
+                            "competition": "Gold Cup: Group B",
+                            "date": "25/06/2025",
+                            "result": "L",
+                            "teams_and_score": "Canada 2 - 0 El Salvador"
+                        }
+                    ],
+                    "team": "El Salvador"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "04/06/2026",
+                            "result": "W",
+                            "teams_and_score": "South Korea 1 - 0 El Salvador"
+                        },
+                        {
+                            "competition": "Featured Friendlies 2026",
+                            "date": "31/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Austria 1 - 0 South Korea"
+                        },
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "28/03/2026",
+                            "result": "L",
+                            "teams_and_score": "South Korea 0 - 4 Ivory Coast"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "18/11/2025",
+                            "result": "W",
+                            "teams_and_score": "South Korea 1 - 0 Ghana"
+                        },
+                        {
+                            "competition": "Featured Friendlies 2026",
+                            "date": "10/10/2025",
+                            "result": "L",
+                            "teams_and_score": "South Korea 0 - 5 Brazil"
+                        }
+                    ],
+                    "team": "South Korea"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Friendlies",
+                        "date": "20/06/2023",
+                        "teams_and_score": "South Korea 1 - 1 El Salvador"
+                    }
+                ],
+                "summary": {
+                    "El Salvador_wins": "0",
+                    "South Korea_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/south-korea-vs-el-salvador-2026-06-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/5159.webp",
+                    "name": "El Salvador",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/17.webp",
+                    "name": "South Korea",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/south-korea-vs-el-salvador-2026-06-04-crI6.webp",
+            "title": "South Korea vs El Salvador"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "team": "WEST HAM",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Unknown Competition",
+            "competition_cover": "",
+            "date": "Nov 2, 2025",
+            "description": "Watch West Ham vs Burnley highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on November 2, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/west-ham-burnley-gio-doi-chieu-nhanh-chong-cam-xuc-den-cuoi-cung-ngoai-hang-anh-2526.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/west-ham-burnley-gio-doi-chieu-nhanh-chong-cam-xuc-den-cuoi-cung-ngoai-hang-anh-2526.webp",
+            "title": "WEST HAM vs BURNLEY"
+        }
+    ]
+}

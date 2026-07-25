@@ -1,0 +1,1159 @@
+{
+    "team": "Heerenveen",
+    "team_logo": "https://img.refooty.com/logo/teams/210.webp",
+    "total_matches": 10,
+    "matches": [
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Apr 12, 2026",
+            "description": "Watch AZ Alkmaar vs Heerenveen highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on April 12, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "R. Daal",
+                    "team": "AZ Alkmaar",
+                    "time": "1'"
+                },
+                {
+                    "assist": "M. D. Wit",
+                    "event_type": "Goal",
+                    "player": "S. Mijnans",
+                    "score_update": "1 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Mijnans",
+                    "score_update": "2 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "A. Penetra",
+                    "team": "AZ Alkmaar",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Braude",
+                    "team": "Heerenveen",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. D. Wit",
+                    "team": "AZ Alkmaar",
+                    "time": "46'"
+                },
+                {
+                    "assist": "K. Smit",
+                    "event_type": "Goal",
+                    "player": "T. Parrott",
+                    "score_update": "3 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "AZ Alkmaar 3 - 0 SC Heerenveen"
+                        }
+                    ],
+                    "team": "Heerenveen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 3 - 0 SC Heerenveen"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Shakhtar Donetsk 3 - 0 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 2 - 0 Fortuna Sittard"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "19/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sparta Prague 0 - 4 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 4 - 0 Heracles"
+                        }
+                    ],
+                    "team": "AZ Alkmaar"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "23/11/2025",
+                        "teams_and_score": "SC Heerenveen 3 - 1 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie: UECL Play-off",
+                        "date": "22/05/2025",
+                        "teams_and_score": "AZ Alkmaar 4 - 1 SC Heerenveen"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "02/03/2025",
+                        "teams_and_score": "SC Heerenveen 3 - 1 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 23/24",
+                        "date": "28/01/2024",
+                        "teams_and_score": "SC Heerenveen 2 - 2 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 22/23",
+                        "date": "01/04/2023",
+                        "teams_and_score": "AZ Alkmaar 1 - 1 SC Heerenveen"
+                    },
+                    {
+                        "competition": "Eredivisie: UECL Play-off 21/22",
+                        "date": "22/05/2022",
+                        "teams_and_score": "AZ Alkmaar 2 - 0 SC Heerenveen"
+                    }
+                ],
+                "summary": {
+                    "AZ Alkmaar_wins": "2",
+                    "Heerenveen_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AZ Alkmaar": "58%",
+                    "Heerenveen": "42%"
+                },
+                "corners": {
+                    "AZ Alkmaar": "6",
+                    "Heerenveen": "6"
+                },
+                "crosses": {
+                    "AZ Alkmaar": "4",
+                    "Heerenveen": "5"
+                },
+                "fouls": {
+                    "AZ Alkmaar": "5",
+                    "Heerenveen": "10"
+                },
+                "goalkeeper_saves": {
+                    "AZ Alkmaar": "1",
+                    "Heerenveen": "7"
+                },
+                "offsides": {
+                    "AZ Alkmaar": "2",
+                    "Heerenveen": "2"
+                },
+                "shots_blocked": {
+                    "AZ Alkmaar": "4",
+                    "Heerenveen": "3"
+                },
+                "shots_off_target": {
+                    "AZ Alkmaar": "9",
+                    "Heerenveen": "3"
+                },
+                "shots_on_target": {
+                    "AZ Alkmaar": "10",
+                    "Heerenveen": "1"
+                },
+                "yellow_cards": {
+                    "AZ Alkmaar": "1",
+                    "Heerenveen": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/az-alkmaar-vs-heerenveen-2026-04-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/210.webp",
+                    "name": "Heerenveen",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/az-alkmaar-vs-heerenveen-2026-04-12-wjCb.webp",
+            "title": "AZ Alkmaar vs Heerenveen"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "May 3, 2026",
+            "description": "Watch FC Volendam vs Heerenveen highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on May 3, 2026. The tension was palpable as FC Volendam hosted SC Heerenveen in an Eredivisie clash on 2026-05-03 . Both sides were determined to seize control of the midfield in a match that kept the 6,948 fans in attendance on the edge of their seats until the final whistle. Oyen Sets the Early Tempo The contest began with high intensity as SC Heerenveen looked to unsettle the hosts from the opening whistle. Their persistence was rewarded in just the 8th minute when Vasilios Zagaritis delivered a pinpoint cross into the heart of the box. Luca Oyen rose highest to meet the delivery, steering a powerful header home to give the visitors an early advantage. The goal forced FC Volendam to rethink their strategy, but their frustration manifested in early bookings for Precious Ugwu and Juninho Bacuna , both of whom received yellow cards for dangerous challenges within the first quarter-hour as they struggled to contain the Heerenveen momentum. Volendam Pressure and Tactical Shifts Despite the early setback, FC Volendam carved out a significant chance to level the score during the first half . Henk Veerman came closest in the 14th minute, directing a header toward the target that required a sharp, comfortable save from Bernt Klaverboer . As the game progressed, Bilal Ould-Chikh and Juninho Bacuna looked to utilize set pieces to break down the Heerenveen defense, but a series of corners failed to find a clinical finishing touch. The physical nature of the match continued into the later stages of the half, with Nordin Bukala and Joris van Overeem both entering the referee's book as the battle for supremacy intensified. Substitutions and Mounting Tension The second half saw the FC Volendam coaching staff search for an equalizer through a flurry of tactical substitutions. Gibson Yah , Brandley Kuwas , and the experienced Robert Muehren were introduced shortly after the break to inject fresh energy into the attack. Muehren nearly made an immediate impact in the 75th minute with a well-placed header, but Bernt Klaverboer remained resolute in the Heerenveen goal. The home side continued to push, but they were often caught in the transition, as the visitors utilized their defensive structure to frustrate the Volendam forwards and maintain their slim lead. Clinical Finishing Seals the Result The hosts’ inability to convert their pressure proved costly in the 86th minute when Jacob Trenskow turned provider, setting up Dylan Vente for a decisive moment. Vente made no mistake, firing a right-footed shot into the net to double the lead and effectively silence the home crowd. As the match entered seven minutes of stoppage time, SC Heerenveen focused on preserving their advantage and managing the clock. Lasse Nordaas received a late yellow card for a robust challenge, reflecting the competitive spirit that lasted until the very end. FC Volendam launched a final assault, with Yannick Leliendal and Brandley Kuwas testing the defense, but the Heerenveen backline held firm to confirm a disciplined away performance.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Ugwu",
+                    "team": "FC Volendam",
+                    "time": "1'"
+                },
+                {
+                    "assist": "V. Zagaritis",
+                    "event_type": "Goal",
+                    "player": "L. Oyen",
+                    "score_update": "0 - 1",
+                    "team": "Heerenveen",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Bacuna",
+                    "team": "FC Volendam",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Bukala",
+                    "team": "FC Volendam",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Overeem",
+                    "team": "Heerenveen",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Brouwers",
+                    "team": "Heerenveen",
+                    "time": "80'"
+                },
+                {
+                    "assist": "J. Trenskow",
+                    "event_type": "Goal",
+                    "player": "D. Vente",
+                    "score_update": "0 - 2",
+                    "team": "Heerenveen",
+                    "time": "86'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Nordas",
+                    "team": "Heerenveen",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Volendam 0 - 2 SC Heerenveen"
+                        }
+                    ],
+                    "team": "Heerenveen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Volendam 0 - 2 SC Heerenveen"
+                        }
+                    ],
+                    "team": "FC Volendam"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "09/08/2025",
+                        "teams_and_score": "SC Heerenveen 1 - 1 FC Volendam"
+                    },
+                    {
+                        "competition": "Eredivisie 23/24",
+                        "date": "25/02/2024",
+                        "teams_and_score": "FC Volendam 0 - 4 SC Heerenveen"
+                    },
+                    {
+                        "competition": "Eredivisie 22/23",
+                        "date": "08/04/2023",
+                        "teams_and_score": "SC Heerenveen 2 - 1 FC Volendam"
+                    },
+                    {
+                        "competition": "KNVB Beker Round 2",
+                        "date": "11/01/2023",
+                        "teams_and_score": "SC Heerenveen 2 - 0 FC Volendam"
+                    },
+                    {
+                        "competition": "Eredivisie 22/23",
+                        "date": "23/10/2022",
+                        "teams_and_score": "FC Volendam 1 - 3 SC Heerenveen"
+                    },
+                    {
+                        "competition": "Club Friendlies 2019",
+                        "date": "13/07/2019",
+                        "teams_and_score": "SC Heerenveen 1 - 4 FC Volendam"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "18/07/2017",
+                        "teams_and_score": "SC Heerenveen 3 - 1 FC Volendam"
+                    }
+                ],
+                "summary": {
+                    "FC Volendam_wins": "1",
+                    "Heerenveen_wins": "5",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "FC Volendam": "49%",
+                    "Heerenveen": "51%"
+                },
+                "corners": {
+                    "FC Volendam": "7",
+                    "Heerenveen": "5"
+                },
+                "crosses": {
+                    "FC Volendam": "6",
+                    "Heerenveen": "4"
+                },
+                "fouls": {
+                    "FC Volendam": "8",
+                    "Heerenveen": "14"
+                },
+                "goalkeeper_saves": {
+                    "FC Volendam": "2",
+                    "Heerenveen": "5"
+                },
+                "offsides": {
+                    "FC Volendam": "0",
+                    "Heerenveen": "1"
+                },
+                "shots_blocked": {
+                    "FC Volendam": "5",
+                    "Heerenveen": "5"
+                },
+                "shots_off_target": {
+                    "FC Volendam": "5",
+                    "Heerenveen": "2"
+                },
+                "shots_on_target": {
+                    "FC Volendam": "5",
+                    "Heerenveen": "4"
+                },
+                "yellow_cards": {
+                    "FC Volendam": "3",
+                    "Heerenveen": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-volendam-vs-heerenveen-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/210.webp",
+                    "name": "Heerenveen",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/416.webp",
+                    "name": "FC Volendam",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-volendam-vs-heerenveen-2026-05-03-HiLu.webp",
+            "title": "FC Volendam vs Heerenveen"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Feb 12, 2026",
+            "description": "Watch GO Ahead Eagles vs Heerenveen highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on February 12, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/go-ahead-eagles-vs-heerenveen-2026-02-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/go-ahead-eagles-vs-heerenveen-2026-02-12-79FZ.webp",
+            "title": "GO Ahead Eagles vs Heerenveen"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Heerenveen vs Ajax highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on May 17, 2026. Stalemate in Friesland: A Defensive Masterclass On May 17, 2026, the Abe Lenstra Stadion provided the stage for a compelling Eredivisie encounter between SC Heerenveen and Ajax . In a match characterized by defensive solidity and tactical discipline, both teams were forced to settle for a point as neither side could find the back of the net. Tactical Battles and Missed Opportunities From the opening whistle, the game unfolded as a tight, tactical affair. The home side, SC Heerenveen , signaled their intent early when Luca Oyen managed a dangerous effort in the 14th minute, only to be denied by a clearance off the goal line. Ajax looked to respond through Sean Steur , who narrowly missed the target with a strike from distance, showcasing the fine margins that defined the contest throughout the afternoon. As the match moved into the second half, the physical intensity grew. The referee was forced to issue yellow cards to Jorthy Mokio , Lucas Rosa , and Youri Regeer as both teams committed to tactical fouls to break up momentum. The drama reached its zenith in the 82nd minute following a defensive blunder by Ajax goalkeeper Maarten Paes . Oliver Braude latched onto the loose ball, but his attempt was once again hacked off the line, preserving the draw for the visitors. In front of an attendance of 25,450, both teams ultimately struggled to find a breakthrough, leaving the scoreline deadlocked at the final whistle. Key Performer: Bernt Klaverboer ( SC Heerenveen ) earned plaudits for his rock-solid performance throughout the match. Match Discipline: A physical contest saw yellow cards awarded to Jorthy Mokio , Lucas Rosa , and Youri Regeer .",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Mokio",
+                    "team": "Ajax",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Rosa",
+                    "team": "Ajax",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Regeer",
+                    "team": "Ajax",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "SC Heerenveen 0 - 0 Ajax"
+                        }
+                    ],
+                    "team": "Ajax"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "SC Heerenveen 0 - 0 Ajax"
+                        }
+                    ],
+                    "team": "Heerenveen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "01/11/2025",
+                        "teams_and_score": "Ajax 1 - 1 SC Heerenveen"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "19/01/2025",
+                        "teams_and_score": "SC Heerenveen 0 - 2 Ajax"
+                    },
+                    {
+                        "competition": "Eredivisie 23/24",
+                        "date": "11/02/2024",
+                        "teams_and_score": "SC Heerenveen 3 - 2 Ajax"
+                    },
+                    {
+                        "competition": "Eredivisie 22/23",
+                        "date": "12/03/2023",
+                        "teams_and_score": "SC Heerenveen 2 - 4 Ajax"
+                    },
+                    {
+                        "competition": "Eredivisie 21/22",
+                        "date": "11/05/2022",
+                        "teams_and_score": "Ajax 5 - 0 SC Heerenveen"
+                    },
+                    {
+                        "competition": "Eredivisie 20/21",
+                        "date": "04/04/2021",
+                        "teams_and_score": "SC Heerenveen 1 - 2 Ajax"
+                    }
+                ],
+                "summary": {
+                    "Ajax_wins": "4",
+                    "Heerenveen_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Ajax": "47%",
+                    "Heerenveen": "53%"
+                },
+                "corners": {
+                    "Ajax": "6",
+                    "Heerenveen": "10"
+                },
+                "crosses": {
+                    "Ajax": "5",
+                    "Heerenveen": "5"
+                },
+                "fouls": {
+                    "Ajax": "8",
+                    "Heerenveen": "9"
+                },
+                "goalkeeper_saves": {
+                    "Ajax": "4",
+                    "Heerenveen": "6"
+                },
+                "offsides": {
+                    "Ajax": "0",
+                    "Heerenveen": "1"
+                },
+                "shots_blocked": {
+                    "Ajax": "6",
+                    "Heerenveen": "4"
+                },
+                "shots_off_target": {
+                    "Ajax": "11",
+                    "Heerenveen": "6"
+                },
+                "shots_on_target": {
+                    "Ajax": "6",
+                    "Heerenveen": "6"
+                },
+                "yellow_cards": {
+                    "Ajax": "3",
+                    "Heerenveen": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/heerenveen-vs-ajax-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/194.webp",
+                    "name": "Ajax",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/210.webp",
+                    "name": "Heerenveen",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/heerenveen-vs-ajax-2026-05-17-DsOT.webp",
+            "title": "Heerenveen vs Ajax"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Apr 5, 2026",
+            "description": "Watch Heerenveen vs Heracles highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on April 5, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/heerenveen-vs-heracles-2026-04-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/heerenveen-vs-heracles-2026-04-05-h3sk.webp",
+            "title": "Heerenveen vs Heracles"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Feb 16, 2026",
+            "description": "Watch Heerenveen vs PEC Zwolle highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on February 16, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/heerenveen-vs-pec-zwolle-2026-02-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/heerenveen-vs-pec-zwolle-2026-02-16-v3UW.webp",
+            "title": "Heerenveen vs PEC Zwolle"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Dec 6, 2025",
+            "description": "Watch Heerenveen vs PSV Eindhoven highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on December 6, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/heerenveen-vs-psv-eindhoven-2025-12-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/heerenveen-vs-psv-eindhoven-2025-12-06-Pukn.webp",
+            "title": "Heerenveen vs PSV Eindhoven"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "May 11, 2026",
+            "description": "Watch NAC Breda vs Heerenveen highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on May 11, 2026. The Eredivisie clash on May 11, 2026 , delivered a high-octane spectacle as two determined sides battled for supremacy under the floodlights. Fans were treated to a rollercoaster of emotions as the tactical battle evolved from a dominant opening into a chaotic and unpredictable finish. AZ Alkmaar’s Explosive Opening The match began with a flurry of activity as AZ Alkmaar looked to impose their will early on. It took only eight minutes for the deadlock to be broken when Troy Parrott found space to deliver a precise assist for Sven Mijnans , whose clinical finish with his left foot sent the visitors into an early lead. The momentum stayed firmly with the away side, and by the 12th minute, they had doubled their advantage. Mateo Chavez capitalized on a key pass from Sven Mijnans , slotting the ball home with his left foot to leave NAC Breda reeling in the opening stages of the contest. NAC Breda Fights Back Despite the early setbacks, NAC Breda refused to surrender, slowly finding their footing as the match progressed into the second half. The comeback began in earnest in the 61st minute when Cherrion Valerius delivered a pinpoint cross for Moussa Soumano , who rose highest to head the ball home and ignite the home crowd. Ten minutes later, the momentum shifted completely as Fredrik Oldrup Jensen teed up Moussa Soumano once more; the forward struck a powerful right-footed effort from outside the box to bring the scores level and set up a grandstand finish. A Breathless Finale The closing stages of the match on this 2026-05-11 evening were nothing short of extraordinary. In the 89th minute, Juho Talvitie seemed to have completed the miracle turnaround for NAC Breda , firing a left-footed shot from distance into the back of the net following another assist from Cherrion Valerius . However, the celebrations were short-lived. In the 90th minute, Mexx Meerdink found a way through for AZ Alkmaar , beating the keeper with a right-footed strike from outside the area after being set up by Weslley Pinto . Despite late pressure and several corners for the visitors, the referee blew the final whistle on a pulsating 3-3 draw.",
+            "events_timeline": [
+                {
+                    "assist": "T. Parrott",
+                    "event_type": "Goal",
+                    "player": "S. Mijnans",
+                    "score_update": "1 - 0",
+                    "team": "NAC Breda",
+                    "time": "1'"
+                },
+                {
+                    "assist": "S. Mijnans",
+                    "event_type": "Goal",
+                    "player": "M. Chavez",
+                    "score_update": "2 - 0",
+                    "team": "NAC Breda",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Hillen",
+                    "team": "Heerenveen",
+                    "time": "46'"
+                },
+                {
+                    "assist": "C. Valerius",
+                    "event_type": "Goal",
+                    "player": "M. Soumano",
+                    "score_update": "2 - 1",
+                    "team": "Heerenveen",
+                    "time": "61'"
+                },
+                {
+                    "assist": "F. O. Jensen",
+                    "event_type": "Goal",
+                    "player": "M. Soumano",
+                    "score_update": "2 - 2",
+                    "team": "Heerenveen",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Meerdink",
+                    "team": "NAC Breda",
+                    "time": "91'"
+                },
+                {
+                    "assist": "C. Valerius",
+                    "event_type": "Goal",
+                    "player": "J. Talvitie",
+                    "score_update": "2 - 3",
+                    "team": "Heerenveen",
+                    "time": "106'"
+                },
+                {
+                    "assist": "W. Patati",
+                    "event_type": "Goal",
+                    "player": "M. Meerdink",
+                    "score_update": "3 - 3",
+                    "team": "NAC Breda",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "AZ Alkmaar 3 - 3 NAC Breda"
+                        }
+                    ],
+                    "team": "Heerenveen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "AZ Alkmaar 3 - 3 NAC Breda"
+                        },
+                        {
+                            "competition": "KNVB Beker: Final",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "AZ Alkmaar 5 - 1 NEC Nijmegen"
+                        },
+                        {
+                            "competition": "Quarter-Finals",
+                            "date": "16/04/2026",
+                            "result": "D",
+                            "teams_and_score": "AZ Alkmaar 2 - 2 Shakhtar Donetsk"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "AZ Alkmaar 3 - 0 SC Heerenveen"
+                        },
+                        {
+                            "competition": "Quarter-Finals",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Shakhtar Donetsk 3 - 0 AZ Alkmaar"
+                        }
+                    ],
+                    "team": "NAC Breda"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "31/08/2025",
+                        "teams_and_score": "NAC Breda 0 - 1 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "24/04/2025",
+                        "teams_and_score": "AZ Alkmaar 1 - 1 NAC Breda"
+                    },
+                    {
+                        "competition": "KNVB Beker 19/20",
+                        "date": "12/02/2020",
+                        "teams_and_score": "AZ Alkmaar 1 - 3 NAC Breda"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "08/02/2019",
+                        "teams_and_score": "NAC Breda 0 - 3 AZ Alkmaar"
+                    }
+                ],
+                "summary": {
+                    "Heerenveen_wins": "2",
+                    "NAC Breda_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Heerenveen": "45%",
+                    "NAC Breda": "55%"
+                },
+                "corners": {
+                    "Heerenveen": "6",
+                    "NAC Breda": "7"
+                },
+                "crosses": {
+                    "Heerenveen": "6",
+                    "NAC Breda": "5"
+                },
+                "fouls": {
+                    "Heerenveen": "6",
+                    "NAC Breda": "11"
+                },
+                "goalkeeper_saves": {
+                    "Heerenveen": "7",
+                    "NAC Breda": "7"
+                },
+                "offsides": {
+                    "Heerenveen": "3",
+                    "NAC Breda": "1"
+                },
+                "shots_blocked": {
+                    "Heerenveen": "2",
+                    "NAC Breda": "2"
+                },
+                "shots_off_target": {
+                    "Heerenveen": "4",
+                    "NAC Breda": "4"
+                },
+                "shots_on_target": {
+                    "Heerenveen": "11",
+                    "NAC Breda": "10"
+                },
+                "yellow_cards": {
+                    "Heerenveen": "1",
+                    "NAC Breda": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/nac-breda-vs-heerenveen-2026-05-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/210.webp",
+                    "name": "Heerenveen",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/203.webp",
+                    "name": "NAC Breda",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nac-breda-vs-heerenveen-2026-05-11-0Qaz.webp",
+            "title": "NAC Breda vs Heerenveen"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Feb 7, 2026",
+            "description": "Watch Twente vs Heerenveen highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on February 7, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/twente-vs-heerenveen-2026-02-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/twente-vs-heerenveen-2026-02-07-6mW8.webp",
+            "title": "Twente vs Heerenveen"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "May 21, 2026",
+            "description": "Watch Utrecht vs Heerenveen highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on May 21, 2026. The Eredivisie clash between FC Utrecht and SC Heerenveen on May 21, 2026, delivered a rollercoaster of emotions as both sides battled for supremacy in a high-stakes encounter. Fans at the stadium witnessed a game defined by sudden shifts in momentum and clinical finishing. Tactical Stalemate in the Opening Half The initial phase of the match was characterized by tactical discipline, with both teams searching for openings in opposing defenses. FC Utrecht looked to create danger through set-pieces, with Souffian El Karouani swinging in several corners, but the SC Heerenveen backline remained alert. At the other end, the visitors had one of the best chances of the first half when Jacob Trenskow directed a dangerous header toward goal, forcing goalkeeper Vasilios Barkas into a comfortable save to keep the scoreline level. The game continued with intense battles in midfield, where Marcus Linday eventually entered the referee's book following a rough challenge. Despite the territorial pressure and attempts from Artem Stepanov , who had an effort ruled out for offside, the deadlock remained unbroken at the interval, leaving all the drama for the second 45 minutes. A Frantic Second Half Explosion The restart brought an immediate shift in offensive efficiency. In the 46th minute, FC Utrecht broke the deadlock following a defensive error by Bernt Klaverboer , allowing Artem Stepanov to tap the ball into an empty net. However, SC Heerenveen responded quickly, equalizing in the 54th minute when Dylan Vente executed a sublime lob over the keeper after being played in by Joris van Overeem . The home side's response was swift and clinical. Just two minutes later, Mike van der Hoorn rose highest to head home a corner delivered by Souffian El Karouani . Without giving their opponents time to recover, FC Utrecht extended their lead to 3-1 in the 58th minute as Souffian El Karouani met a Niklas Vesterlund cross with a spectacular volley into the back of the net. Late Tension and the Final Whistle Refusing to back down, SC Heerenveen pushed forward and managed to reduce the deficit in the 77th minute. Jacob Trenskow , assisted by Dylan Vente , unleashed a powerful left-footed strike from outside the box that beat the keeper, setting up a tense finale. Substitutions followed, with Sebastien Haller and Adrian Blake introduced to provide fresh legs for the Utrecht attack. In the closing stages, the drama intensified. Adrian Blake had two golden opportunities to seal the victory on a rapid counter-attack, but his efforts were thwarted by the goalkeeper and the Heerenveen defense, anchored by Maas Willemsen . Despite late pressure from the visitors during three minutes of stoppage time, FC Utrecht held onto their narrow lead in front of 19,334 spectators, securing a hard-fought victory in a five-goal thriller.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "A. Stepanov",
+                    "score_update": "1 - 0",
+                    "team": "Utrecht",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Linday",
+                    "team": "Heerenveen",
+                    "time": "61'"
+                },
+                {
+                    "assist": "J. Overeem",
+                    "event_type": "Goal",
+                    "player": "D. Vente",
+                    "score_update": "1 - 1",
+                    "team": "Heerenveen",
+                    "time": "76'"
+                },
+                {
+                    "assist": "S. E. Karouani",
+                    "event_type": "Goal",
+                    "player": "M. v. d. Hoorn",
+                    "score_update": "2 - 1",
+                    "team": "Utrecht",
+                    "time": "91'"
+                },
+                {
+                    "assist": "N. Vesterlund",
+                    "event_type": "Goal",
+                    "player": "S. E. Karouani",
+                    "score_update": "3 - 1",
+                    "team": "Utrecht",
+                    "time": "106'"
+                },
+                {
+                    "assist": "D. Vente",
+                    "event_type": "Goal",
+                    "player": "J. Trenskow",
+                    "score_update": "3 - 2",
+                    "team": "Heerenveen",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie: UECL Play-off",
+                            "date": "21/05/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Utrecht 3 - 2 SC Heerenveen"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "SC Heerenveen 0 - 0 Ajax"
+                        }
+                    ],
+                    "team": "Heerenveen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie: UECL Play-off",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Utrecht 3 - 2 SC Heerenveen"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Utrecht 2 - 0 Fortuna Sittard"
+                        }
+                    ],
+                    "team": "Utrecht"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "01/02/2026",
+                        "teams_and_score": "SC Heerenveen 1 - 1 FC Utrecht"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "30/03/2025",
+                        "teams_and_score": "FC Utrecht 2 - 0 SC Heerenveen"
+                    },
+                    {
+                        "competition": "Eredivisie 23/24",
+                        "date": "07/04/2024",
+                        "teams_and_score": "SC Heerenveen 2 - 3 FC Utrecht"
+                    },
+                    {
+                        "competition": "Eredivisie 22/23",
+                        "date": "04/02/2023",
+                        "teams_and_score": "FC Utrecht 1 - 0 SC Heerenveen"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "08/07/2022",
+                        "teams_and_score": "SC Heerenveen 0 - 1 FC Utrecht"
+                    },
+                    {
+                        "competition": "Eredivisie 21/22",
+                        "date": "27/02/2022",
+                        "teams_and_score": "SC Heerenveen 1 - 2 FC Utrecht"
+                    }
+                ],
+                "summary": {
+                    "Heerenveen_wins": "0",
+                    "Utrecht_wins": "5",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Heerenveen": "57%",
+                    "Utrecht": "43%"
+                },
+                "corners": {
+                    "Heerenveen": "6",
+                    "Utrecht": "9"
+                },
+                "crosses": {
+                    "Heerenveen": "19",
+                    "Utrecht": "21"
+                },
+                "fouls": {
+                    "Heerenveen": "6",
+                    "Utrecht": "11"
+                },
+                "goalkeeper_saves": {
+                    "Heerenveen": "5",
+                    "Utrecht": "3"
+                },
+                "offsides": {
+                    "Heerenveen": "0",
+                    "Utrecht": "1"
+                },
+                "shots_blocked": {
+                    "Heerenveen": "0",
+                    "Utrecht": "7"
+                },
+                "shots_off_target": {
+                    "Heerenveen": "6",
+                    "Utrecht": "8"
+                },
+                "shots_on_target": {
+                    "Heerenveen": "5",
+                    "Utrecht": "8"
+                },
+                "yellow_cards": {
+                    "Heerenveen": "1",
+                    "Utrecht": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/utrecht-vs-heerenveen-2026-05-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/210.webp",
+                    "name": "Heerenveen",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/207.webp",
+                    "name": "Utrecht",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/utrecht-vs-heerenveen-2026-05-21-wvY2.webp",
+            "title": "Utrecht vs Heerenveen"
+        }
+    ]
+}

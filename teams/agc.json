@@ -1,0 +1,105 @@
+{
+    "team": "AGC",
+    "team_logo": "https://img.refooty.com/logo/teams/23748.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 8, 2026",
+            "description": "Watch AGC vs FC Dallas highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 8, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Houston Dynamo 0 - 2 Los Angeles FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "19/10/2025",
+                            "result": "D",
+                            "teams_and_score": "Sporting Kansas City 0 - 0 Houston Dynamo"
+                        }
+                    ],
+                    "team": "FC Dallas"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "New York Red Bulls 1 - 0 New England Revolution"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "18/10/2025",
+                            "result": "D",
+                            "teams_and_score": "New England Revolution 2 - 2 Chicago Fire"
+                        }
+                    ],
+                    "team": "AGC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2024",
+                        "date": "03/10/2024",
+                        "teams_and_score": "Houston Dynamo 2 - 1 New England Revolution"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "05/03/2023",
+                        "teams_and_score": "New England Revolution 3 - 0 Houston Dynamo"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "14/09/2022",
+                        "teams_and_score": "Houston Dynamo 3 - 1 New England Revolution"
+                    },
+                    {
+                        "competition": "Major League Soccer",
+                        "date": "29/06/2019",
+                        "teams_and_score": "New England Revolution 2 - 1 Houston Dynamo"
+                    }
+                ],
+                "summary": {
+                    "AGC_wins": "0",
+                    "FC Dallas_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/lafc-fc-dallas-2026-03-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1597.webp",
+                    "name": "FC Dallas",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/23748.webp",
+                    "name": "AGC",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lafc-fc-dallas-2026-03-08-xvou.webp",
+            "title": "LAFC - FC Dallas"
+        }
+    ]
+}

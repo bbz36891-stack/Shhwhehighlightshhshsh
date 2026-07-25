@@ -1,0 +1,3052 @@
+{
+    "team": "Austin FC",
+    "team_logo": "https://img.refooty.com/logo/teams/16489.webp",
+    "total_matches": 15,
+    "matches": [
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 1, 2026",
+            "description": "Watch Austin FC vs DC United highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 1, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Stroud",
+                    "team": "DC United",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Torres",
+                    "team": "Austin FC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Pereira",
+                    "team": "Austin FC",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Ramirez",
+                    "score_update": "1 - 0",
+                    "team": "Austin FC",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Sabovic",
+                    "team": "Austin FC",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Kurokawa",
+                    "team": "DC United",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Pirani",
+                    "team": "DC United",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 0 DC United"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "18/10/2025",
+                            "result": "D",
+                            "teams_and_score": "Atlanta United 1 - 1 DC United"
+                        }
+                    ],
+                    "team": "DC United"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Austin FC 1 - 0 DC United"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "03/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 4 Los Angeles FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "19/10/2025",
+                            "result": "L",
+                            "teams_and_score": "San Jose Earthquakes 2 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "02/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 2 Nashville SC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "28/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Real Salt Lake 3 - 1 Austin FC"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "26/07/2025",
+                        "teams_and_score": "DC United 2 - 4 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "05/10/2023",
+                        "teams_and_score": "Austin FC 3 - 0 DC United"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "16/04/2022",
+                        "teams_and_score": "DC United 2 - 3 Austin FC"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "3",
+                    "DC United_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "55%",
+                    "DC United": "45%"
+                },
+                "corners": {
+                    "Austin FC": "10",
+                    "DC United": "4"
+                },
+                "fouls": {
+                    "Austin FC": "14",
+                    "DC United": "17"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "2",
+                    "DC United": "7"
+                },
+                "offsides": {
+                    "Austin FC": "1",
+                    "DC United": "0"
+                },
+                "shots_blocked": {
+                    "Austin FC": "6",
+                    "DC United": "1"
+                },
+                "shots_off_target": {
+                    "Austin FC": "3",
+                    "DC United": "4"
+                },
+                "shots_on_target": {
+                    "Austin FC": "9",
+                    "DC United": "2"
+                },
+                "yellow_cards": {
+                    "Austin FC": "3",
+                    "DC United": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/austin-fc-dc-united-2026-03-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1615.webp",
+                    "name": "DC United",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/austin-fc-dc-united-2026-03-01-e9U8.webp",
+            "title": "Austin FC - D.C. United"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch Austin FC vs Houston Dynamo highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 26, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "F. Torres",
+                    "event_type": "Goal",
+                    "player": "J. Nelson",
+                    "score_update": "1 - 0",
+                    "team": "Austin FC",
+                    "time": "13'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Hines-Ike",
+                    "team": "Austin FC",
+                    "time": "27'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Artur",
+                    "team": "Houston Dynamo",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Uzuni",
+                    "score_update": "2 - 0",
+                    "team": "Austin FC",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Rosales",
+                    "team": "Austin FC",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Desler",
+                    "team": "Austin FC",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Torres",
+                    "team": "Austin FC",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Ennali",
+                    "team": "Houston Dynamo",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 2 - 0 Houston Dynamo"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Houston Dynamo 4 - 1 El Paso Locomotive"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Colorado Rapids 6 - 2 Houston Dynamo"
+                        }
+                    ],
+                    "team": "Houston Dynamo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Austin FC 2 - 0 Houston Dynamo"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Louisville City FC 2 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 2 LA Galaxy"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "10/08/2025",
+                        "teams_and_score": "Austin FC 2 - 2 Houston Dynamo"
+                    },
+                    {
+                        "competition": "US Open Cup",
+                        "date": "22/05/2025",
+                        "teams_and_score": "Austin FC 3 - 1 Houston Dynamo"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "27/04/2025",
+                        "teams_and_score": "Houston Dynamo 2 - 0 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "22/09/2024",
+                        "teams_and_score": "Austin FC 0 - 1 Houston Dynamo"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "25/06/2023",
+                        "teams_and_score": "Austin FC 3 - 0 Houston Dynamo"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "13/07/2022",
+                        "teams_and_score": "Austin FC 3 - 1 Houston Dynamo"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "3",
+                    "Houston Dynamo_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "46%",
+                    "Houston Dynamo": "54%"
+                },
+                "corners": {
+                    "Austin FC": "3",
+                    "Houston Dynamo": "5"
+                },
+                "fouls": {
+                    "Austin FC": "14",
+                    "Houston Dynamo": "11"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "5",
+                    "Houston Dynamo": "2"
+                },
+                "offsides": {
+                    "Austin FC": "0",
+                    "Houston Dynamo": "2"
+                },
+                "shots_blocked": {
+                    "Austin FC": "4",
+                    "Houston Dynamo": "1"
+                },
+                "shots_off_target": {
+                    "Austin FC": "5",
+                    "Houston Dynamo": "5"
+                },
+                "shots_on_target": {
+                    "Austin FC": "4",
+                    "Houston Dynamo": "5"
+                },
+                "yellow_cards": {
+                    "Austin FC": "4",
+                    "Houston Dynamo": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/austin-fc-houston-dynamo-fc-2026-04-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1600.webp",
+                    "name": "Houston Dynamo",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/austin-fc-houston-dynamo-fc-2026-04-26-iGXu.webp",
+            "title": "Austin FC - Houston Dynamo FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Austin FC vs LA Galaxy highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Cuevas",
+                    "team": "LA Galaxy",
+                    "time": "1'"
+                },
+                {
+                    "assist": "M. Reus",
+                    "event_type": "Goal",
+                    "player": "M. Yoshida",
+                    "score_update": "0 - 1",
+                    "team": "LA Galaxy",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Cerrillo",
+                    "team": "LA Galaxy",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Sabovic",
+                    "team": "Austin FC",
+                    "time": "52'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Biro",
+                    "team": "Austin FC",
+                    "time": "75'"
+                },
+                {
+                    "assist": "C. Garces",
+                    "event_type": "Goal",
+                    "player": "E. Thommy",
+                    "score_update": "0 - 2",
+                    "team": "LA Galaxy",
+                    "time": "78'"
+                },
+                {
+                    "assist": "G. Biro",
+                    "event_type": "Goal",
+                    "player": "M. Uzuni",
+                    "score_update": "1 - 2",
+                    "team": "Austin FC",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Marcinkowski",
+                    "team": "LA Galaxy",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Klauss",
+                    "team": "LA Galaxy",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Austin FC 1 - 2 LA Galaxy"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Toluca 4 - 2 LA Galaxy"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "05/04/2026",
+                            "result": "L",
+                            "teams_and_score": "LA Galaxy 1 - 2 Minnesota United"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "19/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Mount Pleasant 0 - 3 LA Galaxy"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "LA Galaxy 1 - 2 Sporting Kansas City"
+                        }
+                    ],
+                    "team": "LA Galaxy"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 2 LA Galaxy"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "03/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 4 Los Angeles FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "19/10/2025",
+                            "result": "L",
+                            "teams_and_score": "San Jose Earthquakes 2 - 1 Austin FC"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "17/07/2025",
+                        "teams_and_score": "LA Galaxy 1 - 2 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "06/10/2024",
+                        "teams_and_score": "LA Galaxy 2 - 1 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "25/09/2023",
+                        "teams_and_score": "Austin FC 3 - 3 LA Galaxy"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "29/05/2022",
+                        "teams_and_score": "LA Galaxy 4 - 1 Austin FC"
+                    },
+                    {
+                        "competition": "Major League Soccer 2021",
+                        "date": "27/09/2021",
+                        "teams_and_score": "Austin FC 2 - 0 LA Galaxy"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "2",
+                    "LA Galaxy_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "61%",
+                    "LA Galaxy": "39%"
+                },
+                "corners": {
+                    "Austin FC": "6",
+                    "LA Galaxy": "6"
+                },
+                "fouls": {
+                    "Austin FC": "9",
+                    "LA Galaxy": "10"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "5",
+                    "LA Galaxy": "4"
+                },
+                "offsides": {
+                    "Austin FC": "2",
+                    "LA Galaxy": "0"
+                },
+                "shots_blocked": {
+                    "Austin FC": "2",
+                    "LA Galaxy": "3"
+                },
+                "shots_off_target": {
+                    "Austin FC": "5",
+                    "LA Galaxy": "2"
+                },
+                "shots_on_target": {
+                    "Austin FC": "5",
+                    "LA Galaxy": "7"
+                },
+                "yellow_cards": {
+                    "Austin FC": "2",
+                    "LA Galaxy": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/austin-fc-la-galaxy-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3997.webp",
+                    "name": "LA Galaxy",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/austin-fc-la-galaxy-2026-04-11-uA1k.webp",
+            "title": "Austin FC - LA Galaxy"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Jul 23, 2026",
+            "description": "Watch Austin FC vs Seattle Sounders FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on July 23, 2026. The MLS clash between Austin FC and Seattle Sounders FC delivered a masterclass in late-game drama and tactical substitutions. Both sides displayed immense energy from the start, setting the stage for a contest that would ultimately be decided by the narrowest of margins and moments of individual brilliance. Early Breakthrough and Quick Response On July 23, 2026, the match ignited early as Austin FC took the lead in the 12th minute. Ilie Sanchez found the net following a well-placed assist from Besard Sabovic , sending the home crowd into a frenzy. However, Seattle Sounders FC refused to be intimidated. Their persistence paid off in the 26th minute when Paul Rothrock struck a clinical equalizer, ensuring that the first half ended with both teams on level terms after a period of high-intensity football. Tactical Shifts and the Torres Impact The second half remained a tense affair, characterized by strategic fouls and yellow cards for Jackson Ragen and Besard Sabovic . As the clock ticked down, the managers turned to their benches to find a spark. It was the introduction of Ervin Torres in the 84th minute that proved to be the turning point. Just two minutes after coming on, Torres set up Myrto Uzuni for a crucial goal in the 86th minute, restoring the lead for the hosts and shifting the momentum firmly in their favor. Stoppage Time Chaos As the game entered injury time, Austin FC capitalized on their renewed energy to put the result beyond doubt. In the 92nd minute, Ervin Torres provided his second assist of the night, this time finding Christian Ramirez to make it 3-1. The frustration for Seattle Sounders FC peaked in the 95th minute when Jackson Ragen was shown a second yellow card and subsequently sent off. The final whistle blew shortly after, confirming a vital victory for Austin FC in front of their jubilant supporters.",
+            "events_timeline": [
+                {
+                    "assist": "B. Sabovic",
+                    "event_type": "Goal",
+                    "player": "I. Sanchez",
+                    "score_update": "1 - 0",
+                    "team": "Austin FC",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Rothrock",
+                    "score_update": "1 - 1",
+                    "team": "Seattle Sounders FC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Ragen",
+                    "team": "Seattle Sounders FC",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Sabovic",
+                    "team": "Austin FC",
+                    "time": "60'"
+                },
+                {
+                    "assist": "E. Torres",
+                    "event_type": "Goal",
+                    "player": "M. Uzuni",
+                    "score_update": "2 - 1",
+                    "team": "Austin FC",
+                    "time": "86'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Uzuni",
+                    "team": "Austin FC",
+                    "time": "87'"
+                },
+                {
+                    "assist": "E. Torres",
+                    "event_type": "Goal",
+                    "player": "C. Ramirez",
+                    "score_update": "3 - 1",
+                    "team": "Austin FC",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Ragen",
+                    "team": "Seattle Sounders FC",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "23/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 3 - 1 Seattle Sounders FC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Seattle Sounders FC 3 - 1 Tigres"
+                        }
+                    ],
+                    "team": "Seattle Sounders FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "23/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Austin FC 3 - 1 Seattle Sounders FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Louisville City FC 2 - 1 Austin FC"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "21/09/2025",
+                        "teams_and_score": "Austin FC 2 - 1 Seattle Sounders FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "14/07/2024",
+                        "teams_and_score": "Austin FC 0 - 1 Seattle Sounders FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "31/08/2023",
+                        "teams_and_score": "Austin FC 1 - 2 Seattle Sounders FC"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "11/09/2022",
+                        "teams_and_score": "Seattle Sounders FC 3 - 0 Austin FC"
+                    },
+                    {
+                        "competition": "Major League Soccer 2021",
+                        "date": "23/07/2021",
+                        "teams_and_score": "Austin FC 0 - 1 Seattle Sounders FC"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "1",
+                    "Seattle Sounders FC_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "53%",
+                    "Seattle Sounders FC": "47%"
+                },
+                "corners": {
+                    "Austin FC": "4",
+                    "Seattle Sounders FC": "4"
+                },
+                "fouls": {
+                    "Austin FC": "5",
+                    "Seattle Sounders FC": "12"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "2",
+                    "Seattle Sounders FC": "3"
+                },
+                "offsides": {
+                    "Austin FC": "1",
+                    "Seattle Sounders FC": "2"
+                },
+                "red_cards": {
+                    "Austin FC": "0",
+                    "Seattle Sounders FC": "1"
+                },
+                "shots_blocked": {
+                    "Austin FC": "0",
+                    "Seattle Sounders FC": "4"
+                },
+                "shots_off_target": {
+                    "Austin FC": "4",
+                    "Seattle Sounders FC": "3"
+                },
+                "shots_on_target": {
+                    "Austin FC": "6",
+                    "Seattle Sounders FC": "3"
+                },
+                "yellow_cards": {
+                    "Austin FC": "2",
+                    "Seattle Sounders FC": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/austin-fc-seattle-sounders-fc-2026-07-23_vsIzk.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1595.webp",
+                    "name": "Seattle Sounders FC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/austin-fc-seattle-sounders-fc-2026-07-23-wSak.webp",
+            "title": "Austin FC - Seattle Sounders FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Austin FC vs Sporting Kansas City highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 17, 2026. High stakes at the Q2 Stadium On May 17, 2026, Austin FC and Sporting Kansas City clashed in a pivotal Major League Soccer fixture characterized by intense tactical battles and a physical contest across the pitch. Both sides engaged in a rigorous struggle for control, with the match rhythm heavily dictated by frequent stops and a series of disciplinary actions as the intensity mounted. Breaking the deadlock As the first half entered stoppage time, the breakthrough finally arrived. A sharp attacking sequence saw Guilherme Biro deliver a precise pass to Mikkel Desler , who found the back of the net to give Austin FC a hard-fought lead. The goal provided a significant psychological advantage for the hosts as they headed into the halftime break, leaving the visitors to contemplate significant tactical adjustments. The late surge Following the restart, the match transformed into a battle of the benches as managers looked to fresh personnel to shift the momentum. The introduction of Manu Garcia and Magomed-Shapi Suleymanov proved to be the masterstroke for Sporting Kansas City . The duo combined perfectly in the 79th minute, with Garcia slotting home the equalizer. The momentum swung firmly in favor of the visitors, and they capitalized on their surge just three minutes later when Stephen Afrifa fired in the go-ahead goal. Despite late attempts from Austin FC to force a result, the visitors remained firm to secure the victory as the final whistle blew.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Capita",
+                    "team": "Sporting Kansas City",
+                    "time": "28'"
+                },
+                {
+                    "assist": "G. Biro",
+                    "event_type": "Goal",
+                    "player": "M. Desler",
+                    "score_update": "1 - 0",
+                    "team": "Austin FC",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Davis",
+                    "team": "Sporting Kansas City",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Svatok",
+                    "team": "Austin FC",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Sanchez",
+                    "team": "Austin FC",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Z. Bassong",
+                    "team": "Sporting Kansas City",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Nelson",
+                    "team": "Austin FC",
+                    "time": "106'"
+                },
+                {
+                    "assist": "S. Suleymanov",
+                    "event_type": "Goal",
+                    "player": "M. Garcia",
+                    "score_update": "1 - 1",
+                    "team": "Sporting Kansas City",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Afrifa",
+                    "score_update": "1 - 2",
+                    "team": "Sporting Kansas City",
+                    "time": "136'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Fodrey",
+                    "team": "Austin FC",
+                    "time": "151'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Austin FC 1 - 2 Sporting Kansas City"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "15/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Colorado Springs Switchbacks FC 3 - 0 Sporting Kansas City"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Kansas City 1 - 3 San Jose Earthquakes"
+                        }
+                    ],
+                    "team": "Sporting Kansas City"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 2 Sporting Kansas City"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Louisville City FC 2 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 2 LA Galaxy"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "07/09/2025",
+                        "teams_and_score": "Sporting Kansas City 1 - 2 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "30/06/2024",
+                        "teams_and_score": "Sporting Kansas City 2 - 0 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "16/07/2023",
+                        "teams_and_score": "Austin FC 2 - 1 Sporting Kansas City"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "14/08/2022",
+                        "teams_and_score": "Austin FC 4 - 3 Sporting Kansas City"
+                    },
+                    {
+                        "competition": "Major League Soccer 2021",
+                        "date": "04/11/2021",
+                        "teams_and_score": "Austin FC 3 - 1 Sporting Kansas City"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "4",
+                    "Sporting Kansas City_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "50%",
+                    "Sporting Kansas City": "50%"
+                },
+                "corners": {
+                    "Austin FC": "3",
+                    "Sporting Kansas City": "7"
+                },
+                "fouls": {
+                    "Austin FC": "13",
+                    "Sporting Kansas City": "21"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "6",
+                    "Sporting Kansas City": "2"
+                },
+                "offsides": {
+                    "Austin FC": "0",
+                    "Sporting Kansas City": "1"
+                },
+                "shots_blocked": {
+                    "Austin FC": "1",
+                    "Sporting Kansas City": "7"
+                },
+                "shots_off_target": {
+                    "Austin FC": "3",
+                    "Sporting Kansas City": "5"
+                },
+                "shots_on_target": {
+                    "Austin FC": "3",
+                    "Sporting Kansas City": "9"
+                },
+                "yellow_cards": {
+                    "Austin FC": "4",
+                    "Sporting Kansas City": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/austin-fc-sporting-kansas-city-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1611.webp",
+                    "name": "Sporting Kansas City",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/austin-fc-sporting-kansas-city-2026-05-17-T7ac.webp",
+            "title": "Austin FC - Sporting Kansas City"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 4, 2026",
+            "description": "Watch Austin FC vs St. Louis City II highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 4, 2026. The encounter between Austin FC and St. Louis CITY SC promised a tactical battle as both sides looked to climb the Major League Soccer standings. With tension building throughout the week, this fixture on May 4, 2026 , offered a platform for heroes to emerge under the bright lights in a contest that demanded both patience and precision. Midfield Battle Defines the Early Exchanges From the opening whistle, the match unfolded as a disciplined affair with both managers prioritizing defensive solidity. Austin FC attempted to control the tempo through possession, but St. Louis CITY SC remained compact, frustrating the home side’s creative outlets. The physical nature of the game became apparent in the 36th minute when Guilherme Biro was shown the first yellow card of the match for a robust challenge, setting a combative tone for the remainder of the evening. Despite several half-chances and probing runs into the final third, neither goalkeeper was truly tested before the referee brought a scoreless first half to a close. The Breakthrough and Tactical Shifts The second half saw an immediate increase in urgency. St. Louis CITY SC defender Timo Baumgartl received a booking in the 51st minute as the visitors struggled to cope with the intensifying pressure. Sensing the need for a change, the Austin FC coaching staff introduced Daniel Pereira in the 65th minute, a move that proved to be the catalyst for the game's opening goal . Just four minutes after his introduction, Pereira found space to provide a clinical assist for Christian Ramirez , who kept his composure to fire the ball into the net in the 69th minute, sending the home fans into raptures. Clinical Finishing Ensures the Victory With the deadlock broken, St. Louis CITY SC was forced to commit more players forward, leaving gaps in their defensive line. Austin FC ruthlessly exploited these spaces in the 81st minute to double their advantage. In a reversal of roles from the first goal, Christian Ramirez turned provider, sliding a perfectly weighted pass to Myrto Uzuni , who made no mistake with a clinical finish to make it 2-0. The final ten minutes were marked by a flurry of substitutions and rising tempers, with Brendan Hines-Ike and Brendan McSorley both seeing yellow as the visitors' frustration grew. Ultimately, Austin FC managed the closing stages with professional ease, securing a vital three points in a display of tactical maturity and clinical finishing.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Biro",
+                    "team": "Austin FC",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Baumgartl",
+                    "team": "St. Louis City II",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Durkin",
+                    "team": "St. Louis City II",
+                    "time": "68'"
+                },
+                {
+                    "assist": "D. Pereira",
+                    "event_type": "Goal",
+                    "player": "C. Ramirez",
+                    "score_update": "1 - 0",
+                    "team": "Austin FC",
+                    "time": "69'"
+                },
+                {
+                    "assist": "C. Ramirez",
+                    "event_type": "Goal",
+                    "player": "M. Uzuni",
+                    "score_update": "2 - 0",
+                    "team": "Austin FC",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Hines-Ike",
+                    "team": "Austin FC",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. McSorley",
+                    "team": "St. Louis City II",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 2 - 0 St. Louis City"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "30/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Chicago Fire 1 - 2 St. Louis City"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Louis City 2 - 3 San Jose Earthquakes"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Louis City 4 - 0 FC Tulsa"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "12/04/2026",
+                            "result": "D",
+                            "teams_and_score": "FC Dallas 1 - 1 St. Louis City"
+                        }
+                    ],
+                    "team": "St. Louis City II"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Austin FC 2 - 0 St. Louis City"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Louisville City FC 2 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 2 LA Galaxy"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "05/10/2025",
+                        "teams_and_score": "Austin FC 1 - 3 St. Louis City"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "14/04/2024",
+                        "teams_and_score": "St. Louis City 1 - 0 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "21/08/2023",
+                        "teams_and_score": "St. Louis City 6 - 3 Austin FC"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "0",
+                    "St Louis City II_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "56%",
+                    "St Louis City II": "44%"
+                },
+                "corners": {
+                    "Austin FC": "4",
+                    "St Louis City II": "6"
+                },
+                "fouls": {
+                    "Austin FC": "14",
+                    "St Louis City II": "20"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "5",
+                    "St Louis City II": "4"
+                },
+                "offsides": {
+                    "Austin FC": "2",
+                    "St Louis City II": "1"
+                },
+                "shots_blocked": {
+                    "Austin FC": "3",
+                    "St Louis City II": "3"
+                },
+                "shots_off_target": {
+                    "Austin FC": "6",
+                    "St Louis City II": "7"
+                },
+                "shots_on_target": {
+                    "Austin FC": "6",
+                    "St Louis City II": "5"
+                },
+                "yellow_cards": {
+                    "Austin FC": "2",
+                    "St Louis City II": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/austin-fc-st-louis-city-sc-2026-05-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18740.webp",
+                    "name": "St. Louis City II",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/austin-fc-st-louis-city-sc-2026-05-04-Un7C.webp",
+            "title": "Austin FC - St. Louis CITY SC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 22, 2026",
+            "description": "Watch Austin FC vs Los Angeles FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 22, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Tillman",
+                    "team": "Los Angeles FC",
+                    "time": "26'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Segura",
+                    "team": "Los Angeles FC",
+                    "time": "41'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Bell",
+                    "team": "Austin FC",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Uzuni",
+                    "team": "Austin FC",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Desler",
+                    "team": "Austin FC",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Austin FC 0 - 0 Los Angeles FC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "18/03/2026",
+                            "result": "W",
+                            "teams_and_score": "LD Alajuelense 1 - 2 Los Angeles FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Los Angeles FC 2 - 0 St. Louis City"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "11/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Los Angeles FC 1 - 1 LD Alajuelense"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Los Angeles FC 1 - 0 FC Dallas"
+                        }
+                    ],
+                    "team": "Los Angeles FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Austin FC 0 - 0 Los Angeles FC"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "03/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 4 Los Angeles FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "19/10/2025",
+                            "result": "L",
+                            "teams_and_score": "San Jose Earthquakes 2 - 1 Austin FC"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS: Play-off 2025",
+                        "date": "03/11/2025",
+                        "teams_and_score": "Austin FC 1 - 4 Los Angeles FC"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "12/10/2025",
+                        "teams_and_score": "Austin FC 1 - 0 Los Angeles FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "19/09/2024",
+                        "teams_and_score": "Los Angeles FC 1 - 1 Austin FC"
+                    },
+                    {
+                        "competition": "",
+                        "date": "08/08/2024",
+                        "teams_and_score": "Los Angeles FC 2 - 0 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "20/06/2024",
+                        "teams_and_score": "Austin FC 1 - 1 Los Angeles FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "08/10/2023",
+                        "teams_and_score": "Austin FC 2 - 4 Los Angeles FC"
+                    },
+                    {
+                        "competition": "MLS: Play-off 2022",
+                        "date": "30/10/2022",
+                        "teams_and_score": "Los Angeles FC 3 - 0 Austin FC"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "1",
+                    "Los Angeles FC_wins": "4",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "62%",
+                    "Los Angeles FC": "38%"
+                },
+                "corners": {
+                    "Austin FC": "5",
+                    "Los Angeles FC": "4"
+                },
+                "fouls": {
+                    "Austin FC": "11",
+                    "Los Angeles FC": "7"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "1",
+                    "Los Angeles FC": "1"
+                },
+                "offsides": {
+                    "Austin FC": "2",
+                    "Los Angeles FC": "0"
+                },
+                "shots_blocked": {
+                    "Austin FC": "4",
+                    "Los Angeles FC": "5"
+                },
+                "shots_off_target": {
+                    "Austin FC": "5",
+                    "Los Angeles FC": "5"
+                },
+                "shots_on_target": {
+                    "Austin FC": "1",
+                    "Los Angeles FC": "1"
+                },
+                "yellow_cards": {
+                    "Austin FC": "3",
+                    "Los Angeles FC": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/austin-fc-vs-los-angeles-fc-2026-03-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1616.webp",
+                    "name": "Los Angeles FC",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/austin-fc-vs-los-angeles-fc-2026-03-22-mgU9.webp",
+            "title": "Austin FC vs Los Angeles FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 8, 2026",
+            "description": "Watch Charlotte vs Austin FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 8, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Zaha",
+                    "team": "Charlotte",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "G. Biro",
+                    "team": "Austin FC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Gorno",
+                    "score_update": "1 - 0",
+                    "team": "Charlotte",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Agyemang",
+                    "team": "Austin FC",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Uzuni",
+                    "team": "Austin FC",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Abada",
+                    "team": "Charlotte",
+                    "time": "64'"
+                },
+                {
+                    "assist": "L. Abada",
+                    "event_type": "Goal",
+                    "player": "P. Biel",
+                    "score_update": "2 - 1",
+                    "team": "Charlotte",
+                    "time": "68'"
+                },
+                {
+                    "assist": "L. d. la Torre",
+                    "event_type": "Goal",
+                    "player": "P. Biel",
+                    "score_update": "3 - 1",
+                    "team": "Charlotte",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 3 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "03/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 4 Los Angeles FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "19/10/2025",
+                            "result": "L",
+                            "teams_and_score": "San Jose Earthquakes 2 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "02/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 2 Nashville SC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "28/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Real Salt Lake 3 - 1 Austin FC"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 3 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "08/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 3 New York City FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "18/10/2025",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 2 - 0 Philadelphia Union"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2024",
+                        "date": "21/07/2024",
+                        "teams_and_score": "Austin FC 2 - 2 Charlotte"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "30/06/2022",
+                        "teams_and_score": "Charlotte 0 - 1 Austin FC"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "1",
+                    "Charlotte_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "27%",
+                    "Charlotte": "73%"
+                },
+                "corners": {
+                    "Austin FC": "3",
+                    "Charlotte": "12"
+                },
+                "fouls": {
+                    "Austin FC": "12",
+                    "Charlotte": "9"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "8",
+                    "Charlotte": "0"
+                },
+                "offsides": {
+                    "Austin FC": "1",
+                    "Charlotte": "0"
+                },
+                "red_cards": {
+                    "Austin FC": "1",
+                    "Charlotte": "0"
+                },
+                "shots_blocked": {
+                    "Austin FC": "0",
+                    "Charlotte": "10"
+                },
+                "shots_off_target": {
+                    "Austin FC": "5",
+                    "Charlotte": "4"
+                },
+                "shots_on_target": {
+                    "Austin FC": "0",
+                    "Charlotte": "11"
+                },
+                "yellow_cards": {
+                    "Austin FC": "1",
+                    "Charlotte": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charlotte-fc-austin-fc-2026-03-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charlotte-fc-austin-fc-2026-03-08-n5Eq.webp",
+            "title": "Charlotte FC - Austin FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 5, 2026",
+            "description": "Watch Inter Miami vs Austin FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 5, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/inter-miami-cf-austin-fc-2026-04-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/inter-miami-cf-austin-fc-2026-04-05-UgV5.webp",
+            "title": "Inter Miami CF - Austin FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 11, 2026",
+            "description": "Watch Minnesota United FC vs Austin FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 11, 2026. The match between Minnesota United FC and Austin FC on May 11, 2026 , served as a highly anticipated fixture in the Major League Soccer calendar. Both sides sought to establish dominance early on, setting the stage for a tactical battle in front of an expectant crowd. First Half Friction and Early Lead The game began with a fierce physical intensity, with the referee busy issuing yellow cards to Jefferson Diaz , Tomas Chancalay , and Nectarios Triantis throughout a scrappy first half. Austin FC drew first blood in the 14th minute when Myrto Uzuni clinically dispatched a penalty kick. Minnesota United had the perfect chance to respond in the 22nd minute, but Kelvin Yeboah failed to convert his own penalty attempt, leaving the home side trailing as they headed toward the half-time whistle. Second Half Momentum Shift The tactical landscape shifted significantly in the second half as both managers utilized their benches to inject fresh energy into the match. The contest reached a boiling point in the 69th minute when Anthony Markanich fired home after an assist from James Rodriguez . This ignited a late-game frenzy; in the 78th minute, Joaquin Pereyra struck following another James Rodriguez delivery, and just sixty seconds later, Christian Ramirez found the back of the net, set up by Facundo Torres . Although both sides pressed until the final whistle, the scoreline remained unchanged, capping off a dramatic encounter.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Uzuni",
+                    "score_update": "0 - 1",
+                    "team": "Austin FC",
+                    "time": "14'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Yeboah",
+                    "score_update": "1 - 1",
+                    "team": "Minnesota United FC",
+                    "time": "22'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Diaz",
+                    "team": "Minnesota United FC",
+                    "time": "29'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Triantis",
+                    "team": "Minnesota United FC",
+                    "time": "40'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Chancalay",
+                    "team": "Minnesota United FC",
+                    "time": "42'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Torres",
+                    "team": "Austin FC",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Pereyra",
+                    "team": "Minnesota United FC",
+                    "time": "45+12'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Gallagher",
+                    "team": "Austin FC",
+                    "time": "45+12'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Gene",
+                    "team": "Minnesota United FC",
+                    "time": "46'"
+                },
+                {
+                    "assist": "J. Rodríguez",
+                    "event_type": "Goal",
+                    "player": "A. Markanich",
+                    "score_update": "1 - 1",
+                    "team": "Minnesota United FC",
+                    "time": "61'"
+                },
+                {
+                    "assist": "J. Rodríguez",
+                    "event_type": "Goal",
+                    "player": "J. Pereyra",
+                    "score_update": "2 - 1",
+                    "team": "Minnesota United FC",
+                    "time": "76'"
+                },
+                {
+                    "assist": "F. Torres",
+                    "event_type": "Goal",
+                    "player": "C. Ramirez",
+                    "score_update": "2 - 2",
+                    "team": "Austin FC",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Minnesota United 2 - 2 Austin FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Louisville City FC 2 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 2 LA Galaxy"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Minnesota United 2 - 2 Austin FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "San Jose Earthquakes 4 - 2 Minnesota United"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Minnesota United 0 - 1 Los Angeles FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "15/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sacramento Republic FC 0 - 0 Minnesota United"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "San Diego 1 - 2 Minnesota United"
+                        }
+                    ],
+                    "team": "Minnesota United FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS",
+                        "date": "22/02/2026",
+                        "teams_and_score": "Austin FC 2 - 2 Minnesota United"
+                    },
+                    {
+                        "competition": "US Open Cup",
+                        "date": "18/09/2025",
+                        "teams_and_score": "Minnesota United 1 - 2 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "25/05/2025",
+                        "teams_and_score": "Minnesota United 1 - 1 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "23/06/2024",
+                        "teams_and_score": "Minnesota United 0 - 1 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "09/07/2023",
+                        "teams_and_score": "Minnesota United 1 - 4 Austin FC"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "21/08/2022",
+                        "teams_and_score": "Minnesota United 2 - 1 Austin FC"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "1",
+                    "Minnesota United FC_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "45%",
+                    "Minnesota United FC": "55%"
+                },
+                "corners": {
+                    "Austin FC": "4",
+                    "Minnesota United FC": "3"
+                },
+                "fouls": {
+                    "Austin FC": "11",
+                    "Minnesota United FC": "15"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "3",
+                    "Minnesota United FC": "3"
+                },
+                "offsides": {
+                    "Austin FC": "0",
+                    "Minnesota United FC": "1"
+                },
+                "shots_blocked": {
+                    "Austin FC": "5",
+                    "Minnesota United FC": "2"
+                },
+                "shots_off_target": {
+                    "Austin FC": "2",
+                    "Minnesota United FC": "11"
+                },
+                "shots_on_target": {
+                    "Austin FC": "5",
+                    "Minnesota United FC": "5"
+                },
+                "yellow_cards": {
+                    "Austin FC": "2",
+                    "Minnesota United FC": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/minnesota-united-austin-fc-2026-05-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1612.webp",
+                    "name": "Minnesota United FC",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/minnesota-united-austin-fc-2026-05-11-RuNK.webp",
+            "title": "Minnesota United - Austin FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch Real Salt Lake vs Austin FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Gallagher",
+                    "team": "Austin FC",
+                    "time": "1'"
+                },
+                {
+                    "assist": "F. Torres",
+                    "event_type": "Goal",
+                    "player": "J. Bell",
+                    "score_update": "0 - 1",
+                    "team": "Austin FC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "O. Svatok",
+                    "team": "Real Salt Lake",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Guilavogui",
+                    "team": "Real Salt Lake",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Nelson",
+                    "team": "Austin FC",
+                    "time": "51'"
+                },
+                {
+                    "assist": "J. Glad",
+                    "event_type": "Goal",
+                    "player": "S. Spierings",
+                    "score_update": "2 - 1",
+                    "team": "Real Salt Lake",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Sanchez",
+                    "team": "Austin FC",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Real Salt Lake 2 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "03/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 4 Los Angeles FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "19/10/2025",
+                            "result": "L",
+                            "teams_and_score": "San Jose Earthquakes 2 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "02/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 2 Nashville SC"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Real Salt Lake 2 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "Atlantic Cup: Finals",
+                            "date": "30/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Real Salt Lake 0 - 2 FC Dallas"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "23/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Portland Timbers 3 - 1 Real Salt Lake"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "19/10/2025",
+                            "result": "D",
+                            "teams_and_score": "St. Louis City 2 - 2 Real Salt Lake"
+                        }
+                    ],
+                    "team": "Real Salt Lake"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "28/09/2025",
+                        "teams_and_score": "Real Salt Lake 3 - 1 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "29/09/2024",
+                        "teams_and_score": "Austin FC 2 - 2 Real Salt Lake"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "04/06/2023",
+                        "teams_and_score": "Austin FC 1 - 2 Real Salt Lake"
+                    },
+                    {
+                        "competition": "MLS: Play-off 2022",
+                        "date": "16/10/2022",
+                        "teams_and_score": "Austin FC 2 - 2 Real Salt Lake"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "15/09/2022",
+                        "teams_and_score": "Austin FC 3 - 0 Real Salt Lake"
+                    },
+                    {
+                        "competition": "Major League Soccer 2021",
+                        "date": "02/10/2021",
+                        "teams_and_score": "Austin FC 2 - 1 Real Salt Lake"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "2",
+                    "Real Salt Lake_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "40%",
+                    "Real Salt Lake": "60%"
+                },
+                "corners": {
+                    "Austin FC": "4",
+                    "Real Salt Lake": "7"
+                },
+                "fouls": {
+                    "Austin FC": "10",
+                    "Real Salt Lake": "12"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "7",
+                    "Real Salt Lake": "2"
+                },
+                "offsides": {
+                    "Austin FC": "2",
+                    "Real Salt Lake": "2"
+                },
+                "shots_blocked": {
+                    "Austin FC": "4",
+                    "Real Salt Lake": "9"
+                },
+                "shots_off_target": {
+                    "Austin FC": "3",
+                    "Real Salt Lake": "6"
+                },
+                "shots_on_target": {
+                    "Austin FC": "3",
+                    "Real Salt Lake": "8"
+                },
+                "yellow_cards": {
+                    "Austin FC": "3",
+                    "Real Salt Lake": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/real-salt-lake-austin-fc-2026-03-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1606.webp",
+                    "name": "Real Salt Lake",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/real-salt-lake-austin-fc-2026-03-15-3J5H.webp",
+            "title": "Real Salt Lake - Austin FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 14, 2026",
+            "description": "Watch San Diego vs Austin FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 14, 2026. The atmosphere was electric as both squads prepared to battle for vital points in this Major League Soccer encounter. Fans gathered in anticipation on May 14, 2026, unaware of the tactical showcase that was about to unfold between San Diego FC and Austin FC . A flying start for the hosts San Diego FC wasted no time in asserting their authority, taking an early lead in the 8th minute when David Vazquez found the net following a crisp assist from Onni Valakari . The pressure continued to mount as the hosts dominated possession and territory, leading to a second goal in the 17th minute. This time, it was Anders Dreyer who struck home, benefiting from a clever setup by Pedro Soma . By the time the referee signaled for halftime, the momentum was firmly in the hands of the home side. Cementing the result Coming out for the second half, the hosts remained relentless in their pursuit of more goals. In the 54th minute, Pedro Soma turned goalscorer after receiving a pass from Alex Mighten , effectively putting the result out of reach. While both teams utilized their substitutes to manage fatigue, the intensity of San Diego FC did not dip. Marcus Ingvartsen added a fourth in the 79th minute, set up by Luca Bombino , before David Vazquez capped off the evening with his second goal of the match in the 90+1 minute, assisted by Anibal Godoy , sealing a definitive and comprehensive victory.",
+            "events_timeline": [
+                {
+                    "assist": "O. Valakari",
+                    "event_type": "Goal",
+                    "player": "D. Vazquez",
+                    "score_update": "1 - 0",
+                    "team": "San Diego",
+                    "time": "1'"
+                },
+                {
+                    "assist": "P. J. Soma",
+                    "event_type": "Goal",
+                    "player": "A. Dreyer",
+                    "score_update": "2 - 0",
+                    "team": "San Diego",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Bombino",
+                    "team": "San Diego",
+                    "time": "31'"
+                },
+                {
+                    "assist": "A. Mighten",
+                    "event_type": "Goal",
+                    "player": "P. J. Soma",
+                    "score_update": "3 - 0",
+                    "team": "San Diego",
+                    "time": "54'"
+                },
+                {
+                    "assist": "L. Bombino",
+                    "event_type": "Goal",
+                    "player": "M. Ingvartsen",
+                    "score_update": "4 - 0",
+                    "team": "San Diego",
+                    "time": "79'"
+                },
+                {
+                    "assist": "A. Godoy",
+                    "event_type": "Goal",
+                    "player": "D. Vazquez",
+                    "score_update": "5 - 0",
+                    "team": "San Diego",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "San Diego 5 - 0 Austin FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Louisville City FC 2 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 2 LA Galaxy"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "14/05/2026",
+                            "result": "W",
+                            "teams_and_score": "San Diego 5 - 0 Austin FC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "19/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Toluca 4 - 0 San Diego"
+                        }
+                    ],
+                    "team": "San Diego"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "01/06/2025",
+                        "teams_and_score": "San Diego 2 - 0 Austin FC"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "0",
+                    "San Diego_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "41%",
+                    "San Diego": "59%"
+                },
+                "corners": {
+                    "Austin FC": "4",
+                    "San Diego": "6"
+                },
+                "fouls": {
+                    "Austin FC": "7",
+                    "San Diego": "9"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "5",
+                    "San Diego": "3"
+                },
+                "offsides": {
+                    "Austin FC": "3",
+                    "San Diego": "2"
+                },
+                "shots_blocked": {
+                    "Austin FC": "1",
+                    "San Diego": "2"
+                },
+                "shots_off_target": {
+                    "Austin FC": "5",
+                    "San Diego": "10"
+                },
+                "shots_on_target": {
+                    "Austin FC": "3",
+                    "San Diego": "10"
+                },
+                "yellow_cards": {
+                    "Austin FC": "0",
+                    "San Diego": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/san-diego-fc-austin-fc-2026-05-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/25484.webp",
+                    "name": "San Diego",
+                    "score": "5"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/san-diego-fc-austin-fc-2026-05-14-RpRZ.webp",
+            "title": "San Diego FC - Austin FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 23, 2026",
+            "description": "Watch San Jose Earthquakes vs Austin FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 23, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "J. Rosales",
+                    "score_update": "0 - 1",
+                    "team": "Austin FC",
+                    "time": "9'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. E. Jr.",
+                    "team": "San Jose Earthquakes",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Roberts",
+                    "team": "San Jose Earthquakes",
+                    "time": "46'"
+                },
+                {
+                    "assist": "N. Tsakiris",
+                    "event_type": "Goal",
+                    "player": "J. Jasinski",
+                    "score_update": "1 - 1",
+                    "team": "San Jose Earthquakes",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Jasinski",
+                    "team": "San Jose Earthquakes",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Rosales",
+                    "team": "Austin FC",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Werner",
+                    "score_update": "2 - 1",
+                    "team": "San Jose Earthquakes",
+                    "time": "106'"
+                },
+                {
+                    "assist": "P. Marie",
+                    "event_type": "Goal",
+                    "player": "P. Judd",
+                    "score_update": "3 - 1",
+                    "team": "San Jose Earthquakes",
+                    "time": "121'"
+                },
+                {
+                    "assist": "P. Marie",
+                    "event_type": "Goal",
+                    "player": "O. Bouda",
+                    "score_update": "4 - 1",
+                    "team": "San Jose Earthquakes",
+                    "time": "136'"
+                },
+                {
+                    "assist": "P. Marie",
+                    "event_type": "Goal",
+                    "player": "P. Judd",
+                    "score_update": "5 - 1",
+                    "team": "San Jose Earthquakes",
+                    "time": "151'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "23/04/2026",
+                            "result": "L",
+                            "teams_and_score": "San Jose Earthquakes 5 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Louisville City FC 2 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 2 LA Galaxy"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "23/04/2026",
+                            "result": "W",
+                            "teams_and_score": "San Jose Earthquakes 5 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "San Jose Earthquakes 2 - 0 Phoenix Rising FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting Kansas City 1 - 3 San Jose Earthquakes"
+                        }
+                    ],
+                    "team": "San Jose Earthquakes"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "19/10/2025",
+                        "teams_and_score": "San Jose Earthquakes 2 - 1 Austin FC"
+                    },
+                    {
+                        "competition": "US Open Cup",
+                        "date": "09/07/2025",
+                        "teams_and_score": "San Jose Earthquakes 2 - 2 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "26/05/2024",
+                        "teams_and_score": "San Jose Earthquakes 1 - 1 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "22/10/2023",
+                        "teams_and_score": "San Jose Earthquakes 1 - 1 Austin FC"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "07/08/2022",
+                        "teams_and_score": "Austin FC 3 - 3 San Jose Earthquakes"
+                    },
+                    {
+                        "competition": "Major League Soccer 2021",
+                        "date": "21/10/2021",
+                        "teams_and_score": "San Jose Earthquakes 4 - 0 Austin FC"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "0",
+                    "San Jose Earthquakes_wins": "2",
+                    "draws": "4"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "33%",
+                    "San Jose Earthquakes": "67%"
+                },
+                "corners": {
+                    "Austin FC": "1",
+                    "San Jose Earthquakes": "10"
+                },
+                "fouls": {
+                    "Austin FC": "21",
+                    "San Jose Earthquakes": "16"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "8",
+                    "San Jose Earthquakes": "1"
+                },
+                "offsides": {
+                    "Austin FC": "0",
+                    "San Jose Earthquakes": "1"
+                },
+                "shots_blocked": {
+                    "Austin FC": "2",
+                    "San Jose Earthquakes": "9"
+                },
+                "shots_off_target": {
+                    "Austin FC": "1",
+                    "San Jose Earthquakes": "11"
+                },
+                "shots_on_target": {
+                    "Austin FC": "2",
+                    "San Jose Earthquakes": "13"
+                },
+                "yellow_cards": {
+                    "Austin FC": "1",
+                    "San Jose Earthquakes": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/san-jose-earthquakes-austin-fc-2026-04-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1596.webp",
+                    "name": "San Jose Earthquakes",
+                    "score": "5"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/san-jose-earthquakes-austin-fc-2026-04-23-oAhO.webp",
+            "title": "San Jose Earthquakes - Austin FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 23, 2026",
+            "description": "Watch St. Louis City II vs Austin FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 23, 2026. On a pivotal night in the MLS , St. Louis City II and Austin FC faced off in a clash that promised tactical intrigue and high energy from the opening whistle. The match, held on May 23, 2026 , saw both teams battling for control in a contest defined by crucial moments and clinical finishes. Early Adjustments and the Opening Breakthrough The game began with a high tempo, forcing an early tactical adjustment for the home side as Lukas MacNaughton replaced Dante Polvara just 23 minutes into the first half. While both sides struggled to find a rhythm in the final third, a moment of misfortune changed the course of the game in the 40th minute. Austin FC defender Guilherme Biro inadvertently directed the ball into his own net, gifting St. Louis City II a lead just before the break. This own goal shifted the momentum heavily in favor of the hosts as the first half drew to a close. Momentum Swings and Tactical Changes As the second half got underway, St. Louis City II looked to capitalize on their advantage. Their persistence paid off in the 56th minute when Fallou Fall found the back of the net to double the lead. In an attempt to turn the tide, Austin FC made several personnel changes, bringing on Jayden Nelson and Brandon Vazquez . However, the home side remained disciplined, even as the match grew more physical with yellow cards shown to Nicolas Dubersarsky and Christopher Durkin during a tense period of play. Late Drama and the Final Seal In the closing stages, the introduction of Cedric Teuchert proved to be an inspired move by the coaching staff. In the 90th minute, Teuchert provided a perfectly weighted assist for Daniel Edelman , who clinically finished to put the result beyond doubt. Despite six minutes of added time, Austin FC could find no way back into the match. The final whistle confirmed a comprehensive performance for St. Louis City II , leaving the fans at the stadium celebrating a well-deserved victory.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "G. Biro",
+                    "team": "St. Louis City II",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Fall",
+                    "score_update": "2 - 0",
+                    "team": "St. Louis City II",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Dubersarsky",
+                    "team": "Austin FC",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Durkin",
+                    "team": "St. Louis City II",
+                    "time": "76'"
+                },
+                {
+                    "assist": "C. Teuchert",
+                    "event_type": "Goal",
+                    "player": "D. Edelman",
+                    "score_update": "3 - 0",
+                    "team": "St. Louis City II",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "23/05/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Louis City 3 - 0 Austin FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Louisville City FC 2 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 2 LA Galaxy"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "23/05/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Louis City 3 - 0 Austin FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "St. Louis City 2 - 2 Houston Dynamo"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "DC United 1 - 1 St. Louis City"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "30/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Chicago Fire 1 - 2 St. Louis City"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Louis City 2 - 3 San Jose Earthquakes"
+                        }
+                    ],
+                    "team": "St. Louis City II"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS",
+                        "date": "03/05/2026",
+                        "teams_and_score": "Austin FC 2 - 0 St. Louis City"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "05/10/2025",
+                        "teams_and_score": "Austin FC 1 - 3 St. Louis City"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "14/04/2024",
+                        "teams_and_score": "St. Louis City 1 - 0 Austin FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "21/08/2023",
+                        "teams_and_score": "St. Louis City 6 - 3 Austin FC"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "3",
+                    "St Louis City II_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "53%",
+                    "St Louis City II": "47%"
+                },
+                "corners": {
+                    "Austin FC": "1",
+                    "St Louis City II": "2"
+                },
+                "fouls": {
+                    "Austin FC": "8",
+                    "St Louis City II": "18"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "4",
+                    "St Louis City II": "2"
+                },
+                "offsides": {
+                    "Austin FC": "1",
+                    "St Louis City II": "0"
+                },
+                "shots_blocked": {
+                    "Austin FC": "2",
+                    "St Louis City II": "4"
+                },
+                "shots_off_target": {
+                    "Austin FC": "3",
+                    "St Louis City II": "5"
+                },
+                "shots_on_target": {
+                    "Austin FC": "2",
+                    "St Louis City II": "6"
+                },
+                "yellow_cards": {
+                    "Austin FC": "1",
+                    "St Louis City II": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-louis-city-sc-austin-fc-2026-05-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18740.webp",
+                    "name": "St. Louis City II",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-louis-city-sc-austin-fc-2026-05-23-WI3q.webp",
+            "title": "St. Louis CITY SC - Austin FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 18, 2026",
+            "description": "Watch Toronto FC vs Austin FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 18, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "A. Rusnak",
+                    "score_update": "1 - 0",
+                    "team": "Toronto FC",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Lainez",
+                    "team": "Austin FC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Joaquim",
+                    "score_update": "1 - 1",
+                    "team": "Austin FC",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Musovski",
+                    "score_update": "2 - 1",
+                    "team": "Toronto FC",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Musovski",
+                    "team": "Toronto FC",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Rusnak",
+                    "score_update": "3 - 1",
+                    "team": "Toronto FC",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Rothrock",
+                    "team": "Toronto FC",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Garza",
+                    "team": "Austin FC",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Sanchez",
+                    "team": "Austin FC",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Seattle Sounders FC 3 - 1 Tigres"
+                        },
+                        {
+                            "competition": "Liga MX: Clausura",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 4 - 1 CD Guadalajara"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 2 - 0 Seattle Sounders FC"
+                        },
+                        {
+                            "competition": "Liga MX: Clausura",
+                            "date": "04/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Tijuana 1 - 0 Tigres"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "20/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 5 - 1 FC Cincinnati"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Seattle Sounders FC 3 - 1 Tigres"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Houston Dynamo 0 - 1 Seattle Sounders FC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "19/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Seattle Sounders FC 2 - 1 Vancouver Whitecaps"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "San Jose Earthquakes 0 - 1 Seattle Sounders FC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "13/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Vancouver Whitecaps 0 - 3 Seattle Sounders FC"
+                        }
+                    ],
+                    "team": "Toronto FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "CONCACAF Champions Cup",
+                        "date": "09/04/2026",
+                        "teams_and_score": "Tigres 2 - 0 Seattle Sounders FC"
+                    },
+                    {
+                        "competition": "Leagues Cup",
+                        "date": "11/08/2021",
+                        "teams_and_score": "Seattle Sounders FC 3 - 0 Tigres"
+                    },
+                    {
+                        "competition": "CONCACAF Champions League playoff",
+                        "date": "13/03/2013",
+                        "teams_and_score": "Seattle Sounders FC 3 - 1 Tigres"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "3",
+                    "Toronto FC_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "31%",
+                    "Toronto FC": "69%"
+                },
+                "corners": {
+                    "Austin FC": "4",
+                    "Toronto FC": "5"
+                },
+                "fouls": {
+                    "Austin FC": "8",
+                    "Toronto FC": "16"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "1",
+                    "Toronto FC": "5"
+                },
+                "shots_blocked": {
+                    "Austin FC": "2",
+                    "Toronto FC": "7"
+                },
+                "shots_off_target": {
+                    "Austin FC": "2",
+                    "Toronto FC": "9"
+                },
+                "shots_on_target": {
+                    "Austin FC": "6",
+                    "Toronto FC": "4"
+                },
+                "yellow_cards": {
+                    "Austin FC": "3",
+                    "Toronto FC": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/toronto-fc-austin-fc-2026-04-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1601.webp",
+                    "name": "Toronto FC",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/toronto-fc-austin-fc-2026-04-18-xIPd.webp",
+            "title": "Toronto FC - Austin FC"
+        }
+    ]
+}

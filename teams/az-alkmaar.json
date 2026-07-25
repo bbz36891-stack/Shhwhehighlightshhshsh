@@ -1,0 +1,2821 @@
+{
+    "team": "AZ Alkmaar",
+    "team_logo": "",
+    "total_matches": 19,
+    "matches": [
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Feb 8, 2026",
+            "description": "Watch AZ Alkmaar vs Ajax highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on February 8, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/az-alkmaar-vs-ajax-2026-02-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/az-alkmaar-vs-ajax-2026-02-08-LtAU.webp",
+            "title": "AZ Alkmaar vs Ajax"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Feb 27, 2026",
+            "description": "Watch AZ Alkmaar vs FC Noah highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on February 27, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "K. Smit",
+                    "event_type": "Goal",
+                    "player": "R. Daal",
+                    "score_update": "1 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "1'"
+                },
+                {
+                    "assist": "P. Koopmeiners",
+                    "event_type": "Goal",
+                    "player": "S. Mijnans",
+                    "score_update": "2 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Mijnans",
+                    "team": "AZ Alkmaar",
+                    "time": "31'"
+                },
+                {
+                    "assist": "R. Daal",
+                    "event_type": "Goal",
+                    "player": "S. Mijnans",
+                    "score_update": "3 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "54'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Dijkstra",
+                    "team": "AZ Alkmaar",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Muradyan",
+                    "team": "FC Noah",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Boogaard",
+                    "team": "AZ Alkmaar",
+                    "time": "87'"
+                },
+                {
+                    "assist": "T. Parrott",
+                    "event_type": "Goal",
+                    "player": "I. Jensen",
+                    "score_update": "4 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "26/02/2026",
+                            "result": "L",
+                            "teams_and_score": "AZ Alkmaar 4 - 0 FC Noah"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "18/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Dynamo Kyiv 2 - 0 FC Noah"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "06/12/2025",
+                            "result": "L",
+                            "teams_and_score": "FC Noah 2 - 3 BKMA"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "27/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Aberdeen 1 - 1 FC Noah"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "22/11/2025",
+                            "result": "D",
+                            "teams_and_score": "FC Noah 2 - 2 FC Alashkert"
+                        }
+                    ],
+                    "team": "FC Noah"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 4 - 0 FC Noah"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 3 - 1 Sparta Rotterdam"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "19/02/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Noah 1 - 0 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Excelsior 1 - 2 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "KNVB Beker: Quarter-Finals",
+                            "date": "03/02/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 2 - 1 FC Twente"
+                        }
+                    ],
+                    "team": "AZ Alkmaar"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Knockout Round Play-offs",
+                        "date": "19/02/2026",
+                        "teams_and_score": "FC Noah 1 - 0 AZ Alkmaar"
+                    }
+                ],
+                "summary": {
+                    "AZ Alkmaar_wins": "0",
+                    "FC Noah_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AZ Alkmaar": "61%",
+                    "FC Noah": "39%"
+                },
+                "corners": {
+                    "AZ Alkmaar": "7",
+                    "FC Noah": "1"
+                },
+                "fouls": {
+                    "AZ Alkmaar": "19",
+                    "FC Noah": "8"
+                },
+                "goalkeeper_saves": {
+                    "AZ Alkmaar": "1",
+                    "FC Noah": "4"
+                },
+                "offsides": {
+                    "AZ Alkmaar": "2",
+                    "FC Noah": "1"
+                },
+                "shots_blocked": {
+                    "AZ Alkmaar": "6",
+                    "FC Noah": "1"
+                },
+                "shots_off_target": {
+                    "AZ Alkmaar": "3",
+                    "FC Noah": "2"
+                },
+                "shots_on_target": {
+                    "AZ Alkmaar": "7",
+                    "FC Noah": "1"
+                },
+                "yellow_cards": {
+                    "AZ Alkmaar": "3",
+                    "FC Noah": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/az-alkmaar-vs-fc-noah-2026-02-27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3684.webp",
+                    "name": "FC Noah",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/az-alkmaar-vs-fc-noah-2026-02-27-s3BH.webp",
+            "title": "AZ Alkmaar vs FC Noah"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Apr 5, 2026",
+            "description": "Watch AZ Alkmaar vs Fortuna Sittard highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on April 5, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "I. Jensen",
+                    "event_type": "Goal",
+                    "player": "M. Meerdink",
+                    "score_update": "1 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "11'"
+                },
+                {
+                    "assist": "D. Kasius",
+                    "event_type": "Goal",
+                    "player": "S. Mijnans",
+                    "score_update": "2 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "15'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Marquez",
+                    "team": "Fortuna Sittard",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Oukili",
+                    "team": "Fortuna Sittard",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "L. Duijvestijn",
+                    "team": "Fortuna Sittard",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Duijvestijn",
+                    "team": "Fortuna Sittard",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "04/04/2026",
+                            "result": "L",
+                            "teams_and_score": "AZ Alkmaar 2 - 0 Fortuna Sittard"
+                        }
+                    ],
+                    "team": "Fortuna Sittard"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 2 - 0 Fortuna Sittard"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "19/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sparta Prague 0 - 4 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 4 - 0 Heracles"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "12/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 2 - 1 Sparta Prague"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "PSV Eindhoven 2 - 1 AZ Alkmaar"
+                        }
+                    ],
+                    "team": "AZ Alkmaar"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "21/12/2025",
+                        "teams_and_score": "Fortuna Sittard 4 - 3 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "23/02/2025",
+                        "teams_and_score": "AZ Alkmaar 1 - 0 Fortuna Sittard"
+                    },
+                    {
+                        "competition": "Eredivisie 23/24",
+                        "date": "17/02/2024",
+                        "teams_and_score": "Fortuna Sittard 1 - 2 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 22/23",
+                        "date": "16/04/2023",
+                        "teams_and_score": "Fortuna Sittard 0 - 3 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 21/22",
+                        "date": "16/01/2022",
+                        "teams_and_score": "Fortuna Sittard 1 - 2 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 20/21",
+                        "date": "08/05/2021",
+                        "teams_and_score": "AZ Alkmaar 1 - 0 Fortuna Sittard"
+                    }
+                ],
+                "summary": {
+                    "AZ Alkmaar_wins": "5",
+                    "Fortuna Sittard_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AZ Alkmaar": "55%",
+                    "Fortuna Sittard": "45%"
+                },
+                "corners": {
+                    "AZ Alkmaar": "10",
+                    "Fortuna Sittard": "6"
+                },
+                "crosses": {
+                    "AZ Alkmaar": "4",
+                    "Fortuna Sittard": "4"
+                },
+                "fouls": {
+                    "AZ Alkmaar": "11",
+                    "Fortuna Sittard": "14"
+                },
+                "goalkeeper_saves": {
+                    "AZ Alkmaar": "4",
+                    "Fortuna Sittard": "4"
+                },
+                "offsides": {
+                    "AZ Alkmaar": "3",
+                    "Fortuna Sittard": "2"
+                },
+                "shots_blocked": {
+                    "AZ Alkmaar": "4",
+                    "Fortuna Sittard": "1"
+                },
+                "shots_off_target": {
+                    "AZ Alkmaar": "5",
+                    "Fortuna Sittard": "4"
+                },
+                "shots_on_target": {
+                    "AZ Alkmaar": "6",
+                    "Fortuna Sittard": "4"
+                },
+                "yellow_cards": {
+                    "AZ Alkmaar": "0",
+                    "Fortuna Sittard": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/az-alkmaar-vs-fortuna-sittard-2026-04-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/205.webp",
+                    "name": "Fortuna Sittard",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/az-alkmaar-vs-fortuna-sittard-2026-04-05-vmlE.webp",
+            "title": "AZ Alkmaar vs Fortuna Sittard"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Apr 12, 2026",
+            "description": "Watch AZ Alkmaar vs Heerenveen highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on April 12, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "R. Daal",
+                    "team": "AZ Alkmaar",
+                    "time": "1'"
+                },
+                {
+                    "assist": "M. D. Wit",
+                    "event_type": "Goal",
+                    "player": "S. Mijnans",
+                    "score_update": "1 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Mijnans",
+                    "score_update": "2 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "A. Penetra",
+                    "team": "AZ Alkmaar",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Braude",
+                    "team": "Heerenveen",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. D. Wit",
+                    "team": "AZ Alkmaar",
+                    "time": "46'"
+                },
+                {
+                    "assist": "K. Smit",
+                    "event_type": "Goal",
+                    "player": "T. Parrott",
+                    "score_update": "3 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "AZ Alkmaar 3 - 0 SC Heerenveen"
+                        }
+                    ],
+                    "team": "Heerenveen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 3 - 0 SC Heerenveen"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Shakhtar Donetsk 3 - 0 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 2 - 0 Fortuna Sittard"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "19/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sparta Prague 0 - 4 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 4 - 0 Heracles"
+                        }
+                    ],
+                    "team": "AZ Alkmaar"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "23/11/2025",
+                        "teams_and_score": "SC Heerenveen 3 - 1 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie: UECL Play-off",
+                        "date": "22/05/2025",
+                        "teams_and_score": "AZ Alkmaar 4 - 1 SC Heerenveen"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "02/03/2025",
+                        "teams_and_score": "SC Heerenveen 3 - 1 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 23/24",
+                        "date": "28/01/2024",
+                        "teams_and_score": "SC Heerenveen 2 - 2 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 22/23",
+                        "date": "01/04/2023",
+                        "teams_and_score": "AZ Alkmaar 1 - 1 SC Heerenveen"
+                    },
+                    {
+                        "competition": "Eredivisie: UECL Play-off 21/22",
+                        "date": "22/05/2022",
+                        "teams_and_score": "AZ Alkmaar 2 - 0 SC Heerenveen"
+                    }
+                ],
+                "summary": {
+                    "AZ Alkmaar_wins": "2",
+                    "Heerenveen_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AZ Alkmaar": "58%",
+                    "Heerenveen": "42%"
+                },
+                "corners": {
+                    "AZ Alkmaar": "6",
+                    "Heerenveen": "6"
+                },
+                "crosses": {
+                    "AZ Alkmaar": "4",
+                    "Heerenveen": "5"
+                },
+                "fouls": {
+                    "AZ Alkmaar": "5",
+                    "Heerenveen": "10"
+                },
+                "goalkeeper_saves": {
+                    "AZ Alkmaar": "1",
+                    "Heerenveen": "7"
+                },
+                "offsides": {
+                    "AZ Alkmaar": "2",
+                    "Heerenveen": "2"
+                },
+                "shots_blocked": {
+                    "AZ Alkmaar": "4",
+                    "Heerenveen": "3"
+                },
+                "shots_off_target": {
+                    "AZ Alkmaar": "9",
+                    "Heerenveen": "3"
+                },
+                "shots_on_target": {
+                    "AZ Alkmaar": "10",
+                    "Heerenveen": "1"
+                },
+                "yellow_cards": {
+                    "AZ Alkmaar": "1",
+                    "Heerenveen": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/az-alkmaar-vs-heerenveen-2026-04-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/210.webp",
+                    "name": "Heerenveen",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/az-alkmaar-vs-heerenveen-2026-04-12-wjCb.webp",
+            "title": "AZ Alkmaar vs Heerenveen"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch AZ Alkmaar vs Heracles highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "M. De Wit",
+                    "event_type": "Goal",
+                    "player": "T. Parrott",
+                    "score_update": "1 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "5'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Wieckhoff",
+                    "team": "Heracles",
+                    "time": "19'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Wieckhoff",
+                    "team": "Heracles",
+                    "time": "43'"
+                },
+                {
+                    "assist": "T. Parrott",
+                    "event_type": "Goal",
+                    "player": "S. Mijnans",
+                    "score_update": "2 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Zeefuik",
+                    "team": "Heracles",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Scheperman",
+                    "team": "Heracles",
+                    "time": "61'"
+                },
+                {
+                    "assist": "T. Parrott",
+                    "event_type": "Goal",
+                    "player": "M. De Wit",
+                    "score_update": "3 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Mirani",
+                    "team": "Heracles",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Jensen",
+                    "score_update": "4 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "AZ Alkmaar 4 - 0 Heracles"
+                        },
+                        {
+                            "competition": "KNVB Beker: Round of 16",
+                            "date": "14/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Go Ahead Eagles 2 - 2 Heracles"
+                        }
+                    ],
+                    "team": "Heracles"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 4 - 0 Heracles"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "12/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 2 - 1 Sparta Prague"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "PSV Eindhoven 2 - 1 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "KNVB Beker: Semi-Finals",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 2 - 1 Telstar"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Utrecht 2 - 0 AZ Alkmaar"
+                        }
+                    ],
+                    "team": "AZ Alkmaar"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "14/09/2025",
+                        "teams_and_score": "Heracles 1 - 2 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "13/04/2025",
+                        "teams_and_score": "Heracles 1 - 0 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "KNVB Beker: Semi-Finals",
+                        "date": "27/02/2025",
+                        "teams_and_score": "Heracles 2 - 2 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "01/12/2024",
+                        "teams_and_score": "AZ Alkmaar 1 - 0 Heracles"
+                    },
+                    {
+                        "competition": "Eredivisie 23/24",
+                        "date": "03/04/2024",
+                        "teams_and_score": "Heracles 5 - 0 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 21/22",
+                        "date": "19/02/2022",
+                        "teams_and_score": "AZ Alkmaar 2 - 1 Heracles"
+                    },
+                    {
+                        "competition": "KNVB Beker 21/22",
+                        "date": "15/12/2021",
+                        "teams_and_score": "AZ Alkmaar 4 - 1 Heracles"
+                    }
+                ],
+                "summary": {
+                    "AZ Alkmaar_wins": "5",
+                    "Heracles_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AZ Alkmaar": "52%",
+                    "Heracles": "48%"
+                },
+                "corners": {
+                    "AZ Alkmaar": "7",
+                    "Heracles": "3"
+                },
+                "crosses": {
+                    "AZ Alkmaar": "2",
+                    "Heracles": "3"
+                },
+                "fouls": {
+                    "AZ Alkmaar": "10",
+                    "Heracles": "19"
+                },
+                "goalkeeper_saves": {
+                    "AZ Alkmaar": "2",
+                    "Heracles": "3"
+                },
+                "offsides": {
+                    "AZ Alkmaar": "3",
+                    "Heracles": "1"
+                },
+                "shots_blocked": {
+                    "AZ Alkmaar": "3",
+                    "Heracles": "3"
+                },
+                "shots_off_target": {
+                    "AZ Alkmaar": "4",
+                    "Heracles": "1"
+                },
+                "shots_on_target": {
+                    "AZ Alkmaar": "7",
+                    "Heracles": "2"
+                },
+                "yellow_cards": {
+                    "AZ Alkmaar": "0",
+                    "Heracles": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/az-alkmaar-vs-heracles-2026-03-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/206.webp",
+                    "name": "Heracles",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/az-alkmaar-vs-heracles-2026-03-15-ocDJ.webp",
+            "title": "AZ Alkmaar vs Heracles"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "May 17, 2026",
+            "description": "Watch AZ Alkmaar vs NAC Breda highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on May 17, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "T. Parrott",
+                    "event_type": "Goal",
+                    "player": "S. Mijnans",
+                    "score_update": "1 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "1'"
+                },
+                {
+                    "assist": "S. Mijnans",
+                    "event_type": "Goal",
+                    "player": "M. Chavez",
+                    "score_update": "2 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Hillen",
+                    "team": "NAC Breda",
+                    "time": "46'"
+                },
+                {
+                    "assist": "C. Valerius",
+                    "event_type": "Goal",
+                    "player": "M. Soumano",
+                    "score_update": "2 - 1",
+                    "team": "NAC Breda",
+                    "time": "61'"
+                },
+                {
+                    "assist": "F. O. Jensen",
+                    "event_type": "Goal",
+                    "player": "M. Soumano",
+                    "score_update": "2 - 2",
+                    "team": "NAC Breda",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Meerdink",
+                    "team": "AZ Alkmaar",
+                    "time": "91'"
+                },
+                {
+                    "assist": "C. Valerius",
+                    "event_type": "Goal",
+                    "player": "J. Talvitie",
+                    "score_update": "2 - 3",
+                    "team": "NAC Breda",
+                    "time": "106'"
+                },
+                {
+                    "assist": "W. Patati",
+                    "event_type": "Goal",
+                    "player": "M. Meerdink",
+                    "score_update": "3 - 3",
+                    "team": "AZ Alkmaar",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "AZ Alkmaar 3 - 3 NAC Breda"
+                        }
+                    ],
+                    "team": "NAC Breda"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "AZ Alkmaar 3 - 3 NAC Breda"
+                        },
+                        {
+                            "competition": "KNVB Beker: Final",
+                            "date": "19/04/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 5 - 1 NEC Nijmegen"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "16/04/2026",
+                            "result": "D",
+                            "teams_and_score": "AZ Alkmaar 2 - 2 Shakhtar Donetsk"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 3 - 0 SC Heerenveen"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Shakhtar Donetsk 3 - 0 AZ Alkmaar"
+                        }
+                    ],
+                    "team": "AZ Alkmaar"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "31/08/2025",
+                        "teams_and_score": "NAC Breda 0 - 1 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "24/04/2025",
+                        "teams_and_score": "AZ Alkmaar 1 - 1 NAC Breda"
+                    },
+                    {
+                        "competition": "KNVB Beker 19/20",
+                        "date": "12/02/2020",
+                        "teams_and_score": "AZ Alkmaar 1 - 3 NAC Breda"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "08/02/2019",
+                        "teams_and_score": "NAC Breda 0 - 3 AZ Alkmaar"
+                    }
+                ],
+                "summary": {
+                    "AZ Alkmaar_wins": "2",
+                    "NAC Breda_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AZ Alkmaar": "55%",
+                    "NAC Breda": "45%"
+                },
+                "corners": {
+                    "AZ Alkmaar": "7",
+                    "NAC Breda": "6"
+                },
+                "crosses": {
+                    "AZ Alkmaar": "5",
+                    "NAC Breda": "6"
+                },
+                "fouls": {
+                    "AZ Alkmaar": "11",
+                    "NAC Breda": "6"
+                },
+                "goalkeeper_saves": {
+                    "AZ Alkmaar": "7",
+                    "NAC Breda": "7"
+                },
+                "offsides": {
+                    "AZ Alkmaar": "1",
+                    "NAC Breda": "3"
+                },
+                "shots_blocked": {
+                    "AZ Alkmaar": "2",
+                    "NAC Breda": "2"
+                },
+                "shots_off_target": {
+                    "AZ Alkmaar": "4",
+                    "NAC Breda": "4"
+                },
+                "shots_on_target": {
+                    "AZ Alkmaar": "10",
+                    "NAC Breda": "11"
+                },
+                "yellow_cards": {
+                    "AZ Alkmaar": "1",
+                    "NAC Breda": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/az-alkmaar-vs-nac-breda-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/203.webp",
+                    "name": "NAC Breda",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/az-alkmaar-vs-nac-breda-2026-05-17-z9CV.webp",
+            "title": "AZ Alkmaar vs NAC Breda"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Mar 5, 2026",
+            "description": "Watch AZ Alkmaar vs Telstar highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on March 5, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Dijkstra",
+                    "team": "AZ Alkmaar",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Bakker",
+                    "team": "AZ Alkmaar",
+                    "time": "47'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Ogidi Nwankwo",
+                    "team": "AZ Alkmaar",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Smit",
+                    "team": "AZ Alkmaar",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Tejan",
+                    "score_update": "2 - 1",
+                    "team": "Telstar",
+                    "time": "74'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Brouwer",
+                    "team": "Telstar",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "KNVB Beker: Semi-Finals",
+                            "date": "04/03/2026",
+                            "result": "L",
+                            "teams_and_score": "AZ Alkmaar 2 - 1 Telstar"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "27/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Telstar 3 - 0 NAC Breda"
+                        },
+                        {
+                            "competition": "KNVB Beker: Quarter-Finals",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Telstar 2 - 1 Go Ahead Eagles"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "31/01/2026",
+                            "result": "L",
+                            "teams_and_score": "PEC Zwolle 4 - 1 Telstar"
+                        },
+                        {
+                            "competition": "KNVB Beker: Round of 16",
+                            "date": "14/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Almere City FC 1 - 3 Telstar"
+                        }
+                    ],
+                    "team": "Telstar"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "KNVB Beker: Semi-Finals",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 2 - 1 Telstar"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Utrecht 2 - 0 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 4 - 0 FC Noah"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 3 - 1 Sparta Rotterdam"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "19/02/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Noah 1 - 0 AZ Alkmaar"
+                        }
+                    ],
+                    "team": "AZ Alkmaar"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "25/01/2026",
+                        "teams_and_score": "Telstar 0 - 1 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Club Friendlies 2019",
+                        "date": "13/07/2019",
+                        "teams_and_score": "AZ Alkmaar 0 - 3 Telstar"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "16/07/2016",
+                        "teams_and_score": "AZ Alkmaar 3 - 0 Telstar"
+                    },
+                    {
+                        "competition": "KNVB Cup",
+                        "date": "29/10/2015",
+                        "teams_and_score": "Telstar 0 - 1 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "18/07/2015",
+                        "teams_and_score": "AZ Alkmaar 3 - 0 Telstar"
+                    },
+                    {
+                        "competition": "KNVB Cup",
+                        "date": "03/12/2002",
+                        "teams_and_score": "Telstar 1 - 0 AZ Alkmaar"
+                    }
+                ],
+                "summary": {
+                    "AZ Alkmaar_wins": "4",
+                    "Telstar_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AZ Alkmaar": "50%",
+                    "Telstar": "50%"
+                },
+                "corners": {
+                    "AZ Alkmaar": "4",
+                    "Telstar": "3"
+                },
+                "fouls": {
+                    "AZ Alkmaar": "8",
+                    "Telstar": "10"
+                },
+                "goalkeeper_saves": {
+                    "AZ Alkmaar": "0",
+                    "Telstar": "1"
+                },
+                "offsides": {
+                    "AZ Alkmaar": "0",
+                    "Telstar": "1"
+                },
+                "shots_blocked": {
+                    "AZ Alkmaar": "6",
+                    "Telstar": "1"
+                },
+                "shots_off_target": {
+                    "AZ Alkmaar": "4",
+                    "Telstar": "6"
+                },
+                "shots_on_target": {
+                    "AZ Alkmaar": "1",
+                    "Telstar": "1"
+                },
+                "yellow_cards": {
+                    "AZ Alkmaar": "2",
+                    "Telstar": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/az-alkmaar-vs-telstar-2026-03-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/427.webp",
+                    "name": "Telstar",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/az-alkmaar-vs-telstar-2026-03-05-GWfO.webp",
+            "title": "AZ Alkmaar vs Telstar"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "May 3, 2026",
+            "description": "Watch AZ Alkmaar vs Twente highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on May 3, 2026. AZ Alkmaar and Twente faced off in a high-octane Eredivisie encounter that promised tactical intrigue and plenty of attacking intent. As both sides looked to solidify their standing in the league, the match unfolded into a rollercoaster of momentum shifts and individual brilliance. Early Advantage and Unfortunate Setbacks The match, held on May 3rd, 2026 , began with a surge of energy from the home side. AZ Alkmaar took the initiative early, looking to dominate possession and pin Twente back into their own half. The pressure paid off in the 13th minute when Jordy Clasie picked up the ball outside the penalty area and unleashed a powerful right-footed strike. The ball flew past the keeper to give AZ an early advantage, setting a frantic tempo for the opening period. However, the lead was erased in unfortunate circumstances just after the half-hour mark. In the 32nd minute, a defensive mishap saw goalkeeper Rome Owusu-Oduro inadvertently turn the ball into his own net, gifting Twente an equalizer and swinging the momentum toward the visitors before the halftime whistle. Twente Seize the Lead in the Second Half The second half saw Twente emerge with renewed confidence, exploiting the spaces left by an AZ side pushing to reclaim their lead. In the 55th minute, the turnaround was completed through a clinical attacking move. Kristian Hlynsson turned provider, finding Sam Lammers in a dangerous position; Lammers made no mistake, using his left foot to slot the ball home and put Twente in the driving seat. AZ manager responded with a series of tactical changes, introducing Peer Koopmeiners for the goalscorer Clasie in the 60th minute, followed later by Mexx Meerdink and Bendeguz Kovacs to inject fresh energy into the final third. Despite the changes, AZ struggled to find a way through a resolute Twente defense, with Troy Parrott missing several chances as the clock ticked toward the 90-minute mark. Stoppage-Time Redemption for the Hosts Just as it appeared that Twente would escape with all three points, the match delivered one final, heart-stopping twist deep into injury time. In the 95th minute, Rome Owusu-Oduro transitioned from villain to hero, providing a long-range assist that found Peer Koopmeiners . The substitute took aim from outside the box and struck a magnificent right-footed shot that beat the keeper, sparking wild celebrations in the stands. It was a moment of pure redemption for the young goalkeeper and a testament to AZ Alkmaar 's persistence. The referee blew the final whistle shortly after, concluding a thrilling 2-2 draw where neither side refused to back down until the very last second.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "J. Clasie",
+                    "score_update": "1 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Owusu-Oduro",
+                    "team": "Twente",
+                    "time": "16'"
+                },
+                {
+                    "assist": "K. Hlynsson",
+                    "event_type": "Goal",
+                    "player": "S. Lammers",
+                    "score_update": "1 - 2",
+                    "team": "Twente",
+                    "time": "55'"
+                },
+                {
+                    "assist": "R. Owusu-Oduro",
+                    "event_type": "Goal",
+                    "player": "P. Koopmeiners",
+                    "score_update": "2 - 2",
+                    "team": "AZ Alkmaar",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "AZ Alkmaar 2 - 2 FC Twente"
+                        }
+                    ],
+                    "team": "Twente"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "AZ Alkmaar 2 - 2 FC Twente"
+                        },
+                        {
+                            "competition": "KNVB Beker: Final",
+                            "date": "19/04/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 5 - 1 NEC Nijmegen"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "16/04/2026",
+                            "result": "D",
+                            "teams_and_score": "AZ Alkmaar 2 - 2 Shakhtar Donetsk"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 3 - 0 SC Heerenveen"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Shakhtar Donetsk 3 - 0 AZ Alkmaar"
+                        }
+                    ],
+                    "team": "AZ Alkmaar"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "KNVB Beker: Quarter-Finals",
+                        "date": "03/02/2026",
+                        "teams_and_score": "AZ Alkmaar 2 - 1 FC Twente"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "30/11/2025",
+                        "teams_and_score": "FC Twente 1 - 0 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie: UECL Play-off",
+                        "date": "25/05/2025",
+                        "teams_and_score": "AZ Alkmaar 3 - 2 FC Twente"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "14/05/2025",
+                        "teams_and_score": "FC Twente 2 - 3 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 23/24",
+                        "date": "05/05/2024",
+                        "teams_and_score": "AZ Alkmaar 2 - 1 FC Twente"
+                    },
+                    {
+                        "competition": "Eredivisie 22/23",
+                        "date": "19/03/2023",
+                        "teams_and_score": "FC Twente 2 - 1 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 21/22",
+                        "date": "13/03/2022",
+                        "teams_and_score": "AZ Alkmaar 0 - 1 FC Twente"
+                    }
+                ],
+                "summary": {
+                    "AZ Alkmaar_wins": "4",
+                    "Twente_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AZ Alkmaar": "58%",
+                    "Twente": "42%"
+                },
+                "corners": {
+                    "AZ Alkmaar": "4",
+                    "Twente": "3"
+                },
+                "crosses": {
+                    "AZ Alkmaar": "5",
+                    "Twente": "5"
+                },
+                "fouls": {
+                    "AZ Alkmaar": "9",
+                    "Twente": "14"
+                },
+                "goalkeeper_saves": {
+                    "AZ Alkmaar": "2",
+                    "Twente": "1"
+                },
+                "shots_blocked": {
+                    "AZ Alkmaar": "7",
+                    "Twente": "4"
+                },
+                "shots_off_target": {
+                    "AZ Alkmaar": "7",
+                    "Twente": "3"
+                },
+                "shots_on_target": {
+                    "AZ Alkmaar": "4",
+                    "Twente": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/az-alkmaar-vs-twente-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/415.webp",
+                    "name": "Twente",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/az-alkmaar-vs-twente-2026-05-03-gq20.webp",
+            "title": "AZ Alkmaar vs Twente"
+        },
+        {
+            "competition": "UEFA Europa Conference League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-conference-league.webp",
+            "date": "Nov 6, 2025",
+            "description": "Watch Crystal Palace vs AZ Alkmaar highlights and goals from UEFA Europa Conference League on ReFooty: Football Highlights Hub. Match played on November 6, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "AZ Alkmaar"
+                },
+                "home_team_form": {
+                    "team": "Crystal Palace"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Crystal_Palace_v_AZ_Alkmaar_2025_11_06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/52.webp",
+                    "name": "Crystal Palace",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/crystal-palace-v-az-alkmaar-2025-11-06.webp",
+            "title": "Crystal Palace vs AZ Alkmaar"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Feb 16, 2026",
+            "description": "Watch Excelsior vs AZ Alkmaar highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on February 16, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/excelsior-vs-az-alkmaar-2026-02-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/excelsior-vs-az-alkmaar-2026-02-16-tbNu.webp",
+            "title": "Excelsior vs AZ Alkmaar"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Feb 19, 2026",
+            "description": "Watch FC Noah vs AZ Alkmaar highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on February 19, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-noah-vs-az-alkmaar-2026-02-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-noah-vs-az-alkmaar-2026-02-19-6vbj.webp",
+            "title": "FC Noah vs AZ Alkmaar"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "May 10, 2026",
+            "description": "Watch Feyenoord vs AZ Alkmaar highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on May 10, 2026. The atmosphere was electric as two Eredivisie heavyweights locked horns in a highly anticipated encounter. On 2026-05-10, 47,500 fans filled the stadium, witnessing a match defined by tactical shifts and moments of individual brilliance from both sides. A Stunning Opening The contest began with an immediate burst of drama that left the home support in silence. Within the first minute of play, AZ Alkmaar capitalized on a defensive lapse from Gernot Trauner . Jordy Clasie provided the vision, finding Troy Parrott , who finished clinically with his right foot to give the visitors an early advantage. The goal set a frantic pace for the first half, as Feyenoord struggled to find their rhythm while AZ controlled 60% of the ball possession, frustrating the hosts with a disciplined defensive setup. Feyenoord's Resurgence Following the interval, the tactical landscape shifted as Feyenoord introduced fresh legs, including Tobias van den Elshout . The impact was almost immediate. In the 57th minute, a well-orchestrated move saw Van den Elshout provide the decisive assist for Anis Hadj Moussa . The attacker made no mistake, firing a left-footed strike into the net to restore parity. This goal breathed new life into the match, turning the second half into a tactical chess match where both sides searched for a winner under mounting pressure. High-Stakes Conclusion The final stages were marked by a series of tactical substitutions and defensive resilience. AZ Alkmaar pushed for a late decider, with Peer Koopmeiners forcing a save from Timon Wellenreuther in stoppage time. Despite the late pressure and several corners from Anis Hadj Moussa , neither side could find the definitive breakthrough. The referee eventually brought the intense encounter to a close after three minutes of added time, leaving both teams to reflect on a hard-earned point in a fixture defined by early errors and second-half recovery.",
+            "events_timeline": [
+                {
+                    "assist": "J. Clasie",
+                    "event_type": "Goal",
+                    "player": "T. Parrott",
+                    "score_update": "0 - 1",
+                    "team": "AZ Alkmaar",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Kraaijeveld",
+                    "team": "Feyenoord",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Echteld",
+                    "team": "AZ Alkmaar",
+                    "time": "31'"
+                },
+                {
+                    "assist": "T. V. D. Elshout",
+                    "event_type": "Goal",
+                    "player": "A. H. Moussa",
+                    "score_update": "1 - 1",
+                    "team": "Feyenoord",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Feyenoord 1 - 1 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "KNVB Beker: Final",
+                            "date": "19/04/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 5 - 1 NEC Nijmegen"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "16/04/2026",
+                            "result": "D",
+                            "teams_and_score": "AZ Alkmaar 2 - 2 Shakhtar Donetsk"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 3 - 0 SC Heerenveen"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Shakhtar Donetsk 3 - 0 AZ Alkmaar"
+                        }
+                    ],
+                    "team": "AZ Alkmaar"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Feyenoord 1 - 1 AZ Alkmaar"
+                        }
+                    ],
+                    "team": "Feyenoord"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "21/09/2025",
+                        "teams_and_score": "AZ Alkmaar 3 - 3 Feyenoord"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "05/04/2025",
+                        "teams_and_score": "AZ Alkmaar 0 - 1 Feyenoord"
+                    },
+                    {
+                        "competition": "KNVB Beker: Quarter-Finals",
+                        "date": "07/02/2024",
+                        "teams_and_score": "Feyenoord 2 - 0 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 23/24",
+                        "date": "04/02/2024",
+                        "teams_and_score": "AZ Alkmaar 0 - 1 Feyenoord"
+                    },
+                    {
+                        "competition": "Eredivisie 22/23",
+                        "date": "18/02/2023",
+                        "teams_and_score": "Feyenoord 2 - 1 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 21/22",
+                        "date": "27/02/2022",
+                        "teams_and_score": "AZ Alkmaar 2 - 1 Feyenoord"
+                    }
+                ],
+                "summary": {
+                    "AZ Alkmaar_wins": "1",
+                    "Feyenoord_wins": "4",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AZ Alkmaar": "60%",
+                    "Feyenoord": "40%"
+                },
+                "corners": {
+                    "AZ Alkmaar": "3",
+                    "Feyenoord": "7"
+                },
+                "crosses": {
+                    "AZ Alkmaar": "1",
+                    "Feyenoord": "2"
+                },
+                "fouls": {
+                    "AZ Alkmaar": "9",
+                    "Feyenoord": "10"
+                },
+                "goalkeeper_saves": {
+                    "AZ Alkmaar": "4",
+                    "Feyenoord": "2"
+                },
+                "offsides": {
+                    "AZ Alkmaar": "1",
+                    "Feyenoord": "1"
+                },
+                "shots_blocked": {
+                    "AZ Alkmaar": "5",
+                    "Feyenoord": "0"
+                },
+                "shots_off_target": {
+                    "AZ Alkmaar": "5",
+                    "Feyenoord": "5"
+                },
+                "shots_on_target": {
+                    "AZ Alkmaar": "3",
+                    "Feyenoord": "5"
+                },
+                "yellow_cards": {
+                    "AZ Alkmaar": "0",
+                    "Feyenoord": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/feyenoord-vs-az-alkmaar-2026-05-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/209.webp",
+                    "name": "Feyenoord",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/feyenoord-vs-az-alkmaar-2026-05-10-HlsX.webp",
+            "title": "Feyenoord vs AZ Alkmaar"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Apr 23, 2026",
+            "description": "Watch GO Ahead Eagles vs AZ Alkmaar highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on April 23, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Meulensteen",
+                    "team": "GO Ahead Eagles",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Dirksen",
+                    "team": "GO Ahead Eagles",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Kasius",
+                    "team": "AZ Alkmaar",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "23/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Go Ahead Eagles 0 - 0 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "KNVB Beker: Final",
+                            "date": "19/04/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 5 - 1 NEC Nijmegen"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "16/04/2026",
+                            "result": "D",
+                            "teams_and_score": "AZ Alkmaar 2 - 2 Shakhtar Donetsk"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 3 - 0 SC Heerenveen"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Shakhtar Donetsk 3 - 0 AZ Alkmaar"
+                        }
+                    ],
+                    "team": "AZ Alkmaar"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "23/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Go Ahead Eagles 0 - 0 AZ Alkmaar"
+                        }
+                    ],
+                    "team": "GO Ahead Eagles"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "07/12/2025",
+                        "teams_and_score": "AZ Alkmaar 2 - 2 Go Ahead Eagles"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "04/05/2025",
+                        "teams_and_score": "Go Ahead Eagles 0 - 3 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "KNVB Beker: Final",
+                        "date": "21/04/2025",
+                        "teams_and_score": "AZ Alkmaar 1 - 1 Go Ahead Eagles"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "27/10/2024",
+                        "teams_and_score": "AZ Alkmaar 2 - 2 Go Ahead Eagles"
+                    },
+                    {
+                        "competition": "Eredivisie 23/24",
+                        "date": "12/05/2024",
+                        "teams_and_score": "Go Ahead Eagles 0 - 3 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 22/23",
+                        "date": "25/01/2023",
+                        "teams_and_score": "Go Ahead Eagles 1 - 4 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 21/22",
+                        "date": "13/02/2022",
+                        "teams_and_score": "Go Ahead Eagles 1 - 4 AZ Alkmaar"
+                    }
+                ],
+                "summary": {
+                    "AZ Alkmaar_wins": "4",
+                    "GO Ahead Eagles_wins": "0",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AZ Alkmaar": "50%",
+                    "GO Ahead Eagles": "50%"
+                },
+                "corners": {
+                    "AZ Alkmaar": "10",
+                    "GO Ahead Eagles": "5"
+                },
+                "crosses": {
+                    "AZ Alkmaar": "4",
+                    "GO Ahead Eagles": "3"
+                },
+                "fouls": {
+                    "AZ Alkmaar": "13",
+                    "GO Ahead Eagles": "9"
+                },
+                "goalkeeper_saves": {
+                    "AZ Alkmaar": "4",
+                    "GO Ahead Eagles": "4"
+                },
+                "offsides": {
+                    "AZ Alkmaar": "1",
+                    "GO Ahead Eagles": "1"
+                },
+                "shots_blocked": {
+                    "AZ Alkmaar": "7",
+                    "GO Ahead Eagles": "7"
+                },
+                "shots_off_target": {
+                    "AZ Alkmaar": "12",
+                    "GO Ahead Eagles": "4"
+                },
+                "shots_on_target": {
+                    "AZ Alkmaar": "4",
+                    "GO Ahead Eagles": "4"
+                },
+                "yellow_cards": {
+                    "AZ Alkmaar": "1",
+                    "GO Ahead Eagles": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/go-ahead-eagles-vs-az-alkmaar-2026-04-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/410.webp",
+                    "name": "GO Ahead Eagles",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/go-ahead-eagles-vs-az-alkmaar-2026-04-23-fUXG.webp",
+            "title": "GO Ahead Eagles vs AZ Alkmaar"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Mar 22, 2026",
+            "description": "Watch Groningen vs AZ Alkmaar highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on March 22, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Peersman",
+                    "score_update": "1 - 0",
+                    "team": "Groningen",
+                    "time": "1'"
+                },
+                {
+                    "assist": "D. V. der Werff",
+                    "event_type": "Goal",
+                    "player": "T. Van Bergen",
+                    "score_update": "2 - 0",
+                    "team": "Groningen",
+                    "time": "58'"
+                },
+                {
+                    "assist": "M. Rente",
+                    "event_type": "Goal",
+                    "player": "T. Land",
+                    "score_update": "3 - 0",
+                    "team": "Groningen",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Daal",
+                    "team": "AZ Alkmaar",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Mercera",
+                    "team": "Groningen",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Groningen 3 - 0 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "19/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sparta Prague 0 - 4 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 4 - 0 Heracles"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "12/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 2 - 1 Sparta Prague"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "PSV Eindhoven 2 - 1 AZ Alkmaar"
+                        }
+                    ],
+                    "team": "AZ Alkmaar"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Groningen 3 - 0 AZ Alkmaar"
+                        }
+                    ],
+                    "team": "Groningen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "10/08/2025",
+                        "teams_and_score": "AZ Alkmaar 4 - 1 FC Groningen"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "11/05/2025",
+                        "teams_and_score": "AZ Alkmaar 3 - 0 FC Groningen"
+                    },
+                    {
+                        "competition": "KNVB Beker: Round 2",
+                        "date": "18/12/2024",
+                        "teams_and_score": "AZ Alkmaar 3 - 1 FC Groningen"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "25/08/2024",
+                        "teams_and_score": "FC Groningen 0 - 0 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 22/23",
+                        "date": "11/03/2023",
+                        "teams_and_score": "AZ Alkmaar 1 - 0 FC Groningen"
+                    },
+                    {
+                        "competition": "Eredivisie 21/22",
+                        "date": "21/12/2021",
+                        "teams_and_score": "AZ Alkmaar 1 - 0 FC Groningen"
+                    },
+                    {
+                        "competition": "Eredivisie 20/21",
+                        "date": "13/05/2021",
+                        "teams_and_score": "FC Groningen 0 - 0 AZ Alkmaar"
+                    }
+                ],
+                "summary": {
+                    "AZ Alkmaar_wins": "5",
+                    "Groningen_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AZ Alkmaar": "53%",
+                    "Groningen": "47%"
+                },
+                "corners": {
+                    "AZ Alkmaar": "7",
+                    "Groningen": "2"
+                },
+                "crosses": {
+                    "AZ Alkmaar": "4",
+                    "Groningen": "5"
+                },
+                "fouls": {
+                    "AZ Alkmaar": "8",
+                    "Groningen": "16"
+                },
+                "goalkeeper_saves": {
+                    "AZ Alkmaar": "1",
+                    "Groningen": "7"
+                },
+                "offsides": {
+                    "AZ Alkmaar": "2",
+                    "Groningen": "1"
+                },
+                "shots_blocked": {
+                    "AZ Alkmaar": "5",
+                    "Groningen": "5"
+                },
+                "shots_off_target": {
+                    "AZ Alkmaar": "4",
+                    "Groningen": "4"
+                },
+                "shots_on_target": {
+                    "AZ Alkmaar": "7",
+                    "Groningen": "5"
+                },
+                "yellow_cards": {
+                    "AZ Alkmaar": "1",
+                    "Groningen": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/groningen-vs-az-alkmaar-2026-03-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/202.webp",
+                    "name": "Groningen",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/groningen-vs-az-alkmaar-2026-03-22-Lg6W.webp",
+            "title": "Groningen vs AZ Alkmaar"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Jan 31, 2026",
+            "description": "Watch NEC Nijmegen vs AZ Alkmaar highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on January 31, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/nec-nijmegen-vs-az-alkmaar-2026-01-31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nec-nijmegen-vs-az-alkmaar-2026-01-31-vrh9.webp",
+            "title": "NEC Nijmegen vs AZ Alkmaar"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Jan 18, 2026",
+            "description": "Watch PEC Zwolle vs AZ Alkmaar highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on January 18, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/pec-zwolle-vs-az-alkmaar-2026-01-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/pec-zwolle-vs-az-alkmaar-2026-01-18-yRoy.webp",
+            "title": "PEC Zwolle vs AZ Alkmaar"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Mar 8, 2026",
+            "description": "Watch PSV Eindhoven vs AZ Alkmaar highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on March 8, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "I. Jensen",
+                    "event_type": "Goal",
+                    "player": "B. van Duijl",
+                    "score_update": "0 - 1",
+                    "team": "AZ Alkmaar",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Parrott",
+                    "team": "PSV Eindhoven",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Penetra",
+                    "team": "AZ Alkmaar",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Pepi",
+                    "team": "PSV Eindhoven",
+                    "time": "61'"
+                },
+                {
+                    "assist": "I. Perišić",
+                    "event_type": "Goal",
+                    "player": "R. Pepi",
+                    "score_update": "2 - 1",
+                    "team": "PSV Eindhoven",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Driouech",
+                    "team": "PSV Eindhoven",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "PSV Eindhoven 2 - 1 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "KNVB Beker: Semi-Finals",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 2 - 1 Telstar"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Utrecht 2 - 0 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 4 - 0 FC Noah"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 3 - 1 Sparta Rotterdam"
+                        }
+                    ],
+                    "team": "AZ Alkmaar"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "PSV Eindhoven 2 - 1 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "KNVB Beker: Semi-Finals",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "NEC Nijmegen 3 - 2 PSV Eindhoven"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Heracles 1 - 3 PSV Eindhoven"
+                        },
+                        {
+                            "competition": "KNVB Beker: Quarter-Finals",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "PSV Eindhoven 4 - 1 SC Heerenveen"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "01/02/2026",
+                            "result": "W",
+                            "teams_and_score": "PSV Eindhoven 3 - 0 Feyenoord"
+                        }
+                    ],
+                    "team": "PSV Eindhoven"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "09/11/2025",
+                        "teams_and_score": "AZ Alkmaar 1 - 5 PSV Eindhoven"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "11/01/2025",
+                        "teams_and_score": "PSV Eindhoven 2 - 2 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 23/24",
+                        "date": "06/04/2024",
+                        "teams_and_score": "PSV Eindhoven 5 - 1 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 22/23",
+                        "date": "28/05/2023",
+                        "teams_and_score": "AZ Alkmaar 1 - 2 PSV Eindhoven"
+                    },
+                    {
+                        "competition": "Eredivisie 21/22",
+                        "date": "05/02/2022",
+                        "teams_and_score": "PSV Eindhoven 1 - 2 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 20/21",
+                        "date": "21/03/2021",
+                        "teams_and_score": "AZ Alkmaar 2 - 0 PSV Eindhoven"
+                    }
+                ],
+                "summary": {
+                    "AZ Alkmaar_wins": "2",
+                    "PSV Eindhoven_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AZ Alkmaar": "36%",
+                    "PSV Eindhoven": "64%"
+                },
+                "corners": {
+                    "AZ Alkmaar": "6",
+                    "PSV Eindhoven": "5"
+                },
+                "crosses": {
+                    "AZ Alkmaar": "4",
+                    "PSV Eindhoven": "13"
+                },
+                "fouls": {
+                    "AZ Alkmaar": "4",
+                    "PSV Eindhoven": "7"
+                },
+                "goalkeeper_saves": {
+                    "AZ Alkmaar": "7",
+                    "PSV Eindhoven": "4"
+                },
+                "offsides": {
+                    "AZ Alkmaar": "1",
+                    "PSV Eindhoven": "0"
+                },
+                "shots_blocked": {
+                    "AZ Alkmaar": "7",
+                    "PSV Eindhoven": "4"
+                },
+                "shots_off_target": {
+                    "AZ Alkmaar": "1",
+                    "PSV Eindhoven": "7"
+                },
+                "shots_on_target": {
+                    "AZ Alkmaar": "5",
+                    "PSV Eindhoven": "8"
+                },
+                "yellow_cards": {
+                    "AZ Alkmaar": "1",
+                    "PSV Eindhoven": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/psv-eindhoven-vs-az-alkmaar-2026-03-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/197.webp",
+                    "name": "PSV Eindhoven",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/psv-eindhoven-vs-az-alkmaar-2026-03-08-Uqk9.webp",
+            "title": "PSV Eindhoven vs AZ Alkmaar"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Jan 25, 2026",
+            "description": "Watch Telstar vs AZ Alkmaar highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on January 25, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/telstar-vs-az-alkmaar-2026-01-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/telstar-vs-az-alkmaar-2026-01-25-ECdy.webp",
+            "title": "Telstar vs AZ Alkmaar"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Mar 1, 2026",
+            "description": "Watch Utrecht vs AZ Alkmaar highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on March 1, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "Y. Cathline",
+                    "score_update": "1 - 0",
+                    "team": "Utrecht",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Oufkir",
+                    "team": "AZ Alkmaar",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Owusu-Oduro",
+                    "team": "AZ Alkmaar",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Stepanov",
+                    "score_update": "2 - 0",
+                    "team": "Utrecht",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. v. der Hoorn",
+                    "team": "Utrecht",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Smit",
+                    "team": "AZ Alkmaar",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "KNVB Beker: Semi-Finals",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 2 - 1 Telstar"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Utrecht 2 - 0 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 4 - 0 FC Noah"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 3 - 1 Sparta Rotterdam"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "19/02/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Noah 1 - 0 AZ Alkmaar"
+                        }
+                    ],
+                    "team": "AZ Alkmaar"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Eredivisie",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Utrecht 2 - 0 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 4 - 2 FC Utrecht"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "25/01/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Utrecht 0 - 1 Sparta Rotterdam"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Utrecht 0 - 2 Genk"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "18/01/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Volendam 2 - 1 FC Utrecht"
+                        }
+                    ],
+                    "team": "Utrecht"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Eredivisie",
+                        "date": "26/10/2025",
+                        "teams_and_score": "AZ Alkmaar 4 - 1 FC Utrecht"
+                    },
+                    {
+                        "competition": "Eredivisie",
+                        "date": "18/01/2025",
+                        "teams_and_score": "FC Utrecht 0 - 0 AZ Alkmaar"
+                    },
+                    {
+                        "competition": "Eredivisie 23/24",
+                        "date": "19/05/2024",
+                        "teams_and_score": "AZ Alkmaar 3 - 3 FC Utrecht"
+                    },
+                    {
+                        "competition": "KNVB Beker Round of 16",
+                        "date": "07/02/2023",
+                        "teams_and_score": "AZ Alkmaar 1 - 2 FC Utrecht"
+                    },
+                    {
+                        "competition": "Eredivisie 22/23",
+                        "date": "28/01/2023",
+                        "teams_and_score": "AZ Alkmaar 5 - 5 FC Utrecht"
+                    },
+                    {
+                        "competition": "Eredivisie 21/22",
+                        "date": "11/05/2022",
+                        "teams_and_score": "FC Utrecht 2 - 2 AZ Alkmaar"
+                    }
+                ],
+                "summary": {
+                    "AZ Alkmaar_wins": "1",
+                    "Utrecht_wins": "1",
+                    "draws": "4"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AZ Alkmaar": "59%",
+                    "Utrecht": "41%"
+                },
+                "corners": {
+                    "AZ Alkmaar": "4",
+                    "Utrecht": "5"
+                },
+                "crosses": {
+                    "AZ Alkmaar": "2",
+                    "Utrecht": "2"
+                },
+                "fouls": {
+                    "AZ Alkmaar": "13",
+                    "Utrecht": "13"
+                },
+                "goalkeeper_saves": {
+                    "AZ Alkmaar": "1",
+                    "Utrecht": "6"
+                },
+                "offsides": {
+                    "AZ Alkmaar": "0",
+                    "Utrecht": "2"
+                },
+                "shots_blocked": {
+                    "AZ Alkmaar": "0",
+                    "Utrecht": "5"
+                },
+                "shots_off_target": {
+                    "AZ Alkmaar": "4",
+                    "Utrecht": "3"
+                },
+                "shots_on_target": {
+                    "AZ Alkmaar": "6",
+                    "Utrecht": "3"
+                },
+                "yellow_cards": {
+                    "AZ Alkmaar": "3",
+                    "Utrecht": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/utrecht-vs-az-alkmaar-2026-03-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/207.webp",
+                    "name": "Utrecht",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/utrecht-vs-az-alkmaar-2026-03-01-k4Bb.webp",
+            "title": "Utrecht vs AZ Alkmaar"
+        }
+    ]
+}

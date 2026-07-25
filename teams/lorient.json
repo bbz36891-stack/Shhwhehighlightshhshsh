@@ -1,0 +1,1694 @@
+{
+    "team": "Lorient",
+    "team_logo": "",
+    "total_matches": 11,
+    "matches": [
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Nov 2, 2025",
+            "description": "Watch Lens vs Lorient highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on November 2, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Lens_v_Lorient_2025_11_02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lens-v-lorient-2025-11-02.webp",
+            "title": "Lens vs Lorient"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Lorient vs Le Havre highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on May 17, 2026. Anticipation filled the air as two sides met on the pitch, both eager to establish their dominance in a pivotal Ligue 1 fixture. The momentum shifts On May 17, 2026 , Lorient hosted Le Havre in a contest defined by clinical errors and missed opportunities. The breakthrough arrived in the 33rd minute when an unfortunate own goal from Abdoulaye Faye handed the lead to Le Havre . Lorient looked set to equalize just before the break after Enzo Koffi brought down Laurent Abergel in the penalty area; however, Bamba Dieng saw his spot-kick saved by the keeper, sending the visitors into halftime with a narrow advantage. Sealing the result In the second half, the tactical battle intensified. Le Havre struck again in the 62nd minute as Issa Soumare capitalized on a clever assist from Sofiane Boufal to find the net. Despite a flurry of tactical substitutions and sustained pressure from Lorient , who controlled the majority of possession, the visiting defense held firm. Lorient fought until the final whistle, but the defensive discipline of Le Havre secured them a vital away victory.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "A. Faye",
+                    "team": "Le Havre",
+                    "time": "33'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Abergel",
+                    "team": "Lorient",
+                    "time": "41'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. K. Vinette",
+                    "team": "Le Havre",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Dieng",
+                    "score_update": "0 - 1",
+                    "team": "Lorient",
+                    "time": "45+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Cadiou",
+                    "team": "Lorient",
+                    "time": "46'"
+                },
+                {
+                    "assist": "S. Boufal",
+                    "event_type": "Goal",
+                    "player": "I. Soumare",
+                    "score_update": "0 - 2",
+                    "team": "Le Havre",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Lorient 0 - 2 Le Havre"
+                        }
+                    ],
+                    "team": "Le Havre"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Lorient 0 - 2 Le Havre"
+                        }
+                    ],
+                    "team": "Lorient"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "21/09/2025",
+                        "teams_and_score": "Le Havre 1 - 1 Lorient"
+                    },
+                    {
+                        "competition": "Club Friendlies 2024",
+                        "date": "27/07/2024",
+                        "teams_and_score": "Lorient 1 - 0 Le Havre"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "28/01/2024",
+                        "teams_and_score": "Lorient 3 - 3 Le Havre"
+                    },
+                    {
+                        "competition": "Club Friendlies 2023",
+                        "date": "29/07/2023",
+                        "teams_and_score": "Le Havre 0 - 2 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 2 19/20",
+                        "date": "19/10/2019",
+                        "teams_and_score": "Le Havre 2 - 2 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 2",
+                        "date": "17/05/2019",
+                        "teams_and_score": "Le Havre 2 - 3 Lorient"
+                    }
+                ],
+                "summary": {
+                    "Le Havre_wins": "0",
+                    "Lorient_wins": "3",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Le Havre": "40%",
+                    "Lorient": "60%"
+                },
+                "corners": {
+                    "Le Havre": "1",
+                    "Lorient": "5"
+                },
+                "crosses": {
+                    "Le Havre": "2",
+                    "Lorient": "2"
+                },
+                "fouls": {
+                    "Le Havre": "11",
+                    "Lorient": "11"
+                },
+                "goalkeeper_saves": {
+                    "Le Havre": "2",
+                    "Lorient": "3"
+                },
+                "offsides": {
+                    "Le Havre": "2",
+                    "Lorient": "1"
+                },
+                "shots_blocked": {
+                    "Le Havre": "0",
+                    "Lorient": "5"
+                },
+                "shots_off_target": {
+                    "Le Havre": "3",
+                    "Lorient": "5"
+                },
+                "shots_on_target": {
+                    "Le Havre": "4",
+                    "Lorient": "2"
+                },
+                "yellow_cards": {
+                    "Le Havre": "1",
+                    "Lorient": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/lorient-vs-le-havre-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/111.webp",
+                    "name": "Le Havre",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/97.webp",
+                    "name": "Lorient",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lorient-vs-le-havre-2026-05-17-9kxF.webp",
+            "title": "Lorient vs Le Havre"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Mar 14, 2026",
+            "description": "Watch Lorient vs Lens highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on March 14, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "B. Dieng",
+                    "score_update": "1 - 0",
+                    "team": "Lorient",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Celik",
+                    "team": "Lens",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Faye",
+                    "team": "Lorient",
+                    "time": "31'"
+                },
+                {
+                    "assist": "M. Sangare",
+                    "event_type": "Goal",
+                    "player": "O. Edouard",
+                    "score_update": "1 - 1",
+                    "team": "Lens",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Talbi",
+                    "team": "Lorient",
+                    "time": "61'"
+                },
+                {
+                    "assist": "A. Kouassi",
+                    "event_type": "Goal",
+                    "player": "T. Aiyegun",
+                    "score_update": "2 - 1",
+                    "team": "Lorient",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Ganiou",
+                    "team": "Lens",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Abdulhamid",
+                    "team": "Lens",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "14/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Lorient 2 - 1 Lens"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "05/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lyon 2 - 2 Lens"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "27/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Strasbourg 1 - 1 Lens"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Troyes 2 - 4 Lens"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "30/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Lens 1 - 0 Le Havre"
+                        }
+                    ],
+                    "team": "Lens"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "14/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Lorient 2 - 1 Lens"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lorient 0 - 0 Nice"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lorient 2 - 2 Auxerre"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Lorient 2 - 0 Paris FC"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Lorient 2 - 1 Nantes"
+                        }
+                    ],
+                    "team": "Lorient"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "02/11/2025",
+                        "teams_and_score": "Lens 3 - 0 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "03/05/2024",
+                        "teams_and_score": "Lens 2 - 0 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "21/05/2023",
+                        "teams_and_score": "Lorient 1 - 3 Lens"
+                    },
+                    {
+                        "competition": "Coupe de France 22/23",
+                        "date": "09/02/2023",
+                        "teams_and_score": "Lorient 1 - 1 Lens"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "31/08/2022",
+                        "teams_and_score": "Lens 5 - 2 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "06/02/2022",
+                        "teams_and_score": "Lorient 2 - 0 Lens"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "11/04/2021",
+                        "teams_and_score": "Lens 4 - 1 Lorient"
+                    }
+                ],
+                "summary": {
+                    "Lens_wins": "5",
+                    "Lorient_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lens": "66%",
+                    "Lorient": "34%"
+                },
+                "corners": {
+                    "Lens": "10",
+                    "Lorient": "1"
+                },
+                "crosses": {
+                    "Lens": "15",
+                    "Lorient": "1"
+                },
+                "fouls": {
+                    "Lens": "11",
+                    "Lorient": "6"
+                },
+                "goalkeeper_saves": {
+                    "Lens": "1",
+                    "Lorient": "5"
+                },
+                "offsides": {
+                    "Lens": "0",
+                    "Lorient": "1"
+                },
+                "shots_blocked": {
+                    "Lens": "4",
+                    "Lorient": "2"
+                },
+                "shots_off_target": {
+                    "Lens": "10",
+                    "Lorient": "1"
+                },
+                "shots_on_target": {
+                    "Lens": "6",
+                    "Lorient": "3"
+                },
+                "yellow_cards": {
+                    "Lens": "3",
+                    "Lorient": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Lorient_v_Lens_2026_03_14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/116.webp",
+                    "name": "Lens",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/97.webp",
+                    "name": "Lorient",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lorient-v-lens-2026-03-14-TPd7.webp",
+            "title": "Lorient vs Lens"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Nov 30, 2025",
+            "description": "Watch Lorient vs Angers highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on November 30, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Lorient_v_Nice_2025_11_30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lorient-v-nice-2025-11-30.webp",
+            "title": "Lorient vs OGC Nice"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Apr 18, 2026",
+            "description": "Watch Lorient vs Marseille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on April 18, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "P. Katseris",
+                    "score_update": "1 - 0",
+                    "team": "Lorient",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Pavard",
+                    "team": "Marseille",
+                    "time": "46'"
+                },
+                {
+                    "assist": "P. Pagis",
+                    "event_type": "Goal",
+                    "player": "B. Dieng",
+                    "score_update": "2 - 0",
+                    "team": "Lorient",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Nadir",
+                    "team": "Marseille",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Weah",
+                    "team": "Marseille",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Lorient 2 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Marseille 2 - 2 Toulouse"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 2 Lyon"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Lorient 2 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lorient 0 - 0 Nice"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lorient 2 - 2 Auxerre"
+                        }
+                    ],
+                    "team": "Lorient"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "12/09/2025",
+                        "teams_and_score": "Marseille 4 - 0 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "12/05/2024",
+                        "teams_and_score": "Marseille 3 - 1 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "09/04/2023",
+                        "teams_and_score": "Lorient 0 - 0 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "08/05/2022",
+                        "teams_and_score": "Lorient 0 - 3 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "17/04/2021",
+                        "teams_and_score": "Marseille 3 - 2 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "05/03/2017",
+                        "teams_and_score": "Lorient 1 - 4 Marseille"
+                    }
+                ],
+                "summary": {
+                    "Lorient_wins": "0",
+                    "Marseille_wins": "5",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lorient": "43%",
+                    "Marseille": "57%"
+                },
+                "corners": {
+                    "Lorient": "1",
+                    "Marseille": "7"
+                },
+                "crosses": {
+                    "Lorient": "2",
+                    "Marseille": "7"
+                },
+                "fouls": {
+                    "Lorient": "6",
+                    "Marseille": "10"
+                },
+                "goalkeeper_saves": {
+                    "Lorient": "2",
+                    "Marseille": "3"
+                },
+                "offsides": {
+                    "Lorient": "2",
+                    "Marseille": "0"
+                },
+                "shots_blocked": {
+                    "Lorient": "1",
+                    "Marseille": "1"
+                },
+                "shots_off_target": {
+                    "Lorient": "6",
+                    "Marseille": "13"
+                },
+                "shots_on_target": {
+                    "Lorient": "4",
+                    "Marseille": "2"
+                },
+                "yellow_cards": {
+                    "Lorient": "0",
+                    "Marseille": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Lorient_v_Olympique_Marseille_2026_04_18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/97.webp",
+                    "name": "Lorient",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lorient-v-olympique-marseille-2026-04-18-8NaP.webp",
+            "title": "Lorient vs Olympique Marseille"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Oct 29, 2025",
+            "description": "Watch Lorient vs Paris Saint Germain highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on October 29, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Lorient_v_PSG_2025_10_29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lorient-v-psg-2025-10-29.webp",
+            "title": "Lorient vs Paris Saint Germain"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch Lorient vs Strasbourg highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on April 26, 2026. The match held on April 26, 2026, promised a high-stakes atmosphere as both sides stepped onto the pitch aiming to assert their dominance in this key Ligue 1 fixture. An electric opening exchange The contest began at a blistering pace, with Paris Saint-Germain drawing first blood through a clinical finish from Ibrahim Mbaye . The response from Lorient was swift and clinical; just minutes later, Pablo Pagis hammered home a superb volley following a delivery from Panos Katseris to level the score. The remainder of the first half saw the visitors press forward in search of another lead, consistently testing the defense through set-pieces, yet they remained unable to break down the resilient home backline before the break. Tactical shifts and late VAR intervention As the second half progressed, the physical intensity of the match ramped up. Following a series of tactical substitutions, Warren Zaire-Emery restored the lead for Paris Saint-Germain with a deflected right-footed strike, set up by Desire Doue . Refusing to fold, Lorient found their way back into the contest at the 78-minute mark when Aiyegun Tosin capitalized on a defensive blunder to restore parity. The drama peaked in stoppage time when a penalty awarded to the visitors was overturned by VAR, confirming a hard-fought draw that saw both teams show true sports manship in a thrilling encounter.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "I. Mbaye",
+                    "score_update": "1 - 0",
+                    "team": "Lorient",
+                    "time": "1'"
+                },
+                {
+                    "assist": "P. Katseris",
+                    "event_type": "Goal",
+                    "player": "P. Pagis",
+                    "score_update": "1 - 1",
+                    "team": "Strasbourg",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Hernández",
+                    "team": "Lorient",
+                    "time": "47'"
+                },
+                {
+                    "assist": "D. Doué",
+                    "event_type": "Goal",
+                    "player": "W. Zaïre-Emery",
+                    "score_update": "2 - 1",
+                    "team": "Lorient",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Aiyegun",
+                    "score_update": "2 - 2",
+                    "team": "Strasbourg",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Yongwa",
+                    "team": "Strasbourg",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris Saint-Germain 2 - 2 Lorient"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lorient 0 - 0 Nice"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lorient 2 - 2 Auxerre"
+                        }
+                    ],
+                    "team": "Strasbourg"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris Saint-Germain 2 - 2 Lorient"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "28/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 5 - 4 Bayern Munich"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Angers 0 - 3 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Liverpool 0 - 2 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 3 - 1 Toulouse"
+                        }
+                    ],
+                    "team": "Lorient"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "29/10/2025",
+                        "teams_and_score": "Lorient 1 - 1 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "24/04/2024",
+                        "teams_and_score": "Lorient 1 - 4 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "30/04/2023",
+                        "teams_and_score": "Paris Saint-Germain 1 - 3 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "03/04/2022",
+                        "teams_and_score": "Paris Saint-Germain 5 - 1 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "31/01/2021",
+                        "teams_and_score": "Lorient 3 - 2 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Coupe de France 19/20",
+                        "date": "19/01/2020",
+                        "teams_and_score": "Lorient 0 - 1 Paris Saint-Germain"
+                    }
+                ],
+                "summary": {
+                    "Lorient_wins": "2",
+                    "Strasbourg_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lorient": "68%",
+                    "Strasbourg": "32%"
+                },
+                "corners": {
+                    "Lorient": "12",
+                    "Strasbourg": "2"
+                },
+                "crosses": {
+                    "Lorient": "6",
+                    "Strasbourg": "2"
+                },
+                "fouls": {
+                    "Lorient": "9",
+                    "Strasbourg": "7"
+                },
+                "goalkeeper_saves": {
+                    "Lorient": "1",
+                    "Strasbourg": "4"
+                },
+                "offsides": {
+                    "Lorient": "1",
+                    "Strasbourg": "2"
+                },
+                "shots_blocked": {
+                    "Lorient": "8",
+                    "Strasbourg": "0"
+                },
+                "shots_off_target": {
+                    "Lorient": "10",
+                    "Strasbourg": "2"
+                },
+                "shots_on_target": {
+                    "Lorient": "6",
+                    "Strasbourg": "3"
+                },
+                "yellow_cards": {
+                    "Lorient": "1",
+                    "Strasbourg": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/lorient-vs-strasbourg-2026-04-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/95.webp",
+                    "name": "Strasbourg",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/97.webp",
+                    "name": "Lorient",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lorient-vs-strasbourg-2026-04-26-fim6.webp",
+            "title": "Lorient vs Strasbourg"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "May 10, 2026",
+            "description": "Watch Metz vs Lorient highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on May 10, 2026. A battle of nerves in Ligue 1 On May 10, 2026 , Metz and Lorient faced off in a highly anticipated Ligue 1 fixture that promised tactical intrigue from the opening whistle. Both sides fought for control in the midfield early on, with Metz relying on Gauthier Hein to deliver quality from set-pieces, while Lorient remained disciplined, waiting for the right moment to strike. That moment arrived in the 24th minute when Jean-Victor Makengo connected with an Arsene Kouassi assist to fire a right-footed shot into the net. The tension was palpable as the referee initiated a VAR check, but the goal was ultimately allowed to stand, giving Lorient a narrow and hard-fought lead heading into the halftime interval. The late-game collapse As the second half progressed, the game remained a tight tactical affair, but Lorient successfully ramped up the pressure with key substitutions. Bamba Dieng , who entered the fray off the bench, proved to be the difference-maker in the 84th minute, tucking away a goal set up by Pablo Pagis . This second strike seemed to shift the momentum decisively in favor of the visitors. In a wild final stretch, Lorient dismantled the Metz defense with clinical efficiency. Arthur Avom stunned the keeper with a brilliant long-range strike in the 90+7th minute, and Noah Cadiou completed the rout just sixty seconds later. The final scoreline of 0-4 was a testament to Lorient’s ruthless finishing and their ability to punish an opponent as the game reached its chaotic conclusion.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Sane",
+                    "team": "Metz",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Faye",
+                    "team": "Lorient",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Tsitaishvili",
+                    "team": "Metz",
+                    "time": "31'"
+                },
+                {
+                    "assist": "A. Kouassi",
+                    "event_type": "Goal",
+                    "player": "J. Makengo",
+                    "score_update": "0 - 1",
+                    "team": "Lorient",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Makengo",
+                    "team": "Lorient",
+                    "time": "61'"
+                },
+                {
+                    "assist": "P. Pagis",
+                    "event_type": "Goal",
+                    "player": "B. Dieng",
+                    "score_update": "0 - 2",
+                    "team": "Lorient",
+                    "time": "84'"
+                },
+                {
+                    "assist": "P. Pagis",
+                    "event_type": "Goal",
+                    "player": "A. A. Ebong",
+                    "score_update": "0 - 3",
+                    "team": "Lorient",
+                    "time": "90+7'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Cadiou",
+                    "score_update": "0 - 4",
+                    "team": "Lorient",
+                    "time": "90+8'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Metz 0 - 4 Lorient"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lorient 0 - 0 Nice"
+                        }
+                    ],
+                    "team": "Lorient"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Metz 0 - 4 Lorient"
+                        }
+                    ],
+                    "team": "Metz"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "04/01/2026",
+                        "teams_and_score": "Lorient 1 - 1 Metz"
+                    },
+                    {
+                        "competition": "Ligue 2",
+                        "date": "11/01/2025",
+                        "teams_and_score": "Lorient 0 - 0 Metz"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "04/02/2024",
+                        "teams_and_score": "Metz 1 - 2 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "20/04/2022",
+                        "teams_and_score": "Lorient 1 - 0 Metz"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "16/05/2021",
+                        "teams_and_score": "Lorient 2 - 1 Metz"
+                    },
+                    {
+                        "competition": "Ligue 2",
+                        "date": "31/03/2019",
+                        "teams_and_score": "Metz 2 - 1 Lorient"
+                    }
+                ],
+                "summary": {
+                    "Lorient_wins": "3",
+                    "Metz_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lorient": "46%",
+                    "Metz": "54%"
+                },
+                "corners": {
+                    "Lorient": "4",
+                    "Metz": "7"
+                },
+                "crosses": {
+                    "Lorient": "6",
+                    "Metz": "4"
+                },
+                "fouls": {
+                    "Lorient": "8",
+                    "Metz": "8"
+                },
+                "goalkeeper_saves": {
+                    "Lorient": "2",
+                    "Metz": "3"
+                },
+                "offsides": {
+                    "Lorient": "2",
+                    "Metz": "0"
+                },
+                "shots_blocked": {
+                    "Lorient": "2",
+                    "Metz": "2"
+                },
+                "shots_off_target": {
+                    "Lorient": "5",
+                    "Metz": "4"
+                },
+                "shots_on_target": {
+                    "Lorient": "7",
+                    "Metz": "2"
+                },
+                "yellow_cards": {
+                    "Lorient": "2",
+                    "Metz": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/metz-vs-lorient-2026-05-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/97.webp",
+                    "name": "Lorient",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/112.webp",
+                    "name": "Metz",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/metz-vs-lorient-2026-05-10-AkHv.webp",
+            "title": "Metz vs Lorient"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Nov 23, 2025",
+            "description": "Watch Nantes vs Lorient highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on November 23, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Nantes_v_Lorient_2025_11_23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nantes-v-lorient-2025-11-23.webp",
+            "title": "Nantes vs Lorient"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Feb 22, 2026",
+            "description": "Watch Nice vs Lorient highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on February 22, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "M. Cho",
+                    "event_type": "Goal",
+                    "player": "T. Louchet",
+                    "score_update": "1 - 0",
+                    "team": "Nice",
+                    "time": "12'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Diop",
+                    "team": "Nice",
+                    "time": "29'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Louchet",
+                    "score_update": "2 - 0",
+                    "team": "Nice",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Pagis",
+                    "score_update": "2 - 1",
+                    "team": "Lorient",
+                    "time": "45+4'"
+                },
+                {
+                    "assist": "J. Clauss",
+                    "event_type": "Goal",
+                    "player": "K. Boudache",
+                    "score_update": "3 - 1",
+                    "team": "Nice",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Puel",
+                    "team": "Nice",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Dieng",
+                    "score_update": "3 - 2",
+                    "team": "Lorient",
+                    "time": "67'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Katseris",
+                    "team": "Lorient",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Bard",
+                    "team": "Nice",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Talbi",
+                    "team": "Lorient",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Yongwa",
+                    "team": "Lorient",
+                    "time": "90+3'"
+                },
+                {
+                    "assist": "J. Makengo",
+                    "event_type": "Goal",
+                    "player": "N. Cadiou",
+                    "score_update": "3 - 3",
+                    "team": "Lorient",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "22/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Nice 3 - 3 Lorient"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Lorient 2 - 0 Paris FC"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Lorient 2 - 1 Nantes"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "10/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Hauts Lyonnais 1 - 3 Lorient"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "04/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Lorient 1 - 1 Metz"
+                        }
+                    ],
+                    "team": "Lorient"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "22/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Nice 3 - 3 Lorient"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Nice 3 - 2 Montpellier"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Nice 2 - 2 Brest"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Ludogorets Razgrad 1 - 0 Nice"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "25/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Nantes 1 - 4 Nice"
+                        }
+                    ],
+                    "team": "Nice"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "30/11/2025",
+                        "teams_and_score": "Lorient 3 - 1 Nice"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "19/04/2024",
+                        "teams_and_score": "Nice 3 - 0 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "19/03/2023",
+                        "teams_and_score": "Nice 1 - 1 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "17/04/2022",
+                        "teams_and_score": "Nice 2 - 1 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "14/03/2021",
+                        "teams_and_score": "Lorient 1 - 1 Nice"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "18/02/2017",
+                        "teams_and_score": "Lorient 0 - 1 Nice"
+                    }
+                ],
+                "summary": {
+                    "Lorient_wins": "1",
+                    "Nice_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lorient": "60%",
+                    "Nice": "40%"
+                },
+                "corners": {
+                    "Lorient": "7",
+                    "Nice": "3"
+                },
+                "crosses": {
+                    "Lorient": "7",
+                    "Nice": "3"
+                },
+                "fouls": {
+                    "Lorient": "4",
+                    "Nice": "15"
+                },
+                "goalkeeper_saves": {
+                    "Lorient": "0",
+                    "Nice": "2"
+                },
+                "offsides": {
+                    "Lorient": "2",
+                    "Nice": "0"
+                },
+                "shots_blocked": {
+                    "Lorient": "3",
+                    "Nice": "2"
+                },
+                "shots_off_target": {
+                    "Lorient": "9",
+                    "Nice": "2"
+                },
+                "shots_on_target": {
+                    "Lorient": "5",
+                    "Nice": "4"
+                },
+                "yellow_cards": {
+                    "Lorient": "3",
+                    "Nice": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Nice_v_Lorient_2026_02_22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/97.webp",
+                    "name": "Lorient",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/84.webp",
+                    "name": "Nice",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nice-v-lorient-2026-02-22-Ei1j.webp",
+            "title": "Nice vs Lorient"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Paris Saint Germain vs Lorient highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on May 2, 2026. High-octane Ligue 1 action returned to the capital on May 2, 2026, as Paris Saint-Germain hosted Lorient in a clash that kept fans on the edge of their seats until the final whistle. The encounter featured rapid-fire goals and a controversial conclusion that left both sets of supporters breathless. Explosive Opening at the Parc des Princes The match ignited in the 6th minute when Ibrahim Mbaye found the back of the net to give Paris Saint-Germain an early advantage. The goal was briefly held in suspense as a VAR check took place to ensure the validity of the strike, but the referee eventually signaled for the goal to stand, much to the delight of the home crowd. However, the celebrations were short-lived as Lorient displayed remarkable resilience. In the 12th minute, Panos Katseris delivered a precise ball to Pablo Pagis , who executed a clinical left-footed volley to level the score. The equalizer stunned the hosts and set the tone for a competitive afternoon where neither side was willing to back down. Following the frantic start, PSG dominated the ball, maintaining nearly 70% of possession throughout the contest. Kang-In Lee was particularly active on the wings, delivering a series of corners and crosses, yet the Lorient defense, led by the interventions of Nathaniel Adjei and Montassar Talbi , remained disciplined. Despite the territorial dominance of the Parisian giants, clear-cut chances were hard to come by for the remainder of the first half, with Lorient occasionally threatening on the counter through Bamba Dieng , who saw two efforts ruled out for offside. Tactical Shifts and Second-Half Momentum The second half began with heightened intensity, punctuated by a yellow card for Lucas Hernandez in the 47th minute after a robust challenge. Looking to break the deadlock, PSG manager opted for tactical changes around the hour mark, introducing Warren Zaïre-Emery and Joao Neves . The impact was almost immediate. In the 62nd minute, Desire Doue —who was a standout performer throughout the match—provided the assist for Warren Zaïre-Emery . The young midfielder unleashed a right-footed shot that took a cruel deflection, wrong-footing the keeper and nestling into the net to restore the lead for the hosts. Refusing to surrender, Lorient responded with their own set of substitutions, bringing on Aiyegun Tosin to freshen up the attack. The gamble paid off in the 78th minute. Following a defensive lapse from substitute Pierre Mounguengue , Aiyegun Tosin capitalized on the error to fire home a right-footed equalizer. The goal silenced the stadium and set up a grandstand finish as Paris Saint-Germain threw everything forward in search of a winner. Late Woodwork and VAR Controversy The closing stages were defined by desperation and drama. In the 88th minute, Senny Mayulu came agonizingly close to securing all three points for PSG , but his well-placed finish rattled the post and stayed out. As the game entered seven minutes of stoppage time, the tension reached a breaking point. In the 95th minute, the referee pointed to the penalty spot after Noah Cadiou was judged to have committed a foul in the box. With the Parisian faithful anticipating a winning moment, the play was halted for a lengthy VAR review. After consulting the monitor, the referee made the decisive call to revoke the penalty, citing a change in the original decision. Despite a late flurry of activity and a wayward effort from Dro Fernandez , Lorient held firm. When the final whistle blew, both teams walked away with a point after a game that saw PSG ’s dominance frustrated by a spirited and opportunistic Lorient side.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "I. Mbaye",
+                    "score_update": "1 - 0",
+                    "team": "Paris Saint Germain",
+                    "time": "1'"
+                },
+                {
+                    "assist": "P. Katseris",
+                    "event_type": "Goal",
+                    "player": "P. Pagis",
+                    "score_update": "1 - 1",
+                    "team": "Lorient",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Hernández",
+                    "team": "Paris Saint Germain",
+                    "time": "47'"
+                },
+                {
+                    "assist": "D. Doué",
+                    "event_type": "Goal",
+                    "player": "W. Zaïre-Emery",
+                    "score_update": "2 - 1",
+                    "team": "Paris Saint Germain",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Aiyegun",
+                    "score_update": "2 - 2",
+                    "team": "Lorient",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Yongwa",
+                    "team": "Lorient",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris Saint-Germain 2 - 2 Lorient"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lorient 0 - 0 Nice"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lorient 2 - 2 Auxerre"
+                        }
+                    ],
+                    "team": "Lorient"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris Saint-Germain 2 - 2 Lorient"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "28/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 5 - 4 Bayern Munich"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Angers 0 - 3 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Liverpool 0 - 2 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 3 - 1 Toulouse"
+                        }
+                    ],
+                    "team": "Paris Saint Germain"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "29/10/2025",
+                        "teams_and_score": "Lorient 1 - 1 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "24/04/2024",
+                        "teams_and_score": "Lorient 1 - 4 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "30/04/2023",
+                        "teams_and_score": "Paris Saint-Germain 1 - 3 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "03/04/2022",
+                        "teams_and_score": "Paris Saint-Germain 5 - 1 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "31/01/2021",
+                        "teams_and_score": "Lorient 3 - 2 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Coupe de France 19/20",
+                        "date": "19/01/2020",
+                        "teams_and_score": "Lorient 0 - 1 Paris Saint-Germain"
+                    }
+                ],
+                "summary": {
+                    "Lorient_wins": "2",
+                    "Paris Saint Germain_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lorient": "31%",
+                    "Paris Saint Germain": "69%"
+                },
+                "corners": {
+                    "Lorient": "2",
+                    "Paris Saint Germain": "12"
+                },
+                "crosses": {
+                    "Lorient": "2",
+                    "Paris Saint Germain": "6"
+                },
+                "fouls": {
+                    "Lorient": "7",
+                    "Paris Saint Germain": "9"
+                },
+                "goalkeeper_saves": {
+                    "Lorient": "4",
+                    "Paris Saint Germain": "1"
+                },
+                "offsides": {
+                    "Lorient": "2",
+                    "Paris Saint Germain": "1"
+                },
+                "shots_blocked": {
+                    "Lorient": "0",
+                    "Paris Saint Germain": "8"
+                },
+                "shots_off_target": {
+                    "Lorient": "2",
+                    "Paris Saint Germain": "10"
+                },
+                "shots_on_target": {
+                    "Lorient": "3",
+                    "Paris Saint Germain": "6"
+                },
+                "yellow_cards": {
+                    "Lorient": "1",
+                    "Paris Saint Germain": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/PSG_v_Lorient_2026_05_02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/97.webp",
+                    "name": "Lorient",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/85.webp",
+                    "name": "Paris Saint Germain",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/psg-v-lorient-2026-05-02-kNwL.webp",
+            "title": "Paris SG vs Lorient"
+        }
+    ]
+}

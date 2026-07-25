@@ -1,0 +1,256 @@
+{
+    "team": "Honduras",
+    "team_logo": "https://img.refooty.com/logo/teams/4672.webp",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 7, 2026",
+            "description": "Watch Argentina vs Honduras highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 7, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "V. Barco",
+                    "score_update": "1 - 0",
+                    "team": "Argentina",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Pálsson",
+                    "team": "Honduras",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. L. Gretarsson",
+                    "team": "Honduras",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Barco",
+                    "team": "Argentina",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Í. B. Jóhannesson",
+                    "team": "Honduras",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. R. Ólafsson",
+                    "team": "Honduras",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Messi",
+                    "score_update": "2 - 0",
+                    "team": "Argentina",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Martínez",
+                    "team": "Argentina",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. D. Þorsteinsson",
+                    "team": "Honduras",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Gunnarsson",
+                    "team": "Honduras",
+                    "time": "121'"
+                },
+                {
+                    "assist": "R. D. Paul",
+                    "event_type": "Goal",
+                    "player": "T. Almada",
+                    "score_update": "3 - 0",
+                    "team": "Argentina",
+                    "time": "136'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "10/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Argentina 3 - 0 Iceland"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "31/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Japan 1 - 0 Iceland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group D",
+                            "date": "16/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Ukraine 2 - 0 Iceland"
+                        }
+                    ],
+                    "team": "Honduras"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "10/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Argentina 3 - 0 Iceland"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "14/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Angola 0 - 2 Argentina"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "15/10/2025",
+                            "result": "W",
+                            "teams_and_score": "Puerto Rico 0 - 6 Argentina"
+                        },
+                        {
+                            "competition": "CONMEBOL Qualification",
+                            "date": "09/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Ecuador 1 - 0 Argentina"
+                        }
+                    ],
+                    "team": "Argentina"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "World Cup Grp. D",
+                        "date": "16/06/2018",
+                        "teams_and_score": "Argentina 1 - 1 Iceland"
+                    }
+                ],
+                "summary": {
+                    "Argentina_wins": "0",
+                    "Honduras_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Argentina": "63%",
+                    "Honduras": "37%"
+                },
+                "corners": {
+                    "Argentina": "2",
+                    "Honduras": "2"
+                },
+                "fouls": {
+                    "Argentina": "13",
+                    "Honduras": "21"
+                },
+                "goalkeeper_saves": {
+                    "Argentina": "1",
+                    "Honduras": "4"
+                },
+                "offsides": {
+                    "Argentina": "3",
+                    "Honduras": "0"
+                },
+                "shots_blocked": {
+                    "Argentina": "4",
+                    "Honduras": "0"
+                },
+                "shots_off_target": {
+                    "Argentina": "4",
+                    "Honduras": "5"
+                },
+                "shots_on_target": {
+                    "Argentina": "7",
+                    "Honduras": "1"
+                },
+                "yellow_cards": {
+                    "Argentina": "2",
+                    "Honduras": "6"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Argentina_v_Honduras_2026_06_07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4672.webp",
+                    "name": "Honduras",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/26.webp",
+                    "name": "Argentina",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/argentina-v-honduras-2026-06-07-vjPH.webp",
+            "title": "Argentina vs Honduras"
+        },
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Jun 21, 1982",
+            "description": "Watch Ireland vs Honduras highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on June 21, 1982.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/ireland-vs-honduras-1982-06-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/ireland-vs-honduras-1982-06-21-bE8k.webp",
+            "title": "Ireland vs Honduras"
+        }
+    ]
+}

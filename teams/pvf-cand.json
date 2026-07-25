@@ -1,0 +1,77 @@
+{
+    "team": "PVF-CAND",
+    "team_logo": "",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "Unknown Competition",
+            "competition_cover": "",
+            "date": "Oct 5, 2025",
+            "description": "Watch Hong Linh Ha Tinh vs Bình Dương highlights and goals from V.League 1 on ReFooty: Football Highlights Hub. Match played on October 5, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/highlights-hong-linh-ha-tinh-pvf-cand-doi-cong-ruc-lua-chia-diem-kich-tinh.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/highlights-hong-linh-ha-tinh-pvf-cand-doi-cong-ruc-lua-chia-diem-kich-tinh.webp",
+            "title": "Hồng Lĩnh Hà Tĩnh vs PVF-CAND"
+        },
+        {
+            "competition": "Unknown Competition",
+            "competition_cover": "",
+            "date": "Oct 5, 2025",
+            "description": "Watch Bình Dương vs Bình Dương highlights and goals from V.League 2 on ReFooty: Football Highlights Hub. Match played on October 5, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/highlights-tre-pvf-cand-bac-ninh-ruot-duoi-cuc-hap-dan-kich-tinh-den-phut-cuoi.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/highlights-tre-pvf-cand-bac-ninh-ruot-duoi-cuc-hap-dan-kich-tinh-den-phut-cuoi.webp",
+            "title": "PVF-CAND vs Bắc Ninh"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "team": "Sheffield",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Jan 31, 2026",
+            "description": "Watch Sheffield vs Wrexham highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on January 31, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sheffield-vs-wrexham-2026-01-31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-vs-wrexham-2026-01-31-uBAS.webp",
+            "title": "Sheffield vs Wrexham"
+        }
+    ]
+}

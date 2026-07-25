@@ -1,0 +1,2628 @@
+{
+    "team": "St. Truiden",
+    "team_logo": "https://img.refooty.com/logo/teams/735.webp",
+    "total_matches": 15,
+    "matches": [
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 28, 2026",
+            "description": "Watch Antwerp vs St. Truiden highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 28, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Muja",
+                    "team": "St. Truiden",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Janssen",
+                    "team": "Antwerp",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Z. V. Den Bosch",
+                    "team": "Antwerp",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Valencia",
+                    "score_update": "1 - 0",
+                    "team": "Antwerp",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 1 - 0 St.Truiden"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 1 - 0 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "12/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 0 - 4 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "KV Mechelen 2 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 0 - 1 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Cercle Brugge 0 - 4 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "03/12/2025",
+                        "teams_and_score": "Royal Antwerp 3 - 3 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "02/11/2025",
+                        "teams_and_score": "St.Truiden 1 - 0 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "24/01/2025",
+                        "teams_and_score": "St.Truiden 1 - 1 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "03/03/2024",
+                        "teams_and_score": "Royal Antwerp 3 - 0 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "23/04/2023",
+                        "teams_and_score": "St.Truiden 0 - 1 Royal Antwerp"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "25/01/2022",
+                        "teams_and_score": "Royal Antwerp 1 - 1 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "2",
+                    "St Truiden_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "30%",
+                    "St Truiden": "70%"
+                },
+                "corners": {
+                    "Antwerp": "3",
+                    "St Truiden": "4"
+                },
+                "fouls": {
+                    "Antwerp": "11",
+                    "St Truiden": "7"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "3",
+                    "St Truiden": "5"
+                },
+                "offsides": {
+                    "Antwerp": "2",
+                    "St Truiden": "2"
+                },
+                "shots_blocked": {
+                    "Antwerp": "2",
+                    "St Truiden": "3"
+                },
+                "shots_off_target": {
+                    "Antwerp": "4",
+                    "St Truiden": "4"
+                },
+                "shots_on_target": {
+                    "Antwerp": "6",
+                    "St Truiden": "3"
+                },
+                "yellow_cards": {
+                    "Antwerp": "2",
+                    "St Truiden": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/antwerp-vs-st-truiden-2026-02-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/antwerp-vs-st-truiden-2026-02-28-wru4.webp",
+            "title": "Antwerp vs St. Truiden"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 11, 2026",
+            "description": "Watch Club Brugge vs St. Truiden highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 11, 2026. The atmosphere in the stadium was thick with anticipation as the sides prepared for a crucial Jupiler Pro League fixture. On May 11, 2026, the match promised to be a rigorous test of tactical discipline and composure for both squads. A Clinical Opening Club Brugge asserted their dominance early, dictating the flow of the game with sharp, purposeful movement. The deadlock was broken in the 13th minute when Nicolo Tresoldi found the net following a perfectly timed assist from Christos Tzolis . Despite efforts from STVV to find a foothold, the Brugge defense remained resolute, carrying their lead into the half-time break with confidence. Second-Half Drama Returning from the tunnel, the momentum stayed with the hosts as Carlos Forbs doubled the lead in the 52nd minute, again set up by Christos Tzolis . The tone shifted dramatically in the 64th minute when Ryan Merlen was issued a red card. The dismissal sparked fierce protests from his teammates, forcing a tactical reshuffle. As the game entered its final phase, the pressure mounted, evidenced by a yellow card for Shogo Taniguchi in the 77th minute. Through a series of late substitutions, Club Brugge tightened their defensive structure to neutralize the threat, successfully navigating the final minutes to secure a hard-fought result.",
+            "events_timeline": [
+                {
+                    "assist": "C. Tzolis",
+                    "event_type": "Goal",
+                    "player": "N. Tresoldi",
+                    "score_update": "1 - 0",
+                    "team": "Club Brugge",
+                    "time": "1'"
+                },
+                {
+                    "assist": "C. Tzolis",
+                    "event_type": "Goal",
+                    "player": "C. Forbs",
+                    "score_update": "2 - 0",
+                    "team": "Club Brugge",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "R. Merlen",
+                    "team": "St. Truiden",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Taniguchi",
+                    "team": "St. Truiden",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "09/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Brugge 2 - 0 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "09/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Brugge 2 - 0 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Brugge 4 - 1 KV Mechelen"
+                        }
+                    ],
+                    "team": "Club Brugge"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Championship Group",
+                        "date": "11/04/2026",
+                        "teams_and_score": "St.Truiden 1 - 2 Club Brugge"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "06/12/2025",
+                        "teams_and_score": "St.Truiden 3 - 2 Club Brugge"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "15/02/2025",
+                        "teams_and_score": "St.Truiden 2 - 2 Club Brugge"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "17/03/2024",
+                        "teams_and_score": "St.Truiden 2 - 1 Club Brugge"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "19/01/2023",
+                        "teams_and_score": "St.Truiden 1 - 1 Club Brugge"
+                    },
+                    {
+                        "competition": "Cup",
+                        "date": "21/12/2022",
+                        "teams_and_score": "Club Brugge 1 - 4 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "19/10/2022",
+                        "teams_and_score": "Club Brugge 3 - 0 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "Club Brugge_wins": "2",
+                    "St Truiden_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Club Brugge": "61%",
+                    "St Truiden": "39%"
+                },
+                "corners": {
+                    "Club Brugge": "6",
+                    "St Truiden": "2"
+                },
+                "fouls": {
+                    "Club Brugge": "6",
+                    "St Truiden": "5"
+                },
+                "goalkeeper_saves": {
+                    "Club Brugge": "2",
+                    "St Truiden": "8"
+                },
+                "offsides": {
+                    "Club Brugge": "0",
+                    "St Truiden": "1"
+                },
+                "red_cards": {
+                    "Club Brugge": "0",
+                    "St Truiden": "1"
+                },
+                "shots_blocked": {
+                    "Club Brugge": "6",
+                    "St Truiden": "2"
+                },
+                "shots_off_target": {
+                    "Club Brugge": "7",
+                    "St Truiden": "3"
+                },
+                "shots_on_target": {
+                    "Club Brugge": "11",
+                    "St Truiden": "2"
+                },
+                "yellow_cards": {
+                    "Club Brugge": "0",
+                    "St Truiden": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/club-brugge-stvv-2026-05-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/569.webp",
+                    "name": "Club Brugge",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/club-brugge-stvv-2026-05-11-vCVt.webp",
+            "title": "Club Brugge - STVV"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 21, 2026",
+            "description": "Watch Dender vs St. Truiden highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 21, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "N. Mbamba",
+                    "score_update": "1 - 0",
+                    "team": "Dender",
+                    "time": "1'"
+                },
+                {
+                    "assist": "K. Goto",
+                    "event_type": "Goal",
+                    "player": "I. Sebaoui",
+                    "score_update": "1 - 1",
+                    "team": "St. Truiden",
+                    "time": "16'"
+                },
+                {
+                    "assist": "A. Sissako",
+                    "event_type": "Goal",
+                    "player": "R. Ito",
+                    "score_update": "1 - 2",
+                    "team": "St. Truiden",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Mbamba",
+                    "team": "Dender",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Viltard",
+                    "team": "Dender",
+                    "time": "61'"
+                },
+                {
+                    "assist": "R. Ito",
+                    "event_type": "Goal",
+                    "player": "R. Yamamoto",
+                    "score_update": "1 - 3",
+                    "team": "St. Truiden",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. De Fougerolles",
+                    "team": "Dender",
+                    "time": "91'"
+                },
+                {
+                    "assist": "K. Goto",
+                    "event_type": "Goal",
+                    "player": "A. Muja",
+                    "score_update": "1 - 4",
+                    "team": "St. Truiden",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "FCV Dender EH 1 - 4 St.Truiden"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "21/02/2026",
+                            "result": "L",
+                            "teams_and_score": "FCV Dender EH 1 - 4 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "14/01/2026",
+                            "result": "L",
+                            "teams_and_score": "FCV Dender EH 0 - 2 Union St.Gilloise"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "27/12/2025",
+                            "result": "D",
+                            "teams_and_score": "KV Mechelen 1 - 1 FCV Dender EH"
+                        }
+                    ],
+                    "team": "Dender"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "08/08/2025",
+                        "teams_and_score": "St.Truiden 2 - 0 FCV Dender EH"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "08/02/2025",
+                        "teams_and_score": "FCV Dender EH 2 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Jupiler League",
+                        "date": "16/02/2008",
+                        "teams_and_score": "St.Truiden 1 - 2 FCV Dender EH"
+                    },
+                    {
+                        "competition": "Cofidis Cup",
+                        "date": "11/11/2005",
+                        "teams_and_score": "FCV Dender EH 0 - 1 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "Dender_wins": "2",
+                    "St Truiden_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Dender": "39%",
+                    "St Truiden": "61%"
+                },
+                "corners": {
+                    "Dender": "4",
+                    "St Truiden": "9"
+                },
+                "fouls": {
+                    "Dender": "14",
+                    "St Truiden": "8"
+                },
+                "goalkeeper_saves": {
+                    "Dender": "0",
+                    "St Truiden": "3"
+                },
+                "offsides": {
+                    "Dender": "1",
+                    "St Truiden": "3"
+                },
+                "shots_blocked": {
+                    "Dender": "2",
+                    "St Truiden": "6"
+                },
+                "shots_off_target": {
+                    "Dender": "5",
+                    "St Truiden": "4"
+                },
+                "shots_on_target": {
+                    "Dender": "4",
+                    "St Truiden": "4"
+                },
+                "yellow_cards": {
+                    "Dender": "3",
+                    "St Truiden": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/dender-vs-st-truiden-2026-02-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/6215.webp",
+                    "name": "Dender",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dender-vs-st-truiden-2026-02-21-3r7b.webp",
+            "title": "Dender vs St. Truiden"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch Genk vs St. Truiden highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "R. Mirisola",
+                    "event_type": "Goal",
+                    "player": "Z. El Ouahdi",
+                    "score_update": "1 - 0",
+                    "team": "Genk",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Bangoura",
+                    "team": "Genk",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Lawal",
+                    "team": "Genk",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Genk 1 - 0 St.Truiden"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Genk 1 - 0 St.Truiden"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Genk 1 - 0 Freiburg"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 2 - 1 Genk"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Genk 3 - 3 Dinamo Zagreb"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Genk 0 - 3 Standard Liege"
+                        }
+                    ],
+                    "team": "Genk"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "28/09/2025",
+                        "teams_and_score": "St.Truiden 1 - 2 Genk"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "07/01/2025",
+                        "teams_and_score": "St.Truiden 0 - 4 Genk"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "01/12/2024",
+                        "teams_and_score": "St.Truiden 2 - 2 Genk"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "28/01/2024",
+                        "teams_and_score": "St.Truiden 1 - 1 Genk"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "05/03/2023",
+                        "teams_and_score": "St.Truiden 2 - 2 Genk"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "13/03/2022",
+                        "teams_and_score": "Genk 0 - 1 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "Genk_wins": "2",
+                    "St Truiden_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Genk": "36%",
+                    "St Truiden": "64%"
+                },
+                "corners": {
+                    "Genk": "5",
+                    "St Truiden": "8"
+                },
+                "fouls": {
+                    "Genk": "10",
+                    "St Truiden": "8"
+                },
+                "goalkeeper_saves": {
+                    "Genk": "1",
+                    "St Truiden": "3"
+                },
+                "offsides": {
+                    "Genk": "1",
+                    "St Truiden": "0"
+                },
+                "shots_blocked": {
+                    "Genk": "3",
+                    "St Truiden": "3"
+                },
+                "shots_off_target": {
+                    "Genk": "6",
+                    "St Truiden": "4"
+                },
+                "shots_on_target": {
+                    "Genk": "4",
+                    "St Truiden": "1"
+                },
+                "yellow_cards": {
+                    "Genk": "2",
+                    "St Truiden": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/genk-vs-st-truiden-2026-03-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/742.webp",
+                    "name": "Genk",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/genk-vs-st-truiden-2026-03-15-7Ckk.webp",
+            "title": "Genk vs St. Truiden"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 27, 2026",
+            "description": "Watch KV Mechelen vs St. Truiden highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 27, 2026. KV Mechelen and St. Truiden faced off in a highly anticipated Jupiler Pro League clash that delivered a tactical battle of two halves. On April 27, 2026 , both sides looked to establish dominance early on in a match characterized by sharp attacking transitions and clinical finishing. Early Breakthrough and a Late First-Half Reply The match began with high energy as KV Mechelen sought to utilize their home advantage and dictate the tempo. Their persistence was rewarded in the 26th minute when Bouke Boersma found the back of the net, finishing clinically after being played through by a precise assist from Therence Koudou . For much of the opening period, the hosts looked composed and defensively sound, effectively neutralizing the opposition's initial forays into the final third. However, St. Truiden remained a constant threat on the counter-attack, searching for a way back into the contest before the referee's whistle. Just as the first half seemed to be winding down in favor of the hosts, the visitors found their rhythm. In the 44th minute, Joedrick Pupe leveled the scoring, expertly converting a chance created by a clever pass from Ryotaro Ito . The equalizer shifted the psychological momentum of the fixture, ensuring the sides went into the tunnel on equal footing but with St. Truiden carrying the newfound confidence into the break. The Tide Turns After the Interval The second half saw a significant shift in momentum, sparked by tactical adjustments and a key substitution. Only minutes after the restart, Ryan Merlen —who had just entered the pitch—made an immediate impact. In the 49th minute, Merlen put the visitors ahead for the first time, finishing a well-constructed move involving an assist from Keisuke Goto . The goal seemed to deflate KV Mechelen , who struggled to regain the control they had enjoyed during the first half-hour of play. St. Truiden continued to press their advantage, exploiting gaps in the home side's defensive line as they pushed for an equalizer. In the 63rd minute, the provider turned scorer as Ilias Sebaoui extended the lead to 3-1. The goal was a testament to the visitors' clinical efficiency, with Merlen returning the favor by providing the decisive assist. The quick-fire nature of the goals left the home supporters stunned as their side fought to stay competitive in an increasingly one-sided affair. Clinical Finish and Late Control As the clock ticked toward the final quarter, St. Truiden showed no signs of slowing down. In the 75th minute, Ryotaro Ito capped off a brilliant individual performance by adding a fourth goal, set up by the ever-active Ilias Sebaoui . With a comfortable three-goal cushion, the visitors managed the closing stages with professional ease, making several substitutions to freshen up the squad, including the introduction of Loic Mbe Soh , Wolke Janssens , and Shion Shinkawa . KV Mechelen attempted to find a consolation goal, introducing Benito Raman and Bilal Bafdili to the fray, but the visitors' defense held firm. The closing minutes were marked by rising frustrations, resulting in a yellow card for Fredrik Hammar in stoppage time. When the final whistle blew at 90+4', St. Truiden had successfully secured all three points, leaving the hosts to reflect on a difficult afternoon where a promising start was erased by a relentless second-half display.",
+            "events_timeline": [
+                {
+                    "assist": "T. Koudou",
+                    "event_type": "Goal",
+                    "player": "B. Boersma",
+                    "score_update": "1 - 0",
+                    "team": "KV Mechelen",
+                    "time": "1'"
+                },
+                {
+                    "assist": "R. Ito",
+                    "event_type": "Goal",
+                    "player": "J. Pupe",
+                    "score_update": "1 - 1",
+                    "team": "St. Truiden",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Sissako",
+                    "team": "St. Truiden",
+                    "time": "46'"
+                },
+                {
+                    "assist": "K. Goto",
+                    "event_type": "Goal",
+                    "player": "R. Merlen",
+                    "score_update": "1 - 2",
+                    "team": "St. Truiden",
+                    "time": "49'"
+                },
+                {
+                    "assist": "R. Merlen",
+                    "event_type": "Goal",
+                    "player": "I. Sebaoui",
+                    "score_update": "1 - 3",
+                    "team": "St. Truiden",
+                    "time": "63'"
+                },
+                {
+                    "assist": "I. Sebaoui",
+                    "event_type": "Goal",
+                    "player": "R. Ito",
+                    "score_update": "1 - 4",
+                    "team": "St. Truiden",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Hammar",
+                    "team": "KV Mechelen",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "KV Mechelen 1 - 4 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "KV Mechelen 1 - 4 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Brugge 4 - 1 KV Mechelen"
+                        }
+                    ],
+                    "team": "KV Mechelen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "21/12/2025",
+                        "teams_and_score": "St.Truiden 1 - 0 KV Mechelen"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "21/02/2025",
+                        "teams_and_score": "KV Mechelen 1 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League: UECL Group 23/24",
+                        "date": "12/05/2024",
+                        "teams_and_score": "St.Truiden 2 - 1 KV Mechelen"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "03/12/2023",
+                        "teams_and_score": "KV Mechelen 0 - 2 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "11/03/2023",
+                        "teams_and_score": "KV Mechelen 1 - 0 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "KV Mechelen_wins": "1",
+                    "St Truiden_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "KV Mechelen": "43%",
+                    "St Truiden": "57%"
+                },
+                "corners": {
+                    "KV Mechelen": "4",
+                    "St Truiden": "7"
+                },
+                "fouls": {
+                    "KV Mechelen": "11",
+                    "St Truiden": "13"
+                },
+                "goalkeeper_saves": {
+                    "KV Mechelen": "6",
+                    "St Truiden": "1"
+                },
+                "offsides": {
+                    "KV Mechelen": "1",
+                    "St Truiden": "0"
+                },
+                "shots_blocked": {
+                    "KV Mechelen": "2",
+                    "St Truiden": "2"
+                },
+                "shots_off_target": {
+                    "KV Mechelen": "4",
+                    "St Truiden": "4"
+                },
+                "shots_on_target": {
+                    "KV Mechelen": "2",
+                    "St Truiden": "10"
+                },
+                "yellow_cards": {
+                    "KV Mechelen": "1",
+                    "St Truiden": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kv-mechelen-vs-st-truiden-2026-04-27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/266.webp",
+                    "name": "KV Mechelen",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kv-mechelen-vs-st-truiden-2026-04-27-stbA.webp",
+            "title": "KV Mechelen vs St. Truiden"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 7, 2026",
+            "description": "Watch KVC Westerlo vs St. Truiden highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 7, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kvc-westerlo-vs-st-truiden-2026-02-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kvc-westerlo-vs-st-truiden-2026-02-07-R2AD.webp",
+            "title": "KVC Westerlo vs St. Truiden"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 22, 2026",
+            "description": "Watch Anderlecht vs St. Truiden highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 22, 2026. The Jupiler Pro League delivered another intense chapter as RSC Anderlecht hosted STVV in a clash filled with tactical shifts and clinical finishing. Fans at the stadium on May 22, 2026, witnessed a match defined by individual brilliance and a late surge of emotion as both sides fought for dominance. Sikan's First-Half Masterclass From the opening whistle, RSC Anderlecht looked to dictate the tempo and pin their opponents back. While STVV 's Arbnor Muja saw an early yellow card just four minutes in, the home side capitalized on their mounting pressure in the 20th minute. Tristan Degreef delivered a precise pass to Danylo Sikan , who made no mistake in finding the back of the net to break the deadlock. The momentum stayed firmly with the hosts, and just before the halftime whistle in the 45+2 minute, Sikan struck again, securing a comfortable cushion going into the break after a dominant display. STVV Responds Under Pressure The second half saw a tactical reshuffle as STVV introduced Kaito Matsuzawa for Muja in an attempt to spark a comeback. This change paid dividends in the 77th minute when Matsuzawa provided a crucial assist for Abdoulaye Sissako , whose clinical finish narrowed the gap and put the home defense on high alert. With the score at 2-1, the match entered a frantic final phase characterized by strategic substitutions and mounting tension, including yellow cards for Killian Sardella and Enric Llansana as Anderlecht fought to maintain their lead. Late Drama and the Decisive Blow As the clock ticked deep into stoppage time, STVV pushed forward in search of a dramatic equalizer, but Anderlecht 's depth proved decisive. Adriano Bertaccini , who had replaced Yari Verschaeren earlier in the half, became the hero of the final moments. In the 90+2 minute, Ali Maamar set up Bertaccini for a goal that effectively ended the contest. Despite a late yellow card for Simen Kristiansen Jukleroed , the home side held firm to secure all three points in a hard-fought encounter that kept the fans on the edge of their seats until the final whistle.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Muja",
+                    "team": "St. Truiden",
+                    "time": "4'"
+                },
+                {
+                    "assist": "T. Degreef",
+                    "event_type": "Goal",
+                    "player": "D. Sikan",
+                    "score_update": "1 - 0",
+                    "team": "Anderlecht",
+                    "time": "20'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Sikan",
+                    "score_update": "2 - 0",
+                    "team": "Anderlecht",
+                    "time": "45+2'"
+                },
+                {
+                    "assist": "K. Matsuzawa",
+                    "event_type": "Goal",
+                    "player": "A. Sissako",
+                    "score_update": "2 - 1",
+                    "team": "St. Truiden",
+                    "time": "77'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Sardella",
+                    "team": "Anderlecht",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Llansana",
+                    "team": "Anderlecht",
+                    "time": "90+1'"
+                },
+                {
+                    "assist": "A. Maamar",
+                    "event_type": "Goal",
+                    "player": "A. Bertaccini",
+                    "score_update": "3 - 1",
+                    "team": "Anderlecht",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Juklerod",
+                    "team": "St. Truiden",
+                    "time": "90+8'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "21/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 3 - 1 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 3 - 1 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 3 - 1 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Gent 1 - 1 Anderlecht"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Championship Group",
+                        "date": "23/04/2026",
+                        "teams_and_score": "St.Truiden 2 - 0 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "13/12/2025",
+                        "teams_and_score": "Anderlecht 2 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "15/12/2024",
+                        "teams_and_score": "St.Truiden 0 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "18/02/2024",
+                        "teams_and_score": "Anderlecht 4 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "12/02/2023",
+                        "teams_and_score": "Anderlecht 3 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "25/06/2022",
+                        "teams_and_score": "Anderlecht 0 - 1 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "4",
+                    "St Truiden_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "39%",
+                    "St Truiden": "61%"
+                },
+                "corners": {
+                    "Anderlecht": "8",
+                    "St Truiden": "9"
+                },
+                "fouls": {
+                    "Anderlecht": "11",
+                    "St Truiden": "12"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "2",
+                    "St Truiden": "4"
+                },
+                "offsides": {
+                    "Anderlecht": "1",
+                    "St Truiden": "1"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "10",
+                    "St Truiden": "3"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "3",
+                    "St Truiden": "6"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "7",
+                    "St Truiden": "3"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "2",
+                    "St Truiden": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/rsc-anderlecht-stvv-2026-05-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rsc-anderlecht-stvv-2026-05-22-fXj7.webp",
+            "title": "RSC Anderlecht - STVV"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 23, 2026",
+            "description": "Watch St. Truiden vs Anderlecht highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 23, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Saliba",
+                    "team": "Anderlecht",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Diarra",
+                    "team": "Anderlecht",
+                    "time": "66'"
+                },
+                {
+                    "assist": "R. Ito",
+                    "event_type": "Goal",
+                    "player": "K. Goto",
+                    "score_update": "1 - 0",
+                    "team": "St. Truiden",
+                    "time": "75'"
+                },
+                {
+                    "assist": "I. Sebaoui",
+                    "event_type": "Goal",
+                    "player": "R. Merlen",
+                    "score_update": "2 - 0",
+                    "team": "St. Truiden",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "23/04/2026",
+                            "result": "L",
+                            "teams_and_score": "St.Truiden 2 - 0 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Anderlecht 2 - 3 Cercle Brugge"
+                        }
+                    ],
+                    "team": "Anderlecht"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "23/04/2026",
+                            "result": "L",
+                            "teams_and_score": "St.Truiden 2 - 0 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "13/12/2025",
+                        "teams_and_score": "Anderlecht 2 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "15/12/2024",
+                        "teams_and_score": "St.Truiden 0 - 2 Anderlecht"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "18/02/2024",
+                        "teams_and_score": "Anderlecht 4 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "12/02/2023",
+                        "teams_and_score": "Anderlecht 3 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "25/06/2022",
+                        "teams_and_score": "Anderlecht 0 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "14/12/2021",
+                        "teams_and_score": "Anderlecht 2 - 0 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "Anderlecht_wins": "4",
+                    "St Truiden_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Anderlecht": "46%",
+                    "St Truiden": "54%"
+                },
+                "corners": {
+                    "Anderlecht": "7",
+                    "St Truiden": "4"
+                },
+                "fouls": {
+                    "Anderlecht": "9",
+                    "St Truiden": "8"
+                },
+                "goalkeeper_saves": {
+                    "Anderlecht": "4",
+                    "St Truiden": "5"
+                },
+                "offsides": {
+                    "Anderlecht": "1",
+                    "St Truiden": "1"
+                },
+                "shots_blocked": {
+                    "Anderlecht": "7",
+                    "St Truiden": "3"
+                },
+                "shots_off_target": {
+                    "Anderlecht": "7",
+                    "St Truiden": "6"
+                },
+                "shots_on_target": {
+                    "Anderlecht": "5",
+                    "St Truiden": "7"
+                },
+                "yellow_cards": {
+                    "Anderlecht": "2",
+                    "St Truiden": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-truiden-vs-anderlecht-2026-04-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/554.webp",
+                    "name": "Anderlecht",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-truiden-vs-anderlecht-2026-04-23-dgwm.webp",
+            "title": "St. Truiden vs Anderlecht"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Mar 9, 2026",
+            "description": "Watch St. Truiden vs Cercle Brugge highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on March 9, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "T. Hata",
+                    "event_type": "Goal",
+                    "player": "A. Muja",
+                    "score_update": "1 - 0",
+                    "team": "St. Truiden",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Agyekum",
+                    "team": "Cercle Brugge",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Diop",
+                    "score_update": "1 - 1",
+                    "team": "Cercle Brugge",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Diakite",
+                    "team": "Cercle Brugge",
+                    "time": "73'"
+                },
+                {
+                    "assist": "R. Ito",
+                    "event_type": "Goal",
+                    "player": "K. Matsuzawa",
+                    "score_update": "2 - 1",
+                    "team": "St. Truiden",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Konate",
+                    "team": "Cercle Brugge",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Ngoura",
+                    "team": "Cercle Brugge",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "St.Truiden 2 - 1 Cercle Brugge"
+                        }
+                    ],
+                    "team": "Cercle Brugge"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "St.Truiden 2 - 1 Cercle Brugge"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "29/08/2025",
+                        "teams_and_score": "Cercle Brugge 1 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Relegation Group",
+                        "date": "26/04/2025",
+                        "teams_and_score": "Cercle Brugge 3 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "27/12/2024",
+                        "teams_and_score": "St.Truiden 1 - 1 Cercle Brugge"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "04/12/2024",
+                        "teams_and_score": "Cercle Brugge 0 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "29/09/2024",
+                        "teams_and_score": "Cercle Brugge 1 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "04/02/2024",
+                        "teams_and_score": "Cercle Brugge 4 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "15/04/2023",
+                        "teams_and_score": "Cercle Brugge 3 - 1 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "Cercle Brugge_wins": "3",
+                    "St Truiden_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cercle Brugge": "39%",
+                    "St Truiden": "61%"
+                },
+                "corners": {
+                    "Cercle Brugge": "5",
+                    "St Truiden": "7"
+                },
+                "fouls": {
+                    "Cercle Brugge": "8",
+                    "St Truiden": "7"
+                },
+                "goalkeeper_saves": {
+                    "Cercle Brugge": "4",
+                    "St Truiden": "6"
+                },
+                "shots_blocked": {
+                    "Cercle Brugge": "7",
+                    "St Truiden": "7"
+                },
+                "shots_off_target": {
+                    "Cercle Brugge": "3",
+                    "St Truiden": "1"
+                },
+                "shots_on_target": {
+                    "Cercle Brugge": "7",
+                    "St Truiden": "6"
+                },
+                "yellow_cards": {
+                    "Cercle Brugge": "4",
+                    "St Truiden": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-truiden-vs-cercle-brugge-2026-03-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/741.webp",
+                    "name": "Cercle Brugge",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-truiden-vs-cercle-brugge-2026-03-09-SdaV.webp",
+            "title": "St. Truiden vs Cercle Brugge"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 1, 2026",
+            "description": "Watch St. Truiden vs Charleroi highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 1, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Sebaoui",
+                    "team": "St. Truiden",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Camara",
+                    "team": "Charleroi",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "A. Muja",
+                    "team": "St. Truiden",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Bernier",
+                    "team": "Charleroi",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Khalifi",
+                    "team": "Charleroi",
+                    "time": "46'"
+                },
+                {
+                    "assist": "Y. Khalifi",
+                    "event_type": "Goal",
+                    "player": "Y. Titraoui",
+                    "score_update": "0 - 1",
+                    "team": "Charleroi",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Goto",
+                    "team": "St. Truiden",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Romsaas",
+                    "score_update": "0 - 2",
+                    "team": "Charleroi",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 0 - 2 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "13/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting Charleroi 2 - 0 Club Brugge"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "26/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 1 - 2 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "04/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Sporting Charleroi 2 - 0 KV Mechelen"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "29/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sporting Charleroi 0 - 0 Raal La Louviere"
+                        }
+                    ],
+                    "team": "Charleroi"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 0 - 2 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "03/12/2025",
+                            "result": "D",
+                            "teams_and_score": "Royal Antwerp 3 - 3 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "30/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Gent 1 - 2 St.Truiden"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "03/08/2025",
+                        "teams_and_score": "Sporting Charleroi 1 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "21/12/2024",
+                        "teams_and_score": "Sporting Charleroi 2 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "23/12/2023",
+                        "teams_and_score": "St.Truiden 1 - 0 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "26/02/2023",
+                        "teams_and_score": "Sporting Charleroi 1 - 0 St.Truiden"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "28/01/2022",
+                        "teams_and_score": "St.Truiden 0 - 1 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "First Division A 20/21",
+                        "date": "05/03/2021",
+                        "teams_and_score": "Sporting Charleroi 0 - 0 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "Charleroi_wins": "3",
+                    "St Truiden_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charleroi": "52%",
+                    "St Truiden": "48%"
+                },
+                "corners": {
+                    "Charleroi": "6",
+                    "St Truiden": "6"
+                },
+                "fouls": {
+                    "Charleroi": "16",
+                    "St Truiden": "6"
+                },
+                "goalkeeper_saves": {
+                    "Charleroi": "2",
+                    "St Truiden": "3"
+                },
+                "offsides": {
+                    "Charleroi": "1",
+                    "St Truiden": "1"
+                },
+                "red_cards": {
+                    "Charleroi": "0",
+                    "St Truiden": "1"
+                },
+                "shots_blocked": {
+                    "Charleroi": "4",
+                    "St Truiden": "4"
+                },
+                "shots_off_target": {
+                    "Charleroi": "6",
+                    "St Truiden": "7"
+                },
+                "shots_on_target": {
+                    "Charleroi": "5",
+                    "St Truiden": "2"
+                },
+                "yellow_cards": {
+                    "Charleroi": "3",
+                    "St Truiden": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-truiden-vs-charleroi-2026-02-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/736.webp",
+                    "name": "Charleroi",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-truiden-vs-charleroi-2026-02-01-fBPb.webp",
+            "title": "St. Truiden vs Charleroi"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 12, 2026",
+            "description": "Watch St. Truiden vs Club Brugge highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 12, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "K. Goto",
+                    "event_type": "Goal",
+                    "player": "R. Ito",
+                    "score_update": "1 - 0",
+                    "team": "St. Truiden",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Kokubo",
+                    "team": "St. Truiden",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "H. Vetlesen",
+                    "score_update": "1 - 1",
+                    "team": "Club Brugge",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Sebaoui",
+                    "team": "St. Truiden",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Tzolis",
+                    "score_update": "1 - 2",
+                    "team": "Club Brugge",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Diouf",
+                    "team": "St. Truiden",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Spileers",
+                    "team": "Club Brugge",
+                    "time": "90+6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Vetlesen",
+                    "team": "Club Brugge",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 2 Club Brugge"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Brugge 4 - 1 KV Mechelen"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "24/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico Madrid 4 - 1 Club Brugge"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Brugge 2 - 1 Oud-Heverlee Leuven"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "18/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Club Brugge 3 - 3 Atletico Madrid"
+                        }
+                    ],
+                    "team": "Club Brugge"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 2 Club Brugge"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "06/12/2025",
+                        "teams_and_score": "St.Truiden 3 - 2 Club Brugge"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "15/02/2025",
+                        "teams_and_score": "St.Truiden 2 - 2 Club Brugge"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "17/03/2024",
+                        "teams_and_score": "St.Truiden 2 - 1 Club Brugge"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "19/01/2023",
+                        "teams_and_score": "St.Truiden 1 - 1 Club Brugge"
+                    },
+                    {
+                        "competition": "Cup",
+                        "date": "21/12/2022",
+                        "teams_and_score": "Club Brugge 1 - 4 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "19/10/2022",
+                        "teams_and_score": "Club Brugge 3 - 0 St.Truiden"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "15/01/2022",
+                        "teams_and_score": "Club Brugge 2 - 0 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "Club Brugge_wins": "4",
+                    "St Truiden_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Club Brugge": "48%",
+                    "St Truiden": "52%"
+                },
+                "corners": {
+                    "Club Brugge": "5",
+                    "St Truiden": "10"
+                },
+                "fouls": {
+                    "Club Brugge": "16",
+                    "St Truiden": "13"
+                },
+                "goalkeeper_saves": {
+                    "Club Brugge": "4",
+                    "St Truiden": "0"
+                },
+                "offsides": {
+                    "Club Brugge": "1",
+                    "St Truiden": "1"
+                },
+                "shots_blocked": {
+                    "Club Brugge": "7",
+                    "St Truiden": "8"
+                },
+                "shots_off_target": {
+                    "Club Brugge": "7",
+                    "St Truiden": "6"
+                },
+                "shots_on_target": {
+                    "Club Brugge": "2",
+                    "St Truiden": "5"
+                },
+                "yellow_cards": {
+                    "Club Brugge": "2",
+                    "St Truiden": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-truiden-vs-club-brugge-2026-04-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/569.webp",
+                    "name": "Club Brugge",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-truiden-vs-club-brugge-2026-04-12-Zy6Q.webp",
+            "title": "St. Truiden vs Club Brugge"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 3, 2026",
+            "description": "Watch St. Truiden vs Union St. Gilloise highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 3, 2026. On May 3, 2026 , the Jupiler Pro League delivered a masterclass in high-stakes drama as St. Truiden hosted Union St. Gilloise . The match was shaped by early controversy and a chaotic finish that saw momentum swing violently in the closing stages. Early Red Card Reshapes the Contest The tactical landscape shifted significantly just 12 minutes into the match. Union St. Gilloise defender Kevin Mac Allister was shown a straight red card, leading to intense protests from his teammates. The dismissal forced an immediate tactical adjustment from the visitors, who brought on Fedde Leysen for Anouar Ait El Hadj to shore up the defense. Despite the man disadvantage, the away side remained organized, absorbing pressure and keeping the game scoreless through a combative first half that saw several yellow cards, including for Keisuke Goto and Adem Zorgane . As the second half progressed, St. Truiden struggled to break down the resilient 10-man block of Union St. Gilloise . Disciplined defending from the likes of Christian Burgess kept the hosts at bay until the substitutions began to take effect. The deadlock was finally broken in the 86th minute when Oumar Diouf , assisted by Simen Kristiansen Jukleroed , found the back of the net to give the home side what appeared to be the winning goal. Late Drama and a Decisive Penalty The match was far from over as it entered an incredible period of stoppage time. In the 92nd minute, Union St. Gilloise stunned the home crowd when Kevin Rodriguez leveled the score, finishing a well-placed pass from Rob Schoofs . The equalizer felt like a heroic survival act for the shorthanded visitors, but another twist awaited. In the 10th minute of added time, the referee awarded a penalty to St. Truiden . Ryotaro Ito stepped up to the spot and calmly converted the penalty, sending the stadium into a frenzy. The final whistle blew moments later, confirming a 2-1 victory for St. Truiden in a match that will be remembered for its relentless intensity and last-second heroics.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "K. M. Allister",
+                    "team": "Union St. Gilloise",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Goto",
+                    "team": "St. Truiden",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Zorgane",
+                    "team": "Union St. Gilloise",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Burgess",
+                    "team": "Union St. Gilloise",
+                    "time": "56'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. V. D. Perre",
+                    "team": "Union St. Gilloise",
+                    "time": "67'"
+                },
+                {
+                    "assist": "S. Juklerod",
+                    "event_type": "Goal",
+                    "player": "O. Diouf",
+                    "score_update": "1 - 0",
+                    "team": "St. Truiden",
+                    "time": "86'"
+                },
+                {
+                    "assist": "R. Schoofs",
+                    "event_type": "Goal",
+                    "player": "K. Rodríguez",
+                    "score_update": "1 - 1",
+                    "team": "Union St. Gilloise",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Sylla",
+                    "team": "Union St. Gilloise",
+                    "time": "90+7'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Ito",
+                    "score_update": "2 - 1",
+                    "team": "St. Truiden",
+                    "time": "90+10'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "St.Truiden 2 - 1 Union St.Gilloise"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "Union St. Gilloise"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "St.Truiden 2 - 1 Union St.Gilloise"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Championship Group",
+                        "date": "04/04/2026",
+                        "teams_and_score": "Union St.Gilloise 1 - 0 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "22/03/2026",
+                        "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "02/02/2025",
+                        "teams_and_score": "Union St.Gilloise 2 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "21/01/2024",
+                        "teams_and_score": "Union St.Gilloise 2 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "02/04/2023",
+                        "teams_and_score": "Union St.Gilloise 2 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "13/02/2022",
+                        "teams_and_score": "Union St.Gilloise 0 - 1 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "St Truiden_wins": "2",
+                    "Union St Gilloise_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "St Truiden": "77%",
+                    "Union St Gilloise": "23%"
+                },
+                "corners": {
+                    "St Truiden": "9",
+                    "Union St Gilloise": "1"
+                },
+                "fouls": {
+                    "St Truiden": "10",
+                    "Union St Gilloise": "11"
+                },
+                "goalkeeper_saves": {
+                    "St Truiden": "0",
+                    "Union St Gilloise": "3"
+                },
+                "offsides": {
+                    "St Truiden": "1",
+                    "Union St Gilloise": "1"
+                },
+                "red_cards": {
+                    "St Truiden": "0",
+                    "Union St Gilloise": "1"
+                },
+                "shots_blocked": {
+                    "St Truiden": "3",
+                    "Union St Gilloise": "0"
+                },
+                "shots_off_target": {
+                    "St Truiden": "6",
+                    "Union St Gilloise": "2"
+                },
+                "shots_on_target": {
+                    "St Truiden": "5",
+                    "Union St Gilloise": "1"
+                },
+                "yellow_cards": {
+                    "St Truiden": "1",
+                    "Union St Gilloise": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-truiden-vs-union-st-gilloise-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1393.webp",
+                    "name": "Union St. Gilloise",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-truiden-vs-union-st-gilloise-2026-05-03-j91H.webp",
+            "title": "St. Truiden vs Union St. Gilloise"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 16, 2026",
+            "description": "Watch St. Truiden vs Zulte Waregem highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 16, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-truiden-vs-zulte-waregem-2026-02-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-truiden-vs-zulte-waregem-2026-02-16-Funa.webp",
+            "title": "St. Truiden vs Zulte Waregem"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 18, 2026",
+            "description": "Watch St. Truiden vs KAA Gent highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 18, 2026. The Jupiler Pro League delivered another intriguing chapter on May 18, 2026, as St. Truiden and KAA Gent faced off in a match defined by tactical patience. Both sides looked to establish dominance early on in a contest where the margin for error was razor-thin. Early Setbacks and Tactical Adjustments The encounter began with palpable intensity, but St. Truiden was forced into an unplanned change just 12 minutes in. Ryotaro Ito had to leave the pitch prematurely, replaced by Arbnor Muja . This early substitution required the home side to reorganize their offensive sector while KAA Gent attempted to dictate the tempo of the game. Breaking the Deadlock Just as it seemed the first half would end goalless, a moment of individual brilliance and teamwork unlocked the defense in the 45th minute. Mathias Delorge provided a pinpoint assist that found Wilfried Kanga in an excellent position. The striker made no mistake, firing the ball into the back of the net to secure a crucial lead for St. Truiden moments before the halftime whistle. Seizing Control in the Second Half Returning from the break, KAA Gent attempted to shift the momentum by introducing Max Dean for Momodou Sonko . However, St. Truiden remained the more clinical side. In the 69th minute, the hosts extended their lead. Following a decisive pass from substitute Kaito Matsuzawa , defender Loic Mbe Soh surged forward to finish clinically, making it 2-0 and putting the home side firmly in the driver's seat. Discipline and Game Management The closing stages of the match were characterized by a flurry of substitutions and rising competitive tension. Daiki Hashioka received a yellow card in the 73rd minute, reflecting the defensive grit required to maintain the clean sheet. Despite late efforts from KAA Gent , who refreshed their lineup with Abdelkahar Kadri and Simen Kristiansen Jukleroed , St. Truiden maintained their structural integrity until the final whistle blew after four minutes of stoppage time.",
+            "events_timeline": [
+                {
+                    "assist": "M. Delorge-Knieper",
+                    "event_type": "Goal",
+                    "player": "W. Kanga",
+                    "score_update": "0 - 1",
+                    "team": "KAA Gent",
+                    "time": "1'"
+                },
+                {
+                    "assist": "K. Matsuzawa",
+                    "event_type": "Goal",
+                    "player": "L. M. Soh",
+                    "score_update": "1 - 1",
+                    "team": "St. Truiden",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Hashioka",
+                    "team": "KAA Gent",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "St.Truiden 1 - 1 Gent"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FCV Dender EH 1 - 3 Gent"
+                        }
+                    ],
+                    "team": "KAA Gent"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "St.Truiden 1 - 1 Gent"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Championship Group",
+                        "date": "19/04/2026",
+                        "teams_and_score": "Gent 0 - 0 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "30/11/2025",
+                        "teams_and_score": "Gent 1 - 2 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "07/12/2024",
+                        "teams_and_score": "Gent 2 - 0 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League: UECL Group 23/24",
+                        "date": "25/05/2024",
+                        "teams_and_score": "Gent 2 - 0 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "01/02/2024",
+                        "teams_and_score": "St.Truiden 4 - 1 Gent"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "06/12/2023",
+                        "teams_and_score": "St.Truiden 0 - 1 Gent"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "20/08/2023",
+                        "teams_and_score": "Gent 2 - 2 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "KAA Gent_wins": "3",
+                    "St Truiden_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "KAA Gent": "35%",
+                    "St Truiden": "65%"
+                },
+                "corners": {
+                    "KAA Gent": "3",
+                    "St Truiden": "3"
+                },
+                "fouls": {
+                    "KAA Gent": "5",
+                    "St Truiden": "9"
+                },
+                "goalkeeper_saves": {
+                    "KAA Gent": "3",
+                    "St Truiden": "0"
+                },
+                "offsides": {
+                    "KAA Gent": "3",
+                    "St Truiden": "0"
+                },
+                "shots_blocked": {
+                    "KAA Gent": "5",
+                    "St Truiden": "3"
+                },
+                "shots_off_target": {
+                    "KAA Gent": "4",
+                    "St Truiden": "9"
+                },
+                "shots_on_target": {
+                    "KAA Gent": "1",
+                    "St Truiden": "4"
+                },
+                "yellow_cards": {
+                    "KAA Gent": "1",
+                    "St Truiden": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/stvv-kaa-gent-2026-05-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/19685.webp",
+                    "name": "KAA Gent",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/stvv-kaa-gent-2026-05-18-F41K.webp",
+            "title": "STVV - KAA Gent"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 5, 2026",
+            "description": "Watch Union St. Gilloise vs St. Truiden highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 5, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. A. E. Hadj",
+                    "event_type": "Goal",
+                    "player": "G. Smith",
+                    "score_update": "1 - 0",
+                    "team": "Union St. Gilloise",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Vanwesemael",
+                    "team": "St. Truiden",
+                    "time": "63'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. M. Allister",
+                    "team": "Union St. Gilloise",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Zorgane",
+                    "team": "Union St. Gilloise",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Burgess",
+                    "team": "Union St. Gilloise",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "04/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 1 - 0 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Championship Group",
+                            "date": "04/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 1 - 0 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "11/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 4 - 1 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 2 - 1 Raal La Louviere"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "04/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Sporting Charleroi 0 - 0 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "Union St. Gilloise"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "22/03/2026",
+                        "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "02/02/2025",
+                        "teams_and_score": "Union St.Gilloise 2 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "21/01/2024",
+                        "teams_and_score": "Union St.Gilloise 2 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "02/04/2023",
+                        "teams_and_score": "Union St.Gilloise 2 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "13/02/2022",
+                        "teams_and_score": "Union St.Gilloise 0 - 1 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "St Truiden_wins": "3",
+                    "Union St Gilloise_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "St Truiden": "48%",
+                    "Union St Gilloise": "52%"
+                },
+                "corners": {
+                    "St Truiden": "5",
+                    "Union St Gilloise": "7"
+                },
+                "fouls": {
+                    "St Truiden": "6",
+                    "Union St Gilloise": "9"
+                },
+                "goalkeeper_saves": {
+                    "St Truiden": "3",
+                    "Union St Gilloise": "0"
+                },
+                "offsides": {
+                    "St Truiden": "2",
+                    "Union St Gilloise": "1"
+                },
+                "shots_blocked": {
+                    "St Truiden": "3",
+                    "Union St Gilloise": "9"
+                },
+                "shots_off_target": {
+                    "St Truiden": "3",
+                    "Union St Gilloise": "3"
+                },
+                "shots_on_target": {
+                    "St Truiden": "0",
+                    "Union St Gilloise": "4"
+                },
+                "yellow_cards": {
+                    "St Truiden": "1",
+                    "Union St Gilloise": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/union-st-gilloise-vs-st-truiden-2026-04-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1393.webp",
+                    "name": "Union St. Gilloise",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/union-st-gilloise-vs-st-truiden-2026-04-05-iIKh.webp",
+            "title": "Union St. Gilloise vs St. Truiden"
+        }
+    ]
+}

@@ -1,0 +1,466 @@
+{
+    "team": "Iceland",
+    "team_logo": "https://img.refooty.com/logo/teams/18.webp",
+    "total_matches": 8,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 10, 2026",
+            "description": "Watch Argentina vs Iceland highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 10, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "V. Barco",
+                    "score_update": "1 - 0",
+                    "team": "Argentina",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Pálsson",
+                    "team": "Iceland",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. L. Gretarsson",
+                    "team": "Iceland",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Barco",
+                    "team": "Argentina",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Í. B. Jóhannesson",
+                    "team": "Iceland",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. R. Ólafsson",
+                    "team": "Iceland",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Messi",
+                    "score_update": "2 - 0",
+                    "team": "Argentina",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Martínez",
+                    "team": "Argentina",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. D. Þorsteinsson",
+                    "team": "Iceland",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Gunnarsson",
+                    "team": "Iceland",
+                    "time": "121'"
+                },
+                {
+                    "assist": "R. D. Paul",
+                    "event_type": "Goal",
+                    "player": "T. Almada",
+                    "score_update": "3 - 0",
+                    "team": "Argentina",
+                    "time": "136'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "10/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Argentina 3 - 0 Iceland"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "31/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Japan 1 - 0 Iceland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group D",
+                            "date": "16/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Ukraine 2 - 0 Iceland"
+                        }
+                    ],
+                    "team": "Iceland"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "10/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Argentina 3 - 0 Iceland"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "14/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Angola 0 - 2 Argentina"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "15/10/2025",
+                            "result": "W",
+                            "teams_and_score": "Puerto Rico 0 - 6 Argentina"
+                        },
+                        {
+                            "competition": "CONMEBOL Qualification",
+                            "date": "09/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Ecuador 1 - 0 Argentina"
+                        }
+                    ],
+                    "team": "Argentina"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "World Cup Grp. D",
+                        "date": "16/06/2018",
+                        "teams_and_score": "Argentina 1 - 1 Iceland"
+                    }
+                ],
+                "summary": {
+                    "Argentina_wins": "0",
+                    "Iceland_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Argentina": "63%",
+                    "Iceland": "37%"
+                },
+                "corners": {
+                    "Argentina": "2",
+                    "Iceland": "2"
+                },
+                "fouls": {
+                    "Argentina": "13",
+                    "Iceland": "21"
+                },
+                "goalkeeper_saves": {
+                    "Argentina": "1",
+                    "Iceland": "4"
+                },
+                "offsides": {
+                    "Argentina": "3",
+                    "Iceland": "0"
+                },
+                "shots_blocked": {
+                    "Argentina": "4",
+                    "Iceland": "0"
+                },
+                "shots_off_target": {
+                    "Argentina": "4",
+                    "Iceland": "5"
+                },
+                "shots_on_target": {
+                    "Argentina": "7",
+                    "Iceland": "1"
+                },
+                "yellow_cards": {
+                    "Argentina": "2",
+                    "Iceland": "6"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Argentina_v_Iceland_2026_06_10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18.webp",
+                    "name": "Iceland",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/26.webp",
+                    "name": "Argentina",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/argentina-v-iceland-2026-06-10-mSv8.webp",
+            "title": "Argentina vs Iceland"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Nov 13, 2025",
+            "description": "Watch Azerbaijan vs Iceland highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on November 13, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Azerbaijan_v_Iceland_2025_11_13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/azerbaijan-v-iceland-2025-11-13.webp",
+            "title": "Azerbaijan vs Iceland"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Mar 28, 2026",
+            "description": "Watch Canada vs Iceland highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on March 28, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/canada-vs-iceland-2026-03-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/canada-vs-iceland-2026-03-28-8nsT.webp",
+            "title": "Canada vs Iceland"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Mar 31, 2026",
+            "description": "Watch Haiti vs Iceland highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on March 31, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/haiti-vs-iceland-2026-03-31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/haiti-vs-iceland-2026-03-31-Hzyd.webp",
+            "title": "Haiti vs Iceland"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Oct 13, 2025",
+            "description": "Watch Iceland vs France highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on October 13, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Iceland_v_France_2025_10_13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/iceland-vs-france-iceland-vs-france-5QuO.webp",
+            "title": "Iceland vs France"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Oct 10, 2025",
+            "description": "Watch Iceland vs Ukraine highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on October 10, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Iceland_v_Ukraine_2025_10_10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/iceland-vs-ukraine-iceland-vs-ukraine-0HeJ.webp",
+            "title": "Iceland vs Ukraine"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "May 31, 2026",
+            "description": "Watch Japan vs Iceland highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on May 31, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/japan-vs-iceland-2026-05-31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/japan-vs-iceland-2026-05-31-1ftd.webp",
+            "title": "Japan vs Iceland"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Nov 16, 2025",
+            "description": "Watch Ukraine vs Iceland highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on November 16, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Ukraine_v_Iceland_2025_11_16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/ukraine-v-iceland-2025-11-16.webp",
+            "title": "Ukraine vs Iceland"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "team": "Balingen",
+    "team_logo": "https://img.refooty.com/logo/teams/9360.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jul 19, 2026",
+            "description": "Watch Balingen vs VfB Stuttgart highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 19, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "J. Milosevic",
+                    "score_update": "0 - 1",
+                    "team": "VfB Stuttgart",
+                    "time": "5'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Milosevic",
+                    "score_update": "0 - 2",
+                    "team": "VfB Stuttgart",
+                    "time": "26'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Führich",
+                    "score_update": "0 - 3",
+                    "team": "VfB Stuttgart",
+                    "time": "41'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Tomas",
+                    "score_update": "0 - 4",
+                    "team": "VfB Stuttgart",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Jovanovic",
+                    "score_update": "0 - 5",
+                    "team": "VfB Stuttgart",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Jovanovic",
+                    "score_update": "0 - 6",
+                    "team": "VfB Stuttgart",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Malanga",
+                    "score_update": "0 - 7",
+                    "team": "VfB Stuttgart",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "19/07/2026",
+                            "result": "W",
+                            "teams_and_score": "TSG Balingen 0 - 7 VfB Stuttgart"
+                        },
+                        {
+                            "competition": "DFB Cup: Final 25/26",
+                            "date": "23/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Bayern Munich 3 - 0 VfB Stuttgart"
+                        },
+                        {
+                            "competition": "Bundesliga 25/26",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Eintracht Frankfurt 2 - 2 VfB Stuttgart"
+                        },
+                        {
+                            "competition": "DFB Cup: Semi-Finals 25/26",
+                            "date": "23/04/2026",
+                            "result": "W",
+                            "teams_and_score": "VfB Stuttgart 2 - 1 Freiburg"
+                        },
+                        {
+                            "competition": "Bundesliga 25/26",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bayern Munich 4 - 2 VfB Stuttgart"
+                        }
+                    ],
+                    "team": "VfB Stuttgart"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "19/07/2026",
+                            "result": "L",
+                            "teams_and_score": "TSG Balingen 0 - 7 VfB Stuttgart"
+                        },
+                        {
+                            "competition": "Regionalliga Südwest",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "TSG Balingen 1 - 4 FC Astoria Walldorf"
+                        }
+                    ],
+                    "team": "Balingen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "DFB Cup: Round 1 23/24",
+                        "date": "12/08/2023",
+                        "teams_and_score": "TSG Balingen 0 - 4 VfB Stuttgart"
+                    }
+                ],
+                "summary": {
+                    "Balingen_wins": "0",
+                    "VfB Stuttgart_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/balingen-vs-vfb-stuttgart-2026-07-19_lo3mU.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/172.webp",
+                    "name": "VfB Stuttgart",
+                    "score": "7"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/9360.webp",
+                    "name": "Balingen",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/balingen-vs-vfb-stuttgart-2026-07-19-padz.webp",
+            "title": "Balingen vs VfB Stuttgart"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "team": "Al Khaleej",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Pro League - Saudi Arabia",
+            "competition_cover": "https://refooty.com/covers/pro-league-saudi.webp",
+            "date": "Nov 23, 2025",
+            "description": "Watch Al Nassr vs Al Khaleej Saihat highlights and goals from Pro League - Saudi Arabia on ReFooty: Football Highlights Hub. Match played on November 23, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Al_Nassr_v_Al_Khaleej_2025_11_23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/al-nassr-v-al-khaleej-2025-11-23-MvAL.webp",
+            "title": "Al Nassr vs Al Khaleej"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "team": "Sportfreunde Lotte",
+    "team_logo": "https://img.refooty.com/logo/teams/1323.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jul 18, 2026",
+            "description": "Watch Sportfreunde Lotte vs Real Betis highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 18, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "P. Garcia",
+                    "score_update": "0 - 1",
+                    "team": "Real Betis",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Deossa",
+                    "score_update": "0 - 2",
+                    "team": "Real Betis",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Garcia",
+                    "score_update": "0 - 3",
+                    "team": "Real Betis",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "18/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Sportfreunde Lotte 0 - 3 Real Betis"
+                        },
+                        {
+                            "competition": "LaLiga 25/26",
+                            "date": "23/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Real Betis 2 - 1 Levante"
+                        },
+                        {
+                            "competition": "Quarter-Finals",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Real Betis 2 - 4 SC Braga"
+                        },
+                        {
+                            "competition": "LaLiga 25/26",
+                            "date": "12/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Osasuna 1 - 1 Real Betis"
+                        }
+                    ],
+                    "team": "Real Betis"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "18/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Sportfreunde Lotte 0 - 3 Real Betis"
+                        },
+                        {
+                            "competition": "Regionalliga West",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sportfreunde Lotte 2 - 2 Fortuna Cologne"
+                        }
+                    ],
+                    "team": "Sportfreunde Lotte"
+                },
+                "summary": {
+                    "Real Betis_wins": "0",
+                    "Sportfreunde Lotte_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sportfreunde-lotte-vs-real-betis-2026-07-18_wD65m.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/543.webp",
+                    "name": "Real Betis",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1323.webp",
+                    "name": "Sportfreunde Lotte",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sportfreunde-lotte-vs-real-betis-2026-07-18-uGFy.webp",
+            "title": "Sportfreunde Lotte vs Real Betis"
+        }
+    ]
+}

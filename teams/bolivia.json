@@ -1,0 +1,843 @@
+{
+    "team": "Bolivia",
+    "team_logo": "",
+    "total_matches": 8,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Mar 24, 2026",
+            "description": "Watch Algeria vs Bolivia highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on March 24, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/algeria-vs-bolivia-2026-03-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/algeria-vs-bolivia-2026-03-24-jazw.webp",
+            "title": "Algeria vs Bolivia"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Oct 15, 2024",
+            "description": "Watch Argentina vs Bolivia highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on October 15, 2024.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/argentina-vs-bolivia-2024-10-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/argentina-vs-bolivia-2024-10-15-sLI9.webp",
+            "title": "Argentina vs Bolivia"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 11, 2026",
+            "description": "Watch Bolivia vs Algeria highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 11, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "M. Amoura",
+                    "event_type": "Goal",
+                    "player": "A. Mandi",
+                    "score_update": "0 - 1",
+                    "team": "Algeria",
+                    "time": "1'"
+                },
+                {
+                    "assist": "A. Boulbina",
+                    "event_type": "Goal",
+                    "player": "A. Gouiri",
+                    "score_update": "0 - 2",
+                    "team": "Algeria",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Gouiri",
+                    "score_update": "0 - 3",
+                    "team": "Algeria",
+                    "time": "61'"
+                },
+                {
+                    "assist": "R. Zerrouki",
+                    "event_type": "Goal",
+                    "player": "A. H. Moussa",
+                    "score_update": "0 - 4",
+                    "team": "Algeria",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "11/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Bolivia 0 - 4 Algeria"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "03/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Netherlands 0 - 1 Algeria"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "31/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Algeria 0 - 0 Uruguay"
+                        },
+                        {
+                            "competition": "Quarter-Finals",
+                            "date": "10/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Algeria 0 - 2 Nigeria"
+                        },
+                        {
+                            "competition": "Round of 16",
+                            "date": "06/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Algeria 1 - 0 DR Congo"
+                        }
+                    ],
+                    "team": "Algeria"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "11/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Bolivia 0 - 4 Algeria"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "06/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Bolivia 0 - 4 Scotland"
+                        },
+                        {
+                            "competition": "World Cup Qualifiers: Play-off Tournament",
+                            "date": "01/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Iraq 2 - 1 Bolivia"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Bolivia 3 - 0 Trinidad and Tobago"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "21/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Peru 2 - 0 Bolivia"
+                        }
+                    ],
+                    "team": "Bolivia"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Friendlies 2024",
+                        "date": "22/03/2024",
+                        "teams_and_score": "Algeria 3 - 2 Bolivia"
+                    }
+                ],
+                "summary": {
+                    "Algeria_wins": "1",
+                    "Bolivia_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/bolivia-vs-algeria-2026-06-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1532.webp",
+                    "name": "Algeria",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2381.webp",
+                    "name": "Bolivia",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bolivia-vs-algeria-2026-06-11-yFS8.webp",
+            "title": "Bolivia vs Algeria"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Mar 27, 2026",
+            "description": "Watch Bolivia vs Suriname highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on March 27, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/bolivia-vs-suriname-2026-03-27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bolivia-vs-suriname-2026-03-27-Vc6I.webp",
+            "title": "Bolivia vs Suriname"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Sep 8, 2023",
+            "description": "Watch Brazil vs Bolivia highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on September 8, 2023.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Perišić",
+                    "team": "Bolivia",
+                    "time": "22'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Caleta-Car",
+                    "team": "Bolivia",
+                    "time": "28'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Casemiro",
+                    "team": "Brazil",
+                    "time": "45'"
+                },
+                {
+                    "assist": "V. Junior",
+                    "event_type": "Goal",
+                    "player": "D. Oliveira",
+                    "score_update": "1 - 0",
+                    "team": "Brazil",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Vuskovic",
+                    "team": "Bolivia",
+                    "time": "82'"
+                },
+                {
+                    "assist": "T. Fruk",
+                    "event_type": "Goal",
+                    "player": "L. Majer",
+                    "score_update": "1 - 1",
+                    "team": "Bolivia",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Thiago",
+                    "score_update": "2 - 1",
+                    "team": "Brazil",
+                    "time": "88'"
+                },
+                {
+                    "assist": "Endrick",
+                    "event_type": "Goal",
+                    "player": "G. Martinelli",
+                    "score_update": "3 - 1",
+                    "team": "Brazil",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "01/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Brazil 3 - 1 Croatia"
+                        },
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "26/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Colombia 1 - 2 Croatia"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group L",
+                            "date": "17/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Montenegro 2 - 3 Croatia"
+                        }
+                    ],
+                    "team": "Bolivia"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "01/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Brazil 3 - 1 Croatia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Brazil 1 - 1 Tunisia"
+                        },
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "14/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Japan 3 - 2 Brazil"
+                        },
+                        {
+                            "competition": "CONMEBOL Qualification",
+                            "date": "09/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Bolivia 1 - 0 Brazil"
+                        }
+                    ],
+                    "team": "Brazil"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Quarter-finals",
+                        "date": "09/12/2022",
+                        "teams_and_score": "Croatia 1 - 1 Brazil"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "03/06/2018",
+                        "teams_and_score": "Brazil 2 - 0 Croatia"
+                    },
+                    {
+                        "competition": "World Cup grp. A",
+                        "date": "12/06/2014",
+                        "teams_and_score": "Brazil 3 - 1 Croatia"
+                    },
+                    {
+                        "competition": "World Cup grp. F",
+                        "date": "13/06/2006",
+                        "teams_and_score": "Brazil 1 - 0 Croatia"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "17/08/2005",
+                        "teams_and_score": "Croatia 1 - 1 Brazil"
+                    }
+                ],
+                "summary": {
+                    "Bolivia_wins": "0",
+                    "Brazil_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bolivia": "55%",
+                    "Brazil": "45%"
+                },
+                "corners": {
+                    "Bolivia": "2",
+                    "Brazil": "2"
+                },
+                "fouls": {
+                    "Bolivia": "13",
+                    "Brazil": "12"
+                },
+                "goalkeeper_saves": {
+                    "Bolivia": "4",
+                    "Brazil": "2"
+                },
+                "offsides": {
+                    "Bolivia": "0",
+                    "Brazil": "1"
+                },
+                "shots_blocked": {
+                    "Bolivia": "4",
+                    "Brazil": "5"
+                },
+                "shots_off_target": {
+                    "Bolivia": "5",
+                    "Brazil": "1"
+                },
+                "shots_on_target": {
+                    "Bolivia": "3",
+                    "Brazil": "7"
+                },
+                "yellow_cards": {
+                    "Bolivia": "3",
+                    "Brazil": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/brazil-vs-bolivia-2023-09-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2381.webp",
+                    "name": "Bolivia",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/6.webp",
+                    "name": "Brazil",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brazil-vs-bolivia-2023-09-08-VRIN.webp",
+            "title": "Brazil vs Bolivia"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Apr 1, 2026",
+            "description": "Watch Iraq vs Bolivia highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on April 1, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/iraq-vs-bolivia-2026-04-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/iraq-vs-bolivia-2026-04-01-1O6H.webp",
+            "title": "Iraq vs Bolivia"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 6, 2026",
+            "description": "Watch Scotland vs Bolivia highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 6, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Robertson",
+                    "event_type": "Goal",
+                    "player": "L. Shankland",
+                    "score_update": "0 - 1",
+                    "team": "Bolivia",
+                    "time": "1'"
+                },
+                {
+                    "assist": "L. Shankland",
+                    "event_type": "Goal",
+                    "player": "S. McTominay",
+                    "score_update": "0 - 2",
+                    "team": "Bolivia",
+                    "time": "16'"
+                },
+                {
+                    "assist": "B. G. Doak",
+                    "event_type": "Goal",
+                    "player": "C. Adams",
+                    "score_update": "0 - 3",
+                    "team": "Bolivia",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Fernández",
+                    "team": "Scotland",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Adams",
+                    "score_update": "0 - 4",
+                    "team": "Bolivia",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Miguelito",
+                    "team": "Scotland",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Melgar",
+                    "team": "Scotland",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Ralston",
+                    "team": "Bolivia",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "06/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Bolivia 0 - 4 Scotland"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "30/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Scotland 4 - 1 Curacao"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "31/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Ivory Coast 1 - 0 Scotland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group C",
+                            "date": "18/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Scotland 4 - 2 Denmark"
+                        }
+                    ],
+                    "team": "Bolivia"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "06/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Bolivia 0 - 4 Scotland"
+                        },
+                        {
+                            "competition": "World Cup Qualifiers: Play-off Tournament",
+                            "date": "01/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Iraq 2 - 1 Bolivia"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Bolivia 3 - 0 Trinidad and Tobago"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "21/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Peru 2 - 0 Bolivia"
+                        }
+                    ],
+                    "team": "Scotland"
+                },
+                "summary": {
+                    "Bolivia_wins": "0",
+                    "Scotland_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bolivia": "46%",
+                    "Scotland": "54%"
+                },
+                "corners": {
+                    "Bolivia": "6",
+                    "Scotland": "3"
+                },
+                "fouls": {
+                    "Bolivia": "16",
+                    "Scotland": "13"
+                },
+                "goalkeeper_saves": {
+                    "Bolivia": "3",
+                    "Scotland": "4"
+                },
+                "offsides": {
+                    "Bolivia": "0",
+                    "Scotland": "2"
+                },
+                "shots_blocked": {
+                    "Bolivia": "5",
+                    "Scotland": "3"
+                },
+                "shots_off_target": {
+                    "Bolivia": "7",
+                    "Scotland": "1"
+                },
+                "shots_on_target": {
+                    "Bolivia": "8",
+                    "Scotland": "3"
+                },
+                "yellow_cards": {
+                    "Bolivia": "1",
+                    "Scotland": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/scotland-vs-bolivia-2026-06-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2381.webp",
+                    "name": "Bolivia",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1108.webp",
+                    "name": "Scotland",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/scotland-vs-bolivia-2026-06-06-wHa4.webp",
+            "title": "Scotland vs Bolivia"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Nov 18, 2025",
+            "description": "Watch South Korea vs Bolivia highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on November 18, 2025.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "L. Dong-gyeong",
+                    "score_update": "1 - 0",
+                    "team": "South Korea",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "04/06/2026",
+                            "result": "L",
+                            "teams_and_score": "South Korea 1 - 0 El Salvador"
+                        },
+                        {
+                            "competition": "CONCACAF Qualification: 3rd Round: Group A",
+                            "date": "19/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Panama 3 - 0 El Salvador"
+                        },
+                        {
+                            "competition": "Gold Cup: Group B",
+                            "date": "25/06/2025",
+                            "result": "L",
+                            "teams_and_score": "Canada 2 - 0 El Salvador"
+                        }
+                    ],
+                    "team": "Bolivia"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "04/06/2026",
+                            "result": "W",
+                            "teams_and_score": "South Korea 1 - 0 El Salvador"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "31/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Austria 1 - 0 South Korea"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "28/03/2026",
+                            "result": "L",
+                            "teams_and_score": "South Korea 0 - 4 Ivory Coast"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "18/11/2025",
+                            "result": "W",
+                            "teams_and_score": "South Korea 1 - 0 Ghana"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "10/10/2025",
+                            "result": "L",
+                            "teams_and_score": "South Korea 0 - 5 Brazil"
+                        }
+                    ],
+                    "team": "South Korea"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Friendlies",
+                        "date": "20/06/2023",
+                        "teams_and_score": "South Korea 1 - 1 El Salvador"
+                    }
+                ],
+                "summary": {
+                    "Bolivia_wins": "0",
+                    "South Korea_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/south-korea-vs-bolivia-2025-11-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2381.webp",
+                    "name": "Bolivia",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/17.webp",
+                    "name": "South Korea",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/south-korea-vs-bolivia-2025-11-18-5jXc.webp",
+            "title": "South Korea vs Bolivia"
+        }
+    ]
+}

@@ -1,0 +1,954 @@
+{
+    "team": "Cerro Porteno",
+    "team_logo": "",
+    "total_matches": 6,
+    "matches": [
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 14, 2026",
+            "description": "Watch Cerro Porteno vs Junior highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cerro-porteno-vs-junior-2026-04-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cerro-porteno-vs-junior-2026-04-14-byhM.webp",
+            "title": "Cerro Porteno vs Junior"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 30, 2026",
+            "description": "Watch Cerro Porteno vs Palmeiras highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 30, 2026. The CONMEBOL Libertadores spotlight fell on Asuncion as Cerro Porteno hosted Brazilian giants Palmeiras in a high-stakes encounter. On the night of April 30, 2026 , both sides looked to assert their dominance in one of South America's most prestigious competitions, knowing that every point is a step closer to knockout glory. Arias Breaks the Deadlock The match began with high intensity, as both teams fought for control of the midfield. The physical nature of the contest was evident early on when Allan received a yellow card in the 20th minute, a warning from the referee that discipline would be paramount. Despite the cagey start, Palmeiras began to find their rhythm, utilizing quick transitions to test the home defense. The pressure eventually told in the 33rd minute when Allan turned provider, delivering a precise ball to Jhon Arias . The forward made no mistake, clinical in his finish to put the visitors ahead and silence the home crowd. Cerro Porteno attempted to respond before the break, but they struggled to break down a well-organized Brazilian backline. The first half concluded with the visitors holding a narrow lead, leaving the hosts with plenty of work to do in the second period. Defensive Calamity and Tactical Shifts Seeking a spark, Cerro Porteno manager made a tactical change at the start of the second half , introducing Mateo Klimowicz for Wilder Viera . While the hosts showed more intent, they were dealt a devastating blow in the 72nd minute. A defensive lapse resulted in an own goal by Carlos Miguel , who inadvertently sent the ball into his own net. This double blow took the wind out of the Paraguayan side's sails, handing Palmeiras a commanding cushion heading into the final stages. Both managers turned to their benches as the clock ticked down. Juan Iturbe was introduced for Cerro Porteno in the 68th minute, while Palmeiras refreshed their lineup with the likes of Lucas Evangelista , Mauricio , and the experienced Felipe Anderson . These changes ensured the visitors maintained their energy levels, successfully neutralizing any late surges from the home side. Frustration Boils Over in Closing Stages The final minutes were characterized by a flurry of substitutions as Cerro Porteno threw on Cesar Bobadilla and Rodrigo Melgarejo in a last-ditch effort to find a way back into the game. However, the frustration of the hosts became apparent in stoppage time. Juan Iturbe was shown a yellow card in the 94th minute for a rash challenge, symbolizing a night where things simply did not go the way of the home team. When the final whistle blew after five minutes of added time, Palmeiras celebrated a disciplined and efficient performance. For Cerro Porteno , it was a night of missed opportunities and individual errors that left them reflecting on what might have been in front of their home supporters.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Allan",
+                    "team": "Palmeiras",
+                    "time": "1'"
+                },
+                {
+                    "assist": "Allan",
+                    "event_type": "Goal",
+                    "player": "J. Arias",
+                    "score_update": "0 - 1",
+                    "team": "Palmeiras",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Miguel",
+                    "team": "Cerro Porteno",
+                    "time": "72'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Iturbe",
+                    "team": "Cerro Porteno",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "30/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Cerro Porteno 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "RB Bragantino 0 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "23/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Palmeiras 3 - 0 EC Jacuipense"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Palmeiras 1 - 0 Athletico Paranaense"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Palmeiras 2 - 1 Sporting Cristal"
+                        }
+                    ],
+                    "team": "Palmeiras"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "30/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Cerro Porteno 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Division Profesional: Apertura",
+                            "date": "24/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Cerro Porteno 1 - 1 Sportivo Ameliano"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cerro Porteno 1 - 0 Atletico Junior"
+                        },
+                        {
+                            "competition": "Division Profesional: Apertura",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Nacional Asuncion 0 - 0 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Cristal 1 - 0 Cerro Porteno"
+                        }
+                    ],
+                    "team": "Cerro Porteno"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group G",
+                        "date": "08/05/2025",
+                        "teams_and_score": "Cerro Porteno 0 - 2 Palmeiras"
+                    },
+                    {
+                        "competition": "Group C",
+                        "date": "24/05/2023",
+                        "teams_and_score": "Cerro Porteno 0 - 3 Palmeiras"
+                    },
+                    {
+                        "competition": "Copa Libertadores: Round of 16 2022",
+                        "date": "06/07/2022",
+                        "teams_and_score": "Palmeiras 5 - 0 Cerro Porteno"
+                    },
+                    {
+                        "competition": "Copa Libertadores Final Stage",
+                        "date": "31/08/2018",
+                        "teams_and_score": "Palmeiras 0 - 1 Cerro Porteno"
+                    },
+                    {
+                        "competition": "Copa Libertadores Grp. 7",
+                        "date": "14/04/2006",
+                        "teams_and_score": "Palmeiras 2 - 3 Cerro Porteno"
+                    }
+                ],
+                "summary": {
+                    "Cerro Porteno_wins": "2",
+                    "Palmeiras_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cerro Porteno": "34%",
+                    "Palmeiras": "66%"
+                },
+                "corners": {
+                    "Cerro Porteno": "3",
+                    "Palmeiras": "5"
+                },
+                "fouls": {
+                    "Cerro Porteno": "16",
+                    "Palmeiras": "10"
+                },
+                "goalkeeper_saves": {
+                    "Cerro Porteno": "5",
+                    "Palmeiras": "2"
+                },
+                "offsides": {
+                    "Cerro Porteno": "1",
+                    "Palmeiras": "1"
+                },
+                "shots_off_target": {
+                    "Cerro Porteno": "1",
+                    "Palmeiras": "3"
+                },
+                "shots_on_target": {
+                    "Cerro Porteno": "2",
+                    "Palmeiras": "6"
+                },
+                "yellow_cards": {
+                    "Cerro Porteno": "1",
+                    "Palmeiras": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cerro-porteno-vs-palmeiras-2026-04-30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/121.webp",
+                    "name": "Palmeiras",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1176.webp",
+                    "name": "Cerro Porteno",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cerro-porteno-vs-palmeiras-2026-04-30-EnUf.webp",
+            "title": "Cerro Porteno vs Palmeiras"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 28, 2026",
+            "description": "Watch Cerro Porteno vs Sporting Cristal highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 28, 2026. The atmosphere was thick with anticipation as two sides clashed in a pivotal encounter that promised to test their resolve on the continental stage. Every tackle and tactical shift carried the weight of the CONMEBOL Libertadores tournament as players fought for supremacy. A Tense Stalemate On May 28, 2026, Cerro Porteño and Sporting Cristal took to the pitch in a match defined by grit and physical discipline. The first half was a cagey affair, with the referee forced to intervene early to manage the aggression. By the interval, Luis Abram , Ze Ricardo , and Martin Tavara had already picked up yellow cards, underscoring the fierce nature of the battle in midfield. With neither side able to breach the opponent's defensive line, the teams headed into the break level. The Breakthrough and Penalty Drama The game burst into life shortly after the restart. In the 51st minute, Pablo Vegetti latched onto a well-delivered assist from Jorge l to break the deadlock for Cerro Porteño . The drama intensified just over ten minutes later when the hosts were awarded a penalty; however, Gustavo Velázquez was unable to convert, missing a golden opportunity to double the lead. The disappointment was short-lived, though, as Cecilio Dominguez stepped up to the spot in the 67th minute, calmly dispatching his penalty to extend the advantage to two goals. Closing Out the Result As the clock ticked down, the management of the match became paramount. Cerro Porteño utilized substitutions, including bringing on Ignacio Aliseda and Juan Iturbe , to stabilize their defensive shape. While Sporting Cristal searched for a way back into the match, they found the opposition resolute. Late cautions for Pablo Vegetti , Catriel Cabellos , and Lucas Quintana reflected the ongoing intensity of the final stages, but the home side held firm to secure a significant win.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Abram",
+                    "team": "Sporting Cristal",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Z. Ricardo",
+                    "team": "Sporting Cristal",
+                    "time": "42'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Tavara",
+                    "team": "Sporting Cristal",
+                    "time": "45+1'"
+                },
+                {
+                    "assist": "J. Morel",
+                    "event_type": "Goal",
+                    "player": "P. Vegetti",
+                    "score_update": "1 - 0",
+                    "team": "Cerro Porteno",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Velázquez",
+                    "score_update": "1 - 0",
+                    "team": "Cerro Porteno",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Bobadilla",
+                    "team": "Cerro Porteno",
+                    "time": "63'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Dominguez",
+                    "score_update": "2 - 0",
+                    "team": "Cerro Porteno",
+                    "time": "67'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Vegetti",
+                    "team": "Cerro Porteno",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Cabellos",
+                    "team": "Sporting Cristal",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Quintana",
+                    "team": "Cerro Porteno",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "28/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Cerro Porteno 2 - 0 Sporting Cristal"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting Cristal 2 - 1 Asociacion Deportiva Tarma"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "21/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico Junior 3 - 2 Sporting Cristal"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "15/05/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cajamarca 3 - 1 Sporting Cristal"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "05/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Cristal 0 - 2 Palmeiras"
+                        }
+                    ],
+                    "team": "Sporting Cristal"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "28/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Cerro Porteno 2 - 0 Sporting Cristal"
+                        },
+                        {
+                            "competition": "Division Profesional: Apertura",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Cerro Porteno 2 - 0 Rubio Nu"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Palmeiras 0 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Division Profesional: Apertura",
+                            "date": "15/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Sportivo Trinidense 3 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "08/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Junior 0 - 1 Cerro Porteno"
+                        }
+                    ],
+                    "team": "Cerro Porteno"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group F",
+                        "date": "09/04/2026",
+                        "teams_and_score": "Sporting Cristal 1 - 0 Cerro Porteno"
+                    },
+                    {
+                        "competition": "Group G",
+                        "date": "14/05/2025",
+                        "teams_and_score": "Sporting Cristal 0 - 1 Cerro Porteno"
+                    },
+                    {
+                        "competition": "Copa Libertadores Playoff",
+                        "date": "16/04/2003",
+                        "teams_and_score": "Cerro Porteno 1 - 0 Sporting Cristal"
+                    }
+                ],
+                "summary": {
+                    "Cerro Porteno_wins": "2",
+                    "Sporting Cristal_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cerro Porteno": "51%",
+                    "Sporting Cristal": "49%"
+                },
+                "corners": {
+                    "Cerro Porteno": "6",
+                    "Sporting Cristal": "1"
+                },
+                "fouls": {
+                    "Cerro Porteno": "11",
+                    "Sporting Cristal": "15"
+                },
+                "goalkeeper_saves": {
+                    "Cerro Porteno": "3",
+                    "Sporting Cristal": "2"
+                },
+                "offsides": {
+                    "Cerro Porteno": "4",
+                    "Sporting Cristal": "1"
+                },
+                "shots_blocked": {
+                    "Cerro Porteno": "1",
+                    "Sporting Cristal": "1"
+                },
+                "shots_off_target": {
+                    "Cerro Porteno": "6",
+                    "Sporting Cristal": "1"
+                },
+                "shots_on_target": {
+                    "Cerro Porteno": "4",
+                    "Sporting Cristal": "3"
+                },
+                "yellow_cards": {
+                    "Cerro Porteno": "3",
+                    "Sporting Cristal": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cerro-porteno-vs-sporting-cristal-2026-05-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2546.webp",
+                    "name": "Sporting Cristal",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1176.webp",
+                    "name": "Cerro Porteno",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cerro-porteno-vs-sporting-cristal-2026-05-28-RRNT.webp",
+            "title": "Cerro Porteno vs Sporting Cristal"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 8, 2026",
+            "description": "Watch Junior vs Cerro Porteno highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 8, 2026. The atmosphere was thick with anticipation as two South American giants faced off in a high-stakes continental clash. Fans expected a tactical battle, and the players delivered a match defined by intensity and fine margins. Early Breakthrough for the Hosts On May 8, 2026 , Junior and Cerro Porteno took to the pitch for a pivotal encounter in the CONMEBOL Libertadores . The match began with a frantic pace as both sides looked to establish midfield dominance. It didn't take long for the deadlock to be broken, as Pablo Vegetti found the target in the 13th minute. His clinical finish capitalized on early pressure, sending the home supporters into a frenzy and forcing the visitors to rethink their defensive approach. As the first half progressed, the game became increasingly physical. Tactical fouls interrupted the flow of play, leading to a yellow card for Alexis Arias deep into stoppage time before the interval. Despite the mounting tension, Junior managed to carry their slim lead into the halftime break, leaving the visitors with plenty of work to do in the second period. Tactical Shifts and Defensive Resilience The second half saw both managers turn to their benches to find a spark. Carlos Bacca replaced Guillermo Paiva for the home side, while Cerro Porteno introduced fresh legs in Mateo Klimowicz and Juan Iturbe . The intensity remained high, resulting in bookings for Gustavo Velazquez and Jhomier Guerrero as the battle for possession intensified in the middle of the park. In the closing stages, Junior focused on maintaining their defensive shape against a desperate Cerro Porteno attack. Late tactical changes saw Yimmi Chara and Bryan Castrillon join the action to help see out the result. Even with a 90th-minute yellow card for Jean Pestana and a lengthy nine minutes of added time, the home side stood firm. The final whistle confirmed a hard-fought victory for Junior , securing three vital points in their quest for continental glory.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "P. Vegetti",
+                    "score_update": "0 - 1",
+                    "team": "Cerro Porteno",
+                    "time": "13'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Martin",
+                    "team": "Cerro Porteno",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Velázquez",
+                    "team": "Cerro Porteno",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Guerrero",
+                    "team": "Junior",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. C. Pestana",
+                    "team": "Junior",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "08/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Junior 0 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Division Profesional: Apertura",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "CD Recoleta 2 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "30/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Cerro Porteno 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Division Profesional: Apertura",
+                            "date": "24/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Cerro Porteno 1 - 1 Sportivo Ameliano"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cerro Porteno 1 - 0 Atletico Junior"
+                        }
+                    ],
+                    "team": "Cerro Porteno"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "08/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico Junior 0 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Primera A: Apertura",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Junior 4 - 3 Deportivo Pasto"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Cristal 2 - 0 Atletico Junior"
+                        },
+                        {
+                            "competition": "Primera A: Apertura",
+                            "date": "24/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Cucuta 1 - 1 Atletico Junior"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Cerro Porteno 1 - 0 Atletico Junior"
+                        }
+                    ],
+                    "team": "Junior"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group F",
+                        "date": "14/04/2026",
+                        "teams_and_score": "Cerro Porteno 1 - 0 Atletico Junior"
+                    },
+                    {
+                        "competition": "Copa Sudamericana",
+                        "date": "20/09/2017",
+                        "teams_and_score": "Atletico Junior 3 - 1 Cerro Porteno"
+                    }
+                ],
+                "summary": {
+                    "Cerro Porteno_wins": "1",
+                    "Junior_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cerro Porteno": "35%",
+                    "Junior": "65%"
+                },
+                "corners": {
+                    "Cerro Porteno": "2",
+                    "Junior": "10"
+                },
+                "fouls": {
+                    "Cerro Porteno": "10",
+                    "Junior": "13"
+                },
+                "goalkeeper_saves": {
+                    "Cerro Porteno": "3",
+                    "Junior": "3"
+                },
+                "offsides": {
+                    "Cerro Porteno": "2",
+                    "Junior": "3"
+                },
+                "shots_off_target": {
+                    "Cerro Porteno": "2",
+                    "Junior": "11"
+                },
+                "shots_on_target": {
+                    "Cerro Porteno": "3",
+                    "Junior": "2"
+                },
+                "yellow_cards": {
+                    "Cerro Porteno": "2",
+                    "Junior": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/junior-vs-cerro-porteno-2026-05-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1176.webp",
+                    "name": "Cerro Porteno",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1135.webp",
+                    "name": "Junior",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/junior-vs-cerro-porteno-2026-05-08-Ef38.webp",
+            "title": "Junior vs Cerro Porteno"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 20, 2026",
+            "description": "Watch Palmeiras vs Cerro Porteno highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 20, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. P. D. Motta",
+                    "team": "Cerro Porteno",
+                    "time": "45+3'"
+                },
+                {
+                    "assist": "F. Dominguez",
+                    "event_type": "Goal",
+                    "player": "P. Vegetti",
+                    "score_update": "0 - 1",
+                    "team": "Cerro Porteno",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Morel",
+                    "team": "Cerro Porteno",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Benitez",
+                    "team": "Cerro Porteno",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Gabriel",
+                    "team": "Palmeiras",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Pereira",
+                    "team": "Palmeiras",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Gómez",
+                    "team": "Palmeiras",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Palmeiras 0 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Division Profesional: Apertura",
+                            "date": "15/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Sportivo Trinidense 3 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "08/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Junior 0 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Division Profesional: Apertura",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "CD Recoleta 2 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "30/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Cerro Porteno 1 - 1 Palmeiras"
+                        }
+                    ],
+                    "team": "Cerro Porteno"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "21/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Palmeiras 0 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Palmeiras 1 - 1 Cruzeiro"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "W",
+                            "teams_and_score": "EC Jacuipense 1 - 4 Palmeiras"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Remo 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "05/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting Cristal 0 - 2 Palmeiras"
+                        }
+                    ],
+                    "team": "Palmeiras"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group F",
+                        "date": "30/04/2026",
+                        "teams_and_score": "Cerro Porteno 1 - 1 Palmeiras"
+                    },
+                    {
+                        "competition": "Group G",
+                        "date": "08/05/2025",
+                        "teams_and_score": "Cerro Porteno 0 - 2 Palmeiras"
+                    },
+                    {
+                        "competition": "Group C",
+                        "date": "24/05/2023",
+                        "teams_and_score": "Cerro Porteno 0 - 3 Palmeiras"
+                    },
+                    {
+                        "competition": "Copa Libertadores: Round of 16 2022",
+                        "date": "06/07/2022",
+                        "teams_and_score": "Palmeiras 5 - 0 Cerro Porteno"
+                    },
+                    {
+                        "competition": "Copa Libertadores Final Stage",
+                        "date": "31/08/2018",
+                        "teams_and_score": "Palmeiras 0 - 1 Cerro Porteno"
+                    },
+                    {
+                        "competition": "Copa Libertadores Grp. 7",
+                        "date": "14/04/2006",
+                        "teams_and_score": "Palmeiras 2 - 3 Cerro Porteno"
+                    }
+                ],
+                "summary": {
+                    "Cerro Porteno_wins": "2",
+                    "Palmeiras_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cerro Porteno": "26%",
+                    "Palmeiras": "74%"
+                },
+                "corners": {
+                    "Cerro Porteno": "3",
+                    "Palmeiras": "6"
+                },
+                "fouls": {
+                    "Cerro Porteno": "10",
+                    "Palmeiras": "17"
+                },
+                "goalkeeper_saves": {
+                    "Cerro Porteno": "5",
+                    "Palmeiras": "1"
+                },
+                "offsides": {
+                    "Cerro Porteno": "0",
+                    "Palmeiras": "3"
+                },
+                "shots_blocked": {
+                    "Cerro Porteno": "4",
+                    "Palmeiras": "2"
+                },
+                "shots_off_target": {
+                    "Cerro Porteno": "1",
+                    "Palmeiras": "4"
+                },
+                "shots_on_target": {
+                    "Cerro Porteno": "2",
+                    "Palmeiras": "5"
+                },
+                "yellow_cards": {
+                    "Cerro Porteno": "3",
+                    "Palmeiras": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/palmeiras-vs-cerro-porteno-2026-05-20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1176.webp",
+                    "name": "Cerro Porteno",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/121.webp",
+                    "name": "Palmeiras",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/palmeiras-vs-cerro-porteno-2026-05-20-nSP7.webp",
+            "title": "Palmeiras vs Cerro Porteno"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 9, 2026",
+            "description": "Watch Sporting Cristal vs Cerro Porteno highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 9, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sporting-cristal-vs-cerro-porteno-2026-04-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sporting-cristal-vs-cerro-porteno-2026-04-09-5DZ1.webp",
+            "title": "Sporting Cristal vs Cerro Porteno"
+        }
+    ]
+}

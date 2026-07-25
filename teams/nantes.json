@@ -1,0 +1,1536 @@
+{
+    "team": "Nantes",
+    "team_logo": "https://img.refooty.com/logo/teams/83.webp",
+    "total_matches": 11,
+    "matches": [
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Feb 13, 2026",
+            "description": "Watch Monaco vs Nantes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on February 13, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "S. Adingra",
+                    "score_update": "1 - 0",
+                    "team": "Monaco",
+                    "time": "25'"
+                },
+                {
+                    "assist": "A. Golovin",
+                    "event_type": "Goal",
+                    "player": "S. Adingra",
+                    "score_update": "2 - 0",
+                    "team": "Monaco",
+                    "time": "28'"
+                },
+                {
+                    "assist": "A. Golovin",
+                    "event_type": "Goal",
+                    "player": "D. Zakaria",
+                    "score_update": "3 - 0",
+                    "team": "Monaco",
+                    "time": "30'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Camara",
+                    "team": "Monaco",
+                    "time": "45+1'"
+                },
+                {
+                    "assist": "D. Machado",
+                    "event_type": "Goal",
+                    "player": "F. Centonze",
+                    "score_update": "3 - 1",
+                    "team": "Nantes",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Coulibaly",
+                    "team": "Monaco",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Golovin",
+                    "team": "Monaco",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "A. Golovin",
+                    "team": "Monaco",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Teze",
+                    "team": "Monaco",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Awaziem",
+                    "team": "Nantes",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Sissoko",
+                    "team": "Nantes",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "13/02/2026",
+                            "result": "L",
+                            "teams_and_score": "AS Monaco 3 - 1 Nantes"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "11/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Nantes 1 - 1 Nice"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "04/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 0 - 2 Nantes"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "21/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Concarneau 3 - 5 Nantes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "12/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Angers 4 - 1 Nantes"
+                        }
+                    ],
+                    "team": "Nantes"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "AS Monaco 3 - 1 Nantes"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "05/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Strasbourg 3 - 1 AS Monaco"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "AS Monaco 4 - 0 Rennes"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "D",
+                            "teams_and_score": "AS Monaco 0 - 0 Juventus"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "24/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Le Havre 0 - 0 AS Monaco"
+                        }
+                    ],
+                    "team": "Monaco"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "29/10/2025",
+                        "teams_and_score": "Nantes 3 - 5 AS Monaco"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "15/02/2025",
+                        "teams_and_score": "AS Monaco 7 - 1 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "19/05/2024",
+                        "teams_and_score": "AS Monaco 4 - 0 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "09/04/2023",
+                        "teams_and_score": "Nantes 2 - 2 AS Monaco"
+                    },
+                    {
+                        "competition": "Coupe de France 21/22",
+                        "date": "02/03/2022",
+                        "teams_and_score": "Nantes 2 - 2 AS Monaco"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "09/01/2022",
+                        "teams_and_score": "Nantes 0 - 0 AS Monaco"
+                    }
+                ],
+                "summary": {
+                    "Monaco_wins": "3",
+                    "Nantes_wins": "0",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Monaco": "47%",
+                    "Nantes": "53%"
+                },
+                "corners": {
+                    "Monaco": "9",
+                    "Nantes": "3"
+                },
+                "crosses": {
+                    "Monaco": "3",
+                    "Nantes": "6"
+                },
+                "fouls": {
+                    "Monaco": "15",
+                    "Nantes": "8"
+                },
+                "goalkeeper_saves": {
+                    "Monaco": "1",
+                    "Nantes": "3"
+                },
+                "offsides": {
+                    "Monaco": "2",
+                    "Nantes": "2"
+                },
+                "red_cards": {
+                    "Monaco": "1",
+                    "Nantes": "0"
+                },
+                "shots_blocked": {
+                    "Monaco": "3",
+                    "Nantes": "6"
+                },
+                "shots_off_target": {
+                    "Monaco": "3",
+                    "Nantes": "5"
+                },
+                "shots_on_target": {
+                    "Monaco": "6",
+                    "Nantes": "2"
+                },
+                "yellow_cards": {
+                    "Monaco": "3",
+                    "Nantes": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Monaco_v_Nantes_2026_02_13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/83.webp",
+                    "name": "Nantes",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/91.webp",
+                    "name": "Monaco",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/monaco-v-nantes-2026-02-13-cKsa.webp",
+            "title": "AS Monaco vs Nantes"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "May 10, 2026",
+            "description": "Watch Lens vs Nantes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on May 10, 2026. A tactical battle at Bollaert-Delelis On May 10, 2026, Lens and Nantes clashed in a pivotal Ligue 1 fixture that demanded absolute concentration from both sides throughout the ninety minutes. Before a passionate crowd of 37,824, the match unfolded as a rigorous tactical test where defensive discipline ultimately outweighed offensive creativity. Establishing the rhythm The first half saw Lens dominate possession, with Andrija Bulatovic repeatedly whipping dangerous deliveries into the box from set-piece situations. Despite the sustained pressure, the Nantes defense held firm, with goalkeeper Robin Risser tasked with making a critical save to deny an Ignatius Ganago header. The tension was palpable as both managers adjusted their shapes, looking for a way to break the deadlock in a physical encounter. The VAR intervention The drama peaked in the second half when Lens thought they had found the breakthrough. Mezian Soares found the back of the net with a precise right-footed finish, seemingly handing his side the lead. However, the stadium fell silent as the referee turned to the VAR for a review. Following a deliberation, the goal was revoked due to an earlier foul, effectively neutralizing the most significant moment of the match. The closing minutes saw both teams exhaust their substitutions in a frantic search for a winner, but the final whistle confirmed a stalemate in a hard-fought league contest.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Sima",
+                    "team": "Lens",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Bulatovic",
+                    "team": "Lens",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "A. Sima",
+                    "team": "Lens",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Y. Musrati",
+                    "team": "Nantes",
+                    "time": "61'"
+                },
+                {
+                    "assist": "A. Bulatovic",
+                    "event_type": "Goal",
+                    "player": "M. Soares",
+                    "score_update": "1 - 0",
+                    "team": "Lens",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "08/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Lens 1 - 0 Nantes"
+                        }
+                    ],
+                    "team": "Nantes"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "08/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Lens 1 - 0 Nantes"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "21/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Lens 4 - 1 Toulouse"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "17/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Lens 3 - 2 Toulouse"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "05/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lyon 2 - 2 Lens"
+                        }
+                    ],
+                    "team": "Lens"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "06/12/2025",
+                        "teams_and_score": "Nantes 1 - 2 Lens"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "23/02/2025",
+                        "teams_and_score": "Nantes 3 - 1 Lens"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "03/02/2024",
+                        "teams_and_score": "Nantes 0 - 1 Lens"
+                    },
+                    {
+                        "competition": "Coupe de France 22/23",
+                        "date": "01/03/2023",
+                        "teams_and_score": "Nantes 2 - 1 Lens"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "19/02/2023",
+                        "teams_and_score": "Lens 3 - 1 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "30/04/2022",
+                        "teams_and_score": "Lens 2 - 2 Nantes"
+                    }
+                ],
+                "summary": {
+                    "Lens_wins": "3",
+                    "Nantes_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lens": "64%",
+                    "Nantes": "36%"
+                },
+                "corners": {
+                    "Lens": "8",
+                    "Nantes": "3"
+                },
+                "crosses": {
+                    "Lens": "6",
+                    "Nantes": "6"
+                },
+                "fouls": {
+                    "Lens": "15",
+                    "Nantes": "15"
+                },
+                "goalkeeper_saves": {
+                    "Lens": "3",
+                    "Nantes": "4"
+                },
+                "offsides": {
+                    "Lens": "4",
+                    "Nantes": "0"
+                },
+                "shots_blocked": {
+                    "Lens": "4",
+                    "Nantes": "6"
+                },
+                "shots_off_target": {
+                    "Lens": "5",
+                    "Nantes": "6"
+                },
+                "shots_on_target": {
+                    "Lens": "5",
+                    "Nantes": "3"
+                },
+                "yellow_cards": {
+                    "Lens": "2",
+                    "Nantes": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/lens-vs-nantes-2026-05-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/83.webp",
+                    "name": "Nantes",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/116.webp",
+                    "name": "Lens",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lens-vs-nantes-2026-05-10-n9qv.webp",
+            "title": "Lens vs Nantes"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Nov 2, 2025",
+            "description": "Watch Nantes vs Metz highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on November 2, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Nantes_v_FC_Metz_2025_11_02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nantes-v-fc-metz-2025-11-02-64en.webp",
+            "title": "Nantes vs FC Metz"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Nov 23, 2025",
+            "description": "Watch Nantes vs Lorient highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on November 23, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Nantes_v_Lorient_2025_11_23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nantes-v-lorient-2025-11-23.webp",
+            "title": "Nantes vs Lorient"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Oct 19, 2025",
+            "description": "Watch Nantes vs Lille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on October 19, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Nantes_v_Lille_2025_10_19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nantes-v-lille-2025-10-19.webp",
+            "title": "Nantes vs LOSC Lille"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Feb 7, 2026",
+            "description": "Watch Nantes vs Lyon highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on February 7, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Endrick",
+                    "team": "Lyon",
+                    "time": "1'"
+                },
+                {
+                    "assist": "A. Moreira",
+                    "event_type": "Goal",
+                    "player": "P. Šulc",
+                    "score_update": "0 - 1",
+                    "team": "Lyon",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Amian",
+                    "team": "Nantes",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "Endrick",
+                    "team": "Lyon",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Y. Musrati",
+                    "team": "Nantes",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Greif",
+                    "team": "Lyon",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Kaba",
+                    "team": "Nantes",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Abline",
+                    "team": "Nantes",
+                    "time": "90+8'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Nantes 0 - 1 Lyon"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Lyon 2 - 0 Laval"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Lyon 1 - 0 Lille"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Lyon 4 - 2 PAOK FC"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "25/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Metz 2 - 5 Lyon"
+                        }
+                    ],
+                    "team": "Lyon"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "07/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Nantes 0 - 1 Lyon"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "11/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Nantes 1 - 1 Nice"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "04/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 0 - 2 Nantes"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "21/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Concarneau 3 - 5 Nantes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "12/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Angers 4 - 1 Nantes"
+                        }
+                    ],
+                    "team": "Nantes"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "30/11/2025",
+                        "teams_and_score": "Lyon 3 - 0 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "26/01/2025",
+                        "teams_and_score": "Nantes 1 - 1 Lyon"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "07/04/2024",
+                        "teams_and_score": "Nantes 1 - 3 Lyon"
+                    },
+                    {
+                        "competition": "Coupe de France 22/23",
+                        "date": "05/04/2023",
+                        "teams_and_score": "Nantes 1 - 0 Lyon"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "17/03/2023",
+                        "teams_and_score": "Lyon 1 - 1 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "14/05/2022",
+                        "teams_and_score": "Lyon 3 - 2 Nantes"
+                    }
+                ],
+                "summary": {
+                    "Lyon_wins": "3",
+                    "Nantes_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lyon": "46%",
+                    "Nantes": "54%"
+                },
+                "corners": {
+                    "Lyon": "4",
+                    "Nantes": "5"
+                },
+                "crosses": {
+                    "Lyon": "2",
+                    "Nantes": "7"
+                },
+                "fouls": {
+                    "Lyon": "11",
+                    "Nantes": "13"
+                },
+                "goalkeeper_saves": {
+                    "Lyon": "2",
+                    "Nantes": "2"
+                },
+                "offsides": {
+                    "Lyon": "0",
+                    "Nantes": "3"
+                },
+                "red_cards": {
+                    "Lyon": "1",
+                    "Nantes": "0"
+                },
+                "shots_blocked": {
+                    "Lyon": "1",
+                    "Nantes": "3"
+                },
+                "shots_off_target": {
+                    "Lyon": "6",
+                    "Nantes": "8"
+                },
+                "shots_on_target": {
+                    "Lyon": "3",
+                    "Nantes": "2"
+                },
+                "yellow_cards": {
+                    "Lyon": "2",
+                    "Nantes": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Nantes_v_Lyon_2026_02_07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/80.webp",
+                    "name": "Lyon",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/83.webp",
+                    "name": "Nantes",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nantes-v-lyon-2026-02-07-OWhF.webp",
+            "title": "Nantes vs Lyon"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Nantes vs Marseille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on May 2, 2026. The Stade de la Beaujoire played host to a tactical chess match on May 2, 2026, as Nantes and Marseille faced off in a highly anticipated Ligue 1 fixture. Both sides entered the contest looking to assert their dominance in the league standings, setting the stage for a match where patience and precision would eventually outweigh possession. A Tense and Physical Opening The first half was characterized by a lack of clear-cut chances and a high degree of physicality. Both teams struggled to find their rhythm in the final third, with much of the action restricted to set-piece deliveries that failed to test the opposing goalkeepers. Remy Cabella was busy for Nantes , delivering several dangerous corners, while Tochukwu Nnadi and Emerson attempted to spark Marseille into life from the flanks. Despite the frequent deliveries into the box, neither side could find a teammate to apply the finishing touch. Discipline became a talking point as the intensity grew. Nantes forward Matthis Abline received a yellow card in the 18th minute for a rough challenge, and Marseille 's Quinten Timber followed him into the book just after the half-hour mark for a tactical foul intended to halt a counter-attack. Pierre-Emerick Aubameyang thought he had found an opening for the visitors, but the veteran striker was flagged for offside, leaving the match scoreless as the teams headed into the break. The Second-Half Explosion The complexion of the match changed entirely following the restart as Nantes produced a devastating eight-minute spell that left Marseille reeling. The breakthrough arrived in the 50th minute when Matthis Abline turned provider, setting up Ignatius Ganago , who clinicaly slotted the ball home with his right foot to give the hosts the lead. Before the visitors could catch their breath, Nantes struck again. In the 54th minute, Ganago turned from scorer to creator, assisting Remy Cabella for a well-taken goal that doubled the advantage. The onslaught was completed in the 58th minute. Mohamed Kaba found Matthis Abline in a dangerous position, and the young forward capped off a magnificent individual performance by firing a right-footed shot into the net. Within the space of just eight minutes, Nantes had transformed a cagey affair into a dominant lead, leaving the Marseille defense shell-shocked and the home crowd in raptures. Marseille Struggles to Respond Marseille manager attempted to salvage the result with a flurry of substitutions, introducing Igor Paixao , Ange Lago , and Amine Gouiri . While the visitors controlled the lion's share of possession, finishing the match with 58%, they lacked the clinical edge shown by their opponents. Ange Lago had a golden opportunity to pull one back in the 82th minute with a powerful header, but Nantes goalkeeper Patrik Carlgren was equal to the task, making a comfortable save to preserve the clean sheet. The closing stages were marred by injuries and further cautions, with Facundo Medina receiving a yellow card for a rough foul. Marseille 's Hamed Traore was forced off the field in stoppage time after sustaining an injury, adding to a frustrating afternoon for the away side. Despite a late flurry of corners from Igor Paixao , the Nantes defense held firm, ensuring a comprehensive victory built on a clinical second-half masterclass.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Abline",
+                    "team": "Nantes",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Q. Timber",
+                    "team": "Marseille",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Lago",
+                    "team": "Marseille",
+                    "time": "46'"
+                },
+                {
+                    "assist": "M. Abline",
+                    "event_type": "Goal",
+                    "player": "I. Ganago",
+                    "score_update": "1 - 0",
+                    "team": "Nantes",
+                    "time": "61'"
+                },
+                {
+                    "assist": "I. Ganago",
+                    "event_type": "Goal",
+                    "player": "R. Cabella",
+                    "score_update": "2 - 0",
+                    "team": "Nantes",
+                    "time": "76'"
+                },
+                {
+                    "assist": "M. Kaba",
+                    "event_type": "Goal",
+                    "player": "M. Abline",
+                    "score_update": "3 - 0",
+                    "team": "Nantes",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Medina",
+                    "team": "Marseille",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Nantes 3 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Marseille 2 - 2 Toulouse"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 2 Lyon"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Nantes 3 - 0 Marseille"
+                        }
+                    ],
+                    "team": "Nantes"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "04/01/2026",
+                        "teams_and_score": "Marseille 0 - 2 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "02/03/2025",
+                        "teams_and_score": "Marseille 2 - 0 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "10/03/2024",
+                        "teams_and_score": "Marseille 2 - 0 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "01/02/2023",
+                        "teams_and_score": "Nantes 0 - 2 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "20/04/2022",
+                        "teams_and_score": "Marseille 3 - 2 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "20/02/2021",
+                        "teams_and_score": "Nantes 1 - 1 Marseille"
+                    }
+                ],
+                "summary": {
+                    "Marseille_wins": "4",
+                    "Nantes_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Marseille": "58%",
+                    "Nantes": "42%"
+                },
+                "corners": {
+                    "Marseille": "8",
+                    "Nantes": "7"
+                },
+                "crosses": {
+                    "Marseille": "3",
+                    "Nantes": "4"
+                },
+                "fouls": {
+                    "Marseille": "11",
+                    "Nantes": "12"
+                },
+                "goalkeeper_saves": {
+                    "Marseille": "2",
+                    "Nantes": "8"
+                },
+                "offsides": {
+                    "Marseille": "1",
+                    "Nantes": "2"
+                },
+                "shots_blocked": {
+                    "Marseille": "4",
+                    "Nantes": "5"
+                },
+                "shots_off_target": {
+                    "Marseille": "4",
+                    "Nantes": "6"
+                },
+                "shots_on_target": {
+                    "Marseille": "8",
+                    "Nantes": "6"
+                },
+                "yellow_cards": {
+                    "Marseille": "3",
+                    "Nantes": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/nantes-vs-marseille-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/83.webp",
+                    "name": "Nantes",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nantes-vs-marseille-2026-05-02-vIJ3.webp",
+            "title": "Nantes vs Marseille"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Jan 25, 2026",
+            "description": "Watch Nantes vs Nice highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on January 25, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Nantes_v_Nice_2026_01_25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nantes-v-nice-2026-01-25-eMaQ.webp",
+            "title": "Nantes vs Nice"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Nov 30, 2025",
+            "description": "Watch Lyon vs Nantes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on November 30, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Lyon_v_Nantes_2025_11_30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lyon-v-nantes-2025-11-30.webp",
+            "title": "Olympique Lyonnais vs Nantes"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Apr 22, 2026",
+            "description": "Watch Paris Saint Germain vs Nantes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on April 22, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "K. Kvaratskhelia",
+                    "score_update": "1 - 0",
+                    "team": "Paris Saint Germain",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "L. Leroux",
+                    "team": "Nantes",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Zaïre-Emery",
+                    "team": "Paris Saint Germain",
+                    "time": "31'"
+                },
+                {
+                    "assist": "A. Hakimi",
+                    "event_type": "Goal",
+                    "player": "D. Doué",
+                    "score_update": "2 - 0",
+                    "team": "Paris Saint Germain",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Zabarnyi",
+                    "team": "Paris Saint Germain",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Guilbert",
+                    "team": "Nantes",
+                    "time": "46'"
+                },
+                {
+                    "assist": "O. Dembélé",
+                    "event_type": "Goal",
+                    "player": "K. Kvaratskhelia",
+                    "score_update": "3 - 0",
+                    "team": "Paris Saint Germain",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "22/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 3 - 0 Nantes"
+                        }
+                    ],
+                    "team": "Nantes"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "22/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 3 - 0 Nantes"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Liverpool 0 - 2 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 3 - 1 Toulouse"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Chelsea 0 - 3 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Paris Saint-Germain 1 - 3 AS Monaco"
+                        }
+                    ],
+                    "team": "Paris Saint Germain"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "17/08/2025",
+                        "teams_and_score": "Nantes 0 - 1 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "22/04/2025",
+                        "teams_and_score": "Nantes 1 - 1 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "17/02/2024",
+                        "teams_and_score": "Nantes 0 - 2 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "04/03/2023",
+                        "teams_and_score": "Paris Saint-Germain 4 - 2 Nantes"
+                    },
+                    {
+                        "competition": "Trophee des Champions",
+                        "date": "31/07/2022",
+                        "teams_and_score": "Paris Saint-Germain 4 - 0 Nantes"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "19/02/2022",
+                        "teams_and_score": "Nantes 3 - 1 Paris Saint-Germain"
+                    }
+                ],
+                "summary": {
+                    "Nantes_wins": "3",
+                    "Paris Saint Germain_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Nantes": "30%",
+                    "Paris Saint Germain": "70%"
+                },
+                "corners": {
+                    "Nantes": "6",
+                    "Paris Saint Germain": "7"
+                },
+                "crosses": {
+                    "Nantes": "5",
+                    "Paris Saint Germain": "3"
+                },
+                "fouls": {
+                    "Nantes": "8",
+                    "Paris Saint Germain": "11"
+                },
+                "goalkeeper_saves": {
+                    "Nantes": "3",
+                    "Paris Saint Germain": "4"
+                },
+                "offsides": {
+                    "Nantes": "2",
+                    "Paris Saint Germain": "2"
+                },
+                "shots_blocked": {
+                    "Nantes": "5",
+                    "Paris Saint Germain": "4"
+                },
+                "shots_off_target": {
+                    "Nantes": "2",
+                    "Paris Saint Germain": "4"
+                },
+                "shots_on_target": {
+                    "Nantes": "4",
+                    "Paris Saint Germain": "6"
+                },
+                "yellow_cards": {
+                    "Nantes": "1",
+                    "Paris Saint Germain": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/PSG_v_Nantes_2026_04_22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/83.webp",
+                    "name": "Nantes",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/85.webp",
+                    "name": "Paris Saint Germain",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/psg-v-nantes-2026-04-22-bjBF.webp",
+            "title": "Paris SG vs Nantes"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch Rennes vs Nantes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on April 26, 2026. A High-Stakes Clash in Ligue 1 The Ligue 1 matchday on April 26, 2026, served as a compelling test for both sides, as they looked to establish dominance in what turned out to be a classic encounter. From the opening whistle, the intensity was palpable, with both Rennes and Lyon displaying a clear intent to secure a result through fluid attacking sequences. A First-Half Seesaw Rennes struck first in the 6th minute, as Mousa Tamari fired home a beautiful volley following a precise setup from Esteban Lepaul . Lyon refused to crumble, finding their footing in the 37th minute when Roman Yaremchuk headed home from a Corentin Tolisso assist. Just before the interval, the game saw a major shift when Brice Samba conceded a penalty, which Corentin Tolisso calmly converted to flip the script and give Lyon a temporary lead going into the break. Turning the Tide The second half maintained its electric pace, as Esteban Lepaul pulled Rennes back on level terms at the 48th minute, assisted by Mousa Tamari . Momentum then swung back to the hosts in the 52nd minute when Afonso ira found the back of the net, putting Rennes ahead once more. The final twist came in the 75th minute when the talented Endrick scored to equalize, capitalizing on a key pass from Pavel Sulc and an assist from Tolisso . Both sides pressed late into stoppage time, but the match ended in a hard-fought result, highlighting the resilience of both teams in this sports spectacle.",
+            "events_timeline": [
+                {
+                    "assist": "E. Lepaul",
+                    "event_type": "Goal",
+                    "player": "M. Tamari",
+                    "score_update": "0 - 1",
+                    "team": "Nantes",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Lepaul",
+                    "team": "Nantes",
+                    "time": "16'"
+                },
+                {
+                    "assist": "C. Tolisso",
+                    "event_type": "Goal",
+                    "player": "R. Yaremchuk",
+                    "score_update": "1 - 1",
+                    "team": "Rennes",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Samba",
+                    "team": "Nantes",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Tolisso",
+                    "score_update": "2 - 1",
+                    "team": "Rennes",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Tamari",
+                    "event_type": "Goal",
+                    "player": "E. Lepaul",
+                    "score_update": "2 - 2",
+                    "team": "Nantes",
+                    "time": "46'"
+                },
+                {
+                    "assist": "A. Vinícius",
+                    "event_type": "Goal",
+                    "player": "A. Moreira",
+                    "score_update": "3 - 2",
+                    "team": "Rennes",
+                    "time": "61'"
+                },
+                {
+                    "assist": "C. Tolisso",
+                    "event_type": "Goal",
+                    "player": "Endrick",
+                    "score_update": "4 - 2",
+                    "team": "Rennes",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Q. Merlin",
+                    "team": "Nantes",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Lyon 4 - 2 Rennes"
+                        }
+                    ],
+                    "team": "Nantes"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Lyon 4 - 2 Rennes"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Lyon 0 - 2 Celta Vigo"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "15/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Le Havre 0 - 0 Lyon"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Celta Vigo 1 - 1 Lyon"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lyon 1 - 1 Paris FC"
+                        }
+                    ],
+                    "team": "Rennes"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "14/09/2025",
+                        "teams_and_score": "Rennes 3 - 1 Lyon"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "26/04/2025",
+                        "teams_and_score": "Lyon 4 - 1 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "26/01/2024",
+                        "teams_and_score": "Lyon 2 - 3 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "09/04/2023",
+                        "teams_and_score": "Lyon 3 - 1 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "13/03/2022",
+                        "teams_and_score": "Lyon 2 - 4 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "03/03/2021",
+                        "teams_and_score": "Lyon 1 - 0 Rennes"
+                    }
+                ],
+                "summary": {
+                    "Nantes_wins": "3",
+                    "Rennes_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Nantes": "50%",
+                    "Rennes": "50%"
+                },
+                "corners": {
+                    "Nantes": "5",
+                    "Rennes": "7"
+                },
+                "crosses": {
+                    "Nantes": "6",
+                    "Rennes": "7"
+                },
+                "fouls": {
+                    "Nantes": "14",
+                    "Rennes": "10"
+                },
+                "goalkeeper_saves": {
+                    "Nantes": "5",
+                    "Rennes": "3"
+                },
+                "offsides": {
+                    "Nantes": "4",
+                    "Rennes": "1"
+                },
+                "shots_blocked": {
+                    "Nantes": "0",
+                    "Rennes": "4"
+                },
+                "shots_off_target": {
+                    "Nantes": "3",
+                    "Rennes": "3"
+                },
+                "shots_on_target": {
+                    "Nantes": "5",
+                    "Rennes": "9"
+                },
+                "yellow_cards": {
+                    "Nantes": "3",
+                    "Rennes": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/rennes-vs-nantes-2026-04-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/83.webp",
+                    "name": "Nantes",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/94.webp",
+                    "name": "Rennes",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rennes-vs-nantes-2026-04-26-jUgF.webp",
+            "title": "Rennes vs Nantes"
+        }
+    ]
+}

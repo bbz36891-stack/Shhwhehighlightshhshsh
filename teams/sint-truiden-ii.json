@@ -1,0 +1,77 @@
+{
+    "team": "Sint-Truiden II",
+    "team_logo": "",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Jan 24, 2026",
+            "description": "Watch RAAL La Louvière vs St. Truiden highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on January 24, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/raal-la-louviere-vs-sint-truiden-ii-2026-01-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/raal-la-louviere-vs-sint-truiden-ii-2026-01-24-O2z5.webp",
+            "title": "RAAL La Louvière vs Sint-Truiden II"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Jan 19, 2026",
+            "description": "Watch St. Truiden vs OH Leuven highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on January 19, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sint-truiden-ii-vs-oh-leuven-2026-01-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sint-truiden-ii-vs-oh-leuven-2026-01-19-3LfU.webp",
+            "title": "Sint-Truiden II vs OH Leuven"
+        }
+    ]
+}

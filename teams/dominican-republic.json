@@ -1,0 +1,144 @@
+{
+    "team": "Dominican Republic",
+    "team_logo": "https://img.refooty.com/logo/teams/5532.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 3, 2026",
+            "description": "Watch Panama vs Dominican Republic highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 3, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "T. Rodriguez",
+                    "score_update": "1 - 0",
+                    "team": "Panama",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "V. Griffith",
+                    "score_update": "2 - 0",
+                    "team": "Panama",
+                    "time": "16'"
+                },
+                {
+                    "assist": "J. Pineda",
+                    "event_type": "Goal",
+                    "player": "M. Díaz",
+                    "score_update": "2 - 1",
+                    "team": "Dominican Republic",
+                    "time": "46'"
+                },
+                {
+                    "assist": "A. Andrade",
+                    "event_type": "Goal",
+                    "player": "C. Waterman",
+                    "score_update": "3 - 1",
+                    "team": "Panama",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Japa",
+                    "score_update": "3 - 2",
+                    "team": "Dominican Republic",
+                    "time": "76'"
+                },
+                {
+                    "assist": "É. Davis",
+                    "event_type": "Goal",
+                    "player": "K. Barria",
+                    "score_update": "4 - 2",
+                    "team": "Panama",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "04/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Panama 4 - 2 Dominican Republic"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Dominican Republic 0 - 0 Martinique"
+                        },
+                        {
+                            "competition": "Gold Cup: Group A",
+                            "date": "23/06/2025",
+                            "result": "D",
+                            "teams_and_score": "Dominican Republic 0 - 0 Suriname"
+                        }
+                    ],
+                    "team": "Dominican Republic"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "04/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Panama 4 - 2 Dominican Republic"
+                        },
+                        {
+                            "competition": "CONCACAF Qualification: 3rd Round: Group A",
+                            "date": "19/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Panama 3 - 0 El Salvador"
+                        }
+                    ],
+                    "team": "Panama"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "CONCACAF Qualification: 1st Round: Group D",
+                        "date": "09/06/2021",
+                        "teams_and_score": "Panama 3 - 0 Dominican Republic"
+                    }
+                ],
+                "summary": {
+                    "Dominican Republic_wins": "0",
+                    "Panama_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/panama-vs-dominican-republic-2026-06-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/5532.webp",
+                    "name": "Dominican Republic",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/21000.webp",
+                    "name": "Panama",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/panama-vs-dominican-republic-2026-06-03-roC2.webp",
+            "title": "Panama vs Dominican Republic"
+        }
+    ]
+}

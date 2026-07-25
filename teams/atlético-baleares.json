@@ -1,0 +1,42 @@
+{
+    "team": "Atlético Baleares",
+    "team_logo": "https://img.refooty.com/logo/teams/9381.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Copa del Rey",
+            "competition_cover": "https://refooty.com/covers/copa-del-rey.webp",
+            "date": "Dec 17, 2025",
+            "description": "Watch Atlético Baleares vs Atletico Madrid highlights and goals from Copa del Rey on ReFooty: Football Highlights Hub. Match played on December 17, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Atletico Madrid"
+                },
+                "home_team_form": {
+                    "team": "Atlético Baleares"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Baleares_v_Atletico_Madrid_2025_12_17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/530.webp",
+                    "name": "Atletico Madrid",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/9381.webp",
+                    "name": "Atlético Baleares",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/baleares-v-atletico-madrid-2025-12-17-KOiy.webp",
+            "title": "Baleares vs Atletico Madrid"
+        }
+    ]
+}

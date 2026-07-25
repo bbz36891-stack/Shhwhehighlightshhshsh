@@ -1,0 +1,200 @@
+{
+    "team": "Singapore",
+    "team_logo": "https://img.refooty.com/logo/teams/1546.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 5, 2026",
+            "description": "Watch Singapore vs China highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 5, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "X. Wenneng",
+                    "event_type": "Goal",
+                    "player": "S. Erjiniao",
+                    "score_update": "0 - 1",
+                    "team": "China",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Z. Yuning",
+                    "score_update": "0 - 2",
+                    "team": "China",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Fandi",
+                    "score_update": "1 - 2",
+                    "team": "Singapore",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "05/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Singapore 1 - 2 China"
+                        },
+                        {
+                            "competition": "EAFF E-1 Football Championship: Final Stage",
+                            "date": "15/07/2025",
+                            "result": "W",
+                            "teams_and_score": "China 1 - 0 Hong Kong"
+                        },
+                        {
+                            "competition": "AFC Qualification: 3rd Round: Group C",
+                            "date": "10/06/2025",
+                            "result": "W",
+                            "teams_and_score": "China 1 - 0 Bahrain"
+                        }
+                    ],
+                    "team": "China"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "05/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Singapore 1 - 2 China"
+                        },
+                        {
+                            "competition": "Asian Cup: Qualification: 3rd Round: Group C",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Singapore 1 - 0 Bangladesh"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "13/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Thailand 3 - 2 Singapore"
+                        },
+                        {
+                            "competition": "Asian Cup: Qualification: 3rd Round: Group C",
+                            "date": "14/10/2025",
+                            "result": "W",
+                            "teams_and_score": "India 1 - 2 Singapore"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "09/09/2025",
+                            "result": "D",
+                            "teams_and_score": "Singapore 1 - 1 Myanmar"
+                        }
+                    ],
+                    "team": "Singapore"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "AFC Qualification: 2nd Round: Group C",
+                        "date": "26/03/2024",
+                        "teams_and_score": "China 4 - 1 Singapore"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "06/09/2013",
+                        "teams_and_score": "China 6 - 1 Singapore"
+                    },
+                    {
+                        "competition": "World Cup Qualification AFC 3rd round grp. A",
+                        "date": "15/11/2011",
+                        "teams_and_score": "Singapore 0 - 4 China"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "12/08/2009",
+                        "teams_and_score": "Singapore 1 - 1 China"
+                    },
+                    {
+                        "competition": "Asian Cup Qualification Round Grp. E",
+                        "date": "06/09/2006",
+                        "teams_and_score": "Singapore 0 - 0 China"
+                    }
+                ],
+                "summary": {
+                    "China_wins": "3",
+                    "Singapore_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "China": "40%",
+                    "Singapore": "60%"
+                },
+                "corners": {
+                    "China": "10",
+                    "Singapore": "4"
+                },
+                "fouls": {
+                    "China": "16",
+                    "Singapore": "9"
+                },
+                "goalkeeper_saves": {
+                    "China": "2",
+                    "Singapore": "1"
+                },
+                "offsides": {
+                    "China": "2",
+                    "Singapore": "2"
+                },
+                "shots_blocked": {
+                    "China": "3",
+                    "Singapore": "3"
+                },
+                "shots_off_target": {
+                    "China": "5",
+                    "Singapore": "3"
+                },
+                "shots_on_target": {
+                    "China": "3",
+                    "Singapore": "2"
+                },
+                "yellow_cards": {
+                    "China": "2",
+                    "Singapore": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/singapore-vs-china-2026-06-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1566.webp",
+                    "name": "China",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1546.webp",
+                    "name": "Singapore",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/singapore-vs-china-2026-06-05-syL3.webp",
+            "title": "Singapore vs China"
+        }
+    ]
+}

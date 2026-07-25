@@ -1,0 +1,727 @@
+{
+    "team": "Panathinaikos",
+    "team_logo": "",
+    "total_matches": 5,
+    "matches": [
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Oct 23, 2025",
+            "description": "Watch Feyenoord vs Panathinaikos highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on October 23, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Feyenoord_v_Panathinaikos_2025_10_23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/feyenoord-v-panathinaikos-2025-10-23.webp",
+            "title": "Feyenoord vs Panathinaikos"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Jan 29, 2026",
+            "description": "Watch Panathinaikos vs AS Roma highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on January 29, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Siopis",
+                    "team": "Panathinaikos",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "G. Mancini",
+                    "team": "AS Roma",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Ghilardi",
+                    "team": "AS Roma",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "V. Taborda",
+                    "score_update": "1 - 0",
+                    "team": "Panathinaikos",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Pisilli",
+                    "team": "AS Roma",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Ziolkowski",
+                    "score_update": "1 - 1",
+                    "team": "AS Roma",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Panathinaikos 1 - 1 AS Roma"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/01/2026",
+                            "result": "D",
+                            "teams_and_score": "AS Roma 1 - 1 AC Milan"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "W",
+                            "teams_and_score": "AS Roma 2 - 0 VfB Stuttgart"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "18/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 0 - 2 AS Roma"
+                        },
+                        {
+                            "competition": "Coppa Italia: Round of 16",
+                            "date": "13/01/2026",
+                            "result": "L",
+                            "teams_and_score": "AS Roma 2 - 3 Torino"
+                        }
+                    ],
+                    "team": "AS Roma"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Panathinaikos 1 - 1 AS Roma"
+                        },
+                        {
+                            "competition": "Super League",
+                            "date": "25/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Atromitos 0 - 0 Panathinaikos"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Ferencvaros 1 - 1 Panathinaikos"
+                        },
+                        {
+                            "competition": "Super League",
+                            "date": "18/01/2026",
+                            "result": "L",
+                            "teams_and_score": "AEK Athens 4 - 0 Panathinaikos"
+                        },
+                        {
+                            "competition": "Cup Final Stage",
+                            "date": "14/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Panathinaikos 3 - 0 Aris"
+                        }
+                    ],
+                    "team": "Panathinaikos"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Europa League Final Stages",
+                        "date": "25/02/2010",
+                        "teams_and_score": "AS Roma 2 - 3 Panathinaikos"
+                    }
+                ],
+                "summary": {
+                    "AS Roma_wins": "0",
+                    "Panathinaikos_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AS Roma": "35%",
+                    "Panathinaikos": "65%"
+                },
+                "corners": {
+                    "AS Roma": "4",
+                    "Panathinaikos": "6"
+                },
+                "crosses": {
+                    "AS Roma": "4",
+                    "Panathinaikos": "4"
+                },
+                "fouls": {
+                    "AS Roma": "17",
+                    "Panathinaikos": "10"
+                },
+                "goalkeeper_saves": {
+                    "AS Roma": "0",
+                    "Panathinaikos": "3"
+                },
+                "offsides": {
+                    "AS Roma": "2",
+                    "Panathinaikos": "2"
+                },
+                "red_cards": {
+                    "AS Roma": "1",
+                    "Panathinaikos": "0"
+                },
+                "shots_blocked": {
+                    "AS Roma": "3",
+                    "Panathinaikos": "3"
+                },
+                "shots_off_target": {
+                    "AS Roma": "4",
+                    "Panathinaikos": "7"
+                },
+                "shots_on_target": {
+                    "AS Roma": "4",
+                    "Panathinaikos": "1"
+                },
+                "yellow_cards": {
+                    "AS Roma": "2",
+                    "Panathinaikos": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Panathinaikos_v_Roma_2026_01_29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/497.webp",
+                    "name": "AS Roma",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/617.webp",
+                    "name": "Panathinaikos",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/panathinaikos-v-roma-2026-01-29-Ok4v.webp",
+            "title": "Panathinaikos vs AS Roma"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Oct 2, 2025",
+            "description": "Watch Panathinaikos vs GO Ahead Eagles highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on October 2, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Panathinaikos_v_GA_Eagles_2025_10_02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/panathinaikos-v-ga-eagles-2025-10-02.webp",
+            "title": "Panathinaikos vs Go Ahead Eagles"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Mar 12, 2026",
+            "description": "Watch Panathinaikos vs Real Betis highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on March 12, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Natan",
+                    "team": "Real Betis",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Zaroury",
+                    "team": "Panathinaikos",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "A. Zaroury",
+                    "team": "Panathinaikos",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Llorente",
+                    "team": "Real Betis",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Firpo",
+                    "team": "Real Betis",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "D. Llorente",
+                    "team": "Real Betis",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "V. Taborda",
+                    "score_update": "1 - 0",
+                    "team": "Panathinaikos",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Lopez",
+                    "team": "Real Betis",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Panathinaikos 1 - 0 Real Betis"
+                        },
+                        {
+                            "competition": "LaLiga",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Getafe 2 - 0 Real Betis"
+                        },
+                        {
+                            "competition": "Copa del Rey: Quarter-Finals",
+                            "date": "05/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Real Betis 0 - 5 Atletico Madrid"
+                        },
+                        {
+                            "competition": "LaLiga",
+                            "date": "01/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Real Betis 2 - 1 Valencia"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Real Betis 2 - 1 Feyenoord"
+                        }
+                    ],
+                    "team": "Real Betis"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Panathinaikos 1 - 0 Real Betis"
+                        },
+                        {
+                            "competition": "Super League",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Levadiakos 1 - 4 Panathinaikos"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Viktoria Plzen 1 - 1 Panathinaikos"
+                        },
+                        {
+                            "competition": "Super League",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "OFI Crete 0 - 2 Panathinaikos"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Panathinaikos 2 - 2 Viktoria Plzen"
+                        }
+                    ],
+                    "team": "Panathinaikos"
+                },
+                "summary": {
+                    "Panathinaikos_wins": "0",
+                    "Real Betis_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Panathinaikos": "31%",
+                    "Real Betis": "69%"
+                },
+                "corners": {
+                    "Panathinaikos": "5",
+                    "Real Betis": "7"
+                },
+                "crosses": {
+                    "Panathinaikos": "1",
+                    "Real Betis": "9"
+                },
+                "fouls": {
+                    "Panathinaikos": "12",
+                    "Real Betis": "16"
+                },
+                "goalkeeper_saves": {
+                    "Panathinaikos": "6",
+                    "Real Betis": "0"
+                },
+                "offsides": {
+                    "Panathinaikos": "0",
+                    "Real Betis": "1"
+                },
+                "red_cards": {
+                    "Panathinaikos": "1",
+                    "Real Betis": "1"
+                },
+                "shots_blocked": {
+                    "Panathinaikos": "3",
+                    "Real Betis": "2"
+                },
+                "shots_off_target": {
+                    "Panathinaikos": "3",
+                    "Real Betis": "5"
+                },
+                "shots_on_target": {
+                    "Panathinaikos": "1",
+                    "Real Betis": "6"
+                },
+                "yellow_cards": {
+                    "Panathinaikos": "0",
+                    "Real Betis": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Panathinaikos_v_Real_Betis_2026_03_12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/543.webp",
+                    "name": "Real Betis",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/617.webp",
+                    "name": "Panathinaikos",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/panathinaikos-v-real-betis-2026-03-12-vZl0.webp",
+            "title": "Panathinaikos vs Real Betis"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Mar 19, 2026",
+            "description": "Watch Real Betis vs Panathinaikos highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on March 19, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "C. Hernandez",
+                    "event_type": "Goal",
+                    "player": "A. Ruibal",
+                    "score_update": "1 - 0",
+                    "team": "Real Betis",
+                    "time": "8'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Taborda",
+                    "team": "Panathinaikos",
+                    "time": "19'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Amrabat",
+                    "score_update": "2 - 0",
+                    "team": "Real Betis",
+                    "time": "45+1'"
+                },
+                {
+                    "assist": "A. Ruibal",
+                    "event_type": "Goal",
+                    "player": "C. Hernandez",
+                    "score_update": "3 - 0",
+                    "team": "Real Betis",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Kyriakopoulos",
+                    "team": "Panathinaikos",
+                    "time": "55'"
+                },
+                {
+                    "assist": "A. Ezzalzouli",
+                    "event_type": "Goal",
+                    "player": "Antony",
+                    "score_update": "4 - 0",
+                    "team": "Real Betis",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Đuričić",
+                    "team": "Panathinaikos",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Ávila",
+                    "team": "Real Betis",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Real Betis 4 - 0 Panathinaikos"
+                        },
+                        {
+                            "competition": "Super League",
+                            "date": "15/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Panathinaikos 0 - 0 Panetolikos"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Panathinaikos 1 - 0 Real Betis"
+                        },
+                        {
+                            "competition": "Super League",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Levadiakos 1 - 4 Panathinaikos"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Viktoria Plzen 1 - 1 Panathinaikos"
+                        }
+                    ],
+                    "team": "Panathinaikos"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Real Betis 4 - 0 Panathinaikos"
+                        },
+                        {
+                            "competition": "LaLiga",
+                            "date": "15/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Real Betis 1 - 1 Celta Vigo"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Panathinaikos 1 - 0 Real Betis"
+                        },
+                        {
+                            "competition": "LaLiga",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Getafe 2 - 0 Real Betis"
+                        },
+                        {
+                            "competition": "Copa del Rey: Quarter-Finals",
+                            "date": "05/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Real Betis 0 - 5 Atletico Madrid"
+                        }
+                    ],
+                    "team": "Real Betis"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Knockout Stage",
+                        "date": "12/03/2026",
+                        "teams_and_score": "Panathinaikos 1 - 0 Real Betis"
+                    }
+                ],
+                "summary": {
+                    "Panathinaikos_wins": "1",
+                    "Real Betis_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Panathinaikos": "38%",
+                    "Real Betis": "62%"
+                },
+                "corners": {
+                    "Panathinaikos": "1",
+                    "Real Betis": "4"
+                },
+                "crosses": {
+                    "Panathinaikos": "0",
+                    "Real Betis": "2"
+                },
+                "fouls": {
+                    "Panathinaikos": "10",
+                    "Real Betis": "4"
+                },
+                "goalkeeper_saves": {
+                    "Panathinaikos": "7",
+                    "Real Betis": "2"
+                },
+                "offsides": {
+                    "Panathinaikos": "1",
+                    "Real Betis": "0"
+                },
+                "shots_blocked": {
+                    "Panathinaikos": "1",
+                    "Real Betis": "3"
+                },
+                "shots_off_target": {
+                    "Panathinaikos": "1",
+                    "Real Betis": "8"
+                },
+                "shots_on_target": {
+                    "Panathinaikos": "2",
+                    "Real Betis": "11"
+                },
+                "yellow_cards": {
+                    "Panathinaikos": "3",
+                    "Real Betis": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Real_Betis_v_Panathinaikos_2026_03_19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/617.webp",
+                    "name": "Panathinaikos",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/543.webp",
+                    "name": "Real Betis",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/real-betis-v-panathinaikos-2026-03-19-lVJA.webp",
+            "title": "Real Betis vs Panathinaikos"
+        }
+    ]
+}

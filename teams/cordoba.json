@@ -1,0 +1,166 @@
+{
+    "team": "Cordoba",
+    "team_logo": "https://img.refooty.com/logo/teams/713.webp",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jul 23, 2026",
+            "description": "Watch Cordoba vs Sevilla highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 23, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "K. Medina",
+                    "team": "Cordoba",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Á. Carmona",
+                    "team": "Sevilla",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "23/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Cordoba 0 - 0 Sevilla"
+                        },
+                        {
+                            "competition": "Featured Club Friendlies",
+                            "date": "11/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Sevilla 1 - 0 Juventud Torremolinos CF"
+                        },
+                        {
+                            "competition": "LaLiga 25/26",
+                            "date": "23/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Celta Vigo 1 - 0 Sevilla"
+                        }
+                    ],
+                    "team": "Sevilla"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "23/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Cordoba 0 - 0 Sevilla"
+                        },
+                        {
+                            "competition": "LaLiga 2",
+                            "date": "31/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Cordoba 1 - 1 SD Huesca"
+                        }
+                    ],
+                    "team": "Cordoba"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Club Friendlies 2023",
+                        "date": "14/07/2023",
+                        "teams_and_score": "Cordoba 0 - 2 Sevilla"
+                    },
+                    {
+                        "competition": "Copa del Rey 21/22",
+                        "date": "01/12/2021",
+                        "teams_and_score": "Cordoba 0 - 1 Sevilla"
+                    },
+                    {
+                        "competition": "Primera Division",
+                        "date": "14/02/2015",
+                        "teams_and_score": "Sevilla 3 - 0 Cordoba"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "08/08/2014",
+                        "teams_and_score": "Sevilla 2 - 0 Cordoba"
+                    },
+                    {
+                        "competition": "Segunda Division",
+                        "date": "20/05/2001",
+                        "teams_and_score": "Sevilla 2 - 0 Cordoba"
+                    }
+                ],
+                "summary": {
+                    "Cordoba_wins": "0",
+                    "Sevilla_wins": "5",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cordoba-vs-sevilla-2026-07-23_IOQFc.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/536.webp",
+                    "name": "Sevilla",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/713.webp",
+                    "name": "Cordoba",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cordoba-vs-sevilla-2026-07-23-hDER.webp",
+            "title": "Cordoba vs Sevilla"
+        },
+        {
+            "competition": "Segunda División",
+            "competition_cover": "",
+            "date": "May 25, 2026",
+            "description": "Watch Eibar vs Cordoba highlights and goals from Segunda División on ReFooty: Football Highlights Hub. Match played on May 25, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/eibar-vs-cordoba-2026-05-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/eibar-vs-cordoba-2026-05-25-Y8za.webp",
+            "title": "Eibar vs Cordoba"
+        }
+    ]
+}

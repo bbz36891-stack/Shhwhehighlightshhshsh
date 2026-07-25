@@ -1,0 +1,316 @@
+{
+    "team": "Malmo FF",
+    "team_logo": "",
+    "total_matches": 4,
+    "matches": [
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Dec 11, 2025",
+            "description": "Watch Porto vs Malmo FF highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on December 11, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/FC_Porto_v_Malmo_FF_2025_12_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-porto-v-malmo-ff-2025-12-11.webp",
+            "title": "FC Porto vs Malmo FF"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Jan 29, 2026",
+            "description": "Watch Genk vs Malmo FF highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on January 29, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "K. Busuladzic",
+                    "event_type": "Goal",
+                    "player": "T. Ali",
+                    "score_update": "0 - 1",
+                    "team": "Malmo FF",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Heymans",
+                    "score_update": "1 - 1",
+                    "team": "Genk",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Medina Ortiz",
+                    "team": "Genk",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Busuladzic",
+                    "team": "Malmo FF",
+                    "time": "61'"
+                },
+                {
+                    "assist": "D. Heymans",
+                    "event_type": "Goal",
+                    "player": "K. Karetsas",
+                    "score_update": "2 - 1",
+                    "team": "Genk",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Genk 2 - 1 Malmo FF"
+                        },
+                        {
+                            "competition": "Allsvenskan",
+                            "date": "09/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Malmo FF 2 - 1 GAIS"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "06/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Malmo FF 0 - 1 Panathinaikos"
+                        },
+                        {
+                            "competition": "Allsvenskan",
+                            "date": "01/11/2025",
+                            "result": "D",
+                            "teams_and_score": "BK Haecken 1 - 1 Malmo FF"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "23/10/2025",
+                            "result": "D",
+                            "teams_and_score": "Malmo FF 1 - 1 Dinamo Zagreb"
+                        }
+                    ],
+                    "team": "Malmo FF"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Genk 2 - 1 Malmo FF"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "25/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Genk 1 - 1 Cercle Brugge"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Utrecht 0 - 2 Genk"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "17/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Zulte Waregem 2 - 1 Genk"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "11/12/2025",
+                            "result": "L",
+                            "teams_and_score": "FC Midtjylland 1 - 0 Genk"
+                        }
+                    ],
+                    "team": "Genk"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Europa League Grp. I",
+                        "date": "29/11/2018",
+                        "teams_and_score": "Malmo FF 2 - 2 Genk"
+                    }
+                ],
+                "summary": {
+                    "Genk_wins": "0",
+                    "Malmo FF_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Genk": "62%",
+                    "Malmo FF": "38%"
+                },
+                "corners": {
+                    "Genk": "8",
+                    "Malmo FF": "6"
+                },
+                "crosses": {
+                    "Genk": "10",
+                    "Malmo FF": "1"
+                },
+                "fouls": {
+                    "Genk": "8",
+                    "Malmo FF": "13"
+                },
+                "goalkeeper_saves": {
+                    "Genk": "2",
+                    "Malmo FF": "7"
+                },
+                "offsides": {
+                    "Genk": "3",
+                    "Malmo FF": "1"
+                },
+                "shots_blocked": {
+                    "Genk": "5",
+                    "Malmo FF": "1"
+                },
+                "shots_off_target": {
+                    "Genk": "11",
+                    "Malmo FF": "4"
+                },
+                "shots_on_target": {
+                    "Genk": "9",
+                    "Malmo FF": "3"
+                },
+                "yellow_cards": {
+                    "Genk": "1",
+                    "Malmo FF": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Genk_v_Malmo_FF_2026_01_29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/375.webp",
+                    "name": "Malmo FF",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/742.webp",
+                    "name": "Genk",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/genk-v-malmo-ff-2026-01-29-3FL8.webp",
+            "title": "Genk vs Malmo FF"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Nov 27, 2025",
+            "description": "Watch Nottingham Forest vs Malmo FF highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on November 27, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Nottingham_v_Malmo_FF_2025_11_27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nottingham-v-malmo-ff-2025-11-27.webp",
+            "title": "Nottingham Forest vs Malmo FF"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Oct 2, 2025",
+            "description": "Watch Plzen vs Malmo FF highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on October 2, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Plzen_v_Malmo_FF_2025_10_02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/plzen-v-malmo-ff-2025-10-02.webp",
+            "title": "Plzen vs Malmo FF"
+        }
+    ]
+}

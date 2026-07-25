@@ -1,0 +1,670 @@
+{
+    "team": "Torreense",
+    "team_logo": "https://img.refooty.com/logo/teams/4799.webp",
+    "total_matches": 3,
+    "matches": [
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "May 28, 2026",
+            "description": "Watch Casa Pia vs Torreense highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on May 28, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Silva",
+                    "team": "Torreense",
+                    "time": "15'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Livolant",
+                    "team": "Casa Pia",
+                    "time": "16'"
+                },
+                {
+                    "assist": "K. Prieto",
+                    "event_type": "Goal",
+                    "player": "G. Larrazabal",
+                    "score_update": "1 - 0",
+                    "team": "Casa Pia",
+                    "time": "38'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Drammeh",
+                    "team": "Torreense",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Goulart",
+                    "team": "Casa Pia",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Sequeira",
+                    "team": "Casa Pia",
+                    "time": "61'"
+                },
+                {
+                    "assist": "K. Osundina",
+                    "event_type": "Goal",
+                    "player": "L. Ofori",
+                    "score_update": "2 - 0",
+                    "team": "Casa Pia",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Liberato",
+                    "team": "Torreense",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga: Qualification",
+                            "date": "28/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Casa Pia AC 2 - 0 Torreense"
+                        },
+                        {
+                            "competition": "Portugal Cup: Final",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting CP 1 - 2 Torreense"
+                        },
+                        {
+                            "competition": "Primeira Liga: Qualification",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Torreense 0 - 0 Casa Pia AC"
+                        },
+                        {
+                            "competition": "Liga Portugal 2",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Torreense 4 - 0 Vizela"
+                        },
+                        {
+                            "competition": "Portugal Cup: Semi-Finals",
+                            "date": "23/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Torreense 2 - 0 AD Fafe"
+                        }
+                    ],
+                    "team": "Torreense"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga: Qualification",
+                            "date": "28/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Casa Pia AC 2 - 0 Torreense"
+                        },
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Casa Pia AC 1 - 1 Rio Ave"
+                        }
+                    ],
+                    "team": "Casa Pia"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primeira Liga: Qualification",
+                        "date": "20/05/2026",
+                        "teams_and_score": "Torreense 0 - 0 Casa Pia AC"
+                    },
+                    {
+                        "competition": "Portugal Cup: Round 5",
+                        "date": "17/12/2025",
+                        "teams_and_score": "Casa Pia AC 1 - 2 Torreense"
+                    },
+                    {
+                        "competition": "Club Friendlies 2025",
+                        "date": "19/07/2025",
+                        "teams_and_score": "Casa Pia AC 4 - 4 Torreense"
+                    },
+                    {
+                        "competition": "League Cup: Round 2 23/24",
+                        "date": "30/07/2023",
+                        "teams_and_score": "Torreense 0 - 2 Casa Pia AC"
+                    },
+                    {
+                        "competition": "Campeonato Nacional de Seniores grp. G",
+                        "date": "03/01/2016",
+                        "teams_and_score": "Casa Pia AC 1 - 1 Torreense"
+                    },
+                    {
+                        "competition": "2. Division South",
+                        "date": "07/04/2013",
+                        "teams_and_score": "Casa Pia AC 2 - 0 Torreense"
+                    }
+                ],
+                "summary": {
+                    "Casa Pia_wins": "2",
+                    "Torreense_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Casa Pia": "38%",
+                    "Torreense": "62%"
+                },
+                "corners": {
+                    "Casa Pia": "6",
+                    "Torreense": "9"
+                },
+                "crosses": {
+                    "Casa Pia": "15",
+                    "Torreense": "28"
+                },
+                "fouls": {
+                    "Casa Pia": "12",
+                    "Torreense": "10"
+                },
+                "goalkeeper_saves": {
+                    "Casa Pia": "2",
+                    "Torreense": "6"
+                },
+                "offsides": {
+                    "Casa Pia": "1",
+                    "Torreense": "1"
+                },
+                "shots_blocked": {
+                    "Casa Pia": "2",
+                    "Torreense": "6"
+                },
+                "shots_off_target": {
+                    "Casa Pia": "3",
+                    "Torreense": "11"
+                },
+                "shots_on_target": {
+                    "Casa Pia": "8",
+                    "Torreense": "2"
+                },
+                "yellow_cards": {
+                    "Casa Pia": "3",
+                    "Torreense": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/casa-pia-vs-torreense-2026-05-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4799.webp",
+                    "name": "Torreense",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4716.webp",
+                    "name": "Casa Pia",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/casa-pia-vs-torreense-2026-05-28-gSqX.webp",
+            "title": "Casa Pia vs Torreense"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "May 24, 2026",
+            "description": "Watch Sporting CP vs Torreense highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on May 24, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "L. Silva",
+                    "event_type": "Goal",
+                    "player": "K. Zohi",
+                    "score_update": "0 - 1",
+                    "team": "Torreense",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Inácio",
+                    "team": "Sporting CP",
+                    "time": "16'"
+                },
+                {
+                    "assist": "M. Araújo",
+                    "event_type": "Goal",
+                    "player": "L. Suárez",
+                    "score_update": "1 - 1",
+                    "team": "Sporting CP",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Mangas",
+                    "team": "Sporting CP",
+                    "time": "98'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Alfaro",
+                    "team": "Torreense",
+                    "time": "100'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "M. Araújo",
+                    "team": "Sporting CP",
+                    "time": "109'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Stopira",
+                    "score_update": "1 - 2",
+                    "team": "Torreense",
+                    "time": "113'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Stopira",
+                    "team": "Torreense",
+                    "time": "114'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Pite",
+                    "team": "Torreense",
+                    "time": "119'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Suárez",
+                    "team": "Sporting CP",
+                    "time": "120+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Portugal Cup: Final",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting CP 1 - 2 Torreense"
+                        },
+                        {
+                            "competition": "Primeira Liga: Qualification",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Torreense 0 - 0 Casa Pia AC"
+                        },
+                        {
+                            "competition": "Liga Portugal 2",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Torreense 4 - 0 Vizela"
+                        },
+                        {
+                            "competition": "Portugal Cup: Semi-Finals",
+                            "date": "23/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Torreense 2 - 0 AD Fafe"
+                        },
+                        {
+                            "competition": "Liga Portugal 2",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Torreense 1 - 0 Maritimo"
+                        }
+                    ],
+                    "team": "Torreense"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Portugal Cup: Final",
+                            "date": "24/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting CP 1 - 2 Torreense"
+                        },
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting CP 3 - 0 Gil Vicente"
+                        },
+                        {
+                            "competition": "Portugal Cup: Semi-Finals",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "FC Porto 0 - 0 Sporting CP"
+                        },
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting CP 1 - 2 Benfica"
+                        },
+                        {
+                            "competition": "Quater-Finals",
+                            "date": "15/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Arsenal 0 - 0 Sporting CP"
+                        }
+                    ],
+                    "team": "Sporting CP"
+                },
+                "summary": {
+                    "Sporting CP_wins": "0",
+                    "Torreense_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Sporting CP": "72%",
+                    "Torreense": "28%"
+                },
+                "corners": {
+                    "Sporting CP": "20",
+                    "Torreense": "2"
+                },
+                "crosses": {
+                    "Sporting CP": "48",
+                    "Torreense": "11"
+                },
+                "fouls": {
+                    "Sporting CP": "16",
+                    "Torreense": "17"
+                },
+                "goalkeeper_saves": {
+                    "Sporting CP": "0",
+                    "Torreense": "6"
+                },
+                "offsides": {
+                    "Sporting CP": "5",
+                    "Torreense": "1"
+                },
+                "red_cards": {
+                    "Sporting CP": "1",
+                    "Torreense": "0"
+                },
+                "shots_blocked": {
+                    "Sporting CP": "12",
+                    "Torreense": "2"
+                },
+                "shots_off_target": {
+                    "Sporting CP": "13",
+                    "Torreense": "4"
+                },
+                "shots_on_target": {
+                    "Sporting CP": "7",
+                    "Torreense": "2"
+                },
+                "yellow_cards": {
+                    "Sporting CP": "3",
+                    "Torreense": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sporting-cp-vs-torreense-2026-05-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4799.webp",
+                    "name": "Torreense",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/228.webp",
+                    "name": "Sporting CP",
+                    "score": "1"
+                },
+                "status": "AET"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sporting-cp-vs-torreense-2026-05-24-xwJ4.webp",
+            "title": "Sporting CP vs Torreense"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "May 20, 2026",
+            "description": "Watch Torreense vs Casa Pia highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on May 20, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Liberato",
+                    "team": "Torreense",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Sousa",
+                    "team": "Casa Pia",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Kaly",
+                    "team": "Casa Pia",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Marques",
+                    "team": "Casa Pia",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Larrazabal",
+                    "team": "Casa Pia",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "P. S. Rosas",
+                    "team": "Casa Pia",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Perez",
+                    "team": "Casa Pia",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga: Qualification",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Torreense 0 - 0 Casa Pia AC"
+                        },
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Casa Pia AC 1 - 1 Rio Ave"
+                        }
+                    ],
+                    "team": "Casa Pia"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga: Qualification",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Torreense 0 - 0 Casa Pia AC"
+                        },
+                        {
+                            "competition": "Liga Portugal 2",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Torreense 4 - 0 Vizela"
+                        },
+                        {
+                            "competition": "Portugal Cup: Semi-Finals",
+                            "date": "23/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Torreense 2 - 0 AD Fafe"
+                        },
+                        {
+                            "competition": "Liga Portugal 2",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Torreense 1 - 0 Maritimo"
+                        }
+                    ],
+                    "team": "Torreense"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Portugal Cup: Round 5",
+                        "date": "17/12/2025",
+                        "teams_and_score": "Casa Pia AC 1 - 2 Torreense"
+                    },
+                    {
+                        "competition": "Club Friendlies 2025",
+                        "date": "19/07/2025",
+                        "teams_and_score": "Casa Pia AC 4 - 4 Torreense"
+                    },
+                    {
+                        "competition": "League Cup: Round 2 23/24",
+                        "date": "30/07/2023",
+                        "teams_and_score": "Torreense 0 - 2 Casa Pia AC"
+                    },
+                    {
+                        "competition": "Campeonato Nacional de Seniores grp. G",
+                        "date": "03/01/2016",
+                        "teams_and_score": "Casa Pia AC 1 - 1 Torreense"
+                    },
+                    {
+                        "competition": "2. Division South",
+                        "date": "07/04/2013",
+                        "teams_and_score": "Casa Pia AC 2 - 0 Torreense"
+                    }
+                ],
+                "summary": {
+                    "Casa Pia_wins": "2",
+                    "Torreense_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Casa Pia": "41%",
+                    "Torreense": "59%"
+                },
+                "corners": {
+                    "Casa Pia": "3",
+                    "Torreense": "5"
+                },
+                "crosses": {
+                    "Casa Pia": "7",
+                    "Torreense": "6"
+                },
+                "fouls": {
+                    "Casa Pia": "18",
+                    "Torreense": "12"
+                },
+                "goalkeeper_saves": {
+                    "Casa Pia": "2",
+                    "Torreense": "2"
+                },
+                "offsides": {
+                    "Casa Pia": "2",
+                    "Torreense": "1"
+                },
+                "red_cards": {
+                    "Casa Pia": "1",
+                    "Torreense": "0"
+                },
+                "shots_blocked": {
+                    "Casa Pia": "1",
+                    "Torreense": "0"
+                },
+                "shots_off_target": {
+                    "Casa Pia": "3",
+                    "Torreense": "7"
+                },
+                "shots_on_target": {
+                    "Casa Pia": "2",
+                    "Torreense": "2"
+                },
+                "yellow_cards": {
+                    "Casa Pia": "5",
+                    "Torreense": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/torreense-vs-casa-pia-2026-05-20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4716.webp",
+                    "name": "Casa Pia",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4799.webp",
+                    "name": "Torreense",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/torreense-vs-casa-pia-2026-05-20-z9by.webp",
+            "title": "Torreense vs Casa Pia"
+        }
+    ]
+}

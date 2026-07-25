@@ -1,0 +1,940 @@
+{
+    "team": "Barcelona SC",
+    "team_logo": "https://img.refooty.com/logo/teams/1152.webp",
+    "total_matches": 6,
+    "matches": [
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 6, 2026",
+            "description": "Watch Barcelona SC vs Boca Juniors highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 6, 2026. High tension and physical challenges defined the evening as Barcelona SC hosted Boca Juniors in a gripping encounter for the CONMEBOL Libertadores . Played on May 6, 2026, the match served as a testament to the unpredictable nature of continental football, where tactical plans were constantly disrupted by disciplinary volatility. First-Half Turbulence The match started with high energy, but the flow was repeatedly interrupted by a flurry of cautions. The drama reached a boiling point in the 33rd minute when Santiago Ascacibar was issued a red card, putting Boca Juniors under immense pressure. The numerical disadvantage did not last long, however, as Milton Aaron Celiz was also sent off deep into stoppage time at the end of the first half, leaving both squads to reorganize their strategies during the break. The Decisive Moment The second half saw both sides utilizing their benches to introduce fresh legs and tactical changes. The breakthrough finally arrived in the 73rd minute when Jhonny Quinonez delivered a perfectly weighted assist to Hector Villalba , who clinically finished the chance. Despite a frantic final push from the visitors, the home side maintained their composure to secure the lead until the referee signaled the end of the match.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Aranda",
+                    "team": "Boca Juniors",
+                    "time": "10'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "S. Ascacibar",
+                    "team": "Boca Juniors",
+                    "time": "33'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Merentiel",
+                    "team": "Boca Juniors",
+                    "time": "33'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Castillo",
+                    "team": "Barcelona SC",
+                    "time": "38'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Benedetto",
+                    "team": "Barcelona SC",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "M. Céliz",
+                    "team": "Barcelona SC",
+                    "time": "45+6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Carabali",
+                    "team": "Barcelona SC",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. G. Lugo",
+                    "team": "Barcelona SC",
+                    "time": "61'"
+                },
+                {
+                    "assist": "J. Quinonez",
+                    "event_type": "Goal",
+                    "player": "H. Villalba",
+                    "score_update": "1 - 0",
+                    "team": "Barcelona SC",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Rangel",
+                    "team": "Barcelona SC",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Costa",
+                    "team": "Boca Juniors",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group D",
+                            "date": "06/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Barcelona SC 1 - 0 Boca Juniors"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Central Cordoba de Santiago 1 - 2 Boca Juniors"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Cruzeiro 1 - 0 Boca Juniors"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "23/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Defensa y Justicia 0 - 4 Boca Juniors"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Boca Juniors 3 - 0 Barcelona SC"
+                        }
+                    ],
+                    "team": "Boca Juniors"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group D",
+                            "date": "06/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Barcelona SC 1 - 0 Boca Juniors"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Barcelona SC 1 - 1 Manta"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "30/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Barcelona SC 1 - 2 Universidad Catolica"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Orense 1 - 1 Barcelona SC"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "15/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Boca Juniors 3 - 0 Barcelona SC"
+                        }
+                    ],
+                    "team": "Barcelona SC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group D",
+                        "date": "15/04/2026",
+                        "teams_and_score": "Boca Juniors 3 - 0 Barcelona SC"
+                    },
+                    {
+                        "competition": "Copa Libertadores: Group C 2021",
+                        "date": "21/05/2021",
+                        "teams_and_score": "Boca Juniors 0 - 0 Barcelona SC"
+                    },
+                    {
+                        "competition": "Copa Libertadores Grp. 1",
+                        "date": "03/04/2013",
+                        "teams_and_score": "Boca Juniors 1 - 0 Barcelona SC"
+                    },
+                    {
+                        "competition": "Copa Libertadores Playoff",
+                        "date": "11/04/2003",
+                        "teams_and_score": "Barcelona SC 2 - 2 Boca Juniors"
+                    }
+                ],
+                "summary": {
+                    "Barcelona SC_wins": "0",
+                    "Boca Juniors_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Barcelona SC": "47%",
+                    "Boca Juniors": "53%"
+                },
+                "corners": {
+                    "Barcelona SC": "2",
+                    "Boca Juniors": "4"
+                },
+                "fouls": {
+                    "Barcelona SC": "14",
+                    "Boca Juniors": "13"
+                },
+                "goalkeeper_saves": {
+                    "Barcelona SC": "4",
+                    "Boca Juniors": "3"
+                },
+                "offsides": {
+                    "Barcelona SC": "3",
+                    "Boca Juniors": "6"
+                },
+                "red_cards": {
+                    "Barcelona SC": "1",
+                    "Boca Juniors": "1"
+                },
+                "shots_off_target": {
+                    "Barcelona SC": "5",
+                    "Boca Juniors": "2"
+                },
+                "shots_on_target": {
+                    "Barcelona SC": "4",
+                    "Boca Juniors": "4"
+                },
+                "yellow_cards": {
+                    "Barcelona SC": "5",
+                    "Boca Juniors": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/barcelona-sc-vs-boca-juniors-2026-05-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/451.webp",
+                    "name": "Boca Juniors",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1152.webp",
+                    "name": "Barcelona SC",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/barcelona-sc-vs-boca-juniors-2026-05-06-VHUS.webp",
+            "title": "Barcelona SC vs Boca Juniors"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 8, 2026",
+            "description": "Watch Barcelona SC vs Cruzeiro highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 8, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "Fagner",
+                    "event_type": "Goal",
+                    "player": "M. Pereira",
+                    "score_update": "0 - 1",
+                    "team": "Cruzeiro",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Céliz",
+                    "team": "Barcelona SC",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Henrique",
+                    "team": "Cruzeiro",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. B. Kaiki",
+                    "team": "Cruzeiro",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group D",
+                            "date": "08/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Barcelona SC 0 - 1 Cruzeiro"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "04/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sao Paulo 4 - 1 Cruzeiro"
+                        },
+                        {
+                            "competition": "Mineiro: Play-off",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Cruzeiro 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Cruzeiro 1 - 1 Corinthians"
+                        }
+                    ],
+                    "team": "Cruzeiro"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Barcelona SC 2 - 1 Club Leones Del Norte"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "08/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Barcelona SC 0 - 1 Cruzeiro"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "LDU de Quito 0 - 2 Barcelona SC"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "11/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 0 - 1 Barcelona SC"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Barcelona SC 1 - 0 Emelec"
+                        }
+                    ],
+                    "team": "Barcelona SC"
+                },
+                "summary": {
+                    "Barcelona SC_wins": "0",
+                    "Cruzeiro_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Barcelona SC": "55%",
+                    "Cruzeiro": "45%"
+                },
+                "corners": {
+                    "Barcelona SC": "5",
+                    "Cruzeiro": "0"
+                },
+                "fouls": {
+                    "Barcelona SC": "16",
+                    "Cruzeiro": "12"
+                },
+                "goalkeeper_saves": {
+                    "Barcelona SC": "1",
+                    "Cruzeiro": "0"
+                },
+                "offsides": {
+                    "Barcelona SC": "4",
+                    "Cruzeiro": "2"
+                },
+                "shots_off_target": {
+                    "Barcelona SC": "6",
+                    "Cruzeiro": "2"
+                },
+                "shots_on_target": {
+                    "Barcelona SC": "2",
+                    "Cruzeiro": "3"
+                },
+                "yellow_cards": {
+                    "Barcelona SC": "1",
+                    "Cruzeiro": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/barcelona-sc-vs-cruzeiro-2026-04-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/135.webp",
+                    "name": "Cruzeiro",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1152.webp",
+                    "name": "Barcelona SC",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/barcelona-sc-vs-cruzeiro-2026-04-08-4Wmn.webp",
+            "title": "Barcelona SC vs Cruzeiro"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 30, 2026",
+            "description": "Watch Barcelona SC vs U. Catolica highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 30, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/barcelona-sc-vs-u-catolica-2026-04-30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/barcelona-sc-vs-u-catolica-2026-04-30-XqbG.webp",
+            "title": "Barcelona SC vs U. Catolica"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 14, 2026",
+            "description": "Watch Boca Juniors vs Barcelona SC highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 14, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Bareiro",
+                    "team": "Boca Juniors",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Intriago",
+                    "team": "Barcelona SC",
+                    "time": "16'"
+                },
+                {
+                    "assist": "L. Blanco",
+                    "event_type": "Goal",
+                    "player": "L. D. Lollo",
+                    "score_update": "1 - 0",
+                    "team": "Boca Juniors",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Quinonez",
+                    "team": "Barcelona SC",
+                    "time": "52'"
+                },
+                {
+                    "assist": "L. Blanco",
+                    "event_type": "Goal",
+                    "player": "S. Ascacibar",
+                    "score_update": "2 - 0",
+                    "team": "Boca Juniors",
+                    "time": "81'"
+                },
+                {
+                    "assist": "A. Velasco",
+                    "event_type": "Goal",
+                    "player": "A. Herrera",
+                    "score_update": "3 - 0",
+                    "team": "Boca Juniors",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group D",
+                            "date": "15/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Boca Juniors 3 - 0 Barcelona SC"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Barcelona SC 2 - 1 Club Leones Del Norte"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "08/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Barcelona SC 0 - 1 Cruzeiro"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "LDU de Quito 0 - 2 Barcelona SC"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "11/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 0 - 1 Barcelona SC"
+                        }
+                    ],
+                    "team": "Barcelona SC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group D",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Boca Juniors 3 - 0 Barcelona SC"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Boca Juniors 1 - 1 Independiente"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "08/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Universidad Catolica 1 - 2 Boca Juniors"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "02/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Talleres 0 - 1 Boca Juniors"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "25/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Boca Juniors 2 - 0 Gimnasia y Esgrima de Chivilcoy"
+                        }
+                    ],
+                    "team": "Boca Juniors"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Copa Libertadores: Group C 2021",
+                        "date": "21/05/2021",
+                        "teams_and_score": "Boca Juniors 0 - 0 Barcelona SC"
+                    },
+                    {
+                        "competition": "Copa Libertadores Grp. 1",
+                        "date": "03/04/2013",
+                        "teams_and_score": "Boca Juniors 1 - 0 Barcelona SC"
+                    },
+                    {
+                        "competition": "Copa Libertadores Playoff",
+                        "date": "11/04/2003",
+                        "teams_and_score": "Barcelona SC 2 - 2 Boca Juniors"
+                    }
+                ],
+                "summary": {
+                    "Barcelona SC_wins": "0",
+                    "Boca Juniors_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Barcelona SC": "45%",
+                    "Boca Juniors": "55%"
+                },
+                "corners": {
+                    "Barcelona SC": "2",
+                    "Boca Juniors": "5"
+                },
+                "fouls": {
+                    "Barcelona SC": "3",
+                    "Boca Juniors": "7"
+                },
+                "goalkeeper_saves": {
+                    "Barcelona SC": "6",
+                    "Boca Juniors": "1"
+                },
+                "offsides": {
+                    "Barcelona SC": "0",
+                    "Boca Juniors": "3"
+                },
+                "shots_off_target": {
+                    "Barcelona SC": "0",
+                    "Boca Juniors": "6"
+                },
+                "shots_on_target": {
+                    "Barcelona SC": "0",
+                    "Boca Juniors": "9"
+                },
+                "yellow_cards": {
+                    "Barcelona SC": "2",
+                    "Boca Juniors": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/boca-juniors-vs-barcelona-sc-2026-04-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1152.webp",
+                    "name": "Barcelona SC",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/451.webp",
+                    "name": "Boca Juniors",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/boca-juniors-vs-barcelona-sc-2026-04-14-MZNj.webp",
+            "title": "Boca Juniors vs Barcelona SC"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 28, 2026",
+            "description": "Watch Cruzeiro vs Barcelona SC highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 28, 2026. Under the lights of a prestigious continental stage, Cruzeiro and Barcelona SC faced off in a CONMEBOL Libertadores encounter filled with tactical intrigue. Fans expected a battle of nerves, and the intensity on the pitch matched the high stakes of South American club football. Explosive Opening and Tactical Friction On May 28, 2026, the match exploded into life almost immediately as Cruzeiro sought to impose their rhythm. Just five minutes into the contest, Matheus Pereira found the back of the net after a precise delivery from Fagner , setting a frantic pace for the evening. However, the early lead did not mean an easy ride, as the first half devolved into a physical battle characterized by a flurry of bookings. Milton Aaron Celiz and Lucas Daniel Romero were cautioned in quick succession, followed by Fagner and Alex Rangel , as both sides struggled to maintain composure amidst the rising tension. Second Half Dominance The interval did little to cool the ambitions of the home side, who returned for the second half with renewed clinical efficiency. In the 52nd minute, Christian Cardoso extended the advantage after being teed up by Matheus Pereira , turning provider after his earlier heroics. The momentum shifted entirely in favor of the Brazilian giants just three minutes later, when Luis Sinisterra capitalized on an assist from Kaio Jorge to further punish the Barcelona SC defense. The visitors attempted to respond with tactical changes, introducing the likes of Gustavo Vallecilla and Sergio Nunez , but the pressure from the hosts remained relentless. Clinical Finish and Final Whistle With the clock ticking down, Cruzeiro refused to take their foot off the gas. In the 72nd minute, Matheus Pereira grabbed his second goal of the night, finishing a move orchestrated by substitute Lucas Villalba . As the match entered its final stages, both managers utilized their benches to manage energy levels, with Bruno Rodrigues and Luca Sosa entering the fray. Despite a late yellow card for Neyser Villarreal , the result was never in doubt. The referee brought an end to the contest after five minutes of stoppage time, marking a comprehensive night for the hosts in their quest for continental glory.",
+            "events_timeline": [
+                {
+                    "assist": "Fagner",
+                    "event_type": "Goal",
+                    "player": "M. Pereira",
+                    "score_update": "1 - 0",
+                    "team": "Cruzeiro",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Céliz",
+                    "team": "Barcelona SC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Romero",
+                    "team": "Cruzeiro",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Fagner",
+                    "team": "Cruzeiro",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Rangel",
+                    "team": "Barcelona SC",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Pereira",
+                    "event_type": "Goal",
+                    "player": "Christian",
+                    "score_update": "2 - 0",
+                    "team": "Cruzeiro",
+                    "time": "46'"
+                },
+                {
+                    "assist": "K. Jorge",
+                    "event_type": "Goal",
+                    "player": "L. Sinisterra",
+                    "score_update": "3 - 0",
+                    "team": "Cruzeiro",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Contreras",
+                    "team": "Barcelona SC",
+                    "time": "76'"
+                },
+                {
+                    "assist": "L. Villalba",
+                    "event_type": "Goal",
+                    "player": "M. Pereira",
+                    "score_update": "4 - 0",
+                    "team": "Cruzeiro",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Villareal",
+                    "team": "Cruzeiro",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group D",
+                            "date": "29/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Cruzeiro 4 - 0 Barcelona SC"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Delfin 1 - 2 Barcelona SC"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "22/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Universidad Catolica 2 - 0 Barcelona SC"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Barcelona SC 3 - 0 Aucas"
+                        },
+                        {
+                            "competition": "Copa Ecuador",
+                            "date": "12/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Insutec 2 - 4 Barcelona SC"
+                        }
+                    ],
+                    "team": "Barcelona SC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group D",
+                            "date": "29/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Cruzeiro 4 - 0 Barcelona SC"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Cruzeiro 2 - 1 Chapecoense AF"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Boca Juniors 1 - 1 Cruzeiro"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Palmeiras 1 - 1 Cruzeiro"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "13/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Cruzeiro 1 - 0 Goias"
+                        }
+                    ],
+                    "team": "Cruzeiro"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group D",
+                        "date": "08/04/2026",
+                        "teams_and_score": "Barcelona SC 0 - 1 Cruzeiro"
+                    }
+                ],
+                "summary": {
+                    "Barcelona SC_wins": "0",
+                    "Cruzeiro_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Barcelona SC": "39%",
+                    "Cruzeiro": "61%"
+                },
+                "corners": {
+                    "Barcelona SC": "2",
+                    "Cruzeiro": "6"
+                },
+                "fouls": {
+                    "Barcelona SC": "8",
+                    "Cruzeiro": "7"
+                },
+                "goalkeeper_saves": {
+                    "Barcelona SC": "5",
+                    "Cruzeiro": "1"
+                },
+                "offsides": {
+                    "Barcelona SC": "0",
+                    "Cruzeiro": "2"
+                },
+                "shots_off_target": {
+                    "Barcelona SC": "5",
+                    "Cruzeiro": "4"
+                },
+                "shots_on_target": {
+                    "Barcelona SC": "1",
+                    "Cruzeiro": "9"
+                },
+                "yellow_cards": {
+                    "Barcelona SC": "3",
+                    "Cruzeiro": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cruzeiro-vs-barcelona-sc-2026-05-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1152.webp",
+                    "name": "Barcelona SC",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/135.webp",
+                    "name": "Cruzeiro",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cruzeiro-vs-barcelona-sc-2026-05-28-V1z3.webp",
+            "title": "Cruzeiro vs Barcelona SC"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 21, 2026",
+            "description": "Watch U. Catolica vs Barcelona SC highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 21, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/u-catolica-vs-barcelona-sc-2026-05-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/u-catolica-vs-barcelona-sc-2026-05-21-5ems.webp",
+            "title": "U. Catolica vs Barcelona SC"
+        }
+    ]
+}

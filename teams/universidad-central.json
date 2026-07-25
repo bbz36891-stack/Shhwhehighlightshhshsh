@@ -1,0 +1,167 @@
+{
+    "team": "Universidad Central",
+    "team_logo": "https://www.livescore.com/en/football/team/universidad-central/9665/overview/",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 6, 2026",
+            "description": "Watch Universidad Central vs Independiente del Valle highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 6, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Bolivar",
+                    "team": "Universidad Central",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Zapata",
+                    "score_update": "1 - 0",
+                    "team": "Universidad Central",
+                    "time": "61'"
+                },
+                {
+                    "assist": "A. G. Moreno",
+                    "event_type": "Goal",
+                    "player": "J. M. Cuesta",
+                    "score_update": "2 - 0",
+                    "team": "Universidad Central",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Loor",
+                    "team": "Independiente del Valle",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Angulo",
+                    "team": "Independiente del Valle",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group H",
+                            "date": "06/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Universidad Central 2 - 0 Independiente del Valle"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "01/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Universidad Catolica 2 - 3 Independiente del Valle"
+                        },
+                        {
+                            "competition": "Group H",
+                            "date": "28/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Libertad 2 - 3 Independiente del Valle"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Independiente del Valle 2 - 1 Club Leones Del Norte"
+                        },
+                        {
+                            "competition": "Group H",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Independiente del Valle 3 - 1 Universidad Central"
+                        }
+                    ],
+                    "team": "Independiente del Valle"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group H",
+                            "date": "06/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Universidad Central 2 - 0 Independiente del Valle"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura: Group A",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Portuguesa FC 1 - 1 Universidad Central"
+                        },
+                        {
+                            "competition": "Group H",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Universidad Central 0 - 3 Rosario Central"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Portuguesa FC 3 - 0 Universidad Central"
+                        },
+                        {
+                            "competition": "Group H",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente del Valle 3 - 1 Universidad Central"
+                        }
+                    ],
+                    "team": "Universidad Central"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group H",
+                        "date": "16/04/2026",
+                        "teams_and_score": "Independiente del Valle 3 - 1 Universidad Central"
+                    }
+                ],
+                "summary": {
+                    "Independiente del Valle_wins": "1",
+                    "Universidad Central_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/universidad-central-vs-independiente-del-valle-2026-05-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1153.webp",
+                    "name": "Independiente del Valle",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://www.livescore.com/en/football/team/universidad-central/9665/overview/",
+                    "name": "Universidad Central",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/universidad-central-vs-independiente-del-valle-2026-05-06-6ll0.webp",
+            "title": "Universidad Central vs Independiente del Valle"
+        }
+    ]
+}

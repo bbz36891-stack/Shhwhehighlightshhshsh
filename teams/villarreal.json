@@ -1,0 +1,42 @@
+{
+    "team": "VILLARREAL",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "La Liga",
+            "competition_cover": "https://refooty.com/covers/la-liga.webp",
+            "date": "Oct 6, 2025",
+            "description": "Watch Real Madrid vs Villarreal highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on October 6, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/real-madrid-villarreal-1st-half-many-shots-but-not-effective-laliga-ea-sports-2526.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/real-madrid-villarreal-1st-half-many-shots-but-not-effective-laliga-ea-sports-2526.webp",
+            "title": "REAL MADRID vs VILLARREAL"
+        }
+    ]
+}

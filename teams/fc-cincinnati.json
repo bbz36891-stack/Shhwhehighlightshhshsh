@@ -1,0 +1,3363 @@
+{
+    "team": "FC Cincinnati",
+    "team_logo": "https://img.refooty.com/logo/teams/2242.webp",
+    "total_matches": 17,
+    "matches": [
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 10, 2026",
+            "description": "Watch Charlotte vs FC Cincinnati highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 10, 2026. The clash between Charlotte FC and FC Cincinnati offered a high-stakes tactical battle as both sides vied for supremacy in this pivotal Major League Soccer fixture. A tale of two halves On May 10, 2026 , the atmosphere at the stadium crackled with anticipation. The match began with a disciplined approach from both sides, though the tension broke in the 26th minute when Gerardo Valenzuela was shown a yellow card. Kevin Denkey eventually broke the deadlock for FC Cincinnati in the 36th minute. Just before the interval, Evander Ferreira doubled the lead in the 44th minute, capitalizing on a crisp assist from Pavel Bucha to put his side in a commanding position heading into the break. The momentum shifts The second half proved to be a whirlwind of activity. Idan Toklomati ignited a comeback in the 51st minute, scoring following a well-placed ball from Tim Ream . The momentum swung decisively toward the hosts when Pep Biel leveled the score just two minutes later, assisted by Djibril Diani . The final portion of the match saw the discipline fray, as Ashley Westwood , Samuel Gidi , Evander Ferreira , and Obinna Nwobodo all entered the referee’s notebook. Despite the frantic attempts to find a winner through late substitutions, the spoils were shared in an enthralling encounter.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Valenzuela",
+                    "team": "FC Cincinnati",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Denkey",
+                    "score_update": "0 - 1",
+                    "team": "FC Cincinnati",
+                    "time": "16'"
+                },
+                {
+                    "assist": "P. Bucha",
+                    "event_type": "Goal",
+                    "player": "Evander",
+                    "score_update": "0 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "31'"
+                },
+                {
+                    "assist": "T. Ream",
+                    "event_type": "Goal",
+                    "player": "I. Gorno",
+                    "score_update": "1 - 2",
+                    "team": "Charlotte",
+                    "time": "46'"
+                },
+                {
+                    "assist": "D. Diani",
+                    "event_type": "Goal",
+                    "player": "P. Biel",
+                    "score_update": "2 - 2",
+                    "team": "Charlotte",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Westwood",
+                    "team": "Charlotte",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Gidi",
+                    "team": "FC Cincinnati",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Evander",
+                    "team": "FC Cincinnati",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Nwobodo",
+                    "team": "FC Cincinnati",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "09/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Charlotte 2 - 2 FC Cincinnati"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "20/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 5 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "New England Revolution 6 - 1 FC Cincinnati"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "09/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Charlotte 2 - 2 FC Cincinnati"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "28/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 0 - 2 Atlanta United"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Nashville SC 4 - 2 Charlotte"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 6 - 0 Charlotte Independence"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 2 Nashville SC"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "10/08/2025",
+                        "teams_and_score": "FC Cincinnati 0 - 1 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "13/07/2024",
+                        "teams_and_score": "FC Cincinnati 1 - 3 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "23/09/2023",
+                        "teams_and_score": "FC Cincinnati 3 - 0 Charlotte"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "03/09/2022",
+                        "teams_and_score": "FC Cincinnati 2 - 0 Charlotte"
+                    }
+                ],
+                "summary": {
+                    "Charlotte_wins": "2",
+                    "FC Cincinnati_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlotte": "46%",
+                    "FC Cincinnati": "54%"
+                },
+                "corners": {
+                    "Charlotte": "7",
+                    "FC Cincinnati": "4"
+                },
+                "fouls": {
+                    "Charlotte": "8",
+                    "FC Cincinnati": "15"
+                },
+                "goalkeeper_saves": {
+                    "Charlotte": "3",
+                    "FC Cincinnati": "1"
+                },
+                "offsides": {
+                    "Charlotte": "2",
+                    "FC Cincinnati": "1"
+                },
+                "shots_blocked": {
+                    "Charlotte": "4",
+                    "FC Cincinnati": "4"
+                },
+                "shots_off_target": {
+                    "Charlotte": "5",
+                    "FC Cincinnati": "4"
+                },
+                "shots_on_target": {
+                    "Charlotte": "3",
+                    "FC Cincinnati": "5"
+                },
+                "yellow_cards": {
+                    "Charlotte": "1",
+                    "FC Cincinnati": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charlotte-fc-fc-cincinnati-2026-05-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charlotte-fc-fc-cincinnati-2026-05-10-98ZN.webp",
+            "title": "Charlotte FC - FC Cincinnati"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 3, 2026",
+            "description": "Watch Chicago Fire vs FC Cincinnati highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 3, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "H. Cuypers",
+                    "score_update": "1 - 0",
+                    "team": "Chicago Fire",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Evander",
+                    "score_update": "1 - 1",
+                    "team": "FC Cincinnati",
+                    "time": "16'"
+                },
+                {
+                    "assist": "P. Zinckernagel",
+                    "event_type": "Goal",
+                    "player": "H. Cuypers",
+                    "score_update": "2 - 1",
+                    "team": "Chicago Fire",
+                    "time": "31'"
+                },
+                {
+                    "assist": "K. M. Dem",
+                    "event_type": "Goal",
+                    "player": "Evander",
+                    "score_update": "2 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "K. Smith",
+                    "team": "FC Cincinnati",
+                    "time": "56'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Denkey",
+                    "team": "FC Cincinnati",
+                    "time": "68'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Lajhar",
+                    "team": "FC Cincinnati",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. D'avilla",
+                    "team": "Chicago Fire",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Evander",
+                    "score_update": "2 - 3",
+                    "team": "FC Cincinnati",
+                    "time": "90+7'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Chirila",
+                    "team": "FC Cincinnati",
+                    "time": "90+12'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Chicago Fire 2 - 3 FC Cincinnati"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "20/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 5 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "New England Revolution 6 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "13/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 3 - 0 Tigres"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Chicago Fire 2 - 3 FC Cincinnati"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "30/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Chicago Fire 1 - 2 St. Louis City"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Chicago Fire 5 - 0 Sporting Kansas City"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Detroit City FC 1 - 2 Chicago Fire"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Chicago Fire 1 - 0 Atlanta United"
+                        }
+                    ],
+                    "team": "Chicago Fire"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS",
+                        "date": "18/04/2026",
+                        "teams_and_score": "FC Cincinnati 3 - 3 Chicago Fire"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "05/07/2025",
+                        "teams_and_score": "FC Cincinnati 2 - 1 Chicago Fire"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "17/07/2024",
+                        "teams_and_score": "FC Cincinnati 0 - 1 Chicago Fire"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "03/06/2023",
+                        "teams_and_score": "FC Cincinnati 1 - 0 Chicago Fire"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "01/10/2022",
+                        "teams_and_score": "FC Cincinnati 2 - 3 Chicago Fire"
+                    },
+                    {
+                        "competition": "Major League Soccer 2021",
+                        "date": "20/10/2021",
+                        "teams_and_score": "FC Cincinnati 3 - 4 Chicago Fire"
+                    }
+                ],
+                "summary": {
+                    "Chicago Fire_wins": "3",
+                    "FC Cincinnati_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Chicago Fire": "55%",
+                    "FC Cincinnati": "45%"
+                },
+                "corners": {
+                    "Chicago Fire": "10",
+                    "FC Cincinnati": "1"
+                },
+                "fouls": {
+                    "Chicago Fire": "12",
+                    "FC Cincinnati": "5"
+                },
+                "goalkeeper_saves": {
+                    "Chicago Fire": "1",
+                    "FC Cincinnati": "8"
+                },
+                "offsides": {
+                    "Chicago Fire": "1",
+                    "FC Cincinnati": "0"
+                },
+                "red_cards": {
+                    "Chicago Fire": "0",
+                    "FC Cincinnati": "1"
+                },
+                "shots_blocked": {
+                    "Chicago Fire": "8",
+                    "FC Cincinnati": "4"
+                },
+                "shots_off_target": {
+                    "Chicago Fire": "12",
+                    "FC Cincinnati": "2"
+                },
+                "shots_on_target": {
+                    "Chicago Fire": "10",
+                    "FC Cincinnati": "4"
+                },
+                "yellow_cards": {
+                    "Chicago Fire": "1",
+                    "FC Cincinnati": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/chicago-fire-fc-fc-cincinnati-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1607.webp",
+                    "name": "Chicago Fire",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/chicago-fire-fc-fc-cincinnati-2026-05-03-PBTk.webp",
+            "title": "Chicago Fire FC - FC Cincinnati"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 22, 2026",
+            "description": "Watch FC Cincinnati vs CF Montreal highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 22, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "P. Owusu",
+                    "event_type": "Goal",
+                    "player": "W. Carmona",
+                    "score_update": "0 - 1",
+                    "team": "CF Montreal",
+                    "time": "1'"
+                },
+                {
+                    "assist": "A. Powell",
+                    "event_type": "Goal",
+                    "player": "E. Echenique",
+                    "score_update": "1 - 1",
+                    "team": "FC Cincinnati",
+                    "time": "16'"
+                },
+                {
+                    "assist": "W. Carmona",
+                    "event_type": "Goal",
+                    "player": "P. Owusu",
+                    "score_update": "1 - 2",
+                    "team": "CF Montreal",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Synchuk",
+                    "team": "CF Montreal",
+                    "time": "47'"
+                },
+                {
+                    "assist": "E. Echenique",
+                    "event_type": "Goal",
+                    "player": "A. Jabbari",
+                    "score_update": "2 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "52'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "M. Robinson",
+                    "team": "FC Cincinnati",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Miazga",
+                    "team": "FC Cincinnati",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Owusu",
+                    "score_update": "2 - 3",
+                    "team": "CF Montreal",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Nwobodo",
+                    "team": "FC Cincinnati",
+                    "time": "67'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Barlow",
+                    "score_update": "3 - 3",
+                    "team": "FC Cincinnati",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Hadebe",
+                    "team": "FC Cincinnati",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Denkey",
+                    "score_update": "4 - 3",
+                    "team": "FC Cincinnati",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Denkey",
+                    "team": "FC Cincinnati",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 4 - 3 CF Montreal"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "18/10/2025",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 3 - 0 CF Montreal"
+                        }
+                    ],
+                    "team": "CF Montreal"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 4 - 3 CF Montreal"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "20/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 5 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "New England Revolution 6 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "13/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 3 - 0 Tigres"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 0 - 1 Toronto FC"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "18/10/2025",
+                        "teams_and_score": "FC Cincinnati 3 - 0 CF Montreal"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "31/08/2024",
+                        "teams_and_score": "FC Cincinnati 4 - 1 CF Montreal"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "20/09/2023",
+                        "teams_and_score": "CF Montreal 1 - 1 FC Cincinnati"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "28/05/2022",
+                        "teams_and_score": "CF Montreal 4 - 3 FC Cincinnati"
+                    },
+                    {
+                        "competition": "Major League Soccer 2021",
+                        "date": "18/08/2021",
+                        "teams_and_score": "FC Cincinnati 0 - 0 CF Montreal"
+                    }
+                ],
+                "summary": {
+                    "CF Montreal_wins": "1",
+                    "FC Cincinnati_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "CF Montreal": "54%",
+                    "FC Cincinnati": "46%"
+                },
+                "corners": {
+                    "CF Montreal": "2",
+                    "FC Cincinnati": "2"
+                },
+                "fouls": {
+                    "CF Montreal": "11",
+                    "FC Cincinnati": "20"
+                },
+                "goalkeeper_saves": {
+                    "CF Montreal": "4",
+                    "FC Cincinnati": "2"
+                },
+                "offsides": {
+                    "CF Montreal": "2",
+                    "FC Cincinnati": "1"
+                },
+                "red_cards": {
+                    "CF Montreal": "0",
+                    "FC Cincinnati": "1"
+                },
+                "shots_blocked": {
+                    "CF Montreal": "2",
+                    "FC Cincinnati": "3"
+                },
+                "shots_off_target": {
+                    "CF Montreal": "8",
+                    "FC Cincinnati": "4"
+                },
+                "shots_on_target": {
+                    "CF Montreal": "7",
+                    "FC Cincinnati": "8"
+                },
+                "yellow_cards": {
+                    "CF Montreal": "1",
+                    "FC Cincinnati": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-cincinnati-cf-montreal-2026-03-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1614.webp",
+                    "name": "CF Montreal",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-cincinnati-cf-montreal-2026-03-22-lQQ3.webp",
+            "title": "FC Cincinnati - CF Montréal"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 19, 2026",
+            "description": "Watch FC Cincinnati vs Chicago Fire highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 19, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Gidi",
+                    "team": "FC Cincinnati",
+                    "time": "7'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Barlow",
+                    "team": "FC Cincinnati",
+                    "time": "11'"
+                },
+                {
+                    "assist": "P. Zinckernagel",
+                    "event_type": "Goal",
+                    "player": "H. Cuypers",
+                    "score_update": "0 - 1",
+                    "team": "Chicago Fire",
+                    "time": "26'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Barlow",
+                    "score_update": "1 - 1",
+                    "team": "FC Cincinnati",
+                    "time": "42'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Zinckernagel",
+                    "score_update": "1 - 2",
+                    "team": "Chicago Fire",
+                    "time": "45+5'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "H. Cuypers",
+                    "score_update": "1 - 3",
+                    "team": "Chicago Fire",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Evander",
+                    "score_update": "2 - 3",
+                    "team": "FC Cincinnati",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. D'avilla",
+                    "team": "FC Cincinnati",
+                    "time": "86'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Ramirez",
+                    "team": "FC Cincinnati",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Bucha",
+                    "team": "FC Cincinnati",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Borso",
+                    "team": "Chicago Fire",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Elliott",
+                    "team": "Chicago Fire",
+                    "time": "90+9'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Mbokazi",
+                    "team": "Chicago Fire",
+                    "time": "90+9'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "FC Cincinnati 3 - 3 Chicago Fire"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Detroit City FC 1 - 2 Chicago Fire"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Chicago Fire 1 - 0 Atlanta United"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "01/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Chicago Fire 0 - 3 Philadelphia Union"
+                        }
+                    ],
+                    "team": "Chicago Fire"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "FC Cincinnati 3 - 3 Chicago Fire"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "20/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 5 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "New England Revolution 6 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "13/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 3 - 0 Tigres"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 0 - 1 Toronto FC"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "05/07/2025",
+                        "teams_and_score": "FC Cincinnati 2 - 1 Chicago Fire"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "17/07/2024",
+                        "teams_and_score": "FC Cincinnati 0 - 1 Chicago Fire"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "03/06/2023",
+                        "teams_and_score": "FC Cincinnati 1 - 0 Chicago Fire"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "01/10/2022",
+                        "teams_and_score": "FC Cincinnati 2 - 3 Chicago Fire"
+                    },
+                    {
+                        "competition": "Major League Soccer 2021",
+                        "date": "20/10/2021",
+                        "teams_and_score": "FC Cincinnati 3 - 4 Chicago Fire"
+                    }
+                ],
+                "summary": {
+                    "Chicago Fire_wins": "3",
+                    "FC Cincinnati_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Chicago Fire": "46%",
+                    "FC Cincinnati": "54%"
+                },
+                "corners": {
+                    "Chicago Fire": "1",
+                    "FC Cincinnati": "8"
+                },
+                "fouls": {
+                    "Chicago Fire": "8",
+                    "FC Cincinnati": "11"
+                },
+                "goalkeeper_saves": {
+                    "Chicago Fire": "6",
+                    "FC Cincinnati": "3"
+                },
+                "offsides": {
+                    "Chicago Fire": "0",
+                    "FC Cincinnati": "1"
+                },
+                "shots_blocked": {
+                    "Chicago Fire": "8",
+                    "FC Cincinnati": "4"
+                },
+                "shots_off_target": {
+                    "Chicago Fire": "4",
+                    "FC Cincinnati": "9"
+                },
+                "shots_on_target": {
+                    "Chicago Fire": "6",
+                    "FC Cincinnati": "8"
+                },
+                "yellow_cards": {
+                    "Chicago Fire": "3",
+                    "FC Cincinnati": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-cincinnati-chicago-fire-fc-2026-04-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1607.webp",
+                    "name": "Chicago Fire",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-cincinnati-chicago-fire-fc-2026-04-19-vDDd.webp",
+            "title": "FC Cincinnati - Chicago Fire FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 14, 2026",
+            "description": "Watch FC Cincinnati vs Inter Miami highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 14, 2026. The MLS clash between FC Cincinnati and Inter Miami on May 14, 2026, delivered a masterclass in attacking football and dramatic momentum shifts. Both sides displayed incredible tactical energy from the start, setting the stage for a contest that would keep fans on the edge of their seats until the very last second. A Tightly Contested Opening Half The scoring opened in the 24th minute when Lionel Messi found the back of the net to give Inter Miami an early lead. FC Cincinnati responded with aggressive play, forcing the visitors into defensive errors that saw Ian Fray and Gonzalo Lujan pick up yellow cards. The home side's persistence paid off just before the break; in the 41st minute, Kevin Denkey stepped up to the penalty spot and coolly converted, ensuring both teams headed into the tunnels level. Non-Stop Action in the Second Period The second half ignited immediately as Pavel Bucha put FC Cincinnati ahead in the 49th minute following a precise assist from Bryan Ramirez . However, the lead was short-lived as Lionel Messi struck again in the 55th minute, teed up by Rodrigo De Paul to make it 2-2. The pendulum swung back toward the hosts in the 64th minute when Evander Ferreira finished a move started by Denkey , restoring Cincinnati's advantage and briefly silencing the travelling support. The Late Inter Miami Surge As the clock ticked toward the final whistle, Inter Miami found another gear. Substitute Mateo Silvetti , replacing Luis Suarez , made an instant impact by scoring the equalizer in the 79th minute thanks to a Messi assist. The momentum stayed with the visitors, and in the 84th minute, German Berterame put Miami back in front. A devastating own goal by goalkeeper Roman Celentano in the 89th minute compounded Cincinnati's woes. Despite extensive stoppage time and a late yellow card for Evander , the visitors held firm to secure a remarkable victory.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "L. Messi",
+                    "score_update": "0 - 1",
+                    "team": "Inter Miami",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Fray",
+                    "team": "Inter Miami",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Lujan",
+                    "team": "Inter Miami",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Denkey",
+                    "score_update": "1 - 1",
+                    "team": "FC Cincinnati",
+                    "time": "46'"
+                },
+                {
+                    "assist": "B. Ramirez",
+                    "event_type": "Goal",
+                    "player": "P. Bucha",
+                    "score_update": "2 - 1",
+                    "team": "FC Cincinnati",
+                    "time": "49'"
+                },
+                {
+                    "assist": "R. D. Paul",
+                    "event_type": "Goal",
+                    "player": "L. Messi",
+                    "score_update": "2 - 2",
+                    "team": "Inter Miami",
+                    "time": "55'"
+                },
+                {
+                    "assist": "K. Denkey",
+                    "event_type": "Goal",
+                    "player": "Evander",
+                    "score_update": "3 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Nwobodo",
+                    "team": "FC Cincinnati",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Bright",
+                    "team": "Inter Miami",
+                    "time": "77'"
+                },
+                {
+                    "assist": "L. Messi",
+                    "event_type": "Goal",
+                    "player": "M. Silvetti",
+                    "score_update": "3 - 3",
+                    "team": "Inter Miami",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Berterame",
+                    "score_update": "3 - 4",
+                    "team": "Inter Miami",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Celentano",
+                    "team": "Inter Miami",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Evander",
+                    "team": "FC Cincinnati",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "13/05/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 3 - 5 Inter Miami CF"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "18/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Inter Miami CF 1 - 1 Nashville SC"
+                        }
+                    ],
+                    "team": "Inter Miami"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "13/05/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 3 - 5 Inter Miami CF"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "20/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 5 - 1 FC Cincinnati"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS: Play-off 2025",
+                        "date": "23/11/2025",
+                        "teams_and_score": "FC Cincinnati 0 - 4 Inter Miami CF"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "26/07/2025",
+                        "teams_and_score": "Inter Miami CF 0 - 0 FC Cincinnati"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "24/08/2024",
+                        "teams_and_score": "Inter Miami CF 2 - 0 FC Cincinnati"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "07/10/2023",
+                        "teams_and_score": "Inter Miami CF 0 - 1 FC Cincinnati"
+                    },
+                    {
+                        "competition": "US Open Cup",
+                        "date": "23/08/2023",
+                        "teams_and_score": "FC Cincinnati 3 - 3 Inter Miami CF"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "01/04/2023",
+                        "teams_and_score": "FC Cincinnati 1 - 0 Inter Miami CF"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "31/07/2022",
+                        "teams_and_score": "Inter Miami CF 4 - 4 FC Cincinnati"
+                    }
+                ],
+                "summary": {
+                    "FC Cincinnati_wins": "2",
+                    "Inter Miami_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "FC Cincinnati": "46%",
+                    "Inter Miami": "54%"
+                },
+                "corners": {
+                    "FC Cincinnati": "1",
+                    "Inter Miami": "8"
+                },
+                "fouls": {
+                    "FC Cincinnati": "19",
+                    "Inter Miami": "13"
+                },
+                "goalkeeper_saves": {
+                    "FC Cincinnati": "2",
+                    "Inter Miami": "0"
+                },
+                "offsides": {
+                    "FC Cincinnati": "1",
+                    "Inter Miami": "1"
+                },
+                "shots_blocked": {
+                    "FC Cincinnati": "3",
+                    "Inter Miami": "5"
+                },
+                "shots_off_target": {
+                    "FC Cincinnati": "4",
+                    "Inter Miami": "6"
+                },
+                "shots_on_target": {
+                    "FC Cincinnati": "3",
+                    "Inter Miami": "6"
+                },
+                "yellow_cards": {
+                    "FC Cincinnati": "2",
+                    "Inter Miami": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-cincinnati-inter-miami-cf-2026-05-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/9568.webp",
+                    "name": "Inter Miami",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-cincinnati-inter-miami-cf-2026-05-14-UbXs.webp",
+            "title": "FC Cincinnati - Inter Miami CF"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 24, 2026",
+            "description": "Watch FC Cincinnati vs Orlando City SC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 24, 2026. A high-octane encounter in the MLS The atmosphere was electric on May 24, 2026, as FC Cincinnati squared off against Orlando City SC in a match that promised plenty of action for the Major League Soccer faithful. Both teams took to the pitch with clear attacking intentions, setting the stage for a display of football that kept the intensity high from the opening whistle through to the final moments. A frantic first half The game burst into life when Martin Ojeda converted a penalty for Orlando City in the 16th minute. The response from FC Cincinnati was clinical, with Kenji Mboma Dem leveling the scoring in the 42nd minute following an assist from Evander Ferreira . Momentum shifted firmly toward the hosts just before the break, as Evander Ferreira latched onto a pass from Pavel Bucha in the 45+3rd minute to send the home side into the interval with a hard-fought lead. Securing the result There was no slowing down after the restart. Martin Ojeda struck again for the visitors in the 48th minute, but FC Cincinnati surged back ahead immediately. Kenji Mboma Dem bagged his second of the night in the 52nd minute, and Evander Ferreira added another just six minutes later. The match remained heavily tilted in favor of the hosts as Kevin Denkey found the net in the 77th minute, and Tom Barlow capped off the scoring in the 90+1st minute, assisted by Ender Echenique , to secure an emphatic victory.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Marin",
+                    "team": "Orlando City SC",
+                    "time": "10'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Ojeda",
+                    "score_update": "0 - 1",
+                    "team": "Orlando City SC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Valenzuela",
+                    "team": "FC Cincinnati",
+                    "time": "32'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. S. Tiago",
+                    "team": "Orlando City SC",
+                    "time": "41'"
+                },
+                {
+                    "assist": "Evander",
+                    "event_type": "Goal",
+                    "player": "K. M. Dem",
+                    "score_update": "1 - 1",
+                    "team": "FC Cincinnati",
+                    "time": "42'"
+                },
+                {
+                    "assist": "P. Bucha",
+                    "event_type": "Goal",
+                    "player": "Evander",
+                    "score_update": "2 - 1",
+                    "team": "FC Cincinnati",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Miazga",
+                    "team": "FC Cincinnati",
+                    "time": "47'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Ojeda",
+                    "score_update": "2 - 2",
+                    "team": "Orlando City SC",
+                    "time": "48'"
+                },
+                {
+                    "assist": "Evander",
+                    "event_type": "Goal",
+                    "player": "K. M. Dem",
+                    "score_update": "3 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "52'"
+                },
+                {
+                    "assist": "M. Miazga",
+                    "event_type": "Goal",
+                    "player": "Evander",
+                    "score_update": "4 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Brekalo",
+                    "team": "Orlando City SC",
+                    "time": "70'"
+                },
+                {
+                    "assist": "Evander",
+                    "event_type": "Goal",
+                    "player": "K. Denkey",
+                    "score_update": "5 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "77'"
+                },
+                {
+                    "assist": "E. Echenique",
+                    "event_type": "Goal",
+                    "player": "T. Barlow",
+                    "score_update": "6 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "23/05/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 6 - 2 Orlando City"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "19/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Orlando City 4 - 1 Atlanta United"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Orlando City 1 - 1 Atlanta United"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "29/04/2026",
+                            "result": "W",
+                            "teams_and_score": "New England Revolution 3 - 4 Orlando City"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "DC United 3 - 2 Orlando City"
+                        }
+                    ],
+                    "team": "Orlando City SC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "23/05/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 6 - 2 Orlando City"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "28/09/2025",
+                        "teams_and_score": "FC Cincinnati 1 - 1 Orlando City"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "05/10/2024",
+                        "teams_and_score": "FC Cincinnati 1 - 3 Orlando City"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "02/09/2023",
+                        "teams_and_score": "FC Cincinnati 0 - 1 Orlando City"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "24/06/2022",
+                        "teams_and_score": "FC Cincinnati 1 - 0 Orlando City"
+                    },
+                    {
+                        "competition": "Major League Soccer 2021",
+                        "date": "16/10/2021",
+                        "teams_and_score": "FC Cincinnati 0 - 1 Orlando City"
+                    }
+                ],
+                "summary": {
+                    "FC Cincinnati_wins": "1",
+                    "Orlando City SC_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "FC Cincinnati": "55%",
+                    "Orlando City SC": "45%"
+                },
+                "corners": {
+                    "FC Cincinnati": "6",
+                    "Orlando City SC": "9"
+                },
+                "fouls": {
+                    "FC Cincinnati": "17",
+                    "Orlando City SC": "13"
+                },
+                "goalkeeper_saves": {
+                    "FC Cincinnati": "6",
+                    "Orlando City SC": "5"
+                },
+                "offsides": {
+                    "FC Cincinnati": "0",
+                    "Orlando City SC": "1"
+                },
+                "shots_blocked": {
+                    "FC Cincinnati": "4",
+                    "Orlando City SC": "4"
+                },
+                "shots_off_target": {
+                    "FC Cincinnati": "7",
+                    "Orlando City SC": "6"
+                },
+                "shots_on_target": {
+                    "FC Cincinnati": "11",
+                    "Orlando City SC": "9"
+                },
+                "yellow_cards": {
+                    "FC Cincinnati": "2",
+                    "Orlando City SC": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-cincinnati-orlando-city-2026-05-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1598.webp",
+                    "name": "Orlando City SC",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "6"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-cincinnati-orlando-city-2026-05-24-cTaj.webp",
+            "title": "FC Cincinnati - Orlando City"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch FC Cincinnati vs New York Red Bulls highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 26, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Bungi",
+                    "team": "New York Red Bulls",
+                    "time": "19'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Ramirez",
+                    "team": "FC Cincinnati",
+                    "time": "31'"
+                },
+                {
+                    "assist": "P. Bucha",
+                    "event_type": "Goal",
+                    "player": "K. Denkey",
+                    "score_update": "1 - 0",
+                    "team": "FC Cincinnati",
+                    "time": "40'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Denkey",
+                    "score_update": "2 - 0",
+                    "team": "FC Cincinnati",
+                    "time": "45+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Mehmeti",
+                    "team": "New York Red Bulls",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 2 - 0 New York Red Bulls"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "New York Red Bulls 3 - 1 Pittsburgh Riverhounds"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Inter Miami CF 2 - 2 New York Red Bulls"
+                        }
+                    ],
+                    "team": "New York Red Bulls"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 2 - 0 New York Red Bulls"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "20/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 5 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "New England Revolution 6 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "13/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 3 - 0 Tigres"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 0 - 1 Toronto FC"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS",
+                        "date": "04/04/2026",
+                        "teams_and_score": "New York Red Bulls 4 - 2 FC Cincinnati"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "04/10/2025",
+                        "teams_and_score": "New York Red Bulls 0 - 1 FC Cincinnati"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "20/07/2024",
+                        "teams_and_score": "New York Red Bulls 3 - 1 FC Cincinnati"
+                    },
+                    {
+                        "competition": "MLS: Play-off",
+                        "date": "04/11/2023",
+                        "teams_and_score": "New York Red Bulls 1 - 1 FC Cincinnati"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "04/10/2023",
+                        "teams_and_score": "FC Cincinnati 1 - 2 New York Red Bulls"
+                    },
+                    {
+                        "competition": "US Open Cup",
+                        "date": "23/05/2023",
+                        "teams_and_score": "New York Red Bulls 1 - 1 FC Cincinnati"
+                    }
+                ],
+                "summary": {
+                    "FC Cincinnati_wins": "1",
+                    "New York Red Bulls_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "FC Cincinnati": "48%",
+                    "New York Red Bulls": "52%"
+                },
+                "corners": {
+                    "FC Cincinnati": "4",
+                    "New York Red Bulls": "7"
+                },
+                "fouls": {
+                    "FC Cincinnati": "9",
+                    "New York Red Bulls": "15"
+                },
+                "goalkeeper_saves": {
+                    "FC Cincinnati": "6",
+                    "New York Red Bulls": "3"
+                },
+                "offsides": {
+                    "FC Cincinnati": "1",
+                    "New York Red Bulls": "0"
+                },
+                "shots_blocked": {
+                    "FC Cincinnati": "3",
+                    "New York Red Bulls": "3"
+                },
+                "shots_off_target": {
+                    "FC Cincinnati": "7",
+                    "New York Red Bulls": "10"
+                },
+                "shots_on_target": {
+                    "FC Cincinnati": "5",
+                    "New York Red Bulls": "6"
+                },
+                "yellow_cards": {
+                    "FC Cincinnati": "1",
+                    "New York Red Bulls": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-cincinnati-red-bull-new-york-2026-04-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1602.webp",
+                    "name": "New York Red Bulls",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-cincinnati-red-bull-new-york-2026-04-26-SZ3w.webp",
+            "title": "FC Cincinnati - Red Bull New York"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 9, 2026",
+            "description": "Watch FC Cincinnati vs Toronto FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 9, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Echenique",
+                    "team": "FC Cincinnati",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Kuscevic",
+                    "team": "Toronto FC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Cifuentes",
+                    "team": "Toronto FC",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Hagglund",
+                    "team": "FC Cincinnati",
+                    "time": "61'"
+                },
+                {
+                    "assist": "R. Laryea",
+                    "event_type": "Goal",
+                    "player": "D. Salloi",
+                    "score_update": "0 - 1",
+                    "team": "Toronto FC",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 0 - 1 Toronto FC"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "11/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Fredrikstad 1 - 0 Toronto FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "18/10/2025",
+                            "result": "W",
+                            "teams_and_score": "Toronto FC 4 - 2 Orlando City"
+                        }
+                    ],
+                    "team": "Toronto FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 0 - 1 Toronto FC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 9 - 0 O&M FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 2 - 0 Atlanta United"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "19/02/2026",
+                            "result": "W",
+                            "teams_and_score": "O&M FC 0 - 4 FC Cincinnati"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "23/11/2025",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 0 - 4 Inter Miami CF"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "14/05/2025",
+                        "teams_and_score": "Toronto FC 0 - 1 FC Cincinnati"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "25/05/2024",
+                        "teams_and_score": "Toronto FC 3 - 4 FC Cincinnati"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "30/09/2023",
+                        "teams_and_score": "Toronto FC 2 - 3 FC Cincinnati"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "04/05/2022",
+                        "teams_and_score": "FC Cincinnati 2 - 0 Toronto FC"
+                    },
+                    {
+                        "competition": "Major League Soccer 2021",
+                        "date": "29/09/2021",
+                        "teams_and_score": "Toronto FC 3 - 2 FC Cincinnati"
+                    }
+                ],
+                "summary": {
+                    "FC Cincinnati_wins": "4",
+                    "Toronto FC_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "FC Cincinnati": "57%",
+                    "Toronto FC": "43%"
+                },
+                "corners": {
+                    "FC Cincinnati": "7",
+                    "Toronto FC": "8"
+                },
+                "fouls": {
+                    "FC Cincinnati": "14",
+                    "Toronto FC": "11"
+                },
+                "goalkeeper_saves": {
+                    "FC Cincinnati": "4",
+                    "Toronto FC": "2"
+                },
+                "offsides": {
+                    "FC Cincinnati": "1",
+                    "Toronto FC": "0"
+                },
+                "shots_blocked": {
+                    "FC Cincinnati": "6",
+                    "Toronto FC": "2"
+                },
+                "shots_off_target": {
+                    "FC Cincinnati": "6",
+                    "Toronto FC": "4"
+                },
+                "shots_on_target": {
+                    "FC Cincinnati": "2",
+                    "Toronto FC": "5"
+                },
+                "yellow_cards": {
+                    "FC Cincinnati": "2",
+                    "Toronto FC": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-cincinnati-toronto-fc-2026-03-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1601.webp",
+                    "name": "Toronto FC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-cincinnati-toronto-fc-2026-03-09-8TtT.webp",
+            "title": "FC Cincinnati - Toronto FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Feb 22, 2026",
+            "description": "Watch FC Cincinnati vs Atlanta United FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on February 22, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-cincinnati-vs-atlanta-united-fc-2026-02-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-cincinnati-vs-atlanta-united-fc-2026-02-22-bP3r.webp",
+            "title": "FC Cincinnati vs Atlanta United FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Nov 23, 2025",
+            "description": "Watch FC Cincinnati vs Inter Miami highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on November 23, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-cincinnati-vsy2yy3_qrJo0.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-cincinnati-vs-inter-miami-2025-11-23-uCa2.webp",
+            "title": "FC Cincinnati vs Inter Miami"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Jul 23, 2026",
+            "description": "Watch FC Cincinnati vs Vancouver Whitecaps highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on July 23, 2026. The stadium was charged with anticipation as two Major League Soccer sides prepared for a clash that promised to test defensive resolve at every turn. On July 23, 2026, the pitch played host to a tactical and technical battle, defined by an unrelenting sequence of momentum shifts. An Electric Start The game began at a breakneck pace, with FC Cincinnati and the Vancouver Whitecaps showing clear attacking intent from the opening whistle. Just 9 minutes in, Pavel Bucha opened the scoring following an assist from Samuel Gidi , triggering a frenetic sequence of play. The visitors responded quickly as Jeevan Badwal leveled the score in the 12th minute off a Bruno Caicedo pass. The balance did not last, as Ryan Gauld put the Whitecaps ahead in the 25th minute, but Kevin Denkey and later Evander Ferreira ensured the intensity remained at a fever pitch throughout the first half. Second-Half Momentum Following the interval, the game’s dynamic retained its pattern of constant danger. Pavel Bucha struck again in the 56th minute, assisted by Evander Ferreira , to pull the sides level once more. The Whitecaps fired back through Ryan Gauld , who netted his second of the match in the 58th minute from a Jeevan Badwal delivery. The remainder of the second half saw a flurry of tactical substitutions and physical battles, with players like Brian White and Andres Cubas picking up yellow cards, highlighting the sheer desperation and combativeness needed to navigate the closing stages of this high-scoring thriller.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Blackmon",
+                    "team": "Vancouver Whitecaps",
+                    "time": "1'"
+                },
+                {
+                    "assist": "S. Gidi",
+                    "event_type": "Goal",
+                    "player": "P. Bucha",
+                    "score_update": "1 - 0",
+                    "team": "FC Cincinnati",
+                    "time": "16'"
+                },
+                {
+                    "assist": "B. Caicedo",
+                    "event_type": "Goal",
+                    "player": "J. Badwal",
+                    "score_update": "1 - 1",
+                    "team": "Vancouver Whitecaps",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Laborda",
+                    "team": "Vancouver Whitecaps",
+                    "time": "46'"
+                },
+                {
+                    "assist": "O. Larraz",
+                    "event_type": "Goal",
+                    "player": "R. Gauld",
+                    "score_update": "1 - 2",
+                    "team": "Vancouver Whitecaps",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Denkey",
+                    "score_update": "2 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "76'"
+                },
+                {
+                    "assist": "G. Valenzuela",
+                    "event_type": "Goal",
+                    "player": "Evander",
+                    "score_update": "3 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Bucha",
+                    "team": "FC Cincinnati",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Ocampo",
+                    "team": "Vancouver Whitecaps",
+                    "time": "46'"
+                },
+                {
+                    "assist": "Evander",
+                    "event_type": "Goal",
+                    "player": "P. Bucha",
+                    "score_update": "4 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "61'"
+                },
+                {
+                    "assist": "J. Badwal",
+                    "event_type": "Goal",
+                    "player": "R. Gauld",
+                    "score_update": "4 - 3",
+                    "team": "Vancouver Whitecaps",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Cubas",
+                    "team": "Vancouver Whitecaps",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. White",
+                    "team": "Vancouver Whitecaps",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/07/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 4 - 3 Vancouver Whitecaps"
+                        },
+                        {
+                            "competition": "Canadian Championship",
+                            "date": "14/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Cavalry FC 1 - 1 Vancouver Whitecaps"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "San Diego 2 - 4 Vancouver Whitecaps"
+                        }
+                    ],
+                    "team": "Vancouver Whitecaps"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/07/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 4 - 3 Vancouver Whitecaps"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "10/07/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 3 - 1 Burnley"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "23/05/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 6 - 2 Orlando City"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2023",
+                        "date": "11/06/2023",
+                        "teams_and_score": "Vancouver Whitecaps 1 - 1 FC Cincinnati"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "14/07/2022",
+                        "teams_and_score": "FC Cincinnati 2 - 2 Vancouver Whitecaps"
+                    },
+                    {
+                        "competition": "Major League Soccer",
+                        "date": "04/08/2019",
+                        "teams_and_score": "FC Cincinnati 1 - 2 Vancouver Whitecaps"
+                    }
+                ],
+                "summary": {
+                    "FC Cincinnati_wins": "0",
+                    "Vancouver Whitecaps_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "FC Cincinnati": "38%",
+                    "Vancouver Whitecaps": "62%"
+                },
+                "corners": {
+                    "FC Cincinnati": "1",
+                    "Vancouver Whitecaps": "3"
+                },
+                "fouls": {
+                    "FC Cincinnati": "12",
+                    "Vancouver Whitecaps": "13"
+                },
+                "goalkeeper_saves": {
+                    "FC Cincinnati": "3",
+                    "Vancouver Whitecaps": "2"
+                },
+                "offsides": {
+                    "FC Cincinnati": "0",
+                    "Vancouver Whitecaps": "3"
+                },
+                "shots_blocked": {
+                    "FC Cincinnati": "3",
+                    "Vancouver Whitecaps": "6"
+                },
+                "shots_off_target": {
+                    "FC Cincinnati": "1",
+                    "Vancouver Whitecaps": "7"
+                },
+                "shots_on_target": {
+                    "FC Cincinnati": "6",
+                    "Vancouver Whitecaps": "6"
+                },
+                "yellow_cards": {
+                    "FC Cincinnati": "1",
+                    "Vancouver Whitecaps": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-cincinnati-vs-vancouver-whitecaps-2026-07-23_xe5La.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1603.webp",
+                    "name": "Vancouver Whitecaps",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-cincinnati-vs-vancouver-whitecaps-2026-07-23-1xRL.webp",
+            "title": "FC Cincinnati vs Vancouver Whitecaps"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 1, 2026",
+            "description": "Watch Minnesota United FC vs FC Cincinnati highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 1, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Duggan",
+                    "team": "Minnesota United FC",
+                    "time": "59'"
+                },
+                {
+                    "assist": "T. Chancalay",
+                    "event_type": "Goal",
+                    "player": "K. Yeboah",
+                    "score_update": "1 - 0",
+                    "team": "Minnesota United FC",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Diaz",
+                    "team": "Minnesota United FC",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Minnesota United 1 - 0 FC Cincinnati"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 9 - 0 O&M FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 2 - 0 Atlanta United"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "19/02/2026",
+                            "result": "W",
+                            "teams_and_score": "O&M FC 0 - 4 FC Cincinnati"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "23/11/2025",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 0 - 4 Inter Miami CF"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Minnesota United 1 - 0 FC Cincinnati"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "25/11/2025",
+                            "result": "L",
+                            "teams_and_score": "San Diego 1 - 0 Minnesota United"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "19/10/2025",
+                            "result": "L",
+                            "teams_and_score": "LA Galaxy 2 - 1 Minnesota United"
+                        }
+                    ],
+                    "team": "Minnesota United FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2024",
+                        "date": "19/09/2024",
+                        "teams_and_score": "Minnesota United 1 - 2 FC Cincinnati"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "08/05/2022",
+                        "teams_and_score": "Minnesota United 0 - 1 FC Cincinnati"
+                    },
+                    {
+                        "competition": "Major League Soccer",
+                        "date": "24/10/2020",
+                        "teams_and_score": "FC Cincinnati 0 - 1 Minnesota United"
+                    },
+                    {
+                        "competition": "Major League Soccer",
+                        "date": "29/06/2019",
+                        "teams_and_score": "Minnesota United 7 - 1 FC Cincinnati"
+                    },
+                    {
+                        "competition": "US Open Cup",
+                        "date": "06/06/2018",
+                        "teams_and_score": "FC Cincinnati 0 - 0 Minnesota United"
+                    }
+                ],
+                "summary": {
+                    "FC Cincinnati_wins": "1",
+                    "Minnesota United FC_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "FC Cincinnati": "55%",
+                    "Minnesota United FC": "45%"
+                },
+                "corners": {
+                    "FC Cincinnati": "12",
+                    "Minnesota United FC": "5"
+                },
+                "fouls": {
+                    "FC Cincinnati": "6",
+                    "Minnesota United FC": "9"
+                },
+                "goalkeeper_saves": {
+                    "FC Cincinnati": "4",
+                    "Minnesota United FC": "4"
+                },
+                "offsides": {
+                    "FC Cincinnati": "2",
+                    "Minnesota United FC": "1"
+                },
+                "shots_blocked": {
+                    "FC Cincinnati": "5",
+                    "Minnesota United FC": "5"
+                },
+                "shots_off_target": {
+                    "FC Cincinnati": "3",
+                    "Minnesota United FC": "6"
+                },
+                "shots_on_target": {
+                    "FC Cincinnati": "4",
+                    "Minnesota United FC": "5"
+                },
+                "yellow_cards": {
+                    "FC Cincinnati": "0",
+                    "Minnesota United FC": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/minnesota-united-fc-cincinnati-2026-03-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1612.webp",
+                    "name": "Minnesota United FC",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/minnesota-united-fc-cincinnati-2026-03-01-R0Dz.webp",
+            "title": "Minnesota United - FC Cincinnati"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch New England Revolution vs FC Cincinnati highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Langoni",
+                    "team": "New England Revolution",
+                    "time": "17'"
+                },
+                {
+                    "assist": "Evander",
+                    "event_type": "Goal",
+                    "player": "G. Valenzuela",
+                    "score_update": "0 - 1",
+                    "team": "FC Cincinnati",
+                    "time": "20'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Ramirez",
+                    "team": "FC Cincinnati",
+                    "time": "24'"
+                },
+                {
+                    "assist": "L. Langoni",
+                    "event_type": "Goal",
+                    "player": "B. Ceballos",
+                    "score_update": "1 - 1",
+                    "team": "New England Revolution",
+                    "time": "25'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Ceballos",
+                    "team": "New England Revolution",
+                    "time": "28'"
+                },
+                {
+                    "assist": "L. Langoni",
+                    "event_type": "Goal",
+                    "player": "D. Turgeman",
+                    "score_update": "2 - 1",
+                    "team": "New England Revolution",
+                    "time": "32'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Jabbari",
+                    "team": "FC Cincinnati",
+                    "time": "38'"
+                },
+                {
+                    "assist": "L. Langoni",
+                    "event_type": "Goal",
+                    "player": "B. Ceballos",
+                    "score_update": "3 - 1",
+                    "team": "New England Revolution",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Yusuf",
+                    "score_update": "4 - 1",
+                    "team": "New England Revolution",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Polster",
+                    "team": "New England Revolution",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "G. Valenzuela",
+                    "team": "FC Cincinnati",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Yow",
+                    "score_update": "5 - 1",
+                    "team": "New England Revolution",
+                    "time": "91'"
+                },
+                {
+                    "assist": "D. Turgeman",
+                    "event_type": "Goal",
+                    "player": "P. Miller",
+                    "score_update": "6 - 1",
+                    "team": "New England Revolution",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "New England Revolution 6 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "13/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 3 - 0 Tigres"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 0 - 1 Toronto FC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 9 - 0 O&M FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 2 - 0 Atlanta United"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "New England Revolution 6 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "18/10/2025",
+                            "result": "D",
+                            "teams_and_score": "New England Revolution 2 - 2 Chicago Fire"
+                        }
+                    ],
+                    "team": "New England Revolution"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "14/06/2025",
+                        "teams_and_score": "New England Revolution 0 - 1 FC Cincinnati"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "22/06/2024",
+                        "teams_and_score": "FC Cincinnati 1 - 2 New England Revolution"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "01/07/2023",
+                        "teams_and_score": "FC Cincinnati 2 - 2 New England Revolution"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "03/07/2022",
+                        "teams_and_score": "New England Revolution 2 - 2 FC Cincinnati"
+                    },
+                    {
+                        "competition": "US Open Cup",
+                        "date": "11/05/2022",
+                        "teams_and_score": "New England Revolution 5 - 1 FC Cincinnati"
+                    },
+                    {
+                        "competition": "Major League Soccer 2021",
+                        "date": "22/08/2021",
+                        "teams_and_score": "New England Revolution 4 - 1 FC Cincinnati"
+                    }
+                ],
+                "summary": {
+                    "FC Cincinnati_wins": "1",
+                    "New England Revolution_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "FC Cincinnati": "44%",
+                    "New England Revolution": "56%"
+                },
+                "corners": {
+                    "FC Cincinnati": "3",
+                    "New England Revolution": "1"
+                },
+                "fouls": {
+                    "FC Cincinnati": "14",
+                    "New England Revolution": "15"
+                },
+                "goalkeeper_saves": {
+                    "FC Cincinnati": "2",
+                    "New England Revolution": "7"
+                },
+                "offsides": {
+                    "FC Cincinnati": "1",
+                    "New England Revolution": "4"
+                },
+                "red_cards": {
+                    "FC Cincinnati": "1",
+                    "New England Revolution": "0"
+                },
+                "shots_blocked": {
+                    "FC Cincinnati": "4",
+                    "New England Revolution": "4"
+                },
+                "shots_off_target": {
+                    "FC Cincinnati": "2",
+                    "New England Revolution": "3"
+                },
+                "shots_on_target": {
+                    "FC Cincinnati": "9",
+                    "New England Revolution": "8"
+                },
+                "yellow_cards": {
+                    "FC Cincinnati": "2",
+                    "New England Revolution": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/new-england-revolution-fc-cincinnati-2026-03-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1609.webp",
+                    "name": "New England Revolution",
+                    "score": "6"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/new-england-revolution-fc-cincinnati-2026-03-15-duCF.webp",
+            "title": "New England Revolution - FC Cincinnati"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 23, 2026",
+            "description": "Watch New York City FC vs FC Cincinnati highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 23, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "N. F. Mercau",
+                    "score_update": "1 - 0",
+                    "team": "New York City FC",
+                    "time": "1'"
+                },
+                {
+                    "assist": "E. Echenique",
+                    "event_type": "Goal",
+                    "player": "K. Denkey",
+                    "score_update": "1 - 1",
+                    "team": "FC Cincinnati",
+                    "time": "16'"
+                },
+                {
+                    "assist": "M. Moralez",
+                    "event_type": "Goal",
+                    "player": "N. F. Mercau",
+                    "score_update": "2 - 1",
+                    "team": "New York City FC",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Flores",
+                    "team": "FC Cincinnati",
+                    "time": "50'"
+                },
+                {
+                    "assist": "A. O'Neill",
+                    "event_type": "Goal",
+                    "player": "A. Ojeda",
+                    "score_update": "3 - 1",
+                    "team": "New York City FC",
+                    "time": "53'"
+                },
+                {
+                    "assist": "G. Valenzuela",
+                    "event_type": "Goal",
+                    "player": "K. Denkey",
+                    "score_update": "3 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Smith",
+                    "team": "FC Cincinnati",
+                    "time": "71'"
+                },
+                {
+                    "assist": "A. Ojeda",
+                    "event_type": "Goal",
+                    "player": "T. Magno",
+                    "score_update": "4 - 2",
+                    "team": "New York City FC",
+                    "time": "79'"
+                },
+                {
+                    "assist": "P. Bucha",
+                    "event_type": "Goal",
+                    "player": "A. Chirila",
+                    "score_update": "4 - 3",
+                    "team": "FC Cincinnati",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Evander",
+                    "score_update": "4 - 4",
+                    "team": "FC Cincinnati",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Anunga",
+                    "team": "FC Cincinnati",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "New York City FC 4 - 4 FC Cincinnati"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "20/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 5 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "New England Revolution 6 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "13/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 3 - 0 Tigres"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 0 - 1 Toronto FC"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "New York City FC 4 - 4 FC Cincinnati"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Westchester SC 2 - 5 New York City FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vancouver Whitecaps 2 - 0 New York City FC"
+                        }
+                    ],
+                    "team": "New York City FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "23/08/2025",
+                        "teams_and_score": "FC Cincinnati 0 - 1 New York City FC"
+                    },
+                    {
+                        "competition": "MLS: Play-off",
+                        "date": "09/11/2024",
+                        "teams_and_score": "FC Cincinnati 0 - 0 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "02/10/2024",
+                        "teams_and_score": "New York City FC 3 - 2 FC Cincinnati"
+                    },
+                    {
+                        "competition": "Leagues Cup East Group 1",
+                        "date": "06/08/2024",
+                        "teams_and_score": "FC Cincinnati 4 - 2 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "23/03/2024",
+                        "teams_and_score": "FC Cincinnati 1 - 0 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "26/08/2023",
+                        "teams_and_score": "FC Cincinnati 3 - 0 New York City FC"
+                    }
+                ],
+                "summary": {
+                    "FC Cincinnati_wins": "3",
+                    "New York City FC_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "FC Cincinnati": "45%",
+                    "New York City FC": "55%"
+                },
+                "corners": {
+                    "FC Cincinnati": "4",
+                    "New York City FC": "2"
+                },
+                "fouls": {
+                    "FC Cincinnati": "9",
+                    "New York City FC": "7"
+                },
+                "goalkeeper_saves": {
+                    "FC Cincinnati": "5",
+                    "New York City FC": "1"
+                },
+                "offsides": {
+                    "FC Cincinnati": "2",
+                    "New York City FC": "3"
+                },
+                "shots_blocked": {
+                    "FC Cincinnati": "3",
+                    "New York City FC": "3"
+                },
+                "shots_off_target": {
+                    "FC Cincinnati": "3",
+                    "New York City FC": "5"
+                },
+                "shots_on_target": {
+                    "FC Cincinnati": "6",
+                    "New York City FC": "9"
+                },
+                "yellow_cards": {
+                    "FC Cincinnati": "3",
+                    "New York City FC": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/new-york-city-fc-fc-cincinnati-2026-04-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1604.webp",
+                    "name": "New York City FC",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/new-york-city-fc-fc-cincinnati-2026-04-23-noFD.webp",
+            "title": "New York City FC - FC Cincinnati"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 5, 2026",
+            "description": "Watch New York Red Bulls vs FC Cincinnati highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 5, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/red-bull-new-york-fc-cincinnati-2026-04-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/red-bull-new-york-fc-cincinnati-2026-04-05-rh7p.webp",
+            "title": "Red Bull New York - FC Cincinnati"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 17, 2026",
+            "description": "Watch San Diego vs FC Cincinnati highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 17, 2026. The match held on May 17, 2026, showcased high-stakes competitive football as both sides refused to yield in a captivating Major League Soccer fixture. Intense Early Exchanges The encounter began with a flurry of activity, with San Diego FC drawing first blood. In the 11th minute, Kenji Mboma Dem fired home following a setup from Evander Ferreira . FC Cincinnati remained composed and leveled the scores in the 32nd minute, when Marcus Ingvartsen connected with a cross from Kieran Sargeant to ensure the sides headed into the interval on level terms. A Dramatic Finish The second half proved even more volatile. FC Cincinnati surged ahead in the 50th minute as Tom Barlow converted an Evander Ferreira pass. San Diego FC fought back mid-way through the period, as Amahl Pellegrino struck in the 66th minute, assisted by Pedro Soma . As the clock ticked into stoppage time, the game reached a fever pitch. Marcus Ingvartsen sent the home fans into delirium with his 90+6th-minute goal, but there was one final twist: Tom Barlow struck again in the 90+8th minute, assisted by Ayoub Jabbari , to snatch a share of the spoils in a stunning conclusion.",
+            "events_timeline": [
+                {
+                    "assist": "Evander",
+                    "event_type": "Goal",
+                    "player": "K. M. Dem",
+                    "score_update": "0 - 1",
+                    "team": "FC Cincinnati",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Robinson",
+                    "team": "FC Cincinnati",
+                    "time": "16'"
+                },
+                {
+                    "assist": "K. Sargeant",
+                    "event_type": "Goal",
+                    "player": "M. Ingvartsen",
+                    "score_update": "1 - 1",
+                    "team": "San Diego",
+                    "time": "31'"
+                },
+                {
+                    "assist": "Evander",
+                    "event_type": "Goal",
+                    "player": "T. Barlow",
+                    "score_update": "1 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Vazquez",
+                    "team": "San Diego",
+                    "time": "54'"
+                },
+                {
+                    "assist": "P. J. Soma",
+                    "event_type": "Goal",
+                    "player": "A. Pellegrino",
+                    "score_update": "2 - 2",
+                    "team": "San Diego",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Nwobodo",
+                    "team": "FC Cincinnati",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Barlow",
+                    "team": "FC Cincinnati",
+                    "time": "90'"
+                },
+                {
+                    "assist": "A. Saidi",
+                    "event_type": "Goal",
+                    "player": "M. Ingvartsen",
+                    "score_update": "3 - 2",
+                    "team": "San Diego",
+                    "time": "90+6'"
+                },
+                {
+                    "assist": "A. Jabbari",
+                    "event_type": "Goal",
+                    "player": "T. Barlow",
+                    "score_update": "3 - 3",
+                    "team": "FC Cincinnati",
+                    "time": "90+8'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "San Diego 3 - 3 FC Cincinnati"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "San Diego 3 - 3 FC Cincinnati"
+                        }
+                    ],
+                    "team": "San Diego"
+                },
+                "summary": {
+                    "FC Cincinnati_wins": "0",
+                    "San Diego_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "FC Cincinnati": "37%",
+                    "San Diego": "63%"
+                },
+                "corners": {
+                    "FC Cincinnati": "2",
+                    "San Diego": "7"
+                },
+                "fouls": {
+                    "FC Cincinnati": "9",
+                    "San Diego": "8"
+                },
+                "goalkeeper_saves": {
+                    "FC Cincinnati": "2",
+                    "San Diego": "3"
+                },
+                "offsides": {
+                    "FC Cincinnati": "0",
+                    "San Diego": "1"
+                },
+                "shots_blocked": {
+                    "FC Cincinnati": "1",
+                    "San Diego": "4"
+                },
+                "shots_off_target": {
+                    "FC Cincinnati": "1",
+                    "San Diego": "7"
+                },
+                "shots_on_target": {
+                    "FC Cincinnati": "6",
+                    "San Diego": "5"
+                },
+                "yellow_cards": {
+                    "FC Cincinnati": "3",
+                    "San Diego": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/san-diego-fc-fc-cincinnati-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/25484.webp",
+                    "name": "San Diego",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/san-diego-fc-fc-cincinnati-2026-05-17-zQdz.webp",
+            "title": "San Diego FC - FC Cincinnati"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Toronto FC vs FC Cincinnati highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Herrera",
+                    "team": "Toronto FC",
+                    "time": "21'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Tolo",
+                    "team": "FC Cincinnati",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Á. Correa",
+                    "score_update": "0 - 0",
+                    "team": "Toronto FC",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Herrera",
+                    "score_update": "1 - 0",
+                    "team": "Toronto FC",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Aguirre",
+                    "team": "Toronto FC",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Gorriaran",
+                    "team": "Toronto FC",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Roldan",
+                    "team": "FC Cincinnati",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Ragen",
+                    "team": "Toronto FC",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Kingston",
+                    "team": "FC Cincinnati",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 2 - 0 Seattle Sounders FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Houston Dynamo 0 - 1 Seattle Sounders FC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "19/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Seattle Sounders FC 2 - 1 Vancouver Whitecaps"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "San Jose Earthquakes 0 - 1 Seattle Sounders FC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "13/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Vancouver Whitecaps 0 - 3 Seattle Sounders FC"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 2 - 0 Seattle Sounders FC"
+                        },
+                        {
+                            "competition": "Liga MX: Clausura",
+                            "date": "04/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Tijuana 1 - 0 Tigres"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "20/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 5 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "Liga MX: Clausura",
+                            "date": "15/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Tigres 0 - 0 Queretaro FC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "13/03/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 3 - 0 Tigres"
+                        }
+                    ],
+                    "team": "Toronto FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Leagues Cup",
+                        "date": "11/08/2021",
+                        "teams_and_score": "Seattle Sounders FC 3 - 0 Tigres"
+                    },
+                    {
+                        "competition": "CONCACAF Champions League playoff",
+                        "date": "13/03/2013",
+                        "teams_and_score": "Seattle Sounders FC 3 - 1 Tigres"
+                    }
+                ],
+                "summary": {
+                    "FC Cincinnati_wins": "2",
+                    "Toronto FC_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "FC Cincinnati": "43%",
+                    "Toronto FC": "57%"
+                },
+                "corners": {
+                    "FC Cincinnati": "0",
+                    "Toronto FC": "4"
+                },
+                "fouls": {
+                    "FC Cincinnati": "13",
+                    "Toronto FC": "18"
+                },
+                "goalkeeper_saves": {
+                    "FC Cincinnati": "3",
+                    "Toronto FC": "2"
+                },
+                "offsides": {
+                    "FC Cincinnati": "3",
+                    "Toronto FC": "1"
+                },
+                "shots_blocked": {
+                    "FC Cincinnati": "1",
+                    "Toronto FC": "8"
+                },
+                "shots_off_target": {
+                    "FC Cincinnati": "1",
+                    "Toronto FC": "10"
+                },
+                "shots_on_target": {
+                    "FC Cincinnati": "2",
+                    "Toronto FC": "4"
+                },
+                "yellow_cards": {
+                    "FC Cincinnati": "3",
+                    "Toronto FC": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/toronto-fc-fc-cincinnati-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1601.webp",
+                    "name": "Toronto FC",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/toronto-fc-fc-cincinnati-2026-04-11-RFm2.webp",
+            "title": "Toronto FC - FC Cincinnati"
+        }
+    ]
+}

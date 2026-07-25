@@ -1,0 +1,77 @@
+{
+    "team": "Ayr United",
+    "team_logo": "",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Jan 31, 2026",
+            "description": "Watch Ayr United vs Raith Rovers highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on January 31, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/ayr-united-vs-raith-rovers-2026-01-31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/ayr-united-vs-raith-rovers-2026-01-31-JpSO.webp",
+            "title": "Ayr United vs Raith Rovers"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Mar 27, 2026",
+            "description": "Watch Raith Rovers vs Ayr United highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on March 27, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/raith-rovers-vs-ayr-united-2026-03-27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/raith-rovers-vs-ayr-united-2026-03-27-H9yR.webp",
+            "title": "Raith Rovers vs Ayr United"
+        }
+    ]
+}

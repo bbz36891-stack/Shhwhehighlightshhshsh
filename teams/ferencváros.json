@@ -1,0 +1,574 @@
+{
+    "team": "Ferencváros",
+    "team_logo": "https://img.refooty.com/logo/teams/10888.webp",
+    "total_matches": 3,
+    "matches": [
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Mar 12, 2026",
+            "description": "Watch Ferencváros vs SC Braga highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on March 12, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Zachariassen",
+                    "team": "Ferencváros",
+                    "time": "1'"
+                },
+                {
+                    "assist": "L. Joseph",
+                    "event_type": "Goal",
+                    "player": "G. Kanichowsky",
+                    "score_update": "1 - 0",
+                    "team": "Ferencváros",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Arrey-Mbi",
+                    "team": "SC Braga",
+                    "time": "46'"
+                },
+                {
+                    "assist": "C. Makreckis",
+                    "event_type": "Goal",
+                    "player": "L. Joseph",
+                    "score_update": "2 - 0",
+                    "team": "Ferencváros",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Moscardo",
+                    "team": "SC Braga",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Ferencvaros 2 - 0 SC Braga"
+                        },
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "07/03/2026",
+                            "result": "D",
+                            "teams_and_score": "SC Braga 2 - 2 Sporting CP"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Go Ahead Eagles 0 - 0 SC Braga"
+                        },
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "25/01/2026",
+                            "result": "W",
+                            "teams_and_score": "SC Braga 5 - 0 Alverca"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "W",
+                            "teams_and_score": "SC Braga 1 - 0 Nottingham Forest"
+                        }
+                    ],
+                    "team": "SC Braga"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Ferencvaros 2 - 0 SC Braga"
+                        },
+                        {
+                            "competition": "NB I",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Nyiregyhaza Spartacus FC 1 - 3 Ferencvaros"
+                        },
+                        {
+                            "competition": "Cup",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Kazincbarcika SC 0 - 5 Ferencvaros"
+                        },
+                        {
+                            "competition": "NB I",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Ferencvaros 2 - 1 Kazincbarcika SC"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Ferencvaros 2 - 0 Ludogorets Razgrad"
+                        }
+                    ],
+                    "team": "Ferencváros"
+                },
+                "summary": {
+                    "Ferencváros_wins": "0",
+                    "SC Braga_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Ferencváros": "30%",
+                    "SC Braga": "70%"
+                },
+                "corners": {
+                    "Ferencváros": "2",
+                    "SC Braga": "11"
+                },
+                "crosses": {
+                    "Ferencváros": "3",
+                    "SC Braga": "3"
+                },
+                "fouls": {
+                    "Ferencváros": "12",
+                    "SC Braga": "10"
+                },
+                "goalkeeper_saves": {
+                    "Ferencváros": "4",
+                    "SC Braga": "1"
+                },
+                "offsides": {
+                    "Ferencváros": "5",
+                    "SC Braga": "0"
+                },
+                "shots_blocked": {
+                    "Ferencváros": "3",
+                    "SC Braga": "2"
+                },
+                "shots_off_target": {
+                    "Ferencváros": "6",
+                    "SC Braga": "2"
+                },
+                "shots_on_target": {
+                    "Ferencváros": "3",
+                    "SC Braga": "4"
+                },
+                "yellow_cards": {
+                    "Ferencváros": "1",
+                    "SC Braga": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Ferencvaros_v_Braga_2026_03_12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/217.webp",
+                    "name": "SC Braga",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10888.webp",
+                    "name": "Ferencváros",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/ferencvaros-v-braga-2026-03-12-39f9.webp",
+            "title": "Ferencvaros vs Braga"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Jan 29, 2026",
+            "description": "Watch Nottingham Forest vs Ferencváros highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on January 29, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "B. Otvos",
+                    "team": "Nottingham Forest",
+                    "time": "1'"
+                },
+                {
+                    "assist": "R. Yates",
+                    "event_type": "Goal",
+                    "player": "I. Jesus",
+                    "score_update": "2 - 0",
+                    "team": "Nottingham Forest",
+                    "time": "16'"
+                },
+                {
+                    "assist": "I. Sangaré",
+                    "event_type": "Goal",
+                    "player": "I. Jesus",
+                    "score_update": "3 - 0",
+                    "team": "Nottingham Forest",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Domínguez",
+                    "team": "Nottingham Forest",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Otvos",
+                    "team": "Ferencváros",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. McAtee",
+                    "score_update": "4 - 0",
+                    "team": "Nottingham Forest",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Nottingham Forest 4 - 0 Ferencvaros"
+                        },
+                        {
+                            "competition": "NB I",
+                            "date": "25/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Ferencvaros 1 - 3 Gyori ETO"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Ferencvaros 1 - 1 Panathinaikos"
+                        },
+                        {
+                            "competition": "NB I",
+                            "date": "19/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Diosgyori VTK 0 - 1 Ferencvaros"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "11/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Ferencvaros 2 - 1 Rangers"
+                        }
+                    ],
+                    "team": "Ferencváros"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Nottingham Forest 4 - 0 Ferencvaros"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "25/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Brentford 0 - 2 Nottingham Forest"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "L",
+                            "teams_and_score": "SC Braga 1 - 0 Nottingham Forest"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "17/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Nottingham Forest 0 - 0 Arsenal"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "09/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Wrexham 3 - 3 Nottingham Forest"
+                        }
+                    ],
+                    "team": "Nottingham Forest"
+                },
+                "summary": {
+                    "Ferencváros_wins": "0",
+                    "Nottingham Forest_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Ferencváros": "45%",
+                    "Nottingham Forest": "55%"
+                },
+                "corners": {
+                    "Ferencváros": "4",
+                    "Nottingham Forest": "6"
+                },
+                "crosses": {
+                    "Ferencváros": "3",
+                    "Nottingham Forest": "7"
+                },
+                "fouls": {
+                    "Ferencváros": "14",
+                    "Nottingham Forest": "10"
+                },
+                "goalkeeper_saves": {
+                    "Ferencváros": "7",
+                    "Nottingham Forest": "2"
+                },
+                "offsides": {
+                    "Ferencváros": "1",
+                    "Nottingham Forest": "0"
+                },
+                "shots_blocked": {
+                    "Ferencváros": "2",
+                    "Nottingham Forest": "4"
+                },
+                "shots_off_target": {
+                    "Ferencváros": "4",
+                    "Nottingham Forest": "6"
+                },
+                "shots_on_target": {
+                    "Ferencváros": "3",
+                    "Nottingham Forest": "10"
+                },
+                "yellow_cards": {
+                    "Ferencváros": "1",
+                    "Nottingham Forest": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Nottingham_Forest_v_Ferencvaros_2026_01_29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10888.webp",
+                    "name": "Ferencváros",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/65.webp",
+                    "name": "Nottingham Forest",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nottingham-forest-v-ferencvaros-2026-01-29-KmlF.webp",
+            "title": "Nottingham Forest vs Ferencvaros"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Jul 23, 2026",
+            "description": "Watch Twente vs Ferencváros highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on July 23, 2026. The UEFA Europa League clash between Twente and Ferencváros on July 23, 2026, delivered a captivating display of European football, characterized by tactical discipline and clinical finishing. Both sides entered the arena knowing that momentum in the group stages is hard to win but easy to lose, setting the stage for a fiercely contested battle. Early Breakthrough and Twente’s Response Ferencváros made their intentions clear from the opening whistle, playing with a directness that troubled the hosts. Their early dominance paid dividends in the 14th minute when Kristoffer Zachariassen carved open the defense with a brilliant pass to Lenny Joseph . The forward made no mistake, firing his shot home to give the visitors an early lead. The goal sparked the home crowd into life, and Twente began to monopolize possession in search of a way back into the game. That equalizer eventually arrived in the 38th minute, capping off a period of sustained pressure from the Dutch side. Sondre Oerjasaeter provided a perfectly weighted assist for Aske Adelgaard , who kept his composure to slot the ball into the net. The match remained balanced as the referee blew for half-time, with both teams having everything to play for in the second period. Joseph Seals the Victory The second half saw a series of tactical adjustments as both managers looked to break the deadlock. Twente introduced fresh legs in the form of Mathias Kjoeloe and Younes Taha , while Ferencváros countered by bringing on Callum O'Dowda . It was the latter substitution that proved to be a masterstroke. The game tightened up, with few clear-cut chances until the final ten minutes when the decisive blow was struck. In the 80th minute, Callum O'Dowda turned provider, finding Lenny Joseph in the box with a precise cross. Joseph clinical finish marked his second goal of the night and restored the lead for Ferencváros . Despite a late flurry of activity and deep into four minutes of stoppage time, Twente could not find a second equalizer. The final whistle confirmed a vital away win for the Hungarian champions, leaving the home fans disappointed after a valiant effort.",
+            "events_timeline": [
+                {
+                    "assist": "K. Zachariassen",
+                    "event_type": "Goal",
+                    "player": "L. Joseph",
+                    "score_update": "0 - 1",
+                    "team": "Ferencváros",
+                    "time": "1'"
+                },
+                {
+                    "assist": "S. Orjasaeter",
+                    "event_type": "Goal",
+                    "player": "A. Adelgaard",
+                    "score_update": "1 - 1",
+                    "team": "Twente",
+                    "time": "16'"
+                },
+                {
+                    "assist": "C. O'Dowda",
+                    "event_type": "Goal",
+                    "player": "L. Joseph",
+                    "score_update": "1 - 2",
+                    "team": "Ferencváros",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification",
+                            "date": "23/07/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Twente 1 - 2 Ferencvaros"
+                        },
+                        {
+                            "competition": "NB I",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Ferencvaros 3 - 0 Zalaegerszeg"
+                        },
+                        {
+                            "competition": "Cup",
+                            "date": "09/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Ferencvaros 1 - 0 Zalaegerszeg"
+                        },
+                        {
+                            "competition": "NB I",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Ujpest 0 - 5 Ferencvaros"
+                        },
+                        {
+                            "competition": "Cup",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Ferencvaros 2 - 2 Gyori ETO"
+                        }
+                    ],
+                    "team": "Ferencváros"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification",
+                            "date": "23/07/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Twente 1 - 2 Ferencvaros"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "18/07/2026",
+                            "result": "D",
+                            "teams_and_score": "FC Twente 2 - 2 Gent"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "PSV Eindhoven 5 - 1 FC Twente"
+                        }
+                    ],
+                    "team": "Twente"
+                },
+                "summary": {
+                    "Ferencváros_wins": "0",
+                    "Twente_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Ferencváros": "31%",
+                    "Twente": "69%"
+                },
+                "corners": {
+                    "Ferencváros": "4",
+                    "Twente": "4"
+                },
+                "crosses": {
+                    "Ferencváros": "2",
+                    "Twente": "7"
+                },
+                "fouls": {
+                    "Ferencváros": "7",
+                    "Twente": "11"
+                },
+                "goalkeeper_saves": {
+                    "Ferencváros": "6",
+                    "Twente": "0"
+                },
+                "offsides": {
+                    "Ferencváros": "1",
+                    "Twente": "0"
+                },
+                "shots_blocked": {
+                    "Ferencváros": "1",
+                    "Twente": "7"
+                },
+                "shots_off_target": {
+                    "Ferencváros": "6",
+                    "Twente": "4"
+                },
+                "shots_on_target": {
+                    "Ferencváros": "2",
+                    "Twente": "7"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/twente-vs-ferencvaros-2026-07-23_n2EsU.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10888.webp",
+                    "name": "Ferencváros",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/415.webp",
+                    "name": "Twente",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/twente-vs-ferencvaros-2026-07-23-kJOB.webp",
+            "title": "Twente vs Ferencváros"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "team": "Estudiantes",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 24, 2026",
+            "description": "Watch CA Estudiantes vs Central Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 24, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/estudiantes-central-cordoba-2026-03-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/estudiantes-central-cordoba-2026-03-24-UJXy.webp",
+            "title": "Estudiantes - Central Córdoba"
+        }
+    ]
+}

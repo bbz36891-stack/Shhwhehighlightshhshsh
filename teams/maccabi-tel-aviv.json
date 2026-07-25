@@ -1,0 +1,112 @@
+{
+    "team": "Maccabi Tel Aviv",
+    "team_logo": "https://img.refooty.com/logo/teams/604.webp",
+    "total_matches": 3,
+    "matches": [
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Nov 6, 2025",
+            "description": "Watch Aston Villa vs Maccabi Tel Aviv highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on November 6, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Maccabi Tel Aviv"
+                },
+                "home_team_form": {
+                    "team": "Aston Villa"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Aston_Villa_v_Maccabi_Tel_Aviv_2025_11_06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/604.webp",
+                    "name": "Maccabi Tel Aviv",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/66.webp",
+                    "name": "Aston Villa",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aston-villa-v-maccabi-tel-aviv-2025-11-06.webp",
+            "title": "Aston Villa vs Maccabi Tel Aviv"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Nov 27, 2025",
+            "description": "Watch Maccabi Tel Aviv vs Lyon highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on November 27, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Maccabi_v_Lyon_2025_11_27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/maccabi-v-lyon-2025-11-27.webp",
+            "title": "Maccabi Tel Aviv vs Olympique Lyonnais"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Dec 11, 2025",
+            "description": "Watch VfB Stuttgart vs Maccabi Tel Aviv highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on December 11, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Stuttgart_v_Maccabi_2025_12_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/stuttgart-v-maccabi-2025-12-11.webp",
+            "title": "VfB Stuttgart vs Maccabi Tel Aviv"
+        }
+    ]
+}

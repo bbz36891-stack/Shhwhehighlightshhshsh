@@ -1,0 +1,77 @@
+{
+    "team": "KuPS",
+    "team_logo": "https://img.refooty.com/logo/teams/1165.webp",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "UEFA Europa Conference League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-conference-league.webp",
+            "date": "Dec 18, 2025",
+            "description": "Watch Crystal Palace vs KuPS highlights and goals from UEFA Europa Conference League on ReFooty: Football Highlights Hub. Match played on December 18, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "KuPS"
+                },
+                "home_team_form": {
+                    "team": "Crystal Palace"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Crystal_Palace_v_KuPS_2025_12_18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1165.webp",
+                    "name": "KuPS",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/52.webp",
+                    "name": "Crystal Palace",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/crystal-palace-v-kups-2025-12-18.webp",
+            "title": "Crystal Palace vs KuPS"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Jul 14, 2026",
+            "description": "Watch KuPS vs Vardar Skopje highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on July 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kups-vs-vardar-skopje-2026-07-14_WhHxP.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kups-vs-vardar-skopje-2026-07-14-ZXXM.webp",
+            "title": "KuPS vs Vardar Skopje"
+        }
+    ]
+}

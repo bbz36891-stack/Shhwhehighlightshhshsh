@@ -1,0 +1,918 @@
+{
+    "team": "Norwich",
+    "team_logo": "https://img.refooty.com/logo/teams/71.webp",
+    "total_matches": 7,
+    "matches": [
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Apr 6, 2026",
+            "description": "Watch Millwall vs Norwich highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on April 6, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Córdoba",
+                    "team": "Norwich",
+                    "time": "1'"
+                },
+                {
+                    "assist": "C. D. Norre",
+                    "event_type": "Goal",
+                    "player": "M. Ivanovic",
+                    "score_update": "1 - 0",
+                    "team": "Millwall",
+                    "time": "46'"
+                },
+                {
+                    "assist": "M. Toure",
+                    "event_type": "Goal",
+                    "player": "P. Mattsson",
+                    "score_update": "1 - 1",
+                    "team": "Norwich",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Toure",
+                    "event_type": "Goal",
+                    "player": "O. Schwartau",
+                    "score_update": "1 - 2",
+                    "team": "Norwich",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Bryan",
+                    "team": "Millwall",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Schwartau",
+                    "team": "Norwich",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "06/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Millwall 1 - 2 Norwich City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 3 - 0 Norwich City"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Leicester City 0 - 2 Norwich City"
+                        }
+                    ],
+                    "team": "Norwich"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "06/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Millwall 1 - 2 Norwich City"
+                        }
+                    ],
+                    "team": "Millwall"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "09/08/2025",
+                        "teams_and_score": "Norwich City 1 - 2 Millwall"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "21/04/2025",
+                        "teams_and_score": "Millwall 3 - 1 Norwich City"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "29/12/2023",
+                        "teams_and_score": "Millwall 1 - 0 Norwich City"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "04/03/2023",
+                        "teams_and_score": "Millwall 2 - 3 Norwich City"
+                    },
+                    {
+                        "competition": "Championship 20/21",
+                        "date": "02/02/2021",
+                        "teams_and_score": "Millwall 0 - 0 Norwich City"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "02/03/2019",
+                        "teams_and_score": "Millwall 1 - 3 Norwich City"
+                    }
+                ],
+                "summary": {
+                    "Millwall_wins": "3",
+                    "Norwich_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Millwall": "47%",
+                    "Norwich": "54%"
+                },
+                "corners": {
+                    "Millwall": "2",
+                    "Norwich": "5"
+                },
+                "crosses": {
+                    "Millwall": "5",
+                    "Norwich": "4"
+                },
+                "fouls": {
+                    "Millwall": "12",
+                    "Norwich": "7"
+                },
+                "goalkeeper_saves": {
+                    "Millwall": "3",
+                    "Norwich": "1"
+                },
+                "offsides": {
+                    "Millwall": "4",
+                    "Norwich": "3"
+                },
+                "shots_blocked": {
+                    "Millwall": "2",
+                    "Norwich": "4"
+                },
+                "shots_off_target": {
+                    "Millwall": "6",
+                    "Norwich": "3"
+                },
+                "shots_on_target": {
+                    "Millwall": "2",
+                    "Norwich": "5"
+                },
+                "yellow_cards": {
+                    "Millwall": "1",
+                    "Norwich": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/millwall-vs-norwich-2026-04-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/71.webp",
+                    "name": "Norwich",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/58.webp",
+                    "name": "Millwall",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/millwall-vs-norwich-2026-04-06-2jze.webp",
+            "title": "Millwall vs Norwich"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 21, 2026",
+            "description": "Watch Norwich vs Birmingham highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 21, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/norwich-vs-birmingham-2026-02-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/norwich-vs-birmingham-2026-02-21-tVfW.webp",
+            "title": "Norwich vs Birmingham"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Apr 21, 2026",
+            "description": "Watch Norwich vs Derby highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on April 21, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Toure",
+                    "score_update": "0 - 0",
+                    "team": "Norwich",
+                    "time": "9'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. B. Díaz",
+                    "team": "Derby",
+                    "time": "19'"
+                },
+                {
+                    "assist": "F. Amankwah",
+                    "event_type": "Goal",
+                    "player": "M. Toure",
+                    "score_update": "1 - 0",
+                    "team": "Norwich",
+                    "time": "33'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Toure",
+                    "team": "Norwich",
+                    "time": "45+5'"
+                },
+                {
+                    "assist": "C. Morris",
+                    "event_type": "Goal",
+                    "player": "D. Ozoh",
+                    "score_update": "1 - 1",
+                    "team": "Derby",
+                    "time": "46'"
+                },
+                {
+                    "assist": "P. Maghoma",
+                    "event_type": "Goal",
+                    "player": "L. Gibbs",
+                    "score_update": "2 - 1",
+                    "team": "Norwich",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Kovacevic",
+                    "team": "Norwich",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Travis",
+                    "team": "Derby",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Clarke",
+                    "team": "Derby",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "21/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Norwich City 2 - 1 Derby County"
+                        }
+                    ],
+                    "team": "Derby"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "21/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Norwich City 2 - 1 Derby County"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 3 - 0 Norwich City"
+                        }
+                    ],
+                    "team": "Norwich"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "21/10/2025",
+                        "teams_and_score": "Derby County 1 - 0 Norwich City"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "08/02/2025",
+                        "teams_and_score": "Norwich City 1 - 1 Derby County"
+                    },
+                    {
+                        "competition": "Championship 20/21",
+                        "date": "10/04/2021",
+                        "teams_and_score": "Derby County 0 - 1 Norwich City"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "29/12/2018",
+                        "teams_and_score": "Norwich City 3 - 4 Derby County"
+                    }
+                ],
+                "summary": {
+                    "Derby_wins": "2",
+                    "Norwich_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Derby": "45%",
+                    "Norwich": "55%"
+                },
+                "corners": {
+                    "Derby": "4",
+                    "Norwich": "3"
+                },
+                "crosses": {
+                    "Derby": "2",
+                    "Norwich": "1"
+                },
+                "fouls": {
+                    "Derby": "17",
+                    "Norwich": "9"
+                },
+                "goalkeeper_saves": {
+                    "Derby": "4",
+                    "Norwich": "7"
+                },
+                "offsides": {
+                    "Derby": "5",
+                    "Norwich": "2"
+                },
+                "shots_blocked": {
+                    "Derby": "0",
+                    "Norwich": "3"
+                },
+                "shots_off_target": {
+                    "Derby": "3",
+                    "Norwich": "5"
+                },
+                "shots_on_target": {
+                    "Derby": "8",
+                    "Norwich": "6"
+                },
+                "yellow_cards": {
+                    "Derby": "3",
+                    "Norwich": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/norwich-vs-derby-2026-04-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/69.webp",
+                    "name": "Derby",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/71.webp",
+                    "name": "Norwich",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/norwich-vs-derby-2026-04-21-J9WF.webp",
+            "title": "Norwich vs Derby"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Apr 3, 2026",
+            "description": "Watch Norwich vs Portsmouth highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on April 3, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/norwich-vs-portsmouth-2026-04-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/norwich-vs-portsmouth-2026-04-03-DJKE.webp",
+            "title": "Norwich vs Portsmouth"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 26, 2026",
+            "description": "Watch Norwich vs Sheffield Wednesday highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 26, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Kvistgaarden",
+                    "score_update": "1 - 0",
+                    "team": "Norwich",
+                    "time": "1'"
+                },
+                {
+                    "assist": "J. Wright",
+                    "event_type": "Goal",
+                    "player": "P. Maghoma",
+                    "score_update": "2 - 0",
+                    "team": "Norwich",
+                    "time": "16'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "25/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Norwich City 2 - 0 Sheffield Wednesday"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Sheffield Wednesday 0 - 2 Brentford"
+                        }
+                    ],
+                    "team": "Sheffield Wednesday"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "25/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Norwich City 2 - 0 Sheffield Wednesday"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Norwich City 3 - 1 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Oxford United 0 - 3 Norwich City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Norwich City 5 - 1 Walsall"
+                        }
+                    ],
+                    "team": "Norwich"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "05/11/2025",
+                        "teams_and_score": "Sheffield Wednesday 1 - 1 Norwich City"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "11/03/2025",
+                        "teams_and_score": "Norwich City 2 - 3 Sheffield Wednesday"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "09/04/2024",
+                        "teams_and_score": "Sheffield Wednesday 2 - 2 Norwich City"
+                    },
+                    {
+                        "competition": "Championship 20/21",
+                        "date": "14/03/2021",
+                        "teams_and_score": "Sheffield Wednesday 1 - 2 Norwich City"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "19/04/2019",
+                        "teams_and_score": "Norwich City 2 - 2 Sheffield Wednesday"
+                    }
+                ],
+                "summary": {
+                    "Norwich_wins": "1",
+                    "Sheffield Wednesday_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Norwich": "61%",
+                    "Sheffield Wednesday": "40%"
+                },
+                "corners": {
+                    "Norwich": "3",
+                    "Sheffield Wednesday": "4"
+                },
+                "crosses": {
+                    "Norwich": "5",
+                    "Sheffield Wednesday": "2"
+                },
+                "fouls": {
+                    "Norwich": "11",
+                    "Sheffield Wednesday": "4"
+                },
+                "goalkeeper_saves": {
+                    "Norwich": "1",
+                    "Sheffield Wednesday": "4"
+                },
+                "offsides": {
+                    "Norwich": "1",
+                    "Sheffield Wednesday": "3"
+                },
+                "shots_blocked": {
+                    "Norwich": "5",
+                    "Sheffield Wednesday": "1"
+                },
+                "shots_off_target": {
+                    "Norwich": "8",
+                    "Sheffield Wednesday": "2"
+                },
+                "shots_on_target": {
+                    "Norwich": "6",
+                    "Sheffield Wednesday": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/norwich-vs-sheffield-wednesday-2026-02-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/74.webp",
+                    "name": "Sheffield Wednesday",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/71.webp",
+                    "name": "Norwich",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/norwich-vs-sheffield-wednesday-2026-02-26-dsbj.webp",
+            "title": "Norwich vs Sheffield Wednesday"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 11, 2026",
+            "description": "Watch Oxford United vs Norwich highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/oxford-united-vs-norwich-2026-02-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/oxford-united-vs-norwich-2026-02-11-wJUb.webp",
+            "title": "Oxford United vs Norwich"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 19, 2026",
+            "description": "Watch Southampton vs Norwich highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 19, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "C. Larin",
+                    "event_type": "Goal",
+                    "player": "F. Azaz",
+                    "score_update": "1 - 0",
+                    "team": "Southampton",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Ben Slimane",
+                    "team": "Norwich",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Stacey",
+                    "team": "Norwich",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Fisher",
+                    "team": "Norwich",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Downes",
+                    "team": "Southampton",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Mattsson",
+                    "team": "Norwich",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Harwood-Bellis",
+                    "team": "Southampton",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Azaz",
+                    "team": "Southampton",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "18/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Southampton 1 - 0 Norwich City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 3 - 0 Norwich City"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Leicester City 0 - 2 Norwich City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Norwich City 3 - 1 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Oxford United 0 - 3 Norwich City"
+                        }
+                    ],
+                    "team": "Norwich"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "18/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Southampton 1 - 0 Norwich City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Fulham 0 - 1 Southampton"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Sheffield Wednesday 1 - 3 Southampton"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Southampton 2 - 1 Leicester City"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Leicester City 3 - 4 Southampton"
+                        }
+                    ],
+                    "team": "Southampton"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "13/12/2025",
+                        "teams_and_score": "Norwich City 2 - 1 Southampton"
+                    },
+                    {
+                        "competition": "EFL Cup: Round 2",
+                        "date": "26/08/2025",
+                        "teams_and_score": "Norwich City 0 - 3 Southampton"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "01/01/2024",
+                        "teams_and_score": "Norwich City 1 - 1 Southampton"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "25/02/2022",
+                        "teams_and_score": "Southampton 2 - 0 Norwich City"
+                    },
+                    {
+                        "competition": "Premier League 19/20",
+                        "date": "19/06/2020",
+                        "teams_and_score": "Norwich City 0 - 3 Southampton"
+                    },
+                    {
+                        "competition": "FA Cup",
+                        "date": "18/01/2017",
+                        "teams_and_score": "Southampton 1 - 0 Norwich City"
+                    }
+                ],
+                "summary": {
+                    "Norwich_wins": "1",
+                    "Southampton_wins": "4",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Norwich": "57%",
+                    "Southampton": "43%"
+                },
+                "corners": {
+                    "Norwich": "6",
+                    "Southampton": "5"
+                },
+                "crosses": {
+                    "Norwich": "3",
+                    "Southampton": "2"
+                },
+                "fouls": {
+                    "Norwich": "13",
+                    "Southampton": "13"
+                },
+                "goalkeeper_saves": {
+                    "Norwich": "3",
+                    "Southampton": "7"
+                },
+                "offsides": {
+                    "Norwich": "0",
+                    "Southampton": "3"
+                },
+                "shots_blocked": {
+                    "Norwich": "4",
+                    "Southampton": "3"
+                },
+                "shots_off_target": {
+                    "Norwich": "3",
+                    "Southampton": "2"
+                },
+                "shots_on_target": {
+                    "Norwich": "7",
+                    "Southampton": "4"
+                },
+                "yellow_cards": {
+                    "Norwich": "4",
+                    "Southampton": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/southampton-vs-norwich-2026-03-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/71.webp",
+                    "name": "Norwich",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/41.webp",
+                    "name": "Southampton",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/southampton-vs-norwich-2026-03-19-oDTD.webp",
+            "title": "Southampton vs Norwich"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "team": "Albania U21",
+    "team_logo": "https://img.refooty.com/logo/teams/8177.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 8, 2026",
+            "description": "Watch Italy U21 vs Albania U21 highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 8, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "G. Calvani",
+                    "score_update": "1 - 0",
+                    "team": "Italy U21",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies U21",
+                            "date": "08/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Italy U21 1 - 0 Albania U21"
+                        }
+                    ],
+                    "team": "Albania U21"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies U21",
+                            "date": "08/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Italy U21 1 - 0 Albania U21"
+                        },
+                        {
+                            "competition": "Qualification: Group E",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sweden U21 0 - 4 Italy U21"
+                        },
+                        {
+                            "competition": "Quarter-Finals",
+                            "date": "22/06/2025",
+                            "result": "L",
+                            "teams_and_score": "Germany U21 3 - 2 Italy U21"
+                        }
+                    ],
+                    "team": "Italy U21"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Friendlies U21",
+                        "date": "11/09/2018",
+                        "teams_and_score": "Italy U21 3 - 1 Albania U21"
+                    },
+                    {
+                        "competition": "EURO U-21 qualification grp. 1",
+                        "date": "11/09/2007",
+                        "teams_and_score": "Albania U21 0 - 1 Italy U21"
+                    }
+                ],
+                "summary": {
+                    "Albania U21_wins": "0",
+                    "Italy U21_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/italy-u21-vs-albania-u21-2026-06-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/8177.webp",
+                    "name": "Albania U21",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/8201.webp",
+                    "name": "Italy U21",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/italy-u21-vs-albania-u21-2026-06-08-yoCS.webp",
+            "title": "Italy U21 vs Albania U21"
+        }
+    ]
+}

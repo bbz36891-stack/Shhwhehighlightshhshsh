@@ -1,0 +1,4586 @@
+{
+    "team": "Leeds",
+    "team_logo": "https://img.refooty.com/logo/teams/63.webp",
+    "total_matches": 34,
+    "matches": [
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Feb 21, 2026",
+            "description": "Watch Aston Villa vs Leeds highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on February 21, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "A. Stach",
+                    "score_update": "0 - 1",
+                    "team": "Leeds",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Bijol",
+                    "team": "Leeds",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Darlow",
+                    "team": "Leeds",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Buendía",
+                    "team": "Aston Villa",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Bogle",
+                    "team": "Leeds",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Abraham",
+                    "score_update": "1 - 1",
+                    "team": "Aston Villa",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Gruev",
+                    "team": "Leeds",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "21/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Aston Villa 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "15/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Chelsea 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Derby County 1 - 3 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Newcastle United 4 - 3 Leeds United"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "21/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Aston Villa 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Aston Villa 1 - 3 Newcastle United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "11/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Aston Villa 1 - 0 Brighton"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Aston Villa 3 - 2 FC Salzburg"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "25/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Newcastle United 0 - 2 Aston Villa"
+                        }
+                    ],
+                    "team": "Aston Villa"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "23/11/2025",
+                        "teams_and_score": "Leeds United 1 - 2 Aston Villa"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "13/01/2023",
+                        "teams_and_score": "Aston Villa 2 - 1 Leeds United"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "17/07/2022",
+                        "teams_and_score": "Aston Villa 1 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "10/03/2022",
+                        "teams_and_score": "Leeds United 0 - 3 Aston Villa"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "27/02/2021",
+                        "teams_and_score": "Leeds United 0 - 1 Aston Villa"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "28/04/2019",
+                        "teams_and_score": "Leeds United 1 - 1 Aston Villa"
+                    }
+                ],
+                "summary": {
+                    "Aston Villa_wins": "5",
+                    "Leeds_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aston Villa": "67%",
+                    "Leeds": "33%"
+                },
+                "corners": {
+                    "Aston Villa": "7",
+                    "Leeds": "2"
+                },
+                "crosses": {
+                    "Aston Villa": "7",
+                    "Leeds": "5"
+                },
+                "fouls": {
+                    "Aston Villa": "11",
+                    "Leeds": "16"
+                },
+                "goalkeeper_saves": {
+                    "Aston Villa": "3",
+                    "Leeds": "3"
+                },
+                "offsides": {
+                    "Aston Villa": "4",
+                    "Leeds": "5"
+                },
+                "shots_blocked": {
+                    "Aston Villa": "5",
+                    "Leeds": "4"
+                },
+                "shots_off_target": {
+                    "Aston Villa": "7",
+                    "Leeds": "6"
+                },
+                "shots_on_target": {
+                    "Aston Villa": "4",
+                    "Leeds": "4"
+                },
+                "yellow_cards": {
+                    "Aston Villa": "1",
+                    "Leeds": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Aston_Villa_v_Leeds_2026_02_21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/66.webp",
+                    "name": "Aston Villa",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aston-villa-v-leeds-2026-02-21-nvLe.webp",
+            "title": "Aston Villa vs Leeds"
+        },
+        {
+            "competition": "FA Cup",
+            "competition_cover": "https://refooty.com/covers/fa-cup.webp",
+            "date": "Feb 15, 2026",
+            "description": "Watch Birmingham vs Leeds highlights and goals from FA Cup on ReFooty: Football Highlights Hub. Match played on February 15, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Solís",
+                    "team": "Birmingham",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Vicente",
+                    "team": "Birmingham",
+                    "time": "16'"
+                },
+                {
+                    "assist": "N. Okafor",
+                    "event_type": "Goal",
+                    "player": "L. Nmecha",
+                    "score_update": "0 - 1",
+                    "team": "Leeds",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "N. Okafor",
+                    "team": "Leeds",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Bogle",
+                    "team": "Leeds",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Roberts",
+                    "score_update": "1 - 1",
+                    "team": "Birmingham",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Klarer",
+                    "team": "Birmingham",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Stansfield",
+                    "score_update": "1 - 0",
+                    "team": "Birmingham",
+                    "time": "PEN 1"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Piroe",
+                    "score_update": "1 - 1",
+                    "team": "Leeds",
+                    "time": "PEN 1"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Ducksch",
+                    "score_update": "2 - 1",
+                    "team": "Birmingham",
+                    "time": "PEN 2"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Calvert-Lewin",
+                    "score_update": "2 - 2",
+                    "team": "Leeds",
+                    "time": "PEN 2"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Doyle",
+                    "score_update": "2 - 2",
+                    "team": "Birmingham",
+                    "time": "PEN 3"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Aaronson",
+                    "score_update": "2 - 3",
+                    "team": "Leeds",
+                    "time": "PEN 3"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Roberts",
+                    "score_update": "2 - 3",
+                    "team": "Birmingham",
+                    "time": "PEN 4"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Longstaff",
+                    "score_update": "2 - 4",
+                    "team": "Leeds",
+                    "time": "PEN 4"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "15/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Chelsea 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Derby County 1 - 3 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Newcastle United 4 - 3 Leeds United"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "15/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 0 - 0 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Cambridge United 2 - 3 Birmingham City"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "04/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Birmingham City 3 - 2 Coventry City"
+                        }
+                    ],
+                    "team": "Birmingham"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "English Football League - Championship 2023/2024",
+                        "date": "01/01/2024",
+                        "teams_and_score": "Leeds United 3 - 0 Birmingham City"
+                    },
+                    {
+                        "competition": "English Football League - Championship 2019/2020",
+                        "date": "29/12/2019",
+                        "teams_and_score": "Birmingham City 4 - 5 Leeds United"
+                    },
+                    {
+                        "competition": "English Football League - Championship 2018/2019",
+                        "date": "06/04/2019",
+                        "teams_and_score": "Birmingham City 1 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "English Football League - Championship 2017/2018",
+                        "date": "30/12/2017",
+                        "teams_and_score": "Birmingham City 1 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "English Football League - Championship 2016/2017",
+                        "date": "03/03/2017",
+                        "teams_and_score": "Birmingham City 1 - 3 Leeds United"
+                    }
+                ],
+                "summary": {
+                    "Birmingham_wins": "2",
+                    "Leeds_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Birmingham": "55%",
+                    "Leeds": "45%"
+                },
+                "corners": {
+                    "Birmingham": "13",
+                    "Leeds": "10"
+                },
+                "crosses": {
+                    "Birmingham": "4",
+                    "Leeds": "4"
+                },
+                "fouls": {
+                    "Birmingham": "15",
+                    "Leeds": "14"
+                },
+                "goalkeeper_saves": {
+                    "Birmingham": "2",
+                    "Leeds": "4"
+                },
+                "offsides": {
+                    "Birmingham": "1",
+                    "Leeds": "3"
+                },
+                "shots_blocked": {
+                    "Birmingham": "5",
+                    "Leeds": "12"
+                },
+                "shots_off_target": {
+                    "Birmingham": "8",
+                    "Leeds": "4"
+                },
+                "shots_on_target": {
+                    "Birmingham": "5",
+                    "Leeds": "3"
+                },
+                "yellow_cards": {
+                    "Birmingham": "3",
+                    "Leeds": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Birmingham_v_Leeds_2026_02_15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/54.webp",
+                    "name": "Birmingham",
+                    "score": "1"
+                },
+                "status": "AET"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/birmingham-v-leeds-2026-02-15-ICgj.webp",
+            "title": "Birmingham vs Leeds"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Apr 22, 2026",
+            "description": "Watch Bournemouth vs Leeds highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on April 22, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. J. Kroupi",
+                    "team": "Bournemouth",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Jimenez",
+                    "team": "Bournemouth",
+                    "time": "16'"
+                },
+                {
+                    "assist": "M. Senesi",
+                    "event_type": "Goal",
+                    "player": "E. J. Kroupi",
+                    "score_update": "1 - 0",
+                    "team": "Bournemouth",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Hill",
+                    "team": "Leeds",
+                    "time": "68'"
+                },
+                {
+                    "assist": "T. Adams",
+                    "event_type": "Goal",
+                    "player": "Rayan",
+                    "score_update": "2 - 1",
+                    "team": "Bournemouth",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "Evanilson",
+                    "team": "Bournemouth",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Evanilson",
+                    "team": "Bournemouth",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Longstaff",
+                    "score_update": "2 - 2",
+                    "team": "Leeds",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "AFC Bournemouth 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "05/04/2026",
+                            "result": "D",
+                            "teams_and_score": "West Ham United 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "21/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Leeds United 0 - 0 Brentford"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Leeds United 3 - 0 Norwich City"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 0 - 1 Sunderland"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "AFC Bournemouth 2 - 2 Leeds United"
+                        }
+                    ],
+                    "team": "Bournemouth"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "27/09/2025",
+                        "teams_and_score": "Leeds United 2 - 2 AFC Bournemouth"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "30/04/2023",
+                        "teams_and_score": "AFC Bournemouth 4 - 1 Leeds United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "20/01/2015",
+                        "teams_and_score": "Leeds United 1 - 0 AFC Bournemouth"
+                    },
+                    {
+                        "competition": "League One",
+                        "date": "08/03/2008",
+                        "teams_and_score": "Leeds United 2 - 0 AFC Bournemouth"
+                    }
+                ],
+                "summary": {
+                    "Bournemouth_wins": "1",
+                    "Leeds_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bournemouth": "60%",
+                    "Leeds": "40%"
+                },
+                "corners": {
+                    "Bournemouth": "12",
+                    "Leeds": "1"
+                },
+                "crosses": {
+                    "Bournemouth": "10",
+                    "Leeds": "2"
+                },
+                "fouls": {
+                    "Bournemouth": "7",
+                    "Leeds": "10"
+                },
+                "goalkeeper_saves": {
+                    "Bournemouth": "2",
+                    "Leeds": "5"
+                },
+                "offsides": {
+                    "Bournemouth": "1",
+                    "Leeds": "1"
+                },
+                "shots_blocked": {
+                    "Bournemouth": "5",
+                    "Leeds": "2"
+                },
+                "shots_off_target": {
+                    "Bournemouth": "5",
+                    "Leeds": "5"
+                },
+                "shots_on_target": {
+                    "Bournemouth": "7",
+                    "Leeds": "3"
+                },
+                "yellow_cards": {
+                    "Bournemouth": "3",
+                    "Leeds": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bournemouth_v_Leeds_2026_04_22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/35.webp",
+                    "name": "Bournemouth",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bournemouth-v-leeds-2026-04-22-IIud.webp",
+            "title": "Bournemouth vs Leeds"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Dec 14, 2025",
+            "description": "Watch Brentford vs Leeds highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on December 14, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Leeds"
+                },
+                "home_team_form": {
+                    "team": "Brentford"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Brentford_v_Leeds_2025_12_14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/55.webp",
+                    "name": "Brentford",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brentford-v-leeds-2025-12-14.webp",
+            "title": "Brentford vs Leeds"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Nov 1, 2025",
+            "description": "Watch Brighton vs Leeds highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on November 1, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Brighton_v_Leeds_2025_11_01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brighton-v-leeds-2025-11-01.webp",
+            "title": "Brighton vs Leeds"
+        },
+        {
+            "competition": "FA Cup",
+            "competition_cover": "https://refooty.com/covers/fa-cup.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch Chelsea vs Leeds highlights and goals from FA Cup on ReFooty: Football Highlights Hub. Match played on April 26, 2026. Enzo Fernandez’s clinical first-half header proved the difference as Chelsea ground out a hard-fought 1-0 victory over Leeds United in the FA Cup. On a high-stakes afternoon at Stamford Bridge on April 26, 2026, the Blues combined flashes of brilliance with defensive grit to overcome their resilient visitors in a match that simmered with tension until the final whistle. First Half: Chelsea Strike After Woodwork Scare The contest began with both sides searching for rhythm, though Leeds nearly snatched an early lead when Ao Tanaka’s direct free kick sailed just wide of the target. Chelsea gradually asserted dominance, controlling 55% of the ball, but they were almost caught out in the 22nd minute. Joao Pedro found himself with a golden chance , only to see his effort rattle the post and bounce clear. That scare served as a wake-up call. Just one minute later, the deadlock was broken. Exploiting a defensive error from Pascal Struijk, Pedro Neto delivered a pinpoint cross into the danger zone. Enzo Fernandez reacted quickest, guiding a powerful header home to record the opening goal of the match . While Joao Pedro’s playmaking proved vital in the build-up, it was Fernandez’s composure that gave the home side the advantage heading into the break. Second Half: Leeds Pressure and Tactical Shifts The second half saw Leeds United emerge with renewed intent. Managerial shifts at the interval saw Joe Rodon and Anton Stach introduced to stabilize the visitors, and they nearly found an equalizer in the 58th minute. Dominic Calvert-Lewin connected with a goal-bound header, but Chelsea keeper Robert Sanchez was well-positioned to make a comfortable save. Chelsea looked to regain control by introducing Cole Palmer and Andrey Santos. Palmer’s arrival added a creative spark, though the football on display became increasingly physical as the minutes ticked down. Both teams struggled with accuracy in the final third, with Tanaka and Stach both seeing efforts fly off-target as the Leeds frustration began to mount. Late Drama and Disciplinary Firefight The final twenty minutes of the sports spectacle were defined by a flurry of cautions as the referee struggled to maintain order. Moises Caicedo, Cole Palmer, and Pedro Neto all saw yellow for Chelsea, while Leeds players Struijk, Ethan Ampadu, Lukas Nmecha, and Jayden Bogle were also booked in a frantic period of play. Despite a late barrage of long throws into the Chelsea box and a nervous defensive blunder by Ampadu that nearly cost Leeds further, the Blues' backline held firm. Tosin Adarabioyo and Trevoh Chalobah provided crucial clearances in stoppage time, while Sanchez commanded his area to intercept a late cross. When the final whistle blew, Chelsea’s narrow lead remained intact, securing their progression in the competition after a bruising encounter.",
+            "events_timeline": [
+                {
+                    "assist": "P. Neto",
+                    "event_type": "Goal",
+                    "player": "E. Fernández",
+                    "score_update": "1 - 0",
+                    "team": "Chelsea",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Caicedo",
+                    "team": "Chelsea",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Struijk",
+                    "team": "Leeds",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Palmer",
+                    "team": "Chelsea",
+                    "time": "77'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Ampadu",
+                    "team": "Leeds",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Nmecha",
+                    "team": "Leeds",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Neto",
+                    "team": "Chelsea",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Bogle",
+                    "team": "Leeds",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "FA Cup: Semi-Finals",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Chelsea 1 - 0 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "AFC Bournemouth 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "05/04/2026",
+                            "result": "D",
+                            "teams_and_score": "West Ham United 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "21/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Leeds United 0 - 0 Brentford"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Leeds United 3 - 0 Norwich City"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "FA Cup: Semi-Finals",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Chelsea 1 - 0 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "21/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Brighton 3 - 0 Chelsea"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Chelsea 7 - 0 Port Vale"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Everton 3 - 0 Chelsea"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Chelsea 0 - 3 Paris Saint-Germain"
+                        }
+                    ],
+                    "team": "Chelsea"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "10/02/2026",
+                        "teams_and_score": "Chelsea 2 - 2 Leeds United"
+                    },
+                    {
+                        "competition": "FA Cup: Round 5 23/24",
+                        "date": "28/02/2024",
+                        "teams_and_score": "Chelsea 3 - 2 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "04/03/2023",
+                        "teams_and_score": "Chelsea 1 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "11/05/2022",
+                        "teams_and_score": "Leeds United 0 - 3 Chelsea"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "13/03/2021",
+                        "teams_and_score": "Leeds United 0 - 0 Chelsea"
+                    },
+                    {
+                        "competition": "League Cup",
+                        "date": "19/12/2012",
+                        "teams_and_score": "Leeds United 1 - 5 Chelsea"
+                    }
+                ],
+                "summary": {
+                    "Chelsea_wins": "4",
+                    "Leeds_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Chelsea": "55%",
+                    "Leeds": "45%"
+                },
+                "corners": {
+                    "Chelsea": "6",
+                    "Leeds": "4"
+                },
+                "crosses": {
+                    "Chelsea": "9",
+                    "Leeds": "14"
+                },
+                "fouls": {
+                    "Chelsea": "14",
+                    "Leeds": "13"
+                },
+                "goalkeeper_saves": {
+                    "Chelsea": "3",
+                    "Leeds": "1"
+                },
+                "offsides": {
+                    "Chelsea": "2",
+                    "Leeds": "0"
+                },
+                "shots_blocked": {
+                    "Chelsea": "3",
+                    "Leeds": "2"
+                },
+                "shots_off_target": {
+                    "Chelsea": "3",
+                    "Leeds": "5"
+                },
+                "shots_on_target": {
+                    "Chelsea": "2",
+                    "Leeds": "3"
+                },
+                "yellow_cards": {
+                    "Chelsea": "3",
+                    "Leeds": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Chelsea_v_Leeds_2026_04_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/49.webp",
+                    "name": "Chelsea",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/chelsea-v-leeds-2026-04-26-yWf3.webp",
+            "title": "Chelsea FC vs Leeds"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch Crystal Palace vs Leeds highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Gudmundsson",
+                    "team": "Leeds",
+                    "time": "26'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Bijol",
+                    "team": "Leeds",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Hughes",
+                    "team": "Crystal Palace",
+                    "time": "44'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Calvert-Lewin",
+                    "score_update": "0 - 0",
+                    "team": "Leeds",
+                    "time": "45'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Glasner",
+                    "team": "Crystal Palace",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Farke",
+                    "team": "Leeds",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "G. Gudmundsson",
+                    "team": "Leeds",
+                    "time": "45+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Johnson",
+                    "team": "Crystal Palace",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "15/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Crystal Palace 0 - 0 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Leeds United 3 - 0 Norwich City"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 0 - 1 Sunderland"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "15/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Chelsea 2 - 2 Leeds United"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "15/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Crystal Palace 0 - 0 Leeds United"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "12/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Crystal Palace 0 - 0 AEK Larnaca"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "05/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Tottenham Hotspur 1 - 3 Crystal Palace"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Crystal Palace 2 - 0 Zrinjski Mostar"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Crystal Palace 1 - 0 Wolves"
+                        }
+                    ],
+                    "team": "Crystal Palace"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "20/12/2025",
+                        "teams_and_score": "Leeds United 4 - 1 Crystal Palace"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "09/04/2023",
+                        "teams_and_score": "Leeds United 1 - 5 Crystal Palace"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "22/07/2022",
+                        "teams_and_score": "Crystal Palace 1 - 1 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "25/04/2022",
+                        "teams_and_score": "Crystal Palace 0 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "08/02/2021",
+                        "teams_and_score": "Leeds United 2 - 0 Crystal Palace"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "09/03/2013",
+                        "teams_and_score": "Crystal Palace 2 - 2 Leeds United"
+                    }
+                ],
+                "summary": {
+                    "Crystal Palace_wins": "1",
+                    "Leeds_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Crystal Palace": "67%",
+                    "Leeds": "34%"
+                },
+                "corners": {
+                    "Crystal Palace": "8",
+                    "Leeds": "3"
+                },
+                "crosses": {
+                    "Crystal Palace": "4",
+                    "Leeds": "5"
+                },
+                "fouls": {
+                    "Crystal Palace": "12",
+                    "Leeds": "11"
+                },
+                "goalkeeper_saves": {
+                    "Crystal Palace": "3",
+                    "Leeds": "0"
+                },
+                "offsides": {
+                    "Crystal Palace": "5",
+                    "Leeds": "2"
+                },
+                "red_cards": {
+                    "Crystal Palace": "0",
+                    "Leeds": "1"
+                },
+                "shots_blocked": {
+                    "Crystal Palace": "7",
+                    "Leeds": "3"
+                },
+                "shots_off_target": {
+                    "Crystal Palace": "5",
+                    "Leeds": "4"
+                },
+                "shots_on_target": {
+                    "Crystal Palace": "0",
+                    "Leeds": "3"
+                },
+                "yellow_cards": {
+                    "Crystal Palace": "2",
+                    "Leeds": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Crystal_Palace_v_Leeds_2026_03_15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/52.webp",
+                    "name": "Crystal Palace",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/crystal-palace-v-leeds-2026-03-15-tKhy.webp",
+            "title": "Crystal Palace vs Leeds"
+        },
+        {
+            "competition": "FA Cup",
+            "competition_cover": "https://refooty.com/covers/fa-cup.webp",
+            "date": "Jan 11, 2026",
+            "description": "Watch Derby vs Leeds highlights and goals from FA Cup on ReFooty: Football Highlights Hub. Match played on January 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Derby_County_v_Leeds_2026_01_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/derby-county-v-leeds-2026-01-11-nkRo.webp",
+            "title": "Derby County vs Leeds"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Jan 26, 2026",
+            "description": "Watch Everton vs Leeds highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on January 26, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "G. Fabbian",
+                    "event_type": "Goal",
+                    "player": "R. Piccoli",
+                    "score_update": "1 - 0",
+                    "team": "Everton",
+                    "time": "1'"
+                },
+                {
+                    "assist": "D. Carlos",
+                    "event_type": "Goal",
+                    "player": "S. Roberto",
+                    "score_update": "1 - 1",
+                    "team": "Leeds",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Brescianini",
+                    "team": "Everton",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. V. Der Brempt",
+                    "team": "Leeds",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Carlos",
+                    "team": "Leeds",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Paz",
+                    "score_update": "1 - 2",
+                    "team": "Leeds",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Paz",
+                    "team": "Leeds",
+                    "time": "77'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Comuzzo",
+                    "team": "Everton",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Kuhn",
+                    "team": "Leeds",
+                    "time": "81'"
+                },
+                {
+                    "assist": "N. Kuhn",
+                    "event_type": "Goal",
+                    "player": "Á. Morata",
+                    "score_update": "1 - 3",
+                    "team": "Leeds",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Á. Morata",
+                    "team": "Leeds",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Al-Muwallad",
+                    "team": "Everton",
+                    "time": "113'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Kang-in",
+                    "team": "Leeds",
+                    "time": "114'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Al-Breik",
+                    "team": "Everton",
+                    "time": "120+1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Kanno",
+                    "score_update": "1 - 0",
+                    "team": "Everton",
+                    "time": "PEN 1"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Heung-min",
+                    "score_update": "1 - 1",
+                    "team": "Leeds",
+                    "time": "PEN 1"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Abdulhamid",
+                    "score_update": "2 - 1",
+                    "team": "Everton",
+                    "time": "PEN 2"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Young-gwon",
+                    "score_update": "2 - 2",
+                    "team": "Leeds",
+                    "time": "PEN 2"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Al Naji",
+                    "score_update": "2 - 2",
+                    "team": "Everton",
+                    "time": "PEN 3"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Gue-sung",
+                    "score_update": "2 - 3",
+                    "team": "Leeds",
+                    "time": "PEN 3"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Ghareeb",
+                    "score_update": "2 - 3",
+                    "team": "Everton",
+                    "time": "PEN 4"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "H. Hee-chan",
+                    "score_update": "2 - 4",
+                    "team": "Leeds",
+                    "time": "PEN 4"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "26/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Derby County 1 - 3 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Newcastle United 4 - 3 Leeds United"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "26/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Sunderland"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Wolves"
+                        }
+                    ],
+                    "team": "Everton"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "18/08/2025",
+                        "teams_and_score": "Leeds United 1 - 0 Everton"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "18/02/2023",
+                        "teams_and_score": "Everton 1 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "12/02/2022",
+                        "teams_and_score": "Everton 3 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "03/02/2021",
+                        "teams_and_score": "Leeds United 1 - 2 Everton"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "01/08/2015",
+                        "teams_and_score": "Leeds United 2 - 0 Everton"
+                    },
+                    {
+                        "competition": "League Cup",
+                        "date": "25/09/2012",
+                        "teams_and_score": "Leeds United 2 - 1 Everton"
+                    },
+                    {
+                        "competition": "Premier League",
+                        "date": "13/04/2004",
+                        "teams_and_score": "Leeds United 1 - 1 Everton"
+                    }
+                ],
+                "summary": {
+                    "Everton_wins": "3",
+                    "Leeds_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Everton": "58%",
+                    "Leeds": "42%"
+                },
+                "corners": {
+                    "Everton": "4",
+                    "Leeds": "4"
+                },
+                "crosses": {
+                    "Everton": "3",
+                    "Leeds": "2"
+                },
+                "fouls": {
+                    "Everton": "9",
+                    "Leeds": "13"
+                },
+                "goalkeeper_saves": {
+                    "Everton": "3",
+                    "Leeds": "2"
+                },
+                "offsides": {
+                    "Everton": "1",
+                    "Leeds": "0"
+                },
+                "shots_blocked": {
+                    "Everton": "4",
+                    "Leeds": "3"
+                },
+                "shots_off_target": {
+                    "Everton": "3",
+                    "Leeds": "7"
+                },
+                "shots_on_target": {
+                    "Everton": "3",
+                    "Leeds": "4"
+                },
+                "yellow_cards": {
+                    "Everton": "0",
+                    "Leeds": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Everton_v_Leeds_2026_01_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/45.webp",
+                    "name": "Everton",
+                    "score": "1"
+                },
+                "status": "AET"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/everton-v-leeds-2026-01-26-3p2Q.webp",
+            "title": "Everton vs Leeds"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Jan 31, 2026",
+            "description": "Watch Leeds vs Arsenal highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on January 31, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "N. Madueke",
+                    "event_type": "Goal",
+                    "player": "M. Zubimendi",
+                    "score_update": "0 - 1",
+                    "team": "Arsenal",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Gudmundsson",
+                    "team": "Leeds",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Darlow",
+                    "team": "Arsenal",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Timber",
+                    "team": "Arsenal",
+                    "time": "46'"
+                },
+                {
+                    "assist": "G. Martinelli",
+                    "event_type": "Goal",
+                    "player": "V. Gyökeres",
+                    "score_update": "0 - 3",
+                    "team": "Arsenal",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Ødegaard",
+                    "event_type": "Goal",
+                    "player": "G. Jesus",
+                    "score_update": "0 - 4",
+                    "team": "Arsenal",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Leeds United 0 - 4 Arsenal"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Arsenal 3 - 2 Kairat Almaty"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "25/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Arsenal 2 - 3 Manchester United"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "20/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Inter 1 - 3 Arsenal"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "17/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Nottingham Forest 0 - 0 Arsenal"
+                        }
+                    ],
+                    "team": "Arsenal"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "31/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 0 - 4 Arsenal"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Derby County 1 - 3 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Newcastle United 4 - 3 Leeds United"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "23/08/2025",
+                        "teams_and_score": "Arsenal 5 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "01/04/2023",
+                        "teams_and_score": "Arsenal 4 - 1 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "08/05/2022",
+                        "teams_and_score": "Arsenal 2 - 1 Leeds United"
+                    },
+                    {
+                        "competition": "EFL Cup 21/22",
+                        "date": "26/10/2021",
+                        "teams_and_score": "Arsenal 2 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "14/02/2021",
+                        "teams_and_score": "Arsenal 4 - 2 Leeds United"
+                    },
+                    {
+                        "competition": "FA Cup 19/20",
+                        "date": "06/01/2020",
+                        "teams_and_score": "Arsenal 1 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "FA Cup",
+                        "date": "09/01/2012",
+                        "teams_and_score": "Arsenal 1 - 0 Leeds United"
+                    }
+                ],
+                "summary": {
+                    "Arsenal_wins": "7",
+                    "Leeds_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Arsenal": "51%",
+                    "Leeds": "49%"
+                },
+                "corners": {
+                    "Arsenal": "12",
+                    "Leeds": "4"
+                },
+                "crosses": {
+                    "Arsenal": "8",
+                    "Leeds": "1"
+                },
+                "fouls": {
+                    "Arsenal": "7",
+                    "Leeds": "10"
+                },
+                "goalkeeper_saves": {
+                    "Arsenal": "1",
+                    "Leeds": "4"
+                },
+                "offsides": {
+                    "Arsenal": "1",
+                    "Leeds": "0"
+                },
+                "shots_blocked": {
+                    "Arsenal": "2",
+                    "Leeds": "1"
+                },
+                "shots_off_target": {
+                    "Arsenal": "4",
+                    "Leeds": "1"
+                },
+                "shots_on_target": {
+                    "Arsenal": "8",
+                    "Leeds": "1"
+                },
+                "yellow_cards": {
+                    "Arsenal": "1",
+                    "Leeds": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Arsenal_2026_01_31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/42.webp",
+                    "name": "Arsenal",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-arsenal-2026-01-31-4hW0.webp",
+            "title": "Leeds vs Arsenal"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Nov 23, 2025",
+            "description": "Watch Leeds vs Aston Villa highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on November 23, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Aston_Villa_2025_11_23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-aston-villa-2025-11-23.webp",
+            "title": "Leeds vs Aston Villa"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Mar 21, 2026",
+            "description": "Watch Leeds vs Brentford highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on March 21, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Struijk",
+                    "team": "Leeds",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Bogle",
+                    "team": "Leeds",
+                    "time": "16'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "21/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Leeds United 0 - 0 Brentford"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "09/03/2026",
+                            "result": "D",
+                            "teams_and_score": "West Ham United 2 - 2 Brentford"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "03/03/2026",
+                            "result": "D",
+                            "teams_and_score": "AFC Bournemouth 0 - 0 Brentford"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "16/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Macclesfield FC 0 - 1 Brentford"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "12/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Brentford 1 - 1 Arsenal"
+                        }
+                    ],
+                    "team": "Brentford"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "21/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Leeds United 0 - 0 Brentford"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Leeds United 3 - 0 Norwich City"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 0 - 1 Sunderland"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "15/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Chelsea 2 - 2 Leeds United"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "14/12/2025",
+                        "teams_and_score": "Brentford 1 - 1 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "22/01/2023",
+                        "teams_and_score": "Leeds United 0 - 0 Brentford"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "22/05/2022",
+                        "teams_and_score": "Brentford 1 - 2 Leeds United"
+                    },
+                    {
+                        "competition": "Championship 19/20",
+                        "date": "11/02/2020",
+                        "teams_and_score": "Brentford 1 - 1 Leeds United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "22/04/2019",
+                        "teams_and_score": "Brentford 2 - 0 Leeds United"
+                    }
+                ],
+                "summary": {
+                    "Brentford_wins": "1",
+                    "Leeds_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Brentford": "43%",
+                    "Leeds": "57%"
+                },
+                "corners": {
+                    "Brentford": "2",
+                    "Leeds": "6"
+                },
+                "crosses": {
+                    "Brentford": "5",
+                    "Leeds": "5"
+                },
+                "fouls": {
+                    "Brentford": "9",
+                    "Leeds": "6"
+                },
+                "goalkeeper_saves": {
+                    "Brentford": "4",
+                    "Leeds": "2"
+                },
+                "offsides": {
+                    "Brentford": "3",
+                    "Leeds": "1"
+                },
+                "shots_blocked": {
+                    "Brentford": "1",
+                    "Leeds": "7"
+                },
+                "shots_off_target": {
+                    "Brentford": "3",
+                    "Leeds": "3"
+                },
+                "shots_on_target": {
+                    "Brentford": "2",
+                    "Leeds": "4"
+                },
+                "yellow_cards": {
+                    "Brentford": "0",
+                    "Leeds": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Brentford_2026_03_21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/55.webp",
+                    "name": "Brentford",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-brentford-2026-03-21-cvUM.webp",
+            "title": "Leeds vs Brentford"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Leeds vs Brighton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on May 17, 2026. Elland Road was the stage for a tense Premier League encounter on May 17, 2026 , as Leeds United hosted Brighton in a match defined by patience and tactical discipline. The atmosphere remained electric throughout the afternoon as both sides searched for a way to break the deadlock in a game of fine margins. Stalemate in the First Half From the opening whistle, the contest was a cagey affair, with both teams struggling to find space in the final third. Brighton looked to dictate the tempo through possession, but Danny Welbeck found himself repeatedly caught in the offside trap. For the hosts, Anton Stach was the primary source of creativity, delivering several dangerous corners, yet the Seagulls' defense, marshaled by Lewis Dunk , remained resolute in the air. Leeds United attempted to strike on the break, but their eagerness led to multiple offside calls against the likes of Dominic Calvert-Lewin and Sebastiaan Bornauw . The first half concluded without a breakthrough, reflecting the cautious approach of both managers and a lack of clinical finishing in decisive moments. Pressure Mounts in the Second Half The dynamic shifted after the interval as Brighton began to assert territorial dominance. In the 51st minute, Danny Welbeck came agonizingly close to scoring, only to see his effort heroically cleared off the goal line by the Leeds defense. The visitors continued to pile on the pressure, forcing Karl Darlow into action, most notably to save a goal-bound header from Charalampos Kostoulas late in the game. Leeds manager responded by introducing Sean Longstaff and Lukas Nmecha to stabilize the midfield. Joel Piroe nearly snatched the lead for the home side with a powerful strike from distance that whistled just wide of the post, but the match seemed destined for a goalless draw as the visitors controlled 66% of the possession. Stoppage Time Drama Just as it appeared the points would be shared, the game took a dramatic turn in the 90+6th minute. A catastrophic defensive blunder by Jan Paul van Hecke gifted the ball to Dominic Calvert-Lewin in a dangerous position. The striker made no mistake, clinical finishing with his right foot to send the home crowd into a frenzy. In the aftermath of the goal, Calvert-Lewin was booked for his exuberant celebrations, but the damage was done. Brighton launched a desperate late assault in the remaining seconds. Diego Gomez had a shot blocked by Joe Rodon , and a series of crosses were cleared by the combined efforts of Wilfried Gnonto and Sam Byram . Despite being outperformed in possession, Leeds held firm to secure a vital victory in the dying embers of the match.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "D. Calvert-Lewin",
+                    "score_update": "1 - 0",
+                    "team": "Leeds",
+                    "time": "90+6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Calvert-Lewin",
+                    "team": "Leeds",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 1 - 0 Brighton"
+                        }
+                    ],
+                    "team": "Brighton"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Leeds United 1 - 0 Brighton"
+                        },
+                        {
+                            "competition": "FA Cup: Semi-Finals",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Chelsea 1 - 0 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "AFC Bournemouth 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "05/04/2026",
+                            "result": "D",
+                            "teams_and_score": "West Ham United 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "21/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Leeds United 0 - 0 Brentford"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "01/11/2025",
+                        "teams_and_score": "Brighton 3 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "11/03/2023",
+                        "teams_and_score": "Leeds United 2 - 2 Brighton"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "15/05/2022",
+                        "teams_and_score": "Leeds United 1 - 1 Brighton"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "01/05/2021",
+                        "teams_and_score": "Brighton 2 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "18/03/2017",
+                        "teams_and_score": "Leeds United 2 - 0 Brighton"
+                    }
+                ],
+                "summary": {
+                    "Brighton_wins": "2",
+                    "Leeds_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Brighton": "66%",
+                    "Leeds": "34%"
+                },
+                "corners": {
+                    "Brighton": "8",
+                    "Leeds": "7"
+                },
+                "crosses": {
+                    "Brighton": "13",
+                    "Leeds": "3"
+                },
+                "fouls": {
+                    "Brighton": "7",
+                    "Leeds": "9"
+                },
+                "goalkeeper_saves": {
+                    "Brighton": "1",
+                    "Leeds": "7"
+                },
+                "offsides": {
+                    "Brighton": "2",
+                    "Leeds": "3"
+                },
+                "shots_blocked": {
+                    "Brighton": "5",
+                    "Leeds": "3"
+                },
+                "shots_off_target": {
+                    "Brighton": "6",
+                    "Leeds": "3"
+                },
+                "shots_on_target": {
+                    "Brighton": "8",
+                    "Leeds": "1"
+                },
+                "yellow_cards": {
+                    "Brighton": "0",
+                    "Leeds": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Brighton_2026_05_17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/51.webp",
+                    "name": "Brighton",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-brighton-2026-05-17-ru3Y.webp",
+            "title": "Leeds vs Brighton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "May 1, 2026",
+            "description": "Watch Leeds vs Burnley highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on May 1, 2026. As the season enters its defining stretch, the eyes of the football world turned to this high-stakes Premier League encounter on May 1, 2026 . With both sides desperate for points to satisfy their respective ambitions, the atmosphere was charged with anticipation long before the opening whistle. Early Dominance and a Stunner from Stach Leeds started the match with an aggressive intent that caught the visitors off guard. While Dominic Calvert-Lewin missed an early opportunity with a header in the first minute, the home side did not have to wait long to break the deadlock. In the 8th minute, Anton Stach produced a moment of pure quality that brought the stadium to its feet. After receiving a clever pass from Jaka Bijol , Stach unleashed a powerful left-footed strike from outside the box that flew past the reach of Martin Dubravka . The goal gave Leeds a deserved lead and set the tone for a first half characterized by tactical duels and physical intensity. Despite the early advantage, the match remained a gritty affair. Burnley attempted to respond, but their efforts often foundered against a disciplined Leeds backline. The tension spilled over as the referee was forced to brandish several yellow cards. Pascal Struijk and Joe Rodon were both booked for tactical fouls to stop dangerous counters, while Burnley ’s Bashir Humphreys and Loum Tchaouna also found their way into the official's book. Late in the half, Jaidon Anthony nearly equalized with a header, but a crucial block ensured the hosts went into the interval with their narrow lead intact. A Second-Half Blitz Extends the Lead If the first half was a battle of attrition, the start of the second period was a masterclass in clinical attacking from Leeds . In the 52nd minute, a wonderful team move initiated by Dominic Calvert-Lewin carved the Burnley defense open. Jayden Bogle provided the decisive cross, and Noah Okafor showed exceptional technique to volley the ball into the back of the net with his right foot. The momentum was firmly with the home side, and they capitalized again just four minutes later. In the 56th minute, Dominic Calvert-Lewin demonstrated his poacher's instincts. After a period of sustained pressure left the ball loose in the penalty area, the striker reacted first to poke it home with his right foot, seemingly putting the game out of reach. Burnley manager made a series of tactical changes, introducing Florentino , Lucas Pires , and Hannibal Mejbri to find a way back into the contest, and the reinforcements eventually sparked a change in the game’s trajectory. Burnley’s Resurgence and Defensive Heroics The visitors refused to go down without a fight, and their persistence paid off in the 71st minute. Following a tense VAR review that confirmed the legitimacy of the play, Loum Tchaouna found the net with a precise right-footed finish after being set up by Jaidon Anthony . The goal breathed new life into Burnley , who began to dominate possession and push Leeds deep into their own territory. Zeki Amdouni and Armando Broja were introduced to bolster the attack, forcing the Leeds defense into a series of desperate interventions. The closing stages were defined by a frantic aerial assault and remarkable defensive resilience. In the 86th minute, Joe Rodon almost added a fourth for Leeds with a header, but Dubravka produced a comfortable save. The real drama, however, unfolded in stoppage time. Burnley threw everything forward, but a flurry of shots from Amdouni , Mejbri , and Kyle Walker were heroically blocked by Jaka Bijol , Joe Rodon , and Sean Longstaff . Daniel James nearly caught Burnley on the break in the final seconds, but his shot was saved, leaving the final score settled after a breathless ten minutes of added time. Final Score: Leeds 3-1 Burnley Scorers: Anton Stach (8'), Noah Okafor (52'), Dominic Calvert-Lewin (56'); Loum Tchaouna (71')",
+            "events_timeline": [
+                {
+                    "assist": "J. Bijol",
+                    "event_type": "Goal",
+                    "player": "A. Stach",
+                    "score_update": "1 - 0",
+                    "team": "Leeds",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Struijk",
+                    "team": "Leeds",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Humphreys",
+                    "team": "Burnley",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Tchaouna",
+                    "team": "Burnley",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Rodon",
+                    "team": "Leeds",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Calvert-Lewin",
+                    "team": "Leeds",
+                    "time": "46'"
+                },
+                {
+                    "assist": "J. Bogle",
+                    "event_type": "Goal",
+                    "player": "N. Okafor",
+                    "score_update": "2 - 0",
+                    "team": "Leeds",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Calvert-Lewin",
+                    "score_update": "3 - 0",
+                    "team": "Leeds",
+                    "time": "76'"
+                },
+                {
+                    "assist": "J. Anthony",
+                    "event_type": "Goal",
+                    "player": "L. Tchaouna",
+                    "score_update": "3 - 1",
+                    "team": "Burnley",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Ampadu",
+                    "team": "Leeds",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Mejbri",
+                    "team": "Burnley",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "01/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 3 - 1 Burnley"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Burnley 1 - 2 Mansfield Town"
+                        }
+                    ],
+                    "team": "Burnley"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "01/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Leeds United 3 - 1 Burnley"
+                        },
+                        {
+                            "competition": "FA Cup: Semi-Finals",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Chelsea 1 - 0 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "AFC Bournemouth 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "05/04/2026",
+                            "result": "D",
+                            "teams_and_score": "West Ham United 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "21/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Leeds United 0 - 0 Brentford"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "18/10/2025",
+                        "teams_and_score": "Burnley 2 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "27/01/2025",
+                        "teams_and_score": "Burnley 0 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "02/01/2022",
+                        "teams_and_score": "Leeds United 3 - 1 Burnley"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "15/05/2021",
+                        "teams_and_score": "Burnley 0 - 4 Leeds United"
+                    },
+                    {
+                        "competition": "EFL Cup",
+                        "date": "19/09/2017",
+                        "teams_and_score": "Burnley 2 - 2 Leeds United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "09/04/2016",
+                        "teams_and_score": "Burnley 1 - 0 Leeds United"
+                    }
+                ],
+                "summary": {
+                    "Burnley_wins": "2",
+                    "Leeds_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Burnley": "52%",
+                    "Leeds": "48%"
+                },
+                "corners": {
+                    "Burnley": "0",
+                    "Leeds": "5"
+                },
+                "crosses": {
+                    "Burnley": "5",
+                    "Leeds": "6"
+                },
+                "fouls": {
+                    "Burnley": "11",
+                    "Leeds": "12"
+                },
+                "goalkeeper_saves": {
+                    "Burnley": "5",
+                    "Leeds": "2"
+                },
+                "offsides": {
+                    "Burnley": "1",
+                    "Leeds": "0"
+                },
+                "shots_blocked": {
+                    "Burnley": "4",
+                    "Leeds": "5"
+                },
+                "shots_off_target": {
+                    "Burnley": "2",
+                    "Leeds": "5"
+                },
+                "shots_on_target": {
+                    "Burnley": "3",
+                    "Leeds": "8"
+                },
+                "yellow_cards": {
+                    "Burnley": "3",
+                    "Leeds": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Burnley_2026_05_01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/44.webp",
+                    "name": "Burnley",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-burnley-2026-05-01-bI1C.webp",
+            "title": "Leeds vs Burnley"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Dec 3, 2025",
+            "description": "Watch Leeds vs Chelsea highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on December 3, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Chelsea_2025_12_03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-chelsea-2025-12-03.webp",
+            "title": "Leeds vs Chelsea FC"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Dec 20, 2025",
+            "description": "Watch Leeds vs Crystal Palace highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on December 20, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Crystal Palace"
+                },
+                "home_team_form": {
+                    "team": "Leeds"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Crystal_Palace_2025_12_20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/52.webp",
+                    "name": "Crystal Palace",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-crystal-palace-2025-12-20.webp",
+            "title": "Leeds vs Crystal Palace"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Jan 17, 2026",
+            "description": "Watch Leeds vs Fulham highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on January 17, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Fulham_2026_01_17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-fulham-2026-01-17-5HC3.webp",
+            "title": "Leeds vs Fulham"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Dec 6, 2025",
+            "description": "Watch Leeds vs Liverpool highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on December 6, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Liverpool_2025_12_06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-liverpool-2025-12-06.webp",
+            "title": "Leeds vs Liverpool"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Feb 28, 2026",
+            "description": "Watch Leeds vs Manchester City highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on February 28, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "R. Aït-Nouri",
+                    "event_type": "Goal",
+                    "player": "A. Semenyo",
+                    "score_update": "0 - 1",
+                    "team": "Manchester City",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Donnarumma",
+                    "team": "Manchester City",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Aït-Nouri",
+                    "team": "Manchester City",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Savinho",
+                    "team": "Manchester City",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "D. Farke",
+                    "team": "Leeds",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Leeds United 0 - 1 Manchester City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Manchester City 2 - 0 Salford City"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "11/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Manchester City 3 - 0 Fulham"
+                        },
+                        {
+                            "competition": "EFL Cup: Semi-Finals",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Manchester City 3 - 1 Newcastle United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "01/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Tottenham Hotspur 2 - 2 Manchester City"
+                        }
+                    ],
+                    "team": "Manchester City"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 0 - 1 Manchester City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "15/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Chelsea 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Derby County 1 - 3 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Newcastle United 4 - 3 Leeds United"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Manchester City 3 - 2 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "06/05/2023",
+                        "teams_and_score": "Manchester City 2 - 1 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "30/04/2022",
+                        "teams_and_score": "Leeds United 0 - 4 Manchester City"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "10/04/2021",
+                        "teams_and_score": "Manchester City 1 - 2 Leeds United"
+                    },
+                    {
+                        "competition": "FA Cup",
+                        "date": "17/02/2013",
+                        "teams_and_score": "Manchester City 4 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League",
+                        "date": "22/03/2004",
+                        "teams_and_score": "Leeds United 2 - 1 Manchester City"
+                    }
+                ],
+                "summary": {
+                    "Leeds_wins": "2",
+                    "Manchester City_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Leeds": "33%",
+                    "Manchester City": "67%"
+                },
+                "corners": {
+                    "Leeds": "5",
+                    "Manchester City": "3"
+                },
+                "crosses": {
+                    "Leeds": "5",
+                    "Manchester City": "5"
+                },
+                "fouls": {
+                    "Leeds": "10",
+                    "Manchester City": "8"
+                },
+                "goalkeeper_saves": {
+                    "Leeds": "4",
+                    "Manchester City": "2"
+                },
+                "offsides": {
+                    "Leeds": "1",
+                    "Manchester City": "4"
+                },
+                "shots_blocked": {
+                    "Leeds": "5",
+                    "Manchester City": "4"
+                },
+                "shots_off_target": {
+                    "Leeds": "7",
+                    "Manchester City": "5"
+                },
+                "shots_on_target": {
+                    "Leeds": "2",
+                    "Manchester City": "5"
+                },
+                "yellow_cards": {
+                    "Leeds": "0",
+                    "Manchester City": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Manchester_City_2026_02_28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/50.webp",
+                    "name": "Manchester City",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-manchester-city-2026-02-28-2lwU.webp",
+            "title": "Leeds vs Man City"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Jan 4, 2026",
+            "description": "Watch Leeds vs Manchester United highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on January 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Manchester United"
+                },
+                "home_team_form": {
+                    "team": "Leeds"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Manchester_United_2026_01_04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/33.webp",
+                    "name": "Manchester United",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-manchester-united-2026-01-04.webp",
+            "title": "Leeds vs Manchester United"
+        },
+        {
+            "competition": "FA Cup",
+            "competition_cover": "https://refooty.com/covers/fa-cup.webp",
+            "date": "Mar 8, 2026",
+            "description": "Watch Leeds vs Norwich City highlights and goals from FA Cup on ReFooty: Football Highlights Hub. Match played on March 8, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "L. Nmecha",
+                    "team": "Leeds",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Ahmed",
+                    "team": "Norwich City",
+                    "time": "16'"
+                },
+                {
+                    "assist": "G. Gudmundsson",
+                    "event_type": "Goal",
+                    "player": "S. Longstaff",
+                    "score_update": "1 - 0",
+                    "team": "Leeds",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Longstaff",
+                    "team": "Leeds",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Córdoba",
+                    "team": "Norwich City",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Gudmundsson",
+                    "score_update": "2 - 0",
+                    "team": "Leeds",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Tanaka",
+                    "team": "Leeds",
+                    "time": "59'"
+                },
+                {
+                    "assist": "L. Nmecha",
+                    "event_type": "Goal",
+                    "player": "J. Piroe",
+                    "score_update": "3 - 0",
+                    "team": "Leeds",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Fisher",
+                    "team": "Norwich City",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 3 - 0 Norwich City"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Leicester City 0 - 2 Norwich City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Norwich City 3 - 1 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Oxford United 0 - 3 Norwich City"
+                        }
+                    ],
+                    "team": "Norwich City"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Leeds United 3 - 0 Norwich City"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 0 - 1 Sunderland"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "15/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Chelsea 2 - 2 Leeds United"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "22/01/2025",
+                        "teams_and_score": "Leeds United 2 - 0 Norwich City"
+                    },
+                    {
+                        "competition": "English Football League - Championship 2023/2024",
+                        "date": "16/05/2024",
+                        "teams_and_score": "Leeds United 4 - 0 Norwich City"
+                    },
+                    {
+                        "competition": "English Premier League 2021/2022",
+                        "date": "13/03/2022",
+                        "teams_and_score": "Leeds United 2 - 1 Norwich City"
+                    },
+                    {
+                        "competition": "English Football League - Championship 2018/2019",
+                        "date": "02/02/2019",
+                        "teams_and_score": "Leeds United 1 - 3 Norwich City"
+                    }
+                ],
+                "summary": {
+                    "Leeds_wins": "3",
+                    "Norwich City_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Leeds": "51%",
+                    "Norwich City": "49%"
+                },
+                "corners": {
+                    "Leeds": "8",
+                    "Norwich City": "0"
+                },
+                "crosses": {
+                    "Leeds": "5",
+                    "Norwich City": "2"
+                },
+                "fouls": {
+                    "Leeds": "17",
+                    "Norwich City": "12"
+                },
+                "goalkeeper_saves": {
+                    "Leeds": "3",
+                    "Norwich City": "3"
+                },
+                "offsides": {
+                    "Leeds": "3",
+                    "Norwich City": "2"
+                },
+                "shots_blocked": {
+                    "Leeds": "2",
+                    "Norwich City": "0"
+                },
+                "shots_off_target": {
+                    "Leeds": "7",
+                    "Norwich City": "4"
+                },
+                "shots_on_target": {
+                    "Leeds": "6",
+                    "Norwich City": "3"
+                },
+                "yellow_cards": {
+                    "Leeds": "2",
+                    "Norwich City": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Norwich_City_2026_03_08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18210.webp",
+                    "name": "Norwich City",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-norwich-city-2026-03-08-6Y2i.webp",
+            "title": "Leeds vs Norwich City"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Feb 6, 2026",
+            "description": "Watch Leeds vs Nottingham Forest highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on February 6, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "I. Gruev",
+                    "event_type": "Goal",
+                    "player": "J. Bogle",
+                    "score_update": "1 - 0",
+                    "team": "Leeds",
+                    "time": "1'"
+                },
+                {
+                    "assist": "J. Justin",
+                    "event_type": "Goal",
+                    "player": "N. Okafor",
+                    "score_update": "2 - 0",
+                    "team": "Leeds",
+                    "time": "16'"
+                },
+                {
+                    "assist": "I. Gruev",
+                    "event_type": "Goal",
+                    "player": "D. Calvert-Lewin",
+                    "score_update": "3 - 0",
+                    "team": "Leeds",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Okafor",
+                    "team": "Leeds",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Sangaré",
+                    "team": "Nottingham Forest",
+                    "time": "76'"
+                },
+                {
+                    "assist": "O. Hutchinson",
+                    "event_type": "Goal",
+                    "player": "L. Lucca",
+                    "score_update": "3 - 1",
+                    "team": "Nottingham Forest",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "06/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 3 - 1 Nottingham Forest"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Nottingham Forest 4 - 0 Ferencvaros"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "25/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Brentford 0 - 2 Nottingham Forest"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "L",
+                            "teams_and_score": "SC Braga 1 - 0 Nottingham Forest"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "17/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Nottingham Forest 0 - 0 Arsenal"
+                        }
+                    ],
+                    "team": "Nottingham Forest"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "06/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Leeds United 3 - 1 Nottingham Forest"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Derby County 1 - 3 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "07/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Newcastle United 4 - 3 Leeds United"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "09/11/2025",
+                        "teams_and_score": "Nottingham Forest 3 - 1 Leeds United"
+                    },
+                    {
+                        "competition": "Club Friendlies 2023",
+                        "date": "27/07/2023",
+                        "teams_and_score": "Nottingham Forest 0 - 2 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "04/04/2023",
+                        "teams_and_score": "Leeds United 2 - 1 Nottingham Forest"
+                    },
+                    {
+                        "competition": "Championship 19/20",
+                        "date": "08/02/2020",
+                        "teams_and_score": "Nottingham Forest 2 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "01/01/2019",
+                        "teams_and_score": "Nottingham Forest 4 - 2 Leeds United"
+                    }
+                ],
+                "summary": {
+                    "Leeds_wins": "2",
+                    "Nottingham Forest_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Leeds": "56%",
+                    "Nottingham Forest": "44%"
+                },
+                "corners": {
+                    "Leeds": "5",
+                    "Nottingham Forest": "10"
+                },
+                "crosses": {
+                    "Leeds": "7",
+                    "Nottingham Forest": "10"
+                },
+                "fouls": {
+                    "Leeds": "9",
+                    "Nottingham Forest": "12"
+                },
+                "goalkeeper_saves": {
+                    "Leeds": "5",
+                    "Nottingham Forest": "2"
+                },
+                "offsides": {
+                    "Leeds": "1",
+                    "Nottingham Forest": "4"
+                },
+                "shots_blocked": {
+                    "Leeds": "6",
+                    "Nottingham Forest": "4"
+                },
+                "shots_off_target": {
+                    "Leeds": "3",
+                    "Nottingham Forest": "6"
+                },
+                "shots_on_target": {
+                    "Leeds": "5",
+                    "Nottingham Forest": "6"
+                },
+                "yellow_cards": {
+                    "Leeds": "1",
+                    "Nottingham Forest": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Nottingham_2026_02_06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/65.webp",
+                    "name": "Nottingham Forest",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-nottingham-2026-02-06-m1QJ.webp",
+            "title": "Leeds vs Nottingham Forest"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Mar 3, 2026",
+            "description": "Watch Leeds vs Sunderland highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on March 3, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. O'Nien",
+                    "team": "Sunderland",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Diarra",
+                    "team": "Sunderland",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Alderete",
+                    "team": "Sunderland",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Rodon",
+                    "team": "Leeds",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "H. Diarra",
+                    "score_update": "0 - 1",
+                    "team": "Sunderland",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Gnonto",
+                    "team": "Leeds",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "03/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Leeds United 0 - 1 Sunderland"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "15/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Oxford United 0 - 1 Sunderland"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "11/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Sunderland 0 - 1 Liverpool"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton 1 - 1 Sunderland"
+                        }
+                    ],
+                    "team": "Sunderland"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 0 - 1 Sunderland"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "15/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Chelsea 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Derby County 1 - 3 Leeds United"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "28/12/2025",
+                        "teams_and_score": "Sunderland 1 - 1 Leeds United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "17/02/2025",
+                        "teams_and_score": "Leeds United 2 - 1 Sunderland"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "09/04/2024",
+                        "teams_and_score": "Leeds United 0 - 0 Sunderland"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "07/04/2018",
+                        "teams_and_score": "Leeds United 1 - 1 Sunderland"
+                    },
+                    {
+                        "competition": "FA Cup",
+                        "date": "04/01/2015",
+                        "teams_and_score": "Sunderland 1 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "26/12/2006",
+                        "teams_and_score": "Sunderland 2 - 0 Leeds United"
+                    }
+                ],
+                "summary": {
+                    "Leeds_wins": "1",
+                    "Sunderland_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Leeds": "70%",
+                    "Sunderland": "30%"
+                },
+                "corners": {
+                    "Leeds": "9",
+                    "Sunderland": "2"
+                },
+                "crosses": {
+                    "Leeds": "4",
+                    "Sunderland": "1"
+                },
+                "fouls": {
+                    "Leeds": "15",
+                    "Sunderland": "19"
+                },
+                "goalkeeper_saves": {
+                    "Leeds": "0",
+                    "Sunderland": "4"
+                },
+                "offsides": {
+                    "Leeds": "2",
+                    "Sunderland": "5"
+                },
+                "shots_blocked": {
+                    "Leeds": "9",
+                    "Sunderland": "2"
+                },
+                "shots_off_target": {
+                    "Leeds": "5",
+                    "Sunderland": "0"
+                },
+                "shots_on_target": {
+                    "Leeds": "4",
+                    "Sunderland": "1"
+                },
+                "yellow_cards": {
+                    "Leeds": "1",
+                    "Sunderland": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Sunderland_2026_03_03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/746.webp",
+                    "name": "Sunderland",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-sunderland-2026-03-03-UrnD.webp",
+            "title": "Leeds vs Sunderland"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Oct 4, 2025",
+            "description": "Watch Leeds vs Tottenham highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on October 4, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Tottenham_2025_10_04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-tottenham-2025-10-04.webp",
+            "title": "Leeds vs Tottenham Hotspur"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Oct 24, 2025",
+            "description": "Watch Leeds vs West Ham highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on October 24, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_West_Ham_2025_10_24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-west-ham-2025-10-24.webp",
+            "title": "Leeds vs West Ham"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Apr 18, 2026",
+            "description": "Watch Leeds vs Wolverhampton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on April 18, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "N. Okafor",
+                    "event_type": "Goal",
+                    "player": "J. Justin",
+                    "score_update": "1 - 0",
+                    "team": "Leeds",
+                    "time": "1'"
+                },
+                {
+                    "assist": "B. Aaronson",
+                    "event_type": "Goal",
+                    "player": "N. Okafor",
+                    "score_update": "2 - 0",
+                    "team": "Leeds",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Edwards",
+                    "team": "Wolverhampton",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Aaronson",
+                    "team": "Leeds",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Bueno",
+                    "team": "Wolverhampton",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Calvert-Lewin",
+                    "score_update": "3 - 0",
+                    "team": "Leeds",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Justin",
+                    "team": "Leeds",
+                    "time": "90+12'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 3 - 0 Wolves"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Wolves 1 - 3 Liverpool"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Wolves 2 - 1 Liverpool"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "15/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Grimsby Town 0 - 1 Wolves"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "11/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Nottingham Forest 0 - 0 Wolves"
+                        }
+                    ],
+                    "team": "Wolverhampton"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Leeds United 3 - 0 Wolves"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "05/04/2026",
+                            "result": "D",
+                            "teams_and_score": "West Ham United 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "21/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Leeds United 0 - 0 Brentford"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Leeds United 3 - 0 Norwich City"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 0 - 1 Sunderland"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "20/09/2025",
+                        "teams_and_score": "Wolves 1 - 3 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "18/03/2023",
+                        "teams_and_score": "Wolves 2 - 4 Leeds United"
+                    },
+                    {
+                        "competition": "EFL Cup 22/23",
+                        "date": "09/11/2022",
+                        "teams_and_score": "Wolves 1 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "06/08/2022",
+                        "teams_and_score": "Leeds United 2 - 1 Wolves"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "18/03/2022",
+                        "teams_and_score": "Wolves 2 - 3 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "19/02/2021",
+                        "teams_and_score": "Wolves 1 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "07/03/2018",
+                        "teams_and_score": "Leeds United 0 - 3 Wolves"
+                    }
+                ],
+                "summary": {
+                    "Leeds_wins": "4",
+                    "Wolverhampton_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Leeds": "56%",
+                    "Wolverhampton": "44%"
+                },
+                "corners": {
+                    "Leeds": "5",
+                    "Wolverhampton": "6"
+                },
+                "crosses": {
+                    "Leeds": "4",
+                    "Wolverhampton": "4"
+                },
+                "fouls": {
+                    "Leeds": "9",
+                    "Wolverhampton": "17"
+                },
+                "goalkeeper_saves": {
+                    "Leeds": "1",
+                    "Wolverhampton": "3"
+                },
+                "offsides": {
+                    "Leeds": "0",
+                    "Wolverhampton": "1"
+                },
+                "shots_blocked": {
+                    "Leeds": "4",
+                    "Wolverhampton": "3"
+                },
+                "shots_off_target": {
+                    "Leeds": "7",
+                    "Wolverhampton": "2"
+                },
+                "shots_on_target": {
+                    "Leeds": "6",
+                    "Wolverhampton": "2"
+                },
+                "yellow_cards": {
+                    "Leeds": "2",
+                    "Wolverhampton": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leeds_v_Wolverhampton_2026_04_18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15433.webp",
+                    "name": "Wolverhampton",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-v-wolverhampton-2026-04-18-ROfo.webp",
+            "title": "Leeds vs Wolverhampton"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Jan 1, 2026",
+            "description": "Watch Liverpool vs Leeds highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on January 1, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Leeds"
+                },
+                "home_team_form": {
+                    "team": "Liverpool"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Liverpool_v_Leeds_2026_01_01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/40.webp",
+                    "name": "Liverpool",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/liverpool-v-leeds-2026-01-01.webp",
+            "title": "Liverpool vs Leeds"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Nov 29, 2025",
+            "description": "Watch Manchester City vs Leeds highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on November 29, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Manchester_City_v_Leeds_2025_11_29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-city-v-leeds-2025-11-29.webp",
+            "title": "Man City vs Leeds"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Apr 13, 2026",
+            "description": "Watch Manchester United vs Leeds highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on April 13, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "N. Okafor",
+                    "score_update": "0 - 1",
+                    "team": "Leeds",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Cunha",
+                    "team": "Manchester United",
+                    "time": "16'"
+                },
+                {
+                    "assist": "B. Aaronson",
+                    "event_type": "Goal",
+                    "player": "N. Okafor",
+                    "score_update": "0 - 2",
+                    "team": "Leeds",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Justin",
+                    "team": "Leeds",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Shaw",
+                    "team": "Manchester United",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "L. Martínez",
+                    "team": "Manchester United",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Fernandes",
+                    "team": "Manchester United",
+                    "time": "76'"
+                },
+                {
+                    "assist": "B. Fernandes",
+                    "event_type": "Goal",
+                    "player": "Casemiro",
+                    "score_update": "1 - 2",
+                    "team": "Manchester United",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Ampadu",
+                    "team": "Leeds",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "13/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Manchester United 1 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "05/04/2026",
+                            "result": "D",
+                            "teams_and_score": "West Ham United 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "21/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Leeds United 0 - 0 Brentford"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Leeds United 3 - 0 Norwich City"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 0 - 1 Sunderland"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "13/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Manchester United 1 - 2 Leeds United"
+                        }
+                    ],
+                    "team": "Manchester United"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "04/01/2026",
+                        "teams_and_score": "Leeds United 1 - 1 Manchester United"
+                    },
+                    {
+                        "competition": "Club Friendlies 2025",
+                        "date": "19/07/2025",
+                        "teams_and_score": "Manchester United 0 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Club Friendlies 2023",
+                        "date": "12/07/2023",
+                        "teams_and_score": "Manchester United 2 - 0 Leeds United"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "12/02/2023",
+                        "teams_and_score": "Leeds United 0 - 2 Manchester United"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "20/02/2022",
+                        "teams_and_score": "Leeds United 2 - 4 Manchester United"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "25/04/2021",
+                        "teams_and_score": "Leeds United 0 - 0 Manchester United"
+                    },
+                    {
+                        "competition": "Club Friendlies 2019",
+                        "date": "17/07/2019",
+                        "teams_and_score": "Manchester United 4 - 0 Leeds United"
+                    }
+                ],
+                "summary": {
+                    "Leeds_wins": "0",
+                    "Manchester United_wins": "4",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Leeds": "48%",
+                    "Manchester United": "52%"
+                },
+                "corners": {
+                    "Leeds": "4",
+                    "Manchester United": "11"
+                },
+                "crosses": {
+                    "Leeds": "8",
+                    "Manchester United": "6"
+                },
+                "fouls": {
+                    "Leeds": "15",
+                    "Manchester United": "12"
+                },
+                "goalkeeper_saves": {
+                    "Leeds": "6",
+                    "Manchester United": "3"
+                },
+                "offsides": {
+                    "Leeds": "0",
+                    "Manchester United": "1"
+                },
+                "red_cards": {
+                    "Leeds": "0",
+                    "Manchester United": "1"
+                },
+                "shots_blocked": {
+                    "Leeds": "5",
+                    "Manchester United": "6"
+                },
+                "shots_off_target": {
+                    "Leeds": "4",
+                    "Manchester United": "5"
+                },
+                "shots_on_target": {
+                    "Leeds": "6",
+                    "Manchester United": "9"
+                },
+                "yellow_cards": {
+                    "Leeds": "2",
+                    "Manchester United": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Manchester_United_v_Leeds_2026_04_13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/33.webp",
+                    "name": "Manchester United",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-united-v-leeds-2026-04-13-lqvN.webp",
+            "title": "Manchester United vs Leeds"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Jan 7, 2026",
+            "description": "Watch Newcastle vs Leeds highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on January 7, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Newcastle_United_v_Leeds_2026_01_07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/newcastle-united-v-leeds-2026-01-07.webp",
+            "title": "Newcastle United vs Leeds"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Nov 9, 2025",
+            "description": "Watch Nottingham Forest vs Leeds highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on November 9, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Leeds"
+                },
+                "home_team_form": {
+                    "team": "Nottingham Forest"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Nottingham_v_Leeds_2025_11_09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/65.webp",
+                    "name": "Nottingham Forest",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nottingham-v-leeds-2025-11-09.webp",
+            "title": "Nottingham Forest vs Leeds"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Dec 28, 2025",
+            "description": "Watch Sunderland vs Leeds highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on December 28, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Leeds"
+                },
+                "home_team_form": {
+                    "team": "Sunderland"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Sunderland_v_Leeds_2025_12_28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/746.webp",
+                    "name": "Sunderland",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sunderland-v-leeds-2025-12-28.webp",
+            "title": "Sunderland vs Leeds"
+        },
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "May 11, 2026",
+            "description": "Watch Tottenham vs Leeds highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on May 11, 2026. The atmosphere was electric in North London as two sides with contrasting styles faced off in search of crucial points. The encounter promised a high-intensity tactical battle, with fans expecting a display of technical quality and determination from start to finish. A Cautious Opening Exchange On May 11, 2026 , Tottenham Hotspur hosted Leeds United in a Premier League clash that began as a cagey affair. The first 45 minutes were defined by a congested midfield and limited clear-cut opportunities. Richarlison attempted to ignite the home crowd with an audacious bicycle kick that drifted wide, while Joe Rodon saw his goalbound header comfortably gathered by Antonin Kinsky . A rare tactical quirk saw Leeds goalkeeper Karl Darlow penalized for violating the eight-second rule, resulting in a corner for the hosts, yet the deadlock remained unbroken at the interval despite a brief VAR scare regarding a potential penalty for the visitors. Tel Strikes Before Leeds Respond The match ignited shortly after the restart. In the 50th minute, Mathys Tel showcased his clinical edge, firing a superb strike from outside the box with his right foot to give Tottenham the lead. The goal forced Leeds into a more aggressive stance, and their persistence paid off in the 70th minute. Following a lengthy VAR review, the referee awarded a penalty for a foul by Mathys Tel on Ethan Ampadu . Dominic Calvert-Lewin stepped up and coolly converted from the spot in the 74th minute to restore parity. Late Drama and VAR Decisions The closing stages were frantic, characterized by rising tempers and tactical fouls. Leeds manager Roberto De Zerbi received a yellow card for dissent as the tension boiled over on the touchline. In a pulsating period of stoppage time, Tottenham thought they had earned a late lifeline when the referee consulted VAR for a potential penalty, but the decision ultimately went against the hosts. Despite a late flurry of corners from James Maddison and Pedro Porro , and a blocked effort from Richarlison , the Leeds defense held firm to secure a hard-fought draw.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Danso",
+                    "team": "Tottenham",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Tel",
+                    "score_update": "1 - 0",
+                    "team": "Tottenham",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Palhinha",
+                    "team": "Tottenham",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Calvert-Lewin",
+                    "score_update": "1 - 1",
+                    "team": "Leeds",
+                    "time": "74'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Rodon",
+                    "team": "Leeds",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Porro",
+                    "team": "Tottenham",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. D. Zerbi",
+                    "team": "Tottenham",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "11/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Tottenham Hotspur 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Semi-Finals",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Chelsea 1 - 0 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "AFC Bournemouth 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "05/04/2026",
+                            "result": "D",
+                            "teams_and_score": "West Ham United 2 - 2 Leeds United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "21/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Leeds United 0 - 0 Brentford"
+                        }
+                    ],
+                    "team": "Leeds"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "11/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Tottenham Hotspur 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "18/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Tottenham Hotspur 3 - 2 Atletico Madrid"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "15/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Liverpool 1 - 1 Tottenham Hotspur"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "10/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico Madrid 5 - 2 Tottenham Hotspur"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "05/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Tottenham Hotspur 1 - 3 Crystal Palace"
+                        }
+                    ],
+                    "team": "Tottenham"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "04/10/2025",
+                        "teams_and_score": "Leeds United 1 - 2 Tottenham Hotspur"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "28/05/2023",
+                        "teams_and_score": "Leeds United 1 - 4 Tottenham Hotspur"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "26/02/2022",
+                        "teams_and_score": "Leeds United 0 - 4 Tottenham Hotspur"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "08/05/2021",
+                        "teams_and_score": "Leeds United 3 - 1 Tottenham Hotspur"
+                    },
+                    {
+                        "competition": "FA Cup",
+                        "date": "27/01/2013",
+                        "teams_and_score": "Leeds United 2 - 1 Tottenham Hotspur"
+                    }
+                ],
+                "summary": {
+                    "Leeds_wins": "2",
+                    "Tottenham_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Leeds": "43%",
+                    "Tottenham": "57%"
+                },
+                "corners": {
+                    "Leeds": "2",
+                    "Tottenham": "14"
+                },
+                "crosses": {
+                    "Leeds": "6",
+                    "Tottenham": "9"
+                },
+                "fouls": {
+                    "Leeds": "7",
+                    "Tottenham": "12"
+                },
+                "goalkeeper_saves": {
+                    "Leeds": "1",
+                    "Tottenham": "3"
+                },
+                "offsides": {
+                    "Leeds": "3",
+                    "Tottenham": "1"
+                },
+                "shots_blocked": {
+                    "Leeds": "1",
+                    "Tottenham": "5"
+                },
+                "shots_off_target": {
+                    "Leeds": "6",
+                    "Tottenham": "8"
+                },
+                "shots_on_target": {
+                    "Leeds": "4",
+                    "Tottenham": "3"
+                },
+                "yellow_cards": {
+                    "Leeds": "1",
+                    "Tottenham": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Tottenham_v_Leeds_2026_05_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/63.webp",
+                    "name": "Leeds",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/47.webp",
+                    "name": "Tottenham",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/tottenham-v-leeds-2026-05-11-bTJA.webp",
+            "title": "Tottenham Hotspur vs Leeds"
+        },
+        {
+            "competition": "FA Cup",
+            "competition_cover": "https://refooty.com/covers/fa-cup.webp",
+            "date": "Apr 5, 2026",
+            "description": "Watch West Ham vs Leeds highlights and goals from FA Cup on ReFooty: Football Highlights Hub. Match played on April 5, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/West_Ham_v_Leeds_2026_04_05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/west-ham-v-leeds-2026-04-05-6Z56.webp",
+            "title": "West Ham vs Leeds"
+        }
+    ]
+}

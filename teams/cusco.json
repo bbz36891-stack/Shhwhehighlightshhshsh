@@ -1,0 +1,808 @@
+{
+    "team": "Cusco",
+    "team_logo": "https://img.refooty.com/logo/teams/10013.webp",
+    "total_matches": 5,
+    "matches": [
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 7, 2026",
+            "description": "Watch Cusco vs Estudiantes L.P. highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 7, 2026. The CONMEBOL Libertadores continued to deliver drama as Cusco and Estudiantes L.P. faced off in a highly anticipated encounter. On a night filled with tactical discipline and physical battles, both sides looked to secure vital points in their continental campaign. A Tight Opening Exchange On May 7, 2026 , the match began with high energy as both teams sought to establish dominance in the midfield. The early stages were characterized by a series of fouls and tactical positioning, with Alexis Castro receiving the first yellow card for the visitors in the 41st minute. However, the home side found their breakthrough in the 37th minute when Lucas Colitto capitalized on a defensive opening to strike the ball home, sending the local fans into a frenzy. As the first half drew to a close, Aldair Fuentes was also booked, signaling the intensity of the duel. The Response and Tactical Shifts The second half saw Estudiantes L.P. push forward with more urgency. Their persistence paid off in the 58th minute when Mikel Amondarain provided a sublime assist for Tiago Palacios , who made no mistake with his finish to equalize. Following the goal, both coaches utilized their substitutions to freshen up the play. Estudiantes introduced Facundo Farias and Lucas Alario , while Cusco brought on Juan Manuel Tevez and Nicolas Silva to maintain their attacking threat. Late Tension in Cusco As the clock ticked towards the 90-minute mark, the match became increasingly physical. Facundo Farias was cautioned in the 85th minute, followed shortly by Gabriel Neves in the 89th minute. Despite five minutes of added time and several tactical changes, including the introduction of Jose Bolivar for the hosts, neither side could find a late winner. The final whistle confirmed a hard-fought draw in this CONMEBOL Libertadores clash.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "L. Colitto",
+                    "score_update": "1 - 0",
+                    "team": "Cusco",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Castro",
+                    "team": "Estudiantes L.P.",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Fuentes",
+                    "team": "Cusco",
+                    "time": "31'"
+                },
+                {
+                    "assist": "M. Amondarain",
+                    "event_type": "Goal",
+                    "player": "T. Palacios",
+                    "score_update": "1 - 1",
+                    "team": "Estudiantes L.P.",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Farias",
+                    "team": "Estudiantes L.P.",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Neves",
+                    "team": "Estudiantes L.P.",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group A",
+                            "date": "06/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Cusco FC 1 - 1 Estudiantes de la Plata"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Atletico Platense 0 - 2 Estudiantes de la Plata"
+                        },
+                        {
+                            "competition": "Group A",
+                            "date": "30/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Estudiantes de la Plata 1 - 1 Flamengo"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Estudiantes de la Plata 0 - 0 Talleres"
+                        },
+                        {
+                            "competition": "Group A",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Estudiantes de la Plata 2 - 1 Cusco FC"
+                        }
+                    ],
+                    "team": "Estudiantes L.P."
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group A",
+                            "date": "06/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Cusco FC 1 - 1 Estudiantes de la Plata"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sporting Cristal 2 - 2 Cusco FC"
+                        },
+                        {
+                            "competition": "Group A",
+                            "date": "01/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente Medellin 1 - 0 Cusco FC"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cusco FC 2 - 1 Sport Huancayo"
+                        },
+                        {
+                            "competition": "Group A",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Estudiantes de la Plata 2 - 1 Cusco FC"
+                        }
+                    ],
+                    "team": "Cusco"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group A",
+                        "date": "14/04/2026",
+                        "teams_and_score": "Estudiantes de la Plata 2 - 1 Cusco FC"
+                    },
+                    {
+                        "competition": "Copa Libertadores Grp. F",
+                        "date": "01/05/2018",
+                        "teams_and_score": "Cusco FC 0 - 0 Estudiantes de la Plata"
+                    }
+                ],
+                "summary": {
+                    "Cusco_wins": "0",
+                    "Estudiantes LP_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cusco": "61%",
+                    "Estudiantes LP": "39%"
+                },
+                "corners": {
+                    "Cusco": "3",
+                    "Estudiantes LP": "3"
+                },
+                "fouls": {
+                    "Cusco": "8",
+                    "Estudiantes LP": "5"
+                },
+                "goalkeeper_saves": {
+                    "Cusco": "2",
+                    "Estudiantes LP": "7"
+                },
+                "offsides": {
+                    "Cusco": "6",
+                    "Estudiantes LP": "0"
+                },
+                "shots_off_target": {
+                    "Cusco": "4",
+                    "Estudiantes LP": "5"
+                },
+                "shots_on_target": {
+                    "Cusco": "8",
+                    "Estudiantes LP": "2"
+                },
+                "yellow_cards": {
+                    "Cusco": "1",
+                    "Estudiantes LP": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cusco-vs-estudiantes-lp-2026-05-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/450.webp",
+                    "name": "Estudiantes L.P.",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10013.webp",
+                    "name": "Cusco",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cusco-vs-estudiantes-lp-2026-05-07-4dn0.webp",
+            "title": "Cusco vs Estudiantes L.P."
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 8, 2026",
+            "description": "Watch Cusco vs Flamengo highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 8, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Fuentes",
+                    "team": "Cusco",
+                    "time": "1'"
+                },
+                {
+                    "assist": "A. Lucas",
+                    "event_type": "Goal",
+                    "player": "B. H. Pinto",
+                    "score_update": "0 - 1",
+                    "team": "Flamengo",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Manzaneda",
+                    "team": "Cusco",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Manzaneda",
+                    "team": "Cusco",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. d. Arrascaeta",
+                    "score_update": "0 - 2",
+                    "team": "Flamengo",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group A",
+                            "date": "09/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cusco FC 0 - 2 Flamengo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Flamengo 3 - 1 Santos FC"
+                        },
+                        {
+                            "competition": "Carioca Taca Guanabara: Play-off",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Fluminense 0 - 0 Flamengo"
+                        },
+                        {
+                            "competition": "Recopa Sudamericana",
+                            "date": "27/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Flamengo 2 - 3 Lanus"
+                        }
+                    ],
+                    "team": "Flamengo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group A",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Cusco FC 0 - 2 Flamengo"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "FBC Melgar 1 - 3 Cusco FC"
+                        }
+                    ],
+                    "team": "Cusco"
+                },
+                "summary": {
+                    "Cusco_wins": "0",
+                    "Flamengo_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cusco": "50%",
+                    "Flamengo": "50%"
+                },
+                "corners": {
+                    "Cusco": "5",
+                    "Flamengo": "7"
+                },
+                "fouls": {
+                    "Cusco": "12",
+                    "Flamengo": "7"
+                },
+                "goalkeeper_saves": {
+                    "Cusco": "8",
+                    "Flamengo": "2"
+                },
+                "offsides": {
+                    "Cusco": "5",
+                    "Flamengo": "2"
+                },
+                "shots_off_target": {
+                    "Cusco": "6",
+                    "Flamengo": "9"
+                },
+                "shots_on_target": {
+                    "Cusco": "2",
+                    "Flamengo": "10"
+                },
+                "yellow_cards": {
+                    "Cusco": "2",
+                    "Flamengo": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cusco-vs-flamengo-2026-04-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/127.webp",
+                    "name": "Flamengo",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10013.webp",
+                    "name": "Cusco",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cusco-vs-flamengo-2026-04-08-cAM0.webp",
+            "title": "Cusco vs Flamengo"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 14, 2026",
+            "description": "Watch Estudiantes L.P. vs Cusco highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 14, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "F. Farias",
+                    "score_update": "1 - 0",
+                    "team": "Estudiantes L.P.",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Piovi",
+                    "team": "Estudiantes L.P.",
+                    "time": "16'"
+                },
+                {
+                    "assist": "D. Soto",
+                    "event_type": "Goal",
+                    "player": "L. Colitto",
+                    "score_update": "1 - 1",
+                    "team": "Cusco",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Colitto",
+                    "team": "Cusco",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Palacios",
+                    "score_update": "2 - 1",
+                    "team": "Estudiantes L.P.",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "L. Colitto",
+                    "team": "Cusco",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Valenzuela",
+                    "team": "Cusco",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. G. Pirez",
+                    "team": "Estudiantes L.P.",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group A",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Estudiantes de la Plata 2 - 1 Cusco FC"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "FBC Melgar 1 - 3 Cusco FC"
+                        }
+                    ],
+                    "team": "Cusco"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group A",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Estudiantes de la Plata 2 - 1 Cusco FC"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Estudiantes de la Plata 2 - 1 Union"
+                        },
+                        {
+                            "competition": "Group A",
+                            "date": "09/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Independiente Medellin 1 - 1 Estudiantes de la Plata"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "03/04/2026",
+                            "result": "L",
+                            "teams_and_score": "San Lorenzo de Almagro 1 - 0 Estudiantes de la Plata"
+                        }
+                    ],
+                    "team": "Estudiantes L.P."
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Copa Libertadores Grp. F",
+                        "date": "01/05/2018",
+                        "teams_and_score": "Cusco FC 0 - 0 Estudiantes de la Plata"
+                    }
+                ],
+                "summary": {
+                    "Cusco_wins": "0",
+                    "Estudiantes LP_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cusco": "42%",
+                    "Estudiantes LP": "58%"
+                },
+                "corners": {
+                    "Cusco": "0",
+                    "Estudiantes LP": "4"
+                },
+                "fouls": {
+                    "Cusco": "7",
+                    "Estudiantes LP": "10"
+                },
+                "goalkeeper_saves": {
+                    "Cusco": "10",
+                    "Estudiantes LP": "1"
+                },
+                "offsides": {
+                    "Cusco": "3",
+                    "Estudiantes LP": "1"
+                },
+                "red_cards": {
+                    "Cusco": "1",
+                    "Estudiantes LP": "0"
+                },
+                "shots_off_target": {
+                    "Cusco": "3",
+                    "Estudiantes LP": "10"
+                },
+                "shots_on_target": {
+                    "Cusco": "2",
+                    "Estudiantes LP": "12"
+                },
+                "yellow_cards": {
+                    "Cusco": "1",
+                    "Estudiantes LP": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/estudiantes-lp-vs-cusco-2026-04-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10013.webp",
+                    "name": "Cusco",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/450.webp",
+                    "name": "Estudiantes L.P.",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/estudiantes-lp-vs-cusco-2026-04-14-0Q8f.webp",
+            "title": "Estudiantes L.P. vs Cusco"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 26, 2026",
+            "description": "Watch Flamengo vs Cusco highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 26, 2026. Flamengo and Cusco faced off in a highly anticipated CONMEBOL Libertadores fixture on May 26, 2026. The atmosphere was electric as both teams sought to establish dominance in one of South America's most prestigious football competitions. A Gritty Battle in the Opening Half The match began with a display of tactical discipline and physical intensity. Cusco set up a resilient defensive block that frustrated Flamengo 's creative outlets early on. The competitive nature of the game was evident as the referee stayed busy, issuing yellow cards to Diego Soto in the 14th minute and Gabriel Carabajal in the 31st. Despite controlling much of the possession, the home side struggled to find a clinical finish, and the first half concluded without a goal, leaving the fans in suspense. Tactical Shifts and Sustained Pressure As the second half got underway, both managers turned to their benches to find a spark. Cusco introduced Oswaldo Valenzuela and Juan Manuel Tevez , but their disciplinary struggles continued with Tevez and Carlos Diez also entering the referee's book. Flamengo responded by bringing on heavyweight reinforcements; the introduction of Pedro and Erick Pulgar at the hour mark, followed by Lucas Paquetá shortly after, shifted the momentum firmly in favor of the Brazilian giants. Bruno Henrique Leads the Late Charge The deadlock was finally broken in the 80th minute when Pedro turned provider, setting up Bruno Henrique for a clinical strike. The goal opened the floodgates, and the Cusco defense, which had been so sturdy for over an hour, began to crumble. Just four minutes later, Bruno Henrique struck again, doubling the lead and effectively putting the game out of reach for the visitors. In the dying moments, the drama continued as Alvaro Ampuero was cautioned for a foul in the box in the 89th minute. Lucas Paquetá stepped up to the spot and calmly converted the penalty in the first minute of stoppage time. The 3-0 result capped off a professional performance by Flamengo , who displayed patience and clinical finishing to secure all three points.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Soto",
+                    "team": "Cusco",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Carabajal",
+                    "team": "Cusco",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Tevez",
+                    "team": "Cusco",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Diez",
+                    "team": "Cusco",
+                    "time": "67'"
+                },
+                {
+                    "assist": "Pedro",
+                    "event_type": "Goal",
+                    "player": "B. H. Pinto",
+                    "score_update": "1 - 0",
+                    "team": "Flamengo",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. H. Pinto",
+                    "score_update": "2 - 0",
+                    "team": "Flamengo",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Ampuero",
+                    "team": "Cusco",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Paquetá",
+                    "score_update": "3 - 0",
+                    "team": "Flamengo",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group A",
+                            "date": "27/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Flamengo 3 - 0 Cusco FC"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "23/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Cusco FC 1 - 0 Atletico Grau"
+                        },
+                        {
+                            "competition": "Group A",
+                            "date": "21/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Cusco FC 2 - 3 Independiente Medellin"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Sport Boys 1 - 0 Cusco FC"
+                        },
+                        {
+                            "competition": "Group A",
+                            "date": "06/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Cusco FC 1 - 1 Estudiantes de la Plata"
+                        }
+                    ],
+                    "team": "Cusco"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group A",
+                            "date": "27/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Flamengo 3 - 0 Cusco FC"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Flamengo 0 - 3 Palmeiras"
+                        },
+                        {
+                            "competition": "Group A",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Flamengo 1 - 0 Estudiantes de la Plata"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Athletico Paranaense 1 - 1 Flamengo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "15/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Vitoria 2 - 0 Flamengo"
+                        }
+                    ],
+                    "team": "Flamengo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group A",
+                        "date": "09/04/2026",
+                        "teams_and_score": "Cusco FC 0 - 2 Flamengo"
+                    }
+                ],
+                "summary": {
+                    "Cusco_wins": "0",
+                    "Flamengo_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cusco": "32%",
+                    "Flamengo": "68%"
+                },
+                "corners": {
+                    "Cusco": "2",
+                    "Flamengo": "9"
+                },
+                "fouls": {
+                    "Cusco": "12",
+                    "Flamengo": "11"
+                },
+                "goalkeeper_saves": {
+                    "Cusco": "11",
+                    "Flamengo": "1"
+                },
+                "offsides": {
+                    "Cusco": "2",
+                    "Flamengo": "1"
+                },
+                "shots_off_target": {
+                    "Cusco": "3",
+                    "Flamengo": "7"
+                },
+                "shots_on_target": {
+                    "Cusco": "1",
+                    "Flamengo": "15"
+                },
+                "yellow_cards": {
+                    "Cusco": "5",
+                    "Flamengo": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/flamengo-vs-cusco-2026-05-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10013.webp",
+                    "name": "Cusco",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/127.webp",
+                    "name": "Flamengo",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/flamengo-vs-cusco-2026-05-26-7Q8o.webp",
+            "title": "Flamengo vs Cusco"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 30, 2026",
+            "description": "Watch Independiente Medellin vs Cusco highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 30, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/independiente-medellin-vs-cusco-2026-04-30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/independiente-medellin-vs-cusco-2026-04-30-6gjp.webp",
+            "title": "Independiente Medellin vs Cusco"
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "team": "Buxton",
+    "team_logo": "https://img.refooty.com/logo/teams/7706.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "FA Cup",
+            "competition_cover": "https://refooty.com/covers/fa-cup.webp",
+            "date": "Feb 14, 2026",
+            "description": "Watch Buxton vs West Ham highlights and goals from FA Cup on ReFooty: Football Highlights Hub. Match played on February 14, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "E. Mayers",
+                    "event_type": "Goal",
+                    "player": "C. Summerville",
+                    "score_update": "0 - 1",
+                    "team": "West Ham",
+                    "time": "95'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "F. Potts",
+                    "team": "West Ham",
+                    "time": "101'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Walker-Peters",
+                    "team": "West Ham",
+                    "time": "120+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Collins",
+                    "team": "Buxton",
+                    "time": "120+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Adom",
+                    "team": "Buxton",
+                    "time": "120+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Burton Albion 0 - 1 West Ham United"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "West Ham United 1 - 1 Manchester United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "West Ham United 2 - 1 QPR"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "06/01/2026",
+                            "result": "L",
+                            "teams_and_score": "West Ham United 1 - 2 Nottingham Forest"
+                        }
+                    ],
+                    "team": "West Ham"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Burton Albion 0 - 1 West Ham United"
+                        },
+                        {
+                            "competition": "League 1",
+                            "date": "07/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Port Vale 2 - 2 Burton Albion"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Boreham Wood 0 - 5 Burton Albion"
+                        },
+                        {
+                            "competition": "League 1",
+                            "date": "04/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Plymouth Argyle 3 - 0 Burton Albion"
+                        }
+                    ],
+                    "team": "Buxton"
+                },
+                "summary": {
+                    "Buxton_wins": "0",
+                    "West Ham_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Buxton": "38%",
+                    "West Ham": "62%"
+                },
+                "corners": {
+                    "Buxton": "7",
+                    "West Ham": "12"
+                },
+                "crosses": {
+                    "Buxton": "10",
+                    "West Ham": "5"
+                },
+                "fouls": {
+                    "Buxton": "8",
+                    "West Ham": "14"
+                },
+                "goalkeeper_saves": {
+                    "Buxton": "4",
+                    "West Ham": "2"
+                },
+                "offsides": {
+                    "Buxton": "4",
+                    "West Ham": "4"
+                },
+                "red_cards": {
+                    "Buxton": "0",
+                    "West Ham": "1"
+                },
+                "shots_blocked": {
+                    "Buxton": "9",
+                    "West Ham": "9"
+                },
+                "shots_off_target": {
+                    "Buxton": "7",
+                    "West Ham": "4"
+                },
+                "shots_on_target": {
+                    "Buxton": "3",
+                    "West Ham": "5"
+                },
+                "yellow_cards": {
+                    "Buxton": "2",
+                    "West Ham": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Burton_v_West_Ham_2026_02_14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/48.webp",
+                    "name": "West Ham",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/7706.webp",
+                    "name": "Buxton",
+                    "score": "0"
+                },
+                "status": "AET"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/burton-v-west-ham-2026-02-14-cmkO.webp",
+            "title": "Burton vs West Ham"
+        }
+    ]
+}

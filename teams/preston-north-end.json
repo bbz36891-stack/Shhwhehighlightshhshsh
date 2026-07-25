@@ -1,0 +1,1631 @@
+{
+    "team": "Preston North End",
+    "team_logo": "",
+    "total_matches": 11,
+    "matches": [
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 12, 2026",
+            "description": "Watch Coventry vs Preston North End highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 12, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/coventry-vs-preston-north-end-2026-03-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/coventry-vs-preston-north-end-2026-03-12-xGPs.webp",
+            "title": "Coventry vs Preston North End"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch Norwich City vs Preston North End highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Ben Slimane",
+                    "team": "Norwich City",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Ahmed",
+                    "score_update": "1 - 0",
+                    "team": "Norwich City",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. McLean",
+                    "score_update": "2 - 0",
+                    "team": "Norwich City",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Potts",
+                    "team": "Preston North End",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "14/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Norwich City 2 - 0 Preston North End"
+                        }
+                    ],
+                    "team": "Preston North End"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "14/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Norwich City 2 - 0 Preston North End"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 3 - 0 Norwich City"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Leicester City 0 - 2 Norwich City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Norwich City 3 - 1 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Oxford United 0 - 3 Norwich City"
+                        }
+                    ],
+                    "team": "Norwich City"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "20/12/2025",
+                        "teams_and_score": "Preston North End 1 - 1 Norwich City"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "11/02/2025",
+                        "teams_and_score": "Norwich City 0 - 1 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "13/04/2024",
+                        "teams_and_score": "Preston North End 0 - 1 Norwich City"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "14/01/2023",
+                        "teams_and_score": "Preston North End 0 - 4 Norwich City"
+                    },
+                    {
+                        "competition": "Championship 20/21",
+                        "date": "02/04/2021",
+                        "teams_and_score": "Preston North End 1 - 1 Norwich City"
+                    },
+                    {
+                        "competition": "FA Cup 19/20",
+                        "date": "04/01/2020",
+                        "teams_and_score": "Preston North End 2 - 4 Norwich City"
+                    }
+                ],
+                "summary": {
+                    "Norwich City_wins": "3",
+                    "Preston North End_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Norwich City": "63%",
+                    "Preston North End": "37%"
+                },
+                "corners": {
+                    "Norwich City": "5",
+                    "Preston North End": "3"
+                },
+                "crosses": {
+                    "Norwich City": "0",
+                    "Preston North End": "4"
+                },
+                "fouls": {
+                    "Norwich City": "9",
+                    "Preston North End": "14"
+                },
+                "goalkeeper_saves": {
+                    "Norwich City": "4",
+                    "Preston North End": "1"
+                },
+                "offsides": {
+                    "Norwich City": "0",
+                    "Preston North End": "2"
+                },
+                "shots_blocked": {
+                    "Norwich City": "1",
+                    "Preston North End": "6"
+                },
+                "shots_off_target": {
+                    "Norwich City": "4",
+                    "Preston North End": "5"
+                },
+                "shots_on_target": {
+                    "Norwich City": "4",
+                    "Preston North End": "4"
+                },
+                "yellow_cards": {
+                    "Norwich City": "1",
+                    "Preston North End": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/norwich-city-vs-preston-north-end-2026-03-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/25148.webp",
+                    "name": "Preston North End",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18210.webp",
+                    "name": "Norwich City",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/norwich-city-vs-preston-north-end-2026-03-15-aF0M.webp",
+            "title": "Norwich City vs Preston North End"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 20, 2026",
+            "description": "Watch Preston North End vs Stoke City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 20, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Tchamadeu",
+                    "event_type": "Goal",
+                    "player": "S. Thomas",
+                    "score_update": "0 - 1",
+                    "team": "Stoke City",
+                    "time": "1'"
+                },
+                {
+                    "assist": "A. Moran",
+                    "event_type": "Goal",
+                    "player": "A. Devine",
+                    "score_update": "1 - 1",
+                    "team": "Preston North End",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Devine",
+                    "team": "Preston North End",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Whiteman",
+                    "team": "Preston North End",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Manhoef",
+                    "team": "Stoke City",
+                    "time": "61'"
+                },
+                {
+                    "assist": "L. Dobbin",
+                    "event_type": "Goal",
+                    "player": "M. Osmajić",
+                    "score_update": "2 - 1",
+                    "team": "Preston North End",
+                    "time": "46'"
+                },
+                {
+                    "assist": "M. Osmajić",
+                    "event_type": "Goal",
+                    "player": "A. Devine",
+                    "score_update": "3 - 1",
+                    "team": "Preston North End",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "20/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Preston North End 3 - 1 Stoke City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "15/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Stoke City 1 - 2 Fulham"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "11/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlton Athletic 1 - 0 Stoke City"
+                        }
+                    ],
+                    "team": "Stoke City"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "20/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Preston North End 3 - 1 Stoke City"
+                        }
+                    ],
+                    "team": "Preston North End"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "26/12/2025",
+                        "teams_and_score": "Stoke City 0 - 0 Preston North End"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "05/04/2025",
+                        "teams_and_score": "Preston North End 1 - 1 Stoke City"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "09/03/2024",
+                        "teams_and_score": "Preston North End 1 - 2 Stoke City"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "02/01/2023",
+                        "teams_and_score": "Stoke City 0 - 1 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "03/01/2022",
+                        "teams_and_score": "Stoke City 1 - 2 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 20/21",
+                        "date": "17/04/2021",
+                        "teams_and_score": "Stoke City 0 - 0 Preston North End"
+                    }
+                ],
+                "summary": {
+                    "Preston North End_wins": "2",
+                    "Stoke City_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Preston North End": "46%",
+                    "Stoke City": "54%"
+                },
+                "corners": {
+                    "Preston North End": "7",
+                    "Stoke City": "9"
+                },
+                "crosses": {
+                    "Preston North End": "7",
+                    "Stoke City": "3"
+                },
+                "fouls": {
+                    "Preston North End": "12",
+                    "Stoke City": "7"
+                },
+                "goalkeeper_saves": {
+                    "Preston North End": "1",
+                    "Stoke City": "0"
+                },
+                "offsides": {
+                    "Preston North End": "3",
+                    "Stoke City": "0"
+                },
+                "shots_blocked": {
+                    "Preston North End": "5",
+                    "Stoke City": "8"
+                },
+                "shots_off_target": {
+                    "Preston North End": "5",
+                    "Stoke City": "3"
+                },
+                "shots_on_target": {
+                    "Preston North End": "3",
+                    "Stoke City": "2"
+                },
+                "yellow_cards": {
+                    "Preston North End": "2",
+                    "Stoke City": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/preston-north-end-stoke-city-2026-03-20-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/75.webp",
+                    "name": "Stoke City",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/25148.webp",
+                    "name": "Preston North End",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/preston-north-end-stoke-city-2026-03-20-vn-wIgl.webp",
+            "title": "preston north end - stoke city"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Jan 21, 2026",
+            "description": "Watch Preston North End vs Hull City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on January 21, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/preston-north-end-vs-hull-city-2026-01-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/preston-north-end-vs-hull-city-2026-01-21-stio.webp",
+            "title": "Preston North End vs Hull City"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 7, 2026",
+            "description": "Watch Preston North End vs Oxford City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 7, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "C. Brannagan",
+                    "event_type": "Goal",
+                    "player": "M. Helik",
+                    "score_update": "0 - 1",
+                    "team": "Oxford City",
+                    "time": "1'"
+                },
+                {
+                    "assist": "B. Whiteman",
+                    "event_type": "Goal",
+                    "player": "M. Osmajić",
+                    "score_update": "1 - 1",
+                    "team": "Preston North End",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Brown",
+                    "team": "Oxford City",
+                    "time": "31'"
+                },
+                {
+                    "assist": "S. Mills",
+                    "event_type": "Goal",
+                    "player": "W. Lankshear",
+                    "score_update": "1 - 2",
+                    "team": "Oxford City",
+                    "time": "54'"
+                },
+                {
+                    "assist": "M. Helik",
+                    "event_type": "Goal",
+                    "player": "C. Brown",
+                    "score_update": "1 - 3",
+                    "team": "Oxford City",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Storey",
+                    "team": "Preston North End",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Preston North End 1 - 3 Oxford United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "15/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Oxford United 0 - 1 Sunderland"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Oxford United 0 - 3 Norwich City"
+                        }
+                    ],
+                    "team": "Oxford City"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "06/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Preston North End 1 - 3 Oxford United"
+                        }
+                    ],
+                    "team": "Preston North End"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "13/12/2025",
+                        "teams_and_score": "Oxford United 1 - 2 Preston North End"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "04/01/2025",
+                        "teams_and_score": "Preston North End 1 - 1 Oxford United"
+                    },
+                    {
+                        "competition": "League One",
+                        "date": "14/03/2000",
+                        "teams_and_score": "Preston North End 3 - 1 Oxford United"
+                    }
+                ],
+                "summary": {
+                    "Oxford City_wins": "0",
+                    "Preston North End_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Oxford City": "30%",
+                    "Preston North End": "70%"
+                },
+                "corners": {
+                    "Oxford City": "5",
+                    "Preston North End": "9"
+                },
+                "crosses": {
+                    "Oxford City": "1",
+                    "Preston North End": "6"
+                },
+                "fouls": {
+                    "Oxford City": "10",
+                    "Preston North End": "9"
+                },
+                "goalkeeper_saves": {
+                    "Oxford City": "3",
+                    "Preston North End": "4"
+                },
+                "offsides": {
+                    "Oxford City": "0",
+                    "Preston North End": "3"
+                },
+                "shots_blocked": {
+                    "Oxford City": "2",
+                    "Preston North End": "4"
+                },
+                "shots_off_target": {
+                    "Oxford City": "6",
+                    "Preston North End": "5"
+                },
+                "shots_on_target": {
+                    "Oxford City": "7",
+                    "Preston North End": "4"
+                },
+                "yellow_cards": {
+                    "Oxford City": "1",
+                    "Preston North End": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/preston-north-end-vs-oxford-city-2026-03-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4684.webp",
+                    "name": "Oxford City",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/25148.webp",
+                    "name": "Preston North End",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/preston-north-end-vs-oxford-city-2026-03-07-hwfq.webp",
+            "title": "Preston North End vs Oxford City"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Apr 6, 2026",
+            "description": "Watch Preston North End vs QPR highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on April 6, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Varane",
+                    "team": "QPR",
+                    "time": "1'"
+                },
+                {
+                    "assist": "A. Devine",
+                    "event_type": "Goal",
+                    "player": "B. Potts",
+                    "score_update": "1 - 0",
+                    "team": "Preston North End",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Morgan",
+                    "team": "QPR",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Gibson",
+                    "team": "Preston North End",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Small",
+                    "team": "QPR",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Clarke-Salter",
+                    "team": "QPR",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "06/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Preston North End 1 - 1 QPR"
+                        }
+                    ],
+                    "team": "QPR"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "06/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Preston North End 1 - 1 QPR"
+                        }
+                    ],
+                    "team": "Preston North End"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "09/08/2025",
+                        "teams_and_score": "QPR 1 - 1 Preston North End"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "18/04/2025",
+                        "teams_and_score": "Preston North End 1 - 2 QPR"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "20/04/2024",
+                        "teams_and_score": "QPR 1 - 0 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "07/04/2023",
+                        "teams_and_score": "QPR 0 - 2 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "09/04/2022",
+                        "teams_and_score": "Preston North End 2 - 1 QPR"
+                    },
+                    {
+                        "competition": "Championship 20/21",
+                        "date": "24/02/2021",
+                        "teams_and_score": "Preston North End 0 - 0 QPR"
+                    }
+                ],
+                "summary": {
+                    "Preston North End_wins": "2",
+                    "QPR_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Preston North End": "51%",
+                    "QPR": "49%"
+                },
+                "corners": {
+                    "Preston North End": "2",
+                    "QPR": "6"
+                },
+                "crosses": {
+                    "Preston North End": "3",
+                    "QPR": "5"
+                },
+                "fouls": {
+                    "Preston North End": "4",
+                    "QPR": "8"
+                },
+                "goalkeeper_saves": {
+                    "Preston North End": "5",
+                    "QPR": "1"
+                },
+                "offsides": {
+                    "Preston North End": "4",
+                    "QPR": "2"
+                },
+                "shots_blocked": {
+                    "Preston North End": "4",
+                    "QPR": "5"
+                },
+                "shots_off_target": {
+                    "Preston North End": "2",
+                    "QPR": "8"
+                },
+                "shots_on_target": {
+                    "Preston North End": "2",
+                    "QPR": "5"
+                },
+                "yellow_cards": {
+                    "Preston North End": "1",
+                    "QPR": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/preston-north-end-vs-qpr-2026-04-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/72.webp",
+                    "name": "QPR",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/25148.webp",
+                    "name": "Preston North End",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/preston-north-end-vs-qpr-2026-04-06-9ZPh.webp",
+            "title": "Preston North End vs QPR"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Preston North End vs Southampton highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on May 2, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Storey",
+                    "team": "Preston North End",
+                    "time": "1'"
+                },
+                {
+                    "assist": "Welington",
+                    "event_type": "Goal",
+                    "player": "T. Harwood-Bellis",
+                    "score_update": "0 - 1",
+                    "team": "Southampton",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Moran",
+                    "team": "Preston North End",
+                    "time": "31'"
+                },
+                {
+                    "assist": "C. Archer",
+                    "event_type": "Goal",
+                    "player": "R. Stewart",
+                    "score_update": "0 - 2",
+                    "team": "Southampton",
+                    "time": "47'"
+                },
+                {
+                    "assist": "D. Cornell",
+                    "event_type": "Goal",
+                    "player": "L. Dobbin",
+                    "score_update": "1 - 2",
+                    "team": "Preston North End",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Azaz",
+                    "team": "Southampton",
+                    "time": "81'"
+                },
+                {
+                    "assist": "S. Edozie",
+                    "event_type": "Goal",
+                    "player": "C. Larin",
+                    "score_update": "1 - 3",
+                    "team": "Southampton",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Vukcevic",
+                    "team": "Preston North End",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Preston North End 1 - 3 Southampton"
+                        },
+                        {
+                            "competition": "FA Cup: Semi-Finals",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Manchester City 2 - 1 Southampton"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "21/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Southampton 2 - 2 Bristol City"
+                        },
+                        {
+                            "competition": "FA Cup: Quarter-Finals",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Southampton 2 - 1 Arsenal"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Southampton 2 - 0 Oxford United"
+                        }
+                    ],
+                    "team": "Southampton"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Preston North End 1 - 3 Southampton"
+                        }
+                    ],
+                    "team": "Preston North End"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "01/11/2025",
+                        "teams_and_score": "Southampton 0 - 2 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "16/04/2024",
+                        "teams_and_score": "Southampton 3 - 0 Preston North End"
+                    },
+                    {
+                        "competition": "Club Friendlies 2019",
+                        "date": "20/07/2019",
+                        "teams_and_score": "Preston North End 1 - 3 Southampton"
+                    },
+                    {
+                        "competition": "League Cup",
+                        "date": "21/09/2011",
+                        "teams_and_score": "Southampton 2 - 1 Preston North End"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "21/02/2009",
+                        "teams_and_score": "Southampton 3 - 1 Preston North End"
+                    }
+                ],
+                "summary": {
+                    "Preston North End_wins": "1",
+                    "Southampton_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Preston North End": "46%",
+                    "Southampton": "54%"
+                },
+                "corners": {
+                    "Preston North End": "10",
+                    "Southampton": "5"
+                },
+                "crosses": {
+                    "Preston North End": "6",
+                    "Southampton": "3"
+                },
+                "fouls": {
+                    "Preston North End": "11",
+                    "Southampton": "6"
+                },
+                "goalkeeper_saves": {
+                    "Preston North End": "2",
+                    "Southampton": "4"
+                },
+                "offsides": {
+                    "Preston North End": "0",
+                    "Southampton": "2"
+                },
+                "shots_blocked": {
+                    "Preston North End": "5",
+                    "Southampton": "7"
+                },
+                "shots_off_target": {
+                    "Preston North End": "6",
+                    "Southampton": "6"
+                },
+                "shots_on_target": {
+                    "Preston North End": "5",
+                    "Southampton": "5"
+                },
+                "yellow_cards": {
+                    "Preston North End": "3",
+                    "Southampton": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/preston-north-end-vs-southampton-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/41.webp",
+                    "name": "Southampton",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/25148.webp",
+                    "name": "Preston North End",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/preston-north-end-vs-southampton-2026-05-02-ve8Q.webp",
+            "title": "Preston North End vs Southampton"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 14, 2026",
+            "description": "Watch Preston North End vs Watford highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/preston-north-end-vs-watford-2026-02-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/preston-north-end-vs-watford-2026-02-14-uaO6.webp",
+            "title": "Preston North End vs Watford"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Apr 18, 2026",
+            "description": "Watch Preston North End vs West Bromwich Albion highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on April 18, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Heggebø",
+                    "event_type": "Goal",
+                    "player": "J. Maja",
+                    "score_update": "0 - 1",
+                    "team": "West Bromwich Albion",
+                    "time": "1'"
+                },
+                {
+                    "assist": "J. Molumby",
+                    "event_type": "Goal",
+                    "player": "D. Dike",
+                    "score_update": "0 - 2",
+                    "team": "West Bromwich Albion",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Preston North End 0 - 2 West Bromwich Albion"
+                        }
+                    ],
+                    "team": "West Bromwich Albion"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Preston North End 0 - 2 West Bromwich Albion"
+                        }
+                    ],
+                    "team": "Preston North End"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "18/10/2025",
+                        "teams_and_score": "West Bromwich Albion 2 - 1 Preston North End"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "01/01/2025",
+                        "teams_and_score": "West Bromwich Albion 3 - 1 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "04/05/2024",
+                        "teams_and_score": "West Bromwich Albion 3 - 0 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "29/12/2022",
+                        "teams_and_score": "West Bromwich Albion 2 - 0 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "26/01/2022",
+                        "teams_and_score": "West Bromwich Albion 0 - 2 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 19/20",
+                        "date": "25/02/2020",
+                        "teams_and_score": "West Bromwich Albion 2 - 0 Preston North End"
+                    }
+                ],
+                "summary": {
+                    "Preston North End_wins": "1",
+                    "West Bromwich Albion_wins": "5",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Preston North End": "52%",
+                    "West Bromwich Albion": "48%"
+                },
+                "corners": {
+                    "Preston North End": "8",
+                    "West Bromwich Albion": "6"
+                },
+                "crosses": {
+                    "Preston North End": "3",
+                    "West Bromwich Albion": "5"
+                },
+                "fouls": {
+                    "Preston North End": "7",
+                    "West Bromwich Albion": "12"
+                },
+                "goalkeeper_saves": {
+                    "Preston North End": "1",
+                    "West Bromwich Albion": "1"
+                },
+                "offsides": {
+                    "Preston North End": "3",
+                    "West Bromwich Albion": "1"
+                },
+                "shots_blocked": {
+                    "Preston North End": "3",
+                    "West Bromwich Albion": "4"
+                },
+                "shots_off_target": {
+                    "Preston North End": "5",
+                    "West Bromwich Albion": "1"
+                },
+                "shots_on_target": {
+                    "Preston North End": "1",
+                    "West Bromwich Albion": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/preston-north-end-vs-west-bromwich-albion-2026-04-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15432.webp",
+                    "name": "West Bromwich Albion",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/25148.webp",
+                    "name": "Preston North End",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/preston-north-end-vs-west-bromwich-albion-2026-04-18-I4jb.webp",
+            "title": "Preston North End vs West Bromwich Albion"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Apr 25, 2026",
+            "description": "Watch Sheffield United vs Preston North End highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on April 25, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Thompson",
+                    "event_type": "Goal",
+                    "player": "L. Lindsay",
+                    "score_update": "0 - 1",
+                    "team": "Preston North End",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Thompson",
+                    "team": "Preston North End",
+                    "time": "16'"
+                },
+                {
+                    "assist": "A. Devine",
+                    "event_type": "Goal",
+                    "player": "L. Lindsay",
+                    "score_update": "0 - 2",
+                    "team": "Preston North End",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Vukcevic",
+                    "team": "Preston North End",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Hamer",
+                    "score_update": "1 - 2",
+                    "team": "Sheffield United",
+                    "time": "46'"
+                },
+                {
+                    "assist": "A. Devine",
+                    "event_type": "Goal",
+                    "player": "L. Dobbin",
+                    "score_update": "1 - 3",
+                    "team": "Preston North End",
+                    "time": "61'"
+                },
+                {
+                    "assist": "C. O'Hare",
+                    "event_type": "Goal",
+                    "player": "P. Bamford",
+                    "score_update": "2 - 3",
+                    "team": "Sheffield United",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Iversen",
+                    "team": "Preston North End",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sheffield United 2 - 3 Preston North End"
+                        }
+                    ],
+                    "team": "Preston North End"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sheffield United 2 - 3 Preston North End"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "24/10/2025",
+                        "teams_and_score": "Preston North End 3 - 2 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "08/03/2025",
+                        "teams_and_score": "Sheffield United 1 - 0 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "29/04/2023",
+                        "teams_and_score": "Sheffield United 4 - 1 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "18/01/2022",
+                        "teams_and_score": "Preston North End 2 - 2 Sheffield United"
+                    },
+                    {
+                        "competition": "Club Friendlies 2020",
+                        "date": "04/09/2020",
+                        "teams_and_score": "Sheffield United 2 - 2 Preston North End"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "06/04/2019",
+                        "teams_and_score": "Preston North End 0 - 1 Sheffield United"
+                    }
+                ],
+                "summary": {
+                    "Preston North End_wins": "1",
+                    "Sheffield United_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Preston North End": "31%",
+                    "Sheffield United": "69%"
+                },
+                "corners": {
+                    "Preston North End": "5",
+                    "Sheffield United": "10"
+                },
+                "crosses": {
+                    "Preston North End": "4",
+                    "Sheffield United": "8"
+                },
+                "fouls": {
+                    "Preston North End": "11",
+                    "Sheffield United": "12"
+                },
+                "goalkeeper_saves": {
+                    "Preston North End": "1",
+                    "Sheffield United": "3"
+                },
+                "offsides": {
+                    "Preston North End": "0",
+                    "Sheffield United": "3"
+                },
+                "shots_blocked": {
+                    "Preston North End": "4",
+                    "Sheffield United": "7"
+                },
+                "shots_off_target": {
+                    "Preston North End": "2",
+                    "Sheffield United": "7"
+                },
+                "shots_on_target": {
+                    "Preston North End": "6",
+                    "Sheffield United": "3"
+                },
+                "yellow_cards": {
+                    "Preston North End": "3",
+                    "Sheffield United": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sheffield-united-vs-preston-north-end-2026-04-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/25148.webp",
+                    "name": "Preston North End",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-vs-preston-north-end-2026-04-25-EIEL.webp",
+            "title": "Sheffield United vs Preston North End"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 25, 2026",
+            "description": "Watch Swansea City vs Preston North End highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 25, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "C. Lang",
+                    "event_type": "Goal",
+                    "player": "D. Jebbison",
+                    "score_update": "0 - 1",
+                    "team": "Preston North End",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Tymon",
+                    "team": "Swansea City",
+                    "time": "56'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Dobbin",
+                    "team": "Preston North End",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Key",
+                    "team": "Swansea City",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. McCann",
+                    "team": "Preston North End",
+                    "time": "88'"
+                },
+                {
+                    "assist": "G. Nunes",
+                    "event_type": "Goal",
+                    "player": "L. Cullen",
+                    "score_update": "1 - 1",
+                    "team": "Swansea City",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "24/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Swansea City 1 - 1 Preston North End"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "09/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Preston North End 0 - 1 Wigan Athletic"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "04/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Bristol City 0 - 2 Preston North End"
+                        }
+                    ],
+                    "team": "Preston North End"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "24/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Swansea City 1 - 1 Preston North End"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Swansea City 2 - 2 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "04/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Millwall 2 - 1 Swansea City"
+                        }
+                    ],
+                    "team": "Swansea City"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "05/11/2025",
+                        "teams_and_score": "Preston North End 2 - 1 Swansea City"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "04/03/2025",
+                        "teams_and_score": "Preston North End 0 - 0 Swansea City"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "22/12/2023",
+                        "teams_and_score": "Swansea City 2 - 1 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "19/04/2023",
+                        "teams_and_score": "Swansea City 4 - 2 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "22/01/2022",
+                        "teams_and_score": "Swansea City 1 - 0 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 20/21",
+                        "date": "05/04/2021",
+                        "teams_and_score": "Swansea City 0 - 1 Preston North End"
+                    }
+                ],
+                "summary": {
+                    "Preston North End_wins": "2",
+                    "Swansea City_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Preston North End": "38%",
+                    "Swansea City": "62%"
+                },
+                "corners": {
+                    "Preston North End": "8",
+                    "Swansea City": "4"
+                },
+                "crosses": {
+                    "Preston North End": "5",
+                    "Swansea City": "14"
+                },
+                "fouls": {
+                    "Preston North End": "17",
+                    "Swansea City": "5"
+                },
+                "goalkeeper_saves": {
+                    "Preston North End": "1",
+                    "Swansea City": "2"
+                },
+                "offsides": {
+                    "Preston North End": "1",
+                    "Swansea City": "4"
+                },
+                "shots_blocked": {
+                    "Preston North End": "5",
+                    "Swansea City": "3"
+                },
+                "shots_off_target": {
+                    "Preston North End": "6",
+                    "Swansea City": "7"
+                },
+                "shots_on_target": {
+                    "Preston North End": "3",
+                    "Swansea City": "2"
+                },
+                "yellow_cards": {
+                    "Preston North End": "2",
+                    "Swansea City": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/swansea-city-vs-preston-north-end-2026-02-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/25148.webp",
+                    "name": "Preston North End",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/23192.webp",
+                    "name": "Swansea City",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/swansea-city-vs-preston-north-end-2026-02-25-wQJI.webp",
+            "title": "Swansea City vs Preston North End"
+        }
+    ]
+}

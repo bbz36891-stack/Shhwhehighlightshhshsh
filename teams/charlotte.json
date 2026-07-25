@@ -1,0 +1,2678 @@
+{
+    "team": "Charlotte",
+    "team_logo": "https://img.refooty.com/logo/teams/18310.webp",
+    "total_matches": 12,
+    "matches": [
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Jul 23, 2026",
+            "description": "Watch Charlotte vs Atlanta United FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on July 23, 2026. The clash between Charlotte FC and Atlanta United FC promised to be a defining encounter for both sides as they battled for vital points in the Major League Soccer campaign. Dominance from the home side Taking place on July 23, 2026, the game began with the home team looking hungrier. Kerwin Vargas opened the scoring just 16 minutes in, setting a tone of urgency. By the 45th minute, the lead was doubled when Liel Abada capitalized on an assist from Pep Biel , giving the home crowd plenty to cheer about as the teams headed into the halftime break with a comfortable cushion. A tactical shift in the second half After the restart, the dynamic shifted entirely. While Aleksey Miranchuk picked up an early yellow card, it was the clinical response of the visitors that defined the period. Elias Baez struck in the 57th minute off a Tomas Jacob assist to bring the game back into reach. The momentum continued to swing toward the visitors, culminating in an equalizing goal from Miguel Almirón in the 76th minute, which sent shockwaves through the stadium. High-stakes finale The closing stages were defined by desperation and physical battles as both sides chased a winner. Late yellow cards for Nathan Byrne and Tomas Jacob highlighted the intensity of the final minutes. Despite the frantic pace, the score remained level at 2-2 when the final whistle blew at the 90+12 minute mark, concluding a hard-fought draw.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "K. Vargas",
+                    "score_update": "1 - 0",
+                    "team": "Charlotte",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. J. Reilly",
+                    "team": "Atlanta United FC",
+                    "time": "16'"
+                },
+                {
+                    "assist": "P. Biel",
+                    "event_type": "Goal",
+                    "player": "L. Abada",
+                    "score_update": "2 - 0",
+                    "team": "Charlotte",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Miranchuk",
+                    "team": "Atlanta United FC",
+                    "time": "48'"
+                },
+                {
+                    "assist": "T. Jacob",
+                    "event_type": "Goal",
+                    "player": "E. Baez",
+                    "score_update": "2 - 1",
+                    "team": "Atlanta United FC",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Almirón",
+                    "score_update": "2 - 2",
+                    "team": "Atlanta United FC",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Byrne",
+                    "team": "Charlotte",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Jacob",
+                    "team": "Atlanta United FC",
+                    "time": "90+10'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "23/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Charlotte 2 - 2 Atlanta United"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "19/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Orlando City 4 - 1 Atlanta United"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Orlando City 1 - 1 Atlanta United"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "28/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 0 - 2 Atlanta United"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Toronto FC 1 - 2 Atlanta United"
+                        }
+                    ],
+                    "team": "Atlanta United FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "23/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Charlotte 2 - 2 Atlanta United"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "28/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 0 - 2 Atlanta United"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Nashville SC 4 - 2 Charlotte"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "US Open Cup",
+                        "date": "28/04/2026",
+                        "teams_and_score": "Charlotte 0 - 2 Atlanta United"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "19/07/2025",
+                        "teams_and_score": "Atlanta United 2 - 3 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "31/08/2024",
+                        "teams_and_score": "Charlotte 0 - 1 Atlanta United"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "13/05/2023",
+                        "teams_and_score": "Atlanta United 1 - 3 Charlotte"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "10/04/2022",
+                        "teams_and_score": "Charlotte 1 - 0 Atlanta United"
+                    }
+                ],
+                "summary": {
+                    "Atlanta United FC_wins": "2",
+                    "Charlotte_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atlanta United FC": "49%",
+                    "Charlotte": "51%"
+                },
+                "corners": {
+                    "Atlanta United FC": "3",
+                    "Charlotte": "6"
+                },
+                "fouls": {
+                    "Atlanta United FC": "9",
+                    "Charlotte": "3"
+                },
+                "goalkeeper_saves": {
+                    "Atlanta United FC": "7",
+                    "Charlotte": "4"
+                },
+                "offsides": {
+                    "Atlanta United FC": "2",
+                    "Charlotte": "1"
+                },
+                "shots_blocked": {
+                    "Atlanta United FC": "0",
+                    "Charlotte": "4"
+                },
+                "shots_off_target": {
+                    "Atlanta United FC": "6",
+                    "Charlotte": "11"
+                },
+                "shots_on_target": {
+                    "Atlanta United FC": "6",
+                    "Charlotte": "9"
+                },
+                "yellow_cards": {
+                    "Atlanta United FC": "3",
+                    "Charlotte": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charlotte-fc-atlanta-united-2026-07-23_quhrj.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1608.webp",
+                    "name": "Atlanta United FC",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charlotte-fc-atlanta-united-2026-07-23-A4su.webp",
+            "title": "Charlotte FC - Atlanta United"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 8, 2026",
+            "description": "Watch Charlotte vs Austin FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 8, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Zaha",
+                    "team": "Charlotte",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "G. Biro",
+                    "team": "Austin FC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Gorno",
+                    "score_update": "1 - 0",
+                    "team": "Charlotte",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Agyemang",
+                    "team": "Austin FC",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Uzuni",
+                    "team": "Austin FC",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Abada",
+                    "team": "Charlotte",
+                    "time": "64'"
+                },
+                {
+                    "assist": "L. Abada",
+                    "event_type": "Goal",
+                    "player": "P. Biel",
+                    "score_update": "2 - 1",
+                    "team": "Charlotte",
+                    "time": "68'"
+                },
+                {
+                    "assist": "L. d. la Torre",
+                    "event_type": "Goal",
+                    "player": "P. Biel",
+                    "score_update": "3 - 1",
+                    "team": "Charlotte",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 3 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "03/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 4 Los Angeles FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "19/10/2025",
+                            "result": "L",
+                            "teams_and_score": "San Jose Earthquakes 2 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "02/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Austin FC 1 - 2 Nashville SC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "28/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Real Salt Lake 3 - 1 Austin FC"
+                        }
+                    ],
+                    "team": "Austin FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 3 - 1 Austin FC"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "08/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 3 New York City FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "18/10/2025",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 2 - 0 Philadelphia Union"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2024",
+                        "date": "21/07/2024",
+                        "teams_and_score": "Austin FC 2 - 2 Charlotte"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "30/06/2022",
+                        "teams_and_score": "Charlotte 0 - 1 Austin FC"
+                    }
+                ],
+                "summary": {
+                    "Austin FC_wins": "1",
+                    "Charlotte_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Austin FC": "27%",
+                    "Charlotte": "73%"
+                },
+                "corners": {
+                    "Austin FC": "3",
+                    "Charlotte": "12"
+                },
+                "fouls": {
+                    "Austin FC": "12",
+                    "Charlotte": "9"
+                },
+                "goalkeeper_saves": {
+                    "Austin FC": "8",
+                    "Charlotte": "0"
+                },
+                "offsides": {
+                    "Austin FC": "1",
+                    "Charlotte": "0"
+                },
+                "red_cards": {
+                    "Austin FC": "1",
+                    "Charlotte": "0"
+                },
+                "shots_blocked": {
+                    "Austin FC": "0",
+                    "Charlotte": "10"
+                },
+                "shots_off_target": {
+                    "Austin FC": "5",
+                    "Charlotte": "4"
+                },
+                "shots_on_target": {
+                    "Austin FC": "0",
+                    "Charlotte": "11"
+                },
+                "yellow_cards": {
+                    "Austin FC": "1",
+                    "Charlotte": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charlotte-fc-austin-fc-2026-03-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/16489.webp",
+                    "name": "Austin FC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charlotte-fc-austin-fc-2026-03-08-n5Eq.webp",
+            "title": "Charlotte FC - Austin FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 10, 2026",
+            "description": "Watch Charlotte vs FC Cincinnati highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 10, 2026. The clash between Charlotte FC and FC Cincinnati offered a high-stakes tactical battle as both sides vied for supremacy in this pivotal Major League Soccer fixture. A tale of two halves On May 10, 2026 , the atmosphere at the stadium crackled with anticipation. The match began with a disciplined approach from both sides, though the tension broke in the 26th minute when Gerardo Valenzuela was shown a yellow card. Kevin Denkey eventually broke the deadlock for FC Cincinnati in the 36th minute. Just before the interval, Evander Ferreira doubled the lead in the 44th minute, capitalizing on a crisp assist from Pavel Bucha to put his side in a commanding position heading into the break. The momentum shifts The second half proved to be a whirlwind of activity. Idan Toklomati ignited a comeback in the 51st minute, scoring following a well-placed ball from Tim Ream . The momentum swung decisively toward the hosts when Pep Biel leveled the score just two minutes later, assisted by Djibril Diani . The final portion of the match saw the discipline fray, as Ashley Westwood , Samuel Gidi , Evander Ferreira , and Obinna Nwobodo all entered the referee’s notebook. Despite the frantic attempts to find a winner through late substitutions, the spoils were shared in an enthralling encounter.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Valenzuela",
+                    "team": "FC Cincinnati",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Denkey",
+                    "score_update": "0 - 1",
+                    "team": "FC Cincinnati",
+                    "time": "16'"
+                },
+                {
+                    "assist": "P. Bucha",
+                    "event_type": "Goal",
+                    "player": "Evander",
+                    "score_update": "0 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "31'"
+                },
+                {
+                    "assist": "T. Ream",
+                    "event_type": "Goal",
+                    "player": "I. Gorno",
+                    "score_update": "1 - 2",
+                    "team": "Charlotte",
+                    "time": "46'"
+                },
+                {
+                    "assist": "D. Diani",
+                    "event_type": "Goal",
+                    "player": "P. Biel",
+                    "score_update": "2 - 2",
+                    "team": "Charlotte",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Westwood",
+                    "team": "Charlotte",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Gidi",
+                    "team": "FC Cincinnati",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Evander",
+                    "team": "FC Cincinnati",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Nwobodo",
+                    "team": "FC Cincinnati",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "09/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Charlotte 2 - 2 FC Cincinnati"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "20/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 5 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "New England Revolution 6 - 1 FC Cincinnati"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "09/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Charlotte 2 - 2 FC Cincinnati"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "28/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 0 - 2 Atlanta United"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Nashville SC 4 - 2 Charlotte"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 6 - 0 Charlotte Independence"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 2 Nashville SC"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "10/08/2025",
+                        "teams_and_score": "FC Cincinnati 0 - 1 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "13/07/2024",
+                        "teams_and_score": "FC Cincinnati 1 - 3 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "23/09/2023",
+                        "teams_and_score": "FC Cincinnati 3 - 0 Charlotte"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "03/09/2022",
+                        "teams_and_score": "FC Cincinnati 2 - 0 Charlotte"
+                    }
+                ],
+                "summary": {
+                    "Charlotte_wins": "2",
+                    "FC Cincinnati_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlotte": "46%",
+                    "FC Cincinnati": "54%"
+                },
+                "corners": {
+                    "Charlotte": "7",
+                    "FC Cincinnati": "4"
+                },
+                "fouls": {
+                    "Charlotte": "8",
+                    "FC Cincinnati": "15"
+                },
+                "goalkeeper_saves": {
+                    "Charlotte": "3",
+                    "FC Cincinnati": "1"
+                },
+                "offsides": {
+                    "Charlotte": "2",
+                    "FC Cincinnati": "1"
+                },
+                "shots_blocked": {
+                    "Charlotte": "4",
+                    "FC Cincinnati": "4"
+                },
+                "shots_off_target": {
+                    "Charlotte": "5",
+                    "FC Cincinnati": "4"
+                },
+                "shots_on_target": {
+                    "Charlotte": "3",
+                    "FC Cincinnati": "5"
+                },
+                "yellow_cards": {
+                    "Charlotte": "1",
+                    "FC Cincinnati": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charlotte-fc-fc-cincinnati-2026-05-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charlotte-fc-fc-cincinnati-2026-05-10-98ZN.webp",
+            "title": "Charlotte FC - FC Cincinnati"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch Charlotte vs Inter Miami highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Silvetti",
+                    "team": "Inter Miami",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Zaha",
+                    "team": "Charlotte",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Westwood",
+                    "team": "Charlotte",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Segovia",
+                    "team": "Inter Miami",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Toffolo",
+                    "team": "Charlotte",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "14/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Charlotte 0 - 0 Inter Miami CF"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "11/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Nashville SC 0 - 0 Inter Miami CF"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "DC United 1 - 2 Inter Miami CF"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "06/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Inter Miami CF 3 - 1 Vancouver Whitecaps"
+                        }
+                    ],
+                    "team": "Inter Miami"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "14/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Charlotte 0 - 0 Inter Miami CF"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "08/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 3 New York City FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "18/10/2025",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 2 - 0 Philadelphia Union"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "13/09/2025",
+                        "teams_and_score": "Charlotte 3 - 0 Inter Miami CF"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "28/09/2024",
+                        "teams_and_score": "Inter Miami CF 1 - 1 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "21/10/2023",
+                        "teams_and_score": "Charlotte 1 - 0 Inter Miami CF"
+                    },
+                    {
+                        "competition": "Leagues Cup Play-offs",
+                        "date": "12/08/2023",
+                        "teams_and_score": "Inter Miami CF 4 - 0 Charlotte"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "17/07/2022",
+                        "teams_and_score": "Inter Miami CF 3 - 2 Charlotte"
+                    }
+                ],
+                "summary": {
+                    "Charlotte_wins": "2",
+                    "Inter Miami_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlotte": "48%",
+                    "Inter Miami": "52%"
+                },
+                "corners": {
+                    "Charlotte": "3",
+                    "Inter Miami": "5"
+                },
+                "fouls": {
+                    "Charlotte": "12",
+                    "Inter Miami": "17"
+                },
+                "goalkeeper_saves": {
+                    "Charlotte": "3",
+                    "Inter Miami": "5"
+                },
+                "offsides": {
+                    "Charlotte": "0",
+                    "Inter Miami": "2"
+                },
+                "shots_blocked": {
+                    "Charlotte": "1",
+                    "Inter Miami": "1"
+                },
+                "shots_off_target": {
+                    "Charlotte": "4",
+                    "Inter Miami": "4"
+                },
+                "shots_on_target": {
+                    "Charlotte": "5",
+                    "Inter Miami": "3"
+                },
+                "yellow_cards": {
+                    "Charlotte": "3",
+                    "Inter Miami": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charlotte-fc-inter-miami-cf-2026-03-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/9568.webp",
+                    "name": "Inter Miami",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charlotte-fc-inter-miami-cf-2026-03-15-cesA.webp",
+            "title": "Charlotte FC - Inter Miami CF"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 12, 2026",
+            "description": "Watch Charlotte vs Nashville SC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 12, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "P. Yazbek",
+                    "event_type": "Goal",
+                    "player": "E. Tagseth",
+                    "score_update": "0 - 1",
+                    "team": "Nashville SC",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Muyl",
+                    "team": "Nashville SC",
+                    "time": "16'"
+                },
+                {
+                    "assist": "H. Mukhtar",
+                    "event_type": "Goal",
+                    "player": "P. Yazbek",
+                    "score_update": "0 - 2",
+                    "team": "Nashville SC",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Lovitz",
+                    "team": "Nashville SC",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Gorno",
+                    "score_update": "0 - 2",
+                    "team": "Charlotte",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Goodwin",
+                    "score_update": "1 - 2",
+                    "team": "Charlotte",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Mukhtar",
+                    "team": "Nashville SC",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 1 - 2 Nashville SC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "08/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Nashville SC 0 - 0 CF America"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "05/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Chicago Fire 1 - 0 Nashville SC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "18/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Inter Miami CF 1 - 1 Nashville SC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "14/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Columbus Crew 0 - 1 Nashville SC"
+                        }
+                    ],
+                    "team": "Nashville SC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 2 Nashville SC"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "08/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 3 New York City FC"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "11/05/2025",
+                        "teams_and_score": "Nashville SC 2 - 1 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "11/05/2024",
+                        "teams_and_score": "Charlotte 1 - 0 Nashville SC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "03/09/2023",
+                        "teams_and_score": "Nashville SC 1 - 1 Charlotte"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "09/07/2022",
+                        "teams_and_score": "Charlotte 4 - 1 Nashville SC"
+                    }
+                ],
+                "summary": {
+                    "Charlotte_wins": "2",
+                    "Nashville SC_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlotte": "45%",
+                    "Nashville SC": "55%"
+                },
+                "corners": {
+                    "Charlotte": "2",
+                    "Nashville SC": "4"
+                },
+                "fouls": {
+                    "Charlotte": "9",
+                    "Nashville SC": "15"
+                },
+                "goalkeeper_saves": {
+                    "Charlotte": "4",
+                    "Nashville SC": "2"
+                },
+                "shots_blocked": {
+                    "Charlotte": "2",
+                    "Nashville SC": "0"
+                },
+                "shots_off_target": {
+                    "Charlotte": "3",
+                    "Nashville SC": "5"
+                },
+                "shots_on_target": {
+                    "Charlotte": "3",
+                    "Nashville SC": "6"
+                },
+                "yellow_cards": {
+                    "Charlotte": "0",
+                    "Nashville SC": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charlotte-fc-nashville-sc-2026-04-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/9569.webp",
+                    "name": "Nashville SC",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charlotte-fc-nashville-sc-2026-04-12-8CUl.webp",
+            "title": "Charlotte FC - Nashville SC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 22, 2026",
+            "description": "Watch Charlotte vs New York Red Bulls highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 22, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Laborda",
+                    "team": "New York Red Bulls",
+                    "time": "5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Jackson",
+                    "team": "New York Red Bulls",
+                    "time": "15'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Badwal",
+                    "score_update": "0 - 1",
+                    "team": "New York Red Bulls",
+                    "time": "24'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Brunell",
+                    "team": "Charlotte",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Priso",
+                    "team": "New York Red Bulls",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Musovski",
+                    "score_update": "1 - 1",
+                    "team": "Charlotte",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Berhalter",
+                    "team": "New York Red Bulls",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Rothrock",
+                    "score_update": "2 - 1",
+                    "team": "Charlotte",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Frei",
+                    "team": "Charlotte",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "19/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Seattle Sounders FC 2 - 1 Vancouver Whitecaps"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Vancouver Whitecaps 6 - 0 Minnesota United"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "13/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Vancouver Whitecaps 0 - 3 Seattle Sounders FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Portland Timbers 1 - 4 Vancouver Whitecaps"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "26/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Vancouver Whitecaps 2 - 0 C.S. Cartagines"
+                        }
+                    ],
+                    "team": "New York Red Bulls"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "19/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Seattle Sounders FC 2 - 1 Vancouver Whitecaps"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "San Jose Earthquakes 0 - 1 Seattle Sounders FC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "13/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Vancouver Whitecaps 0 - 3 Seattle Sounders FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "St. Louis City 0 - 1 Seattle Sounders FC"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "08/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Minnesota United 3 - 3 Seattle Sounders FC"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "CONCACAF Champions Cup",
+                        "date": "13/03/2026",
+                        "teams_and_score": "Vancouver Whitecaps 0 - 3 Seattle Sounders FC"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "28/09/2025",
+                        "teams_and_score": "Seattle Sounders FC 2 - 2 Vancouver Whitecaps"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "03/10/2024",
+                        "teams_and_score": "Vancouver Whitecaps 0 - 3 Seattle Sounders FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "08/10/2023",
+                        "teams_and_score": "Seattle Sounders FC 0 - 0 Vancouver Whitecaps"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "18/09/2022",
+                        "teams_and_score": "Vancouver Whitecaps 2 - 1 Seattle Sounders FC"
+                    }
+                ],
+                "summary": {
+                    "Charlotte_wins": "2",
+                    "New York Red Bulls_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlotte": "40%",
+                    "New York Red Bulls": "60%"
+                },
+                "corners": {
+                    "Charlotte": "2",
+                    "New York Red Bulls": "5"
+                },
+                "fouls": {
+                    "Charlotte": "7",
+                    "New York Red Bulls": "15"
+                },
+                "goalkeeper_saves": {
+                    "Charlotte": "4",
+                    "New York Red Bulls": "2"
+                },
+                "shots_blocked": {
+                    "Charlotte": "1",
+                    "New York Red Bulls": "2"
+                },
+                "shots_off_target": {
+                    "Charlotte": "6",
+                    "New York Red Bulls": "7"
+                },
+                "shots_on_target": {
+                    "Charlotte": "4",
+                    "New York Red Bulls": "5"
+                },
+                "yellow_cards": {
+                    "Charlotte": "2",
+                    "New York Red Bulls": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charlotte-fc-red-bull-new-york-2026-03-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1602.webp",
+                    "name": "New York Red Bulls",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charlotte-fc-red-bull-new-york-2026-03-22-l7Kf.webp",
+            "title": "Charlotte FC - Red Bull New York"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Charlotte vs Toronto FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 17, 2026. The tension was palpable as both sides took to the pitch for a crucial Major League Soccer encounter. Played on May 17, 2026 , the match served as a stern test of resolve and tactical discipline for both rosters. A Hard-Fought Opening Half From the opening whistle, the game was defined by a physical contest that demanded immediate attention from the officiating crew. An early yellow card for Justin Haak in the 12th minute set the tone for a gritty battle. The breakthrough arrived in the 23rd minute when Marco Reus delivered a clinical assist to Gabriel Pec , whose strike gave his side the lead. As the first half drew to a close, the physicality intensified, with Peter Kingston and Miki Yamane both entering the referee's notebook before the teams headed into the break. Sealing the Result The second half evolved into a tactical chess match, characterized by a wave of substitutions as both managers looked for a decisive shift in momentum. The Charlotte FC attack pushed hard for an equalizer, but the defensive setup proved resilient. With the clock ticking toward the final whistle, the visitors capitalized on a late opportunity; in the 90+2 minute, Gabriel Pec turned provider, setting up Matheus Nascimento for a composed finish. The goal pushed the final score to 0-2, effectively putting the contest beyond doubt just moments before the referee signaled the end of the match.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Haak",
+                    "team": "Toronto FC",
+                    "time": "12'"
+                },
+                {
+                    "assist": "M. Reus",
+                    "event_type": "Goal",
+                    "player": "G. Pec",
+                    "score_update": "0 - 1",
+                    "team": "Toronto FC",
+                    "time": "23'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Kingston",
+                    "team": "Charlotte",
+                    "time": "44'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Yamane",
+                    "team": "Toronto FC",
+                    "time": "45+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Marcinkowski",
+                    "team": "Toronto FC",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Cerrillo",
+                    "team": "Toronto FC",
+                    "time": "89'"
+                },
+                {
+                    "assist": "G. Pec",
+                    "event_type": "Goal",
+                    "player": "M. Nascimento",
+                    "score_update": "0 - 2",
+                    "team": "Toronto FC",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Seattle Sounders FC 0 - 2 LA Galaxy"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "LA Galaxy 0 - 3 Toluca"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Austin FC 1 - 2 LA Galaxy"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Toluca 4 - 2 LA Galaxy"
+                        }
+                    ],
+                    "team": "Toronto FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Seattle Sounders FC 0 - 2 LA Galaxy"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Seattle Sounders FC 3 - 1 Tigres"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Houston Dynamo 0 - 1 Seattle Sounders FC"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "14/09/2025",
+                        "teams_and_score": "Seattle Sounders FC 2 - 2 LA Galaxy"
+                    },
+                    {
+                        "competition": "Leagues Cup: Final Stage",
+                        "date": "28/08/2025",
+                        "teams_and_score": "LA Galaxy 0 - 2 Seattle Sounders FC"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "11/08/2025",
+                        "teams_and_score": "LA Galaxy 0 - 4 Seattle Sounders FC"
+                    },
+                    {
+                        "competition": "MLS: Play-off",
+                        "date": "01/12/2024",
+                        "teams_and_score": "LA Galaxy 1 - 0 Seattle Sounders FC"
+                    },
+                    {
+                        "competition": "",
+                        "date": "09/08/2024",
+                        "teams_and_score": "Seattle Sounders FC 3 - 1 LA Galaxy"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "05/05/2024",
+                        "teams_and_score": "Seattle Sounders FC 0 - 0 LA Galaxy"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "05/10/2023",
+                        "teams_and_score": "Seattle Sounders FC 2 - 1 LA Galaxy"
+                    }
+                ],
+                "summary": {
+                    "Charlotte_wins": "3",
+                    "Toronto FC_wins": "4",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlotte": "57%",
+                    "Toronto FC": "43%"
+                },
+                "corners": {
+                    "Charlotte": "5",
+                    "Toronto FC": "1"
+                },
+                "fouls": {
+                    "Charlotte": "3",
+                    "Toronto FC": "13"
+                },
+                "goalkeeper_saves": {
+                    "Charlotte": "0",
+                    "Toronto FC": "5"
+                },
+                "offsides": {
+                    "Charlotte": "2",
+                    "Toronto FC": "2"
+                },
+                "shots_blocked": {
+                    "Charlotte": "4",
+                    "Toronto FC": "2"
+                },
+                "shots_off_target": {
+                    "Charlotte": "6",
+                    "Toronto FC": "5"
+                },
+                "shots_on_target": {
+                    "Charlotte": "5",
+                    "Toronto FC": "1"
+                },
+                "yellow_cards": {
+                    "Charlotte": "1",
+                    "Toronto FC": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charlotte-fc-toronto-fc-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1601.webp",
+                    "name": "Toronto FC",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charlotte-fc-toronto-fc-2026-05-17-SeLA.webp",
+            "title": "Charlotte FC - Toronto FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 1, 2026",
+            "description": "Watch LA Galaxy vs Charlotte highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 1, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "L. Sanabria",
+                    "score_update": "1 - 0",
+                    "team": "LA Galaxy",
+                    "time": "1'"
+                },
+                {
+                    "assist": "G. Pec",
+                    "event_type": "Goal",
+                    "player": "J. Klauss",
+                    "score_update": "2 - 0",
+                    "team": "LA Galaxy",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Klauss",
+                    "score_update": "3 - 0",
+                    "team": "LA Galaxy",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Zaha",
+                    "team": "Charlotte",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Gorno",
+                    "team": "Charlotte",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Agyemang",
+                    "team": "Charlotte",
+                    "time": "74'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Westwood",
+                    "team": "Charlotte",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Ramos",
+                    "team": "LA Galaxy",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Sanabria",
+                    "team": "LA Galaxy",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "LA Galaxy 3 - 0 Charlotte"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "08/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 3 New York City FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "18/10/2025",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 2 - 0 Philadelphia Union"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "LA Galaxy 3 - 0 Charlotte"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "26/02/2026",
+                            "result": "D",
+                            "teams_and_score": "LA Galaxy 0 - 0 Sporting San Miguelito"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "23/02/2026",
+                            "result": "D",
+                            "teams_and_score": "LA Galaxy 1 - 1 New York City FC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "20/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Sporting San Miguelito 1 - 1 LA Galaxy"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "19/10/2025",
+                            "result": "W",
+                            "teams_and_score": "LA Galaxy 2 - 1 Minnesota United"
+                        }
+                    ],
+                    "team": "LA Galaxy"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2024",
+                        "date": "18/05/2024",
+                        "teams_and_score": "Charlotte 0 - 0 LA Galaxy"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "28/05/2023",
+                        "teams_and_score": "LA Galaxy 0 - 1 Charlotte"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "06/03/2022",
+                        "teams_and_score": "Charlotte 0 - 1 LA Galaxy"
+                    }
+                ],
+                "summary": {
+                    "Charlotte_wins": "1",
+                    "LA Galaxy_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlotte": "37%",
+                    "LA Galaxy": "63%"
+                },
+                "corners": {
+                    "Charlotte": "5",
+                    "LA Galaxy": "4"
+                },
+                "fouls": {
+                    "Charlotte": "14",
+                    "LA Galaxy": "9"
+                },
+                "goalkeeper_saves": {
+                    "Charlotte": "10",
+                    "LA Galaxy": "1"
+                },
+                "offsides": {
+                    "Charlotte": "0",
+                    "LA Galaxy": "4"
+                },
+                "shots_off_target": {
+                    "Charlotte": "2",
+                    "LA Galaxy": "2"
+                },
+                "shots_on_target": {
+                    "Charlotte": "1",
+                    "LA Galaxy": "12"
+                },
+                "yellow_cards": {
+                    "Charlotte": "4",
+                    "LA Galaxy": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/la-galaxy-charlotte-fc-2026-03-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3997.webp",
+                    "name": "LA Galaxy",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/la-galaxy-charlotte-fc-2026-03-01-7lgk.webp",
+            "title": "LA Galaxy - Charlotte FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch Nashville SC vs Charlotte highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 26, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Qasem",
+                    "event_type": "Goal",
+                    "player": "H. Mukhtar",
+                    "score_update": "1 - 0",
+                    "team": "Nashville SC",
+                    "time": "1'"
+                },
+                {
+                    "assist": "C. Espinoza",
+                    "event_type": "Goal",
+                    "player": "A. Qasem",
+                    "score_update": "2 - 0",
+                    "team": "Nashville SC",
+                    "time": "16'"
+                },
+                {
+                    "assist": "A. Westwood",
+                    "event_type": "Goal",
+                    "player": "M. Agyemang",
+                    "score_update": "2 - 1",
+                    "team": "Charlotte",
+                    "time": "31'"
+                },
+                {
+                    "assist": "A. Najar",
+                    "event_type": "Goal",
+                    "player": "S. Surridge",
+                    "score_update": "3 - 1",
+                    "team": "Nashville SC",
+                    "time": "46'"
+                },
+                {
+                    "assist": "K. Vargas",
+                    "event_type": "Goal",
+                    "player": "P. Biel",
+                    "score_update": "3 - 2",
+                    "team": "Charlotte",
+                    "time": "61'"
+                },
+                {
+                    "assist": "H. Mukhtar",
+                    "event_type": "Goal",
+                    "player": "S. Surridge",
+                    "score_update": "4 - 2",
+                    "team": "Nashville SC",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Muyl",
+                    "team": "Nashville SC",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Schnegg",
+                    "team": "Charlotte",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Schwake",
+                    "team": "Nashville SC",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Nashville SC 4 - 2 Charlotte"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 6 - 0 Charlotte Independence"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 2 Nashville SC"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Nashville SC 4 - 2 Charlotte"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "CF America 0 - 1 Nashville SC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 1 - 2 Nashville SC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "08/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Nashville SC 0 - 0 CF America"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "05/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Chicago Fire 1 - 0 Nashville SC"
+                        }
+                    ],
+                    "team": "Nashville SC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS",
+                        "date": "11/04/2026",
+                        "teams_and_score": "Charlotte 1 - 2 Nashville SC"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "11/05/2025",
+                        "teams_and_score": "Nashville SC 2 - 1 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "11/05/2024",
+                        "teams_and_score": "Charlotte 1 - 0 Nashville SC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "03/09/2023",
+                        "teams_and_score": "Nashville SC 1 - 1 Charlotte"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "09/07/2022",
+                        "teams_and_score": "Charlotte 4 - 1 Nashville SC"
+                    }
+                ],
+                "summary": {
+                    "Charlotte_wins": "2",
+                    "Nashville SC_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlotte": "38%",
+                    "Nashville SC": "62%"
+                },
+                "corners": {
+                    "Charlotte": "2",
+                    "Nashville SC": "6"
+                },
+                "fouls": {
+                    "Charlotte": "8",
+                    "Nashville SC": "12"
+                },
+                "goalkeeper_saves": {
+                    "Charlotte": "3",
+                    "Nashville SC": "0"
+                },
+                "offsides": {
+                    "Charlotte": "0",
+                    "Nashville SC": "2"
+                },
+                "shots_blocked": {
+                    "Charlotte": "2",
+                    "Nashville SC": "3"
+                },
+                "shots_off_target": {
+                    "Charlotte": "3",
+                    "Nashville SC": "3"
+                },
+                "shots_on_target": {
+                    "Charlotte": "2",
+                    "Nashville SC": "7"
+                },
+                "yellow_cards": {
+                    "Charlotte": "1",
+                    "Nashville SC": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/nashville-sc-charlotte-fc-2026-04-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/9569.webp",
+                    "name": "Nashville SC",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nashville-sc-charlotte-fc-2026-04-26-jYAR.webp",
+            "title": "Nashville SC - Charlotte FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 3, 2026",
+            "description": "Watch New England Revolution vs Charlotte highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 3, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Byrne",
+                    "team": "Charlotte",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Sands",
+                    "team": "New England Revolution",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Schnegg",
+                    "team": "Charlotte",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Zaha",
+                    "team": "Charlotte",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Fofana",
+                    "team": "New England Revolution",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Westwood",
+                    "team": "Charlotte",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Gil",
+                    "score_update": "1 - 0",
+                    "team": "New England Revolution",
+                    "time": "90+7'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Gil",
+                    "team": "New England Revolution",
+                    "time": "90+8'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "New England Revolution 1 - 0 Charlotte"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "28/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 0 - 2 Atlanta United"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Nashville SC 4 - 2 Charlotte"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 6 - 0 Charlotte Independence"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 2 Nashville SC"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "New England Revolution 1 - 0 Charlotte"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "New England Revolution 3 - 4 Orlando City"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Inter Miami CF 1 - 1 New England Revolution"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "D",
+                            "teams_and_score": "New England Revolution 1 - 1 Rhode Island"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "New England Revolution 1 - 0 DC United"
+                        }
+                    ],
+                    "team": "New England Revolution"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "30/08/2025",
+                        "teams_and_score": "New England Revolution 1 - 2 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "21/09/2024",
+                        "teams_and_score": "Charlotte 4 - 0 New England Revolution"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "30/09/2023",
+                        "teams_and_score": "New England Revolution 2 - 1 Charlotte"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "16/04/2022",
+                        "teams_and_score": "New England Revolution 2 - 1 Charlotte"
+                    }
+                ],
+                "summary": {
+                    "Charlotte_wins": "2",
+                    "New England Revolution_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlotte": "45%",
+                    "New England Revolution": "55%"
+                },
+                "corners": {
+                    "Charlotte": "5",
+                    "New England Revolution": "3"
+                },
+                "fouls": {
+                    "Charlotte": "16",
+                    "New England Revolution": "10"
+                },
+                "goalkeeper_saves": {
+                    "Charlotte": "3",
+                    "New England Revolution": "4"
+                },
+                "shots_blocked": {
+                    "Charlotte": "0",
+                    "New England Revolution": "5"
+                },
+                "shots_off_target": {
+                    "Charlotte": "4",
+                    "New England Revolution": "5"
+                },
+                "shots_on_target": {
+                    "Charlotte": "4",
+                    "New England Revolution": "4"
+                },
+                "yellow_cards": {
+                    "Charlotte": "4",
+                    "New England Revolution": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/new-england-revolution-charlotte-fc-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1609.webp",
+                    "name": "New England Revolution",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/new-england-revolution-charlotte-fc-2026-05-03-Y61E.webp",
+            "title": "New England Revolution - Charlotte FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 19, 2026",
+            "description": "Watch New York City FC vs Charlotte highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 19, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Bronico",
+                    "team": "Charlotte",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Raul",
+                    "team": "New York City FC",
+                    "time": "16'"
+                },
+                {
+                    "assist": "H. Toffolo",
+                    "event_type": "Goal",
+                    "player": "I. Gorno",
+                    "score_update": "0 - 1",
+                    "team": "Charlotte",
+                    "time": "54'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Privett",
+                    "team": "Charlotte",
+                    "time": "68'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Byrne",
+                    "team": "Charlotte",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Kahlina",
+                    "team": "Charlotte",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Parks",
+                    "team": "New York City FC",
+                    "time": "85'"
+                },
+                {
+                    "assist": "P. Biel",
+                    "event_type": "Goal",
+                    "player": "K. Vargas",
+                    "score_update": "0 - 2",
+                    "team": "Charlotte",
+                    "time": "90'"
+                },
+                {
+                    "assist": "H. Wolf",
+                    "event_type": "Goal",
+                    "player": "N. F. Mercau",
+                    "score_update": "1 - 2",
+                    "team": "New York City FC",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "New York City FC 1 - 2 Charlotte"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 6 - 0 Charlotte Independence"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 2 Nashville SC"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "08/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 3 New York City FC"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "New York City FC 1 - 2 Charlotte"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Westchester SC 2 - 5 New York City FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vancouver Whitecaps 2 - 0 New York City FC"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "29/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Inter Miami CF 5 - 1 New York City FC"
+                        }
+                    ],
+                    "team": "New York City FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS: Play-off 2025",
+                        "date": "08/11/2025",
+                        "teams_and_score": "Charlotte 1 - 3 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "20/09/2025",
+                        "teams_and_score": "New York City FC 2 - 0 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "27/04/2024",
+                        "teams_and_score": "New York City FC 2 - 1 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "05/07/2023",
+                        "teams_and_score": "New York City FC 1 - 1 Charlotte"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "10/09/2022",
+                        "teams_and_score": "Charlotte 1 - 0 New York City FC"
+                    }
+                ],
+                "summary": {
+                    "Charlotte_wins": "1",
+                    "New York City FC_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlotte": "36%",
+                    "New York City FC": "64%"
+                },
+                "corners": {
+                    "Charlotte": "1",
+                    "New York City FC": "6"
+                },
+                "fouls": {
+                    "Charlotte": "7",
+                    "New York City FC": "8"
+                },
+                "goalkeeper_saves": {
+                    "Charlotte": "6",
+                    "New York City FC": "1"
+                },
+                "offsides": {
+                    "Charlotte": "0",
+                    "New York City FC": "2"
+                },
+                "shots_blocked": {
+                    "Charlotte": "1",
+                    "New York City FC": "7"
+                },
+                "shots_off_target": {
+                    "Charlotte": "1",
+                    "New York City FC": "7"
+                },
+                "shots_on_target": {
+                    "Charlotte": "3",
+                    "New York City FC": "7"
+                },
+                "yellow_cards": {
+                    "Charlotte": "4",
+                    "New York City FC": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/new-york-city-fc-charlotte-fc-2026-04-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1604.webp",
+                    "name": "New York City FC",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/new-york-city-fc-charlotte-fc-2026-04-19-npL3.webp",
+            "title": "New York City FC - Charlotte FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 23, 2026",
+            "description": "Watch Orlando City SC vs Charlotte highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 23, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "Z. Taifi",
+                    "event_type": "Goal",
+                    "player": "L. Otavio",
+                    "score_update": "1 - 0",
+                    "team": "Orlando City SC",
+                    "time": "21'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Angulo",
+                    "team": "Orlando City SC",
+                    "time": "24'"
+                },
+                {
+                    "assist": "P. Biel",
+                    "event_type": "Goal",
+                    "player": "M. Agyemang",
+                    "score_update": "1 - 1",
+                    "team": "Charlotte",
+                    "time": "33'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Otavio",
+                    "team": "Orlando City SC",
+                    "time": "41'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Westwood",
+                    "team": "Charlotte",
+                    "time": "41'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Ojeda",
+                    "team": "Orlando City SC",
+                    "time": "45+3'"
+                },
+                {
+                    "assist": "J. Ellis",
+                    "event_type": "Goal",
+                    "player": "M. Ojeda",
+                    "score_update": "2 - 1",
+                    "team": "Orlando City SC",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Toffolo",
+                    "team": "Charlotte",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Ojeda",
+                    "score_update": "3 - 1",
+                    "team": "Orlando City SC",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. S. Tiago",
+                    "team": "Orlando City SC",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Gomez",
+                    "team": "Orlando City SC",
+                    "time": "106'"
+                },
+                {
+                    "assist": "I. Angulo",
+                    "event_type": "Goal",
+                    "player": "I. Gomez",
+                    "score_update": "4 - 1",
+                    "team": "Orlando City SC",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Orlando City 4 - 1 Charlotte"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 6 - 0 Charlotte Independence"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 2 Nashville SC"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Orlando City 4 - 1 Charlotte"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Naples 0 - 1 Orlando City"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "12/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Columbus Crew 1 - 1 Orlando City"
+                        }
+                    ],
+                    "team": "Orlando City SC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "05/07/2025",
+                        "teams_and_score": "Charlotte 2 - 2 Orlando City"
+                    },
+                    {
+                        "competition": "MLS: Play-off",
+                        "date": "09/11/2024",
+                        "teams_and_score": "Orlando City 1 - 1 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "19/09/2024",
+                        "teams_and_score": "Orlando City 2 - 0 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "30/08/2023",
+                        "teams_and_score": "Charlotte 1 - 1 Orlando City"
+                    },
+                    {
+                        "competition": "US Open Cup",
+                        "date": "09/05/2023",
+                        "teams_and_score": "Charlotte 1 - 0 Orlando City"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "18/03/2023",
+                        "teams_and_score": "Orlando City 1 - 2 Charlotte"
+                    }
+                ],
+                "summary": {
+                    "Charlotte_wins": "2",
+                    "Orlando City SC_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlotte": "57%",
+                    "Orlando City SC": "43%"
+                },
+                "corners": {
+                    "Charlotte": "4",
+                    "Orlando City SC": "2"
+                },
+                "fouls": {
+                    "Charlotte": "10",
+                    "Orlando City SC": "12"
+                },
+                "goalkeeper_saves": {
+                    "Charlotte": "2",
+                    "Orlando City SC": "4"
+                },
+                "offsides": {
+                    "Charlotte": "1",
+                    "Orlando City SC": "2"
+                },
+                "shots_blocked": {
+                    "Charlotte": "5",
+                    "Orlando City SC": "1"
+                },
+                "shots_off_target": {
+                    "Charlotte": "5",
+                    "Orlando City SC": "4"
+                },
+                "shots_on_target": {
+                    "Charlotte": "5",
+                    "Orlando City SC": "6"
+                },
+                "yellow_cards": {
+                    "Charlotte": "2",
+                    "Orlando City SC": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/orlando-city-charlotte-fc-2026-04-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1598.webp",
+                    "name": "Orlando City SC",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/orlando-city-charlotte-fc-2026-04-23-UJqk.webp",
+            "title": "Orlando City - Charlotte FC"
+        }
+    ]
+}

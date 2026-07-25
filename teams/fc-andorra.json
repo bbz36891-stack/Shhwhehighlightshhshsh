@@ -1,0 +1,42 @@
+{
+    "team": "FC Andorra",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Segunda División",
+            "competition_cover": "",
+            "date": "May 25, 2026",
+            "description": "Watch FC Andorra vs AD Ceuta FC highlights and goals from Segunda División on ReFooty: Football Highlights Hub. Match played on May 25, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-andorra-vs-ad-ceuta-fc-2026-05-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-andorra-vs-ad-ceuta-fc-2026-05-25-UKiL.webp",
+            "title": "FC Andorra vs AD Ceuta FC"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "team": "São Paulo",
+    "team_logo": "",
+    "total_matches": 3,
+    "matches": [
+        {
+            "competition": "Unknown Competition",
+            "competition_cover": "",
+            "date": "Feb 26, 2026",
+            "description": "Watch Coritiba vs Sao Paulo highlights and goals from CONCACAF Champions League on ReFooty: Football Highlights Hub. Match played on February 26, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/coritiba-sao-paulo-2026-02-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/coritiba-sao-paulo-2026-02-26-andy.webp",
+            "title": "Coritiba - São Paulo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 13, 2026",
+            "description": "Watch Sao Paulo vs Chapecoense AF highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 13, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sao-paulo-chapecoense-2026-03-13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sao-paulo-chapecoense-2026-03-13-sDl1.webp",
+            "title": "São Paulo - Chapecoense"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 5, 2026",
+            "description": "Watch Sao Paulo vs Cruzeiro highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 5, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sao-paulo-cruzeiro-2026-04-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sao-paulo-cruzeiro-2026-04-05-fsbz.webp",
+            "title": "São Paulo - Cruzeiro"
+        }
+    ]
+}

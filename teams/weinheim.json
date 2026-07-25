@@ -1,0 +1,42 @@
+{
+    "team": "Weinheim",
+    "team_logo": "https://img.refooty.com/logo/teams/14821.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Nov 8, 2025",
+            "description": "Watch Bayer Leverkusen vs Weinheim highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on November 8, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Weinheim"
+                },
+                "home_team_form": {
+                    "team": "Bayer Leverkusen"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Leverkusen_v_Heidenheim_2025_11_08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/14821.webp",
+                    "name": "Weinheim",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/168.webp",
+                    "name": "Bayer Leverkusen",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/leverkusen-v-heidenheim-2025-11-08.webp",
+            "title": "Bayer Leverkusen vs Heidenheim"
+        }
+    ]
+}

@@ -1,0 +1,530 @@
+{
+    "team": "Northern Ireland",
+    "team_logo": "https://img.refooty.com/logo/teams/771.webp",
+    "total_matches": 7,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 8, 2026",
+            "description": "Watch France vs Northern Ireland highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 8, 2026. Football fans gathered in high spirits as France welcomed Northern Ireland for a high-profile international friendly. The encounter promised to be a rigorous test for both squads as they fine-tuned their tactics on the global stage. Olise Finds the Breakthrough On June 8, 2026, France established their authority early on, dominating possession and pinning Northern Ireland back. While the opening exchanges saw Kylian Mbappe and Desire Doue frustrated by the offside flag, the French pressure finally told just before the interval. In the 43rd minute, Michael Olise broke the deadlock with a clinical right-footed finish, rewarding his side's persistent attacking play and setting the tone for the remainder of the contest. Second Half Surge and Irish Resilience The second half began with tactical shifts as Malo Gusto and Maxence Lacroix entered the fray for the hosts. The impact was almost instantaneous; in the 49th minute, Michael Olise doubled his tally with a superb left-footed volley following a blocked effort from Theo Hernandez . Despite the deficit, Northern Ireland refused to collapse. They fought their way back into the game in the 64th minute when Shea Charles set up Patrick Kelly , who found the net with a precise strike to silence the home crowd momentarily. Hat-trick Glory and Tactical Control Any hopes of a comeback were dashed by the sheer brilliance of the night's standout performer. In the 75th minute, Michael Olise completed a magnificent hat-trick, beating the keeper with a powerful strike from outside the box after being played in by Malo Gusto . As the match entered its closing stages, France introduced experienced heads like N'Golo Kante to maintain control. With 67% possession and a total attendance of 43,272, the French side saw out the victory, punctuated by late efforts from Rayan Cherki and Lucas Digne that narrowly missed the target.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Olise",
+                    "score_update": "1 - 0",
+                    "team": "France",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Olise",
+                    "score_update": "2 - 0",
+                    "team": "France",
+                    "time": "46'"
+                },
+                {
+                    "assist": "S. Charles",
+                    "event_type": "Goal",
+                    "player": "P. Kelly",
+                    "score_update": "2 - 1",
+                    "team": "Northern Ireland",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Gusto",
+                    "event_type": "Goal",
+                    "player": "M. Olise",
+                    "score_update": "3 - 1",
+                    "team": "France",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "08/06/2026",
+                            "result": "L",
+                            "teams_and_score": "France 3 - 1 Northern Ireland"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "04/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Northern Ireland 1 - 0 Guinea"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "31/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Wales 1 - 1 Northern Ireland"
+                        },
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "26/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Italy 2 - 0 Northern Ireland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group A",
+                            "date": "17/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Northern Ireland 1 - 0 Luxembourg"
+                        }
+                    ],
+                    "team": "Northern Ireland"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "08/06/2026",
+                            "result": "W",
+                            "teams_and_score": "France 3 - 1 Northern Ireland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group D",
+                            "date": "16/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Azerbaijan 1 - 3 France"
+                        }
+                    ],
+                    "team": "France"
+                },
+                "summary": {
+                    "France_wins": "0",
+                    "Northern Ireland_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "France": "67%",
+                    "Northern Ireland": "33%"
+                },
+                "corners": {
+                    "France": "5",
+                    "Northern Ireland": "1"
+                },
+                "crosses": {
+                    "France": "16",
+                    "Northern Ireland": "6"
+                },
+                "fouls": {
+                    "France": "6",
+                    "Northern Ireland": "7"
+                },
+                "goalkeeper_saves": {
+                    "France": "1",
+                    "Northern Ireland": "2"
+                },
+                "offsides": {
+                    "France": "5",
+                    "Northern Ireland": "0"
+                },
+                "shots_blocked": {
+                    "France": "8",
+                    "Northern Ireland": "0"
+                },
+                "shots_off_target": {
+                    "France": "13",
+                    "Northern Ireland": "2"
+                },
+                "shots_on_target": {
+                    "France": "5",
+                    "Northern Ireland": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/France_v_Northern_Ireland_2026_06_08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/771.webp",
+                    "name": "Northern Ireland",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2.webp",
+                    "name": "France",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/france-v-northern-ireland-2026-06-08-JwTI.webp",
+            "title": "France vs Northern Ireland"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Mar 26, 2026",
+            "description": "Watch Italy vs Northern Ireland highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on March 26, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Italy_v_Northern_Ireland_2026_03_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/italy-v-northern-ireland-2026-03-26-ZOU7.webp",
+            "title": "Italy vs Northern Ireland"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Oct 13, 2025",
+            "description": "Watch Northern Ireland vs Germany highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on October 13, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Northern_Ireland_v_Germany_2025_10_13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/northern-ireland-vs-germany-northern-ireland-vs-germany-onKx.webp",
+            "title": "Northern Ireland vs Germany"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 4, 2026",
+            "description": "Watch Northern Ireland vs Guinea highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 4, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "I. Price",
+                    "event_type": "Goal",
+                    "player": "T. Atcheson",
+                    "score_update": "1 - 0",
+                    "team": "Northern Ireland",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. McDonnell",
+                    "team": "Northern Ireland",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "T. Atcheson",
+                    "team": "Northern Ireland",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Kourouma",
+                    "team": "Guinea",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "04/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Northern Ireland 1 - 0 Guinea"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Niger 1 - 1 Guinea"
+                        },
+                        {
+                            "competition": "CAF Qualification: Group G",
+                            "date": "14/10/2025",
+                            "result": "D",
+                            "teams_and_score": "Guinea 2 - 2 Botswana"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "15/08/2025",
+                            "result": "D",
+                            "teams_and_score": "Guinea 1 - 1 Algeria"
+                        }
+                    ],
+                    "team": "Guinea"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "04/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Northern Ireland 1 - 0 Guinea"
+                        },
+                        {
+                            "competition": "Featured Friendlies 2026",
+                            "date": "31/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Wales 1 - 1 Northern Ireland"
+                        },
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "26/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Italy 2 - 0 Northern Ireland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group A",
+                            "date": "17/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Northern Ireland 1 - 0 Luxembourg"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "10/06/2025",
+                            "result": "W",
+                            "teams_and_score": "Northern Ireland 1 - 0 Iceland"
+                        }
+                    ],
+                    "team": "Northern Ireland"
+                },
+                "summary": {
+                    "Guinea_wins": "0",
+                    "Northern Ireland_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Guinea": "60%",
+                    "Northern Ireland": "40%"
+                },
+                "corners": {
+                    "Guinea": "9",
+                    "Northern Ireland": "1"
+                },
+                "fouls": {
+                    "Guinea": "15",
+                    "Northern Ireland": "11"
+                },
+                "goalkeeper_saves": {
+                    "Guinea": "3",
+                    "Northern Ireland": "5"
+                },
+                "offsides": {
+                    "Guinea": "3",
+                    "Northern Ireland": "1"
+                },
+                "red_cards": {
+                    "Guinea": "0",
+                    "Northern Ireland": "1"
+                },
+                "shots_blocked": {
+                    "Guinea": "4",
+                    "Northern Ireland": "2"
+                },
+                "shots_off_target": {
+                    "Guinea": "5",
+                    "Northern Ireland": "3"
+                },
+                "shots_on_target": {
+                    "Guinea": "6",
+                    "Northern Ireland": "4"
+                },
+                "yellow_cards": {
+                    "Guinea": "1",
+                    "Northern Ireland": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/northern-ireland-vs-guinea-2026-06-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1509.webp",
+                    "name": "Guinea",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/771.webp",
+                    "name": "Northern Ireland",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/northern-ireland-vs-guinea-2026-06-04-JTmt.webp",
+            "title": "Northern Ireland vs Guinea"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Nov 17, 2025",
+            "description": "Watch Northern Ireland vs Luxembourg highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on November 17, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Northern_Ireland_v_Luxembourg_2025_11_17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/northern-ireland-v-luxembourg-2025-11-17.webp",
+            "title": "Northern Ireland vs Luxembourg"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Oct 10, 2025",
+            "description": "Watch Northern Ireland vs Slovakia highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on October 10, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Northern_Ireland_v_Slovakia_2025_10_10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/northern-ireland-vs-slovakia-northern-ireland-vs-slovakia-vyEn.webp",
+            "title": "Northern Ireland vs Slovakia"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Nov 14, 2025",
+            "description": "Watch Slovakia vs Northern Ireland highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on November 14, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Slovakia_v_Northern_Ireland_2025_11_14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/slovakia-v-northern-ireland-2025-11-14-X5Nu.webp",
+            "title": "Slovakia vs Northern Ireland"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "team": "Shelbourne",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "UEFA Europa Conference League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-conference-league.webp",
+            "date": "Dec 11, 2025",
+            "description": "Watch Shelbourne vs Crystal Palace highlights and goals from UEFA Europa Conference League on ReFooty: Football Highlights Hub. Match played on December 11, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Shelbourne_v_Crystal_Palace_2025_12_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/shelbourne-v-crystal-palace-2025-12-11.webp",
+            "title": "Shelbourne vs Crystal Palace"
+        }
+    ]
+}

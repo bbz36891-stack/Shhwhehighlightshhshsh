@@ -1,0 +1,104 @@
+{
+    "team": "Persita",
+    "team_logo": "https://img.refooty.com/logo/teams/4244.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Liga 1 - Indonesia",
+            "competition_cover": "https://refooty.com/covers/liga-1-indonesia.webp",
+            "date": "May 16, 2026",
+            "description": "Watch Malut United vs Persita highlights and goals from Liga 1 - Indonesia on ReFooty: Football Highlights Hub. Match played on May 16, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "A. Saputra",
+                    "score_update": "0 - 1",
+                    "team": "Persita",
+                    "time": "7'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Silva",
+                    "score_update": "1 - 1",
+                    "team": "Malut United",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Silva",
+                    "score_update": "1 - 1",
+                    "team": "Malut United",
+                    "time": "45+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Super League",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Malut United 1 - 1 Persita Tangerang"
+                        }
+                    ],
+                    "team": "Persita"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Super League",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Malut United 1 - 1 Persita Tangerang"
+                        }
+                    ],
+                    "team": "Malut United"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Super League",
+                        "date": "23/11/2025",
+                        "teams_and_score": "Persita Tangerang 0 - 0 Malut United"
+                    },
+                    {
+                        "competition": "Liga 1",
+                        "date": "12/03/2025",
+                        "teams_and_score": "Malut United 2 - 1 Persita Tangerang"
+                    }
+                ],
+                "summary": {
+                    "Malut United_wins": "1",
+                    "Persita_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/malut-united-vs-persita-2026-05-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4244.webp",
+                    "name": "Persita",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/22409.webp",
+                    "name": "Malut United",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/malut-united-vs-persita-2026-05-16-NLSb.webp",
+            "title": "Malut United vs Persita"
+        }
+    ]
+}

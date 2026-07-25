@@ -1,0 +1,1033 @@
+{
+    "team": "Oviedo",
+    "team_logo": "https://img.refooty.com/logo/teams/718.webp",
+    "total_matches": 6,
+    "matches": [
+        {
+            "competition": "La Liga",
+            "competition_cover": "https://refooty.com/covers/la-liga.webp",
+            "date": "Apr 12, 2026",
+            "description": "Watch Celta Vigo vs Oviedo highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on April 12, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "A. Reina",
+                    "score_update": "0 - 1",
+                    "team": "Oviedo",
+                    "time": "1'"
+                },
+                {
+                    "assist": "I. Chaira",
+                    "event_type": "Goal",
+                    "player": "F. Vinas",
+                    "score_update": "0 - 2",
+                    "team": "Oviedo",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Lopez",
+                    "team": "Celta Vigo",
+                    "time": "56'"
+                },
+                {
+                    "assist": "T. C. Fernandez",
+                    "event_type": "Goal",
+                    "player": "F. Vinas",
+                    "score_update": "0 - 3",
+                    "team": "Oviedo",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Fonseca",
+                    "team": "Oviedo",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. R. A. Bonkano",
+                    "team": "Oviedo",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "LaLiga",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Celta Vigo 0 - 3 Real Oviedo"
+                        }
+                    ],
+                    "team": "Oviedo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "LaLiga",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celta Vigo 0 - 3 Real Oviedo"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "09/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Freiburg 3 - 0 Celta Vigo"
+                        },
+                        {
+                            "competition": "LaLiga",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Valencia 2 - 3 Celta Vigo"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Lyon 0 - 2 Celta Vigo"
+                        },
+                        {
+                            "competition": "LaLiga",
+                            "date": "15/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Real Betis 1 - 1 Celta Vigo"
+                        }
+                    ],
+                    "team": "Celta Vigo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "LaLiga",
+                        "date": "20/12/2025",
+                        "teams_and_score": "Real Oviedo 0 - 0 Celta Vigo"
+                    },
+                    {
+                        "competition": "Primera Division",
+                        "date": "04/03/2001",
+                        "teams_and_score": "Celta Vigo 1 - 0 Real Oviedo"
+                    }
+                ],
+                "summary": {
+                    "Celta Vigo_wins": "1",
+                    "Oviedo_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Celta Vigo": "68%",
+                    "Oviedo": "32%"
+                },
+                "corners": {
+                    "Celta Vigo": "4",
+                    "Oviedo": "1"
+                },
+                "crosses": {
+                    "Celta Vigo": "4",
+                    "Oviedo": "4"
+                },
+                "fouls": {
+                    "Celta Vigo": "9",
+                    "Oviedo": "13"
+                },
+                "goalkeeper_saves": {
+                    "Celta Vigo": "3",
+                    "Oviedo": "6"
+                },
+                "offsides": {
+                    "Celta Vigo": "2",
+                    "Oviedo": "2"
+                },
+                "shots_blocked": {
+                    "Celta Vigo": "2",
+                    "Oviedo": "1"
+                },
+                "shots_off_target": {
+                    "Celta Vigo": "1",
+                    "Oviedo": "2"
+                },
+                "shots_on_target": {
+                    "Celta Vigo": "6",
+                    "Oviedo": "5"
+                },
+                "yellow_cards": {
+                    "Celta Vigo": "1",
+                    "Oviedo": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Celta_Vigo_v_Oviedo_2026_04_12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/718.webp",
+                    "name": "Oviedo",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/538.webp",
+                    "name": "Celta Vigo",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/celta-vigo-v-oviedo-2026-04-12-i58m.webp",
+            "title": "Celta Vigo vs Real Oviedo"
+        },
+        {
+            "competition": "La Liga",
+            "competition_cover": "https://refooty.com/covers/la-liga.webp",
+            "date": "May 23, 2026",
+            "description": "Watch Mallorca vs Oviedo highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on May 23, 2026. On 2026-05-23 , the sun beat down on a high-stakes La Liga encounter as Mallorca and Real Oviedo faced off in a match defined by tactical patience and explosive bursts of energy. Both sides entered the pitch looking for a decisive advantage in a game that kept the fans on the edge of their seats until the final whistle. First Half Breakthrough by Pablo Torre From the opening whistle, Mallorca asserted their dominance in possession, controlling the tempo and forcing Real Oviedo into a defensive posture. Sergi Darder and Samu were active early, swinging in corners and trying to unlock the visitors' backline. Real Oviedo struggled to find their rhythm, and their frustration became evident when the veteran Santi Cazorla received a yellow card in the 38th minute following a mistimed challenge. The deadlock was finally broken in the 42nd minute. Pablo Maffeo provided a pinpoint assist, finding Pablo Torre in a dangerous position. Torre showcased immense technical quality, volleying the ball into the back of the net with his left foot to give the home side a deserved lead. The goal sent Mallorca into the halftime break with a narrow but vital advantage, leaving Real Oviedo searching for answers. Tactical Shifts and Defensive Discipline The second half saw Real Oviedo attempt to claw their way back into the contest. Managerial changes brought Haissem Hassan and later Thiago Borbas onto the pitch to inject pace into the attack. However, the visitors were repeatedly thwarted by the linesman’s flag, with both Dani Calvo and Borbas caught offside at crucial moments. Mallorca remained disciplined, though the intensity of the game led to yellow cards for both Manu Morlanes and Samu as they worked to break up Oviedo 's transitions. As the clock ticked toward the final ten minutes, Mallorca 's coaching staff introduced Abdon Prats and Javier Olaizola to ensure the team maintained its defensive integrity while staying dangerous on the break. These substitutions allowed the home side to regain full control of the midfield, stifling any remaining creative sparks from Santi Cazorla before he was substituted in the 64th minute. Clinical Finish Seals the Victory The pressure from Mallorca eventually told in the closing stages. In the 83rd minute, Manu Morlanes pounced on a loose ball inside the penalty area and clinicaly finished with his right foot to double the lead. The atmosphere in the stadium shifted from tension to celebration as the home fans realized the three points were within their grasp. Just five minutes later, Vedat Muriqi added the finishing touch to a professional performance. Reacting first to another loose ball in the box, the powerful striker slotted it home with his left foot in the 88th minute. By the time the referee blew the final whistle, Mallorca had secured a convincing win with 58% possession, reflecting a performance of high quality and clinical efficiency.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Cazorla",
+                    "team": "Oviedo",
+                    "time": "1'"
+                },
+                {
+                    "assist": "P. Maffeo",
+                    "event_type": "Goal",
+                    "player": "P. Torre",
+                    "score_update": "1 - 0",
+                    "team": "Mallorca",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Morlanes",
+                    "team": "Mallorca",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Costa",
+                    "team": "Mallorca",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Morlanes",
+                    "score_update": "2 - 0",
+                    "team": "Mallorca",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "V. Muriqi",
+                    "score_update": "3 - 0",
+                    "team": "Mallorca",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "LaLiga",
+                            "date": "23/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Mallorca 3 - 0 Real Oviedo"
+                        }
+                    ],
+                    "team": "Oviedo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "LaLiga",
+                            "date": "23/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Mallorca 3 - 0 Real Oviedo"
+                        }
+                    ],
+                    "team": "Mallorca"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "LaLiga",
+                        "date": "05/12/2025",
+                        "teams_and_score": "Real Oviedo 0 - 0 Mallorca"
+                    },
+                    {
+                        "competition": "LaLiga Smartbank 20/21",
+                        "date": "20/03/2021",
+                        "teams_and_score": "Mallorca 0 - 0 Real Oviedo"
+                    },
+                    {
+                        "competition": "LaLiga2",
+                        "date": "09/03/2019",
+                        "teams_and_score": "Mallorca 1 - 0 Real Oviedo"
+                    },
+                    {
+                        "competition": "Copa del Rey",
+                        "date": "11/09/2018",
+                        "teams_and_score": "Mallorca 1 - 0 Real Oviedo"
+                    },
+                    {
+                        "competition": "LaLiga2",
+                        "date": "05/02/2017",
+                        "teams_and_score": "Real Oviedo 2 - 1 Mallorca"
+                    },
+                    {
+                        "competition": "Segunda Division",
+                        "date": "05/03/2016",
+                        "teams_and_score": "Mallorca 1 - 0 Real Oviedo"
+                    }
+                ],
+                "summary": {
+                    "Mallorca_wins": "3",
+                    "Oviedo_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Mallorca": "58%",
+                    "Oviedo": "42%"
+                },
+                "corners": {
+                    "Mallorca": "5",
+                    "Oviedo": "5"
+                },
+                "crosses": {
+                    "Mallorca": "6",
+                    "Oviedo": "3"
+                },
+                "fouls": {
+                    "Mallorca": "10",
+                    "Oviedo": "8"
+                },
+                "goalkeeper_saves": {
+                    "Mallorca": "0",
+                    "Oviedo": "4"
+                },
+                "offsides": {
+                    "Mallorca": "0",
+                    "Oviedo": "2"
+                },
+                "shots_blocked": {
+                    "Mallorca": "9",
+                    "Oviedo": "1"
+                },
+                "shots_off_target": {
+                    "Mallorca": "7",
+                    "Oviedo": "6"
+                },
+                "shots_on_target": {
+                    "Mallorca": "7",
+                    "Oviedo": "0"
+                },
+                "yellow_cards": {
+                    "Mallorca": "2",
+                    "Oviedo": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/mallorca-vs-oviedo-2026-05-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/718.webp",
+                    "name": "Oviedo",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/798.webp",
+                    "name": "Mallorca",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/mallorca-vs-oviedo-2026-05-23-9Tnh.webp",
+            "title": "Mallorca vs Oviedo"
+        },
+        {
+            "competition": "La Liga",
+            "competition_cover": "https://refooty.com/covers/la-liga.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Oviedo vs Deportivo Alavés highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on May 17, 2026. The stage was set for a highly competitive La Liga fixture, with both sides eager to make their mark on the match. Played on May 17, 2026, the contest drew a crowd of 21,111 fans who witnessed a tactical battle that unfolded with significant intensity. The Breakthrough Deportivo Alavés secured the decisive moment in the 17th minute when Victor Parada played a key ball to Abderrahman Rebbach , who set up Antonio Martinez . With a calm finish from his left foot, Martinez tapped the ball into the net to give the visitors the lead. Real Oviedo fought hard to find an equalizer, with Santi Cazorla whipping in several dangerous corners, but the Deportivo Alavés defense remained resolute, consistently intercepting crosses and clearing their lines under pressure. Second Half Grit As the match progressed, Real Oviedo began to dominate possession, finishing the game with 70% of the ball. The pressure resulted in a more physical encounter, leading to yellow cards for Thiago Fernandez , Federico Vinas , and Lucas Ahijado for the hosts, as well as Youssef Enriquez for the away side in the dying minutes. Despite waves of attacks and numerous tactical substitutions to shift the momentum, the visitors stood firm until the final whistle, cementing a hard-fought victory.",
+            "events_timeline": [
+                {
+                    "assist": "A. Rebbach",
+                    "event_type": "Goal",
+                    "player": "T. Martínez",
+                    "score_update": "0 - 1",
+                    "team": "Deportivo Alavés",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. C. Fernandez",
+                    "team": "Oviedo",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Vinas",
+                    "team": "Oviedo",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Ahijado",
+                    "team": "Oviedo",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Enriquez",
+                    "team": "Deportivo Alavés",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "LaLiga",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Real Oviedo 0 - 1 Deportivo Alaves"
+                        }
+                    ],
+                    "team": "Deportivo Alavés"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "LaLiga",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Real Oviedo 0 - 1 Deportivo Alaves"
+                        }
+                    ],
+                    "team": "Oviedo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "LaLiga",
+                        "date": "04/01/2026",
+                        "teams_and_score": "Deportivo Alaves 1 - 1 Real Oviedo"
+                    },
+                    {
+                        "competition": "LaLiga 2 22/23",
+                        "date": "13/01/2023",
+                        "teams_and_score": "Real Oviedo 1 - 0 Deportivo Alaves"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "30/07/2022",
+                        "teams_and_score": "Real Oviedo 0 - 0 Deportivo Alaves"
+                    },
+                    {
+                        "competition": "Club Friendlies 2019",
+                        "date": "10/08/2019",
+                        "teams_and_score": "Real Oviedo 1 - 2 Deportivo Alaves"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "04/08/2018",
+                        "teams_and_score": "Deportivo Alaves 1 - 0 Real Oviedo"
+                    },
+                    {
+                        "competition": "Segunda Division",
+                        "date": "30/01/2016",
+                        "teams_and_score": "Real Oviedo 1 - 1 Deportivo Alaves"
+                    },
+                    {
+                        "competition": "Segunda B Group II",
+                        "date": "20/03/2011",
+                        "teams_and_score": "Real Oviedo 2 - 0 Deportivo Alaves"
+                    }
+                ],
+                "summary": {
+                    "Deportivo Alavés_wins": "2",
+                    "Oviedo_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Deportivo Alavés": "30%",
+                    "Oviedo": "70%"
+                },
+                "corners": {
+                    "Deportivo Alavés": "2",
+                    "Oviedo": "5"
+                },
+                "crosses": {
+                    "Deportivo Alavés": "4",
+                    "Oviedo": "7"
+                },
+                "fouls": {
+                    "Deportivo Alavés": "18",
+                    "Oviedo": "13"
+                },
+                "shots_blocked": {
+                    "Deportivo Alavés": "2",
+                    "Oviedo": "3"
+                },
+                "shots_off_target": {
+                    "Deportivo Alavés": "4",
+                    "Oviedo": "5"
+                },
+                "shots_on_target": {
+                    "Deportivo Alavés": "1",
+                    "Oviedo": "0"
+                },
+                "yellow_cards": {
+                    "Deportivo Alavés": "1",
+                    "Oviedo": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/oviedo-vs-deportivo-alaves-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/22134.webp",
+                    "name": "Deportivo Alavés",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/718.webp",
+                    "name": "Oviedo",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/oviedo-vs-deportivo-alaves-2026-05-17-ioue.webp",
+            "title": "Oviedo vs Deportivo Alavés"
+        },
+        {
+            "competition": "La Liga",
+            "competition_cover": "https://refooty.com/covers/la-liga.webp",
+            "date": "May 10, 2026",
+            "description": "Watch Oviedo vs Getafe highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on May 10, 2026. Tensions boiled over in a hard-fought contest between Real Oviedo and Getafe on May 10, 2026, during a high-stakes La Liga fixture. A Promising Start Stalled The match began with high energy, and Real Oviedo nearly drew first blood at the 9-minute mark when Ilyas Chaira saw his effort agonisingly hit the post. Throughout the first half, Getafe relied on the creativity of Luis Milla , who delivered multiple corner kicks into the box, yet the Real Oviedo backline remained disciplined. The physical battle ensured that neither side could gain a definitive edge, keeping the score level as the game progressed. Disciplinary Drama and Stagnation The second half turned into a tactical and disciplinary war. The momentum shifted significantly in the 54th minute when Javi Lopez was sent off for a serious foul. As the game grew more desperate, the referee’s cards continued to emerge, eventually leading to a second red card for Real Oviedo ’s Kwasi Sibo in the 78th minute for violent conduct. Despite playing against nine men in the closing stages, Getafe struggled to find a breakthrough. Whether through headers from Luis Vazquez or blocked attempts by Borja Mayoral , the visitors could not find the net, leaving the contest to end in a scoreless draw.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Vinas",
+                    "team": "Oviedo",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. López",
+                    "team": "Oviedo",
+                    "time": "54'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Abqar",
+                    "team": "Getafe",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Costas",
+                    "team": "Oviedo",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "K. Sibo",
+                    "team": "Oviedo",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Sancris",
+                    "team": "Getafe",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "LaLiga",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Real Oviedo 0 - 0 Getafe"
+                        }
+                    ],
+                    "team": "Getafe"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "LaLiga",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Real Oviedo 0 - 0 Getafe"
+                        }
+                    ],
+                    "team": "Oviedo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "LaLiga",
+                        "date": "13/09/2025",
+                        "teams_and_score": "Getafe 2 - 0 Real Oviedo"
+                    },
+                    {
+                        "competition": "Club Friendlies 2025",
+                        "date": "26/07/2025",
+                        "teams_and_score": "Getafe 1 - 1 Real Oviedo"
+                    },
+                    {
+                        "competition": "Featured Club Friendlies",
+                        "date": "24/07/2024",
+                        "teams_and_score": "Getafe 0 - 1 Real Oviedo"
+                    },
+                    {
+                        "competition": "LaLiga2",
+                        "date": "19/02/2017",
+                        "teams_and_score": "Real Oviedo 2 - 1 Getafe"
+                    },
+                    {
+                        "competition": "Segunda Division",
+                        "date": "16/03/2003",
+                        "teams_and_score": "Getafe 1 - 1 Real Oviedo"
+                    }
+                ],
+                "summary": {
+                    "Getafe_wins": "1",
+                    "Oviedo_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Getafe": "54%",
+                    "Oviedo": "46%"
+                },
+                "corners": {
+                    "Getafe": "9",
+                    "Oviedo": "1"
+                },
+                "crosses": {
+                    "Getafe": "9",
+                    "Oviedo": "1"
+                },
+                "fouls": {
+                    "Getafe": "16",
+                    "Oviedo": "9"
+                },
+                "goalkeeper_saves": {
+                    "Getafe": "4",
+                    "Oviedo": "4"
+                },
+                "offsides": {
+                    "Getafe": "2",
+                    "Oviedo": "6"
+                },
+                "red_cards": {
+                    "Getafe": "0",
+                    "Oviedo": "2"
+                },
+                "shots_blocked": {
+                    "Getafe": "9",
+                    "Oviedo": "2"
+                },
+                "shots_off_target": {
+                    "Getafe": "9",
+                    "Oviedo": "2"
+                },
+                "shots_on_target": {
+                    "Getafe": "4",
+                    "Oviedo": "4"
+                },
+                "yellow_cards": {
+                    "Getafe": "3",
+                    "Oviedo": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/oviedo-vs-getafe-2026-05-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/546.webp",
+                    "name": "Getafe",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/718.webp",
+                    "name": "Oviedo",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/oviedo-vs-getafe-2026-05-10-j2EY.webp",
+            "title": "Oviedo vs Getafe"
+        },
+        {
+            "competition": "La Liga",
+            "competition_cover": "https://refooty.com/covers/la-liga.webp",
+            "date": "Apr 23, 2026",
+            "description": "Watch Oviedo vs Villarreal highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on April 23, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "N. Pepe",
+                    "score_update": "0 - 1",
+                    "team": "Villarreal",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Escandell",
+                    "team": "Oviedo",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Chaira",
+                    "score_update": "1 - 1",
+                    "team": "Oviedo",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Moleiro",
+                    "team": "Villarreal",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "LaLiga",
+                            "date": "23/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Real Oviedo 1 - 1 Villarreal"
+                        }
+                    ],
+                    "team": "Villarreal"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "LaLiga",
+                            "date": "23/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Real Oviedo 1 - 1 Villarreal"
+                        }
+                    ],
+                    "team": "Oviedo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "LaLiga",
+                        "date": "15/08/2025",
+                        "teams_and_score": "Villarreal 2 - 0 Real Oviedo"
+                    },
+                    {
+                        "competition": "Club Friendlies 2025",
+                        "date": "31/07/2025",
+                        "teams_and_score": "Real Oviedo 0 - 0 Villarreal"
+                    },
+                    {
+                        "competition": "Primera Division",
+                        "date": "11/02/2001",
+                        "teams_and_score": "Real Oviedo 1 - 3 Villarreal"
+                    }
+                ],
+                "summary": {
+                    "Oviedo_wins": "0",
+                    "Villarreal_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Oviedo": "58%",
+                    "Villarreal": "42%"
+                },
+                "corners": {
+                    "Oviedo": "7",
+                    "Villarreal": "0"
+                },
+                "crosses": {
+                    "Oviedo": "10",
+                    "Villarreal": "2"
+                },
+                "fouls": {
+                    "Oviedo": "9",
+                    "Villarreal": "11"
+                },
+                "goalkeeper_saves": {
+                    "Oviedo": "2",
+                    "Villarreal": "3"
+                },
+                "offsides": {
+                    "Oviedo": "1",
+                    "Villarreal": "1"
+                },
+                "shots_blocked": {
+                    "Oviedo": "3",
+                    "Villarreal": "1"
+                },
+                "shots_off_target": {
+                    "Oviedo": "8",
+                    "Villarreal": "3"
+                },
+                "shots_on_target": {
+                    "Oviedo": "4",
+                    "Villarreal": "3"
+                },
+                "yellow_cards": {
+                    "Oviedo": "1",
+                    "Villarreal": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/oviedo-vs-villarreal-2026-04-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/533.webp",
+                    "name": "Villarreal",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/718.webp",
+                    "name": "Oviedo",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/oviedo-vs-villarreal-2026-04-23-tWLr.webp",
+            "title": "Oviedo vs Villarreal"
+        },
+        {
+            "competition": "La Liga",
+            "competition_cover": "https://refooty.com/covers/la-liga.webp",
+            "date": "May 3, 2026",
+            "description": "Watch Real Betis vs Oviedo highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on May 3, 2026. The lights of the top flight shone bright on Real Betis and Real Oviedo as they met for a high-stakes La Liga encounter. Both sides entered the pitch looking to establish dominance in a match that promised tactical intrigue and individual brilliance. Betis Take Control in the Opening Half Playing on home turf this May 3, 2026 , Real Betis looked to dictate the tempo from the opening whistle. While Real Oviedo showed early flashes of intent through Ilyas Chaira , whose early effort failed to test the goalkeeper, the hosts soon began to monopolize the ball. Giovani Lo Celso was the primary architect in the early stages, delivering a series of dangerous corners that kept the Oviedo defense on high alert. Despite a long-range free-kick attempt from Dani Calvo that sailed wide, the momentum was clearly shifting toward the Seville-based outfit. In the 22nd minute, the pressure finally told. A slick attacking move saw Pablo Fornals find space to thread a precise pass to Juan Hernandez . Showing remarkable composure, Hernandez slotted the ball home with his left foot to give Real Betis the lead. The goal acted as a catalyst for the hosts, who continued to probe the Oviedo backline. Just as the first half seemed destined to end with a single-goal margin, Antony broke free down the flank in the 45th minute. His perfectly weighted cross found Abdessamad Ezzalzouli unmarked, allowing the winger to tap the ball in with his left foot for an easy finish and a two-goal cushion heading into the break. VAR Intervention and Hernandez’s Second The second half began with Real Oviedo desperately searching for a lifeline. They believed they had found one in the 54th minute when Federico Vinas put the ball in the back of the net. However, the celebrations were short-lived; a lengthy VAR review followed, eventually ruling that Vinas had strayed into an offside position. The decision proved to be a psychological blow for the visitors, and Real Betis were quick to capitalize on the frustration. Just five minutes after the disallowed goal, Real Betis effectively ended the contest. Abdessamad Ezzalzouli , turning from scorer to provider, delivered a sharp ball into the path of Juan Hernandez . The striker made no mistake, firing home with his right foot to record his second of the evening in the 59th minute. With a three-goal lead established, the home side utilized their bench to manage the game’s physical demands, introducing the likes of Marc Roca , Rodrigo Riquelme , and the veteran Isco to maintain control of the midfield. Professional Close from the Hosts As the match entered its final stages, Real Oviedo attempted to find a consolation goal, even introducing the legendary Santi Cazorla to provide a creative spark. However, the Real Betis defensive unit, led by Hector Bellerin and Natan , remained resolute. Alvaro Valles was reliable between the sticks, claiming several late crosses to prevent any late drama. Despite a series of late throw-ins and offensive efforts from David Costas and the Oviedo attack, Real Betis remained the superior side in possession and tactical execution. By the time the referee blew the final whistle, the statistics reflected a dominant performance from the home side, who finished with 54% possession and a clean sheet. The victory was a testament to their clinical finishing and defensive organization, leaving the home supporters in high spirits as the team solidified its position in the league standings.",
+            "events_timeline": [
+                {
+                    "assist": "P. Fornals",
+                    "event_type": "Goal",
+                    "player": "C. Hernandez",
+                    "score_update": "1 - 0",
+                    "team": "Real Betis",
+                    "time": "1'"
+                },
+                {
+                    "assist": "Antony",
+                    "event_type": "Goal",
+                    "player": "A. Ezzalzouli",
+                    "score_update": "2 - 0",
+                    "team": "Real Betis",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "F. Vinas",
+                    "team": "Oviedo",
+                    "time": "46'"
+                },
+                {
+                    "assist": "A. Ezzalzouli",
+                    "event_type": "Goal",
+                    "player": "C. Hernandez",
+                    "score_update": "3 - 0",
+                    "team": "Real Betis",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "LaLiga",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Real Betis 3 - 0 Real Oviedo"
+                        }
+                    ],
+                    "team": "Oviedo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "LaLiga",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Real Betis 3 - 0 Real Oviedo"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Real Betis 2 - 4 SC Braga"
+                        },
+                        {
+                            "competition": "LaLiga",
+                            "date": "12/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Osasuna 1 - 1 Real Betis"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "08/04/2026",
+                            "result": "D",
+                            "teams_and_score": "SC Braga 1 - 1 Real Betis"
+                        },
+                        {
+                            "competition": "LaLiga",
+                            "date": "04/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Real Betis 0 - 0 Espanyol"
+                        }
+                    ],
+                    "team": "Real Betis"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "LaLiga",
+                        "date": "10/01/2026",
+                        "teams_and_score": "Real Oviedo 1 - 1 Real Betis"
+                    },
+                    {
+                        "competition": "Primera Division",
+                        "date": "20/02/2000",
+                        "teams_and_score": "Real Oviedo 1 - 1 Real Betis"
+                    }
+                ],
+                "summary": {
+                    "Oviedo_wins": "0",
+                    "Real Betis_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Oviedo": "45%",
+                    "Real Betis": "55%"
+                },
+                "corners": {
+                    "Oviedo": "4",
+                    "Real Betis": "5"
+                },
+                "crosses": {
+                    "Oviedo": "3",
+                    "Real Betis": "2"
+                },
+                "fouls": {
+                    "Oviedo": "4",
+                    "Real Betis": "9"
+                },
+                "goalkeeper_saves": {
+                    "Oviedo": "2",
+                    "Real Betis": "5"
+                },
+                "offsides": {
+                    "Oviedo": "3",
+                    "Real Betis": "0"
+                },
+                "shots_blocked": {
+                    "Oviedo": "4",
+                    "Real Betis": "4"
+                },
+                "shots_off_target": {
+                    "Oviedo": "8",
+                    "Real Betis": "1"
+                },
+                "shots_on_target": {
+                    "Oviedo": "5",
+                    "Real Betis": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/real-betis-vs-oviedo-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/718.webp",
+                    "name": "Oviedo",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/543.webp",
+                    "name": "Real Betis",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/real-betis-vs-oviedo-2026-05-03-el7Z.webp",
+            "title": "Real Betis vs Oviedo"
+        }
+    ]
+}

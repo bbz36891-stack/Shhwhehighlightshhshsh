@@ -1,0 +1,42 @@
+{
+    "team": "Dortmund",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Oct 7, 2025",
+            "description": "Watch Bayern München vs RB Leipzig highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on October 7, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/highlights-dortmund-vs-rb-leipzig-ruot-duoi-tim-ban-the-tran-can-co-bundesliga-2526.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/highlights-dortmund-vs-rb-leipzig-ruot-duoi-tim-ban-the-tran-can-co-bundesliga-2526.webp",
+            "title": "Dortmund vs RB Leipzig"
+        }
+    ]
+}

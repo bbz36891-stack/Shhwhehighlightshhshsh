@@ -1,0 +1,627 @@
+{
+    "team": "Western Sydney Wanderers",
+    "team_logo": "https://img.refooty.com/logo/teams/939.webp",
+    "total_matches": 4,
+    "matches": [
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "Apr 4, 2026",
+            "description": "Watch Melbourne City vs Western Sydney Wanderers highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on April 4, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "J. Vidic",
+                    "score_update": "1 - 0",
+                    "team": "Melbourne City",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Younis",
+                    "score_update": "1 - 1",
+                    "team": "Western Sydney Wanderers",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Younis",
+                    "score_update": "1 - 2",
+                    "team": "Western Sydney Wanderers",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Valkanis",
+                    "team": "Melbourne City",
+                    "time": "72'"
+                },
+                {
+                    "assist": "E. Rashani",
+                    "event_type": "Goal",
+                    "player": "M. Memeti",
+                    "score_update": "1 - 3",
+                    "team": "Western Sydney Wanderers",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Kuen",
+                    "team": "Western Sydney Wanderers",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Memeti",
+                    "team": "Western Sydney Wanderers",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Y. Salas",
+                    "score_update": "2 - 3",
+                    "team": "Melbourne City",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Brisbane Roar FC 2 - 3 Melbourne City FC"
+                        },
+                        {
+                            "competition": "Champions League: Round of 16",
+                            "date": "10/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Buriram United 0 - 0 Melbourne City FC"
+                        },
+                        {
+                            "competition": "A-League",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Auckland FC 3 - 0 Melbourne City FC"
+                        }
+                    ],
+                    "team": "Western Sydney Wanderers"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Brisbane Roar FC 2 - 3 Melbourne City FC"
+                        }
+                    ],
+                    "team": "Melbourne City"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "06/01/2026",
+                        "teams_and_score": "Melbourne City FC 1 - 0 Brisbane Roar FC"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "11/04/2025",
+                        "teams_and_score": "Melbourne City FC 3 - 2 Brisbane Roar FC"
+                    },
+                    {
+                        "competition": "A-League 23/24",
+                        "date": "10/02/2024",
+                        "teams_and_score": "Brisbane Roar FC 5 - 1 Melbourne City FC"
+                    },
+                    {
+                        "competition": "A-League 22/23",
+                        "date": "12/03/2023",
+                        "teams_and_score": "Melbourne City FC 2 - 1 Brisbane Roar FC"
+                    }
+                ],
+                "summary": {
+                    "Melbourne City_wins": "3",
+                    "Western Sydney Wanderers_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Melbourne City": "55%",
+                    "Western Sydney Wanderers": "45%"
+                },
+                "corners": {
+                    "Melbourne City": "3",
+                    "Western Sydney Wanderers": "5"
+                },
+                "fouls": {
+                    "Melbourne City": "10",
+                    "Western Sydney Wanderers": "12"
+                },
+                "goalkeeper_saves": {
+                    "Melbourne City": "2",
+                    "Western Sydney Wanderers": "1"
+                },
+                "offsides": {
+                    "Melbourne City": "0",
+                    "Western Sydney Wanderers": "2"
+                },
+                "shots_off_target": {
+                    "Melbourne City": "4",
+                    "Western Sydney Wanderers": "4"
+                },
+                "shots_on_target": {
+                    "Melbourne City": "3",
+                    "Western Sydney Wanderers": "6"
+                },
+                "yellow_cards": {
+                    "Melbourne City": "1",
+                    "Western Sydney Wanderers": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/melbourne-city-vs-western-sydney-wanderers-2026-04-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/939.webp",
+                    "name": "Western Sydney Wanderers",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/945.webp",
+                    "name": "Melbourne City",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/melbourne-city-vs-western-sydney-wanderers-2026-04-04-Zh8d.webp",
+            "title": "Melbourne City vs Western Sydney Wanderers"
+        },
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "Apr 18, 2026",
+            "description": "Watch Wellington Phoenix vs Western Sydney Wanderers highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on April 18, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "I. Eze",
+                    "score_update": "1 - 0",
+                    "team": "Wellington Phoenix",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Rufer",
+                    "team": "Wellington Phoenix",
+                    "time": "16'"
+                },
+                {
+                    "assist": "A. Thurgate",
+                    "event_type": "Goal",
+                    "player": "B. Borrello",
+                    "score_update": "1 - 1",
+                    "team": "Western Sydney Wanderers",
+                    "time": "31'"
+                },
+                {
+                    "assist": "T. Payne",
+                    "event_type": "Goal",
+                    "player": "K. Nagasawa",
+                    "score_update": "2 - 1",
+                    "team": "Wellington Phoenix",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Wellington Phoenix 2 - 1 Western Sydney Wanderers FC"
+                        }
+                    ],
+                    "team": "Western Sydney Wanderers"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Wellington Phoenix 2 - 1 Western Sydney Wanderers FC"
+                        }
+                    ],
+                    "team": "Wellington Phoenix"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "13/02/2026",
+                        "teams_and_score": "Western Sydney Wanderers FC 2 - 2 Wellington Phoenix"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "29/03/2025",
+                        "teams_and_score": "Wellington Phoenix 2 - 2 Western Sydney Wanderers FC"
+                    },
+                    {
+                        "competition": "A-League 23/24",
+                        "date": "23/12/2023",
+                        "teams_and_score": "Wellington Phoenix 2 - 0 Western Sydney Wanderers FC"
+                    },
+                    {
+                        "competition": "A-League 22/23",
+                        "date": "21/04/2023",
+                        "teams_and_score": "Western Sydney Wanderers FC 4 - 0 Wellington Phoenix"
+                    },
+                    {
+                        "competition": "A-League 21/22",
+                        "date": "05/05/2022",
+                        "teams_and_score": "Western Sydney Wanderers FC 1 - 2 Wellington Phoenix"
+                    }
+                ],
+                "summary": {
+                    "Wellington Phoenix_wins": "2",
+                    "Western Sydney Wanderers_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Wellington Phoenix": "45%",
+                    "Western Sydney Wanderers": "55%"
+                },
+                "corners": {
+                    "Wellington Phoenix": "10",
+                    "Western Sydney Wanderers": "4"
+                },
+                "fouls": {
+                    "Wellington Phoenix": "14",
+                    "Western Sydney Wanderers": "9"
+                },
+                "goalkeeper_saves": {
+                    "Wellington Phoenix": "4",
+                    "Western Sydney Wanderers": "4"
+                },
+                "offsides": {
+                    "Wellington Phoenix": "2",
+                    "Western Sydney Wanderers": "0"
+                },
+                "shots_off_target": {
+                    "Wellington Phoenix": "7",
+                    "Western Sydney Wanderers": "3"
+                },
+                "shots_on_target": {
+                    "Wellington Phoenix": "6",
+                    "Western Sydney Wanderers": "7"
+                },
+                "yellow_cards": {
+                    "Wellington Phoenix": "1",
+                    "Western Sydney Wanderers": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/wellington-phoenix-vs-western-sydney-wanderers-2026-04-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/939.webp",
+                    "name": "Western Sydney Wanderers",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/942.webp",
+                    "name": "Wellington Phoenix",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/wellington-phoenix-vs-western-sydney-wanderers-2026-04-18-34Zg.webp",
+            "title": "Wellington Phoenix vs Western Sydney Wanderers"
+        },
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "Apr 25, 2026",
+            "description": "Watch Western Sydney Wanderers vs Melbourne Victory highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on April 25, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Sutton",
+                    "team": "Melbourne Victory",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Grant",
+                    "team": "Western Sydney Wanderers",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Kaltak",
+                    "team": "Melbourne Victory",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 0 - 0 Perth Glory"
+                        }
+                    ],
+                    "team": "Melbourne Victory"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 0 - 0 Perth Glory"
+                        }
+                    ],
+                    "team": "Western Sydney Wanderers"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "13/12/2025",
+                        "teams_and_score": "Perth Glory 0 - 1 Sydney FC"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Perth Glory 0 - 0 Sydney FC"
+                    },
+                    {
+                        "competition": "A-League 23/24",
+                        "date": "28/04/2024",
+                        "teams_and_score": "Sydney FC 7 - 1 Perth Glory"
+                    },
+                    {
+                        "competition": "A-League 22/23",
+                        "date": "16/04/2023",
+                        "teams_and_score": "Sydney FC 4 - 1 Perth Glory"
+                    },
+                    {
+                        "competition": "A-League 21/22",
+                        "date": "12/03/2022",
+                        "teams_and_score": "Perth Glory 0 - 2 Sydney FC"
+                    }
+                ],
+                "summary": {
+                    "Melbourne Victory_wins": "2",
+                    "Western Sydney Wanderers_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Melbourne Victory": "29%",
+                    "Western Sydney Wanderers": "71%"
+                },
+                "corners": {
+                    "Melbourne Victory": "1",
+                    "Western Sydney Wanderers": "4"
+                },
+                "fouls": {
+                    "Melbourne Victory": "6",
+                    "Western Sydney Wanderers": "9"
+                },
+                "goalkeeper_saves": {
+                    "Melbourne Victory": "3",
+                    "Western Sydney Wanderers": "2"
+                },
+                "shots_off_target": {
+                    "Melbourne Victory": "4",
+                    "Western Sydney Wanderers": "6"
+                },
+                "shots_on_target": {
+                    "Melbourne Victory": "2",
+                    "Western Sydney Wanderers": "3"
+                },
+                "yellow_cards": {
+                    "Melbourne Victory": "2",
+                    "Western Sydney Wanderers": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/western-sydney-wanderers-vs-melbourne-victory-2026-04-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/944.webp",
+                    "name": "Melbourne Victory",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/939.webp",
+                    "name": "Western Sydney Wanderers",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/western-sydney-wanderers-vs-melbourne-victory-2026-04-25-UhfT.webp",
+            "title": "Western Sydney Wanderers vs Melbourne Victory"
+        },
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Western Sydney Wanderers vs Sydney highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Sutton",
+                    "team": "Sydney",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Grant",
+                    "team": "Western Sydney Wanderers",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Kaltak",
+                    "team": "Sydney",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 0 - 0 Perth Glory"
+                        }
+                    ],
+                    "team": "Sydney"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 0 - 0 Perth Glory"
+                        }
+                    ],
+                    "team": "Western Sydney Wanderers"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "13/12/2025",
+                        "teams_and_score": "Perth Glory 0 - 1 Sydney FC"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Perth Glory 0 - 0 Sydney FC"
+                    },
+                    {
+                        "competition": "A-League 23/24",
+                        "date": "28/04/2024",
+                        "teams_and_score": "Sydney FC 7 - 1 Perth Glory"
+                    },
+                    {
+                        "competition": "A-League 22/23",
+                        "date": "16/04/2023",
+                        "teams_and_score": "Sydney FC 4 - 1 Perth Glory"
+                    },
+                    {
+                        "competition": "A-League 21/22",
+                        "date": "12/03/2022",
+                        "teams_and_score": "Perth Glory 0 - 2 Sydney FC"
+                    }
+                ],
+                "summary": {
+                    "Sydney_wins": "2",
+                    "Western Sydney Wanderers_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Sydney": "29%",
+                    "Western Sydney Wanderers": "71%"
+                },
+                "corners": {
+                    "Sydney": "1",
+                    "Western Sydney Wanderers": "4"
+                },
+                "fouls": {
+                    "Sydney": "6",
+                    "Western Sydney Wanderers": "9"
+                },
+                "goalkeeper_saves": {
+                    "Sydney": "3",
+                    "Western Sydney Wanderers": "2"
+                },
+                "shots_off_target": {
+                    "Sydney": "4",
+                    "Western Sydney Wanderers": "6"
+                },
+                "shots_on_target": {
+                    "Sydney": "2",
+                    "Western Sydney Wanderers": "3"
+                },
+                "yellow_cards": {
+                    "Sydney": "2",
+                    "Western Sydney Wanderers": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/western-sydney-wanderers-vs-sydney-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/943.webp",
+                    "name": "Sydney",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/939.webp",
+                    "name": "Western Sydney Wanderers",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/western-sydney-wanderers-vs-sydney-2026-04-11-yrWu.webp",
+            "title": "Western Sydney Wanderers vs Sydney"
+        }
+    ]
+}

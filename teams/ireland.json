@@ -1,0 +1,581 @@
+{
+    "team": "Ireland",
+    "team_logo": "https://img.refooty.com/logo/teams/1119.webp",
+    "total_matches": 9,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 5, 2026",
+            "description": "Watch Canada vs Ireland highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 5, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "J. O'Brien",
+                    "team": "Canada",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Cornelius",
+                    "team": "Canada",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Larin",
+                    "team": "Canada",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Parrott",
+                    "score_update": "1 - 0",
+                    "team": "Ireland",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Parrott",
+                    "score_update": "1 - 1",
+                    "team": "Ireland",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. McGrath",
+                    "team": "Ireland",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "05/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Canada 1 - 1 Ireland"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Ireland 5 - 0 Grenada"
+                        },
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "26/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Czechia 2 - 2 Ireland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group F",
+                            "date": "16/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Hungary 2 - 3 Ireland"
+                        }
+                    ],
+                    "team": "Ireland"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "05/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Canada 1 - 1 Ireland"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "01/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Canada 0 - 0 Tunisia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "19/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Venezuela 0 - 2 Canada"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "09/09/2025",
+                            "result": "W",
+                            "teams_and_score": "Wales 0 - 1 Canada"
+                        }
+                    ],
+                    "team": "Canada"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Friendlies",
+                        "date": "18/11/2003",
+                        "teams_and_score": "Ireland 3 - 0 Canada"
+                    }
+                ],
+                "summary": {
+                    "Canada_wins": "0",
+                    "Ireland_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Canada": "67%",
+                    "Ireland": "33%"
+                },
+                "corners": {
+                    "Canada": "12",
+                    "Ireland": "4"
+                },
+                "fouls": {
+                    "Canada": "9",
+                    "Ireland": "13"
+                },
+                "goalkeeper_saves": {
+                    "Canada": "2",
+                    "Ireland": "2"
+                },
+                "offsides": {
+                    "Canada": "3",
+                    "Ireland": "1"
+                },
+                "shots_blocked": {
+                    "Canada": "8",
+                    "Ireland": "1"
+                },
+                "shots_off_target": {
+                    "Canada": "10",
+                    "Ireland": "1"
+                },
+                "shots_on_target": {
+                    "Canada": "2",
+                    "Ireland": "3"
+                },
+                "yellow_cards": {
+                    "Canada": "2",
+                    "Ireland": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/canada-vs-ireland-2026-06-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1119.webp",
+                    "name": "Ireland",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/5529.webp",
+                    "name": "Canada",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/canada-vs-ireland-2026-06-05-NK02.webp",
+            "title": "Canada vs Ireland"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Mar 26, 2026",
+            "description": "Watch Czech Republic vs Ireland highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on March 26, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Czech_Republic_v_Ireland_2026_03_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/czech-republic-v-ireland-2026-03-26-P76z.webp",
+            "title": "Czech Republic vs Ireland"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Nov 16, 2025",
+            "description": "Watch Hungary vs Ireland highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on November 16, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Hungary_v_Ireland_2025_11_16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hungary-v-ireland-2025-11-16.webp",
+            "title": "Hungary vs Ireland"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Oct 14, 2025",
+            "description": "Watch Ireland vs Armenia highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on October 14, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Ireland_v_Armenia_2025_10_14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/ireland-vs-armenia-ireland-vs-armenia-Z0mV.webp",
+            "title": "Ireland vs Armenia"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "May 16, 2026",
+            "description": "Watch Ireland vs Grenada U23 highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on May 16, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/ireland-vs-grenada-u23-2026-05-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/ireland-vs-grenada-u23-2026-05-16-cP6M.webp",
+            "title": "Ireland vs Grenada U23"
+        },
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Jun 21, 1982",
+            "description": "Watch Ireland vs Honduras highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on June 21, 1982.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/ireland-vs-honduras-1982-06-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/ireland-vs-honduras-1982-06-21-bE8k.webp",
+            "title": "Ireland vs Honduras"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Nov 13, 2025",
+            "description": "Watch Ireland vs Portugal highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on November 13, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Ireland_v_Portugal_2025_11_13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/ireland-v-portugal-2025-11-13.webp",
+            "title": "Ireland vs Portugal"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Oct 11, 2025",
+            "description": "Watch Portugal vs Ireland highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on October 11, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Portugal_v_Ireland_2025_10_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/portugal-vs-ireland-portugal-vs-ireland-FXQK.webp",
+            "title": "Portugal vs Ireland"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "May 28, 2026",
+            "description": "Watch Qatar vs Ireland highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on May 28, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Moylan",
+                    "event_type": "Goal",
+                    "player": "N. Collins",
+                    "score_update": "1 - 0",
+                    "team": "Qatar",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Moylan",
+                    "team": "Qatar",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "A. Ali",
+                    "team": "Ireland",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "28/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Ireland 1 - 0 Qatar"
+                        },
+                        {
+                            "competition": "FIFA Arab Cup: Group A",
+                            "date": "07/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Qatar 0 - 3 Tunisia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "17/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Qatar 1 - 2 Zimbabwe"
+                        },
+                        {
+                            "competition": "AFC Qualification: 4th Round: Group A",
+                            "date": "14/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Qatar 2 - 1 UAE"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "03/09/2025",
+                            "result": "D",
+                            "teams_and_score": "Qatar 2 - 2 Bahrain"
+                        }
+                    ],
+                    "team": "Ireland"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "28/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Ireland 1 - 0 Qatar"
+                        },
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Ireland 5 - 0 Grenada"
+                        },
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "26/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Czechia 2 - 2 Ireland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group F",
+                            "date": "16/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Hungary 2 - 3 Ireland"
+                        }
+                    ],
+                    "team": "Qatar"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Friendlies",
+                        "date": "12/10/2021",
+                        "teams_and_score": "Ireland 4 - 0 Qatar"
+                    }
+                ],
+                "summary": {
+                    "Ireland_wins": "1",
+                    "Qatar_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/qatar-vs-ireland-2026-05-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1119.webp",
+                    "name": "Ireland",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1569.webp",
+                    "name": "Qatar",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/qatar-vs-ireland-2026-05-28-rPvG.webp",
+            "title": "Qatar vs Ireland"
+        }
+    ]
+}

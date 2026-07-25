@@ -1,0 +1,893 @@
+{
+    "team": "Penarol",
+    "team_logo": "https://img.refooty.com/logo/teams/2348.webp",
+    "total_matches": 6,
+    "matches": [
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 1, 2026",
+            "description": "Watch Corinthians vs Penarol highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 1, 2026. The lights of the CONMEBOL Libertadores shone brightly over the pitch on May 1, 2026 , as two of South America's historic giants locked horns in a high-stakes continental encounter. This clash between Corinthians and Penarol promised intensity and drama from the opening whistle, with both sides desperate to assert their dominance in the group stage. Early Dominance at the Arena The home side wasted little time in making their intentions clear, asserting control over the football match from the very first whistle. The breakthrough arrived in the 11th minute when Rodrigo Garro delivered a pinpoint ball into the danger zone, finding Gustavo Henrique . The defender rose to the occasion, meeting the delivery with precision to slot home the opening goal and send the home crowd into a frenzy. This early strike forced Penarol to rethink their defensive shell, but the Brazilian giants continued to hunt for more. As the first half progressed, the pressure became relentless. In the 25th minute, Yuri Alberto turned provider, carving out a chance with a clever assist that found Jesse Lingard in a pocket of space. The high-profile player showed his class with a clinical finish, doubling the lead and giving Corinthians a comfortable cushion. The movement between the front line was too much for the visitors to handle, as the quick passing sequences left the Uruguayan defense searching for answers. Tactical Adjustments and Rising Tension The second half saw a shift in momentum as Penarol attempted to claw their way back into the contest. Managerial changes began in the 57th minute when Gaston Togni was replaced by Luis Angulo , signaling a more offensive approach from the visitors. However, the sports drama intensified not through goals, but through a series of physical challenges. Facundo Alvez was shown a yellow card in the 68th minute for a late challenge, followed shortly by his teammate Jesus Trindade , who also entered the referee's book in the 76th minute as frustrations began to boil over. Corinthians remained disciplined, making several substitutions to freshen up their ranks and see out the result. Kaio came on for Andre Luiz just after the hour mark, while veteran Andre Carrillo and Zakaria Labyad were introduced in the 80th minute to provide stability in the midfield. Despite a late flurry of changes from Penarol , including the introduction of Abel Hernandez and Kevin Rodriguez , the Brazilian defense remained organized and resolute against the aerial bombardment. Closing the Door on the Continental Stage In the final minutes of the match , the hosts managed the clock with professional precision. The goalscoring hero Jesse Lingard received a standing ovation as he made way for Pedro Raul in the 88th minute, while Yuri Alberto was replaced by Vitinho to see out the remaining seconds. The referee’s final whistle after four minutes of stoppage time confirmed a professional performance from the home side, marking a significant step in their continental campaign and leaving the visitors to reflect on a difficult night in Brazil.",
+            "events_timeline": [
+                {
+                    "assist": "R. Garro",
+                    "event_type": "Goal",
+                    "player": "G. Henrique",
+                    "score_update": "1 - 0",
+                    "team": "Corinthians",
+                    "time": "1'"
+                },
+                {
+                    "assist": "Y. Alberto",
+                    "event_type": "Goal",
+                    "player": "J. Lingard",
+                    "score_update": "2 - 0",
+                    "team": "Corinthians",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Alvez",
+                    "team": "Penarol",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Trindade",
+                    "team": "Penarol",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group E",
+                            "date": "01/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 2 - 0 Club Atletico Penarol"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Montevideo Wanderers 1 - 0 Club Atletico Penarol"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "17/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Atletico Penarol 1 - 2 Club Atletico Platense"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "13/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Atletico Penarol 0 - 2 Liverpool FC"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "10/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Santa Fe 1 - 1 Club Atletico Penarol"
+                        }
+                    ],
+                    "team": "Penarol"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group E",
+                            "date": "01/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 2 - 0 Club Atletico Penarol"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 1 - 0 Vasco da Gama"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Barra FC 0 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Vitoria 0 - 0 Corinthians"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 2 - 0 Santa Fe"
+                        }
+                    ],
+                    "team": "Corinthians"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Copa Sudamericana: Group E",
+                        "date": "14/05/2021",
+                        "teams_and_score": "Club Atletico Penarol 4 - 0 Corinthians"
+                    }
+                ],
+                "summary": {
+                    "Corinthians_wins": "0",
+                    "Penarol_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Corinthians": "77%",
+                    "Penarol": "23%"
+                },
+                "corners": {
+                    "Corinthians": "6",
+                    "Penarol": "4"
+                },
+                "fouls": {
+                    "Corinthians": "6",
+                    "Penarol": "11"
+                },
+                "goalkeeper_saves": {
+                    "Corinthians": "2",
+                    "Penarol": "3"
+                },
+                "shots_off_target": {
+                    "Corinthians": "7",
+                    "Penarol": "1"
+                },
+                "shots_on_target": {
+                    "Corinthians": "5",
+                    "Penarol": "2"
+                },
+                "yellow_cards": {
+                    "Corinthians": "0",
+                    "Penarol": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/corinthians-vs-penarol-2026-05-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2348.webp",
+                    "name": "Penarol",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/131.webp",
+                    "name": "Corinthians",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/corinthians-vs-penarol-2026-05-01-KXDp.webp",
+            "title": "Corinthians vs Penarol"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 21, 2026",
+            "description": "Watch Penarol vs Corinthians highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 21, 2026. The historic stage of the CONMEBOL Libertadores hosted a fascinating tactical battle as Peñarol and Corinthians faced off in a highly anticipated encounter. Both sides entered the pitch with everything to play for, setting the scene for a night of drama and high-level football. Early Pressure and the Breakthrough On May 21, 2026 , the atmosphere was electric as the referee signaled the start of this continental clash. Peñarol looked to impose their rhythm early on, finding success through wide areas to stretch the opposition. The breakthrough came in the 19th minute when Jesus Trindade delivered a precise ball into the path of Maximiliano Olivera , who made no mistake in finding the back of the net to ignite the home crowd. The first half continued with intense duels in midfield, but neither side could alter the scoreline before the referee blew for the interval at the 45+2 minute mark. Tactical Shifts and the Equalizer The second half began with renewed energy as both managers looked to their benches to influence the outcome. Following a double substitution by Peñarol in the 60th minute, where Luis Angulo and Facundo Alvez were introduced, the game took a sharp turn. In the 63rd minute, Corinthians found their response. Zakaria Labyad displayed his clinical edge, finishing a well-worked move to level the game and silence the local supporters. This goal shifted the momentum, prompting a flurry of changes from both sides, including the introduction of Jesse Lingard and Yuri Alberto for the visitors. A Grueling Finish As the match entered the final twenty minutes, the pace remained frantic. Peñarol brought on veteran striker Abel Hernandez and Facundo Batista to regain the lead, while Corinthians bolstered their lineup with fresh legs like Rodrigo Garro . Despite six minutes of stoppage time and several half-chances at both ends, neither team could find the decisive winning goal. The referee's final whistle at 90+6' confirmed a hard-fought draw, leaving both clubs with work to do in their quest for knockout qualification.",
+            "events_timeline": [
+                {
+                    "assist": "J. Trindade",
+                    "event_type": "Goal",
+                    "player": "M. Olivera",
+                    "score_update": "1 - 0",
+                    "team": "Penarol",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Z. Labyad",
+                    "score_update": "1 - 1",
+                    "team": "Corinthians",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group E",
+                            "date": "22/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Club Atletico Penarol 1 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 3 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 1 - 0 Barra FC"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 3 - 2 Sao Paulo"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "07/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Santa Fe 1 - 1 Corinthians"
+                        }
+                    ],
+                    "team": "Corinthians"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group E",
+                            "date": "22/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Club Atletico Penarol 1 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Primera División: Intermedio Group A",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Atletico Penarol 2 - 1 Liverpool FC"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "11/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Cerro Largo 2 - 3 Club Atletico Penarol"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "07/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Club Atletico Platense 1 - 1 Club Atletico Penarol"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "04/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Club Atletico Penarol 1 - 1 Defensor Sporting"
+                        }
+                    ],
+                    "team": "Penarol"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group E",
+                        "date": "01/05/2026",
+                        "teams_and_score": "Corinthians 2 - 0 Club Atletico Penarol"
+                    },
+                    {
+                        "competition": "Copa Sudamericana: Group E",
+                        "date": "14/05/2021",
+                        "teams_and_score": "Club Atletico Penarol 4 - 0 Corinthians"
+                    }
+                ],
+                "summary": {
+                    "Corinthians_wins": "1",
+                    "Penarol_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Corinthians": "66%",
+                    "Penarol": "34%"
+                },
+                "corners": {
+                    "Corinthians": "5",
+                    "Penarol": "3"
+                },
+                "fouls": {
+                    "Corinthians": "6",
+                    "Penarol": "5"
+                },
+                "goalkeeper_saves": {
+                    "Corinthians": "2",
+                    "Penarol": "6"
+                },
+                "offsides": {
+                    "Corinthians": "2",
+                    "Penarol": "1"
+                },
+                "shots_blocked": {
+                    "Corinthians": "6",
+                    "Penarol": "7"
+                },
+                "shots_off_target": {
+                    "Corinthians": "5",
+                    "Penarol": "5"
+                },
+                "shots_on_target": {
+                    "Corinthians": "7",
+                    "Penarol": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/penarol-vs-corinthians-2026-05-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/131.webp",
+                    "name": "Corinthians",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2348.webp",
+                    "name": "Penarol",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/penarol-vs-corinthians-2026-05-21-ipm6.webp",
+            "title": "Penarol vs Corinthians"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 17, 2026",
+            "description": "Watch Penarol vs Platense highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 17, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "T. Silva",
+                    "event_type": "Goal",
+                    "player": "G. Mainero",
+                    "score_update": "0 - 1",
+                    "team": "Platense",
+                    "time": "22'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Escobar",
+                    "team": "Penarol",
+                    "time": "26'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Nasif",
+                    "team": "Platense",
+                    "time": "33'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Zapiola",
+                    "team": "Platense",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Ferreira",
+                    "team": "Penarol",
+                    "time": "55'"
+                },
+                {
+                    "assist": "L. M. Angulo",
+                    "event_type": "Goal",
+                    "player": "M. Arezo",
+                    "score_update": "1 - 1",
+                    "team": "Penarol",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Olivera",
+                    "team": "Penarol",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Mainero",
+                    "team": "Platense",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Zapiola",
+                    "score_update": "1 - 2",
+                    "team": "Platense",
+                    "time": "63'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Remedi",
+                    "team": "Penarol",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Mendia",
+                    "team": "Platense",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "F. Escobar",
+                    "team": "Penarol",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group E",
+                            "date": "17/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Atletico Penarol 1 - 2 Club Atletico Platense"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "12/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Club Atletico Platense 1 - 1 Gimnasia Mendoza"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "10/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Atletico Platense 0 - 2 Corinthians"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "01/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Lanus 0 - 0 Club Atletico Platense"
+                        }
+                    ],
+                    "team": "Platense"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group E",
+                            "date": "17/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Atletico Penarol 1 - 2 Club Atletico Platense"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "13/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Atletico Penarol 0 - 2 Liverpool FC"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "10/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Santa Fe 1 - 1 Club Atletico Penarol"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Atletico Progreso 0 - 2 Club Atletico Penarol"
+                        }
+                    ],
+                    "team": "Penarol"
+                },
+                "summary": {
+                    "Penarol_wins": "0",
+                    "Platense_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Penarol": "50%",
+                    "Platense": "50%"
+                },
+                "corners": {
+                    "Penarol": "1",
+                    "Platense": "0"
+                },
+                "fouls": {
+                    "Penarol": "15",
+                    "Platense": "23"
+                },
+                "goalkeeper_saves": {
+                    "Penarol": "1",
+                    "Platense": "4"
+                },
+                "offsides": {
+                    "Penarol": "4",
+                    "Platense": "1"
+                },
+                "red_cards": {
+                    "Penarol": "1",
+                    "Platense": "0"
+                },
+                "shots_off_target": {
+                    "Penarol": "4",
+                    "Platense": "2"
+                },
+                "shots_on_target": {
+                    "Penarol": "5",
+                    "Platense": "3"
+                },
+                "yellow_cards": {
+                    "Penarol": "3",
+                    "Platense": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/penarol-vs-platense-2026-04-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1064.webp",
+                    "name": "Platense",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2348.webp",
+                    "name": "Penarol",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/penarol-vs-platense-2026-04-17-0aM7.webp",
+            "title": "Penarol vs Platense"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 27, 2026",
+            "description": "Watch Penarol vs Santa Fe highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 27, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/penarol-vs-santa-fe-2026-05-27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/penarol-vs-santa-fe-2026-05-27-mzSJ.webp",
+            "title": "Penarol vs Santa Fe"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 8, 2026",
+            "description": "Watch Platense vs Penarol highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 8, 2026. High Stakes in the Libertadores Arena On May 8, 2026 , Platense and Penarol clashed in a pivotal CONMEBOL Libertadores fixture. The atmosphere was charged with tension as both sides fought tooth and nail for dominance in a match defined by tactical grit and moments of individual brilliance. A Rapid Opening Half The game kicked off with immediate tactical adjustments, including the early introduction of Diego Laxalt to stabilize the midfield. The breakthrough arrived at the 29-minute mark when Facundo Batista found the back of the net following a clinical assist from Laxalt . The lead, however, proved short-lived; ten minutes later, Agustin Lagos fired back for Platense , converting a well-worked opportunity set up by Franco Zapiola . The first half was a chaotic affair punctuated by frequent disciplinary interventions, as both teams struggled to contain their aggression. Second Half Stalemate The intensity of the first half spilled over into the second, though the opportunities became increasingly scarce as both teams tightened their defensive lines. Managers sought to inject fresh energy with a series of substitutions, bringing in players like Gaston Togni and Juan Gauto in hopes of finding a late winner. The match concluded without further goals, ending in a hard-fought draw that saw Washington Aguerre cautioned deep into stoppage time, capping off an intense evening of football.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Ferreira",
+                    "team": "Penarol",
+                    "time": "1'"
+                },
+                {
+                    "assist": "D. Laxalt",
+                    "event_type": "Goal",
+                    "player": "F. Batista",
+                    "score_update": "0 - 1",
+                    "team": "Penarol",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Batista",
+                    "team": "Penarol",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Mainero",
+                    "team": "Platense",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Lemos",
+                    "team": "Penarol",
+                    "time": "46'"
+                },
+                {
+                    "assist": "F. Zapiola",
+                    "event_type": "Goal",
+                    "player": "A. Lagos",
+                    "score_update": "1 - 1",
+                    "team": "Platense",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Zapiola",
+                    "team": "Platense",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Olivera",
+                    "team": "Penarol",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Fernandez",
+                    "team": "Penarol",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Aguerre",
+                    "team": "Penarol",
+                    "time": "90+8'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group E",
+                            "date": "07/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Club Atletico Platense 1 - 1 Club Atletico Penarol"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "04/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Club Atletico Penarol 1 - 1 Defensor Sporting"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "01/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 2 - 0 Club Atletico Penarol"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Montevideo Wanderers 1 - 0 Club Atletico Penarol"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "17/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Atletico Penarol 1 - 2 Club Atletico Platense"
+                        }
+                    ],
+                    "team": "Penarol"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group E",
+                            "date": "07/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Club Atletico Platense 1 - 1 Club Atletico Penarol"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Atletico Platense 0 - 2 Estudiantes de la Plata"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "29/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Atletico Platense 2 - 1 Santa Fe"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Atletico Platense 0 - 1 San Lorenzo de Almagro"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "17/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Atletico Penarol 1 - 2 Club Atletico Platense"
+                        }
+                    ],
+                    "team": "Platense"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group E",
+                        "date": "17/04/2026",
+                        "teams_and_score": "Club Atletico Penarol 1 - 2 Club Atletico Platense"
+                    }
+                ],
+                "summary": {
+                    "Penarol_wins": "0",
+                    "Platense_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Penarol": "41%",
+                    "Platense": "59%"
+                },
+                "corners": {
+                    "Penarol": "3",
+                    "Platense": "4"
+                },
+                "fouls": {
+                    "Penarol": "16",
+                    "Platense": "14"
+                },
+                "goalkeeper_saves": {
+                    "Penarol": "2",
+                    "Platense": "3"
+                },
+                "offsides": {
+                    "Penarol": "1",
+                    "Platense": "4"
+                },
+                "shots_blocked": {
+                    "Penarol": "3",
+                    "Platense": "2"
+                },
+                "shots_off_target": {
+                    "Penarol": "1",
+                    "Platense": "8"
+                },
+                "shots_on_target": {
+                    "Penarol": "4",
+                    "Platense": "3"
+                },
+                "yellow_cards": {
+                    "Penarol": "6",
+                    "Platense": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/platense-vs-penarol-2026-05-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2348.webp",
+                    "name": "Penarol",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1064.webp",
+                    "name": "Platense",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/platense-vs-penarol-2026-05-08-izbV.webp",
+            "title": "Platense vs Penarol"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 9, 2026",
+            "description": "Watch Santa Fe vs Penarol highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 9, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/santa-fe-vs-penarol-2026-04-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/santa-fe-vs-penarol-2026-04-09-MGUo.webp",
+            "title": "Santa Fe vs Penarol"
+        }
+    ]
+}

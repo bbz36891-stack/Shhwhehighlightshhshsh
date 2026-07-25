@@ -1,0 +1,177 @@
+{
+    "team": "Barranquilla",
+    "team_logo": "https://img.refooty.com/logo/teams/1466.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 9, 2026",
+            "description": "Watch Barranquilla vs Palmeiras highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 9, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "T. Gutierrez",
+                    "score_update": "1 - 0",
+                    "team": "Barranquilla",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Perez",
+                    "team": "Barranquilla",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Gutierrez",
+                    "team": "Barranquilla",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Gabriel",
+                    "team": "Palmeiras",
+                    "time": "46'"
+                },
+                {
+                    "assist": "F. Lopez",
+                    "event_type": "Goal",
+                    "player": "R. Sosa",
+                    "score_update": "1 - 1",
+                    "team": "Palmeiras",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Paiva",
+                    "team": "Barranquilla",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "09/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico Junior 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 2 Palmeiras"
+                        },
+                        {
+                            "competition": "Paulista A1: Play-off",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Novorizontino 1 - 2 Palmeiras"
+                        }
+                    ],
+                    "team": "Palmeiras"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "09/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico Junior 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Primera A: Apertura",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Junior 1 - 2 Deportivo Cali"
+                        }
+                    ],
+                    "team": "Barranquilla"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Copa Libertadores Grp. F",
+                        "date": "11/04/2019",
+                        "teams_and_score": "Palmeiras 3 - 0 Atletico Junior"
+                    },
+                    {
+                        "competition": "Copa Libertadores Grp. H",
+                        "date": "17/05/2018",
+                        "teams_and_score": "Palmeiras 3 - 1 Atletico Junior"
+                    }
+                ],
+                "summary": {
+                    "Barranquilla_wins": "0",
+                    "Palmeiras_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Barranquilla": "43%",
+                    "Palmeiras": "57%"
+                },
+                "corners": {
+                    "Barranquilla": "2",
+                    "Palmeiras": "11"
+                },
+                "fouls": {
+                    "Barranquilla": "17",
+                    "Palmeiras": "9"
+                },
+                "goalkeeper_saves": {
+                    "Barranquilla": "4",
+                    "Palmeiras": "2"
+                },
+                "offsides": {
+                    "Barranquilla": "1",
+                    "Palmeiras": "5"
+                },
+                "shots_off_target": {
+                    "Barranquilla": "6",
+                    "Palmeiras": "17"
+                },
+                "shots_on_target": {
+                    "Barranquilla": "3",
+                    "Palmeiras": "5"
+                },
+                "yellow_cards": {
+                    "Barranquilla": "3",
+                    "Palmeiras": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/barranquilla-vs-palmeiras-2026-04-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/121.webp",
+                    "name": "Palmeiras",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1466.webp",
+                    "name": "Barranquilla",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/barranquilla-vs-palmeiras-2026-04-09-bTWz.webp",
+            "title": "Barranquilla vs Palmeiras"
+        }
+    ]
+}

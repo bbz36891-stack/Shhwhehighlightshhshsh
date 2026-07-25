@@ -1,0 +1,42 @@
+{
+    "team": "North Macedonia U20",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 8, 2026",
+            "description": "Watch USA U20 vs North Macedonia U20 highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 8, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/usa-u20-vs-north-macedonia-u20-2026-06-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/usa-u20-vs-north-macedonia-u20-2026-06-08-hUXE.webp",
+            "title": "USA U20 vs North Macedonia U20"
+        }
+    ]
+}

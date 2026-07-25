@@ -1,0 +1,183 @@
+{
+    "team": "Mexico W",
+    "team_logo": "https://img.refooty.com/logo/teams/1729.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 10, 2026",
+            "description": "Watch Australia W vs Mexico W highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 10, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "A. Kennedy",
+                    "score_update": "1 - 0",
+                    "team": "Australia W",
+                    "time": "1'"
+                },
+                {
+                    "assist": "M. Saldívar",
+                    "event_type": "Goal",
+                    "player": "D. Ordoñez",
+                    "score_update": "1 - 1",
+                    "team": "Mexico W",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Barreras",
+                    "team": "Australia W",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Espinoza",
+                    "team": "Mexico W",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Rule",
+                    "team": "Australia W",
+                    "time": "61'"
+                },
+                {
+                    "assist": "K. Torpey",
+                    "event_type": "Goal",
+                    "player": "C. Foord",
+                    "score_update": "3 - 1",
+                    "team": "Australia W",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "09/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Australia Women 3 - 1 Mexico W"
+                        },
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "02/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Costa Rica W 0 - 2 Mexico W"
+                        }
+                    ],
+                    "team": "Mexico W"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "09/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Australia Women 3 - 1 Mexico W"
+                        },
+                        {
+                            "competition": "AFC Asian Cup Women: Knockout stage",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Japan W 1 - 0 Australia Women"
+                        },
+                        {
+                            "competition": "AFC Asian Cup Women: Group A",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Australia Women 3 - 3 South Korea W"
+                        }
+                    ],
+                    "team": "Australia W"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Women's Friendlies",
+                        "date": "06/06/2026",
+                        "teams_and_score": "Australia Women 0 - 1 Mexico W"
+                    },
+                    {
+                        "competition": "Women's Friendlies 2024",
+                        "date": "10/04/2024",
+                        "teams_and_score": "Mexico W 0 - 2 Australia Women"
+                    }
+                ],
+                "summary": {
+                    "Australia W_wins": "1",
+                    "Mexico W_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Australia W": "65%",
+                    "Mexico W": "35%"
+                },
+                "corners": {
+                    "Australia W": "5",
+                    "Mexico W": "3"
+                },
+                "fouls": {
+                    "Australia W": "4",
+                    "Mexico W": "7"
+                },
+                "goalkeeper_saves": {
+                    "Australia W": "4",
+                    "Mexico W": "3"
+                },
+                "offsides": {
+                    "Australia W": "1",
+                    "Mexico W": "1"
+                },
+                "shots_blocked": {
+                    "Australia W": "5",
+                    "Mexico W": "2"
+                },
+                "shots_off_target": {
+                    "Australia W": "10",
+                    "Mexico W": "6"
+                },
+                "shots_on_target": {
+                    "Australia W": "6",
+                    "Mexico W": "5"
+                },
+                "yellow_cards": {
+                    "Australia W": "1",
+                    "Mexico W": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/australia-w-vs-mexico-w-2026-06-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1729.webp",
+                    "name": "Mexico W",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1722.webp",
+                    "name": "Australia W",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/australia-w-vs-mexico-w-2026-06-10-zM9p.webp",
+            "title": "Australia W vs Mexico W"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "team": "Flamengo RJ",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "FIFA Club World Cup",
+            "competition_cover": "https://refooty.com/covers/fifa-club-world-cup.webp",
+            "date": "Dec 13, 2025",
+            "description": "Watch Flamengo vs Pyramids FC highlights and goals from FIFA Club World Cup on ReFooty: Football Highlights Hub. Match played on December 13, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Flamengo_RJ_v_Pyramids_2025_12_13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/flamengo-rj-v-pyramids-2025-12-13-Go3W.webp",
+            "title": "Flamengo RJ vs Pyramids"
+        }
+    ]
+}

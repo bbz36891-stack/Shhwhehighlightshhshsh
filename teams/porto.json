@@ -1,0 +1,42 @@
+{
+    "team": "Porto",
+    "team_logo": "https://img.refooty.com/logo/teams/20782.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Nov 6, 2025",
+            "description": "Watch Utrecht vs Porto highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on November 6, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Porto"
+                },
+                "home_team_form": {
+                    "team": "Utrecht"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Utrecht_v_FC_Porto_2025_11_06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/20782.webp",
+                    "name": "Porto",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/207.webp",
+                    "name": "Utrecht",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/utrecht-v-fc-porto-2025-11-06-s4FH.webp",
+            "title": "FC Utrecht vs FC Porto"
+        }
+    ]
+}

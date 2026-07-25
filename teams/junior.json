@@ -1,0 +1,887 @@
+{
+    "team": "Junior",
+    "team_logo": "",
+    "total_matches": 5,
+    "matches": [
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 14, 2026",
+            "description": "Watch Cerro Porteno vs Junior highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cerro-porteno-vs-junior-2026-04-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cerro-porteno-vs-junior-2026-04-14-byhM.webp",
+            "title": "Cerro Porteno vs Junior"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 8, 2026",
+            "description": "Watch Junior vs Cerro Porteno highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 8, 2026. The atmosphere was thick with anticipation as two South American giants faced off in a high-stakes continental clash. Fans expected a tactical battle, and the players delivered a match defined by intensity and fine margins. Early Breakthrough for the Hosts On May 8, 2026 , Junior and Cerro Porteno took to the pitch for a pivotal encounter in the CONMEBOL Libertadores . The match began with a frantic pace as both sides looked to establish midfield dominance. It didn't take long for the deadlock to be broken, as Pablo Vegetti found the target in the 13th minute. His clinical finish capitalized on early pressure, sending the home supporters into a frenzy and forcing the visitors to rethink their defensive approach. As the first half progressed, the game became increasingly physical. Tactical fouls interrupted the flow of play, leading to a yellow card for Alexis Arias deep into stoppage time before the interval. Despite the mounting tension, Junior managed to carry their slim lead into the halftime break, leaving the visitors with plenty of work to do in the second period. Tactical Shifts and Defensive Resilience The second half saw both managers turn to their benches to find a spark. Carlos Bacca replaced Guillermo Paiva for the home side, while Cerro Porteno introduced fresh legs in Mateo Klimowicz and Juan Iturbe . The intensity remained high, resulting in bookings for Gustavo Velazquez and Jhomier Guerrero as the battle for possession intensified in the middle of the park. In the closing stages, Junior focused on maintaining their defensive shape against a desperate Cerro Porteno attack. Late tactical changes saw Yimmi Chara and Bryan Castrillon join the action to help see out the result. Even with a 90th-minute yellow card for Jean Pestana and a lengthy nine minutes of added time, the home side stood firm. The final whistle confirmed a hard-fought victory for Junior , securing three vital points in their quest for continental glory.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "P. Vegetti",
+                    "score_update": "0 - 1",
+                    "team": "Cerro Porteno",
+                    "time": "13'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Martin",
+                    "team": "Cerro Porteno",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Velázquez",
+                    "team": "Cerro Porteno",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Guerrero",
+                    "team": "Junior",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. C. Pestana",
+                    "team": "Junior",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "08/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Junior 0 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Division Profesional: Apertura",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "CD Recoleta 2 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "30/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Cerro Porteno 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Division Profesional: Apertura",
+                            "date": "24/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Cerro Porteno 1 - 1 Sportivo Ameliano"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cerro Porteno 1 - 0 Atletico Junior"
+                        }
+                    ],
+                    "team": "Cerro Porteno"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "08/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico Junior 0 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Primera A: Apertura",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Junior 4 - 3 Deportivo Pasto"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Cristal 2 - 0 Atletico Junior"
+                        },
+                        {
+                            "competition": "Primera A: Apertura",
+                            "date": "24/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Cucuta 1 - 1 Atletico Junior"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Cerro Porteno 1 - 0 Atletico Junior"
+                        }
+                    ],
+                    "team": "Junior"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group F",
+                        "date": "14/04/2026",
+                        "teams_and_score": "Cerro Porteno 1 - 0 Atletico Junior"
+                    },
+                    {
+                        "competition": "Copa Sudamericana",
+                        "date": "20/09/2017",
+                        "teams_and_score": "Atletico Junior 3 - 1 Cerro Porteno"
+                    }
+                ],
+                "summary": {
+                    "Cerro Porteno_wins": "1",
+                    "Junior_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cerro Porteno": "35%",
+                    "Junior": "65%"
+                },
+                "corners": {
+                    "Cerro Porteno": "2",
+                    "Junior": "10"
+                },
+                "fouls": {
+                    "Cerro Porteno": "10",
+                    "Junior": "13"
+                },
+                "goalkeeper_saves": {
+                    "Cerro Porteno": "3",
+                    "Junior": "3"
+                },
+                "offsides": {
+                    "Cerro Porteno": "2",
+                    "Junior": "3"
+                },
+                "shots_off_target": {
+                    "Cerro Porteno": "2",
+                    "Junior": "11"
+                },
+                "shots_on_target": {
+                    "Cerro Porteno": "3",
+                    "Junior": "2"
+                },
+                "yellow_cards": {
+                    "Cerro Porteno": "2",
+                    "Junior": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/junior-vs-cerro-porteno-2026-05-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1176.webp",
+                    "name": "Cerro Porteno",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1135.webp",
+                    "name": "Junior",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/junior-vs-cerro-porteno-2026-05-08-Ef38.webp",
+            "title": "Junior vs Cerro Porteno"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 20, 2026",
+            "description": "Watch Junior vs Sporting Cristal highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 20, 2026. On May 20, 2026, the CONMEBOL Libertadores stage was set for a dramatic encounter as Junior welcomed Sporting Cristal in a match defined by high-intensity attacking football. Both sides looked to assert their dominance in a fixture that promised plenty of action from the very first whistle. Explosive Start at the Metropolitano The home side wasted no time in establishing their presence on the pitch. Luis Muriel ignited the crowd early, finding the back of the net in the 9th minute to give Junior the perfect start. The pressure continued to mount as Jesus Rivas orchestrated a brilliant move in the 28th minute, setting up Kevin Perez to double the lead. The Colombian side seemed unstoppable, and just eight minutes later, Luis Muriel struck again, finishing a precise pass from Edwin Herrera to make it 3-0. Cristal’s Resilient Response Just when the game seemed to be slipping away, Sporting Cristal found a lifeline deep in first-half stoppage time. In the 45+5 minute, Alejandro Posito provided a crucial assist for Yoshimar Yotun , who pulled one back for the visitors before the interval. This momentum carried into the second half as Cristal made a triple substitution, introducing Cristiano , Gabriel , and Felipe Vizeu . The tactical shift paid off in the 56th minute when Gustavo Cazonatti scored to reduce the deficit to a single goal, silencing the home fans. Tensions Flare in the Closing Stages As the clock ticked down, the atmosphere grew increasingly heated. Junior manager looked to steady the ship by bringing on veteran Teofilo Gutierrez , while Sporting Cristal pushed for an equalizer. The final thirty minutes were marked by tactical fouls and a flurry of bookings, with Jannenson Sarmiento and Yeison Suarez receiving yellow cards for the hosts. Despite a late booking for Cristiano in the 90+7 minute, Junior held firm to protect their 3-2 lead until the referee blew the final whistle at 90+8'.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "L. Muriel",
+                    "score_update": "1 - 0",
+                    "team": "Junior",
+                    "time": "9'"
+                },
+                {
+                    "assist": "J. Rivas",
+                    "event_type": "Goal",
+                    "player": "K. Perez",
+                    "score_update": "2 - 0",
+                    "team": "Junior",
+                    "time": "28'"
+                },
+                {
+                    "assist": "E. Herrera",
+                    "event_type": "Goal",
+                    "player": "L. Muriel",
+                    "score_update": "3 - 0",
+                    "team": "Junior",
+                    "time": "36'"
+                },
+                {
+                    "assist": "A. Posito",
+                    "event_type": "Goal",
+                    "player": "Y. Yotun",
+                    "score_update": "3 - 1",
+                    "team": "Sporting Cristal",
+                    "time": "45+5'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Cazonatti",
+                    "score_update": "3 - 2",
+                    "team": "Sporting Cristal",
+                    "time": "56'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Sarmiento",
+                    "team": "Junior",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Suarez",
+                    "team": "Junior",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Silva",
+                    "team": "Sporting Cristal",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "21/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico Junior 3 - 2 Sporting Cristal"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "15/05/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cajamarca 3 - 1 Sporting Cristal"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "05/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Cristal 0 - 2 Palmeiras"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sporting Cristal 2 - 2 Cusco FC"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "29/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting Cristal 2 - 0 Atletico Junior"
+                        }
+                    ],
+                    "team": "Sporting Cristal"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Junior 3 - 2 Sporting Cristal"
+                        },
+                        {
+                            "competition": "Primera A: Apertura: Play-off",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Santa Fe 1 - 1 Atletico Junior"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "08/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico Junior 0 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Primera A: Apertura",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Junior 4 - 3 Deportivo Pasto"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Cristal 2 - 0 Atletico Junior"
+                        }
+                    ],
+                    "team": "Junior"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group F",
+                        "date": "29/04/2026",
+                        "teams_and_score": "Sporting Cristal 2 - 0 Atletico Junior"
+                    }
+                ],
+                "summary": {
+                    "Junior_wins": "0",
+                    "Sporting Cristal_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Junior": "49%",
+                    "Sporting Cristal": "50%"
+                },
+                "corners": {
+                    "Junior": "4",
+                    "Sporting Cristal": "6"
+                },
+                "fouls": {
+                    "Junior": "14",
+                    "Sporting Cristal": "10"
+                },
+                "goalkeeper_saves": {
+                    "Junior": "3",
+                    "Sporting Cristal": "6"
+                },
+                "offsides": {
+                    "Junior": "3",
+                    "Sporting Cristal": "3"
+                },
+                "shots_off_target": {
+                    "Junior": "6",
+                    "Sporting Cristal": "10"
+                },
+                "shots_on_target": {
+                    "Junior": "9",
+                    "Sporting Cristal": "5"
+                },
+                "yellow_cards": {
+                    "Junior": "2",
+                    "Sporting Cristal": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/junior-vs-sporting-cristal-2026-05-20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2546.webp",
+                    "name": "Sporting Cristal",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1135.webp",
+                    "name": "Junior",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/junior-vs-sporting-cristal-2026-05-20-WWUE.webp",
+            "title": "Junior vs Sporting Cristal"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 28, 2026",
+            "description": "Watch Palmeiras vs Junior highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 28, 2026. The lights of the CONMEBOL Libertadores shone brightly on May 28, 2026, as Palmeiras and Junior took to the pitch for a highly anticipated continental showdown. Both sides entered the match seeking to assert their dominance in one of South America's most prestigious competitions. Explosive Start and Midfield Mastery The contest ignited early when Palmeiras found the breakthrough in the 6th minute. Jose Lopez turned provider, setting up Jhon Arias who finished clinically to put the hosts ahead. Junior attempted to find their rhythm but were hampered by early discipline issues, with Yimmi Chara and Jean Pestana both receiving yellow cards as they struggled to contain the Brazilian side's movement. However, the visitors clawed their way back into the game in the 36th minute. Jermein Pena delivered a precise ball for Luis Muriel , who made no mistake in leveling the score and momentarily silencing the home crowd. Clinical Finishing Before the Interval The parity did not last long as Palmeiras shifted into another gear before the break. In the 40th minute, Jose Lopez notched his second assist of the night, picking out Allan to restore the lead. Just five minutes later, on the stroke of half-time, the Lopez-Arias connection struck again. Jose Lopez completed a remarkable hat-trick of assists, allowing Jhon Arias to bag his second goal of the match and give the hosts a comfortable cushion heading into the locker room. Controlling the Tempo to the Final Whistle The second half began with tactical adjustments from both benches, but Palmeiras remained the aggressors. In the 51st minute, Murilo Cerqueira ventured forward to assist Andreas Pereira , who scored a fourth for the home side to effectively end the contest as a competitive struggle. Both managers utilized their full bench depth in the closing stages, with Felipe Anderson and Paulinho entering for the hosts to maintain the energy. Despite a late yellow card for Juan David Rios , the match concluded with Palmeiras firmly in control, securing a vital result on this 2026-05-28 fixture.",
+            "events_timeline": [
+                {
+                    "assist": "F. Lopez",
+                    "event_type": "Goal",
+                    "player": "J. Arias",
+                    "score_update": "1 - 0",
+                    "team": "Palmeiras",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Chara",
+                    "team": "Junior",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. C. Pestana",
+                    "team": "Junior",
+                    "time": "31'"
+                },
+                {
+                    "assist": "J. Pena",
+                    "event_type": "Goal",
+                    "player": "L. Muriel",
+                    "score_update": "1 - 1",
+                    "team": "Junior",
+                    "time": "46'"
+                },
+                {
+                    "assist": "F. Lopez",
+                    "event_type": "Goal",
+                    "player": "Allan",
+                    "score_update": "2 - 1",
+                    "team": "Palmeiras",
+                    "time": "61'"
+                },
+                {
+                    "assist": "F. Lopez",
+                    "event_type": "Goal",
+                    "player": "J. Arias",
+                    "score_update": "3 - 1",
+                    "team": "Palmeiras",
+                    "time": "76'"
+                },
+                {
+                    "assist": "M. Murilo",
+                    "event_type": "Goal",
+                    "player": "A. Pereira",
+                    "score_update": "4 - 1",
+                    "team": "Palmeiras",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. D. Rios",
+                    "team": "Junior",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "28/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Palmeiras 4 - 1 Atletico Junior"
+                        },
+                        {
+                            "competition": "Primera A: Apertura: Play-off",
+                            "date": "24/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico Junior 0 - 0 Santa Fe"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Junior 3 - 2 Sporting Cristal"
+                        },
+                        {
+                            "competition": "Primera A: Apertura: Play-off",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Santa Fe 1 - 1 Atletico Junior"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "08/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico Junior 0 - 1 Cerro Porteno"
+                        }
+                    ],
+                    "team": "Junior"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "28/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Palmeiras 4 - 1 Atletico Junior"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Flamengo 0 - 3 Palmeiras"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "21/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Palmeiras 0 - 1 Cerro Porteno"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Palmeiras 1 - 1 Cruzeiro"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "W",
+                            "teams_and_score": "EC Jacuipense 1 - 4 Palmeiras"
+                        }
+                    ],
+                    "team": "Palmeiras"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group F",
+                        "date": "09/04/2026",
+                        "teams_and_score": "Atletico Junior 1 - 1 Palmeiras"
+                    },
+                    {
+                        "competition": "Copa Libertadores Grp. F",
+                        "date": "11/04/2019",
+                        "teams_and_score": "Palmeiras 3 - 0 Atletico Junior"
+                    },
+                    {
+                        "competition": "Copa Libertadores Grp. H",
+                        "date": "17/05/2018",
+                        "teams_and_score": "Palmeiras 3 - 1 Atletico Junior"
+                    }
+                ],
+                "summary": {
+                    "Junior_wins": "0",
+                    "Palmeiras_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Junior": "51%",
+                    "Palmeiras": "49%"
+                },
+                "corners": {
+                    "Junior": "7",
+                    "Palmeiras": "0"
+                },
+                "fouls": {
+                    "Junior": "12",
+                    "Palmeiras": "4"
+                },
+                "goalkeeper_saves": {
+                    "Junior": "4",
+                    "Palmeiras": "0"
+                },
+                "offsides": {
+                    "Junior": "1",
+                    "Palmeiras": "0"
+                },
+                "shots_blocked": {
+                    "Junior": "0",
+                    "Palmeiras": "1"
+                },
+                "shots_off_target": {
+                    "Junior": "12",
+                    "Palmeiras": "8"
+                },
+                "shots_on_target": {
+                    "Junior": "1",
+                    "Palmeiras": "8"
+                },
+                "yellow_cards": {
+                    "Junior": "3",
+                    "Palmeiras": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/palmeiras-vs-junior-2026-05-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1135.webp",
+                    "name": "Junior",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/121.webp",
+                    "name": "Palmeiras",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/palmeiras-vs-junior-2026-05-28-Y2ep.webp",
+            "title": "Palmeiras vs Junior"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 28, 2026",
+            "description": "Watch Sporting Cristal vs Junior highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 28, 2026. Two heavyweights of South American football met on a tension-filled night in the CONMEBOL Libertadores as Sporting Cristal played host to Junior . Both sides looked to establish their dominance early in a fixture that promised high-stakes drama and tactical intrigue from the opening whistle. Early Dismissal Reshapes the Contest The match on May 29, 2026 , began with high intensity as both teams grappled for control of the midfield. The referee was called into action early, issuing a yellow card to Gustavo Cazonatti in the 10th minute as the physical nature of the encounter became apparent. However, the game's defining moment arrived in the 22nd minute when Junior defender Jermein Pena was shown a straight red card. The dismissal sparked heavy protests from his teammates, but the official remained unmoved, leaving the Colombian side to navigate the vast majority of the match with only ten men. Despite the numerical advantage, Sporting Cristal found it difficult to break down a resilient away defense before the halftime whistle blew after seven minutes of added time. Gonzalez Breaks the Deadlock Sporting Cristal emerged for the second half with renewed intent, introducing Martin Tavara for the cautioned Cazonatti to provide fresh impetus. The pressure finally told in the 53rd minute through Santiago Gonzalez . Just minutes after receiving a yellow card of his own, Gonzalez found the clinical edge his side had been lacking, firing home after a well-timed assist from Luis Iberico . The breakthrough forced Junior into a desperate triple substitution, bringing on the experienced Luis Muriel , Yimmi Chara , and Cristian Barrios to try and claw their way back into the game despite their disadvantage. Late Drama and Clinical Finishing As the clock ticked toward the ninety-minute mark, both managers utilized their benches to manage the exhausting tempo. The home side’s tactical depth eventually paid dividends in spectacular fashion. In the 87th minute, the goalscorer Santiago Gonzalez was replaced by Catriel Cabellos , a move that would prove decisive. Just four minutes after entering the fray, Cabellos effectively killed off the contest in the 91st minute, slotting home a second goal following excellent work from fellow substitute Juan Gonzalez . The closing moments were marked by frustration for the visitors, evidenced by a late yellow card for Guillermo Paiva . When the referee finally brought the match to a close after eight minutes of stoppage time, it was Sporting Cristal who celebrated a disciplined performance that rewarded their patience and clinical edge in front of goal.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Cazonatti",
+                    "team": "Sporting Cristal",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Pena",
+                    "team": "Junior",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. E. Gonzalez",
+                    "team": "Sporting Cristal",
+                    "time": "49'"
+                },
+                {
+                    "assist": "L. Iberico",
+                    "event_type": "Goal",
+                    "player": "S. E. Gonzalez",
+                    "score_update": "1 - 0",
+                    "team": "Sporting Cristal",
+                    "time": "53'"
+                },
+                {
+                    "assist": "J. Gonzalez",
+                    "event_type": "Goal",
+                    "player": "C. Cabellos",
+                    "score_update": "2 - 0",
+                    "team": "Sporting Cristal",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Paiva",
+                    "team": "Junior",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Cristal 2 - 0 Atletico Junior"
+                        },
+                        {
+                            "competition": "Primera A: Apertura",
+                            "date": "24/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Cucuta 1 - 1 Atletico Junior"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Cerro Porteno 1 - 0 Atletico Junior"
+                        },
+                        {
+                            "competition": "Primera A: Apertura",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Aguilas Doradas Rionegro 0 - 3 Atletico Junior"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "09/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico Junior 1 - 1 Palmeiras"
+                        }
+                    ],
+                    "team": "Junior"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "29/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting Cristal 2 - 0 Atletico Junior"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Comerciantes Unidos 1 - 0 Sporting Cristal"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Palmeiras 2 - 1 Sporting Cristal"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "03/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Cristal 1 - 2 Club Deportivo Moquegua"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "11/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Cristal 1 - 2 Carabobo FC"
+                        }
+                    ],
+                    "team": "Sporting Cristal"
+                },
+                "summary": {
+                    "Junior_wins": "0",
+                    "Sporting Cristal_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Junior": "39%",
+                    "Sporting Cristal": "61%"
+                },
+                "corners": {
+                    "Junior": "4",
+                    "Sporting Cristal": "5"
+                },
+                "fouls": {
+                    "Junior": "7",
+                    "Sporting Cristal": "3"
+                },
+                "goalkeeper_saves": {
+                    "Junior": "0",
+                    "Sporting Cristal": "2"
+                },
+                "offsides": {
+                    "Junior": "3",
+                    "Sporting Cristal": "1"
+                },
+                "red_cards": {
+                    "Junior": "1",
+                    "Sporting Cristal": "0"
+                },
+                "shots_off_target": {
+                    "Junior": "4",
+                    "Sporting Cristal": "5"
+                },
+                "shots_on_target": {
+                    "Junior": "2",
+                    "Sporting Cristal": "1"
+                },
+                "yellow_cards": {
+                    "Junior": "1",
+                    "Sporting Cristal": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sporting-cristal-vs-junior-2026-05-29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1135.webp",
+                    "name": "Junior",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2546.webp",
+                    "name": "Sporting Cristal",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sporting-cristal-vs-junior-2026-05-29-Zht9.webp",
+            "title": "Sporting Cristal vs Junior"
+        }
+    ]
+}

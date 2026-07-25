@@ -1,0 +1,127 @@
+{
+    "team": "Deportivo Moron",
+    "team_logo": "https://img.refooty.com/logo/teams/469.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Feb 26, 2026",
+            "description": "Watch Godoy Cruz vs Deportivo Moron highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on February 26, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Pino",
+                    "score_update": "0 - 1",
+                    "team": "Deportivo Moron",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Marinucci",
+                    "score_update": "1 - 1",
+                    "team": "Godoy Cruz",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Ramirez",
+                    "score_update": "1 - 1",
+                    "team": "Deportivo Moron",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Nacional",
+                            "date": "22/03/2026",
+                            "result": "D",
+                            "teams_and_score": "CA Chaco For Ever 1 - 1 Godoy Cruz"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Godoy Cruz 0 - 1 Deportivo Moron"
+                        },
+                        {
+                            "competition": "Primera Nacional",
+                            "date": "22/02/2026",
+                            "result": "D",
+                            "teams_and_score": "CA Defensores de Belgrano 1 - 1 Godoy Cruz"
+                        },
+                        {
+                            "competition": "Primera Division: Clausura",
+                            "date": "15/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Godoy Cruz 1 - 1 Deportivo Riestra"
+                        }
+                    ],
+                    "team": "Deportivo Moron"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Nacional",
+                            "date": "22/03/2026",
+                            "result": "D",
+                            "teams_and_score": "CA Chaco For Ever 1 - 1 Godoy Cruz"
+                        },
+                        {
+                            "competition": "Primera Nacional: Promotion Play-off",
+                            "date": "11/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Atlanta 3 - 0 CA Chaco For Ever"
+                        },
+                        {
+                            "competition": "Primera Nacional: Group B",
+                            "date": "05/10/2025",
+                            "result": "D",
+                            "teams_and_score": "CA Chaco For Ever 1 - 1 Deportivo Moron"
+                        }
+                    ],
+                    "team": "Godoy Cruz"
+                },
+                "summary": {
+                    "Deportivo Moron_wins": "0",
+                    "Godoy Cruz_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/godoy-cruz-vs-deportivo-moron-2026-02-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/469.webp",
+                    "name": "Deportivo Moron",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/439.webp",
+                    "name": "Godoy Cruz",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/godoy-cruz-vs-deportivo-moron-2026-02-26-Whqb.webp",
+            "title": "Godoy Cruz vs Deportivo Moron"
+        }
+    ]
+}

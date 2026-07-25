@@ -1,0 +1,42 @@
+{
+    "team": "Derby County",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "FA Cup",
+            "competition_cover": "https://refooty.com/covers/fa-cup.webp",
+            "date": "Jan 11, 2026",
+            "description": "Watch Derby vs Leeds highlights and goals from FA Cup on ReFooty: Football Highlights Hub. Match played on January 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Derby_County_v_Leeds_2026_01_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/derby-county-v-leeds-2026-01-11-nkRo.webp",
+            "title": "Derby County vs Leeds"
+        }
+    ]
+}

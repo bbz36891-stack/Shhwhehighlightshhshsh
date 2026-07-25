@@ -1,0 +1,130 @@
+{
+    "team": "Greuther Fürth",
+    "team_logo": "https://img.refooty.com/logo/teams/178.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "2. Bundesliga",
+            "competition_cover": "",
+            "date": "May 26, 2026",
+            "description": "Watch Greuther Fürth vs Rot-Weiss Essen highlights and goals from 2. Bundesliga on ReFooty: Football Highlights Hub. Match played on May 26, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "F. Klaus",
+                    "event_type": "Goal",
+                    "player": "N. Futkeu",
+                    "score_update": "1 - 0",
+                    "team": "Greuther Fürth",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Swajkowski",
+                    "team": "Rot-Weiss Essen",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Hrgota",
+                    "score_update": "2 - 0",
+                    "team": "Greuther Fürth",
+                    "time": "47'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Kostka",
+                    "team": "Rot-Weiss Essen",
+                    "time": "54'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Huning",
+                    "team": "Rot-Weiss Essen",
+                    "time": "90+9'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "2. Bundesliga: Qualification Play-offs",
+                            "date": "26/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Greuther Furth 2 - 0 RW Essen"
+                        },
+                        {
+                            "competition": "3. Liga",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "SSV Ulm 1846 2 - 3 RW Essen"
+                        }
+                    ],
+                    "team": "Rot-Weiss Essen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "2. Bundesliga: Qualification Play-offs",
+                            "date": "26/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Greuther Furth 2 - 0 RW Essen"
+                        },
+                        {
+                            "competition": "2. Bundesliga",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Greuther Furth 3 - 0 Fortuna Dusseldorf"
+                        }
+                    ],
+                    "team": "Greuther Fürth"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "2. Bundesliga: Qualification Play-offs",
+                        "date": "22/05/2026",
+                        "teams_and_score": "RW Essen 1 - 0 Greuther Furth"
+                    },
+                    {
+                        "competition": "2. Bundesliga",
+                        "date": "06/05/2007",
+                        "teams_and_score": "Greuther Furth 0 - 2 RW Essen"
+                    }
+                ],
+                "summary": {
+                    "Greuther Fürth_wins": "1",
+                    "Rot-Weiss Essen_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/greuther-furth-vs-rot-weiss-essen-2026-05-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/13957.webp",
+                    "name": "Rot-Weiss Essen",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/178.webp",
+                    "name": "Greuther Fürth",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/greuther-furth-vs-rot-weiss-essen-2026-05-26-MuNR.webp",
+            "title": "Greuther Fürth vs Rot-Weiss Essen"
+        }
+    ]
+}

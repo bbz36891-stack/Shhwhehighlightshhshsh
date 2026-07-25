@@ -1,0 +1,168 @@
+{
+    "team": "Switzerland W",
+    "team_logo": "https://img.refooty.com/logo/teams/1732.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Apr 15, 2026",
+            "description": "Watch Switzerland W vs Turkey W highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on April 15, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "G. Reuteler",
+                    "score_update": "0 - 1",
+                    "team": "Turkey W",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Vallotto",
+                    "score_update": "0 - 2",
+                    "team": "Turkey W",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Cassap",
+                    "score_update": "1 - 2",
+                    "team": "Switzerland W",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "UEFA Qualification: Group B2",
+                            "date": "09/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Northern Ireland W 1 - 2 Switzerland Women"
+                        },
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "02/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Wales Women 3 - 2 Switzerland Women"
+                        }
+                    ],
+                    "team": "Turkey W"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "UEFA Qualification: Group B2",
+                            "date": "09/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Northern Ireland W 1 - 2 Switzerland Women"
+                        },
+                        {
+                            "competition": "League A: Qualification Play-off",
+                            "date": "29/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Iceland Women 3 - 0 Northern Ireland W"
+                        },
+                        {
+                            "competition": "League B: Group 1",
+                            "date": "03/06/2025",
+                            "result": "D",
+                            "teams_and_score": "Bosnia and Herzegovina Women 1 - 1 Northern Ireland W"
+                        }
+                    ],
+                    "team": "Switzerland W"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA Qualification: Group B2",
+                        "date": "03/03/2026",
+                        "teams_and_score": "Switzerland Women 2 - 0 Northern Ireland W"
+                    },
+                    {
+                        "competition": "Women's Friendlies",
+                        "date": "20/02/2022",
+                        "teams_and_score": "Switzerland Women 2 - 2 Northern Ireland W"
+                    },
+                    {
+                        "competition": "Women's EURO Qualification Grp. F",
+                        "date": "20/09/2016",
+                        "teams_and_score": "Switzerland Women 4 - 0 Northern Ireland W"
+                    }
+                ],
+                "summary": {
+                    "Switzerland W_wins": "2",
+                    "Turkey W_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Switzerland W": "29%",
+                    "Turkey W": "71%"
+                },
+                "corners": {
+                    "Switzerland W": "1",
+                    "Turkey W": "9"
+                },
+                "fouls": {
+                    "Switzerland W": "10",
+                    "Turkey W": "9"
+                },
+                "goalkeeper_saves": {
+                    "Switzerland W": "4",
+                    "Turkey W": "4"
+                },
+                "offsides": {
+                    "Switzerland W": "3",
+                    "Turkey W": "4"
+                },
+                "shots_blocked": {
+                    "Switzerland W": "2",
+                    "Turkey W": "2"
+                },
+                "shots_off_target": {
+                    "Switzerland W": "2",
+                    "Turkey W": "8"
+                },
+                "shots_on_target": {
+                    "Switzerland W": "5",
+                    "Turkey W": "5"
+                },
+                "yellow_cards": {
+                    "Switzerland W": "3",
+                    "Turkey W": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/switzerland-w-vs-turkey-w-2026-04-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1759.webp",
+                    "name": "Turkey W",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1732.webp",
+                    "name": "Switzerland W",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/switzerland-w-vs-turkey-w-2026-04-15-h4BF.webp",
+            "title": "Switzerland W vs Turkey W"
+        }
+    ]
+}

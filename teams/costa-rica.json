@@ -1,0 +1,491 @@
+{
+    "team": "Costa Rica",
+    "team_logo": "https://img.refooty.com/logo/teams/29.webp",
+    "total_matches": 4,
+    "matches": [
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Jun 13, 2002",
+            "description": "Watch Brazil vs Costa Rica highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on June 13, 2002.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Perišić",
+                    "team": "Costa Rica",
+                    "time": "22'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Caleta-Car",
+                    "team": "Costa Rica",
+                    "time": "28'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Casemiro",
+                    "team": "Brazil",
+                    "time": "45'"
+                },
+                {
+                    "assist": "V. Junior",
+                    "event_type": "Goal",
+                    "player": "D. Oliveira",
+                    "score_update": "1 - 0",
+                    "team": "Brazil",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Vuskovic",
+                    "team": "Costa Rica",
+                    "time": "82'"
+                },
+                {
+                    "assist": "T. Fruk",
+                    "event_type": "Goal",
+                    "player": "L. Majer",
+                    "score_update": "1 - 1",
+                    "team": "Costa Rica",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Thiago",
+                    "score_update": "2 - 1",
+                    "team": "Brazil",
+                    "time": "88'"
+                },
+                {
+                    "assist": "Endrick",
+                    "event_type": "Goal",
+                    "player": "G. Martinelli",
+                    "score_update": "3 - 1",
+                    "team": "Brazil",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "01/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Brazil 3 - 1 Croatia"
+                        },
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "26/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Colombia 1 - 2 Croatia"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group L",
+                            "date": "17/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Montenegro 2 - 3 Croatia"
+                        }
+                    ],
+                    "team": "Costa Rica"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "01/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Brazil 3 - 1 Croatia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Brazil 1 - 1 Tunisia"
+                        },
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "14/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Japan 3 - 2 Brazil"
+                        },
+                        {
+                            "competition": "CONMEBOL Qualification",
+                            "date": "09/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Bolivia 1 - 0 Brazil"
+                        }
+                    ],
+                    "team": "Brazil"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Quarter-finals",
+                        "date": "09/12/2022",
+                        "teams_and_score": "Croatia 1 - 1 Brazil"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "03/06/2018",
+                        "teams_and_score": "Brazil 2 - 0 Croatia"
+                    },
+                    {
+                        "competition": "World Cup grp. A",
+                        "date": "12/06/2014",
+                        "teams_and_score": "Brazil 3 - 1 Croatia"
+                    },
+                    {
+                        "competition": "World Cup grp. F",
+                        "date": "13/06/2006",
+                        "teams_and_score": "Brazil 1 - 0 Croatia"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "17/08/2005",
+                        "teams_and_score": "Croatia 1 - 1 Brazil"
+                    }
+                ],
+                "summary": {
+                    "Brazil_wins": "3",
+                    "Costa Rica_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Brazil": "45%",
+                    "Costa Rica": "55%"
+                },
+                "corners": {
+                    "Brazil": "2",
+                    "Costa Rica": "2"
+                },
+                "fouls": {
+                    "Brazil": "12",
+                    "Costa Rica": "13"
+                },
+                "goalkeeper_saves": {
+                    "Brazil": "2",
+                    "Costa Rica": "4"
+                },
+                "offsides": {
+                    "Brazil": "1",
+                    "Costa Rica": "0"
+                },
+                "shots_blocked": {
+                    "Brazil": "5",
+                    "Costa Rica": "4"
+                },
+                "shots_off_target": {
+                    "Brazil": "1",
+                    "Costa Rica": "5"
+                },
+                "shots_on_target": {
+                    "Brazil": "7",
+                    "Costa Rica": "3"
+                },
+                "yellow_cards": {
+                    "Brazil": "1",
+                    "Costa Rica": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/brazil-vs-costa-rica-2002-06-13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/29.webp",
+                    "name": "Costa Rica",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/6.webp",
+                    "name": "Brazil",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brazil-vs-costa-rica-2002-06-13-JYGW.webp",
+            "title": "Brazil vs Costa Rica"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 2, 2026",
+            "description": "Watch Colombia vs Costa Rica highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 2, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/colombia-vs-costa-rica-2026-06-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/colombia-vs-costa-rica-2026-06-02-f8mZ.webp",
+            "title": "Colombia vs Costa Rica"
+        },
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Dec 2, 2022",
+            "description": "Watch Costa Rica vs Germany highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on December 2, 2022.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/costa-rica-vs-germany-2022-12-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/costa-rica-vs-germany-2022-12-02-5z5S.webp",
+            "title": "Costa Rica vs Germany"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 10, 2026",
+            "description": "Watch England vs Costa Rica highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 10, 2026. In a match designed to test tactical flexibility and squad depth, England hosted Costa Rica in an international friendly that showcased the widening gap between elite European sides and their Central American counterparts. The encounter provided a stage for several players to stake their claim for a permanent starting spot. Early Breakthrough and Offensive Intent Staged on June 10, 2026 , the match began with England asserting total control over the tempo. It took just 10 minutes for the deadlock to be broken; Declan Rice received a sharp pass from Anthony Gordon and unleashed a left-footed strike that took a crucial deflection, wrong-footing Patrick Sequeira in the Costa Rica goal. The Three Lions continued to hunt for more, and they were desperately unlucky not to double their lead in the 36th minute when Noni Madueke saw his brilliant effort cannon off the post. VAR Drama and Gordon’s Redemption The game was punctuated by significant VAR interventions that swung the momentum. Late in the first half, a penalty call for England was overturned after a review suggested Anthony Gordon had gone down too easily. However, the Everton winger found his redemption in the second period. In the 67th minute, a handball by Darril Araya led to another VAR check, which this time confirmed a penalty. Anthony Gordon stepped up himself, coolly sending the goalkeeper the wrong way to make it 2-0. Bench Impact and Late Flourish As the second half progressed, England introduced a wealth of talent from the bench, including Ollie Watkins , Bukayo Saka , and Marcus Rashford . The constant pressure eventually broke the Costa Rican resolve again in the 87th minute. Ollie Watkins showed his predatory instincts by heading home from close range to put the result beyond doubt. In the dying seconds, Eberechi Eze saw a shot cleared off the line as England finished with a staggering 77% possession, capping off a dominant and deserved victory.",
+            "events_timeline": [
+                {
+                    "assist": "A. Gordon",
+                    "event_type": "Goal",
+                    "player": "D. Rice",
+                    "score_update": "1 - 0",
+                    "team": "England",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Johnson",
+                    "team": "Costa Rica",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Mora",
+                    "team": "Costa Rica",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Salazar",
+                    "team": "Costa Rica",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Gordon",
+                    "score_update": "2 - 0",
+                    "team": "England",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Nunez",
+                    "team": "Costa Rica",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "O. Watkins",
+                    "score_update": "3 - 0",
+                    "team": "England",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "10/06/2026",
+                            "result": "L",
+                            "teams_and_score": "England 3 - 0 Costa Rica"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "31/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Costa Rica 0 - 5 Iran"
+                        },
+                        {
+                            "competition": "CONCACAF Qualification: 3rd Round: Group C",
+                            "date": "19/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Costa Rica 0 - 0 Honduras"
+                        }
+                    ],
+                    "team": "Costa Rica"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "10/06/2026",
+                            "result": "W",
+                            "teams_and_score": "England 3 - 0 Costa Rica"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group K",
+                            "date": "16/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Albania 0 - 2 England"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "09/10/2025",
+                            "result": "W",
+                            "teams_and_score": "England 3 - 0 Wales"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group K",
+                            "date": "09/09/2025",
+                            "result": "W",
+                            "teams_and_score": "Serbia 0 - 5 England"
+                        }
+                    ],
+                    "team": "England"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Friendlies",
+                        "date": "07/06/2018",
+                        "teams_and_score": "England 2 - 0 Costa Rica"
+                    },
+                    {
+                        "competition": "World Cup grp. D",
+                        "date": "24/06/2014",
+                        "teams_and_score": "Costa Rica 0 - 0 England"
+                    }
+                ],
+                "summary": {
+                    "Costa Rica_wins": "0",
+                    "England_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Costa Rica": "23%",
+                    "England": "77%"
+                },
+                "corners": {
+                    "Costa Rica": "1",
+                    "England": "11"
+                },
+                "crosses": {
+                    "Costa Rica": "2",
+                    "England": "26"
+                },
+                "fouls": {
+                    "Costa Rica": "23",
+                    "England": "7"
+                },
+                "goalkeeper_saves": {
+                    "Costa Rica": "5",
+                    "England": "0"
+                },
+                "shots_blocked": {
+                    "Costa Rica": "1",
+                    "England": "9"
+                },
+                "shots_off_target": {
+                    "Costa Rica": "0",
+                    "England": "8"
+                },
+                "shots_on_target": {
+                    "Costa Rica": "0",
+                    "England": "9"
+                },
+                "yellow_cards": {
+                    "Costa Rica": "4",
+                    "England": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/England_v_Costa_Rica_2026_06_10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/29.webp",
+                    "name": "Costa Rica",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10.webp",
+                    "name": "England",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/england-v-costa-rica-2026-06-10-3zKU.webp",
+            "title": "England vs Costa Rica"
+        }
+    ]
+}

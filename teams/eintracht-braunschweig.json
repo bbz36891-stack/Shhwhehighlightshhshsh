@@ -1,0 +1,42 @@
+{
+    "team": "Eintracht Braunschweig",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "May 17, 2026",
+            "description": "Watch FC Schalke 04 vs Eintracht Braunschweig highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on May 17, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-schalke-04-vs-eintracht-braunschweig-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-schalke-04-vs-eintracht-braunschweig-2026-05-17-wCVX.webp",
+            "title": "FC Schalke 04 vs Eintracht Braunschweig"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "team": "Tigres FC",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "FIFA Club World Cup",
+            "competition_cover": "https://refooty.com/covers/fifa-club-world-cup.webp",
+            "date": "Feb 7, 2020",
+            "description": "Watch Tigres FC vs Palmeiras highlights and goals from FIFA Club World Cup on ReFooty: Football Highlights Hub. Match played on February 7, 2020.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/tigres-fc-vs-palmeiras-2020-02-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/tigres-fc-vs-palmeiras-2020-02-07-hIdD.webp",
+            "title": "Tigres FC vs Palmeiras"
+        }
+    ]
+}

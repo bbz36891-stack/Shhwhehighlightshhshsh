@@ -1,0 +1,191 @@
+{
+    "team": "Mauritania",
+    "team_logo": "https://img.refooty.com/logo/teams/1491.webp",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 5, 2026",
+            "description": "Watch Angola vs Mauritania highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 5, 2026. The national teams of Angola and Mauritania met in an international friendly where tactical discipline stood at the forefront of the contest. Both managers utilized the occasion to refine their tactical setups and evaluate squad depth under match conditions. A Tactical Battle in June On June 5, 2026, Angola hosted Mauritania in a fixture defined by defensive organization and physical duels in the middle of the park. For the vast majority of the game, scoring chances were at a premium as both backlines remained resolute. The flow of the match was steady but cautious, with neither side willing to overcommit, leading to a long period of stalemate that persisted deep into the second half. Late Goals Change the Narrative The atmosphere shifted dramatically in the 85th minute when Angola finally found the breakthrough. M. Keliano struck a decisive blow to make it 1-0, seemingly securing a hard-fought victory for the home side as the clock ticked down. It was a moment of individual quality that finally separated two very evenly matched teams. However, the drama was far from over. As the match entered stoppage time, Mauritania mounted one final charge to salvage a result. In the 91st minute (90+1'), I. Thiam capitalized on a defensive lapse to fire home the equalizer. The 1-1 draw ensured a fair share of the spoils after a frantic conclusion to an otherwise cagey affair.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Keliano",
+                    "score_update": "1 - 0",
+                    "team": "Angola",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Thiam",
+                    "score_update": "1 - 1",
+                    "team": "Mauritania",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "05/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Angola 1 - 1 Mauritania"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "27/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Argentina 2 - 1 Mauritania"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "15/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Libya 1 - 0 Mauritania"
+                        },
+                        {
+                            "competition": "CAF Qualification: Group B",
+                            "date": "14/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Senegal 4 - 0 Mauritania"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "13/08/2025",
+                            "result": "W",
+                            "teams_and_score": "Mauritania 1 - 0 Burkina Faso"
+                        }
+                    ],
+                    "team": "Mauritania"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "05/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Angola 1 - 1 Mauritania"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "29/12/2025",
+                            "result": "D",
+                            "teams_and_score": "Angola 0 - 0 Egypt"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "18/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Angola 3 - 2 Zambia"
+                        },
+                        {
+                            "competition": "CAF Qualification: Group D",
+                            "date": "13/10/2025",
+                            "result": "D",
+                            "teams_and_score": "Cameroon 0 - 0 Angola"
+                        }
+                    ],
+                    "team": "Angola"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group D",
+                        "date": "20/01/2024",
+                        "teams_and_score": "Mauritania 2 - 3 Angola"
+                    },
+                    {
+                        "competition": "Group D",
+                        "date": "20/01/2023",
+                        "teams_and_score": "Angola 0 - 0 Mauritania"
+                    },
+                    {
+                        "competition": "Africa Cup of Nations Grp. E",
+                        "date": "29/06/2019",
+                        "teams_and_score": "Mauritania 0 - 0 Angola"
+                    },
+                    {
+                        "competition": "Africa Cup of Nations Qualification Grp. I",
+                        "date": "16/10/2018",
+                        "teams_and_score": "Mauritania 1 - 0 Angola"
+                    }
+                ],
+                "summary": {
+                    "Angola_wins": "1",
+                    "Mauritania_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/angola-vs-mauritania-2026-06-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1491.webp",
+                    "name": "Mauritania",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1529.webp",
+                    "name": "Angola",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/angola-vs-mauritania-2026-06-05-10BT.webp",
+            "title": "Angola vs Mauritania"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Mar 28, 2026",
+            "description": "Watch Argentina vs Mauritania highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on March 28, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/argentina-vs-mauritania-2026-03-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/argentina-vs-mauritania-2026-03-28-SLJu.webp",
+            "title": "Argentina vs Mauritania"
+        }
+    ]
+}

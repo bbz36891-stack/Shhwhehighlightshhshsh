@@ -1,0 +1,213 @@
+{
+    "team": "Cadiz",
+    "team_logo": "",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "Segunda División",
+            "competition_cover": "",
+            "date": "May 25, 2026",
+            "description": "Watch Cadiz vs Leganes highlights and goals from Segunda División on ReFooty: Football Highlights Hub. Match played on May 25, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cadiz-vs-leganes-2026-05-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cadiz-vs-leganes-2026-05-25-oB3J.webp",
+            "title": "Cadiz vs Leganes"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jul 22, 2026",
+            "description": "Watch Cadiz vs Leicester highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 22, 2026. Leicester City and Cadiz faced off in a pre-season friendly that tested the tactical discipline and endurance of both squads. Fans witnessed a game of patience, where strategic moves were essential in the attempt to unlock a stubborn defense. Tactical Battle and Midfield Grit Taking place on July 22, 2026 , the match began with both sides displaying organized defensive lines. The first half was a cagey affair with limited clear-cut chances, leading to a goalless draw at the break. As the second half got underway, Leicester made proactive changes, bringing on Taylor Gardner-Hickman and Todd Cantwell . The intensity rose quickly after the restart, leading to yellow cards for Ricardo Pereira and Sean McLoughlin as both teams fought for dominance in the middle of the park. Mavididi Finds the Breakthrough The deadlock was finally broken in the 78th minute of play. After a series of substitutions, including the introduction of Jordan Ayew , Leicester found their clinical edge. Stephy Mavididi capitalized on a scoring opportunity to put the English side ahead. Cadiz attempted to rally late in the game with their own tactical shifts, but the \"Foxes\" held firm. With further defensive reinforcements like Kevon Gray coming on late, the referee blew the final whistle at 90+4 minutes, securing a hard-fought victory for the visitors.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Pereira",
+                    "team": "Leicester",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. McLoughlin",
+                    "team": "Cadiz",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Mavididi",
+                    "score_update": "0 - 1",
+                    "team": "Leicester",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship 25/26",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Blackburn Rovers 0 - 1 Leicester City"
+                        }
+                    ],
+                    "team": "Leicester"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Club Friendlies",
+                            "date": "22/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Nottingham Forest 3 - 0 Blackburn Rovers"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "11/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Accrington Stanley 0 - 0 Blackburn Rovers"
+                        },
+                        {
+                            "competition": "Championship 25/26",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Blackburn Rovers 0 - 1 Leicester City"
+                        }
+                    ],
+                    "team": "Cadiz"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship 25/26",
+                        "date": "01/11/2025",
+                        "teams_and_score": "Leicester City 0 - 2 Blackburn Rovers"
+                    },
+                    {
+                        "competition": "Championship 23/24",
+                        "date": "04/05/2024",
+                        "teams_and_score": "Leicester City 0 - 2 Blackburn Rovers"
+                    },
+                    {
+                        "competition": "FA Cup: Round 5 22/23",
+                        "date": "28/02/2023",
+                        "teams_and_score": "Leicester City 1 - 2 Blackburn Rovers"
+                    },
+                    {
+                        "competition": "Club Friendlies 2020",
+                        "date": "05/09/2020",
+                        "teams_and_score": "Leicester City 1 - 1 Blackburn Rovers"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "22/03/2014",
+                        "teams_and_score": "Blackburn Rovers 1 - 1 Leicester City"
+                    },
+                    {
+                        "competition": "FA Cup",
+                        "date": "13/03/2005",
+                        "teams_and_score": "Blackburn Rovers 1 - 0 Leicester City"
+                    }
+                ],
+                "summary": {
+                    "Cadiz_wins": "3",
+                    "Leicester_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cadiz": "50%",
+                    "Leicester": "50%"
+                },
+                "corners": {
+                    "Cadiz": "9",
+                    "Leicester": "11"
+                },
+                "crosses": {
+                    "Cadiz": "2",
+                    "Leicester": "7"
+                },
+                "fouls": {
+                    "Cadiz": "7",
+                    "Leicester": "6"
+                },
+                "goalkeeper_saves": {
+                    "Cadiz": "8",
+                    "Leicester": "3"
+                },
+                "offsides": {
+                    "Cadiz": "1",
+                    "Leicester": "0"
+                },
+                "shots_blocked": {
+                    "Cadiz": "2",
+                    "Leicester": "7"
+                },
+                "shots_off_target": {
+                    "Cadiz": "7",
+                    "Leicester": "6"
+                },
+                "shots_on_target": {
+                    "Cadiz": "3",
+                    "Leicester": "9"
+                },
+                "yellow_cards": {
+                    "Cadiz": "1",
+                    "Leicester": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cadiz-vs-leicester-2026-07-22_7JQ2Y.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/46.webp",
+                    "name": "Leicester",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/724.webp",
+                    "name": "Cadiz",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cadiz-vs-leicester-2026-07-22-mmeb.webp",
+            "title": "Cadiz vs Leicester"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "team": "FCV Dender",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 18, 2026",
+            "description": "Watch Lommel II vs Dender highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 18, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/lommel-sk-fcv-dender-2026-05-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lommel-sk-fcv-dender-2026-05-18-hude.webp",
+            "title": "Lommel SK - FCV Dender"
+        }
+    ]
+}

@@ -1,0 +1,1848 @@
+{
+    "team": "Charleroi",
+    "team_logo": "https://img.refooty.com/logo/teams/736.webp",
+    "total_matches": 11,
+    "matches": [
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 11, 2026",
+            "description": "Watch Antwerp vs Charleroi highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 11, 2026. The stage was set for a fierce battle in the Jupiler Pro League , with both sides eager to stamp their authority on the match. Anticipation filled the air as the teams took to the pitch for this crucial encounter. Breaking the deadlock For much of the first half, the game was a tactical stalemate, with Royal Antwerp and Sporting Charleroi canceling each other out in the middle of the park. The deadlock was finally broken in the 41st minute when Yacine Titraoui found the back of the net. The goal came courtesy of a perfectly timed assist from Kevin Van Den Kerkhof , shifting the momentum firmly toward the visitors. As the half drew to a close, tensions flared, resulting in a yellow card for Dennis Praet just before the interval. A dramatic finish As the second half progressed, the game grew increasingly physical, leading the referee to issue bookings to Lewin Blum , Vincent Janssen , and Jakob Napoleon Romsaas . Both managers utilized their benches to inject fresh energy into their lineups as the clock ticked down. The atmosphere reached a fever pitch in the 86th minute when Royal Antwerp earned a golden opportunity from the penalty spot, only to see the chance go begging. Despite a frantic push in the closing moments, the result was sealed on May 11, 2026, leaving the home crowd disappointed as the final whistle confirmed the visitors' narrow victory.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Praet",
+                    "team": "Antwerp",
+                    "time": "1'"
+                },
+                {
+                    "assist": "K. V. D. Kerkhof",
+                    "event_type": "Goal",
+                    "player": "Y. Titraoui",
+                    "score_update": "0 - 1",
+                    "team": "Charleroi",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Blum",
+                    "team": "Charleroi",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Janssen",
+                    "team": "Antwerp",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. N. Romsaas",
+                    "team": "Charleroi",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "",
+                    "score_update": "0 - 1",
+                    "team": "Antwerp",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Kone",
+                    "team": "Charleroi",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 0 - 1 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Zulte Waregem 1 - 0 Sporting Charleroi"
+                        }
+                    ],
+                    "team": "Charleroi"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 0 - 1 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Oud-Heverlee Leuven 1 - 0 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Conference League Group",
+                        "date": "10/04/2026",
+                        "teams_and_score": "Sporting Charleroi 2 - 1 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "25/01/2026",
+                        "teams_and_score": "Royal Antwerp 0 - 2 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League: UECL Play-off",
+                        "date": "29/05/2025",
+                        "teams_and_score": "Royal Antwerp 1 - 2 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "08/12/2024",
+                        "teams_and_score": "Royal Antwerp 1 - 3 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "21/01/2024",
+                        "teams_and_score": "Royal Antwerp 4 - 1 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "06/12/2023",
+                        "teams_and_score": "Royal Antwerp 5 - 2 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "21/10/2023",
+                        "teams_and_score": "Sporting Charleroi 3 - 2 Royal Antwerp"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "2",
+                    "Charleroi_wins": "6",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "55%",
+                    "Charleroi": "45%"
+                },
+                "corners": {
+                    "Antwerp": "4",
+                    "Charleroi": "3"
+                },
+                "fouls": {
+                    "Antwerp": "16",
+                    "Charleroi": "10"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "1",
+                    "Charleroi": "1"
+                },
+                "offsides": {
+                    "Antwerp": "3",
+                    "Charleroi": "0"
+                },
+                "shots_blocked": {
+                    "Antwerp": "7",
+                    "Charleroi": "7"
+                },
+                "shots_off_target": {
+                    "Antwerp": "10",
+                    "Charleroi": "3"
+                },
+                "shots_on_target": {
+                    "Antwerp": "1",
+                    "Charleroi": "2"
+                },
+                "yellow_cards": {
+                    "Antwerp": "2",
+                    "Charleroi": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/antwerp-sporting-charleroi-2026-05-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/736.webp",
+                    "name": "Charleroi",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/antwerp-sporting-charleroi-2026-05-11-s1DU.webp",
+            "title": "Antwerp - Sporting Charleroi"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Charleroi vs Genk highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 2, 2026. Sporting Charleroi and Genk faced off in a high-stakes Jupiler Pro League encounter that promised intensity from the opening whistle. Both sides looked to assert their dominance in a tactical battle that would ultimately be decided by fine margins in the second period. A Tactical Stalemate in the Opening Period The match, held on 2026-05-02 , began with both teams displaying a cautious approach, prioritizing defensive solidity over attacking flair. Genk attempted to control the tempo through possession, but the Sporting Charleroi backline remained disciplined and compact. As the first half progressed, chances were few and far between, leading to a goalless draw at the interval. The referee blew for half-time after two minutes of stoppage time, leaving both managers with plenty to ponder for the second act. The Breakthrough Moment The dynamic of the game shifted dramatically ten minutes after the restart. In the 55th minute, Sporting Charleroi finally found the opening they were looking for. Aurelien Scheidler turned provider, delivering a precise pass to Kevin Van Den Kerkhof , who clinical finish sent the home crowd into raptures. The goal sparked the match into life, leading to a more physical contest as Antoine Bernier received a yellow card shortly after for a mistimed challenge. Sealing the Points from the Spot As the clock ticked down, Sporting Charleroi continued to press their advantage. The introduction of Parfait Guiagon in the 62nd minute proved to be a masterstroke. In the 69th minute, the referee awarded a penalty to the hosts, and Guiagon stepped up to calmly slot the ball home from twelve yards. Despite late efforts from Genk to find a way back into the game, including multiple substitutions like the entry of Nikolas Sattlberger and Collins Sor , the hosts held firm. Even a late yellow card for Guiagon in the 84th minute couldn't dampen the spirits of the home side as they secured a hard-fought victory.",
+            "events_timeline": [
+                {
+                    "assist": "A. Scheidler",
+                    "event_type": "Goal",
+                    "player": "K. V. D. Kerkhof",
+                    "score_update": "1 - 0",
+                    "team": "Charleroi",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Bernier",
+                    "team": "Charleroi",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Guiagon",
+                    "score_update": "2 - 0",
+                    "team": "Charleroi",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Guiagon",
+                    "team": "Charleroi",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Charleroi 2 - 0 Genk"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Raal La Louviere 5 - 5 Genk"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Freiburg 5 - 1 Genk"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Genk 1 - 0 St.Truiden"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Genk 1 - 0 Freiburg"
+                        }
+                    ],
+                    "team": "Genk"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting Charleroi 2 - 0 Genk"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Zulte Waregem 1 - 0 Sporting Charleroi"
+                        }
+                    ],
+                    "team": "Charleroi"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Conference League Group",
+                        "date": "21/04/2026",
+                        "teams_and_score": "Genk 1 - 1 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "19/12/2025",
+                        "teams_and_score": "Sporting Charleroi 2 - 2 Genk"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "28/02/2025",
+                        "teams_and_score": "Sporting Charleroi 1 - 1 Genk"
+                    },
+                    {
+                        "competition": "Club Friendlies 2024",
+                        "date": "06/07/2024",
+                        "teams_and_score": "Genk 3 - 3 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "23/02/2024",
+                        "teams_and_score": "Sporting Charleroi 0 - 1 Genk"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "23/04/2023",
+                        "teams_and_score": "Sporting Charleroi 2 - 2 Genk"
+                    }
+                ],
+                "summary": {
+                    "Charleroi_wins": "0",
+                    "Genk_wins": "1",
+                    "draws": "5"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charleroi": "49%",
+                    "Genk": "51%"
+                },
+                "corners": {
+                    "Charleroi": "3",
+                    "Genk": "6"
+                },
+                "fouls": {
+                    "Charleroi": "14",
+                    "Genk": "10"
+                },
+                "goalkeeper_saves": {
+                    "Charleroi": "4",
+                    "Genk": "2"
+                },
+                "offsides": {
+                    "Charleroi": "1",
+                    "Genk": "1"
+                },
+                "shots_blocked": {
+                    "Charleroi": "5",
+                    "Genk": "5"
+                },
+                "shots_off_target": {
+                    "Charleroi": "2",
+                    "Genk": "7"
+                },
+                "shots_on_target": {
+                    "Charleroi": "4",
+                    "Genk": "4"
+                },
+                "yellow_cards": {
+                    "Charleroi": "2",
+                    "Genk": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charleroi-vs-genk-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/742.webp",
+                    "name": "Genk",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/736.webp",
+                    "name": "Charleroi",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charleroi-vs-genk-2026-05-02-F2VV.webp",
+            "title": "Charleroi vs Genk"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 16, 2026",
+            "description": "Watch Charleroi vs KAA Gent highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 16, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charleroi-vs-kaa-gent-ii-2026-02-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charleroi-vs-kaa-gent-ii-2026-02-16-INuP.webp",
+            "title": "Charleroi vs KAA Gent II"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch Charleroi vs OH Leuven highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Gil",
+                    "team": "OH Leuven",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Guiagon",
+                    "team": "Charleroi",
+                    "time": "46'"
+                },
+                {
+                    "assist": "T. Verlinden",
+                    "event_type": "Goal",
+                    "player": "O. Gil",
+                    "score_update": "0 - 1",
+                    "team": "OH Leuven",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Dussenne",
+                    "score_update": "0 - 2",
+                    "team": "OH Leuven",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "14/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting Charleroi 0 - 2 Oud-Heverlee Leuven"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "08/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Preussen Muenster 2 - 1 Oud-Heverlee Leuven"
+                        }
+                    ],
+                    "team": "OH Leuven"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "14/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Charleroi 0 - 2 Oud-Heverlee Leuven"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "11/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 4 - 1 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "07/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Charleroi 3 - 4 Cercle Brugge"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "04/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Sporting Charleroi 0 - 0 Union St.Gilloise"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 0 - 2 Sporting Charleroi"
+                        }
+                    ],
+                    "team": "Charleroi"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "27/07/2025",
+                        "teams_and_score": "Oud-Heverlee Leuven 2 - 2 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League: UECL Group",
+                        "date": "24/05/2025",
+                        "teams_and_score": "Sporting Charleroi 2 - 1 Oud-Heverlee Leuven"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "14/12/2024",
+                        "teams_and_score": "Oud-Heverlee Leuven 1 - 0 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "17/02/2024",
+                        "teams_and_score": "Oud-Heverlee Leuven 0 - 0 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "10/03/2023",
+                        "teams_and_score": "Sporting Charleroi 0 - 1 Oud-Heverlee Leuven"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "02/07/2022",
+                        "teams_and_score": "Oud-Heverlee Leuven 3 - 1 Sporting Charleroi"
+                    }
+                ],
+                "summary": {
+                    "Charleroi_wins": "1",
+                    "OH Leuven_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charleroi": "64%",
+                    "OH Leuven": "36%"
+                },
+                "corners": {
+                    "Charleroi": "10",
+                    "OH Leuven": "3"
+                },
+                "fouls": {
+                    "Charleroi": "6",
+                    "OH Leuven": "11"
+                },
+                "goalkeeper_saves": {
+                    "Charleroi": "3",
+                    "OH Leuven": "5"
+                },
+                "offsides": {
+                    "Charleroi": "1",
+                    "OH Leuven": "2"
+                },
+                "shots_blocked": {
+                    "Charleroi": "3",
+                    "OH Leuven": "3"
+                },
+                "shots_off_target": {
+                    "Charleroi": "9",
+                    "OH Leuven": "1"
+                },
+                "shots_on_target": {
+                    "Charleroi": "5",
+                    "OH Leuven": "5"
+                },
+                "yellow_cards": {
+                    "Charleroi": "1",
+                    "OH Leuven": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charleroi-vs-oh-leuven-2026-03-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/260.webp",
+                    "name": "OH Leuven",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/736.webp",
+                    "name": "Charleroi",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charleroi-vs-oh-leuven-2026-03-15-6Se7.webp",
+            "title": "Charleroi vs OH Leuven"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 18, 2026",
+            "description": "Watch Charleroi vs Standard Liege highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 18, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Ousou",
+                    "team": "Charleroi",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Camara",
+                    "team": "Charleroi",
+                    "time": "54'"
+                },
+                {
+                    "assist": "P. Pflucke",
+                    "event_type": "Goal",
+                    "player": "A. Bernier",
+                    "score_update": "1 - 0",
+                    "team": "Charleroi",
+                    "time": "62'"
+                },
+                {
+                    "assist": "A. Abid",
+                    "event_type": "Goal",
+                    "player": "B. Nguene",
+                    "score_update": "1 - 1",
+                    "team": "Standard Liege",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Blum",
+                    "team": "Charleroi",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Mohr",
+                    "score_update": "1 - 2",
+                    "team": "Standard Liege",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Nielsen",
+                    "team": "Standard Liege",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting Charleroi 1 - 2 Standard Liege"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Standard Liege 0 - 0 Westerlo"
+                        }
+                    ],
+                    "team": "Standard Liege"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Charleroi 1 - 2 Standard Liege"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Zulte Waregem 1 - 0 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "11/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 4 - 1 Sporting Charleroi"
+                        }
+                    ],
+                    "team": "Charleroi"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "18/01/2026",
+                        "teams_and_score": "Sporting Charleroi 2 - 0 Standard Liege"
+                    },
+                    {
+                        "competition": "Belgian Pro League: UECL Group",
+                        "date": "04/05/2025",
+                        "teams_and_score": "Standard Liege 0 - 1 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "30/11/2024",
+                        "teams_and_score": "Sporting Charleroi 1 - 1 Standard Liege"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "16/12/2023",
+                        "teams_and_score": "Standard Liege 0 - 0 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "14/04/2023",
+                        "teams_and_score": "Standard Liege 3 - 1 Sporting Charleroi"
+                    }
+                ],
+                "summary": {
+                    "Charleroi_wins": "2",
+                    "Standard Liege_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charleroi": "56%",
+                    "Standard Liege": "44%"
+                },
+                "corners": {
+                    "Charleroi": "6",
+                    "Standard Liege": "4"
+                },
+                "fouls": {
+                    "Charleroi": "11",
+                    "Standard Liege": "6"
+                },
+                "goalkeeper_saves": {
+                    "Charleroi": "0",
+                    "Standard Liege": "3"
+                },
+                "shots_blocked": {
+                    "Charleroi": "1",
+                    "Standard Liege": "2"
+                },
+                "shots_off_target": {
+                    "Charleroi": "5",
+                    "Standard Liege": "2"
+                },
+                "shots_on_target": {
+                    "Charleroi": "4",
+                    "Standard Liege": "2"
+                },
+                "yellow_cards": {
+                    "Charleroi": "4",
+                    "Standard Liege": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charleroi-vs-standard-liege-2026-04-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/733.webp",
+                    "name": "Standard Liege",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/736.webp",
+                    "name": "Charleroi",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charleroi-vs-standard-liege-2026-04-18-EDB2.webp",
+            "title": "Charleroi vs Standard Liege"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Mar 8, 2026",
+            "description": "Watch Dender vs Charleroi highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on March 8, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "P. Guiagon",
+                    "event_type": "Goal",
+                    "player": "A. Scheidler",
+                    "score_update": "0 - 1",
+                    "team": "Charleroi",
+                    "time": "1'"
+                },
+                {
+                    "assist": "M. Sambu",
+                    "event_type": "Goal",
+                    "player": "R. Kvet",
+                    "score_update": "1 - 1",
+                    "team": "Dender",
+                    "time": "16'"
+                },
+                {
+                    "assist": "N. Mbamba",
+                    "event_type": "Goal",
+                    "player": "D. Hrncar",
+                    "score_update": "2 - 1",
+                    "team": "Dender",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Guiagon",
+                    "score_update": "2 - 1",
+                    "team": "Charleroi",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Colassin",
+                    "score_update": "2 - 2",
+                    "team": "Charleroi",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Titraoui",
+                    "team": "Charleroi",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Kadiri",
+                    "team": "Dender",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "07/03/2026",
+                            "result": "D",
+                            "teams_and_score": "FCV Dender EH 2 - 2 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "11/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 4 - 1 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "07/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Charleroi 3 - 4 Cercle Brugge"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "04/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Sporting Charleroi 0 - 0 Union St.Gilloise"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 0 - 2 Sporting Charleroi"
+                        }
+                    ],
+                    "team": "Charleroi"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "07/03/2026",
+                            "result": "D",
+                            "teams_and_score": "FCV Dender EH 2 - 2 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "14/01/2026",
+                            "result": "L",
+                            "teams_and_score": "FCV Dender EH 0 - 2 Union St.Gilloise"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "27/12/2025",
+                            "result": "D",
+                            "teams_and_score": "KV Mechelen 1 - 1 FCV Dender EH"
+                        }
+                    ],
+                    "team": "Dender"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "30/08/2025",
+                        "teams_and_score": "Sporting Charleroi 3 - 1 FCV Dender EH"
+                    },
+                    {
+                        "competition": "Belgian Pro League: UECL Group",
+                        "date": "26/04/2025",
+                        "teams_and_score": "Sporting Charleroi 4 - 1 FCV Dender EH"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "01/02/2025",
+                        "teams_and_score": "Sporting Charleroi 5 - 0 FCV Dender EH"
+                    },
+                    {
+                        "competition": "EXQI League",
+                        "date": "20/04/2012",
+                        "teams_and_score": "FCV Dender EH 0 - 1 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Jupiler League",
+                        "date": "16/05/2009",
+                        "teams_and_score": "FCV Dender EH 1 - 2 Sporting Charleroi"
+                    }
+                ],
+                "summary": {
+                    "Charleroi_wins": "5",
+                    "Dender_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charleroi": "57%",
+                    "Dender": "43%"
+                },
+                "corners": {
+                    "Charleroi": "13",
+                    "Dender": "5"
+                },
+                "fouls": {
+                    "Charleroi": "11",
+                    "Dender": "9"
+                },
+                "goalkeeper_saves": {
+                    "Charleroi": "2",
+                    "Dender": "5"
+                },
+                "offsides": {
+                    "Charleroi": "0",
+                    "Dender": "1"
+                },
+                "shots_blocked": {
+                    "Charleroi": "8",
+                    "Dender": "7"
+                },
+                "shots_off_target": {
+                    "Charleroi": "7",
+                    "Dender": "4"
+                },
+                "shots_on_target": {
+                    "Charleroi": "7",
+                    "Dender": "4"
+                },
+                "yellow_cards": {
+                    "Charleroi": "1",
+                    "Dender": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/dender-vs-charleroi-2026-03-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/736.webp",
+                    "name": "Charleroi",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/6215.webp",
+                    "name": "Dender",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dender-vs-charleroi-2026-03-08-VhYX.webp",
+            "title": "Dender vs Charleroi"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jul 17, 2026",
+            "description": "Watch Feyenoord vs Charleroi highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 17, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "K. V. D. Kerkhof",
+                    "score_update": "0 - 1",
+                    "team": "Charleroi",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Diarra",
+                    "score_update": "1 - 1",
+                    "team": "Feyenoord",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Deijl",
+                    "score_update": "2 - 1",
+                    "team": "Feyenoord",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Wessels",
+                    "score_update": "3 - 1",
+                    "team": "Feyenoord",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Club Friendlies",
+                            "date": "17/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Feyenoord 3 - 1 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "11/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Sporting Charleroi 2 - 2 Reims"
+                        },
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "23/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Standard Liege 0 - 2 Sporting Charleroi"
+                        }
+                    ],
+                    "team": "Charleroi"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Club Friendlies",
+                            "date": "17/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Feyenoord 3 - 1 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "04/07/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Dordrecht 0 - 6 Feyenoord"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "PEC Zwolle 0 - 2 Feyenoord"
+                        }
+                    ],
+                    "team": "Feyenoord"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "08/01/2016",
+                        "teams_and_score": "Feyenoord 3 - 3 Sporting Charleroi"
+                    }
+                ],
+                "summary": {
+                    "Charleroi_wins": "0",
+                    "Feyenoord_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/feyenoord-vs-charleroi-2026-07-17_0xFaQ.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/736.webp",
+                    "name": "Charleroi",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/209.webp",
+                    "name": "Feyenoord",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/feyenoord-vs-charleroi-2026-07-17-LjQ2.webp",
+            "title": "Feyenoord vs Charleroi"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 22, 2026",
+            "description": "Watch Genk vs Charleroi highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 22, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Colassin",
+                    "event_type": "Goal",
+                    "player": "E. Camara",
+                    "score_update": "0 - 1",
+                    "team": "Charleroi",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Heymans",
+                    "score_update": "0 - 1",
+                    "team": "Genk",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Keita",
+                    "team": "Charleroi",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. S. Bangoura",
+                    "team": "Genk",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Nzita",
+                    "team": "Genk",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "21/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Genk 1 - 1 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Zulte Waregem 1 - 0 Sporting Charleroi"
+                        }
+                    ],
+                    "team": "Charleroi"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "21/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Genk 1 - 1 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Raal La Louviere 5 - 5 Genk"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Freiburg 5 - 1 Genk"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Genk 1 - 0 St.Truiden"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Genk 1 - 0 Freiburg"
+                        }
+                    ],
+                    "team": "Genk"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "19/12/2025",
+                        "teams_and_score": "Sporting Charleroi 2 - 2 Genk"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "28/02/2025",
+                        "teams_and_score": "Sporting Charleroi 1 - 1 Genk"
+                    },
+                    {
+                        "competition": "Club Friendlies 2024",
+                        "date": "06/07/2024",
+                        "teams_and_score": "Genk 3 - 3 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "23/02/2024",
+                        "teams_and_score": "Sporting Charleroi 0 - 1 Genk"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "23/04/2023",
+                        "teams_and_score": "Sporting Charleroi 2 - 2 Genk"
+                    },
+                    {
+                        "competition": "First Division A: UECL Group 21/22",
+                        "date": "10/05/2022",
+                        "teams_and_score": "Genk 3 - 2 Sporting Charleroi"
+                    }
+                ],
+                "summary": {
+                    "Charleroi_wins": "0",
+                    "Genk_wins": "2",
+                    "draws": "4"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charleroi": "39%",
+                    "Genk": "61%"
+                },
+                "corners": {
+                    "Charleroi": "1",
+                    "Genk": "10"
+                },
+                "fouls": {
+                    "Charleroi": "8",
+                    "Genk": "11"
+                },
+                "goalkeeper_saves": {
+                    "Charleroi": "7",
+                    "Genk": "4"
+                },
+                "offsides": {
+                    "Charleroi": "1",
+                    "Genk": "0"
+                },
+                "shots_blocked": {
+                    "Charleroi": "2",
+                    "Genk": "2"
+                },
+                "shots_off_target": {
+                    "Charleroi": "5",
+                    "Genk": "12"
+                },
+                "shots_on_target": {
+                    "Charleroi": "5",
+                    "Genk": "7"
+                },
+                "yellow_cards": {
+                    "Charleroi": "1",
+                    "Genk": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/genk-vs-charleroi-2026-04-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/736.webp",
+                    "name": "Charleroi",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/742.webp",
+                    "name": "Genk",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/genk-vs-charleroi-2026-04-22-QTEF.webp",
+            "title": "Genk vs Charleroi"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 6, 2026",
+            "description": "Watch KVC Westerlo vs Charleroi highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 6, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "E. Bayram",
+                    "score_update": "1 - 0",
+                    "team": "KVC Westerlo",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Camara",
+                    "team": "Charleroi",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Alcócer",
+                    "team": "KVC Westerlo",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "E. Camara",
+                    "team": "Charleroi",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Lapage",
+                    "team": "KVC Westerlo",
+                    "time": "91'"
+                },
+                {
+                    "assist": "N. Bohamdi-Kamoni",
+                    "event_type": "Goal",
+                    "player": "N. Ferri",
+                    "score_update": "2 - 0",
+                    "team": "KVC Westerlo",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "05/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Westerlo 2 - 0 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Zulte Waregem 1 - 0 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "11/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 4 - 1 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "07/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Charleroi 3 - 4 Cercle Brugge"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "04/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Sporting Charleroi 0 - 0 Union St.Gilloise"
+                        }
+                    ],
+                    "team": "Charleroi"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "05/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Westerlo 2 - 0 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Standard Liege 0 - 0 Westerlo"
+                        }
+                    ],
+                    "team": "KVC Westerlo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "22/02/2026",
+                        "teams_and_score": "Westerlo 2 - 1 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League: UECL Group",
+                        "date": "09/05/2025",
+                        "teams_and_score": "Sporting Charleroi 4 - 3 Westerlo"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Westerlo 1 - 3 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "01/03/2024",
+                        "teams_and_score": "Westerlo 0 - 1 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "01/04/2023",
+                        "teams_and_score": "Westerlo 2 - 3 Sporting Charleroi"
+                    }
+                ],
+                "summary": {
+                    "Charleroi_wins": "2",
+                    "KVC Westerlo_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charleroi": "48%",
+                    "KVC Westerlo": "52%"
+                },
+                "corners": {
+                    "Charleroi": "5",
+                    "KVC Westerlo": "5"
+                },
+                "fouls": {
+                    "Charleroi": "13",
+                    "KVC Westerlo": "10"
+                },
+                "goalkeeper_saves": {
+                    "Charleroi": "3",
+                    "KVC Westerlo": "4"
+                },
+                "offsides": {
+                    "Charleroi": "6",
+                    "KVC Westerlo": "0"
+                },
+                "red_cards": {
+                    "Charleroi": "1",
+                    "KVC Westerlo": "0"
+                },
+                "shots_blocked": {
+                    "Charleroi": "1",
+                    "KVC Westerlo": "4"
+                },
+                "shots_off_target": {
+                    "Charleroi": "2",
+                    "KVC Westerlo": "5"
+                },
+                "shots_on_target": {
+                    "Charleroi": "4",
+                    "KVC Westerlo": "5"
+                },
+                "yellow_cards": {
+                    "Charleroi": "1",
+                    "KVC Westerlo": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kvc-westerlo-vs-charleroi-2026-04-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/736.webp",
+                    "name": "Charleroi",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/261.webp",
+                    "name": "KVC Westerlo",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kvc-westerlo-vs-charleroi-2026-04-06-cNnu.webp",
+            "title": "KVC Westerlo vs Charleroi"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 25, 2026",
+            "description": "Watch OH Leuven vs Charleroi highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 25, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/oh-leuven-vs-charleroi-2026-04-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/oh-leuven-vs-charleroi-2026-04-25-PuQe.webp",
+            "title": "OH Leuven vs Charleroi"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 1, 2026",
+            "description": "Watch St. Truiden vs Charleroi highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 1, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Sebaoui",
+                    "team": "St. Truiden",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Camara",
+                    "team": "Charleroi",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "A. Muja",
+                    "team": "St. Truiden",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Bernier",
+                    "team": "Charleroi",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Khalifi",
+                    "team": "Charleroi",
+                    "time": "46'"
+                },
+                {
+                    "assist": "Y. Khalifi",
+                    "event_type": "Goal",
+                    "player": "Y. Titraoui",
+                    "score_update": "0 - 1",
+                    "team": "Charleroi",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Goto",
+                    "team": "St. Truiden",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Romsaas",
+                    "score_update": "0 - 2",
+                    "team": "Charleroi",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 0 - 2 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "13/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting Charleroi 2 - 0 Club Brugge"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "26/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 1 - 2 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "04/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Sporting Charleroi 2 - 0 KV Mechelen"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "29/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sporting Charleroi 0 - 0 Raal La Louviere"
+                        }
+                    ],
+                    "team": "Charleroi"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "St.Truiden 0 - 2 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "03/12/2025",
+                            "result": "D",
+                            "teams_and_score": "Royal Antwerp 3 - 3 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "30/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Gent 1 - 2 St.Truiden"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "03/08/2025",
+                        "teams_and_score": "Sporting Charleroi 1 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "21/12/2024",
+                        "teams_and_score": "Sporting Charleroi 2 - 1 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "23/12/2023",
+                        "teams_and_score": "St.Truiden 1 - 0 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "26/02/2023",
+                        "teams_and_score": "Sporting Charleroi 1 - 0 St.Truiden"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "28/01/2022",
+                        "teams_and_score": "St.Truiden 0 - 1 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "First Division A 20/21",
+                        "date": "05/03/2021",
+                        "teams_and_score": "Sporting Charleroi 0 - 0 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "Charleroi_wins": "3",
+                    "St Truiden_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charleroi": "52%",
+                    "St Truiden": "48%"
+                },
+                "corners": {
+                    "Charleroi": "6",
+                    "St Truiden": "6"
+                },
+                "fouls": {
+                    "Charleroi": "16",
+                    "St Truiden": "6"
+                },
+                "goalkeeper_saves": {
+                    "Charleroi": "2",
+                    "St Truiden": "3"
+                },
+                "offsides": {
+                    "Charleroi": "1",
+                    "St Truiden": "1"
+                },
+                "red_cards": {
+                    "Charleroi": "0",
+                    "St Truiden": "1"
+                },
+                "shots_blocked": {
+                    "Charleroi": "4",
+                    "St Truiden": "4"
+                },
+                "shots_off_target": {
+                    "Charleroi": "6",
+                    "St Truiden": "7"
+                },
+                "shots_on_target": {
+                    "Charleroi": "5",
+                    "St Truiden": "2"
+                },
+                "yellow_cards": {
+                    "Charleroi": "3",
+                    "St Truiden": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-truiden-vs-charleroi-2026-02-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/736.webp",
+                    "name": "Charleroi",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-truiden-vs-charleroi-2026-02-01-fBPb.webp",
+            "title": "St. Truiden vs Charleroi"
+        }
+    ]
+}

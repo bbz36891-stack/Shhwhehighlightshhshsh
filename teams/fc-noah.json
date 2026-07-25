@@ -1,0 +1,298 @@
+{
+    "team": "FC Noah",
+    "team_logo": "https://img.refooty.com/logo/teams/3684.webp",
+    "total_matches": 3,
+    "matches": [
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Feb 27, 2026",
+            "description": "Watch AZ Alkmaar vs FC Noah highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on February 27, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "K. Smit",
+                    "event_type": "Goal",
+                    "player": "R. Daal",
+                    "score_update": "1 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "1'"
+                },
+                {
+                    "assist": "P. Koopmeiners",
+                    "event_type": "Goal",
+                    "player": "S. Mijnans",
+                    "score_update": "2 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Mijnans",
+                    "team": "AZ Alkmaar",
+                    "time": "31'"
+                },
+                {
+                    "assist": "R. Daal",
+                    "event_type": "Goal",
+                    "player": "S. Mijnans",
+                    "score_update": "3 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "54'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Dijkstra",
+                    "team": "AZ Alkmaar",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Muradyan",
+                    "team": "FC Noah",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Boogaard",
+                    "team": "AZ Alkmaar",
+                    "time": "87'"
+                },
+                {
+                    "assist": "T. Parrott",
+                    "event_type": "Goal",
+                    "player": "I. Jensen",
+                    "score_update": "4 - 0",
+                    "team": "AZ Alkmaar",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "26/02/2026",
+                            "result": "L",
+                            "teams_and_score": "AZ Alkmaar 4 - 0 FC Noah"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "18/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Dynamo Kyiv 2 - 0 FC Noah"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "06/12/2025",
+                            "result": "L",
+                            "teams_and_score": "FC Noah 2 - 3 BKMA"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "27/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Aberdeen 1 - 1 FC Noah"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "22/11/2025",
+                            "result": "D",
+                            "teams_and_score": "FC Noah 2 - 2 FC Alashkert"
+                        }
+                    ],
+                    "team": "FC Noah"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 4 - 0 FC Noah"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 3 - 1 Sparta Rotterdam"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "19/02/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Noah 1 - 0 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "Eredivisie",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Excelsior 1 - 2 AZ Alkmaar"
+                        },
+                        {
+                            "competition": "KNVB Beker: Quarter-Finals",
+                            "date": "03/02/2026",
+                            "result": "W",
+                            "teams_and_score": "AZ Alkmaar 2 - 1 FC Twente"
+                        }
+                    ],
+                    "team": "AZ Alkmaar"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Knockout Round Play-offs",
+                        "date": "19/02/2026",
+                        "teams_and_score": "FC Noah 1 - 0 AZ Alkmaar"
+                    }
+                ],
+                "summary": {
+                    "AZ Alkmaar_wins": "0",
+                    "FC Noah_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AZ Alkmaar": "61%",
+                    "FC Noah": "39%"
+                },
+                "corners": {
+                    "AZ Alkmaar": "7",
+                    "FC Noah": "1"
+                },
+                "fouls": {
+                    "AZ Alkmaar": "19",
+                    "FC Noah": "8"
+                },
+                "goalkeeper_saves": {
+                    "AZ Alkmaar": "1",
+                    "FC Noah": "4"
+                },
+                "offsides": {
+                    "AZ Alkmaar": "2",
+                    "FC Noah": "1"
+                },
+                "shots_blocked": {
+                    "AZ Alkmaar": "6",
+                    "FC Noah": "1"
+                },
+                "shots_off_target": {
+                    "AZ Alkmaar": "3",
+                    "FC Noah": "2"
+                },
+                "shots_on_target": {
+                    "AZ Alkmaar": "7",
+                    "FC Noah": "1"
+                },
+                "yellow_cards": {
+                    "AZ Alkmaar": "3",
+                    "FC Noah": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/az-alkmaar-vs-fc-noah-2026-02-27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3684.webp",
+                    "name": "FC Noah",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/201.webp",
+                    "name": "AZ Alkmaar",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/az-alkmaar-vs-fc-noah-2026-02-27-s3BH.webp",
+            "title": "AZ Alkmaar vs FC Noah"
+        },
+        {
+            "competition": "Eredivisie",
+            "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+            "date": "Feb 19, 2026",
+            "description": "Watch FC Noah vs AZ Alkmaar highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on February 19, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-noah-vs-az-alkmaar-2026-02-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-noah-vs-az-alkmaar-2026-02-19-6vbj.webp",
+            "title": "FC Noah vs AZ Alkmaar"
+        },
+        {
+            "competition": "UEFA Europa Conference League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-conference-league.webp",
+            "date": "Jul 23, 2026",
+            "description": "Watch Zimbru vs FC Noah highlights and goals from UEFA Europa Conference League on ReFooty: Football Highlights Hub. Match played on July 23, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/zimbru-vs-fc-noah-2026-07-23_VzPgb.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/zimbru-vs-fc-noah-2026-07-23-bjI8.webp",
+            "title": "Zimbru vs FC Noah"
+        }
+    ]
+}

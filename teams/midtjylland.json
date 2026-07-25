@@ -1,0 +1,77 @@
+{
+    "team": "Midtjylland",
+    "team_logo": "",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Nov 27, 2025",
+            "description": "Watch AS Roma vs FC Midtjylland highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on November 27, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Roma_v_Midtjylland_2025_11_27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/roma-v-midtjylland-2025-11-27-CfXo.webp",
+            "title": "AS Roma vs Midtjylland"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Nov 6, 2025",
+            "description": "Watch FC Midtjylland vs Celtic highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on November 6, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Midtjylland_v_Celtic_2025_11_06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/midtjylland-v-celtic-2025-11-06-mZ5Y.webp",
+            "title": "Midtjylland vs Celtic"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "team": "Erzurum BB",
+    "team_logo": "https://img.refooty.com/logo/teams/1009.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Mar 22, 2026",
+            "description": "Watch Erokspor vs Erzurum BB highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on March 22, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "B. Keser",
+                    "score_update": "0 - 1",
+                    "team": "Erzurum BB",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Sylla",
+                    "score_update": "0 - 2",
+                    "team": "Erzurum BB",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "1st Lig",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Esenler Erokspor 0 - 2 Erzurum FK"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "04/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Erzurum FK 4 - 2 Keciorengucu"
+                        },
+                        {
+                            "competition": "1st Lig",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Van Spor Kulubu 0 - 3 Erzurum FK"
+                        }
+                    ],
+                    "team": "Erzurum BB"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "1st Lig",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Esenler Erokspor 0 - 2 Erzurum FK"
+                        }
+                    ],
+                    "team": "Erokspor"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "1st Lig",
+                        "date": "09/11/2025",
+                        "teams_and_score": "Erzurum FK 1 - 1 Esenler Erokspor"
+                    },
+                    {
+                        "competition": "1st Lig",
+                        "date": "16/02/2025",
+                        "teams_and_score": "Esenler Erokspor 1 - 2 Erzurum FK"
+                    },
+                    {
+                        "competition": "Turkiye Cup",
+                        "date": "08/11/2022",
+                        "teams_and_score": "Erzurum FK 2 - 2 Esenler Erokspor"
+                    },
+                    {
+                        "competition": "Cup 20/21",
+                        "date": "16/12/2020",
+                        "teams_and_score": "Erzurum FK 5 - 1 Esenler Erokspor"
+                    }
+                ],
+                "summary": {
+                    "Erokspor_wins": "0",
+                    "Erzurum BB_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Erokspor": "65%",
+                    "Erzurum BB": "35%"
+                },
+                "corners": {
+                    "Erokspor": "11",
+                    "Erzurum BB": "1"
+                },
+                "fouls": {
+                    "Erokspor": "9",
+                    "Erzurum BB": "12"
+                },
+                "goalkeeper_saves": {
+                    "Erokspor": "0",
+                    "Erzurum BB": "3"
+                },
+                "offsides": {
+                    "Erokspor": "0",
+                    "Erzurum BB": "2"
+                },
+                "shots_blocked": {
+                    "Erokspor": "6",
+                    "Erzurum BB": "0"
+                },
+                "shots_off_target": {
+                    "Erokspor": "7",
+                    "Erzurum BB": "1"
+                },
+                "shots_on_target": {
+                    "Erokspor": "3",
+                    "Erzurum BB": "2"
+                },
+                "yellow_cards": {
+                    "Erokspor": "3",
+                    "Erzurum BB": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/erokspor-vs-erzurum-bb-2026-03-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1009.webp",
+                    "name": "Erzurum BB",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/7402.webp",
+                    "name": "Erokspor",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/erokspor-vs-erzurum-bb-2026-03-22-ENWG.webp",
+            "title": "Erokspor vs Erzurum BB"
+        }
+    ]
+}

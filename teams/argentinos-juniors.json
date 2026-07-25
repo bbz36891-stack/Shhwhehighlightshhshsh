@@ -1,0 +1,77 @@
+{
+    "team": "Argentinos Juniors",
+    "team_logo": "",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 11, 2026",
+            "description": "Watch Argentinos JRS vs Rosario Central highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/argentinos-juniors-rosario-central-2026-03-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/argentinos-juniors-rosario-central-2026-03-11-VZ7W.webp",
+            "title": "Argentinos Juniors - Rosario Central"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 16, 2026",
+            "description": "Watch Tigre vs Argentinos JRS highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 16, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/tigre-argentinos-juniors-2026-03-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/tigre-argentinos-juniors-2026-03-16-Humd.webp",
+            "title": "Tigre - Argentinos Juniors"
+        }
+    ]
+}

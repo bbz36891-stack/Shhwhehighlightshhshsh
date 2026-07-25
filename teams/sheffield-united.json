@@ -1,0 +1,2845 @@
+{
+    "team": "Sheffield United",
+    "team_logo": "https://img.refooty.com/logo/teams/15407.webp",
+    "total_matches": 18,
+    "matches": [
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 14, 2026",
+            "description": "Watch Birmingham vs Sheffield United highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 14, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "F. Seriki",
+                    "team": "Sheffield United",
+                    "time": "23'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Ducksch",
+                    "score_update": "1 - 0",
+                    "team": "Birmingham",
+                    "time": "25'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Robinson",
+                    "team": "Birmingham",
+                    "time": "28'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Peck",
+                    "score_update": "1 - 0",
+                    "team": "Sheffield United",
+                    "time": "30'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Brooks",
+                    "team": "Sheffield United",
+                    "time": "45+2'"
+                },
+                {
+                    "assist": "H. Burrows",
+                    "event_type": "Goal",
+                    "player": "P. Bamford",
+                    "score_update": "1 - 1",
+                    "team": "Sheffield United",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Klarer",
+                    "team": "Birmingham",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Tanganga",
+                    "team": "Sheffield United",
+                    "time": "67'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Burrows",
+                    "team": "Sheffield United",
+                    "time": "72'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Davies",
+                    "team": "Sheffield United",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "14/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 1 - 1 Sheffield United"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "14/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 1 - 1 Sheffield United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "15/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 1 - 1 Leeds United"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 0 - 0 West Bromwich Albion"
+                        }
+                    ],
+                    "team": "Birmingham"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "20/12/2025",
+                        "teams_and_score": "Sheffield United 3 - 0 Birmingham City"
+                    },
+                    {
+                        "competition": "EFL Cup: Round 1",
+                        "date": "13/08/2025",
+                        "teams_and_score": "Birmingham City 2 - 1 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "08/05/2023",
+                        "teams_and_score": "Birmingham City 1 - 2 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "04/02/2022",
+                        "teams_and_score": "Birmingham City 1 - 2 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "10/04/2019",
+                        "teams_and_score": "Birmingham City 1 - 1 Sheffield United"
+                    }
+                ],
+                "summary": {
+                    "Birmingham_wins": "1",
+                    "Sheffield United_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Birmingham": "63%",
+                    "Sheffield United": "38%"
+                },
+                "corners": {
+                    "Birmingham": "7",
+                    "Sheffield United": "0"
+                },
+                "crosses": {
+                    "Birmingham": "2",
+                    "Sheffield United": "2"
+                },
+                "fouls": {
+                    "Birmingham": "13",
+                    "Sheffield United": "11"
+                },
+                "goalkeeper_saves": {
+                    "Birmingham": "2",
+                    "Sheffield United": "6"
+                },
+                "offsides": {
+                    "Birmingham": "0",
+                    "Sheffield United": "2"
+                },
+                "red_cards": {
+                    "Birmingham": "0",
+                    "Sheffield United": "1"
+                },
+                "shots_blocked": {
+                    "Birmingham": "5",
+                    "Sheffield United": "0"
+                },
+                "shots_off_target": {
+                    "Birmingham": "6",
+                    "Sheffield United": "2"
+                },
+                "shots_on_target": {
+                    "Birmingham": "7",
+                    "Sheffield United": "3"
+                },
+                "yellow_cards": {
+                    "Birmingham": "2",
+                    "Sheffield United": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/birmingham-vs-sheffield-united-2026-03-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/54.webp",
+                    "name": "Birmingham",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/birmingham-vs-sheffield-united-2026-03-14-tLZu.webp",
+            "title": "Birmingham vs Sheffield United"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Apr 6, 2026",
+            "description": "Watch Bristol City vs Sheffield United highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on April 6, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Pring",
+                    "team": "Bristol City",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Cannon",
+                    "team": "Sheffield United",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Sykes",
+                    "score_update": "1 - 0",
+                    "team": "Bristol City",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Brooks",
+                    "team": "Sheffield United",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Bamford",
+                    "team": "Sheffield United",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "06/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bristol City 1 - 0 Sheffield United"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "06/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bristol City 1 - 0 Sheffield United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Port Vale 1 - 0 Bristol City"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "27/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bristol City 1 - 2 Watford"
+                        }
+                    ],
+                    "team": "Bristol City"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "09/08/2025",
+                        "teams_and_score": "Sheffield United 1 - 4 Bristol City"
+                    },
+                    {
+                        "competition": "Championship: Play-offs",
+                        "date": "12/05/2025",
+                        "teams_and_score": "Sheffield United 3 - 0 Bristol City"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "11/03/2025",
+                        "teams_and_score": "Sheffield United 1 - 1 Bristol City"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "18/04/2023",
+                        "teams_and_score": "Sheffield United 1 - 0 Bristol City"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "18/04/2022",
+                        "teams_and_score": "Bristol City 1 - 1 Sheffield United"
+                    },
+                    {
+                        "competition": "FA Cup 20/21",
+                        "date": "10/02/2021",
+                        "teams_and_score": "Sheffield United 1 - 0 Bristol City"
+                    }
+                ],
+                "summary": {
+                    "Bristol City_wins": "1",
+                    "Sheffield United_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bristol City": "47%",
+                    "Sheffield United": "53%"
+                },
+                "corners": {
+                    "Bristol City": "0",
+                    "Sheffield United": "5"
+                },
+                "crosses": {
+                    "Bristol City": "1",
+                    "Sheffield United": "7"
+                },
+                "fouls": {
+                    "Bristol City": "6",
+                    "Sheffield United": "9"
+                },
+                "goalkeeper_saves": {
+                    "Bristol City": "7",
+                    "Sheffield United": "0"
+                },
+                "offsides": {
+                    "Bristol City": "0",
+                    "Sheffield United": "2"
+                },
+                "shots_blocked": {
+                    "Bristol City": "2",
+                    "Sheffield United": "6"
+                },
+                "shots_off_target": {
+                    "Bristol City": "2",
+                    "Sheffield United": "8"
+                },
+                "shots_on_target": {
+                    "Bristol City": "1",
+                    "Sheffield United": "7"
+                },
+                "yellow_cards": {
+                    "Bristol City": "1",
+                    "Sheffield United": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/bristol-city-vs-sheffield-united-2026-04-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/56.webp",
+                    "name": "Bristol City",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bristol-city-vs-sheffield-united-2026-04-06-IJDm.webp",
+            "title": "Bristol City vs Sheffield United"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Derby vs Sheffield United highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on May 2, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "S. Szmodics",
+                    "score_update": "1 - 0",
+                    "team": "Derby",
+                    "time": "5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Langås",
+                    "team": "Derby",
+                    "time": "18'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Clarke",
+                    "team": "Derby",
+                    "time": "26'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Burrows",
+                    "team": "Sheffield United",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Tanganga",
+                    "team": "Sheffield United",
+                    "time": "54'"
+                },
+                {
+                    "assist": "P. Bamford",
+                    "event_type": "Goal",
+                    "player": "T. Cannon",
+                    "score_update": "1 - 1",
+                    "team": "Sheffield United",
+                    "time": "62'"
+                },
+                {
+                    "assist": "G. Hamer",
+                    "event_type": "Goal",
+                    "player": "S. Peck",
+                    "score_update": "1 - 2",
+                    "team": "Sheffield United",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Clark",
+                    "team": "Derby",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Szmodics",
+                    "team": "Derby",
+                    "time": "90+7'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Chong",
+                    "team": "Sheffield United",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Derby County 1 - 2 Sheffield United"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Derby County 1 - 2 Sheffield United"
+                        }
+                    ],
+                    "team": "Derby"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "01/11/2025",
+                        "teams_and_score": "Sheffield United 1 - 3 Derby County"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "01/02/2025",
+                        "teams_and_score": "Derby County 0 - 1 Sheffield United"
+                    },
+                    {
+                        "competition": "Club Friendlies 2023",
+                        "date": "29/07/2023",
+                        "teams_and_score": "Derby County 1 - 3 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "15/01/2022",
+                        "teams_and_score": "Derby County 2 - 0 Sheffield United"
+                    },
+                    {
+                        "competition": "EFL Cup 21/22",
+                        "date": "24/08/2021",
+                        "teams_and_score": "Sheffield United 2 - 1 Derby County"
+                    },
+                    {
+                        "competition": "Club Friendlies 2020",
+                        "date": "01/09/2020",
+                        "teams_and_score": "Derby County 0 - 2 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "26/12/2018",
+                        "teams_and_score": "Sheffield United 3 - 1 Derby County"
+                    }
+                ],
+                "summary": {
+                    "Derby_wins": "2",
+                    "Sheffield United_wins": "5",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Derby": "51%",
+                    "Sheffield United": "49%"
+                },
+                "corners": {
+                    "Derby": "6",
+                    "Sheffield United": "4"
+                },
+                "crosses": {
+                    "Derby": "5",
+                    "Sheffield United": "3"
+                },
+                "fouls": {
+                    "Derby": "13",
+                    "Sheffield United": "12"
+                },
+                "goalkeeper_saves": {
+                    "Derby": "6",
+                    "Sheffield United": "4"
+                },
+                "offsides": {
+                    "Derby": "2",
+                    "Sheffield United": "1"
+                },
+                "shots_blocked": {
+                    "Derby": "6",
+                    "Sheffield United": "2"
+                },
+                "shots_off_target": {
+                    "Derby": "5",
+                    "Sheffield United": "5"
+                },
+                "shots_on_target": {
+                    "Derby": "6",
+                    "Sheffield United": "8"
+                },
+                "yellow_cards": {
+                    "Derby": "4",
+                    "Sheffield United": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/derby-vs-sheffield-united-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/69.webp",
+                    "name": "Derby",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/derby-vs-sheffield-united-2026-05-02-KoBr.webp",
+            "title": "Derby vs Sheffield United"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 11, 2026",
+            "description": "Watch Norwich City vs Sheffield United highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 11, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "C. O'Hare",
+                    "event_type": "Goal",
+                    "player": "J. Riedewald",
+                    "score_update": "0 - 1",
+                    "team": "Sheffield United",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. McLean",
+                    "team": "Norwich City",
+                    "time": "16'"
+                },
+                {
+                    "assist": "J. Wright",
+                    "event_type": "Goal",
+                    "player": "J. Stacey",
+                    "score_update": "1 - 1",
+                    "team": "Norwich City",
+                    "time": "68'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Mattsson",
+                    "team": "Norwich City",
+                    "time": "72'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Peck",
+                    "team": "Sheffield United",
+                    "time": "77'"
+                },
+                {
+                    "assist": "P. Maghoma",
+                    "event_type": "Goal",
+                    "player": "F. Amankwah",
+                    "score_update": "2 - 1",
+                    "team": "Norwich City",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Hoever",
+                    "team": "Sheffield United",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "11/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Norwich City 2 - 1 Sheffield United"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "11/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Norwich City 2 - 1 Sheffield United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Leeds United 3 - 0 Norwich City"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Leicester City 0 - 2 Norwich City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Norwich City 3 - 1 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Oxford United 0 - 3 Norwich City"
+                        }
+                    ],
+                    "team": "Norwich City"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "09/12/2025",
+                        "teams_and_score": "Sheffield United 1 - 1 Norwich City"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "18/01/2025",
+                        "teams_and_score": "Sheffield United 2 - 0 Norwich City"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "01/04/2023",
+                        "teams_and_score": "Norwich City 0 - 1 Sheffield United"
+                    },
+                    {
+                        "competition": "Premier League 19/20",
+                        "date": "07/03/2020",
+                        "teams_and_score": "Sheffield United 1 - 0 Norwich City"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "26/01/2019",
+                        "teams_and_score": "Norwich City 2 - 2 Sheffield United"
+                    }
+                ],
+                "summary": {
+                    "Norwich City_wins": "0",
+                    "Sheffield United_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Norwich City": "58%",
+                    "Sheffield United": "42%"
+                },
+                "corners": {
+                    "Norwich City": "11",
+                    "Sheffield United": "4"
+                },
+                "crosses": {
+                    "Norwich City": "8",
+                    "Sheffield United": "3"
+                },
+                "fouls": {
+                    "Norwich City": "7",
+                    "Sheffield United": "11"
+                },
+                "goalkeeper_saves": {
+                    "Norwich City": "1",
+                    "Sheffield United": "5"
+                },
+                "offsides": {
+                    "Norwich City": "2",
+                    "Sheffield United": "3"
+                },
+                "shots_blocked": {
+                    "Norwich City": "6",
+                    "Sheffield United": "1"
+                },
+                "shots_off_target": {
+                    "Norwich City": "6",
+                    "Sheffield United": "3"
+                },
+                "shots_on_target": {
+                    "Norwich City": "7",
+                    "Sheffield United": "2"
+                },
+                "yellow_cards": {
+                    "Norwich City": "2",
+                    "Sheffield United": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/norwich-city-sheffield-united-2026-03-11-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18210.webp",
+                    "name": "Norwich City",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/norwich-city-sheffield-united-2026-03-11-vn-pOLB.webp",
+            "title": "norwich city - sheffield united"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 14, 2026",
+            "description": "Watch Portsmouth vs Sheffield United highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/portsmouth-vs-sheffield-united-2026-02-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/portsmouth-vs-sheffield-united-2026-02-14-Q9BZ.webp",
+            "title": "Portsmouth vs Sheffield United"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 28, 2026",
+            "description": "Watch Queens Park Rangers vs Sheffield United highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 28, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "C. O'Hare",
+                    "score_update": "0 - 1",
+                    "team": "Sheffield United",
+                    "time": "1'"
+                },
+                {
+                    "assist": "S. Peck",
+                    "event_type": "Goal",
+                    "player": "T. Campbell",
+                    "score_update": "0 - 2",
+                    "team": "Sheffield United",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Hamer",
+                    "team": "Sheffield United",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Smyth",
+                    "team": "Queens Park Rangers",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Brooks",
+                    "team": "Sheffield United",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Morgan",
+                    "team": "Queens Park Rangers",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "QPR 0 - 2 Sheffield United"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "QPR 0 - 2 Sheffield United"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "L",
+                            "teams_and_score": "West Ham United 2 - 1 QPR"
+                        }
+                    ],
+                    "team": "Queens Park Rangers"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "08/11/2025",
+                        "teams_and_score": "Sheffield United 0 - 0 QPR"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "01/03/2025",
+                        "teams_and_score": "QPR 1 - 2 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "02/01/2023",
+                        "teams_and_score": "QPR 1 - 1 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "29/04/2022",
+                        "teams_and_score": "QPR 1 - 3 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "12/01/2019",
+                        "teams_and_score": "Sheffield United 1 - 0 QPR"
+                    }
+                ],
+                "summary": {
+                    "Queens Park Rangers_wins": "2",
+                    "Sheffield United_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Queens Park Rangers": "41%",
+                    "Sheffield United": "59%"
+                },
+                "corners": {
+                    "Queens Park Rangers": "7",
+                    "Sheffield United": "4"
+                },
+                "crosses": {
+                    "Queens Park Rangers": "7",
+                    "Sheffield United": "0"
+                },
+                "fouls": {
+                    "Queens Park Rangers": "8",
+                    "Sheffield United": "11"
+                },
+                "goalkeeper_saves": {
+                    "Queens Park Rangers": "1",
+                    "Sheffield United": "2"
+                },
+                "offsides": {
+                    "Queens Park Rangers": "5",
+                    "Sheffield United": "0"
+                },
+                "shots_blocked": {
+                    "Queens Park Rangers": "5",
+                    "Sheffield United": "5"
+                },
+                "shots_off_target": {
+                    "Queens Park Rangers": "5",
+                    "Sheffield United": "4"
+                },
+                "shots_on_target": {
+                    "Queens Park Rangers": "2",
+                    "Sheffield United": "3"
+                },
+                "yellow_cards": {
+                    "Queens Park Rangers": "2",
+                    "Sheffield United": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/queens-park-rangers-vs-sheffield-united-2026-02-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18212.webp",
+                    "name": "Queens Park Rangers",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/queens-park-rangers-vs-sheffield-united-2026-02-28-kbQo.webp",
+            "title": "Queens Park Rangers vs Sheffield United"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Apr 22, 2026",
+            "description": "Watch Sheffield United vs Blackburn Rovers highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on April 22, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "R. Morishita",
+                    "event_type": "Goal",
+                    "player": "Y. Ohashi",
+                    "score_update": "0 - 1",
+                    "team": "Blackburn Rovers",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Tanganga",
+                    "team": "Sheffield United",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Morishita",
+                    "score_update": "0 - 2",
+                    "team": "Blackburn Rovers",
+                    "time": "31'"
+                },
+                {
+                    "assist": "R. Alebiosu",
+                    "event_type": "Goal",
+                    "player": "Y. Ohashi",
+                    "score_update": "0 - 3",
+                    "team": "Blackburn Rovers",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Morishita",
+                    "team": "Blackburn Rovers",
+                    "time": "53'"
+                },
+                {
+                    "assist": "T. Cannon",
+                    "event_type": "Goal",
+                    "player": "H. Burrows",
+                    "score_update": "1 - 3",
+                    "team": "Sheffield United",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Hamer",
+                    "team": "Sheffield United",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Ribeiro",
+                    "team": "Blackburn Rovers",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Cashin",
+                    "team": "Blackburn Rovers",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Cantwell",
+                    "team": "Blackburn Rovers",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sheffield United 1 - 3 Blackburn Rovers"
+                        }
+                    ],
+                    "team": "Blackburn Rovers"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "22/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sheffield United 1 - 3 Blackburn Rovers"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "21/10/2025",
+                        "teams_and_score": "Blackburn Rovers 1 - 3 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "03/05/2025",
+                        "teams_and_score": "Sheffield United 1 - 1 Blackburn Rovers"
+                    },
+                    {
+                        "competition": "FA Cup: Quarter-Finals 22/23",
+                        "date": "19/03/2023",
+                        "teams_and_score": "Sheffield United 3 - 2 Blackburn Rovers"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "04/03/2023",
+                        "teams_and_score": "Blackburn Rovers 1 - 0 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "23/02/2022",
+                        "teams_and_score": "Sheffield United 1 - 0 Blackburn Rovers"
+                    },
+                    {
+                        "competition": "EFL Cup",
+                        "date": "27/08/2019",
+                        "teams_and_score": "Sheffield United 2 - 1 Blackburn Rovers"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "29/12/2018",
+                        "teams_and_score": "Sheffield United 3 - 0 Blackburn Rovers"
+                    }
+                ],
+                "summary": {
+                    "Blackburn Rovers_wins": "1",
+                    "Sheffield United_wins": "5",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Blackburn Rovers": "33%",
+                    "Sheffield United": "67%"
+                },
+                "corners": {
+                    "Blackburn Rovers": "4",
+                    "Sheffield United": "2"
+                },
+                "crosses": {
+                    "Blackburn Rovers": "3",
+                    "Sheffield United": "6"
+                },
+                "fouls": {
+                    "Blackburn Rovers": "10",
+                    "Sheffield United": "5"
+                },
+                "goalkeeper_saves": {
+                    "Blackburn Rovers": "3",
+                    "Sheffield United": "2"
+                },
+                "offsides": {
+                    "Blackburn Rovers": "3",
+                    "Sheffield United": "4"
+                },
+                "shots_blocked": {
+                    "Blackburn Rovers": "1",
+                    "Sheffield United": "2"
+                },
+                "shots_off_target": {
+                    "Blackburn Rovers": "2",
+                    "Sheffield United": "7"
+                },
+                "shots_on_target": {
+                    "Blackburn Rovers": "5",
+                    "Sheffield United": "4"
+                },
+                "yellow_cards": {
+                    "Blackburn Rovers": "4",
+                    "Sheffield United": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sheffield-united-blackburn-rovers-2026-04-22-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15401.webp",
+                    "name": "Blackburn Rovers",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-blackburn-rovers-2026-04-22-vn-w30J.webp",
+            "title": "sheffield united - blackburn rovers"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 26, 2026",
+            "description": "Watch Sheffield United vs Coventry highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 26, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Tanganga",
+                    "team": "Sheffield United",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Mason-Clark",
+                    "team": "Coventry",
+                    "time": "1'"
+                },
+                {
+                    "assist": "G. Hamer",
+                    "event_type": "Goal",
+                    "player": "H. Burrows",
+                    "score_update": "1 - 0",
+                    "team": "Sheffield United",
+                    "time": "46'"
+                },
+                {
+                    "assist": "E. Mason-Clark",
+                    "event_type": "Goal",
+                    "player": "H. Wright",
+                    "score_update": "1 - 1",
+                    "team": "Coventry",
+                    "time": "61'"
+                },
+                {
+                    "assist": "E. Mason-Clark",
+                    "event_type": "Goal",
+                    "player": "J. Rudoni",
+                    "score_update": "1 - 2",
+                    "team": "Coventry",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Dasilva",
+                    "team": "Coventry",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Brooks",
+                    "team": "Sheffield United",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Campbell",
+                    "team": "Sheffield United",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "25/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Sheffield United 1 - 2 Coventry City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "10/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Stoke City 1 - 0 Coventry City"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "04/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Birmingham City 3 - 2 Coventry City"
+                        }
+                    ],
+                    "team": "Coventry"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "25/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Sheffield United 1 - 2 Coventry City"
+                        },
+                        {
+                            "competition": "FA Cup: Round 3",
+                            "date": "11/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Sheffield United 3 - 4 Mansfield Town"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "04/11/2025",
+                        "teams_and_score": "Coventry City 3 - 1 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "28/03/2025",
+                        "teams_and_score": "Sheffield United 3 - 1 Coventry City"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "26/12/2022",
+                        "teams_and_score": "Sheffield United 3 - 1 Coventry City"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "12/03/2022",
+                        "teams_and_score": "Coventry City 4 - 1 Sheffield United"
+                    },
+                    {
+                        "competition": "League One",
+                        "date": "05/04/2017",
+                        "teams_and_score": "Sheffield United 2 - 0 Coventry City"
+                    }
+                ],
+                "summary": {
+                    "Coventry_wins": "2",
+                    "Sheffield United_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Coventry": "37%",
+                    "Sheffield United": "63%"
+                },
+                "corners": {
+                    "Coventry": "3",
+                    "Sheffield United": "7"
+                },
+                "crosses": {
+                    "Coventry": "3",
+                    "Sheffield United": "5"
+                },
+                "fouls": {
+                    "Coventry": "14",
+                    "Sheffield United": "12"
+                },
+                "goalkeeper_saves": {
+                    "Coventry": "3",
+                    "Sheffield United": "3"
+                },
+                "offsides": {
+                    "Coventry": "1",
+                    "Sheffield United": "4"
+                },
+                "shots_blocked": {
+                    "Coventry": "3",
+                    "Sheffield United": "10"
+                },
+                "shots_off_target": {
+                    "Coventry": "3",
+                    "Sheffield United": "8"
+                },
+                "shots_on_target": {
+                    "Coventry": "5",
+                    "Sheffield United": "4"
+                },
+                "yellow_cards": {
+                    "Coventry": "2",
+                    "Sheffield United": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sheffield-united-vs-coventry-2026-02-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1346.webp",
+                    "name": "Coventry",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-vs-coventry-2026-02-26-y3sP.webp",
+            "title": "Sheffield United vs Coventry"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jul 21, 2026",
+            "description": "Watch Sheffield United vs Huddersfield highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 21, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "21/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Sheffield United 3 - 1 Huddersfield Town"
+                        },
+                        {
+                            "competition": "League 1",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "AFC Wimbledon 0 - 4 Huddersfield Town"
+                        }
+                    ],
+                    "team": "Huddersfield"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "21/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Sheffield United 3 - 1 Huddersfield Town"
+                        },
+                        {
+                            "competition": "Championship 25/26",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Derby County 1 - 2 Sheffield United"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Featured Club Friendlies",
+                        "date": "02/08/2024",
+                        "teams_and_score": "Huddersfield Town 1 - 1 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "04/05/2023",
+                        "teams_and_score": "Huddersfield Town 1 - 0 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "12/02/2022",
+                        "teams_and_score": "Huddersfield Town 0 - 0 Sheffield United"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "29/07/2014",
+                        "teams_and_score": "Sheffield United 0 - 1 Huddersfield Town"
+                    },
+                    {
+                        "competition": "League One Playoff",
+                        "date": "26/05/2012",
+                        "teams_and_score": "Huddersfield Town 0 - 0 Sheffield United"
+                    },
+                    {
+                        "competition": "League One",
+                        "date": "14/02/2012",
+                        "teams_and_score": "Huddersfield Town 0 - 1 Sheffield United"
+                    },
+                    {
+                        "competition": "League Cup",
+                        "date": "27/08/2008",
+                        "teams_and_score": "Huddersfield Town 1 - 2 Sheffield United"
+                    }
+                ],
+                "summary": {
+                    "Huddersfield_wins": "2",
+                    "Sheffield United_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sheffield-united-vs-huddersfield-2026-07-21_AAXSZ.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/37.webp",
+                    "name": "Huddersfield",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-vs-huddersfield-2026-07-21-yMNy.webp",
+            "title": "Sheffield United vs Huddersfield"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Sheffield United vs Hull City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "L. Millar",
+                    "event_type": "Goal",
+                    "player": "O. McBurnie",
+                    "score_update": "0 - 1",
+                    "team": "Hull City",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. McGuinness",
+                    "team": "Sheffield United",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Lundstram",
+                    "team": "Hull City",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Ajayi",
+                    "team": "Hull City",
+                    "time": "72'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Lundstram",
+                    "team": "Hull City",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. McBurnie",
+                    "team": "Hull City",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Tanganga",
+                    "team": "Sheffield United",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Egan",
+                    "team": "Hull City",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Pandur",
+                    "team": "Hull City",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Hamer",
+                    "score_update": "1 - 1",
+                    "team": "Sheffield United",
+                    "time": "85'"
+                },
+                {
+                    "assist": "J. Tanganga",
+                    "event_type": "Goal",
+                    "player": "D. Ings",
+                    "score_update": "2 - 1",
+                    "team": "Sheffield United",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Coyle",
+                    "team": "Hull City",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sheffield United 2 - 1 Hull City"
+                        }
+                    ],
+                    "team": "Hull City"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sheffield United 2 - 1 Hull City"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "04/10/2025",
+                        "teams_and_score": "Hull City 1 - 0 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "24/01/2025",
+                        "teams_and_score": "Sheffield United 0 - 3 Hull City"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "20/01/2023",
+                        "teams_and_score": "Sheffield United 1 - 0 Hull City"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "15/02/2022",
+                        "teams_and_score": "Sheffield United 0 - 0 Hull City"
+                    },
+                    {
+                        "competition": "Club Friendlies 2020",
+                        "date": "10/06/2020",
+                        "teams_and_score": "Sheffield United 4 - 0 Hull City"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "22/04/2019",
+                        "teams_and_score": "Hull City 0 - 3 Sheffield United"
+                    }
+                ],
+                "summary": {
+                    "Hull City_wins": "2",
+                    "Sheffield United_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Hull City": "33%",
+                    "Sheffield United": "67%"
+                },
+                "corners": {
+                    "Hull City": "4",
+                    "Sheffield United": "15"
+                },
+                "crosses": {
+                    "Hull City": "5",
+                    "Sheffield United": "2"
+                },
+                "fouls": {
+                    "Hull City": "15",
+                    "Sheffield United": "4"
+                },
+                "goalkeeper_saves": {
+                    "Hull City": "4",
+                    "Sheffield United": "2"
+                },
+                "offsides": {
+                    "Hull City": "4",
+                    "Sheffield United": "4"
+                },
+                "red_cards": {
+                    "Hull City": "1",
+                    "Sheffield United": "0"
+                },
+                "shots_blocked": {
+                    "Hull City": "4",
+                    "Sheffield United": "7"
+                },
+                "shots_off_target": {
+                    "Hull City": "10",
+                    "Sheffield United": "1"
+                },
+                "shots_on_target": {
+                    "Hull City": "4",
+                    "Sheffield United": "7"
+                },
+                "yellow_cards": {
+                    "Hull City": "5",
+                    "Sheffield United": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sheffield-united-vs-hull-city-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/64.webp",
+                    "name": "Hull City",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-vs-hull-city-2026-04-11-QjbN.webp",
+            "title": "Sheffield United vs Hull City"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 10, 2026",
+            "description": "Watch Sheffield United vs Middlesbrough highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 10, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sheffield-united-vs-middlesbrough-2026-02-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-vs-middlesbrough-2026-02-10-Mr9P.webp",
+            "title": "Sheffield United vs Middlesbrough"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Apr 25, 2026",
+            "description": "Watch Sheffield United vs Preston North End highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on April 25, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Thompson",
+                    "event_type": "Goal",
+                    "player": "L. Lindsay",
+                    "score_update": "0 - 1",
+                    "team": "Preston North End",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Thompson",
+                    "team": "Preston North End",
+                    "time": "16'"
+                },
+                {
+                    "assist": "A. Devine",
+                    "event_type": "Goal",
+                    "player": "L. Lindsay",
+                    "score_update": "0 - 2",
+                    "team": "Preston North End",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Vukcevic",
+                    "team": "Preston North End",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Hamer",
+                    "score_update": "1 - 2",
+                    "team": "Sheffield United",
+                    "time": "46'"
+                },
+                {
+                    "assist": "A. Devine",
+                    "event_type": "Goal",
+                    "player": "L. Dobbin",
+                    "score_update": "1 - 3",
+                    "team": "Preston North End",
+                    "time": "61'"
+                },
+                {
+                    "assist": "C. O'Hare",
+                    "event_type": "Goal",
+                    "player": "P. Bamford",
+                    "score_update": "2 - 3",
+                    "team": "Sheffield United",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Iversen",
+                    "team": "Preston North End",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sheffield United 2 - 3 Preston North End"
+                        }
+                    ],
+                    "team": "Preston North End"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sheffield United 2 - 3 Preston North End"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "24/10/2025",
+                        "teams_and_score": "Preston North End 3 - 2 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "08/03/2025",
+                        "teams_and_score": "Sheffield United 1 - 0 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "29/04/2023",
+                        "teams_and_score": "Sheffield United 4 - 1 Preston North End"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "18/01/2022",
+                        "teams_and_score": "Preston North End 2 - 2 Sheffield United"
+                    },
+                    {
+                        "competition": "Club Friendlies 2020",
+                        "date": "04/09/2020",
+                        "teams_and_score": "Sheffield United 2 - 2 Preston North End"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "06/04/2019",
+                        "teams_and_score": "Preston North End 0 - 1 Sheffield United"
+                    }
+                ],
+                "summary": {
+                    "Preston North End_wins": "1",
+                    "Sheffield United_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Preston North End": "31%",
+                    "Sheffield United": "69%"
+                },
+                "corners": {
+                    "Preston North End": "5",
+                    "Sheffield United": "10"
+                },
+                "crosses": {
+                    "Preston North End": "4",
+                    "Sheffield United": "8"
+                },
+                "fouls": {
+                    "Preston North End": "11",
+                    "Sheffield United": "12"
+                },
+                "goalkeeper_saves": {
+                    "Preston North End": "1",
+                    "Sheffield United": "3"
+                },
+                "offsides": {
+                    "Preston North End": "0",
+                    "Sheffield United": "3"
+                },
+                "shots_blocked": {
+                    "Preston North End": "4",
+                    "Sheffield United": "7"
+                },
+                "shots_off_target": {
+                    "Preston North End": "2",
+                    "Sheffield United": "7"
+                },
+                "shots_on_target": {
+                    "Preston North End": "6",
+                    "Sheffield United": "3"
+                },
+                "yellow_cards": {
+                    "Preston North End": "3",
+                    "Sheffield United": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sheffield-united-vs-preston-north-end-2026-04-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/25148.webp",
+                    "name": "Preston North End",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-vs-preston-north-end-2026-04-25-EIEL.webp",
+            "title": "Sheffield United vs Preston North End"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 22, 2026",
+            "description": "Watch Sheffield United vs Sheffield Wednesday highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 22, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sheffield-united-vs-sheffield-wednesday-2026-02-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-vs-sheffield-wednesday-2026-02-22-hfS2.webp",
+            "title": "Sheffield United vs Sheffield Wednesday"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Apr 3, 2026",
+            "description": "Watch Sheffield United vs Swansea City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on April 3, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sheffield-united-vs-swansea-city-2026-04-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-vs-swansea-city-2026-04-03-DEgg.webp",
+            "title": "Sheffield United vs Swansea City"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 7, 2026",
+            "description": "Watch Sheffield United vs West Bromwich Albion highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 7, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Riedewald",
+                    "team": "Sheffield United",
+                    "time": "47'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Campbell",
+                    "team": "Sheffield United",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Taylor",
+                    "team": "West Bromwich Albion",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Campbell",
+                    "score_update": "1 - 1",
+                    "team": "West Bromwich Albion",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Hamer",
+                    "team": "Sheffield United",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "07/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Sheffield United 1 - 1 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "14/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Norwich City 3 - 1 West Bromwich Albion"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Birmingham City 0 - 0 West Bromwich Albion"
+                        }
+                    ],
+                    "team": "West Bromwich Albion"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "07/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Sheffield United 1 - 1 West Bromwich Albion"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "12/12/2025",
+                        "teams_and_score": "West Bromwich Albion 2 - 0 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "29/12/2024",
+                        "teams_and_score": "Sheffield United 1 - 1 West Bromwich Albion"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "26/04/2023",
+                        "teams_and_score": "Sheffield United 2 - 0 West Bromwich Albion"
+                    },
+                    {
+                        "competition": "EFL Cup 22/23",
+                        "date": "11/08/2022",
+                        "teams_and_score": "West Bromwich Albion 1 - 0 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship 21/22",
+                        "date": "09/02/2022",
+                        "teams_and_score": "Sheffield United 2 - 0 West Bromwich Albion"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "02/02/2021",
+                        "teams_and_score": "Sheffield United 2 - 1 West Bromwich Albion"
+                    }
+                ],
+                "summary": {
+                    "Sheffield United_wins": "3",
+                    "West Bromwich Albion_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Sheffield United": "64%",
+                    "West Bromwich Albion": "36%"
+                },
+                "corners": {
+                    "Sheffield United": "5",
+                    "West Bromwich Albion": "7"
+                },
+                "crosses": {
+                    "Sheffield United": "3",
+                    "West Bromwich Albion": "5"
+                },
+                "fouls": {
+                    "Sheffield United": "8",
+                    "West Bromwich Albion": "11"
+                },
+                "goalkeeper_saves": {
+                    "Sheffield United": "2",
+                    "West Bromwich Albion": "2"
+                },
+                "offsides": {
+                    "Sheffield United": "0",
+                    "West Bromwich Albion": "1"
+                },
+                "shots_blocked": {
+                    "Sheffield United": "6",
+                    "West Bromwich Albion": "3"
+                },
+                "shots_off_target": {
+                    "Sheffield United": "5",
+                    "West Bromwich Albion": "6"
+                },
+                "shots_on_target": {
+                    "Sheffield United": "2",
+                    "West Bromwich Albion": "3"
+                },
+                "yellow_cards": {
+                    "Sheffield United": "2",
+                    "West Bromwich Albion": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sheffield-united-vs-west-bromwich-albion-2026-03-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15432.webp",
+                    "name": "West Bromwich Albion",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-vs-west-bromwich-albion-2026-03-07-mb3o.webp",
+            "title": "Sheffield United vs West Bromwich Albion"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 21, 2026",
+            "description": "Watch Sheffield United vs Wrexham highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 21, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "A. Brooks",
+                    "score_update": "1 - 0",
+                    "team": "Sheffield United",
+                    "time": "46'"
+                },
+                {
+                    "assist": "S. Smith",
+                    "event_type": "Goal",
+                    "player": "J. Windass",
+                    "score_update": "1 - 1",
+                    "team": "Wrexham",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Dobson",
+                    "team": "Wrexham",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Riedewald",
+                    "team": "Sheffield United",
+                    "time": "91'"
+                },
+                {
+                    "assist": "I. Kaboré",
+                    "event_type": "Goal",
+                    "player": "S. Smith",
+                    "score_update": "1 - 2",
+                    "team": "Wrexham",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Smith",
+                    "team": "Wrexham",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Doyle",
+                    "team": "Wrexham",
+                    "time": "136'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sheffield United 1 - 2 Wrexham"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Wrexham 2 - 4 Chelsea"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlton Athletic 0 - 1 Wrexham"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Wrexham 1 - 0 Ipswich Town"
+                        }
+                    ],
+                    "team": "Wrexham"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Sheffield United 1 - 2 Wrexham"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "26/12/2025",
+                        "teams_and_score": "Wrexham 5 - 3 Sheffield United"
+                    },
+                    {
+                        "competition": "EFL Cup: Round 1 24/25",
+                        "date": "13/08/2024",
+                        "teams_and_score": "Sheffield United 4 - 2 Wrexham"
+                    },
+                    {
+                        "competition": "FA Cup: Round 4 22/23",
+                        "date": "07/02/2023",
+                        "teams_and_score": "Sheffield United 3 - 1 Wrexham"
+                    },
+                    {
+                        "competition": "League Cup",
+                        "date": "21/09/2004",
+                        "teams_and_score": "Wrexham 2 - 3 Sheffield United"
+                    }
+                ],
+                "summary": {
+                    "Sheffield United_wins": "3",
+                    "Wrexham_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Sheffield United": "60%",
+                    "Wrexham": "40%"
+                },
+                "corners": {
+                    "Sheffield United": "8",
+                    "Wrexham": "5"
+                },
+                "crosses": {
+                    "Sheffield United": "3",
+                    "Wrexham": "4"
+                },
+                "fouls": {
+                    "Sheffield United": "6",
+                    "Wrexham": "10"
+                },
+                "goalkeeper_saves": {
+                    "Sheffield United": "2",
+                    "Wrexham": "6"
+                },
+                "offsides": {
+                    "Sheffield United": "2",
+                    "Wrexham": "3"
+                },
+                "shots_blocked": {
+                    "Sheffield United": "5",
+                    "Wrexham": "3"
+                },
+                "shots_off_target": {
+                    "Sheffield United": "8",
+                    "Wrexham": "3"
+                },
+                "shots_on_target": {
+                    "Sheffield United": "7",
+                    "Wrexham": "4"
+                },
+                "yellow_cards": {
+                    "Sheffield United": "1",
+                    "Wrexham": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sheffield-united-vs-wrexham-2026-03-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1837.webp",
+                    "name": "Wrexham",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-vs-wrexham-2026-03-21-U5dg.webp",
+            "title": "Sheffield United vs Wrexham"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 21, 2026",
+            "description": "Watch Sheffield United vs Wrexham highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 21, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "A. Brooks",
+                    "score_update": "1 - 0",
+                    "team": "Sheffield United",
+                    "time": "46'"
+                },
+                {
+                    "assist": "S. Smith",
+                    "event_type": "Goal",
+                    "player": "J. Windass",
+                    "score_update": "1 - 1",
+                    "team": "Wrexham",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Dobson",
+                    "team": "Wrexham",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Riedewald",
+                    "team": "Sheffield United",
+                    "time": "91'"
+                },
+                {
+                    "assist": "I. Kaboré",
+                    "event_type": "Goal",
+                    "player": "S. Smith",
+                    "score_update": "1 - 2",
+                    "team": "Wrexham",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Smith",
+                    "team": "Wrexham",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Doyle",
+                    "team": "Wrexham",
+                    "time": "136'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sheffield United 1 - 2 Wrexham"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Wrexham 2 - 4 Chelsea"
+                        },
+                        {
+                            "competition": "Championship",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlton Athletic 0 - 1 Wrexham"
+                        },
+                        {
+                            "competition": "FA Cup: Round 4",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Wrexham 1 - 0 Ipswich Town"
+                        }
+                    ],
+                    "team": "Wrexham"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Sheffield United 1 - 2 Wrexham"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "26/12/2025",
+                        "teams_and_score": "Wrexham 5 - 3 Sheffield United"
+                    },
+                    {
+                        "competition": "EFL Cup: Round 1 24/25",
+                        "date": "13/08/2024",
+                        "teams_and_score": "Sheffield United 4 - 2 Wrexham"
+                    },
+                    {
+                        "competition": "FA Cup: Round 4 22/23",
+                        "date": "07/02/2023",
+                        "teams_and_score": "Sheffield United 3 - 1 Wrexham"
+                    },
+                    {
+                        "competition": "League Cup",
+                        "date": "21/09/2004",
+                        "teams_and_score": "Wrexham 2 - 3 Sheffield United"
+                    }
+                ],
+                "summary": {
+                    "Sheffield United_wins": "3",
+                    "Wrexham_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Sheffield United": "60%",
+                    "Wrexham": "40%"
+                },
+                "corners": {
+                    "Sheffield United": "8",
+                    "Wrexham": "5"
+                },
+                "crosses": {
+                    "Sheffield United": "3",
+                    "Wrexham": "4"
+                },
+                "fouls": {
+                    "Sheffield United": "6",
+                    "Wrexham": "10"
+                },
+                "goalkeeper_saves": {
+                    "Sheffield United": "2",
+                    "Wrexham": "6"
+                },
+                "offsides": {
+                    "Sheffield United": "2",
+                    "Wrexham": "3"
+                },
+                "shots_blocked": {
+                    "Sheffield United": "5",
+                    "Wrexham": "3"
+                },
+                "shots_off_target": {
+                    "Sheffield United": "8",
+                    "Wrexham": "3"
+                },
+                "shots_on_target": {
+                    "Sheffield United": "7",
+                    "Wrexham": "4"
+                },
+                "yellow_cards": {
+                    "Sheffield United": "1",
+                    "Wrexham": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sheffield-united-wrexham-2026-03-21-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1837.webp",
+                    "name": "Wrexham",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-wrexham-2026-03-21-vn-y2Qy.webp",
+            "title": "sheffield united - wrexham"
+        },
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Apr 18, 2026",
+            "description": "Watch Watford vs Sheffield United highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on April 18, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Louza",
+                    "team": "Watford",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Bamford",
+                    "score_update": "0 - 1",
+                    "team": "Sheffield United",
+                    "time": "50'"
+                },
+                {
+                    "assist": "F. Seriki",
+                    "event_type": "Goal",
+                    "player": "P. Bamford",
+                    "score_update": "0 - 2",
+                    "team": "Sheffield United",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Hamer",
+                    "team": "Sheffield United",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Ings",
+                    "team": "Sheffield United",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Peck",
+                    "team": "Sheffield United",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Chong",
+                    "team": "Sheffield United",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Pollock",
+                    "team": "Watford",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Watford 0 - 2 Sheffield United"
+                        }
+                    ],
+                    "team": "Sheffield United"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Championship",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Watford 0 - 2 Sheffield United"
+                        }
+                    ],
+                    "team": "Watford"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Championship",
+                        "date": "18/10/2025",
+                        "teams_and_score": "Sheffield United 1 - 0 Watford"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "04/01/2025",
+                        "teams_and_score": "Watford 1 - 2 Sheffield United"
+                    },
+                    {
+                        "competition": "Championship 22/23",
+                        "date": "25/02/2023",
+                        "teams_and_score": "Sheffield United 1 - 0 Watford"
+                    },
+                    {
+                        "competition": "Premier League 19/20",
+                        "date": "26/12/2019",
+                        "teams_and_score": "Sheffield United 1 - 1 Watford"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "12/03/2011",
+                        "teams_and_score": "Watford 3 - 0 Sheffield United"
+                    }
+                ],
+                "summary": {
+                    "Sheffield United_wins": "3",
+                    "Watford_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Sheffield United": "47%",
+                    "Watford": "53%"
+                },
+                "corners": {
+                    "Sheffield United": "5",
+                    "Watford": "8"
+                },
+                "crosses": {
+                    "Sheffield United": "5",
+                    "Watford": "6"
+                },
+                "fouls": {
+                    "Sheffield United": "9",
+                    "Watford": "11"
+                },
+                "goalkeeper_saves": {
+                    "Sheffield United": "3",
+                    "Watford": "3"
+                },
+                "offsides": {
+                    "Sheffield United": "1",
+                    "Watford": "1"
+                },
+                "shots_blocked": {
+                    "Sheffield United": "3",
+                    "Watford": "4"
+                },
+                "shots_off_target": {
+                    "Sheffield United": "3",
+                    "Watford": "7"
+                },
+                "shots_on_target": {
+                    "Sheffield United": "5",
+                    "Watford": "3"
+                },
+                "yellow_cards": {
+                    "Sheffield United": "4",
+                    "Watford": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/watford-vs-sheffield-united-2026-04-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15407.webp",
+                    "name": "Sheffield United",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/38.webp",
+                    "name": "Watford",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/watford-vs-sheffield-united-2026-04-18-u1b1.webp",
+            "title": "Watford vs Sheffield United"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "team": "Austria W",
+    "team_logo": "https://img.refooty.com/logo/teams/14458.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Jun 9, 2026",
+            "description": "Watch Norway W vs Austria W highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on June 9, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "T. Bjelde",
+                    "score_update": "1 - 0",
+                    "team": "Norway W",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. G. Hansen",
+                    "score_update": "2 - 0",
+                    "team": "Norway W",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Dunst",
+                    "score_update": "2 - 1",
+                    "team": "Austria W",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. G. Hansen",
+                    "score_update": "2 - 1",
+                    "team": "Norway W",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "UEFA Qualification: Group A4",
+                            "date": "09/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Norway Women 2 - 1 Austria Women"
+                        },
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "01/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Ukraine Women 3 - 2 Austria Women"
+                        },
+                        {
+                            "competition": "League A: Qualification Play-off",
+                            "date": "28/10/2025",
+                            "result": "W",
+                            "teams_and_score": "Austria Women 2 - 0 Czechia Women"
+                        }
+                    ],
+                    "team": "Austria W"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "UEFA Qualification: Group A4",
+                            "date": "09/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Norway Women 2 - 1 Austria Women"
+                        },
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "01/12/2025",
+                            "result": "D",
+                            "teams_and_score": "Denmark Women 0 - 0 Norway Women"
+                        },
+                        {
+                            "competition": "Quarter-Finals",
+                            "date": "16/07/2025",
+                            "result": "L",
+                            "teams_and_score": "Norway Women 1 - 2 Italy Women"
+                        }
+                    ],
+                    "team": "Norway W"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA Qualification: Group A4",
+                        "date": "03/03/2026",
+                        "teams_and_score": "Austria Women 0 - 1 Norway Women"
+                    },
+                    {
+                        "competition": "League A: Group 2 23/24",
+                        "date": "05/12/2023",
+                        "teams_and_score": "Austria Women 2 - 1 Norway Women"
+                    },
+                    {
+                        "competition": "Group A 2022",
+                        "date": "15/07/2022",
+                        "teams_and_score": "Austria Women 1 - 0 Norway Women"
+                    },
+                    {
+                        "competition": "Women's EURO Qualification Grp. H",
+                        "date": "02/06/2016",
+                        "teams_and_score": "Norway Women 2 - 2 Austria Women"
+                    },
+                    {
+                        "competition": "Algarve Cup Final Stage",
+                        "date": "11/03/2009",
+                        "teams_and_score": "Austria Women 0 - 2 Norway Women"
+                    }
+                ],
+                "summary": {
+                    "Austria W_wins": "2",
+                    "Norway W_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/norway-w-vs-austria-w-2026-06-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/14458.webp",
+                    "name": "Austria W",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/23625.webp",
+                    "name": "Norway W",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/norway-w-vs-austria-w-2026-06-09-NTZv.webp",
+            "title": "Norway W vs Austria W"
+        }
+    ]
+}

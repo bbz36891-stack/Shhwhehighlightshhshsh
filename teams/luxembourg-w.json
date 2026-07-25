@@ -1,0 +1,203 @@
+{
+    "team": "Luxembourg W",
+    "team_logo": "https://img.refooty.com/logo/teams/17963.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Jun 5, 2026",
+            "description": "Watch Belgium W vs Luxembourg W highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on June 5, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "T. Wullaert",
+                    "score_update": "0 - 1",
+                    "team": "Luxembourg W",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Tysiak",
+                    "score_update": "0 - 2",
+                    "team": "Luxembourg W",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Detruyer",
+                    "score_update": "0 - 3",
+                    "team": "Luxembourg W",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Tysiak",
+                    "score_update": "0 - 4",
+                    "team": "Luxembourg W",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "H. Eurlings",
+                    "score_update": "0 - 5",
+                    "team": "Luxembourg W",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Iliano",
+                    "score_update": "0 - 6",
+                    "team": "Luxembourg W",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "H. Eurlings",
+                    "score_update": "0 - 7",
+                    "team": "Luxembourg W",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "UEFA Qualification: Group B4",
+                            "date": "09/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Luxembourg W 0 - 7 Belgium Women"
+                        },
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "01/12/2025",
+                            "result": "D",
+                            "teams_and_score": "Finland Women 1 - 1 Belgium Women"
+                        },
+                        {
+                            "competition": "League A: Qualification Play-off",
+                            "date": "28/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Belgium Women 2 - 1 Ireland Women"
+                        }
+                    ],
+                    "team": "Luxembourg W"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "UEFA Qualification: Group B4",
+                            "date": "09/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Luxembourg W 0 - 7 Belgium Women"
+                        },
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "01/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Cyprus Women 0 - 3 Luxembourg W"
+                        },
+                        {
+                            "competition": "League C: Group 3",
+                            "date": "03/06/2025",
+                            "result": "W",
+                            "teams_and_score": "Kazakhstan W 1 - 3 Luxembourg W"
+                        }
+                    ],
+                    "team": "Belgium W"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA Qualification: Group B4",
+                        "date": "05/06/2026",
+                        "teams_and_score": "Belgium Women 6 - 0 Luxembourg W"
+                    },
+                    {
+                        "competition": "Women's Friendlies",
+                        "date": "28/06/2022",
+                        "teams_and_score": "Belgium Women 6 - 1 Luxembourg W"
+                    },
+                    {
+                        "competition": "Women's Friendlies",
+                        "date": "12/06/2021",
+                        "teams_and_score": "Luxembourg W 0 - 1 Belgium Women"
+                    }
+                ],
+                "summary": {
+                    "Belgium W_wins": "3",
+                    "Luxembourg W_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Belgium W": "29%",
+                    "Luxembourg W": "71%"
+                },
+                "corners": {
+                    "Belgium W": "2",
+                    "Luxembourg W": "12"
+                },
+                "fouls": {
+                    "Belgium W": "10",
+                    "Luxembourg W": "8"
+                },
+                "goalkeeper_saves": {
+                    "Belgium W": "6",
+                    "Luxembourg W": "2"
+                },
+                "offsides": {
+                    "Belgium W": "2",
+                    "Luxembourg W": "6"
+                },
+                "shots_blocked": {
+                    "Belgium W": "1",
+                    "Luxembourg W": "7"
+                },
+                "shots_off_target": {
+                    "Belgium W": "2",
+                    "Luxembourg W": "9"
+                },
+                "shots_on_target": {
+                    "Belgium W": "2",
+                    "Luxembourg W": "14"
+                },
+                "yellow_cards": {
+                    "Belgium W": "4",
+                    "Luxembourg W": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/belgium-w-vs-luxembourg-w-2026-06-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/17963.webp",
+                    "name": "Luxembourg W",
+                    "score": "7"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1777.webp",
+                    "name": "Belgium W",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/belgium-w-vs-luxembourg-w-2026-06-05-avOP.webp",
+            "title": "Belgium W vs Luxembourg W"
+        }
+    ]
+}

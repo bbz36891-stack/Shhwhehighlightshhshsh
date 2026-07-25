@@ -1,0 +1,42 @@
+{
+    "team": "Scunthorpe",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 8, 2026",
+            "description": "Watch Scunthorpe vs Southend highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 8, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/scunthorpe-vs-southend-2026-02-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/scunthorpe-vs-southend-2026-02-08-5Vs3.webp",
+            "title": "Scunthorpe vs Southend"
+        }
+    ]
+}

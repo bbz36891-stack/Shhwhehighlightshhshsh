@@ -1,0 +1,302 @@
+{
+    "team": "Portugal U20",
+    "team_logo": "",
+    "total_matches": 4,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 3, 2026",
+            "description": "Watch Japan U20 vs Portugal U20 highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 3, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/japan-u20-vs-portugal-u20-2026-06-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/japan-u20-vs-portugal-u20-2026-06-03-eTDP.webp",
+            "title": "Japan U20 vs Portugal U20"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 6, 2026",
+            "description": "Watch Portugal U20 vs Ivory Coast highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 6, 2026. Two heavyweights of international football met for a high-stakes friendly that tested the depth and tactical flexibility of both squads. Fans at the stadium witnessed a clash of styles as momentum shifted dramatically across ninety minutes of action. French Dominance and the Opening Goal On June 6, 2026 , France and Ivory Coast faced off in a highly anticipated friendly match. The early exchanges saw the French side looking to impose their rhythm, with Marcus Thuram and Adrien Rabiot testing the defense early on. Kylian Mbappe was a constant threat, and Aurelien Tchouameni nearly broke the deadlock with a header that was well saved by Yahia Fofana . The breakthrough finally arrived in the 45th minute when Rayan Cherki found the back of the net with a clinical right-footed finish following an assist from Ibrahima Konate . Tactical Shifts and the Ivorian Response The second half began with a flurry of tactical changes. France opted for a wholesale rotation, bringing on the likes of Jean-Philippe Mateta , N'Golo Kante , and Lucas Digne . Ivory Coast also refreshed their lineup, introducing Amad Diallo and Nicolas Pepe . These changes bore fruit almost immediately. In the 53rd minute, Nicolas Pepe turned provider for Guela Doue , who struck a powerful shot to level the scores and silence the home crowd. Late Drama and the Decisive Strike As the clock ticked down, both teams pushed for a winner, though several attacks were halted by the offside flag. Maghnes Akliouche tried to create openings from set pieces, but the Ivorian defense held firm. The decisive moment came in the 84th minute. Guela Doue turned from scorer to creator, setting up Amad Diallo for a composed finish that put the visitors ahead. Despite late pressure and five minutes of added time, including a wayward corner from Lucas Digne , Ivory Coast maintained their discipline to secure a 2-1 victory over the hosts in a game defined by their clinical second-half performance.",
+            "events_timeline": [
+                {
+                    "assist": "I. Konaté",
+                    "event_type": "Goal",
+                    "player": "R. Cherki",
+                    "score_update": "1 - 0",
+                    "team": "Portugal U20",
+                    "time": "45'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Kessié",
+                    "team": "Ivory Coast",
+                    "time": "45+1'"
+                },
+                {
+                    "assist": "N. Pepe",
+                    "event_type": "Goal",
+                    "player": "G. Doué",
+                    "score_update": "1 - 1",
+                    "team": "Ivory Coast",
+                    "time": "46'"
+                },
+                {
+                    "assist": "G. Doué",
+                    "event_type": "Goal",
+                    "player": "A. Diallo",
+                    "score_update": "1 - 2",
+                    "team": "Ivory Coast",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "04/06/2026",
+                            "result": "W",
+                            "teams_and_score": "France 1 - 2 Ivory Coast"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "28/03/2026",
+                            "result": "W",
+                            "teams_and_score": "South Korea 0 - 4 Ivory Coast"
+                        },
+                        {
+                            "competition": "Quarter-Finals",
+                            "date": "10/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Egypt 3 - 2 Ivory Coast"
+                        },
+                        {
+                            "competition": "Round of 16",
+                            "date": "06/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Ivory Coast 3 - 0 Burkina Faso"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "31/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Gabon 2 - 3 Ivory Coast"
+                        }
+                    ],
+                    "team": "Ivory Coast"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "04/06/2026",
+                            "result": "W",
+                            "teams_and_score": "France 1 - 2 Ivory Coast"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group D",
+                            "date": "16/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Azerbaijan 1 - 3 France"
+                        },
+                        {
+                            "competition": "League A: Play-off",
+                            "date": "08/06/2025",
+                            "result": "W",
+                            "teams_and_score": "Germany 0 - 2 France"
+                        }
+                    ],
+                    "team": "Portugal U20"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "King's Cup 2022",
+                        "date": "25/03/2022",
+                        "teams_and_score": "France 2 - 1 Ivory Coast"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "15/11/2016",
+                        "teams_and_score": "France 0 - 0 Ivory Coast"
+                    }
+                ],
+                "summary": {
+                    "Ivory Coast_wins": "1",
+                    "Portugal U20_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Ivory Coast": "41%",
+                    "Portugal U20": "59%"
+                },
+                "corners": {
+                    "Ivory Coast": "2",
+                    "Portugal U20": "8"
+                },
+                "crosses": {
+                    "Ivory Coast": "10",
+                    "Portugal U20": "22"
+                },
+                "fouls": {
+                    "Ivory Coast": "9",
+                    "Portugal U20": "8"
+                },
+                "goalkeeper_saves": {
+                    "Ivory Coast": "4",
+                    "Portugal U20": "2"
+                },
+                "offsides": {
+                    "Ivory Coast": "3",
+                    "Portugal U20": "3"
+                },
+                "shots_blocked": {
+                    "Ivory Coast": "0",
+                    "Portugal U20": "2"
+                },
+                "shots_off_target": {
+                    "Ivory Coast": "3",
+                    "Portugal U20": "6"
+                },
+                "shots_on_target": {
+                    "Ivory Coast": "4",
+                    "Portugal U20": "5"
+                },
+                "yellow_cards": {
+                    "Ivory Coast": "1",
+                    "Portugal U20": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/portugal-u20-vs-ivory-coast-2026-06-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1501.webp",
+                    "name": "Ivory Coast",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10299.webp",
+                    "name": "Portugal U20",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/portugal-u20-vs-ivory-coast-2026-06-06-1Scc.webp",
+            "title": "Portugal U20 vs Ivory Coast"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 13, 2026",
+            "description": "Watch Portugal U20 vs Tunisia U20 highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 13, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/portugal-u20-vs-tunisia-u20-2026-06-13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/portugal-u20-vs-tunisia-u20-2026-06-13-seKD.webp",
+            "title": "Portugal U20 vs Tunisia U20"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 8, 2026",
+            "description": "Watch Portugal U20 vs Venezuela U20 highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 8, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/portugal-u20-vs-venezuela-u20-2026-06-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/portugal-u20-vs-venezuela-u20-2026-06-08-8gfy.webp",
+            "title": "Portugal U20 vs Venezuela U20"
+        }
+    ]
+}

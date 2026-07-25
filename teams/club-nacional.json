@@ -1,0 +1,924 @@
+{
+    "team": "Club Nacional",
+    "team_logo": "https://img.refooty.com/logo/teams/2356.webp",
+    "total_matches": 6,
+    "matches": [
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 26, 2026",
+            "description": "Watch Club Nacional vs Coquimbo Unido highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 26, 2026. On May 26, 2026 , the CONMEBOL Libertadores played host to a gripping encounter defined by an early breakthrough and a dramatic shift in momentum. The atmosphere was electric as both sides sought to navigate the challenges of South America's premier club competition. Early Breakthrough and Rising Tension The match ignited in the 7th minute when Maximiliano Gomez found the back of the net, handing Club Nacional an early lead. His clinical finish forced Coquimbo Unido to abandon their defensive posture and search for a way back into the contest. The physical nature of the game became apparent early on, with Dylan Glaby receiving a yellow card in the 12th minute as he attempted to break up the opposition's fluid attacking moves. Red Card Drama Shakes the Stadium As the first half entered stoppage time on this May 26, 2026 evening, the match took a chaotic turn. Agustin Rogel was cautioned in the 45+3rd minute, but the most significant incident occurred moments earlier. In the 45+1st minute, Tomas Viera was shown a straight red card, sparking heavy protests from his teammates. This dismissal left Nacional with a numerical disadvantage for the entirety of the second half, forcing a tactical overhaul during the break. Tactical Adjustments and Defensive Grit The second half saw a flurry of activity on the benches. Club Nacional introduced Emiliano Ancheta , Mateo Barcia , and goalkeeper Ignacio Suarez to fortify their lines. Coquimbo Unido pushed forward to capitalize on their extra man, but the match became a fragmented affair characterized by tactical fouls. Manuel Fernandez and Benjamin Gazzolo were both shown yellow cards as the visitors struggled to break through a resilient defensive block. A Frantic Finish In the closing stages, the intensity remained high as both managers utilized their substitutes. Luis Riveros and Alejandro Azocar were brought on to provide fresh energy for the visitors' attack. Deep into injury time, Lucas Pratto was booked as the frustration of the chase began to show. Despite six minutes of added time and relentless pressure, the match concluded with the early goal and the first-half red card remaining the defining moments of a fierce continental battle.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Gómez",
+                    "score_update": "1 - 0",
+                    "team": "Club Nacional",
+                    "time": "7'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. E. Glaby",
+                    "team": "Coquimbo Unido",
+                    "time": "12'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "T. Viera",
+                    "team": "Club Nacional",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Rogel",
+                    "team": "Club Nacional",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Fernandez",
+                    "team": "Coquimbo Unido",
+                    "time": "49'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Gazzolo",
+                    "team": "Coquimbo Unido",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Pratto",
+                    "team": "Coquimbo Unido",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group B",
+                            "date": "27/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Nacional 1 - 0 Coquimbo Unido"
+                        },
+                        {
+                            "competition": "Primera División",
+                            "date": "22/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Everton CD 1 - 1 Coquimbo Unido"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "19/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Coquimbo Unido 3 - 0 Tolima"
+                        },
+                        {
+                            "competition": "Primera División",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Coquimbo Unido 3 - 0 Audax Italiano"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "08/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Coquimbo Unido 2 - 1 Universitario de Deportes"
+                        }
+                    ],
+                    "team": "Coquimbo Unido"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group B",
+                            "date": "27/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Nacional 1 - 0 Coquimbo Unido"
+                        },
+                        {
+                            "competition": "Primera División: Intermedio Group B",
+                            "date": "23/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Nacional 1 - 0 Albion"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Nacional 0 - 0 Universitario de Deportes"
+                        },
+                        {
+                            "competition": "Primera División: Intermedio Group B",
+                            "date": "15/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Montevideo City Torque 1 - 2 Nacional"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Nacional 4 - 0 Cerro"
+                        }
+                    ],
+                    "team": "Club Nacional"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group B",
+                        "date": "08/04/2026",
+                        "teams_and_score": "Coquimbo Unido 1 - 1 Nacional"
+                    }
+                ],
+                "summary": {
+                    "Club Nacional_wins": "0",
+                    "Coquimbo Unido_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Club Nacional": "33%",
+                    "Coquimbo Unido": "67%"
+                },
+                "corners": {
+                    "Club Nacional": "2",
+                    "Coquimbo Unido": "8"
+                },
+                "fouls": {
+                    "Club Nacional": "11",
+                    "Coquimbo Unido": "16"
+                },
+                "goalkeeper_saves": {
+                    "Club Nacional": "3",
+                    "Coquimbo Unido": "2"
+                },
+                "offsides": {
+                    "Club Nacional": "0",
+                    "Coquimbo Unido": "1"
+                },
+                "red_cards": {
+                    "Club Nacional": "1",
+                    "Coquimbo Unido": "0"
+                },
+                "shots_off_target": {
+                    "Club Nacional": "3",
+                    "Coquimbo Unido": "3"
+                },
+                "shots_on_target": {
+                    "Club Nacional": "3",
+                    "Coquimbo Unido": "3"
+                },
+                "yellow_cards": {
+                    "Club Nacional": "1",
+                    "Coquimbo Unido": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/club-nacional-vs-coquimbo-unido-2026-05-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2330.webp",
+                    "name": "Coquimbo Unido",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2356.webp",
+                    "name": "Club Nacional",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/club-nacional-vs-coquimbo-unido-2026-05-26-BWsK.webp",
+            "title": "Club Nacional vs Coquimbo Unido"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 14, 2026",
+            "description": "Watch Club Nacional vs Deportes Tolima highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/club-nacional-vs-deportes-tolima-2026-04-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/club-nacional-vs-deportes-tolima-2026-04-14-6Zug.webp",
+            "title": "Club Nacional vs Deportes Tolima"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 20, 2026",
+            "description": "Watch Club Nacional vs Universitario highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 20, 2026. The stage was set for a classic South American encounter, bringing together two teams with rich histories and high aspirations. Both sides displayed immense tactical discipline from the first whistle, prioritizing defensive solidity in a high-stakes environment. Early Setbacks and Tactical Grinding On May 20, 2026 , Club Nacional hosted Universitario in a hard-fought CONMEBOL Libertadores fixture. The match took an unexpected turn early on when Lucas Rodriguez was forced off due to an injury in the 11th minute, making way for Luciano Boggio . This early disruption forced the hosts to recalibrate their midfield balance. As the game progressed into a physical battle, Cain Jair Fara received the first booking of the match in the 41st minute, reflecting the rising tension as both teams struggled to find a breakthrough before the interval. Second Half Adjustments and the Search for a Winner The second half saw both managers turn to their benches to inject fresh energy into the game. Club Nacional introduced Nicolas Lopez immediately after the break, followed by the attacking presence of Gonzalo Carneiro in the 70th minute. Universitario countered these moves with a significant triple substitution in the 81st minute, bringing on the experienced Edison Flores and Jorge Murrugarra to stabilize the side. The tactical chess match continued into the closing stages, with Sekou Gassama making a late appearance for the visitors in stoppage time. Despite the flurry of tactical changes and seven minutes of added time, neither side could find the decisive touch to claim all three points. When the referee finally blew the whistle at 90+7', the score remained locked at 0-0. It was a performance defined by defensive resilience and tactical awareness, leaving both teams with a hard-earned point in their continental campaign.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Fara",
+                    "team": "Universitario",
+                    "time": "1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group B",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Nacional 0 - 0 Universitario de Deportes"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Universitario de Deportes 0 - 1 Atletico Grau"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "08/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Coquimbo Unido 2 - 1 Universitario de Deportes"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "ADC Juan Pablo II 1 - 4 Universitario de Deportes"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "30/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Universitario de Deportes 4 - 2 Nacional"
+                        }
+                    ],
+                    "team": "Universitario"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group B",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Nacional 0 - 0 Universitario de Deportes"
+                        },
+                        {
+                            "competition": "Primera División: Intermedio Group B",
+                            "date": "15/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Montevideo City Torque 1 - 2 Nacional"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Nacional 4 - 0 Cerro"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "07/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Tolima 3 - 0 Nacional"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Albion 3 - 2 Nacional"
+                        }
+                    ],
+                    "team": "Club Nacional"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group B",
+                        "date": "30/04/2026",
+                        "teams_and_score": "Universitario de Deportes 4 - 2 Nacional"
+                    },
+                    {
+                        "competition": "Copa Libertadores Playoff",
+                        "date": "16/04/2003",
+                        "teams_and_score": "Universitario de Deportes 2 - 2 Nacional"
+                    }
+                ],
+                "summary": {
+                    "Club Nacional_wins": "0",
+                    "Universitario_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Club Nacional": "49%",
+                    "Universitario": "51%"
+                },
+                "corners": {
+                    "Club Nacional": "7",
+                    "Universitario": "5"
+                },
+                "fouls": {
+                    "Club Nacional": "6",
+                    "Universitario": "4"
+                },
+                "goalkeeper_saves": {
+                    "Club Nacional": "3",
+                    "Universitario": "5"
+                },
+                "shots_off_target": {
+                    "Club Nacional": "4",
+                    "Universitario": "5"
+                },
+                "shots_on_target": {
+                    "Club Nacional": "5",
+                    "Universitario": "3"
+                },
+                "yellow_cards": {
+                    "Club Nacional": "0",
+                    "Universitario": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/club-nacional-vs-universitario-2026-05-20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2540.webp",
+                    "name": "Universitario",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2356.webp",
+                    "name": "Club Nacional",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/club-nacional-vs-universitario-2026-05-20-gUF1.webp",
+            "title": "Club Nacional vs Universitario"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 8, 2026",
+            "description": "Watch Coquimbo Unido vs Club Nacional highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 8, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/coquimbo-unido-vs-club-nacional-2026-04-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/coquimbo-unido-vs-club-nacional-2026-04-08-k3G9.webp",
+            "title": "Coquimbo Unido vs Club Nacional"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 7, 2026",
+            "description": "Watch Deportes Tolima vs Club Nacional highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 7, 2026. The stage was set for a classic CONMEBOL Libertadores encounter as two South American heavyweights collided in a match of immense tactical importance. Both teams took to the pitch with high ambitions, knowing that discipline and clinical finishing would be the deciding factors in this high-pressure environment. First Half Penalty Drama On May 7, 2026 , the match between Deportes Tolima and Club Nacional reached a fever pitch just before the interval. In a sequence of events that stunned the crowd, Club Nacional were awarded a penalty in the 45th minute, but Juan Pablo Torres failed to convert the chance, sending his effort wide. The momentum shifted instantly; moments later, Deportes Tolima earned a penalty of their own, and Luis Sandoval made no mistake, firing the ball home to give his side the lead. The emotional fallout of the opening goal led to a flurry of disciplinary actions. During a lengthy period of first-half stoppage time, yellow cards were shown to Tolima's Luis Sandoval , Brayan Rovira , and Edwar Lopez , while Sebastian Coates was booked for the visitors. The referee finally brought an end to an exhausting 59-minute opening period with the hosts holding a slim but vital advantage. Tactical Mastery and Late Goals In the second half, the game remained competitive until a series of substitutions by Deportes Tolima turned the tide decisively. In the 74th minute, the introduction of Jherson Mosquera and Jersson Gonzalez injected fresh energy into the attack. The tactical shift paid dividends almost immediately as Mosquera found the back of the net in the 78th minute, assisted by Gonzalez , effectively doubling the lead and putting the result beyond much doubt. As the clock wound down, the hosts added a final flourish to their dominant performance. In the 89th minute, Luis Sandoval turned provider, setting up Jersson Gonzalez for a well-deserved goal that capped off a brilliant night for the substitute. The final whistle confirmed a comprehensive victory for Deportes Tolima , who utilized their squad depth and home advantage to outclass a resilient but ultimately frustrated Club Nacional side.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "J. P. Torres",
+                    "score_update": "0 - 0",
+                    "team": "Deportes Tolima",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Sandoval",
+                    "score_update": "1 - 0",
+                    "team": "Deportes Tolima",
+                    "time": "45+7'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Sandoval",
+                    "team": "Deportes Tolima",
+                    "time": "45+8'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Rovira",
+                    "team": "Deportes Tolima",
+                    "time": "45+9'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Lopez",
+                    "team": "Deportes Tolima",
+                    "time": "45+10'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Coates",
+                    "team": "Club Nacional",
+                    "time": "45+10'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. A. d. S. Alvez",
+                    "team": "Club Nacional",
+                    "time": "46'"
+                },
+                {
+                    "assist": "J. Gonzalez",
+                    "event_type": "Goal",
+                    "player": "J. Mosquera",
+                    "score_update": "1 - 0",
+                    "team": "Deportes Tolima",
+                    "time": "61'"
+                },
+                {
+                    "assist": "L. Sandoval",
+                    "event_type": "Goal",
+                    "player": "J. Gonzalez",
+                    "score_update": "3 - 0",
+                    "team": "Deportes Tolima",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group B",
+                            "date": "07/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Tolima 3 - 0 Nacional"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Albion 3 - 2 Nacional"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "30/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Universitario de Deportes 4 - 2 Nacional"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Nacional 1 - 2 Danubio"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Nacional 3 - 1 Tolima"
+                        }
+                    ],
+                    "team": "Club Nacional"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group B",
+                            "date": "07/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Tolima 3 - 0 Nacional"
+                        },
+                        {
+                            "competition": "Primera A: Apertura",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Tolima 1 - 1 Deportivo Cali"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Tolima 3 - 0 Coquimbo Unido"
+                        },
+                        {
+                            "competition": "Primera A: Apertura",
+                            "date": "24/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Millonarios 2 - 0 Tolima"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Nacional 3 - 1 Tolima"
+                        }
+                    ],
+                    "team": "Deportes Tolima"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group B",
+                        "date": "14/04/2026",
+                        "teams_and_score": "Nacional 3 - 1 Tolima"
+                    }
+                ],
+                "summary": {
+                    "Club Nacional_wins": "1",
+                    "Deportes Tolima_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Club Nacional": "38%",
+                    "Deportes Tolima": "62%"
+                },
+                "corners": {
+                    "Club Nacional": "3",
+                    "Deportes Tolima": "10"
+                },
+                "fouls": {
+                    "Club Nacional": "5",
+                    "Deportes Tolima": "3"
+                },
+                "goalkeeper_saves": {
+                    "Club Nacional": "6",
+                    "Deportes Tolima": "2"
+                },
+                "offsides": {
+                    "Club Nacional": "1",
+                    "Deportes Tolima": "1"
+                },
+                "shots_off_target": {
+                    "Club Nacional": "4",
+                    "Deportes Tolima": "7"
+                },
+                "shots_on_target": {
+                    "Club Nacional": "2",
+                    "Deportes Tolima": "9"
+                },
+                "yellow_cards": {
+                    "Club Nacional": "2",
+                    "Deportes Tolima": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/deportes-tolima-vs-club-nacional-2026-05-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2356.webp",
+                    "name": "Club Nacional",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1142.webp",
+                    "name": "Deportes Tolima",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/deportes-tolima-vs-club-nacional-2026-05-07-uhfl.webp",
+            "title": "Deportes Tolima vs Club Nacional"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 29, 2026",
+            "description": "Watch Universitario vs Club Nacional highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 29, 2026. High stakes and an intense continental atmosphere defined the encounter between Universitario and Club Nacional in the CONMEBOL Libertadores . Both sides entered the pitch knowing that every tactical decision and individual error would be magnified under the floodlights of this prestigious tournament. Early Drama and the Red Card Turning Point The match, held on May 30, 2026 , ignited early in the first half when Club Nacional was awarded a penalty in the 14th minute. Maximiliano Gomez stepped up to the spot and clinically converted the chance, giving the visitors an early lead and silencing the home supporters. However, the physical nature of the contest soon became a major factor, with Cain Jair Fara and Lucas Rodriguez picking up early bookings. The defining moment of the first half arrived in the 35th minute when Rodriguez was shown his second yellow card, leaving Nacional to defend their lead with only ten men for the remainder of the evening. Universitario wasted little time in exploiting their numerical superiority. In the 40th minute, Jairo Concha provided a pinpoint assist for Cain Jair Fara , who made amends for his earlier booking by leveling the score. The momentum had shifted entirely, and the hosts headed into the break with the wind in their sails after a frantic opening 45 minutes. Second Half Surges and Tactical Shifts The second half began with a lightning strike from the home side. Only a minute after the restart, Alex Valera found the back of the net to put Universitario 2-1 ahead, completing a swift turnaround. Despite the setback and the man disadvantage, Club Nacional refused to collapse. Tactical substitutions saw the introduction of Maximiliano Silvera , and the move paid immediate dividends. In the 71st minute, Silvera stunned the stadium with an equalizer, dragging the ten-man Uruguayan side back into the game at 2-2. As the clock ticked down, the tension escalated, leading to further yellow cards for Luis Mejia and Jorge Murrugarra . Universitario manager responded by introducing Lisandro Alzugaray , a change that would prove decisive. In the 81st minute, Alzugaray struck a crucial goal to restore the lead for the hosts, sparking wild celebrations that earned him a yellow card just moments later. Stoppage Time Drama Seals the Win With Club Nacional pushing men forward in a desperate attempt to rescue a point, gaps inevitably opened in their defensive line. Universitario took full advantage of the tired visitors during the seven minutes of added time. In the 91st minute, Hector Fertoli turned provider, setting up Jose Carabali for a composed finish that made it 4-2. This final goal effectively ended the contest, ensuring that Universitario walked away with all three points. It was a match defined by resilience and clinical finishing, where the early dismissal of Lucas Rodriguez proved too heavy a burden for Nacional to overcome despite their spirited second-half comeback attempt.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Gómez",
+                    "score_update": "0 - 1",
+                    "team": "Club Nacional",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Fara",
+                    "team": "Universitario",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Rodriguez",
+                    "team": "Club Nacional",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "L. Rodriguez",
+                    "team": "Club Nacional",
+                    "time": "46'"
+                },
+                {
+                    "assist": "J. Concha",
+                    "event_type": "Goal",
+                    "player": "C. Fara",
+                    "score_update": "1 - 1",
+                    "team": "Universitario",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Gómez",
+                    "team": "Club Nacional",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Valera",
+                    "score_update": "2 - 1",
+                    "team": "Universitario",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Murrugarra",
+                    "team": "Universitario",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Silvera",
+                    "score_update": "2 - 2",
+                    "team": "Club Nacional",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Mejía",
+                    "team": "Club Nacional",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Alzugaray",
+                    "score_update": "3 - 2",
+                    "team": "Universitario",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Alzugaray",
+                    "team": "Universitario",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Castillo",
+                    "team": "Universitario",
+                    "time": "88'"
+                },
+                {
+                    "assist": "H. Fertoli",
+                    "event_type": "Goal",
+                    "player": "J. Carabali",
+                    "score_update": "4 - 2",
+                    "team": "Universitario",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group B",
+                            "date": "30/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Universitario de Deportes 4 - 2 Nacional"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Nacional 1 - 2 Danubio"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Nacional 3 - 1 Tolima"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo Maldonado 4 - 2 Nacional"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "08/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Coquimbo Unido 1 - 1 Nacional"
+                        }
+                    ],
+                    "team": "Club Nacional"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group B",
+                            "date": "30/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Universitario de Deportes 4 - 2 Nacional"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Universitario de Deportes 1 - 2 Alianza Atletico"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "15/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Universitario de Deportes 0 - 2 Coquimbo Unido"
+                        },
+                        {
+                            "competition": "Liga 1: Apertura",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Universitario de Deportes 1 - 0 Alianza Lima"
+                        }
+                    ],
+                    "team": "Universitario"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Copa Libertadores Playoff",
+                        "date": "16/04/2003",
+                        "teams_and_score": "Universitario de Deportes 2 - 2 Nacional"
+                    }
+                ],
+                "summary": {
+                    "Club Nacional_wins": "0",
+                    "Universitario_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Club Nacional": "44%",
+                    "Universitario": "56%"
+                },
+                "corners": {
+                    "Club Nacional": "5",
+                    "Universitario": "7"
+                },
+                "fouls": {
+                    "Club Nacional": "7",
+                    "Universitario": "15"
+                },
+                "goalkeeper_saves": {
+                    "Club Nacional": "4",
+                    "Universitario": "5"
+                },
+                "offsides": {
+                    "Club Nacional": "0",
+                    "Universitario": "2"
+                },
+                "red_cards": {
+                    "Club Nacional": "1",
+                    "Universitario": "0"
+                },
+                "shots_off_target": {
+                    "Club Nacional": "0",
+                    "Universitario": "3"
+                },
+                "shots_on_target": {
+                    "Club Nacional": "7",
+                    "Universitario": "8"
+                },
+                "yellow_cards": {
+                    "Club Nacional": "2",
+                    "Universitario": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/universitario-vs-club-nacional-2026-05-30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2356.webp",
+                    "name": "Club Nacional",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2540.webp",
+                    "name": "Universitario",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/universitario-vs-club-nacional-2026-05-30-cw4r.webp",
+            "title": "Universitario vs Club Nacional"
+        }
+    ]
+}

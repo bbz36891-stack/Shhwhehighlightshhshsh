@@ -1,0 +1,1761 @@
+{
+    "team": "Remo",
+    "team_logo": "https://img.refooty.com/logo/teams/1198.webp",
+    "total_matches": 13,
+    "matches": [
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Botafogo vs Remo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 2, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Telles",
+                    "event_type": "Goal",
+                    "player": "N. Ferraresi",
+                    "score_update": "1 - 0",
+                    "team": "Botafogo",
+                    "time": "13'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Vitinho",
+                    "team": "Botafogo",
+                    "time": "37'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Tchamba",
+                    "team": "Remo",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Oliveira",
+                    "team": "Botafogo",
+                    "time": "49'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Manga",
+                    "score_update": "1 - 1",
+                    "team": "Remo",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Picco",
+                    "team": "Remo",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Jaja",
+                    "score_update": "1 - 2",
+                    "team": "Remo",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 1 - 2 Remo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "RB Bragantino 4 - 2 Remo"
+                        }
+                    ],
+                    "team": "Remo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 1 - 2 Remo"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "28/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 3 - 0 Independiente Petrolero"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 2 - 2 Internacional"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "21/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 1 - 0 Chapecoense AF"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Chapecoense AF 1 - 4 Botafogo FR"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie B",
+                        "date": "04/09/2021",
+                        "teams_and_score": "Remo 0 - 1 Botafogo FR"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "1",
+                    "Remo_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "58%",
+                    "Remo": "42%"
+                },
+                "corners": {
+                    "Botafogo": "9",
+                    "Remo": "6"
+                },
+                "fouls": {
+                    "Botafogo": "14",
+                    "Remo": "10"
+                },
+                "offsides": {
+                    "Botafogo": "2",
+                    "Remo": "2"
+                },
+                "shots_off_target": {
+                    "Botafogo": "7",
+                    "Remo": "3"
+                },
+                "shots_on_target": {
+                    "Botafogo": "5",
+                    "Remo": "9"
+                },
+                "yellow_cards": {
+                    "Botafogo": "2",
+                    "Remo": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/botafogo-remo-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1198.webp",
+                    "name": "Remo",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-remo-2026-05-02-UMN8.webp",
+            "title": "Botafogo - Remo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 18, 2026",
+            "description": "Watch Chapecoense AF vs Remo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 18, 2026. In a high-stakes clash within the Brazil Serie A , both sides fought tooth and nail in a display of true football spirit. Taking place on May 18, 2026, the match provided a captivating narrative that kept spectators guessing until the very end. A blistering opening half The match ignited early as both teams sought to control the midfield and push forward. Yago Pikachu struck first for the visitors at the 16th minute, clinical in his finish after receiving the ball from Vitor Bueno . The lead was extended at the 24th minute when Neto Pessoa found the back of the net, assisted by Bruno Pacheco . The home side refused to fold, maintaining a high tempo as they looked for a path back into the match before the half-time whistle signaled a momentary pause in the action. Second half tension and late drama Whatever words were spoken in the dressing room clearly resonated with the hosts, as Rafael Carvalheira scored at the 47th minute following an assist from Neto Pessoa . The momentum continued to shift when Jaja leveled the scores at the 51st minute, sending the crowd into a frenzy. As the game entered the final stages, both managers utilized their benches to freshen up their tactical approach. The decisive moment, however, arrived cruelly at the 87th minute when an own goal from Bruno Leonardo gifted the lead back to the visitors. Despite a flurry of late yellow cards and desperate attacking surges, the scoreline remained unchanged, leaving the hosts to rue a moment of misfortune.",
+            "events_timeline": [
+                {
+                    "assist": "V. Bueno",
+                    "event_type": "Goal",
+                    "player": "Y. Pikachu",
+                    "score_update": "0 - 1",
+                    "team": "Remo",
+                    "time": "1'"
+                },
+                {
+                    "assist": "B. Pacheco",
+                    "event_type": "Goal",
+                    "player": "N. Pessoa",
+                    "score_update": "1 - 1",
+                    "team": "Chapecoense AF",
+                    "time": "16'"
+                },
+                {
+                    "assist": "N. Pessoa",
+                    "event_type": "Goal",
+                    "player": "R. Carvalheira",
+                    "score_update": "2 - 1",
+                    "team": "Chapecoense AF",
+                    "time": "47'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Jaja",
+                    "score_update": "2 - 2",
+                    "team": "Remo",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Camilo",
+                    "team": "Chapecoense AF",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Marcelinho",
+                    "team": "Remo",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Leonardo",
+                    "team": "Remo",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Paulo",
+                    "team": "Chapecoense AF",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Chapecoense AF 2 - 3 Remo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Remo 2 - 1 Bahia"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Remo 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "RB Bragantino 4 - 2 Remo"
+                        }
+                    ],
+                    "team": "Remo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Chapecoense AF 2 - 3 Remo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Chapecoense AF 2 - 0 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Mirassol 1 - 1 Chapecoense AF"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "21/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 1 - 0 Chapecoense AF"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Chapecoense AF 1 - 4 Botafogo FR"
+                        }
+                    ],
+                    "team": "Chapecoense AF"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie B",
+                        "date": "02/11/2025",
+                        "teams_and_score": "Remo 1 - 1 Chapecoense AF"
+                    }
+                ],
+                "summary": {
+                    "Chapecoense AF_wins": "0",
+                    "Remo_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Chapecoense AF": "52%",
+                    "Remo": "48%"
+                },
+                "corners": {
+                    "Chapecoense AF": "3",
+                    "Remo": "9"
+                },
+                "fouls": {
+                    "Chapecoense AF": "10",
+                    "Remo": "6"
+                },
+                "goalkeeper_saves": {
+                    "Chapecoense AF": "2",
+                    "Remo": "6"
+                },
+                "offsides": {
+                    "Chapecoense AF": "4",
+                    "Remo": "1"
+                },
+                "shots_blocked": {
+                    "Chapecoense AF": "2",
+                    "Remo": "1"
+                },
+                "shots_off_target": {
+                    "Chapecoense AF": "8",
+                    "Remo": "6"
+                },
+                "shots_on_target": {
+                    "Chapecoense AF": "8",
+                    "Remo": "4"
+                },
+                "yellow_cards": {
+                    "Chapecoense AF": "2",
+                    "Remo": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/chapecoense-remo-2026-05-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1198.webp",
+                    "name": "Remo",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/22722.webp",
+                    "name": "Chapecoense AF",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/chapecoense-remo-2026-05-18-rrB2.webp",
+            "title": "Chapecoense - Remo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Jul 24, 2026",
+            "description": "Watch Corinthians vs Remo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on July 24, 2026. The atmosphere was electric as the teams took to the pitch for this crucial Serie A encounter in Brazil. Held on July 24, 2026, the match promised a high-stakes battle as both sides looked to make their mark on the league standings. A Clinical First Half Display Corinthians started the match with aggressive intent, forcing the issue early on. The breakthrough arrived in the 26th minute when Andre Luiz provided a pinpoint assist for Yuri Alberto , who slotted home with composure. The hosts showed no signs of slowing down, and in the 40th minute, Breno Bidon set up Kaio to double the lead. The momentum remained entirely with the home side, and deep into first-half stoppage time, at the 45+2' mark, Zakaria Labyad teed up Yuri Alberto for his second goal of the afternoon, putting the game well beyond reach by the break. Controlling the Tempo With the match firmly in their grasp, the second half saw Corinthians manage the tempo with professional discipline. The coaching staff utilized the final half-hour to rotate the squad, bringing in fresh legs such as Fabrizio Angileri , Matheus Pereira , Jesse Lingard , and Leonel Picco . Although Remo attempted to find a way back into the game with substitutions like Bill and Ze Ricardo , they struggled to break through the organized defensive structure. Late in the match, tensions rose briefly, leading to yellow cards for Gabriel Paulista and Marllon in the 86th minute. However, the result remained secure as the referee signaled the end of proceedings after three minutes of added time. It was a dominant performance from Corinthians , defined by their clinical efficiency in front of goal and defensive solidity.",
+            "events_timeline": [
+                {
+                    "assist": "A. Luiz",
+                    "event_type": "Goal",
+                    "player": "Y. Alberto",
+                    "score_update": "1 - 0",
+                    "team": "Corinthians",
+                    "time": "26'"
+                },
+                {
+                    "assist": "B. Bidon",
+                    "event_type": "Goal",
+                    "player": "K. Cesar",
+                    "score_update": "2 - 0",
+                    "team": "Corinthians",
+                    "time": "40'"
+                },
+                {
+                    "assist": "Z. Labyad",
+                    "event_type": "Goal",
+                    "player": "Y. Alberto",
+                    "score_update": "3 - 0",
+                    "team": "Corinthians",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Paulista",
+                    "team": "Corinthians",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Marllon",
+                    "team": "Remo",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "23/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 3 - 0 Remo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Remo 2 - 1 Bahia"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Remo 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "RB Bragantino 4 - 2 Remo"
+                        }
+                    ],
+                    "team": "Remo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "23/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 3 - 0 Remo"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "28/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 0 - 2 Club Atletico Platense"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "22/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Club Atletico Penarol 1 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 3 - 1 Corinthians"
+                        }
+                    ],
+                    "team": "Corinthians"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "27/04/2023",
+                        "teams_and_score": "Corinthians 2 - 0 Remo"
+                    }
+                ],
+                "summary": {
+                    "Corinthians_wins": "1",
+                    "Remo_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Corinthians": "56%",
+                    "Remo": "44%"
+                },
+                "corners": {
+                    "Corinthians": "3",
+                    "Remo": "4"
+                },
+                "fouls": {
+                    "Corinthians": "12",
+                    "Remo": "9"
+                },
+                "goalkeeper_saves": {
+                    "Corinthians": "0",
+                    "Remo": "4"
+                },
+                "offsides": {
+                    "Corinthians": "4",
+                    "Remo": "2"
+                },
+                "shots_blocked": {
+                    "Corinthians": "3",
+                    "Remo": "1"
+                },
+                "shots_off_target": {
+                    "Corinthians": "5",
+                    "Remo": "2"
+                },
+                "shots_on_target": {
+                    "Corinthians": "7",
+                    "Remo": "0"
+                },
+                "yellow_cards": {
+                    "Corinthians": "1",
+                    "Remo": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/corinthians-remo-2026-07-24_Jw8cR.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1198.webp",
+                    "name": "Remo",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/131.webp",
+                    "name": "Corinthians",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/corinthians-remo-2026-07-24-OSj2.webp",
+            "title": "Corinthians - Remo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 16, 2026",
+            "description": "Watch Coritiba vs Remo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 16, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/coritiba-remo-2026-03-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/coritiba-remo-2026-03-16-REWT.webp",
+            "title": "Coritiba - Remo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 6, 2026",
+            "description": "Watch Gremio vs Remo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 6, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/gremio-remo-2026-04-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/gremio-remo-2026-04-06-L2hZ.webp",
+            "title": "Grêmio - Remo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 24, 2026",
+            "description": "Watch Remo vs Athletico Paranaense highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 24, 2026. The Serie A clash between Remo and Athletico Paranaense on May 24, 2026, delivered a masterclass in high-stakes football and emotional swings. From the opening whistle, it was clear that both sides were prepared to fight for every inch of grass, leading to a match defined by individual brilliance and a critical disciplinary turning point. First Half Fireworks and a Game-Changing Red Remo started the match with intent and was rewarded early in the 14th minute when Jaja found the back of the net, sending the home crowd into a frenzy. The lead held for much of the half as Athletico Paranaense struggled to find their rhythm. However, momentum shifted in the 45th minute when Claudinho delivered a perfect ball to Kevin Viveros , who made no mistake in leveling the score. The drama escalated further during a chaotic period of first-half stoppage time. In the 45+8th minute, goalscorer Jaja went from hero to villain as he was shown a straight red card. The decision sparked massive protests from the Remo players, and the referee was forced to hand out yellow cards to Bruno Zapelli and Marcelinho to regain control. The teams headed to the locker rooms with the match balanced on a knife-edge but the hosts significantly disadvantaged. Viveros Seals the Turnaround Exploiting their numerical advantage, Athletico Paranaense emerged for the second half with three fresh players as Leozinho , Julimar , and Matheus Alexandre entered the fray. The tactical shift paid dividends in the 54th minute when Jadson set up Kevin Viveros for his second goal of the night, completing the comeback. The visitors’ lead forced Remo to adopt a more defensive posture, hoping to catch the opposition on the break despite being a man down. The remainder of the match was a gritty affair characterized by tactical substitutions and defensive resolve. Athletico Paranaense saw several players, including Felipinho , Leozinho , and Diogo Riquelme , receive yellow cards as they looked to stifle any chance of a Remo equalizer. Despite a marathon ten minutes of added time at the end of the second half, the visitors held firm to secure a vital victory on the road.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "Jaja",
+                    "score_update": "1 - 0",
+                    "team": "Remo",
+                    "time": "14'"
+                },
+                {
+                    "assist": "Claudinho",
+                    "event_type": "Goal",
+                    "player": "K. Viveros",
+                    "score_update": "1 - 1",
+                    "team": "Athletico Paranaense",
+                    "time": "45'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "Jaja",
+                    "team": "Remo",
+                    "time": "45+8'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Zapelli",
+                    "team": "Athletico Paranaense",
+                    "time": "45+11'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Marcelinho",
+                    "team": "Remo",
+                    "time": "45+12'"
+                },
+                {
+                    "assist": "Jadson",
+                    "event_type": "Goal",
+                    "player": "K. Viveros",
+                    "score_update": "1 - 2",
+                    "team": "Athletico Paranaense",
+                    "time": "54'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Felipinho",
+                    "team": "Athletico Paranaense",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Leozinho",
+                    "team": "Athletico Paranaense",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Riquelme",
+                    "team": "Athletico Paranaense",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Remo 1 - 2 Athletico Paranaense"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico GO 0 - 0 Athletico Paranaense"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Vasco da Gama 1 - 0 Athletico Paranaense"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "24/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Athletico Paranaense 0 - 0 Atletico GO"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Palmeiras 1 - 0 Athletico Paranaense"
+                        }
+                    ],
+                    "team": "Athletico Paranaense"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Remo 1 - 2 Athletico Paranaense"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Remo 2 - 1 Bahia"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Remo 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "RB Bragantino 4 - 2 Remo"
+                        }
+                    ],
+                    "team": "Remo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie B",
+                        "date": "10/10/2025",
+                        "teams_and_score": "Remo 2 - 1 Athletico Paranaense"
+                    },
+                    {
+                        "competition": "Cup",
+                        "date": "15/04/2015",
+                        "teams_and_score": "Athletico Paranaense 1 - 1 Remo"
+                    }
+                ],
+                "summary": {
+                    "Athletico Paranaense_wins": "0",
+                    "Remo_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Athletico Paranaense": "56%",
+                    "Remo": "44%"
+                },
+                "corners": {
+                    "Athletico Paranaense": "10",
+                    "Remo": "3"
+                },
+                "fouls": {
+                    "Athletico Paranaense": "14",
+                    "Remo": "9"
+                },
+                "goalkeeper_saves": {
+                    "Athletico Paranaense": "1",
+                    "Remo": "7"
+                },
+                "offsides": {
+                    "Athletico Paranaense": "4",
+                    "Remo": "2"
+                },
+                "red_cards": {
+                    "Athletico Paranaense": "0",
+                    "Remo": "1"
+                },
+                "shots_blocked": {
+                    "Athletico Paranaense": "3",
+                    "Remo": "0"
+                },
+                "shots_off_target": {
+                    "Athletico Paranaense": "4",
+                    "Remo": "1"
+                },
+                "shots_on_target": {
+                    "Athletico Paranaense": "9",
+                    "Remo": "2"
+                },
+                "yellow_cards": {
+                    "Athletico Paranaense": "4",
+                    "Remo": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/remo-athletico-paranaense-2026-05-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/134.webp",
+                    "name": "Athletico Paranaense",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1198.webp",
+                    "name": "Remo",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/remo-athletico-paranaense-2026-05-24-oQS4.webp",
+            "title": "Remo - Athletico Paranaense"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch Remo vs Cruzeiro highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 26, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "B. Rodrigues",
+                    "event_type": "Goal",
+                    "player": "K. Arroyo",
+                    "score_update": "0 - 1",
+                    "team": "Cruzeiro",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Arroyo",
+                    "team": "Cruzeiro",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Z. Ricardo",
+                    "team": "Remo",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Cunha",
+                    "team": "Cruzeiro",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Moraes",
+                    "team": "Cruzeiro",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Remo 0 - 1 Cruzeiro"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Goias 2 - 2 Cruzeiro"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cruzeiro 2 - 0 Gremio"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "15/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Cruzeiro 1 - 2 Universidad Catolica"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Cruzeiro 2 - 1 RB Bragantino"
+                        }
+                    ],
+                    "team": "Cruzeiro"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Remo 0 - 1 Cruzeiro"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "RB Bragantino 4 - 2 Remo"
+                        }
+                    ],
+                    "team": "Remo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "12/05/2022",
+                        "teams_and_score": "Cruzeiro 1 - 0 Remo"
+                    },
+                    {
+                        "competition": "Serie B",
+                        "date": "29/10/2021",
+                        "teams_and_score": "Cruzeiro 1 - 3 Remo"
+                    }
+                ],
+                "summary": {
+                    "Cruzeiro_wins": "1",
+                    "Remo_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cruzeiro": "59%",
+                    "Remo": "47%"
+                },
+                "corners": {
+                    "Cruzeiro": "1",
+                    "Remo": "4"
+                },
+                "fouls": {
+                    "Cruzeiro": "21",
+                    "Remo": "15"
+                },
+                "goalkeeper_saves": {
+                    "Cruzeiro": "1",
+                    "Remo": "4"
+                },
+                "offsides": {
+                    "Cruzeiro": "4",
+                    "Remo": "0"
+                },
+                "shots_off_target": {
+                    "Cruzeiro": "1",
+                    "Remo": "8"
+                },
+                "shots_on_target": {
+                    "Cruzeiro": "5",
+                    "Remo": "1"
+                },
+                "yellow_cards": {
+                    "Cruzeiro": "3",
+                    "Remo": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/remo-cruzeiro-2026-04-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/135.webp",
+                    "name": "Cruzeiro",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1198.webp",
+                    "name": "Remo",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/remo-cruzeiro-2026-04-26-sucJ.webp",
+            "title": "Remo - Cruzeiro"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 13, 2026",
+            "description": "Watch Remo vs Fluminense highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 13, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/remo-fluminense-2026-03-13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/remo-fluminense-2026-03-13-erP3.webp",
+            "title": "Remo - Fluminense"
+        },
+        {
+            "competition": "Unknown Competition",
+            "competition_cover": "",
+            "date": "Feb 26, 2026",
+            "description": "Watch Remo vs Internacional highlights and goals from CONCACAF Champions League on ReFooty: Football Highlights Hub. Match played on February 26, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/remo-internacional-2026-02-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/remo-internacional-2026-02-26-j0lF.webp",
+            "title": "Remo - Internacional"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 11, 2026",
+            "description": "Watch Remo vs Palmeiras highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 11, 2026. High intensity in Brazil On May 11, 2026, the stage was set for an electric encounter in the Brazilian Serie A as Remo faced off against Palmeiras . With both sides fighting for momentum in the standings, the match proved to be a test of tactical discipline and nerves. A whirlwind opening The match exploded into life almost immediately, with Remo asserting their dominance early on. Just 2 minutes into the game, a clinical assist from Yago Pikachu set up Alef Manga to open the scoring. The pressure continued as Allan provided the pass for Ramon Sosa to double the lead at the 24-minute mark. The first half was a physical affair, with Jefte and Allan both cautioned by the referee as tempers began to flare. Turning points and late drama The second half saw a flurry of tactical substitutions as both managers sought to regain control. The complexion of the match shifted dramatically at 74 minutes when Ze Ricardo was sent off, leaving his side a man down and sparking heated protests from his teammates. Despite the numerical disadvantage and a wave of late-game changes, the contest pushed into the dying minutes of stoppage time, with Marcelo receiving a final yellow card before the referee ended the proceedings.",
+            "events_timeline": [
+                {
+                    "assist": "Y. Pikachu",
+                    "event_type": "Goal",
+                    "player": "A. Manga",
+                    "score_update": "1 - 0",
+                    "team": "Remo",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Jefte",
+                    "team": "Palmeiras",
+                    "time": "16'"
+                },
+                {
+                    "assist": "Allan",
+                    "event_type": "Goal",
+                    "player": "R. Sosa",
+                    "score_update": "1 - 1",
+                    "team": "Palmeiras",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Allan",
+                    "team": "Palmeiras",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "Z. Ricardo",
+                    "team": "Remo",
+                    "time": "74'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Marcelo",
+                    "team": "Remo",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Remo 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "05/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting Cristal 0 - 2 Palmeiras"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Palmeiras 1 - 1 Santos FC"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "30/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Cerro Porteno 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "RB Bragantino 0 - 1 Palmeiras"
+                        }
+                    ],
+                    "team": "Palmeiras"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Remo 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "RB Bragantino 4 - 2 Remo"
+                        }
+                    ],
+                    "team": "Remo"
+                },
+                "summary": {
+                    "Palmeiras_wins": "0",
+                    "Remo_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Palmeiras": "67%",
+                    "Remo": "33%"
+                },
+                "corners": {
+                    "Palmeiras": "16",
+                    "Remo": "5"
+                },
+                "fouls": {
+                    "Palmeiras": "6",
+                    "Remo": "6"
+                },
+                "goalkeeper_saves": {
+                    "Palmeiras": "3",
+                    "Remo": "3"
+                },
+                "offsides": {
+                    "Palmeiras": "7",
+                    "Remo": "0"
+                },
+                "red_cards": {
+                    "Palmeiras": "0",
+                    "Remo": "1"
+                },
+                "shots_blocked": {
+                    "Palmeiras": "4",
+                    "Remo": "3"
+                },
+                "shots_off_target": {
+                    "Palmeiras": "7",
+                    "Remo": "8"
+                },
+                "shots_on_target": {
+                    "Palmeiras": "4",
+                    "Remo": "4"
+                },
+                "yellow_cards": {
+                    "Palmeiras": "2",
+                    "Remo": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/remo-palmeiras-2026-05-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/121.webp",
+                    "name": "Palmeiras",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1198.webp",
+                    "name": "Remo",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/remo-palmeiras-2026-05-11-YlAr.webp",
+            "title": "Remo - Palmeiras"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Jun 1, 2026",
+            "description": "Watch Remo vs Sao Paulo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on June 1, 2026. The atmosphere was electric for one of the most anticipated matchups of the round, where strategy and patience were tested to the limit. The clash promised a tactical stalemate, with both sides searching for openings in a well-organized opposition defense. A First Half Defined by Intensity and Discipline On June 1, 2026 , Remo played host to Sao Paulo in a crucial Serie A fixture in Brazil . From the opening whistle, the match proved to be a physical affair, contested fiercely across every inch of the pitch. The referee was kept busy early on as he sought to maintain control over the high-octane encounter. Luis Osorio received the game's first yellow card in the 28th minute, and he was soon followed into the book by Enzo Hernan Diaz ten minutes later, reflecting the gritty nature of the first period. Despite several attacking movements, both defensive lines held firm, leading to a goalless draw at the interval. Tactical Adjustments and Rising Pressure The second half resumed with the same level of intensity but saw both managers turn to their benches to find a breakthrough. Sao Paulo introduced Marcos Antonio for Andre in the 62nd minute to provide fresh energy in midfield. This was followed by a flurry of substitutions from both camps around the 72nd minute, with the likes of Leonel Picco , Tete , and Hugo Leonardo entering the fray as the tactical battle intensified. As the match entered its final ten minutes, Remo made a triple change, bringing on David Braga , Matheus Alexandre , and Poveda . The game remained on a knife-edge, and David Braga found himself in the referee's book in the 85th minute. With the clock ticking down, Sao Paulo made a final offensive switch, replacing Jonathan Calleri with Gonzalo Tapia in hopes of a late winner. Stoppage Time Heroics Just as it appeared the points would be shared, the deadlock was broken in spectacular fashion during stoppage time. In the 94th minute, Leonel Picco turned provider, delivering a precise pass to Marcelinho . The forward made no mistake, firing the ball home to trigger wild celebrations in the stands. With the lead secured, Marcelinho was given a standing ovation as he was replaced by Diego Hernandez in the 97th minute to help see out the final seconds. The referee blew the final whistle after eight minutes of added time, confirming a hard-earned 1-0 victory for Remo in a classic Serie A encounter.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Osorio",
+                    "team": "Sao Paulo",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Diaz",
+                    "team": "Sao Paulo",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Braga",
+                    "team": "Remo",
+                    "time": "85'"
+                },
+                {
+                    "assist": "L. Picco",
+                    "event_type": "Goal",
+                    "player": "Marcelinho",
+                    "score_update": "1 - 0",
+                    "team": "Remo",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "31/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Remo 1 - 0 Sao Paulo"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "26/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Sao Paulo 2 - 0 Boston River"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "23/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Millonarios"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Fluminense 2 - 1 Sao Paulo"
+                        }
+                    ],
+                    "team": "Sao Paulo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "31/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Remo 1 - 0 Sao Paulo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Remo 2 - 1 Bahia"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Remo 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "RB Bragantino 4 - 2 Remo"
+                        }
+                    ],
+                    "team": "Remo"
+                },
+                "summary": {
+                    "Remo_wins": "0",
+                    "Sao Paulo_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Remo": "40%",
+                    "Sao Paulo": "60%"
+                },
+                "corners": {
+                    "Remo": "6",
+                    "Sao Paulo": "8"
+                },
+                "fouls": {
+                    "Remo": "7",
+                    "Sao Paulo": "14"
+                },
+                "goalkeeper_saves": {
+                    "Remo": "4",
+                    "Sao Paulo": "1"
+                },
+                "offsides": {
+                    "Remo": "2",
+                    "Sao Paulo": "0"
+                },
+                "shots_blocked": {
+                    "Remo": "3",
+                    "Sao Paulo": "1"
+                },
+                "shots_off_target": {
+                    "Remo": "4",
+                    "Sao Paulo": "4"
+                },
+                "shots_on_target": {
+                    "Remo": "2",
+                    "Sao Paulo": "4"
+                },
+                "yellow_cards": {
+                    "Remo": "1",
+                    "Sao Paulo": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/remo-sao-paulo-2026-06-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/126.webp",
+                    "name": "Sao Paulo",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1198.webp",
+                    "name": "Remo",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/remo-sao-paulo-2026-06-01-CZpZ.webp",
+            "title": "Remo - Sao Paulo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Remo vs Vasco DA Gama highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Cuiabano",
+                    "team": "Vasco DA Gama",
+                    "time": "1'"
+                },
+                {
+                    "assist": "T. Mendes",
+                    "event_type": "Goal",
+                    "player": "A. Gomez",
+                    "score_update": "0 - 1",
+                    "team": "Vasco DA Gama",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Saldivia",
+                    "team": "Vasco DA Gama",
+                    "time": "61'"
+                },
+                {
+                    "assist": "D. Hernandez",
+                    "event_type": "Goal",
+                    "player": "Marllon",
+                    "score_update": "1 - 1",
+                    "team": "Remo",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Remo 1 - 1 Vasco da Gama"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "07/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Barracas Central 0 - 0 Vasco da Gama"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vasco da Gama 1 - 2 Botafogo FR"
+                        },
+                        {
+                            "competition": "Carioca Taca Guanabara: Play-off",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Fluminense 1 - 1 Vasco da Gama"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Santos FC 2 - 1 Vasco da Gama"
+                        }
+                    ],
+                    "team": "Vasco DA Gama"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Remo 1 - 1 Vasco da Gama"
+                        },
+                        {
+                            "competition": "Paraense: Play-off",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Paysandu 0 - 0 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Remo 1 - 1 Internacional"
+                        }
+                    ],
+                    "team": "Remo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie B",
+                        "date": "19/11/2021",
+                        "teams_and_score": "Vasco da Gama 2 - 2 Remo"
+                    },
+                    {
+                        "competition": "Cup",
+                        "date": "28/04/2016",
+                        "teams_and_score": "Vasco da Gama 2 - 1 Remo"
+                    }
+                ],
+                "summary": {
+                    "Remo_wins": "0",
+                    "Vasco DA Gama_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Remo": "45%",
+                    "Vasco DA Gama": "55%"
+                },
+                "corners": {
+                    "Remo": "3",
+                    "Vasco DA Gama": "6"
+                },
+                "fouls": {
+                    "Remo": "12",
+                    "Vasco DA Gama": "12"
+                },
+                "goalkeeper_saves": {
+                    "Remo": "2",
+                    "Vasco DA Gama": "1"
+                },
+                "offsides": {
+                    "Remo": "1",
+                    "Vasco DA Gama": "4"
+                },
+                "shots_off_target": {
+                    "Remo": "5",
+                    "Vasco DA Gama": "6"
+                },
+                "shots_on_target": {
+                    "Remo": "2",
+                    "Vasco DA Gama": "3"
+                },
+                "yellow_cards": {
+                    "Remo": "0",
+                    "Vasco DA Gama": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/remo-vasco-da-gama-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/133.webp",
+                    "name": "Vasco DA Gama",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1198.webp",
+                    "name": "Remo",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/remo-vasco-da-gama-2026-04-11-deO8.webp",
+            "title": "Remo - Vasco da Gama"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 3, 2026",
+            "description": "Watch Santos vs Remo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 3, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/santos-remo-2026-04-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/santos-remo-2026-04-03-fGv9.webp",
+            "title": "Santos - Remo"
+        }
+    ]
+}

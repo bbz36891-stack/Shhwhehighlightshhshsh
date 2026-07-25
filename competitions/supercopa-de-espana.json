@@ -1,0 +1,42 @@
+{
+    "competition": "Supercopa de Espana",
+    "competition_cover": "https://refooty.com/covers/supercopa-de-espana.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Supercopa de Espana",
+            "competition_cover": "https://refooty.com/covers/supercopa-de-espana.webp",
+            "date": "Jan 8, 2026",
+            "description": "Watch Atletico Madrid vs Real Madrid highlights and goals from Supercopa de Espana on ReFooty: Football Highlights Hub. Match played on January 8, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Atletico_Madrid_v_Real_Madrid_2026_01_08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-madrid-v-real-madrid-2026-01-08-5rL1.webp",
+            "title": "Atletico Madrid vs Real Madrid"
+        }
+    ]
+}

@@ -1,0 +1,481 @@
+{
+    "team": "Brann",
+    "team_logo": "https://img.refooty.com/logo/teams/319.webp",
+    "total_matches": 4,
+    "matches": [
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Feb 26, 2026",
+            "description": "Watch Bologna vs Brann highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on February 26, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Vitík",
+                    "team": "Bologna",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Sørensen",
+                    "team": "Brann",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Bernardeschi",
+                    "team": "Bologna",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Mário",
+                    "score_update": "1 - 0",
+                    "team": "Bologna",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Holten",
+                    "team": "Brann",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Orsolini",
+                    "team": "Bologna",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 1 - 0 Brann"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Odds Ballklubb 1 - 6 Brann"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Sturm Graz 1 - 0 Brann"
+                        },
+                        {
+                            "competition": "Eliteserien",
+                            "date": "30/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Brann 3 - 1 HamKam"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "27/11/2025",
+                            "result": "D",
+                            "teams_and_score": "PAOK FC 1 - 1 Brann"
+                        }
+                    ],
+                    "team": "Brann"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 1 - 0 Brann"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "23/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Bologna 1 - 0 Udinese"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Brann 0 - 1 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "15/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 1 - 2 Bologna"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "11/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Bologna 1 - 1 Lazio"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Knockout Stage",
+                        "date": "19/02/2026",
+                        "teams_and_score": "Brann 0 - 1 Bologna"
+                    },
+                    {
+                        "competition": "League Stage",
+                        "date": "06/11/2025",
+                        "teams_and_score": "Bologna 0 - 0 Brann"
+                    }
+                ],
+                "summary": {
+                    "Bologna_wins": "1",
+                    "Brann_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bologna": "61%",
+                    "Brann": "39%"
+                },
+                "corners": {
+                    "Bologna": "13",
+                    "Brann": "1"
+                },
+                "crosses": {
+                    "Bologna": "7",
+                    "Brann": "0"
+                },
+                "fouls": {
+                    "Bologna": "15",
+                    "Brann": "9"
+                },
+                "goalkeeper_saves": {
+                    "Bologna": "2",
+                    "Brann": "4"
+                },
+                "offsides": {
+                    "Bologna": "3",
+                    "Brann": "0"
+                },
+                "red_cards": {
+                    "Bologna": "0",
+                    "Brann": "1"
+                },
+                "shots_blocked": {
+                    "Bologna": "8",
+                    "Brann": "2"
+                },
+                "shots_off_target": {
+                    "Bologna": "3",
+                    "Brann": "2"
+                },
+                "shots_on_target": {
+                    "Bologna": "5",
+                    "Brann": "3"
+                },
+                "yellow_cards": {
+                    "Bologna": "3",
+                    "Brann": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Brann_2026_02_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/319.webp",
+                    "name": "Brann",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-brann-2026-02-26-hyV3.webp",
+            "title": "Bologna vs Brann"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Feb 19, 2026",
+            "description": "Watch Brann vs Bologna highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on February 19, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "N. Cambiaghi",
+                    "event_type": "Goal",
+                    "player": "S. Castro",
+                    "score_update": "0 - 1",
+                    "team": "Bologna",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Bernardeschi",
+                    "team": "Bologna",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Boakye",
+                    "team": "Brann",
+                    "time": "31'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Brann 0 - 1 Bologna"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "15/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 1 - 2 Bologna"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "11/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Bologna 1 - 1 Lazio"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bologna 0 - 1 Parma"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Maccabi Tel Aviv 0 - 3 Bologna"
+                        }
+                    ],
+                    "team": "Bologna"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Brann 0 - 1 Bologna"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Odds Ballklubb 1 - 6 Brann"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Sturm Graz 1 - 0 Brann"
+                        },
+                        {
+                            "competition": "Eliteserien",
+                            "date": "30/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Brann 3 - 1 HamKam"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "27/11/2025",
+                            "result": "D",
+                            "teams_and_score": "PAOK FC 1 - 1 Brann"
+                        }
+                    ],
+                    "team": "Brann"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "League Stage",
+                        "date": "06/11/2025",
+                        "teams_and_score": "Bologna 0 - 0 Brann"
+                    }
+                ],
+                "summary": {
+                    "Bologna_wins": "0",
+                    "Brann_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bologna": "35%",
+                    "Brann": "65%"
+                },
+                "corners": {
+                    "Bologna": "4",
+                    "Brann": "7"
+                },
+                "crosses": {
+                    "Bologna": "2",
+                    "Brann": "4"
+                },
+                "fouls": {
+                    "Bologna": "20",
+                    "Brann": "14"
+                },
+                "goalkeeper_saves": {
+                    "Bologna": "2",
+                    "Brann": "4"
+                },
+                "offsides": {
+                    "Bologna": "1",
+                    "Brann": "4"
+                },
+                "shots_blocked": {
+                    "Bologna": "4",
+                    "Brann": "0"
+                },
+                "shots_off_target": {
+                    "Bologna": "4",
+                    "Brann": "2"
+                },
+                "shots_on_target": {
+                    "Bologna": "5",
+                    "Brann": "2"
+                },
+                "yellow_cards": {
+                    "Bologna": "1",
+                    "Brann": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Brann_v_Bologna_2026_02_19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/500.webp",
+                    "name": "Bologna",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/319.webp",
+                    "name": "Brann",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brann-v-bologna-2026-02-19-ynRp.webp",
+            "title": "Brann vs Bologna"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Dec 11, 2025",
+            "description": "Watch Brann vs Fenerbahce highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on December 11, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Brann_v_Fenerbahce_2025_12_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brann-v-fenerbahce-2025-12-11.webp",
+            "title": "Brann vs Fenerbahce"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Oct 23, 2025",
+            "description": "Watch Brann vs FC Rangers highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on October 23, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Brann_v_Rangers_2025_10_23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brann-v-rangers-2025-10-23-3vbr.webp",
+            "title": "Brann vs Glascow Rangers"
+        }
+    ]
+}

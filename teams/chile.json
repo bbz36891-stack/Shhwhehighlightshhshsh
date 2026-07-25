@@ -1,0 +1,692 @@
+{
+    "team": "Chile",
+    "team_logo": "https://img.refooty.com/logo/teams/2383.webp",
+    "total_matches": 6,
+    "matches": [
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Jun 28, 2014",
+            "description": "Watch Brazil vs Chile highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on June 28, 2014.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Perišić",
+                    "team": "Chile",
+                    "time": "22'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Caleta-Car",
+                    "team": "Chile",
+                    "time": "28'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Casemiro",
+                    "team": "Brazil",
+                    "time": "45'"
+                },
+                {
+                    "assist": "Vinicius Junior",
+                    "event_type": "Goal",
+                    "player": "D. Oliveira",
+                    "score_update": "1 - 0",
+                    "team": "Brazil",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Vuskovic",
+                    "team": "Chile",
+                    "time": "82'"
+                },
+                {
+                    "assist": "T. Fruk",
+                    "event_type": "Goal",
+                    "player": "L. Majer",
+                    "score_update": "1 - 1",
+                    "team": "Chile",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Thiago",
+                    "score_update": "2 - 1",
+                    "team": "Brazil",
+                    "time": "88'"
+                },
+                {
+                    "assist": "Endrick",
+                    "event_type": "Goal",
+                    "player": "G. Martinelli",
+                    "score_update": "3 - 1",
+                    "team": "Brazil",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "01/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Brazil 3 - 1 Croatia"
+                        },
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "26/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Colombia 1 - 2 Croatia"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group L",
+                            "date": "17/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Montenegro 2 - 3 Croatia"
+                        }
+                    ],
+                    "team": "Chile"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "01/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Brazil 3 - 1 Croatia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Brazil 1 - 1 Tunisia"
+                        },
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "14/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Japan 3 - 2 Brazil"
+                        },
+                        {
+                            "competition": "CONMEBOL Qualification",
+                            "date": "09/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Bolivia 1 - 0 Brazil"
+                        }
+                    ],
+                    "team": "Brazil"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Quarter-finals",
+                        "date": "09/12/2022",
+                        "teams_and_score": "Croatia 1 - 1 Brazil"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "03/06/2018",
+                        "teams_and_score": "Brazil 2 - 0 Croatia"
+                    },
+                    {
+                        "competition": "World Cup grp. A",
+                        "date": "12/06/2014",
+                        "teams_and_score": "Brazil 3 - 1 Croatia"
+                    },
+                    {
+                        "competition": "World Cup grp. F",
+                        "date": "13/06/2006",
+                        "teams_and_score": "Brazil 1 - 0 Croatia"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "17/08/2005",
+                        "teams_and_score": "Croatia 1 - 1 Brazil"
+                    }
+                ],
+                "summary": {
+                    "Brazil_wins": "3",
+                    "Chile_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Brazil": "45%",
+                    "Chile": "55%"
+                },
+                "corners": {
+                    "Brazil": "2",
+                    "Chile": "2"
+                },
+                "fouls": {
+                    "Brazil": "12",
+                    "Chile": "13"
+                },
+                "goalkeeper_saves": {
+                    "Brazil": "2",
+                    "Chile": "4"
+                },
+                "offsides": {
+                    "Brazil": "1",
+                    "Chile": "0"
+                },
+                "shots_blocked": {
+                    "Brazil": "5",
+                    "Chile": "4"
+                },
+                "shots_off_target": {
+                    "Brazil": "1",
+                    "Chile": "5"
+                },
+                "shots_on_target": {
+                    "Brazil": "7",
+                    "Chile": "3"
+                },
+                "yellow_cards": {
+                    "Brazil": "1",
+                    "Chile": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/brazil-vs-chile-2014-06-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2383.webp",
+                    "name": "Chile",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/6.webp",
+                    "name": "Brazil",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brazil-vs-chile-2014-06-28-twFJ.webp",
+            "title": "Brazil vs Chile"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Mar 27, 2026",
+            "description": "Watch Chile vs Cape Verde Islands highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on March 27, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/chile-vs-cape-verde-islands-2026-03-27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/chile-vs-cape-verde-islands-2026-03-27-NOpo.webp",
+            "title": "Chile vs Cape Verde Islands"
+        },
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Jun 25, 2010",
+            "description": "Watch Chile vs Spain highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on June 25, 2010.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/chile-vs-spain-2010-06-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/chile-vs-spain-2010-06-25-Pom4.webp",
+            "title": "Chile vs Spain"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 9, 2026",
+            "description": "Watch Congo DR vs Chile highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 9, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "G. Tapia",
+                    "event_type": "Goal",
+                    "player": "D. Osorio",
+                    "score_update": "0 - 1",
+                    "team": "Chile",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Sepulveda",
+                    "score_update": "0 - 2",
+                    "team": "Chile",
+                    "time": "61'"
+                },
+                {
+                    "assist": "B. K. Cipenga",
+                    "event_type": "Goal",
+                    "player": "E. Kayembe",
+                    "score_update": "1 - 2",
+                    "team": "Congo DR",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "09/06/2026",
+                            "result": "W",
+                            "teams_and_score": "DR Congo 1 - 2 Chile"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "06/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Portugal 2 - 1 Chile"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "30/03/2026",
+                            "result": "L",
+                            "teams_and_score": "New Zealand 4 - 1 Chile"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "18/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Chile 2 - 1 Peru"
+                        },
+                        {
+                            "competition": "CONMEBOL Qualification",
+                            "date": "09/09/2025",
+                            "result": "D",
+                            "teams_and_score": "Chile 0 - 0 Uruguay"
+                        }
+                    ],
+                    "team": "Chile"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "09/06/2026",
+                            "result": "W",
+                            "teams_and_score": "DR Congo 1 - 2 Chile"
+                        },
+                        {
+                            "competition": "World Cup Qualifiers: Play-off Tournament",
+                            "date": "31/03/2026",
+                            "result": "L",
+                            "teams_and_score": "DR Congo 1 - 0 Jamaica"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "25/03/2026",
+                            "result": "L",
+                            "teams_and_score": "DR Congo 2 - 0 Bermuda"
+                        },
+                        {
+                            "competition": "Round of 16",
+                            "date": "06/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Algeria 1 - 0 DR Congo"
+                        },
+                        {
+                            "competition": "Group D",
+                            "date": "30/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Botswana 0 - 3 DR Congo"
+                        }
+                    ],
+                    "team": "Congo DR"
+                },
+                "summary": {
+                    "Chile_wins": "0",
+                    "Congo DR_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Chile": "50%",
+                    "Congo DR": "50%"
+                },
+                "corners": {
+                    "Chile": "2",
+                    "Congo DR": "7"
+                },
+                "fouls": {
+                    "Chile": "16",
+                    "Congo DR": "16"
+                },
+                "goalkeeper_saves": {
+                    "Chile": "3",
+                    "Congo DR": "1"
+                },
+                "offsides": {
+                    "Chile": "3",
+                    "Congo DR": "1"
+                },
+                "shots_blocked": {
+                    "Chile": "0",
+                    "Congo DR": "2"
+                },
+                "shots_off_target": {
+                    "Chile": "3",
+                    "Congo DR": "4"
+                },
+                "shots_on_target": {
+                    "Chile": "3",
+                    "Congo DR": "4"
+                },
+                "yellow_cards": {
+                    "Chile": "3",
+                    "Congo DR": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/congo-dr-vs-chile-2026-06-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2383.webp",
+                    "name": "Chile",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1508.webp",
+                    "name": "Congo DR",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/congo-dr-vs-chile-2026-06-09-VBbj.webp",
+            "title": "Congo DR vs Chile"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Mar 30, 2026",
+            "description": "Watch New Zealand vs Chile highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on March 30, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/new-zealand-vs-chile-2026-03-30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/new-zealand-vs-chile-2026-03-30-bTth.webp",
+            "title": "New Zealand vs Chile"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 6, 2026",
+            "description": "Watch Portugal vs Chile highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 6, 2026. Portugal and Chile faced off in an international friendly that tested the tactical discipline and depth of both squads. The match offered a fascinating look at two different footballing philosophies clashing on the pitch. Second Half Breakthrough Staged on June 6, 2026 , this encounter began as a cagey affair with both sides neutralizing each other in a goalless first half. However, the deadlock was finally broken in the 58th minute. Rúben Neves turned provider with a pinpoint pass that found Gonçalo Guedes , who made no mistake in finishing to give Portugal a 1-0 lead. The goal shifted the momentum significantly, forcing Chile to abandon their defensive shape in search of an equalizer. Doubling the Advantage As the game opened up, Portugal exploited the space left by the Chilean defense. In the 75th minute, the hosts extended their lead through a moment of individual and collective brilliance. Francisco Conceição showcased his vision by picking out Bruno Fernandes , who clinical strike doubled the advantage to 2-0. At this stage, the Portuguese side looked comfortably in control, dictating the tempo and restricting their opponents' opportunities. Late Chilean Response Despite the mountain they had to climb, Chile refused to go down without a fight as the match entered stoppage time. In the 92nd minute, Victor Mendez set up Lucas Cepeda , who managed to pull one back for the visitors. The strike made for a nervous final minute, but Portugal remained composed to see out the 2-1 victory. The match provided plenty of talking points for both managers as they continue their preparations for upcoming competitive fixtures.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "R. Leão",
+                    "team": "Portugal",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "I. Roman",
+                    "team": "Chile",
+                    "time": "45+2'"
+                },
+                {
+                    "assist": "R. Neves",
+                    "event_type": "Goal",
+                    "player": "G. Guedes",
+                    "score_update": "1 - 0",
+                    "team": "Portugal",
+                    "time": "58'"
+                },
+                {
+                    "assist": "F. Conceição",
+                    "event_type": "Goal",
+                    "player": "B. Fernandes",
+                    "score_update": "2 - 0",
+                    "team": "Portugal",
+                    "time": "75'"
+                },
+                {
+                    "assist": "V. Mendez",
+                    "event_type": "Goal",
+                    "player": "L. Cepeda",
+                    "score_update": "2 - 1",
+                    "team": "Chile",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "06/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Portugal 2 - 1 Chile"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "30/03/2026",
+                            "result": "L",
+                            "teams_and_score": "New Zealand 4 - 1 Chile"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "18/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Chile 2 - 1 Peru"
+                        },
+                        {
+                            "competition": "CONMEBOL Qualification",
+                            "date": "09/09/2025",
+                            "result": "D",
+                            "teams_and_score": "Chile 0 - 0 Uruguay"
+                        }
+                    ],
+                    "team": "Chile"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "06/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Portugal 2 - 1 Chile"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group F",
+                            "date": "16/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Portugal 9 - 1 Armenia"
+                        },
+                        {
+                            "competition": "League A: Play-off",
+                            "date": "08/06/2025",
+                            "result": "D",
+                            "teams_and_score": "Portugal 2 - 2 Spain"
+                        }
+                    ],
+                    "team": "Portugal"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Friendlies",
+                        "date": "26/03/2011",
+                        "teams_and_score": "Portugal 1 - 1 Chile"
+                    }
+                ],
+                "summary": {
+                    "Chile_wins": "0",
+                    "Portugal_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Chile": "38%",
+                    "Portugal": "62%"
+                },
+                "corners": {
+                    "Chile": "3",
+                    "Portugal": "9"
+                },
+                "fouls": {
+                    "Chile": "17",
+                    "Portugal": "8"
+                },
+                "goalkeeper_saves": {
+                    "Chile": "6",
+                    "Portugal": "3"
+                },
+                "offsides": {
+                    "Chile": "1",
+                    "Portugal": "3"
+                },
+                "red_cards": {
+                    "Chile": "1",
+                    "Portugal": "1"
+                },
+                "shots_blocked": {
+                    "Chile": "2",
+                    "Portugal": "5"
+                },
+                "shots_off_target": {
+                    "Chile": "5",
+                    "Portugal": "5"
+                },
+                "shots_on_target": {
+                    "Chile": "4",
+                    "Portugal": "8"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Portugal_v_Chile_2026_06_06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2383.webp",
+                    "name": "Chile",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/27.webp",
+                    "name": "Portugal",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/portugal-v-chile-2026-06-06-S0Ne.webp",
+            "title": "Portugal vs Chile"
+        }
+    ]
+}

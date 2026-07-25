@@ -1,0 +1,1003 @@
+{
+    "team": "Deportivo La Guaira",
+    "team_logo": "https://img.refooty.com/logo/teams/2848.webp",
+    "total_matches": 5,
+    "matches": [
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 7, 2026",
+            "description": "Watch Deportivo La Guaira vs Bolívar highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 7, 2026. A tense affair in the continental stage The clash between Deportivo La Guaira B and Bolívar in the CONMEBOL Libertadores , held on May 7, 2026, promised a high-stakes tactical battle as both sides vied for control. Throughout the match , the physical intensity remained elevated, turning the encounter into a gritty struggle for supremacy in the middle of the park. Breaking the deadlock Deportivo La Guaira B managed to find the breakthrough in the 31st minute. Jorge Gutierrez provided a clinical assist to Jose Meza , who coolly converted the goal to put the hosts in the lead. This advantage allowed the home side to settle into a defensive rhythm, absorbing pressure while looking to catch their opponents on the break as the game progressed into the second half. The last-gasp equalizer The closing stages were marred by a flurry of disciplinary action, as the referee reached into his pocket repeatedly to manage the rising tensions on the pitch. Just as the hosts were preparing to celebrate a narrow win, Leonel Justiniano shattered those hopes in the 90+4th minute by slamming home a dramatic equalizer. The late strike ensured that the points would be shared, capping off a display of resilience from Bolívar in the dying embers of the contest.",
+            "events_timeline": [
+                {
+                    "assist": "J. Gutierrez",
+                    "event_type": "Goal",
+                    "player": "J. A. Meza",
+                    "score_update": "1 - 0",
+                    "team": "Deportivo La Guaira",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Justiniano",
+                    "team": "Bolívar",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "X. Arreaga",
+                    "team": "Bolívar",
+                    "time": "72'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Ortiz",
+                    "team": "Deportivo La Guaira",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Pena",
+                    "team": "Deportivo La Guaira",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Sagredo",
+                    "team": "Bolívar",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Uribe",
+                    "team": "Deportivo La Guaira",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Justiniano",
+                    "score_update": "1 - 1",
+                    "team": "Bolívar",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Varela",
+                    "team": "Deportivo La Guaira",
+                    "time": "90+9'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group C",
+                            "date": "06/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo La Guaira 1 - 1 Bolivar"
+                        },
+                        {
+                            "competition": "Primera Division",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "GV San Jose 1 - 2 Bolivar"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "30/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bolivar 2 - 0 Fluminense"
+                        },
+                        {
+                            "competition": "Primera Division",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bolivar 6 - 0 Real Tomayapo"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "15/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Bolivar 1 - 1 Deportivo La Guaira"
+                        }
+                    ],
+                    "team": "Bolívar"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group C",
+                            "date": "06/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo La Guaira 1 - 1 Bolivar"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura: Group A",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Academia Puerto Cabello 1 - 1 Deportivo La Guaira"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "30/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente Rivadavia 4 - 1 Deportivo La Guaira"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Trujillanos FC 0 - 1 Deportivo La Guaira"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "15/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Bolivar 1 - 1 Deportivo La Guaira"
+                        }
+                    ],
+                    "team": "Deportivo La Guaira"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group C",
+                        "date": "15/04/2026",
+                        "teams_and_score": "Bolivar 1 - 1 Deportivo La Guaira"
+                    }
+                ],
+                "summary": {
+                    "Bolívar_wins": "0",
+                    "Deportivo La Guaira_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/deportivo-la-guaira-b-vs-bolivar-2026-05-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3702.webp",
+                    "name": "Bolívar",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2848.webp",
+                    "name": "Deportivo La Guaira",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/deportivo-la-guaira-b-vs-bolivar-2026-05-07-6Xo6.webp",
+            "title": "Deportivo La Guaira B vs Bolívar"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 7, 2026",
+            "description": "Watch Deportivo La Guaira vs Fluminense highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 7, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Osio",
+                    "team": "Deportivo La Guaira",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Rivero",
+                    "team": "Deportivo La Guaira",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Paredes",
+                    "team": "Deportivo La Guaira",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Gutierrez",
+                    "team": "Deportivo La Guaira",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group C",
+                            "date": "07/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo La Guaira 0 - 0 Fluminense"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "04/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Coritiba 1 - 1 Fluminense"
+                        },
+                        {
+                            "competition": "Carioca Taca Guanabara: Play-off",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Fluminense 0 - 0 Flamengo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Palmeiras 2 - 1 Fluminense"
+                        }
+                    ],
+                    "team": "Fluminense"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "10/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Deportivo Tachira 2 - 3 Deportivo La Guaira"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "07/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo La Guaira 0 - 0 Fluminense"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "02/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo La Guaira 1 - 1 Carabobo FC"
+                        }
+                    ],
+                    "team": "Deportivo La Guaira"
+                },
+                "summary": {
+                    "Deportivo La Guaira_wins": "0",
+                    "Fluminense_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Deportivo La Guaira": "36%",
+                    "Fluminense": "64%"
+                },
+                "corners": {
+                    "Deportivo La Guaira": "3",
+                    "Fluminense": "8"
+                },
+                "fouls": {
+                    "Deportivo La Guaira": "10",
+                    "Fluminense": "9"
+                },
+                "goalkeeper_saves": {
+                    "Deportivo La Guaira": "7",
+                    "Fluminense": "1"
+                },
+                "offsides": {
+                    "Deportivo La Guaira": "5",
+                    "Fluminense": "0"
+                },
+                "shots_off_target": {
+                    "Deportivo La Guaira": "2",
+                    "Fluminense": "3"
+                },
+                "shots_on_target": {
+                    "Deportivo La Guaira": "1",
+                    "Fluminense": "7"
+                },
+                "yellow_cards": {
+                    "Deportivo La Guaira": "4",
+                    "Fluminense": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/deportivo-la-guaira-b-vs-fluminense-2026-04-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/124.webp",
+                    "name": "Fluminense",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2848.webp",
+                    "name": "Deportivo La Guaira",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/deportivo-la-guaira-b-vs-fluminense-2026-04-07-UYPk.webp",
+            "title": "Deportivo La Guaira B vs Fluminense"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 21, 2026",
+            "description": "Watch Deportivo La Guaira vs Independiente Rivadavia highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 21, 2026. Continental intensity took center stage in a clash where clinical finishing dictated the tempo from the opening whistle. Both sides displayed flashes of brilliance in a high-stakes encounter that kept spectators on the edge of their seats. Explosive First Half Opening On May 21, 2026 , the CONMEBOL Libertadores provided a thrilling spectacle as Deportivo La Guaira faced off against Independiente Rivadavia . The game ignited in the 20th minute when Alex Arce found the back of the net, clinical in his finish following an incisive pass from Sebastian Villa . The home side responded with determination, and their efforts were rewarded in the 29th minute as Diego Osio equalized after being set up by Guillermo Luis Ortiz . The deadlock was short-lived, however. By the 34th minute, Sebastian Villa turned from provider to scorer, reclaiming the lead for the visitors with an assist from Matias Fernandez . As the half drew to a close, the intensity boiled over, resulting in yellow cards for Luciano Gomez and Yackson Rivas , signaling a physical battle for control in the midfield. Arce Takes Command The second half belonged to Alex Arce , who delivered a masterclass in positioning and finishing. In the 60th minute, he struck again to double the visitors' advantage. Despite a flurry of tactical substitutions from both managers, Independiente Rivadavia remained the dominant force. Arce completed his hat-trick in the 76th minute, once again assisted by the creative Matias Fernandez , effectively silencing the home crowd. Deportivo La Guaira managed to pull one back in the 80th minute through substitute Juan Castellanos , but it proved to be little more than a consolation. The closing stages were marked by further disciplinary action, with yellow cards shown to Jose Florentin and Juan Perdomo . As the final whistle blew, the night belonged to Alex Arce , whose three-goal haul secured a vital result for Independiente Rivadavia on the road.",
+            "events_timeline": [
+                {
+                    "assist": "S. Villa",
+                    "event_type": "Goal",
+                    "player": "A. Arce",
+                    "score_update": "0 - 1",
+                    "team": "Independiente Rivadavia",
+                    "time": "1'"
+                },
+                {
+                    "assist": "G. Ortiz",
+                    "event_type": "Goal",
+                    "player": "D. Osio",
+                    "score_update": "1 - 1",
+                    "team": "Deportivo La Guaira",
+                    "time": "16'"
+                },
+                {
+                    "assist": "M. A. Fernandez",
+                    "event_type": "Goal",
+                    "player": "S. Villa",
+                    "score_update": "1 - 2",
+                    "team": "Independiente Rivadavia",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Rivas",
+                    "team": "Deportivo La Guaira",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Gomez",
+                    "team": "Independiente Rivadavia",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Arce",
+                    "score_update": "1 - 3",
+                    "team": "Independiente Rivadavia",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Ortiz",
+                    "team": "Deportivo La Guaira",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. A. Fernandez",
+                    "event_type": "Goal",
+                    "player": "A. Arce",
+                    "score_update": "1 - 4",
+                    "team": "Independiente Rivadavia",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Florentin",
+                    "team": "Independiente Rivadavia",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Castellanos",
+                    "score_update": "2 - 4",
+                    "team": "Deportivo La Guaira",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. L. Perdomo",
+                    "team": "Deportivo La Guaira",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group C",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Deportivo La Guaira 2 - 4 Independiente Rivadavia"
+                        },
+                        {
+                            "competition": "Liga Profesional: Clausura Playoff",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente Rivadavia 1 - 2 Union"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "07/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Independiente Rivadavia 1 - 1 Fluminense"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Aldosivi 1 - 1 Independiente Rivadavia"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "30/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Independiente Rivadavia 4 - 1 Deportivo La Guaira"
+                        }
+                    ],
+                    "team": "Independiente Rivadavia"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group C",
+                            "date": "21/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo La Guaira 2 - 4 Independiente Rivadavia"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura: Group A",
+                            "date": "15/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo La Guaira 0 - 0 Universidad Central"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "06/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo La Guaira 1 - 1 Bolivar"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura: Group A",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Academia Puerto Cabello 1 - 1 Deportivo La Guaira"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "30/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente Rivadavia 4 - 1 Deportivo La Guaira"
+                        }
+                    ],
+                    "team": "Deportivo La Guaira"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group C",
+                        "date": "30/04/2026",
+                        "teams_and_score": "Independiente Rivadavia 4 - 1 Deportivo La Guaira"
+                    }
+                ],
+                "summary": {
+                    "Deportivo La Guaira_wins": "0",
+                    "Independiente Rivadavia_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Deportivo La Guaira": "55%",
+                    "Independiente Rivadavia": "45%"
+                },
+                "corners": {
+                    "Deportivo La Guaira": "7",
+                    "Independiente Rivadavia": "3"
+                },
+                "fouls": {
+                    "Deportivo La Guaira": "9",
+                    "Independiente Rivadavia": "15"
+                },
+                "goalkeeper_saves": {
+                    "Deportivo La Guaira": "3",
+                    "Independiente Rivadavia": "3"
+                },
+                "offsides": {
+                    "Deportivo La Guaira": "0",
+                    "Independiente Rivadavia": "1"
+                },
+                "shots_blocked": {
+                    "Deportivo La Guaira": "3",
+                    "Independiente Rivadavia": "2"
+                },
+                "shots_off_target": {
+                    "Deportivo La Guaira": "7",
+                    "Independiente Rivadavia": "5"
+                },
+                "shots_on_target": {
+                    "Deportivo La Guaira": "5",
+                    "Independiente Rivadavia": "7"
+                },
+                "yellow_cards": {
+                    "Deportivo La Guaira": "3",
+                    "Independiente Rivadavia": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/deportivo-la-guaira-vs-independiente-rivadavia-2026-05-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/22938.webp",
+                    "name": "Independiente Rivadavia",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2848.webp",
+                    "name": "Deportivo La Guaira",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/deportivo-la-guaira-vs-independiente-rivadavia-2026-05-21-gZvZ.webp",
+            "title": "Deportivo La Guaira vs Independiente Rivadavia"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 27, 2026",
+            "description": "Watch Fluminense vs Deportivo La Guaira highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 27, 2026. The CONMEBOL Libertadores stage was set for a compelling battle as Fluminense hosted Deportivo La Guaira . Fans gathered with high expectations for a match that promised tactical intrigue and continental drama from the very first whistle. Early Fire and Instant Response On May 27, 2026 , the contest ignited with a clinical start from the home side. Fluminense established their presence early on, earning a penalty just ten minutes into the match. Jefferson Savarino stepped up and showed nerves of steel, converting from the spot to give his team the early advantage. However, the celebrations were momentarily silenced when Deportivo La Guaira struck back almost immediately. In the 12th minute, Flabian Londono found the back of the net, stunning the crowd and leveling the proceedings in a frantic opening sequence. Restoring Order at the Maracanã Despite the sudden equalizer, Fluminense refused to let the momentum slip away. They regained control of the midfield and began to carve through the opposition defense with slick passing movements. The breakthrough came in the 28th minute when Martinelli provided a brilliant assist for Hercules , who finished clinically to restore the lead for the Rio de Janeiro giants. The tactical superiority of the hosts was evident as they dominated possession and restricted their opponents' opportunities for the remainder of the first half. Sealing the Victory The second half saw the hosts look to put the game out of reach, and they did exactly that in the 66th minute. Agustin Canobbio showcased his goal-scoring instincts, finding the target to extend the lead and provide a comfortable cushion for the final stages of the match. As the clock wound down, both managers utilized their benches to manage energy levels. Fluminense introduced fresh legs in Kevin Serna and the prolific German Cano , while Deportivo La Guaira attempted to find a way back with multiple personnel changes. Ultimately, the home side's discipline ensured there would be no late surprises, securing a vital continental win.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "J. Savarino",
+                    "score_update": "1 - 0",
+                    "team": "Fluminense",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Londono",
+                    "score_update": "1 - 1",
+                    "team": "Deportivo La Guaira",
+                    "time": "16'"
+                },
+                {
+                    "assist": "M. Martinelli",
+                    "event_type": "Goal",
+                    "player": "Hercules",
+                    "score_update": "2 - 1",
+                    "team": "Fluminense",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Canobbio",
+                    "score_update": "3 - 1",
+                    "team": "Fluminense",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group C",
+                            "date": "28/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Fluminense 3 - 1 Deportivo La Guaira"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura: Group A",
+                            "date": "23/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Portuguesa FC 0 - 2 Deportivo La Guaira"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "21/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo La Guaira 2 - 4 Independiente Rivadavia"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura: Group A",
+                            "date": "15/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo La Guaira 0 - 0 Universidad Central"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "06/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo La Guaira 1 - 1 Bolivar"
+                        }
+                    ],
+                    "team": "Deportivo La Guaira"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group C",
+                            "date": "28/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Fluminense 3 - 1 Deportivo La Guaira"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "23/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Mirassol 1 - 0 Fluminense"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "19/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Fluminense 2 - 1 Bolivar"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Fluminense 2 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "13/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Fluminense 2 - 1 Operario Ferroviario"
+                        }
+                    ],
+                    "team": "Fluminense"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group C",
+                        "date": "07/04/2026",
+                        "teams_and_score": "Deportivo La Guaira 0 - 0 Fluminense"
+                    }
+                ],
+                "summary": {
+                    "Deportivo La Guaira_wins": "0",
+                    "Fluminense_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Deportivo La Guaira": "44%",
+                    "Fluminense": "56%"
+                },
+                "corners": {
+                    "Deportivo La Guaira": "1",
+                    "Fluminense": "2"
+                },
+                "fouls": {
+                    "Deportivo La Guaira": "9",
+                    "Fluminense": "11"
+                },
+                "goalkeeper_saves": {
+                    "Deportivo La Guaira": "0",
+                    "Fluminense": "2"
+                },
+                "offsides": {
+                    "Deportivo La Guaira": "0",
+                    "Fluminense": "6"
+                },
+                "shots_blocked": {
+                    "Deportivo La Guaira": "4",
+                    "Fluminense": "1"
+                },
+                "shots_off_target": {
+                    "Deportivo La Guaira": "3",
+                    "Fluminense": "3"
+                },
+                "shots_on_target": {
+                    "Deportivo La Guaira": "3",
+                    "Fluminense": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fluminense-vs-deportivo-la-guaira-2026-05-27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2848.webp",
+                    "name": "Deportivo La Guaira",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/124.webp",
+                    "name": "Fluminense",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fluminense-vs-deportivo-la-guaira-2026-05-27-VQsn.webp",
+            "title": "Fluminense vs Deportivo La Guaira"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 1, 2026",
+            "description": "Watch Independiente Rivadavia vs Deportivo La Guaira highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 1, 2026. Under the lights of a high-stakes continental night, two determined sides clashed in a battle defined by tactical discipline and moments of individual brilliance. The encounter promised intensity from the first whistle as both teams looked to establish their dominance in the early stages of the group phase. Early Breakthrough and Physicality The CONMEBOL Libertadores stage was set for a bruising encounter on May 1, 2026 , as Independiente Rivadavia hosted Deportivo La Guaira B in a match that tested the resolve of both squads. From the opening exchanges, it was clear that neither side would give an inch in a contest defined by tactical fouls and rapid transitions. The tone was set as early as the 4th minute when Pedro Ramirez received a yellow card for a heavy challenge, signaling the physical nature of the evening ahead. The deadlock did not last long, however. In the 13th minute, Mariano Bracamonte found space in the final third and clinicaly converted his chance to put his side in the lead. The goal sparked an immediate increase in tempo, but the rhythm of the game was frequently interrupted by the referee’s whistle. Mateo Perez Curci was booked just a minute after the goal, and Juan Cruz Randazzo followed him into the book before the interval as the defensive units prioritized stopping attacks at all costs, leading to a fragmented but fascinating first half. Second Half Adjustments and Tactical Shifts The second half began with the same combative energy that defined the first. Jonatan Goitia was cautioned shortly after the restart, and by the hour mark, the game had devolved into a midfield scrap. Ivan Marcone became the latest player to see yellow in the 63rd minute, prompting both managers to look toward their benches to inject fresh energy and avoid further disciplinary trouble. A flurry of substitutions followed, with Lautaro Millan and Felipe Tempone entering the fray in the 66th minute, followed quickly by Nicolas Watson and Gabriel Obredor . These changes aimed to break the defensive deadlock that had settled over the pitch, as the leading side looked to protect their slim advantage while the opposition pushed desperately for an equalizer. Jonathan Herrera saw yellow just before being withdrawn, highlighting the mounting frustration as the clock ticked toward the final twenty minutes. Late Drama and the Final Whistle The persistence of the trailing side finally paid off in the 80th minute. Pedro Ramirez , who had played most of the match on a yellow card, turned from villain to hero by finding the back of the net with a composed finish. The equalizer set up a grandstand finish, with both teams sensing a late winner. The intensity boiled over in the 85th minute, resulting in simultaneous yellow cards for Gonzalo Flores and Facundo Zabala as tempers flared in the closing stages. Managers made their final tactical moves in the dying minutes, with Milton Valenzuela and Facundo Valdez introduced to stabilize the lines. Despite six minutes of added time and a late appearance by Angel Stringa , neither side could find the decisive third goal of the match. When the referee finally blew the whistle after 96 minutes of grueling football, both Independiente Rivadavia and Deportivo La Guaira B walked away with a hard-earned point following a contest that was as much about endurance as it was about skill.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Ramirez",
+                    "team": "Independiente Rivadavia",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Bracamonte",
+                    "score_update": "1 - 0",
+                    "team": "Independiente Rivadavia",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Perez",
+                    "team": "Deportivo La Guaira",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. C. Randazzo",
+                    "team": "Independiente Rivadavia",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Goitía",
+                    "team": "Independiente Rivadavia",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Marcone",
+                    "team": "Deportivo La Guaira",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Herrera",
+                    "team": "Independiente Rivadavia",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Ramirez",
+                    "score_update": "2 - 0",
+                    "team": "Independiente Rivadavia",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Gonzalo",
+                    "team": "Independiente Rivadavia",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Zabala",
+                    "team": "Deportivo La Guaira",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "24/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo Riestra 2 - 0 Independiente"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "27/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente 4 - 2 Sportivo Atenas"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Independiente 1 - 2 Talleres"
+                        }
+                    ],
+                    "team": "Deportivo La Guaira"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo Riestra 2 - 1 Montevideo City Torque"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "24/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo Riestra 2 - 0 Independiente"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "14/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Gremio 1 - 0 Deportivo Riestra"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Deportivo Riestra 0 - 1 Instituto Cordoba"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "08/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo Riestra 0 - 0 Palestino"
+                        }
+                    ],
+                    "team": "Independiente Rivadavia"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primera Division: Clausura",
+                        "date": "10/11/2025",
+                        "teams_and_score": "Deportivo Riestra 0 - 1 Independiente"
+                    },
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "28/04/2025",
+                        "teams_and_score": "Independiente 0 - 0 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "06/10/2024",
+                        "teams_and_score": "Independiente 3 - 1 Deportivo Riestra"
+                    },
+                    {
+                        "competition": "Copa de la Liga Profesional",
+                        "date": "15/03/2024",
+                        "teams_and_score": "Deportivo Riestra 1 - 0 Independiente"
+                    }
+                ],
+                "summary": {
+                    "Deportivo La Guaira_wins": "2",
+                    "Independiente Rivadavia_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Deportivo La Guaira": "65%",
+                    "Independiente Rivadavia": "35%"
+                },
+                "corners": {
+                    "Deportivo La Guaira": "3",
+                    "Independiente Rivadavia": "3"
+                },
+                "fouls": {
+                    "Deportivo La Guaira": "12",
+                    "Independiente Rivadavia": "14"
+                },
+                "goalkeeper_saves": {
+                    "Deportivo La Guaira": "1",
+                    "Independiente Rivadavia": "9"
+                },
+                "offsides": {
+                    "Deportivo La Guaira": "2",
+                    "Independiente Rivadavia": "1"
+                },
+                "shots_off_target": {
+                    "Deportivo La Guaira": "2",
+                    "Independiente Rivadavia": "2"
+                },
+                "shots_on_target": {
+                    "Deportivo La Guaira": "9",
+                    "Independiente Rivadavia": "3"
+                },
+                "yellow_cards": {
+                    "Deportivo La Guaira": "3",
+                    "Independiente Rivadavia": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/independiente-rivadavia-vs-deportivo-la-guaira-b-2026-05-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2848.webp",
+                    "name": "Deportivo La Guaira",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/22938.webp",
+                    "name": "Independiente Rivadavia",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/independiente-rivadavia-vs-deportivo-la-guaira-b-2026-05-01-kIU5.webp",
+            "title": "Independiente Rivadavia vs Deportivo La Guaira B"
+        }
+    ]
+}

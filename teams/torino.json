@@ -1,0 +1,2749 @@
+{
+    "team": "Torino",
+    "team_logo": "https://img.refooty.com/logo/teams/503.webp",
+    "total_matches": 22,
+    "matches": [
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Mar 21, 2026",
+            "description": "Watch AC Milan vs Torino highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on March 21, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Tomori",
+                    "team": "AC Milan",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Pavlović",
+                    "score_update": "1 - 0",
+                    "team": "AC Milan",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Simeone",
+                    "score_update": "1 - 1",
+                    "team": "Torino",
+                    "time": "31'"
+                },
+                {
+                    "assist": "C. Pulisic",
+                    "event_type": "Goal",
+                    "player": "A. Rabiot",
+                    "score_update": "2 - 1",
+                    "team": "AC Milan",
+                    "time": "54'"
+                },
+                {
+                    "assist": "Z. Athekame",
+                    "event_type": "Goal",
+                    "player": "Y. Fofana",
+                    "score_update": "3 - 1",
+                    "team": "AC Milan",
+                    "time": "56'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Pavlović",
+                    "team": "AC Milan",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Vlašić",
+                    "score_update": "3 - 2",
+                    "team": "Torino",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. D'Aversa",
+                    "team": "Torino",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Ilkhan",
+                    "team": "Torino",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Giménez",
+                    "team": "AC Milan",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "AC Milan 3 - 2 Torino"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "04/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Inter 2 - 1 Torino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "01/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 1 - 0 Lecce"
+                        }
+                    ],
+                    "team": "Torino"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "AC Milan 3 - 2 Torino"
+                        }
+                    ],
+                    "team": "AC Milan"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "08/12/2025",
+                        "teams_and_score": "Torino 2 - 3 AC Milan"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Torino 2 - 1 AC Milan"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "18/05/2024",
+                        "teams_and_score": "Torino 3 - 1 AC Milan"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "10/02/2023",
+                        "teams_and_score": "AC Milan 1 - 0 Torino"
+                    },
+                    {
+                        "competition": "Coppa Italia: Round of 16 22/23",
+                        "date": "11/01/2023",
+                        "teams_and_score": "AC Milan 0 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "30/10/2022",
+                        "teams_and_score": "Torino 2 - 1 AC Milan"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "10/04/2022",
+                        "teams_and_score": "Torino 0 - 0 AC Milan"
+                    }
+                ],
+                "summary": {
+                    "AC Milan_wins": "2",
+                    "Torino_wins": "4",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AC Milan": "63%",
+                    "Torino": "37%"
+                },
+                "corners": {
+                    "AC Milan": "4",
+                    "Torino": "6"
+                },
+                "crosses": {
+                    "AC Milan": "3",
+                    "Torino": "9"
+                },
+                "fouls": {
+                    "AC Milan": "9",
+                    "Torino": "10"
+                },
+                "goalkeeper_saves": {
+                    "AC Milan": "5",
+                    "Torino": "3"
+                },
+                "offsides": {
+                    "AC Milan": "1",
+                    "Torino": "2"
+                },
+                "shots_blocked": {
+                    "AC Milan": "7",
+                    "Torino": "3"
+                },
+                "shots_off_target": {
+                    "AC Milan": "2",
+                    "Torino": "8"
+                },
+                "shots_on_target": {
+                    "AC Milan": "6",
+                    "Torino": "7"
+                },
+                "yellow_cards": {
+                    "AC Milan": "3",
+                    "Torino": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/AC_Milan_v_Torino_2026_03_21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/503.webp",
+                    "name": "Torino",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/489.webp",
+                    "name": "AC Milan",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/ac-milan-v-torino-2026-03-21-0LYs.webp",
+            "title": "AC Milan vs Torino"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Sep 29, 2025",
+            "description": "Watch Parma vs Torino highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on September 29, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://video.bongdaminhtai.top/Parma_v_Torino_2025_09_29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/parma-v-torino-2025-09-29.webp",
+            "title": "AC Parma vs Torino"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Oct 29, 2025",
+            "description": "Watch Bologna vs Torino highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on October 29, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bologna_v_Torino_2025_10_29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bologna-v-torino-2025-10-29.webp",
+            "title": "Bologna vs Torino"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Cagliari vs Torino highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on May 17, 2026. Cagliari hosted an intense Serie A fixture on May 17, 2026, where the tactical battle between the two sides unfolded into a captivating display of professional football. The match provided a sharp contrast of momentum shifts that kept the atmosphere electric throughout the afternoon. First-half fireworks The game roared into life in the 38th minute when Rafael Obrador fired a stunning long-range effort to put Torino in front. The lead was short-lived, however, as Sebastiano Esposito leveled the score just one minute later, thanks to a clever assist from Matteo Prati . Just as the first half appeared set to end on even terms, Yerry Mina rose highest in the 45+2 minute to head home, handing Cagliari the lead heading into the break. A dramatic conclusion The second half saw Torino push aggressively for an equalizer, bringing on fresh legs like Andrea Belotti to sharpen their attack. As the game entered its closing stages, tempers flared, resulting in yellow cards for Guillermo Maripan and Paul Mendy due to a scuffle in the 82nd minute. The drama reached its zenith in the seventh minute of injury time, when the referee halted play to review a potential penalty for Torino via VAR . Following the review, the original decision not to award the spot-kick stood, allowing Cagliari to hold onto their advantage until the final whistle.",
+            "events_timeline": [
+                {
+                    "assist": "M. Prati",
+                    "event_type": "Goal",
+                    "player": "R. Obrador",
+                    "score_update": "0 - 1",
+                    "team": "Torino",
+                    "time": "38'"
+                },
+                {
+                    "assist": "G. Gaetano",
+                    "event_type": "Goal",
+                    "player": "S. Esposito",
+                    "score_update": "1 - 1",
+                    "team": "Cagliari",
+                    "time": "39'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Y. Mina",
+                    "score_update": "2 - 1",
+                    "team": "Cagliari",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Mendy",
+                    "team": "Cagliari",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Maripán",
+                    "team": "Torino",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Cagliari 2 - 1 Torino"
+                        }
+                    ],
+                    "team": "Torino"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Cagliari 2 - 1 Torino"
+                        }
+                    ],
+                    "team": "Cagliari"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "27/12/2025",
+                        "teams_and_score": "Torino 1 - 2 Cagliari"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "24/01/2025",
+                        "teams_and_score": "Torino 2 - 0 Cagliari"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "26/01/2024",
+                        "teams_and_score": "Cagliari 1 - 2 Torino"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "27/02/2022",
+                        "teams_and_score": "Torino 1 - 2 Cagliari"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "19/02/2021",
+                        "teams_and_score": "Cagliari 0 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 19/20",
+                        "date": "27/06/2020",
+                        "teams_and_score": "Cagliari 4 - 2 Torino"
+                    }
+                ],
+                "summary": {
+                    "Cagliari_wins": "3",
+                    "Torino_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cagliari": "45%",
+                    "Torino": "55%"
+                },
+                "corners": {
+                    "Cagliari": "5",
+                    "Torino": "1"
+                },
+                "crosses": {
+                    "Cagliari": "4",
+                    "Torino": "2"
+                },
+                "fouls": {
+                    "Cagliari": "8",
+                    "Torino": "13"
+                },
+                "goalkeeper_saves": {
+                    "Cagliari": "2",
+                    "Torino": "1"
+                },
+                "offsides": {
+                    "Cagliari": "1",
+                    "Torino": "1"
+                },
+                "shots_blocked": {
+                    "Cagliari": "3",
+                    "Torino": "5"
+                },
+                "shots_off_target": {
+                    "Cagliari": "6",
+                    "Torino": "2"
+                },
+                "shots_on_target": {
+                    "Cagliari": "4",
+                    "Torino": "3"
+                },
+                "yellow_cards": {
+                    "Cagliari": "1",
+                    "Torino": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cagliari-vs-torino-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/503.webp",
+                    "name": "Torino",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/490.webp",
+                    "name": "Cagliari",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cagliari-vs-torino-2026-05-17-vHKU.webp",
+            "title": "Cagliari vs Torino"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Feb 7, 2026",
+            "description": "Watch Fiorentina vs Torino highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on February 7, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "E. Ilkhan",
+                    "event_type": "Goal",
+                    "player": "C. Casadei",
+                    "score_update": "0 - 1",
+                    "team": "Torino",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Lazaro",
+                    "team": "Torino",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Dodô",
+                    "team": "Fiorentina",
+                    "time": "31'"
+                },
+                {
+                    "assist": "R. Mandragora",
+                    "event_type": "Goal",
+                    "player": "M. Solomon",
+                    "score_update": "1 - 1",
+                    "team": "Fiorentina",
+                    "time": "51'"
+                },
+                {
+                    "assist": "J. Harrison",
+                    "event_type": "Goal",
+                    "player": "M. Kean",
+                    "score_update": "2 - 1",
+                    "team": "Fiorentina",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Maripán",
+                    "team": "Torino",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Marianucci",
+                    "team": "Torino",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Gineitis",
+                    "team": "Torino",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Vanoli",
+                    "team": "Fiorentina",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Baroni",
+                    "team": "Torino",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Comuzzo",
+                    "team": "Fiorentina",
+                    "time": "90+3'"
+                },
+                {
+                    "assist": "G. Gineitis",
+                    "event_type": "Goal",
+                    "player": "G. Maripán",
+                    "score_update": "2 - 2",
+                    "team": "Torino",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Z. Aboukhlal",
+                    "team": "Torino",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "07/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Fiorentina 2 - 2 Torino"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "04/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Inter 2 - 1 Torino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "01/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 1 - 0 Lecce"
+                        },
+                        {
+                            "competition": "Coppa Italia: Round of 16",
+                            "date": "13/01/2026",
+                            "result": "W",
+                            "teams_and_score": "AS Roma 2 - 3 Torino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Atalanta 2 - 0 Torino"
+                        }
+                    ],
+                    "team": "Torino"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "07/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Fiorentina 2 - 2 Torino"
+                        },
+                        {
+                            "competition": "Coppa Italia: Round of 16",
+                            "date": "27/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Fiorentina 1 - 3 Como 1907"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "24/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Fiorentina 1 - 2 Cagliari"
+                        }
+                    ],
+                    "team": "Fiorentina"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "31/08/2025",
+                        "teams_and_score": "Torino 0 - 0 Fiorentina"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "19/01/2025",
+                        "teams_and_score": "Fiorentina 1 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "02/03/2024",
+                        "teams_and_score": "Torino 0 - 0 Fiorentina"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "21/05/2023",
+                        "teams_and_score": "Torino 1 - 1 Fiorentina"
+                    },
+                    {
+                        "competition": "Coppa Italia: Quarter-Finals 22/23",
+                        "date": "01/02/2023",
+                        "teams_and_score": "Fiorentina 2 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "21/01/2023",
+                        "teams_and_score": "Fiorentina 0 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "10/01/2022",
+                        "teams_and_score": "Torino 4 - 0 Fiorentina"
+                    }
+                ],
+                "summary": {
+                    "Fiorentina_wins": "1",
+                    "Torino_wins": "2",
+                    "draws": "4"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fiorentina": "55%",
+                    "Torino": "45%"
+                },
+                "corners": {
+                    "Fiorentina": "9",
+                    "Torino": "4"
+                },
+                "crosses": {
+                    "Fiorentina": "7",
+                    "Torino": "6"
+                },
+                "fouls": {
+                    "Fiorentina": "6",
+                    "Torino": "23"
+                },
+                "goalkeeper_saves": {
+                    "Fiorentina": "2",
+                    "Torino": "3"
+                },
+                "offsides": {
+                    "Fiorentina": "3",
+                    "Torino": "1"
+                },
+                "shots_blocked": {
+                    "Fiorentina": "6",
+                    "Torino": "6"
+                },
+                "shots_off_target": {
+                    "Fiorentina": "10",
+                    "Torino": "2"
+                },
+                "shots_on_target": {
+                    "Fiorentina": "5",
+                    "Torino": "4"
+                },
+                "yellow_cards": {
+                    "Fiorentina": "2",
+                    "Torino": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Fiorentina_v_Torino_2026_02_07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/503.webp",
+                    "name": "Torino",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/502.webp",
+                    "name": "Fiorentina",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fiorentina-v-torino-2026-02-07-sjbT.webp",
+            "title": "Fiorentina vs Torino"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Feb 22, 2026",
+            "description": "Watch Genoa vs Torino highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on February 22, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "B. Norton-Cuffy",
+                    "score_update": "1 - 0",
+                    "team": "Genoa",
+                    "time": "21'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Ekuban",
+                    "score_update": "2 - 0",
+                    "team": "Genoa",
+                    "time": "40'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Simeone",
+                    "team": "Torino",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "E. Ilkhan",
+                    "team": "Torino",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Messias",
+                    "score_update": "3 - 0",
+                    "team": "Genoa",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "22/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Genoa 3 - 0 Torino"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "04/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Inter 2 - 1 Torino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "01/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 1 - 0 Lecce"
+                        },
+                        {
+                            "competition": "Coppa Italia: Round of 16",
+                            "date": "13/01/2026",
+                            "result": "W",
+                            "teams_and_score": "AS Roma 2 - 3 Torino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Atalanta 2 - 0 Torino"
+                        }
+                    ],
+                    "team": "Torino"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Genoa 3 - 0 Torino"
+                        }
+                    ],
+                    "team": "Genoa"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "26/10/2025",
+                        "teams_and_score": "Torino 2 - 1 Genoa"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "08/02/2025",
+                        "teams_and_score": "Torino 1 - 1 Genoa"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "13/01/2024",
+                        "teams_and_score": "Genoa 0 - 0 Torino"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "18/03/2022",
+                        "teams_and_score": "Genoa 1 - 0 Torino"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "13/02/2021",
+                        "teams_and_score": "Torino 0 - 0 Genoa"
+                    },
+                    {
+                        "competition": "Serie A 19/20",
+                        "date": "16/07/2020",
+                        "teams_and_score": "Torino 3 - 0 Genoa"
+                    }
+                ],
+                "summary": {
+                    "Genoa_wins": "1",
+                    "Torino_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Genoa": "62%",
+                    "Torino": "38%"
+                },
+                "corners": {
+                    "Genoa": "1",
+                    "Torino": "3"
+                },
+                "crosses": {
+                    "Genoa": "3",
+                    "Torino": "1"
+                },
+                "fouls": {
+                    "Genoa": "9",
+                    "Torino": "14"
+                },
+                "goalkeeper_saves": {
+                    "Genoa": "2",
+                    "Torino": "2"
+                },
+                "offsides": {
+                    "Genoa": "0",
+                    "Torino": "1"
+                },
+                "red_cards": {
+                    "Genoa": "0",
+                    "Torino": "1"
+                },
+                "shots_blocked": {
+                    "Genoa": "6",
+                    "Torino": "1"
+                },
+                "shots_off_target": {
+                    "Genoa": "5",
+                    "Torino": "3"
+                },
+                "shots_on_target": {
+                    "Genoa": "5",
+                    "Torino": "3"
+                },
+                "yellow_cards": {
+                    "Genoa": "0",
+                    "Torino": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Genoa_v_Torino_2026_02_22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/503.webp",
+                    "name": "Torino",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/495.webp",
+                    "name": "Genoa",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/genoa-v-torino-2026-02-22-eFzK.webp",
+            "title": "Genoa vs Torino"
+        },
+        {
+            "competition": "Coppa Italia",
+            "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
+            "date": "Feb 4, 2026",
+            "description": "Watch Inter vs Torino highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on February 4, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "I. Kamate",
+                    "event_type": "Goal",
+                    "player": "A. Bonny",
+                    "score_update": "1 - 0",
+                    "team": "Inter",
+                    "time": "1'"
+                },
+                {
+                    "assist": "M. Thuram",
+                    "event_type": "Goal",
+                    "player": "A. Diouf",
+                    "score_update": "2 - 0",
+                    "team": "Inter",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Kulenović",
+                    "score_update": "2 - 1",
+                    "team": "Torino",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Sučić",
+                    "team": "Inter",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Kamate",
+                    "team": "Inter",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Esposito",
+                    "team": "Inter",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Maripán",
+                    "team": "Torino",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "04/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Inter 2 - 1 Torino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "01/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 1 - 0 Lecce"
+                        },
+                        {
+                            "competition": "Coppa Italia: Round of 16",
+                            "date": "13/01/2026",
+                            "result": "W",
+                            "teams_and_score": "AS Roma 2 - 3 Torino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Atalanta 2 - 0 Torino"
+                        }
+                    ],
+                    "team": "Torino"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Inter 2 - 1 Torino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "01/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Cremonese 0 - 2 Inter"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Borussia Dortmund 0 - 2 Inter"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "23/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Inter 6 - 2 Pisa"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "20/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Inter 1 - 3 Arsenal"
+                        }
+                    ],
+                    "team": "Inter"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "25/08/2025",
+                        "teams_and_score": "Inter 5 - 0 Torino"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "11/05/2025",
+                        "teams_and_score": "Torino 0 - 2 Inter"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "28/04/2024",
+                        "teams_and_score": "Inter 2 - 0 Torino"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "03/06/2023",
+                        "teams_and_score": "Torino 0 - 1 Inter"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "13/03/2022",
+                        "teams_and_score": "Torino 1 - 1 Inter"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "14/03/2021",
+                        "teams_and_score": "Torino 1 - 2 Inter"
+                    }
+                ],
+                "summary": {
+                    "Inter_wins": "5",
+                    "Torino_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Inter": "62%",
+                    "Torino": "38%"
+                },
+                "corners": {
+                    "Inter": "2",
+                    "Torino": "2"
+                },
+                "fouls": {
+                    "Inter": "11",
+                    "Torino": "12"
+                },
+                "goalkeeper_saves": {
+                    "Inter": "3",
+                    "Torino": "2"
+                },
+                "offsides": {
+                    "Inter": "1",
+                    "Torino": "1"
+                },
+                "shots_blocked": {
+                    "Inter": "2",
+                    "Torino": "2"
+                },
+                "shots_off_target": {
+                    "Inter": "4",
+                    "Torino": "5"
+                },
+                "shots_on_target": {
+                    "Inter": "4",
+                    "Torino": "4"
+                },
+                "yellow_cards": {
+                    "Inter": "3",
+                    "Torino": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Inter_v_Torino_2026_02_04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/503.webp",
+                    "name": "Torino",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/505.webp",
+                    "name": "Inter",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/inter-v-torino-2026-02-04-Hxr5.webp",
+            "title": "Inter Milan vs Torino"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Oct 4, 2025",
+            "description": "Watch Lazio vs Torino highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on October 4, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Lazio_v_Torino_2025_10_04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lazio-v-torino-2025-10-04.webp",
+            "title": "Lazio vs Torino"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Nov 30, 2025",
+            "description": "Watch Lecce vs Torino highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on November 30, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Lecce_v_Torino_2025_11_30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lecce-v-torino-2025-11-30.webp",
+            "title": "Lecce vs Torino"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Mar 6, 2026",
+            "description": "Watch Napoli vs Torino highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on March 6, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "L. Spinazzola",
+                    "event_type": "Goal",
+                    "player": "A. Santos",
+                    "score_update": "1 - 0",
+                    "team": "Napoli",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Gineitis",
+                    "team": "Torino",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Ismajli",
+                    "team": "Torino",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Politano",
+                    "event_type": "Goal",
+                    "player": "E. Elmas",
+                    "score_update": "2 - 0",
+                    "team": "Napoli",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Lazaro",
+                    "team": "Torino",
+                    "time": "91'"
+                },
+                {
+                    "assist": "C. Adams",
+                    "event_type": "Goal",
+                    "player": "C. Casadei",
+                    "score_update": "2 - 1",
+                    "team": "Torino",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "06/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 2 - 1 Torino"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "04/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Inter 2 - 1 Torino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "01/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 1 - 0 Lecce"
+                        },
+                        {
+                            "competition": "Coppa Italia: Round of 16",
+                            "date": "13/01/2026",
+                            "result": "W",
+                            "teams_and_score": "AS Roma 2 - 3 Torino"
+                        }
+                    ],
+                    "team": "Torino"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Napoli 2 - 1 Torino"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "10/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Napoli 1 - 1 Como 1907"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Genoa 2 - 3 Napoli"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Napoli 2 - 3 Chelsea"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Juventus 3 - 0 Napoli"
+                        }
+                    ],
+                    "team": "Napoli"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "18/10/2025",
+                        "teams_and_score": "Torino 1 - 0 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "27/04/2025",
+                        "teams_and_score": "Napoli 2 - 0 Torino"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "08/03/2024",
+                        "teams_and_score": "Napoli 1 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "19/03/2023",
+                        "teams_and_score": "Torino 0 - 4 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "07/05/2022",
+                        "teams_and_score": "Torino 0 - 1 Napoli"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "26/04/2021",
+                        "teams_and_score": "Torino 0 - 2 Napoli"
+                    }
+                ],
+                "summary": {
+                    "Napoli_wins": "4",
+                    "Torino_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Napoli": "64%",
+                    "Torino": "36%"
+                },
+                "corners": {
+                    "Napoli": "11",
+                    "Torino": "2"
+                },
+                "crosses": {
+                    "Napoli": "6",
+                    "Torino": "1"
+                },
+                "fouls": {
+                    "Napoli": "9",
+                    "Torino": "11"
+                },
+                "goalkeeper_saves": {
+                    "Napoli": "3",
+                    "Torino": "7"
+                },
+                "offsides": {
+                    "Napoli": "1",
+                    "Torino": "1"
+                },
+                "shots_blocked": {
+                    "Napoli": "2",
+                    "Torino": "3"
+                },
+                "shots_off_target": {
+                    "Napoli": "3",
+                    "Torino": "0"
+                },
+                "shots_on_target": {
+                    "Napoli": "9",
+                    "Torino": "4"
+                },
+                "yellow_cards": {
+                    "Napoli": "0",
+                    "Torino": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Torino_2026_03_06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/503.webp",
+                    "name": "Torino",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/492.webp",
+                    "name": "Napoli",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-torino-2026-03-06-NSuV.webp",
+            "title": "Napoli vs Torino"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Dec 21, 2025",
+            "description": "Watch Sassuolo vs Torino highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on December 21, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Torino"
+                },
+                "home_team_form": {
+                    "team": "Sassuolo"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Sassuolo_v_Torino_2025_12_21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/503.webp",
+                    "name": "Torino",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/488.webp",
+                    "name": "Sassuolo",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sassuolo-v-torino-2025-12-21.webp",
+            "title": "Sassuolo vs Torino"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Dec 8, 2025",
+            "description": "Watch Torino vs AC Milan highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on December 8, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Torino_v_AC_Milan_2025_12_08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/torino-v-ac-milan-2025-12-08.webp",
+            "title": "Torino vs AC Milan"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Jan 18, 2026",
+            "description": "Watch Torino vs AS Roma highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on January 18, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Torino_v_AS_Roma_2026_01_18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/torino-v-as-roma-2026-01-18-mYxm.webp",
+            "title": "Torino vs AS Roma"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Dec 27, 2025",
+            "description": "Watch Torino vs Cagliari highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on December 27, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Cagliari"
+                },
+                "home_team_form": {
+                    "team": "Torino"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Torino_v_Cagliari_2025_12_27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/490.webp",
+                    "name": "Cagliari",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/503.webp",
+                    "name": "Torino",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/torino-v-cagliari-2025-12-27.webp",
+            "title": "Torino vs Cagliari"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Nov 24, 2025",
+            "description": "Watch Torino vs Como highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on November 24, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Torino_v_Como_2025_11_24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/torino-v-como-2025-11-24.webp",
+            "title": "Torino vs Como"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Oct 26, 2025",
+            "description": "Watch Torino vs Genoa highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on October 26, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Torino_v_Genoa_2025_10_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/torino-v-genoa-2025-10-26.webp",
+            "title": "Torino vs Genoa"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch Torino vs Inter highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on April 26, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "F. Dimarco",
+                    "event_type": "Goal",
+                    "player": "M. Thuram",
+                    "score_update": "0 - 1",
+                    "team": "Inter",
+                    "time": "1'"
+                },
+                {
+                    "assist": "F. Dimarco",
+                    "event_type": "Goal",
+                    "player": "Y. Bisseck",
+                    "score_update": "0 - 2",
+                    "team": "Inter",
+                    "time": "46'"
+                },
+                {
+                    "assist": "E. Ilkhan",
+                    "event_type": "Goal",
+                    "player": "G. Simeone",
+                    "score_update": "1 - 2",
+                    "team": "Torino",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Vlašić",
+                    "score_update": "2 - 2",
+                    "team": "Torino",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. D'Aversa",
+                    "team": "Torino",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Diouf",
+                    "team": "Inter",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Ebosse",
+                    "team": "Torino",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Barella",
+                    "team": "Inter",
+                    "time": "136'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Torino 2 - 2 Inter"
+                        },
+                        {
+                            "competition": "Coppa Italia: Semi-Finals",
+                            "date": "21/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Inter 3 - 2 Como 1907"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Inter 3 - 0 Cagliari"
+                        },
+                        {
+                            "competition": "Coppa Italia: Semi-Finals",
+                            "date": "03/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Como 1907 0 - 0 Inter"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Inter 2 - 0 Genoa"
+                        }
+                    ],
+                    "team": "Inter"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Torino 2 - 2 Inter"
+                        }
+                    ],
+                    "team": "Torino"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Coppa Italia: Quarter-Finals",
+                        "date": "04/02/2026",
+                        "teams_and_score": "Inter 2 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "25/08/2025",
+                        "teams_and_score": "Inter 5 - 0 Torino"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "11/05/2025",
+                        "teams_and_score": "Torino 0 - 2 Inter"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "28/04/2024",
+                        "teams_and_score": "Inter 2 - 0 Torino"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "03/06/2023",
+                        "teams_and_score": "Torino 0 - 1 Inter"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "13/03/2022",
+                        "teams_and_score": "Torino 1 - 1 Inter"
+                    }
+                ],
+                "summary": {
+                    "Inter_wins": "5",
+                    "Torino_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Inter": "63%",
+                    "Torino": "37%"
+                },
+                "corners": {
+                    "Inter": "5",
+                    "Torino": "5"
+                },
+                "crosses": {
+                    "Inter": "5",
+                    "Torino": "3"
+                },
+                "fouls": {
+                    "Inter": "8",
+                    "Torino": "10"
+                },
+                "goalkeeper_saves": {
+                    "Inter": "0",
+                    "Torino": "3"
+                },
+                "offsides": {
+                    "Inter": "1",
+                    "Torino": "1"
+                },
+                "shots_blocked": {
+                    "Inter": "5",
+                    "Torino": "8"
+                },
+                "shots_off_target": {
+                    "Inter": "4",
+                    "Torino": "4"
+                },
+                "shots_on_target": {
+                    "Inter": "5",
+                    "Torino": "2"
+                },
+                "yellow_cards": {
+                    "Inter": "2",
+                    "Torino": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Torino_v_Inter_Milan_2026_04_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/505.webp",
+                    "name": "Inter",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/503.webp",
+                    "name": "Torino",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/torino-v-inter-milan-2026-04-26-W4p3.webp",
+            "title": "Torino vs Inter Milan"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "May 24, 2026",
+            "description": "Watch Torino vs Juventus highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on May 24, 2026. The Turin derby delivered the intensity and historical rivalry expected as Torino hosted Juventus on May 24, 2026. Throughout this Serie A encounter, the momentum swung back and forth, creating a high-stakes atmosphere that kept fans on the edge of their seats. Early Momentum and Clinical Finishing Juventus set the tone early in the match, finding the breakthrough in the 24th minute when Dusan Vlahovic struck with his left foot, set up by a clever assist from Khephren Thuram-Ulien and a key pass from Pierre Kalulu . Despite Torino attempting to find a rhythm through various corner kicks and build-up play, the visitors remained compact. Following the interval, Juventus pushed to extend their lead, and they succeeded in the 54th minute when Dusan Vlahovic netted his second of the game, finishing a well-constructed move assisted by Chico Conceição . The Fightback and Final Drama Trailing by two, the hosts refused to concede defeat and ramped up their tactical aggression. Cesare Casadei sparked hope in the 60th minute, leaping to head home a dangerous delivery from Rafael Obrador . The game turned into a frantic battle as both managers introduced fresh legs to influence the outcome. The pressure finally told in the 84th minute, as Che Adams reacted quickest to a loose ball, slotting home to level the score. Despite a series of late tactical changes and mounting tension in stoppage time, both sides had to settle for a share of the spoils in a hard-fought Serie A clash.",
+            "events_timeline": [
+                {
+                    "assist": "K. Thuram",
+                    "event_type": "Goal",
+                    "player": "D. Vlahović",
+                    "score_update": "0 - 1",
+                    "team": "Juventus",
+                    "time": "1'"
+                },
+                {
+                    "assist": "F. Conceição",
+                    "event_type": "Goal",
+                    "player": "D. Vlahović",
+                    "score_update": "0 - 2",
+                    "team": "Juventus",
+                    "time": "46'"
+                },
+                {
+                    "assist": "R. Obrador",
+                    "event_type": "Goal",
+                    "player": "C. Casadei",
+                    "score_update": "1 - 2",
+                    "team": "Torino",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Kalulu",
+                    "team": "Juventus",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Adams",
+                    "score_update": "2 - 2",
+                    "team": "Torino",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Ebosse",
+                    "team": "Torino",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Zhegrova",
+                    "team": "Juventus",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Torino 2 - 2 Juventus"
+                        }
+                    ],
+                    "team": "Juventus"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Torino 2 - 2 Juventus"
+                        }
+                    ],
+                    "team": "Torino"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "08/11/2025",
+                        "teams_and_score": "Juventus 0 - 0 Torino"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "11/01/2025",
+                        "teams_and_score": "Torino 1 - 1 Juventus"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "13/04/2024",
+                        "teams_and_score": "Torino 0 - 0 Juventus"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "28/02/2023",
+                        "teams_and_score": "Juventus 4 - 2 Torino"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "18/02/2022",
+                        "teams_and_score": "Juventus 1 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "03/04/2021",
+                        "teams_and_score": "Torino 2 - 2 Juventus"
+                    }
+                ],
+                "summary": {
+                    "Juventus_wins": "1",
+                    "Torino_wins": "0",
+                    "draws": "5"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Juventus": "57%",
+                    "Torino": "43%"
+                },
+                "corners": {
+                    "Juventus": "6",
+                    "Torino": "6"
+                },
+                "crosses": {
+                    "Juventus": "3",
+                    "Torino": "6"
+                },
+                "fouls": {
+                    "Juventus": "10",
+                    "Torino": "10"
+                },
+                "goalkeeper_saves": {
+                    "Juventus": "3",
+                    "Torino": "2"
+                },
+                "shots_blocked": {
+                    "Juventus": "5",
+                    "Torino": "4"
+                },
+                "shots_off_target": {
+                    "Juventus": "8",
+                    "Torino": "3"
+                },
+                "shots_on_target": {
+                    "Juventus": "4",
+                    "Torino": "5"
+                },
+                "yellow_cards": {
+                    "Juventus": "2",
+                    "Torino": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Torino_v_Juventus_2026_05_24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/496.webp",
+                    "name": "Juventus",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/503.webp",
+                    "name": "Torino",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/torino-v-juventus-2026-05-24-IuPH.webp",
+            "title": "Torino vs Juventus"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Mar 1, 2026",
+            "description": "Watch Torino vs Lazio highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on March 1, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "G. Simeone",
+                    "score_update": "1 - 0",
+                    "team": "Torino",
+                    "time": "21'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Gineitis",
+                    "team": "Torino",
+                    "time": "45+1'"
+                },
+                {
+                    "assist": "R. Obrador",
+                    "event_type": "Goal",
+                    "player": "D. Zapata",
+                    "score_update": "2 - 0",
+                    "team": "Torino",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Vlašić",
+                    "team": "Torino",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Tameze",
+                    "team": "Torino",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Kulenović",
+                    "team": "Torino",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Tavares",
+                    "team": "Lazio",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Torino 2 - 0 Lazio"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "11/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Bologna 1 - 1 Lazio"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "08/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Juventus 2 - 2 Lazio"
+                        }
+                    ],
+                    "team": "Lazio"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 2 - 0 Lazio"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "04/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Inter 2 - 1 Torino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "01/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 1 - 0 Lecce"
+                        },
+                        {
+                            "competition": "Coppa Italia: Round of 16",
+                            "date": "13/01/2026",
+                            "result": "W",
+                            "teams_and_score": "AS Roma 2 - 3 Torino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Atalanta 2 - 0 Torino"
+                        }
+                    ],
+                    "team": "Torino"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "04/10/2025",
+                        "teams_and_score": "Lazio 3 - 3 Torino"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "31/03/2025",
+                        "teams_and_score": "Lazio 1 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "22/02/2024",
+                        "teams_and_score": "Torino 0 - 2 Lazio"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "22/04/2023",
+                        "teams_and_score": "Lazio 0 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "16/04/2022",
+                        "teams_and_score": "Lazio 1 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "18/05/2021",
+                        "teams_and_score": "Lazio 0 - 0 Torino"
+                    }
+                ],
+                "summary": {
+                    "Lazio_wins": "1",
+                    "Torino_wins": "1",
+                    "draws": "4"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lazio": "55%",
+                    "Torino": "45%"
+                },
+                "corners": {
+                    "Lazio": "9",
+                    "Torino": "6"
+                },
+                "crosses": {
+                    "Lazio": "4",
+                    "Torino": "7"
+                },
+                "fouls": {
+                    "Lazio": "5",
+                    "Torino": "13"
+                },
+                "goalkeeper_saves": {
+                    "Lazio": "3",
+                    "Torino": "2"
+                },
+                "offsides": {
+                    "Lazio": "2",
+                    "Torino": "0"
+                },
+                "shots_blocked": {
+                    "Lazio": "5",
+                    "Torino": "5"
+                },
+                "shots_off_target": {
+                    "Lazio": "4",
+                    "Torino": "3"
+                },
+                "shots_on_target": {
+                    "Lazio": "3",
+                    "Torino": "5"
+                },
+                "yellow_cards": {
+                    "Lazio": "1",
+                    "Torino": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Torino_v_Lazio_2026_03_01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/487.webp",
+                    "name": "Lazio",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/503.webp",
+                    "name": "Torino",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/torino-v-lazio-2026-03-01-Go60.webp",
+            "title": "Torino vs Lazio"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Nov 2, 2025",
+            "description": "Watch Torino vs Pisa highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on November 2, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Torino_v_Pisa_2025_11_02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/torino-v-pisa-2025-11-02.webp",
+            "title": "Torino vs Pisa"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "May 8, 2026",
+            "description": "Watch Torino vs Sassuolo highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on May 8, 2026. On 2026-05-08, the Stadio Olimpico Grande Torino played host to a captivating Serie A clash between Torino and Sassuolo . Both teams entered the pitch with clear tactical objectives, setting the stage for a contest defined by discipline and sudden shifts in momentum. Defensive Resilience in the Opening Period The first half was a testament to organized defending, with both sides struggling to break the deadlock despite several set-piece opportunities. Sassuolo came closest to an opener in the 14th minute when Tarik Muharemovic saw his goal-bound effort hacked off the line by the Torino defense following an Armand Lauriente corner. While the hosts controlled periods of possession, their delivery from wide areas often failed to find a teammate, leaving the 18,000 fans in attendance waiting for the first breakthrough at the interval. A Dramatic Turnaround in the Second Half The game exploded into life shortly after the restart. In the 51st minute, Sassuolo took the lead as Kristian Thorstvedt found space to tap home a Luca Lipani assist with his left foot. This goal prompted Torino into a double substitution, bringing on Duvan Zapata and Marcus Holmgren Pedersen to sharpen their attack. The tactical shift paid dividends in the 66th minute when Giovanni Simeone rose highest to head home an equalizer following a cross from Enzo Ebosse . The momentum had firmly shifted, and just four minutes later, Torino struck again. Nikola Vlasic played a short corner to set up Marcus Holmgren Pedersen , who powered a header into the back of the net to make it 2-1. Despite late pressure from the visitors—including a missed header from Ulisses Garcia in stoppage time—and a flurry of yellow cards for Niels Nkounkou and Gvidas Gineitis , the home side held firm to secure a hard-fought victory.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Lipani",
+                    "team": "Sassuolo",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Marianucci",
+                    "team": "Torino",
+                    "time": "51'"
+                },
+                {
+                    "assist": "L. Lipani",
+                    "event_type": "Goal",
+                    "player": "K. Thorstvedt",
+                    "score_update": "0 - 1",
+                    "team": "Sassuolo",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Prati",
+                    "team": "Torino",
+                    "time": "63'"
+                },
+                {
+                    "assist": "E. Ebosse",
+                    "event_type": "Goal",
+                    "player": "G. Simeone",
+                    "score_update": "1 - 1",
+                    "team": "Torino",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Pedersen",
+                    "score_update": "2 - 1",
+                    "team": "Torino",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Thorstvedt",
+                    "team": "Sassuolo",
+                    "time": "86'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Nkounkou",
+                    "team": "Torino",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Gineitis",
+                    "team": "Torino",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "08/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Torino 2 - 1 Sassuolo"
+                        }
+                    ],
+                    "team": "Sassuolo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "08/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 2 - 1 Sassuolo"
+                        }
+                    ],
+                    "team": "Torino"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "21/12/2025",
+                        "teams_and_score": "Sassuolo 0 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "10/02/2024",
+                        "teams_and_score": "Sassuolo 1 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "03/04/2023",
+                        "teams_and_score": "Sassuolo 1 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "23/01/2022",
+                        "teams_and_score": "Torino 1 - 1 Sassuolo"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "17/03/2021",
+                        "teams_and_score": "Torino 3 - 2 Sassuolo"
+                    },
+                    {
+                        "competition": "Serie A 19/20",
+                        "date": "18/01/2020",
+                        "teams_and_score": "Sassuolo 2 - 1 Torino"
+                    }
+                ],
+                "summary": {
+                    "Sassuolo_wins": "1",
+                    "Torino_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Sassuolo": "52%",
+                    "Torino": "48%"
+                },
+                "corners": {
+                    "Sassuolo": "5",
+                    "Torino": "7"
+                },
+                "crosses": {
+                    "Sassuolo": "1",
+                    "Torino": "7"
+                },
+                "fouls": {
+                    "Sassuolo": "9",
+                    "Torino": "13"
+                },
+                "goalkeeper_saves": {
+                    "Sassuolo": "2",
+                    "Torino": "5"
+                },
+                "shots_blocked": {
+                    "Sassuolo": "3",
+                    "Torino": "4"
+                },
+                "shots_off_target": {
+                    "Sassuolo": "3",
+                    "Torino": "10"
+                },
+                "shots_on_target": {
+                    "Sassuolo": "7",
+                    "Torino": "4"
+                },
+                "yellow_cards": {
+                    "Sassuolo": "2",
+                    "Torino": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Torino_v_Sassuolo_2026_05_08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/488.webp",
+                    "name": "Sassuolo",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/503.webp",
+                    "name": "Torino",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/torino-v-sassuolo-2026-05-08-zyhF.webp",
+            "title": "Torino vs Sassuolo"
+        },
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Torino vs Verona highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "M. Pedersen",
+                    "event_type": "Goal",
+                    "player": "G. Simeone",
+                    "score_update": "1 - 0",
+                    "team": "Torino",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Ismajli",
+                    "team": "Torino",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Edmundsson",
+                    "team": "Verona",
+                    "time": "31'"
+                },
+                {
+                    "assist": "L. Montipo",
+                    "event_type": "Goal",
+                    "player": "K. Bowie",
+                    "score_update": "1 - 1",
+                    "team": "Verona",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Frese",
+                    "team": "Verona",
+                    "time": "46'"
+                },
+                {
+                    "assist": "R. Obrador",
+                    "event_type": "Goal",
+                    "player": "C. Casadei",
+                    "score_update": "2 - 1",
+                    "team": "Torino",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "C. Adams",
+                    "team": "Torino",
+                    "time": "56'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Oyegoke",
+                    "team": "Verona",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Valentini",
+                    "team": "Verona",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Torino 2 - 1 Hellas Verona"
+                        }
+                    ],
+                    "team": "Verona"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Torino 2 - 1 Hellas Verona"
+                        },
+                        {
+                            "competition": "Coppa Italia: Quarter-Finals",
+                            "date": "04/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Inter 2 - 1 Torino"
+                        }
+                    ],
+                    "team": "Torino"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "04/01/2026",
+                        "teams_and_score": "Hellas Verona 0 - 3 Torino"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "06/04/2025",
+                        "teams_and_score": "Torino 1 - 1 Hellas Verona"
+                    },
+                    {
+                        "competition": "Serie A 23/24",
+                        "date": "12/05/2024",
+                        "teams_and_score": "Hellas Verona 1 - 2 Torino"
+                    },
+                    {
+                        "competition": "Serie A 22/23",
+                        "date": "14/05/2023",
+                        "teams_and_score": "Hellas Verona 0 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 21/22",
+                        "date": "14/05/2022",
+                        "teams_and_score": "Hellas Verona 0 - 1 Torino"
+                    },
+                    {
+                        "competition": "Serie A 20/21",
+                        "date": "09/05/2021",
+                        "teams_and_score": "Hellas Verona 1 - 1 Torino"
+                    }
+                ],
+                "summary": {
+                    "Torino_wins": "4",
+                    "Verona_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Torino": "46%",
+                    "Verona": "54%"
+                },
+                "corners": {
+                    "Torino": "3",
+                    "Verona": "6"
+                },
+                "crosses": {
+                    "Torino": "2",
+                    "Verona": "5"
+                },
+                "fouls": {
+                    "Torino": "13",
+                    "Verona": "17"
+                },
+                "goalkeeper_saves": {
+                    "Torino": "3",
+                    "Verona": "0"
+                },
+                "offsides": {
+                    "Torino": "2",
+                    "Verona": "1"
+                },
+                "shots_blocked": {
+                    "Torino": "2",
+                    "Verona": "8"
+                },
+                "shots_off_target": {
+                    "Torino": "7",
+                    "Verona": "6"
+                },
+                "shots_on_target": {
+                    "Torino": "2",
+                    "Verona": "4"
+                },
+                "yellow_cards": {
+                    "Torino": "1",
+                    "Verona": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Torino_v_Verona_2026_04_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/504.webp",
+                    "name": "Verona",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/503.webp",
+                    "name": "Torino",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/torino-v-verona-2026-04-11-Nx1D.webp",
+            "title": "Torino vs Verona"
+        }
+    ]
+}

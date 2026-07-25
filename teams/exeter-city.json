@@ -1,0 +1,77 @@
+{
+    "team": "exeter city",
+    "team_logo": "",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Mar 11, 2026",
+            "description": "Watch Exeter City vs Lincoln highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on March 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/exeter-city-lincoln-city-2026-03-11-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/exeter-city-lincoln-city-2026-03-11-vn-688N.webp",
+            "title": "exeter city - lincoln city"
+        },
+        {
+            "competition": "League One",
+            "competition_cover": "https://refooty.com/covers/league-one.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Plymouth vs Exeter City highlights and goals from League One on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/plymouth-argyle-exeter-city-2026-04-11-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/plymouth-argyle-exeter-city-2026-04-11-vn-0VMI.webp",
+            "title": "plymouth argyle - exeter city"
+        }
+    ]
+}

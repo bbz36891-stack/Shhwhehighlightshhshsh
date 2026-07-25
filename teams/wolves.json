@@ -1,0 +1,297 @@
+{
+    "team": "Wolves",
+    "team_logo": "https://img.refooty.com/logo/teams/39.webp",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "May 24, 2026",
+            "description": "Watch Burnley vs Wolves highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on May 24, 2026. The stage was set for a fierce Premier League battle as two determined sides met to test their resolve on the pitch. This encounter took place on May 24, 2026 , bringing an atmosphere of intense competition to the stadium. An early setback The match began with high drama as a handball by Florentino inside the box led to a VAR review. The referee pointed to the spot, and Adam Armstrong stepped up for Wolverhampton , calmly slotting home the opener past Max Weiss to give his side the perfect start. Burnley fights back Despite the early deficit, Burnley maintained their composure and increased their pressure as the game progressed. The breakthrough arrived just two minutes into the second half when Loum Tchaouna provided a brilliant assist for Zian Flemming . With a powerful left-footed strike from outside the box, Flemming beat the keeper and brought the game back to level terms. A tense finale The closing stages were defined by tactical changes and rising emotions. As the clock ticked into stoppage time, frustration boiled over, resulting in yellow cards for Ashley Barnes and Yerson Mosquera following a heated exchange on the field. Both teams pushed for a late winner, with Ashley Barnes forcing a save from the keeper in the dying moments, but the deadlock remained until the final whistle, concluding a hard-fought football match .",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "A. Armstrong",
+                    "score_update": "0 - 1",
+                    "team": "Wolves",
+                    "time": "5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Hee-chan",
+                    "team": "Wolves",
+                    "time": "41'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Mejbri",
+                    "team": "Burnley",
+                    "time": "45+9'"
+                },
+                {
+                    "assist": "L. Tchaouna",
+                    "event_type": "Goal",
+                    "player": "Z. Flemming",
+                    "score_update": "1 - 1",
+                    "team": "Burnley",
+                    "time": "47'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Barnes",
+                    "team": "Burnley",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Mosquera",
+                    "team": "Wolves",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "24/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Burnley 1 - 1 Wolves"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "06/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Wolves 1 - 3 Liverpool"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "03/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Wolves 2 - 1 Liverpool"
+                        }
+                    ],
+                    "team": "Wolves"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "24/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Burnley 1 - 1 Wolves"
+                        }
+                    ],
+                    "team": "Burnley"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "26/10/2025",
+                        "teams_and_score": "Wolves 2 - 3 Burnley"
+                    },
+                    {
+                        "competition": "EFL Cup: Round 2 24/25",
+                        "date": "28/08/2024",
+                        "teams_and_score": "Wolves 2 - 0 Burnley"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "02/04/2024",
+                        "teams_and_score": "Burnley 1 - 1 Wolves"
+                    },
+                    {
+                        "competition": "Premier League 21/22",
+                        "date": "24/04/2022",
+                        "teams_and_score": "Burnley 1 - 0 Wolves"
+                    },
+                    {
+                        "competition": "Premier League 20/21",
+                        "date": "25/04/2021",
+                        "teams_and_score": "Wolves 0 - 4 Burnley"
+                    },
+                    {
+                        "competition": "Premier League 19/20",
+                        "date": "15/07/2020",
+                        "teams_and_score": "Burnley 1 - 1 Wolves"
+                    }
+                ],
+                "summary": {
+                    "Burnley_wins": "3",
+                    "Wolves_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Burnley": "70%",
+                    "Wolves": "30%"
+                },
+                "corners": {
+                    "Burnley": "7",
+                    "Wolves": "7"
+                },
+                "crosses": {
+                    "Burnley": "6",
+                    "Wolves": "8"
+                },
+                "fouls": {
+                    "Burnley": "10",
+                    "Wolves": "11"
+                },
+                "goalkeeper_saves": {
+                    "Burnley": "3",
+                    "Wolves": "7"
+                },
+                "offsides": {
+                    "Burnley": "0",
+                    "Wolves": "3"
+                },
+                "shots_blocked": {
+                    "Burnley": "6",
+                    "Wolves": "7"
+                },
+                "shots_off_target": {
+                    "Burnley": "2",
+                    "Wolves": "5"
+                },
+                "shots_on_target": {
+                    "Burnley": "8",
+                    "Wolves": "4"
+                },
+                "yellow_cards": {
+                    "Burnley": "2",
+                    "Wolves": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/burnley-vs-wolves-2026-05-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/39.webp",
+                    "name": "Wolves",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/44.webp",
+                    "name": "Burnley",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/burnley-vs-wolves-2026-05-24-YzzW.webp",
+            "title": "Burnley vs Wolves"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jul 23, 2026",
+            "description": "Watch Maidenhead vs Wolves highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 23, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Mane",
+                    "score_update": "0 - 1",
+                    "team": "Wolves",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "22/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Maidenhead United 0 - 1 Wolves"
+                        },
+                        {
+                            "competition": "Premier League 25/26",
+                            "date": "24/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Burnley 1 - 1 Wolves"
+                        },
+                        {
+                            "competition": "FA Cup: Round 5",
+                            "date": "06/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Wolves 1 - 3 Liverpool"
+                        }
+                    ],
+                    "team": "Wolves"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "22/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Maidenhead United 0 - 1 Wolves"
+                        },
+                        {
+                            "competition": "National League South: Play-off",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Dorking Wanderers 2 - 0 Maidenhead United"
+                        },
+                        {
+                            "competition": "National League: South",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Hornchurch 0 - 0 Maidenhead United"
+                        }
+                    ],
+                    "team": "Maidenhead"
+                },
+                "summary": {
+                    "Maidenhead_wins": "0",
+                    "Wolves_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/maidenhead-vs-wolves-2026-07-23_5ElE9.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/39.webp",
+                    "name": "Wolves",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1838.webp",
+                    "name": "Maidenhead",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/maidenhead-vs-wolves-2026-07-23-BUC8.webp",
+            "title": "Maidenhead vs Wolves"
+        }
+    ]
+}

@@ -1,0 +1,1420 @@
+{
+    "team": "Sydney",
+    "team_logo": "https://img.refooty.com/logo/teams/943.webp",
+    "total_matches": 8,
+    "matches": [
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "May 23, 2026",
+            "description": "Watch Auckland vs Sydney highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on May 23, 2026. The A-League delivered a high-stakes encounter as Auckland played host to Sydney in a match defined by tactical discipline and a fiercely competitive atmosphere. Fans gathered on May 23, 2026, to witness a battle where every ball was contested with playoff-like intensity. A Gritty Battle for Dominance The opening exchanges set the tone for the afternoon, with both sides prioritizing defensive solidity over reckless attacking. Auckland looked to build from the back, but they were frequently disrupted by a resilient Sydney midfield. The physical nature of the contest was highlighted in the 31st minute when Nando Pijnaker received the game's first yellow card for a robust challenge. While both teams managed to progress into the final third, clear-cut chances remained elusive during the first half. The tactical stalemate persisted until the referee blew for half-time, leaving everything to be decided in a crucial second period where the pressure was bound to reach a breaking point. Howieson Finds the Breakthrough The second half ignited with a flurry of activity as the referee's notebook began to fill up rapidly. Between the 53rd and 58th minutes, a wave of yellow cards was issued to Louis Verstraete , Sam Cosgrove , Daniel Hall , and Callan Elliot , reflecting the rising temperatures on the pitch. Amidst the chaos of fouls and stoppages, a moment of pure footballing quality emerged. In the 60th minute, Cameron Howieson broke the deadlock with a clinical finish that sent the home crowd into raptures. The goal changed the complexion of the match, forcing Sydney to abandon their conservative approach. The visitors introduced Joe Lolley and Patrick Wood in an attempt to find an equalizer, but Auckland 's defensive unit stood tall under increasing pressure. Securing the Three Points As the clock ticked towards the 90-minute mark, the match turned into a game of chess. Auckland made strategic substitutions, bringing on Liam Gillion for Jesse Randall to maintain energy levels in the closing stages. Despite Sydney 's persistent efforts and a late yellow card for Victor Campuzano , the hosts remained composed. After a lengthy period of stoppage time, the final whistle confirmed a hard-earned victory for Auckland . The decisive contribution from Cameron Howieson proved to be the difference in a match where grit and determination were just as important as technical skill.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Pijnaker",
+                    "team": "Auckland",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Verstraete",
+                    "team": "Auckland",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Hall",
+                    "team": "Auckland",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Cosgrove",
+                    "team": "Auckland",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Elliot",
+                    "team": "Auckland",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Howieson",
+                    "score_update": "1 - 0",
+                    "team": "Auckland",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Campuzano",
+                    "team": "Sydney",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League: Play-off 24/25",
+                            "date": "23/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Auckland FC 1 - 0 Sydney FC"
+                        },
+                        {
+                            "competition": "A-League",
+                            "date": "26/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 2 - 2 Auckland FC"
+                        }
+                    ],
+                    "team": "Sydney"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League: Play-off 24/25",
+                            "date": "23/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Auckland FC 1 - 0 Sydney FC"
+                        },
+                        {
+                            "competition": "A-League",
+                            "date": "26/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 2 - 2 Auckland FC"
+                        }
+                    ],
+                    "team": "Auckland"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "26/04/2026",
+                        "teams_and_score": "Sydney FC 2 - 2 Auckland FC"
+                    },
+                    {
+                        "competition": "Australia Cup",
+                        "date": "23/08/2025",
+                        "teams_and_score": "Sydney FC 1 - 1 Auckland FC"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "12/04/2025",
+                        "teams_and_score": "Sydney FC 2 - 2 Auckland FC"
+                    }
+                ],
+                "summary": {
+                    "Auckland_wins": "0",
+                    "Sydney_wins": "0",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Auckland": "38%",
+                    "Sydney": "62%"
+                },
+                "corners": {
+                    "Auckland": "4",
+                    "Sydney": "2"
+                },
+                "fouls": {
+                    "Auckland": "12",
+                    "Sydney": "8"
+                },
+                "goalkeeper_saves": {
+                    "Auckland": "2",
+                    "Sydney": "1"
+                },
+                "offsides": {
+                    "Auckland": "2",
+                    "Sydney": "6"
+                },
+                "shots_blocked": {
+                    "Auckland": "2",
+                    "Sydney": "0"
+                },
+                "shots_off_target": {
+                    "Auckland": "4",
+                    "Sydney": "3"
+                },
+                "shots_on_target": {
+                    "Auckland": "2",
+                    "Sydney": "2"
+                },
+                "yellow_cards": {
+                    "Auckland": "5",
+                    "Sydney": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/auckland-vs-sydney-2026-05-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/943.webp",
+                    "name": "Sydney",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/24608.webp",
+                    "name": "Auckland",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/auckland-vs-sydney-2026-05-23-YiFe.webp",
+            "title": "Auckland vs Sydney"
+        },
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "Apr 2, 2026",
+            "description": "Watch Brisbane Roar vs Sydney highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on April 2, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "J. Vidic",
+                    "score_update": "1 - 0",
+                    "team": "Brisbane Roar",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Younis",
+                    "score_update": "1 - 1",
+                    "team": "Sydney",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Younis",
+                    "score_update": "1 - 2",
+                    "team": "Sydney",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Valkanis",
+                    "team": "Brisbane Roar",
+                    "time": "72'"
+                },
+                {
+                    "assist": "E. Rashani",
+                    "event_type": "Goal",
+                    "player": "M. Memeti",
+                    "score_update": "1 - 3",
+                    "team": "Sydney",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Kuen",
+                    "team": "Sydney",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Memeti",
+                    "team": "Sydney",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Y. Salas",
+                    "score_update": "2 - 3",
+                    "team": "Brisbane Roar",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Brisbane Roar FC 2 - 3 Melbourne City FC"
+                        },
+                        {
+                            "competition": "Champions League: Round of 16",
+                            "date": "10/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Buriram United 0 - 0 Melbourne City FC"
+                        },
+                        {
+                            "competition": "A-League",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Auckland FC 3 - 0 Melbourne City FC"
+                        }
+                    ],
+                    "team": "Sydney"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Brisbane Roar FC 2 - 3 Melbourne City FC"
+                        }
+                    ],
+                    "team": "Brisbane Roar"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "06/01/2026",
+                        "teams_and_score": "Melbourne City FC 1 - 0 Brisbane Roar FC"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "11/04/2025",
+                        "teams_and_score": "Melbourne City FC 3 - 2 Brisbane Roar FC"
+                    },
+                    {
+                        "competition": "A-League 23/24",
+                        "date": "10/02/2024",
+                        "teams_and_score": "Brisbane Roar FC 5 - 1 Melbourne City FC"
+                    },
+                    {
+                        "competition": "A-League 22/23",
+                        "date": "12/03/2023",
+                        "teams_and_score": "Melbourne City FC 2 - 1 Brisbane Roar FC"
+                    }
+                ],
+                "summary": {
+                    "Brisbane Roar_wins": "1",
+                    "Sydney_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Brisbane Roar": "55%",
+                    "Sydney": "45%"
+                },
+                "corners": {
+                    "Brisbane Roar": "3",
+                    "Sydney": "5"
+                },
+                "fouls": {
+                    "Brisbane Roar": "10",
+                    "Sydney": "12"
+                },
+                "goalkeeper_saves": {
+                    "Brisbane Roar": "2",
+                    "Sydney": "1"
+                },
+                "offsides": {
+                    "Brisbane Roar": "0",
+                    "Sydney": "2"
+                },
+                "shots_off_target": {
+                    "Brisbane Roar": "4",
+                    "Sydney": "4"
+                },
+                "shots_on_target": {
+                    "Brisbane Roar": "3",
+                    "Sydney": "6"
+                },
+                "yellow_cards": {
+                    "Brisbane Roar": "1",
+                    "Sydney": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/brisbane-roar-vs-sydney-2026-04-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/943.webp",
+                    "name": "Sydney",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/947.webp",
+                    "name": "Brisbane Roar",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brisbane-roar-vs-sydney-2026-04-02-RH7o.webp",
+            "title": "Brisbane Roar vs Sydney"
+        },
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Melbourne Victory vs Sydney highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on May 2, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Okon-Engstler",
+                    "team": "Sydney",
+                    "time": "68'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Kamijo",
+                    "team": "Sydney",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Wood",
+                    "score_update": "0 - 1",
+                    "team": "Sydney",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Wood",
+                    "team": "Sydney",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Arslan",
+                    "team": "Sydney",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League: Play-off 24/25",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Melbourne Victory 0 - 1 Sydney FC"
+                        },
+                        {
+                            "competition": "A-League",
+                            "date": "26/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 2 - 2 Auckland FC"
+                        }
+                    ],
+                    "team": "Sydney"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League: Play-off 24/25",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Melbourne Victory 0 - 1 Sydney FC"
+                        },
+                        {
+                            "competition": "A-League",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Western Sydney Wanderers FC 0 - 2 Melbourne Victory"
+                        }
+                    ],
+                    "team": "Melbourne Victory"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "07/03/2026",
+                        "teams_and_score": "Sydney FC 2 - 2 Melbourne Victory"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "24/01/2025",
+                        "teams_and_score": "Melbourne Victory 2 - 0 Sydney FC"
+                    },
+                    {
+                        "competition": "A-League 23/24",
+                        "date": "26/01/2024",
+                        "teams_and_score": "Melbourne Victory 1 - 1 Sydney FC"
+                    },
+                    {
+                        "competition": "A-League 22/23",
+                        "date": "04/03/2023",
+                        "teams_and_score": "Sydney FC 1 - 0 Melbourne Victory"
+                    }
+                ],
+                "summary": {
+                    "Melbourne Victory_wins": "1",
+                    "Sydney_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Melbourne Victory": "51%",
+                    "Sydney": "49%"
+                },
+                "corners": {
+                    "Melbourne Victory": "10",
+                    "Sydney": "6"
+                },
+                "fouls": {
+                    "Melbourne Victory": "7",
+                    "Sydney": "12"
+                },
+                "offsides": {
+                    "Melbourne Victory": "2",
+                    "Sydney": "0"
+                },
+                "shots_off_target": {
+                    "Melbourne Victory": "8",
+                    "Sydney": "3"
+                },
+                "shots_on_target": {
+                    "Melbourne Victory": "6",
+                    "Sydney": "2"
+                },
+                "yellow_cards": {
+                    "Melbourne Victory": "0",
+                    "Sydney": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/melbourne-victory-vs-sydney-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/943.webp",
+                    "name": "Sydney",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/944.webp",
+                    "name": "Melbourne Victory",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/melbourne-victory-vs-sydney-2026-05-02-3Mwc.webp",
+            "title": "Melbourne Victory vs Sydney"
+        },
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "May 16, 2026",
+            "description": "Watch Newcastle Jets vs Sydney highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on May 16, 2026. The A-League clash between Newcastle Jets and Sydney on 2026-05-16 delivered a spectacle of endurance and high-stakes drama that kept fans on the edge of their seats until the very last kick. Both sides showcased immense spirit in a contest defined by tactical grit and a late, emotional swing. A Gritty Opening Exchange The match began as a fierce tactical battle in midfield, where space was at a premium and challenges were frequent. The intensity was evident early on as Max Burgess received a yellow card in the 21st minute, signaling Sydney 's aggressive intent. Newcastle Jets looked to establish their rhythm at home, but the visitors' disciplined defensive block ensured that clear-cut chances were scarce before the interval, leading to a hard-fought but goalless first half. Quispe Breaks the Deadlock and Adams Responds The second half brought the breakthrough the game desperately needed. In the 64th minute, Piero Quispe found the net to give Sydney a crucial lead, momentarily silencing the home crowd. The match grew increasingly physical following the opener, with several yellow cards issued to the likes of Will Dobson , Lachlan Rose , and Mark Natta as the Newcastle Jets ramped up the pressure in search of an equalizer. Just as it seemed Sydney would escape with a narrow victory, the drama reached its peak in stoppage time. In the 90+6 minute, Daniel Wilmering provided a clinical assist for Eli Adams , who struck a dramatic late goal to level the score. The last-gasp equalizer stunned the visitors and sent the match into a tense period of extra time. Extra Time Fatigue and Shootout Drama The additional 30 minutes tested the physical limits of both squads. Substitutions were made to inject fresh energy, with Joe Lolley and Zach Clough entering the fray, but defenses held firm despite the visible exhaustion. yellow cards followed for Joel Bertolissio and Patrick Wood as the contest moved toward its inevitable conclusion: a penalty shootout. From the spot, nerves were tested to the limit. Benjamin Garuccio , Rhyan Grant , Victor Campuzano , and Rhys Youlley all converted their penalties with composure. For the Newcastle Jets , Ben Gibson and Kota Mizunuma also found the mark. However, the shootout saw significant misses from Xavier Bertoncello , Kostandinos Grozos , and Joe Lolley , bringing a marathon encounter to an end after a night of relentless football action.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Burgess",
+                    "team": "Newcastle Jets",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Wilmering",
+                    "team": "Newcastle Jets",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Quispe",
+                    "team": "Sydney",
+                    "time": "54'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Dobson",
+                    "team": "Newcastle Jets",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Quispe",
+                    "score_update": "0 - 1",
+                    "team": "Sydney",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Rose",
+                    "team": "Newcastle Jets",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Okon-Engstler",
+                    "team": "Sydney",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Natta",
+                    "team": "Newcastle Jets",
+                    "time": "87'"
+                },
+                {
+                    "assist": "D. Wilmering",
+                    "event_type": "Goal",
+                    "player": "E. Adams",
+                    "score_update": "1 - 1",
+                    "team": "Newcastle Jets",
+                    "time": "90+6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Bertolissio",
+                    "team": "Newcastle Jets",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Arslan",
+                    "team": "Sydney",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Wood",
+                    "team": "Sydney",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Grozos",
+                    "score_update": "0 - 0",
+                    "team": "Newcastle Jets",
+                    "time": "PEN 1"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Lolley",
+                    "score_update": "0 - 0",
+                    "team": "Sydney",
+                    "time": "PEN 1"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Mizunuma",
+                    "score_update": "1 - 1",
+                    "team": "Newcastle Jets",
+                    "time": "PEN 2"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Youlley",
+                    "score_update": "0 - 1",
+                    "team": "Sydney",
+                    "time": "PEN 2"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Gibson",
+                    "score_update": "2 - 2",
+                    "team": "Newcastle Jets",
+                    "time": "PEN 3"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "V. Campuzano",
+                    "score_update": "1 - 2",
+                    "team": "Sydney",
+                    "time": "PEN 3"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "X. Bertoncello",
+                    "score_update": "2 - 3",
+                    "team": "Newcastle Jets",
+                    "time": "PEN 4"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Grant",
+                    "score_update": "2 - 3",
+                    "team": "Sydney",
+                    "time": "PEN 4"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Garuccio",
+                    "score_update": "2 - 4",
+                    "team": "Sydney",
+                    "time": "PEN 5"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League: Play-off 24/25",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Newcastle Jets 1 - 1 Sydney FC"
+                        },
+                        {
+                            "competition": "A-League",
+                            "date": "26/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 2 - 2 Auckland FC"
+                        }
+                    ],
+                    "team": "Sydney"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League: Play-off 24/25",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Newcastle Jets 1 - 1 Sydney FC"
+                        },
+                        {
+                            "competition": "A-League",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Newcastle Jets 4 - 0 Central Coast Mariners"
+                        }
+                    ],
+                    "team": "Newcastle Jets"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League: Play-off 24/25",
+                        "date": "09/05/2026",
+                        "teams_and_score": "Sydney FC 1 - 1 Newcastle Jets"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "22/03/2026",
+                        "teams_and_score": "Sydney FC 1 - 2 Newcastle Jets"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "20/04/2025",
+                        "teams_and_score": "Sydney FC 3 - 2 Newcastle Jets"
+                    },
+                    {
+                        "competition": "A-League 23/24",
+                        "date": "07/04/2024",
+                        "teams_and_score": "Newcastle Jets 3 - 1 Sydney FC"
+                    },
+                    {
+                        "competition": "A-League 22/23",
+                        "date": "29/04/2023",
+                        "teams_and_score": "Sydney FC 2 - 0 Newcastle Jets"
+                    }
+                ],
+                "summary": {
+                    "Newcastle Jets_wins": "2",
+                    "Sydney_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Newcastle Jets": "57%",
+                    "Sydney": "43%"
+                },
+                "corners": {
+                    "Newcastle Jets": "5",
+                    "Sydney": "3"
+                },
+                "fouls": {
+                    "Newcastle Jets": "14",
+                    "Sydney": "18"
+                },
+                "goalkeeper_saves": {
+                    "Newcastle Jets": "5",
+                    "Sydney": "2"
+                },
+                "offsides": {
+                    "Newcastle Jets": "1",
+                    "Sydney": "1"
+                },
+                "shots_blocked": {
+                    "Newcastle Jets": "6",
+                    "Sydney": "3"
+                },
+                "shots_off_target": {
+                    "Newcastle Jets": "8",
+                    "Sydney": "2"
+                },
+                "shots_on_target": {
+                    "Newcastle Jets": "3",
+                    "Sydney": "6"
+                },
+                "yellow_cards": {
+                    "Newcastle Jets": "6",
+                    "Sydney": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/newcastle-jets-vs-sydney-2026-05-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/943.webp",
+                    "name": "Sydney",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/946.webp",
+                    "name": "Newcastle Jets",
+                    "score": "1"
+                },
+                "status": "AET"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/newcastle-jets-vs-sydney-2026-05-16-yBzP.webp",
+            "title": "Newcastle Jets vs Sydney"
+        },
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch Sydney vs Auckland highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on April 26, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "P. Quispe",
+                    "event_type": "Goal",
+                    "player": "B. Garuccio",
+                    "score_update": "1 - 0",
+                    "team": "Sydney",
+                    "time": "46'"
+                },
+                {
+                    "assist": "S. Cosgrove",
+                    "event_type": "Goal",
+                    "player": "G. May",
+                    "score_update": "1 - 1",
+                    "team": "Auckland",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Courtney-Perkins",
+                    "team": "Sydney",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Howieson",
+                    "team": "Auckland",
+                    "time": "91'"
+                },
+                {
+                    "assist": "V. Campuzano",
+                    "event_type": "Goal",
+                    "player": "A. Popovic",
+                    "score_update": "2 - 1",
+                    "team": "Sydney",
+                    "time": "106'"
+                },
+                {
+                    "assist": "L. Gillion",
+                    "event_type": "Goal",
+                    "player": "G. May",
+                    "score_update": "2 - 2",
+                    "team": "Auckland",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "26/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 2 - 2 Auckland FC"
+                        }
+                    ],
+                    "team": "Auckland"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "26/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 2 - 2 Auckland FC"
+                        }
+                    ],
+                    "team": "Sydney"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "17/02/2026",
+                        "teams_and_score": "Sydney FC 1 - 1 Auckland FC"
+                    },
+                    {
+                        "competition": "Australia Cup",
+                        "date": "23/08/2025",
+                        "teams_and_score": "Sydney FC 1 - 1 Auckland FC"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "12/04/2025",
+                        "teams_and_score": "Sydney FC 2 - 2 Auckland FC"
+                    }
+                ],
+                "summary": {
+                    "Auckland_wins": "0",
+                    "Sydney_wins": "0",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Auckland": "39%",
+                    "Sydney": "61%"
+                },
+                "corners": {
+                    "Auckland": "6",
+                    "Sydney": "4"
+                },
+                "fouls": {
+                    "Auckland": "5",
+                    "Sydney": "10"
+                },
+                "goalkeeper_saves": {
+                    "Auckland": "3",
+                    "Sydney": "1"
+                },
+                "offsides": {
+                    "Auckland": "2",
+                    "Sydney": "1"
+                },
+                "shots_off_target": {
+                    "Auckland": "4",
+                    "Sydney": "8"
+                },
+                "shots_on_target": {
+                    "Auckland": "3",
+                    "Sydney": "5"
+                },
+                "yellow_cards": {
+                    "Auckland": "1",
+                    "Sydney": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sydney-vs-auckland-2026-04-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/24608.webp",
+                    "name": "Auckland",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/943.webp",
+                    "name": "Sydney",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sydney-vs-auckland-2026-04-26-XuRW.webp",
+            "title": "Sydney vs Auckland"
+        },
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "May 9, 2026",
+            "description": "Watch Sydney vs Newcastle Jets highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on May 9, 2026. A tactical battle in the A-League The fixture between Sydney and the Newcastle Jets , held on 9 May 2026 , served as a stern test of patience and tactical discipline for both sides in the A-League . From the opening whistle, both teams sought to establish a foothold, prioritizing defensive shape and midfield control as they navigated the early stages of the match. Throughout the first half, the game remained a cagey affair with neither side willing to overcommit. The intensity was clear, however, as evidenced by a yellow card for Paul Okon-Engstler in the 17th minute. Despite various attacking probes, the deadlock held firm, ensuring that the two sides headed into the break with the scoreboard showing nothing to separate them. Second-half surge decides the outcome The momentum shifted dramatically immediately following the interval. In the 51st minute, Apostolos Stamatelopoulos broke the deadlock, firing the Newcastle Jets into the lead and forcing Sydney to take risks. The visitors capitalized on their newfound energy shortly after; in the 58th minute, Clayton Taylor provided a clinical assist for Eli Adams , who doubled the lead and put his side in command. Both managers responded with a flurry of substitutions, introducing fresh legs like Joe Lolley , Victor Campuzano , and Ahmet Metin Arslan to manage the closing stages. While the hosts pressed, the disciplined play from the Newcastle Jets held strong. Even after Joe Shaughnessy was cautioned in the 73rd minute, the visitors maintained their composure. The final whistle confirmed a significant victory, leaving the home side reflecting on a second half where they were undone by two quick strikes.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Okon-Engstler",
+                    "team": "Sydney",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Stamatelopoulos",
+                    "score_update": "1 - 0",
+                    "team": "Sydney",
+                    "time": "46'"
+                },
+                {
+                    "assist": "C. Taylor",
+                    "event_type": "Goal",
+                    "player": "E. Adams",
+                    "score_update": "1 - 1",
+                    "team": "Newcastle Jets",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Shaughnessy",
+                    "team": "Newcastle Jets",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League: Play-off 24/25",
+                            "date": "09/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 1 - 1 Newcastle Jets"
+                        },
+                        {
+                            "competition": "A-League",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Newcastle Jets 4 - 0 Central Coast Mariners"
+                        }
+                    ],
+                    "team": "Newcastle Jets"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League: Play-off 24/25",
+                            "date": "09/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 1 - 1 Newcastle Jets"
+                        },
+                        {
+                            "competition": "A-League",
+                            "date": "26/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 2 - 2 Auckland FC"
+                        }
+                    ],
+                    "team": "Sydney"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "22/03/2026",
+                        "teams_and_score": "Sydney FC 1 - 2 Newcastle Jets"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "20/04/2025",
+                        "teams_and_score": "Sydney FC 3 - 2 Newcastle Jets"
+                    },
+                    {
+                        "competition": "A-League 23/24",
+                        "date": "07/04/2024",
+                        "teams_and_score": "Newcastle Jets 3 - 1 Sydney FC"
+                    },
+                    {
+                        "competition": "A-League 22/23",
+                        "date": "29/04/2023",
+                        "teams_and_score": "Sydney FC 2 - 0 Newcastle Jets"
+                    },
+                    {
+                        "competition": "A-League 21/22",
+                        "date": "25/03/2022",
+                        "teams_and_score": "Newcastle Jets 2 - 0 Sydney FC"
+                    }
+                ],
+                "summary": {
+                    "Newcastle Jets_wins": "3",
+                    "Sydney_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Newcastle Jets": "42%",
+                    "Sydney": "58%"
+                },
+                "corners": {
+                    "Newcastle Jets": "3",
+                    "Sydney": "5"
+                },
+                "fouls": {
+                    "Newcastle Jets": "15",
+                    "Sydney": "6"
+                },
+                "goalkeeper_saves": {
+                    "Newcastle Jets": "5",
+                    "Sydney": "4"
+                },
+                "offsides": {
+                    "Newcastle Jets": "0",
+                    "Sydney": "5"
+                },
+                "shots_blocked": {
+                    "Newcastle Jets": "4",
+                    "Sydney": "4"
+                },
+                "shots_off_target": {
+                    "Newcastle Jets": "2",
+                    "Sydney": "5"
+                },
+                "shots_on_target": {
+                    "Newcastle Jets": "5",
+                    "Sydney": "6"
+                },
+                "yellow_cards": {
+                    "Newcastle Jets": "1",
+                    "Sydney": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sydney-vs-newcastle-jets-2026-05-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/946.webp",
+                    "name": "Newcastle Jets",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/943.webp",
+                    "name": "Sydney",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sydney-vs-newcastle-jets-2026-05-09-X1m1.webp",
+            "title": "Sydney vs Newcastle Jets"
+        },
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "Apr 18, 2026",
+            "description": "Watch Sydney vs Perth Glory highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on April 18, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Sutton",
+                    "team": "Perth Glory",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Grant",
+                    "team": "Sydney",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Kaltak",
+                    "team": "Perth Glory",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 0 - 0 Perth Glory"
+                        }
+                    ],
+                    "team": "Perth Glory"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 0 - 0 Perth Glory"
+                        }
+                    ],
+                    "team": "Sydney"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "13/12/2025",
+                        "teams_and_score": "Perth Glory 0 - 1 Sydney FC"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Perth Glory 0 - 0 Sydney FC"
+                    },
+                    {
+                        "competition": "A-League 23/24",
+                        "date": "28/04/2024",
+                        "teams_and_score": "Sydney FC 7 - 1 Perth Glory"
+                    },
+                    {
+                        "competition": "A-League 22/23",
+                        "date": "16/04/2023",
+                        "teams_and_score": "Sydney FC 4 - 1 Perth Glory"
+                    },
+                    {
+                        "competition": "A-League 21/22",
+                        "date": "12/03/2022",
+                        "teams_and_score": "Perth Glory 0 - 2 Sydney FC"
+                    }
+                ],
+                "summary": {
+                    "Perth Glory_wins": "0",
+                    "Sydney_wins": "4",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Perth Glory": "29%",
+                    "Sydney": "71%"
+                },
+                "corners": {
+                    "Perth Glory": "1",
+                    "Sydney": "4"
+                },
+                "fouls": {
+                    "Perth Glory": "6",
+                    "Sydney": "9"
+                },
+                "goalkeeper_saves": {
+                    "Perth Glory": "3",
+                    "Sydney": "2"
+                },
+                "shots_off_target": {
+                    "Perth Glory": "4",
+                    "Sydney": "6"
+                },
+                "shots_on_target": {
+                    "Perth Glory": "2",
+                    "Sydney": "3"
+                },
+                "yellow_cards": {
+                    "Perth Glory": "2",
+                    "Sydney": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sydney-vs-perth-glory-2026-04-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/940.webp",
+                    "name": "Perth Glory",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/943.webp",
+                    "name": "Sydney",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sydney-vs-perth-glory-2026-04-18-dqeN.webp",
+            "title": "Sydney vs Perth Glory"
+        },
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Western Sydney Wanderers vs Sydney highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Sutton",
+                    "team": "Sydney",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Grant",
+                    "team": "Western Sydney Wanderers",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Kaltak",
+                    "team": "Sydney",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 0 - 0 Perth Glory"
+                        }
+                    ],
+                    "team": "Sydney"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sydney FC 0 - 0 Perth Glory"
+                        }
+                    ],
+                    "team": "Western Sydney Wanderers"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "13/12/2025",
+                        "teams_and_score": "Perth Glory 0 - 1 Sydney FC"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Perth Glory 0 - 0 Sydney FC"
+                    },
+                    {
+                        "competition": "A-League 23/24",
+                        "date": "28/04/2024",
+                        "teams_and_score": "Sydney FC 7 - 1 Perth Glory"
+                    },
+                    {
+                        "competition": "A-League 22/23",
+                        "date": "16/04/2023",
+                        "teams_and_score": "Sydney FC 4 - 1 Perth Glory"
+                    },
+                    {
+                        "competition": "A-League 21/22",
+                        "date": "12/03/2022",
+                        "teams_and_score": "Perth Glory 0 - 2 Sydney FC"
+                    }
+                ],
+                "summary": {
+                    "Sydney_wins": "2",
+                    "Western Sydney Wanderers_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Sydney": "29%",
+                    "Western Sydney Wanderers": "71%"
+                },
+                "corners": {
+                    "Sydney": "1",
+                    "Western Sydney Wanderers": "4"
+                },
+                "fouls": {
+                    "Sydney": "6",
+                    "Western Sydney Wanderers": "9"
+                },
+                "goalkeeper_saves": {
+                    "Sydney": "3",
+                    "Western Sydney Wanderers": "2"
+                },
+                "shots_off_target": {
+                    "Sydney": "4",
+                    "Western Sydney Wanderers": "6"
+                },
+                "shots_on_target": {
+                    "Sydney": "2",
+                    "Western Sydney Wanderers": "3"
+                },
+                "yellow_cards": {
+                    "Sydney": "2",
+                    "Western Sydney Wanderers": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/western-sydney-wanderers-vs-sydney-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/943.webp",
+                    "name": "Sydney",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/939.webp",
+                    "name": "Western Sydney Wanderers",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/western-sydney-wanderers-vs-sydney-2026-04-11-yrWu.webp",
+            "title": "Western Sydney Wanderers vs Sydney"
+        }
+    ]
+}

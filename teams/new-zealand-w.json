@@ -1,0 +1,129 @@
+{
+    "team": "New Zealand W",
+    "team_logo": "https://img.refooty.com/logo/teams/1716.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 10, 2026",
+            "description": "Watch New Zealand W vs Morocco W highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 10, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Bunge",
+                    "team": "New Zealand W",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "09/06/2026",
+                            "result": "D",
+                            "teams_and_score": "New Zealand Women 0 - 0 Morocco Women"
+                        },
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "02/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Morocco Women 0 - 2 South Africa W"
+                        }
+                    ],
+                    "team": "Morocco W"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "09/06/2026",
+                            "result": "D",
+                            "teams_and_score": "New Zealand Women 0 - 0 Morocco Women"
+                        },
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "02/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Australia Women 2 - 0 New Zealand Women"
+                        }
+                    ],
+                    "team": "New Zealand W"
+                },
+                "summary": {
+                    "Morocco W_wins": "0",
+                    "New Zealand W_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Morocco W": "59%",
+                    "New Zealand W": "41%"
+                },
+                "corners": {
+                    "Morocco W": "3",
+                    "New Zealand W": "4"
+                },
+                "fouls": {
+                    "Morocco W": "8",
+                    "New Zealand W": "11"
+                },
+                "goalkeeper_saves": {
+                    "Morocco W": "0",
+                    "New Zealand W": "3"
+                },
+                "offsides": {
+                    "Morocco W": "1",
+                    "New Zealand W": "1"
+                },
+                "shots_blocked": {
+                    "Morocco W": "2",
+                    "New Zealand W": "2"
+                },
+                "shots_off_target": {
+                    "Morocco W": "4",
+                    "New Zealand W": "5"
+                },
+                "shots_on_target": {
+                    "Morocco W": "3",
+                    "New Zealand W": "0"
+                },
+                "yellow_cards": {
+                    "Morocco W": "0",
+                    "New Zealand W": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/new-zealand-w-vs-morocco-w-2026-06-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/14461.webp",
+                    "name": "Morocco W",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1716.webp",
+                    "name": "New Zealand W",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/new-zealand-w-vs-morocco-w-2026-06-10-Nfbu.webp",
+            "title": "New Zealand W vs Morocco W"
+        }
+    ]
+}

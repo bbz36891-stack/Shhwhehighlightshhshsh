@@ -1,0 +1,77 @@
+{
+    "team": "Köln",
+    "team_logo": "",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "Bundesliga",
+            "competition_cover": "https://refooty.com/covers/bundesliga.webp",
+            "date": "Oct 5, 2025",
+            "description": "Watch Hoffenheim vs Köln II highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on October 5, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/highlights-hoffenheim-vs-koln-ban-doc-lap-dinh-doat-dac-sac-el-mala-ghi-ban-bundesliga-2526.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/highlights-hoffenheim-vs-koln-ban-doc-lap-dinh-doat-dac-sac-el-mala-ghi-ban-bundesliga-2526.webp",
+            "title": "Hoffenheim vs Köln"
+        },
+        {
+            "competition": "Unknown Competition",
+            "competition_cover": "",
+            "date": "Sep 29, 2025",
+            "description": "Watch 1.FC Köln vs Stuttgart highlights and goals from Bundesliga on ReFooty: Football Highlights Hub. Match played on September 29, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://video.bongdaminhtai.top/highlights-koln-vs-stuttgart-vagnoman-an-dinh-ty-so-phut-90-bundesliga-2526.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/highlights-koln-vs-stuttgart-vagnoman-an-dinh-ty-so-phut-90-bundesliga-2526-lMKi.webp",
+            "title": "Köln vs Stuttgart"
+        }
+    ]
+}

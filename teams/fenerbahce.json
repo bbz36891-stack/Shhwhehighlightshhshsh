@@ -1,0 +1,4061 @@
+{
+    "team": "Fenerbahce",
+    "team_logo": "https://img.refooty.com/logo/teams/611.webp",
+    "total_matches": 24,
+    "matches": [
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Mar 1, 2026",
+            "description": "Watch Antalyaspor vs Fenerbahce highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on March 1, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "L. Mercan",
+                    "team": "Antalyaspor",
+                    "time": "1'"
+                },
+                {
+                    "assist": "B. Balcı",
+                    "event_type": "Goal",
+                    "player": "S. V. de Streek",
+                    "score_update": "2 - 0",
+                    "team": "Antalyaspor",
+                    "time": "46'"
+                },
+                {
+                    "assist": "M. Asensio",
+                    "event_type": "Goal",
+                    "player": "S. Cherif",
+                    "score_update": "2 - 1",
+                    "team": "Fenerbahce",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "V. Sari",
+                    "team": "Fenerbahce",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Antalyaspor 2 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Nottingham Forest 1 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "23/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 1 - 1 Kasımpaşa"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Fenerbahçe 0 - 3 Nottingham Forest"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Trabzonspor 2 - 3 Fenerbahçe"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Antalyaspor 2 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group B",
+                            "date": "03/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Igdir FK 6 - 0 Antalyaspor"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "30/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Antalyaspor 1 - 1 Trabzonspor"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group B",
+                            "date": "14/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Antalyaspor 0 - 1 Gençlerbirliği"
+                        }
+                    ],
+                    "team": "Antalyaspor"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Süper Lig",
+                        "date": "28/09/2025",
+                        "teams_and_score": "Fenerbahçe 2 - 0 Antalyaspor"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "02/03/2025",
+                        "teams_and_score": "Fenerbahçe 3 - 0 Antalyaspor"
+                    },
+                    {
+                        "competition": "Süper Lig 23/24",
+                        "date": "03/02/2024",
+                        "teams_and_score": "Antalyaspor 0 - 2 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Super Lig 22/23",
+                        "date": "30/05/2023",
+                        "teams_and_score": "Fenerbahçe 2 - 0 Antalyaspor"
+                    },
+                    {
+                        "competition": "Super Lig 21/22",
+                        "date": "15/01/2022",
+                        "teams_and_score": "Antalyaspor 1 - 1 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Super Lig 20/21",
+                        "date": "04/03/2021",
+                        "teams_and_score": "Fenerbahçe 1 - 1 Antalyaspor"
+                    }
+                ],
+                "summary": {
+                    "Antalyaspor_wins": "0",
+                    "Fenerbahce_wins": "4",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antalyaspor": "34%",
+                    "Fenerbahce": "66%"
+                },
+                "corners": {
+                    "Antalyaspor": "3",
+                    "Fenerbahce": "14"
+                },
+                "fouls": {
+                    "Antalyaspor": "11",
+                    "Fenerbahce": "10"
+                },
+                "goalkeeper_saves": {
+                    "Antalyaspor": "5",
+                    "Fenerbahce": "3"
+                },
+                "offsides": {
+                    "Antalyaspor": "2",
+                    "Fenerbahce": "1"
+                },
+                "shots_off_target": {
+                    "Antalyaspor": "2",
+                    "Fenerbahce": "7"
+                },
+                "shots_on_target": {
+                    "Antalyaspor": "4",
+                    "Fenerbahce": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/antalyaspor-fenerbahce-2026-03-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1005.webp",
+                    "name": "Antalyaspor",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/antalyaspor-fenerbahce-2026-03-01-tDcM.webp",
+            "title": "Antalyaspor - Fenerbahçe"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Feb 27, 2026",
+            "description": "Watch Antalyaspor vs Fenerbahce highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on February 27, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Ceesay",
+                    "team": "Fenerbahce",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Tokoz",
+                    "team": "Antalyaspor",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Makarov",
+                    "team": "Antalyaspor",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Bénes",
+                    "score_update": "0 - 0",
+                    "team": "Antalyaspor",
+                    "time": "76'"
+                },
+                {
+                    "assist": "L. Bénes",
+                    "event_type": "Goal",
+                    "player": "T. Sariarslan",
+                    "score_update": "1 - 0",
+                    "team": "Antalyaspor",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Sariarslan",
+                    "team": "Antalyaspor",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "22/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Kayserispor 1 - 0 Antalyaspor"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group B",
+                            "date": "03/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Igdir FK 6 - 0 Antalyaspor"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "30/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Antalyaspor 1 - 1 Trabzonspor"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group B",
+                            "date": "14/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Antalyaspor 0 - 1 Gençlerbirliği"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "19/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Kocaelispor 2 - 1 Antalyaspor"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "22/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Kayserispor 1 - 0 Antalyaspor"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Qualification",
+                            "date": "02/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Keciorengucu 2 - 0 Kayserispor"
+                        }
+                    ],
+                    "team": "Antalyaspor"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Süper Lig",
+                        "date": "20/09/2025",
+                        "teams_and_score": "Antalyaspor 1 - 1 Kayserispor"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "12/05/2025",
+                        "teams_and_score": "Kayserispor 3 - 1 Antalyaspor"
+                    },
+                    {
+                        "competition": "Süper Lig 23/24",
+                        "date": "29/01/2024",
+                        "teams_and_score": "Kayserispor 1 - 1 Antalyaspor"
+                    },
+                    {
+                        "competition": "Super Lig 22/23",
+                        "date": "11/03/2023",
+                        "teams_and_score": "Antalyaspor 4 - 0 Kayserispor"
+                    },
+                    {
+                        "competition": "Turkiye Cup",
+                        "date": "17/01/2023",
+                        "teams_and_score": "Antalyaspor 0 - 2 Kayserispor"
+                    },
+                    {
+                        "competition": "Super Lig 22/23",
+                        "date": "11/09/2022",
+                        "teams_and_score": "Kayserispor 1 - 0 Antalyaspor"
+                    },
+                    {
+                        "competition": "Super Lig 21/22",
+                        "date": "24/04/2022",
+                        "teams_and_score": "Antalyaspor 1 - 1 Kayserispor"
+                    }
+                ],
+                "summary": {
+                    "Antalyaspor_wins": "1",
+                    "Fenerbahce_wins": "3",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antalyaspor": "59%",
+                    "Fenerbahce": "41%"
+                },
+                "corners": {
+                    "Antalyaspor": "5",
+                    "Fenerbahce": "5"
+                },
+                "fouls": {
+                    "Antalyaspor": "12",
+                    "Fenerbahce": "9"
+                },
+                "goalkeeper_saves": {
+                    "Antalyaspor": "3",
+                    "Fenerbahce": "4"
+                },
+                "offsides": {
+                    "Antalyaspor": "3",
+                    "Fenerbahce": "2"
+                },
+                "shots_off_target": {
+                    "Antalyaspor": "9",
+                    "Fenerbahce": "5"
+                },
+                "shots_on_target": {
+                    "Antalyaspor": "5",
+                    "Fenerbahce": "3"
+                },
+                "yellow_cards": {
+                    "Antalyaspor": "3",
+                    "Fenerbahce": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/antalyaspor-vs-fenerbahce-2026-02-27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1005.webp",
+                    "name": "Antalyaspor",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/antalyaspor-vs-fenerbahce-2026-02-27-cHSl.webp",
+            "title": "Antalyaspor vs Fenerbahce"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Nov 2, 2025",
+            "description": "Watch Besiktas vs Fenerbahce highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on November 2, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Besiktas_v_Fenerbahce_2025_11_02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/besiktas-v-fenerbahce-2025-11-02-uNVs.webp",
+            "title": "Besiktas vs Fenerbahce"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Dec 11, 2025",
+            "description": "Watch Brann vs Fenerbahce highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on December 11, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Brann_v_Fenerbahce_2025_12_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brann-v-fenerbahce-2025-12-11.webp",
+            "title": "Brann vs Fenerbahce"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Mar 13, 2026",
+            "description": "Watch Fatih Karagümrük vs Fenerbahce highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on March 13, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "B. Elmaz",
+                    "score_update": "1 - 0",
+                    "team": "Fatih Karagümrük",
+                    "time": "15'"
+                },
+                {
+                    "assist": "I. Lichnovsky",
+                    "event_type": "Goal",
+                    "player": "Serginho",
+                    "score_update": "2 - 0",
+                    "team": "Fatih Karagümrük",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Serginho",
+                    "team": "Fatih Karagümrük",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Oosterwolde",
+                    "team": "Fenerbahce",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Kanté",
+                    "team": "Fenerbahce",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Aydin",
+                    "team": "Fenerbahce",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "13/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Fatih Karagumruk 2 - 0 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Gaziantep FK 0 - 4 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Antalyaspor 2 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Nottingham Forest 1 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "23/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 1 - 1 Kasımpaşa"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "13/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Fatih Karagumruk 2 - 0 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group A",
+                            "date": "03/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Fethiyespor 0 - 2 Fatih Karagumruk"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "27/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Trabzonspor 3 - 1 Fatih Karagumruk"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group A",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Fatih Karagumruk 1 - 4 İstanbul Başakşehir"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "31/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Goztepe 2 - 1 Fatih Karagumruk"
+                        }
+                    ],
+                    "team": "Fatih Karagümrük"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Süper Lig",
+                        "date": "19/10/2025",
+                        "teams_and_score": "Fenerbahçe 2 - 1 Fatih Karagumruk"
+                    },
+                    {
+                        "competition": "Süper Lig 23/24",
+                        "date": "14/04/2024",
+                        "teams_and_score": "Fatih Karagumruk 1 - 2 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Super Lig 22/23",
+                        "date": "10/04/2023",
+                        "teams_and_score": "Fatih Karagumruk 1 - 2 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Club Friendlies 2023",
+                        "date": "18/02/2023",
+                        "teams_and_score": "Fenerbahçe 4 - 2 Fatih Karagumruk"
+                    },
+                    {
+                        "competition": "Super Lig 22/23",
+                        "date": "09/10/2022",
+                        "teams_and_score": "Fenerbahçe 5 - 4 Fatih Karagumruk"
+                    },
+                    {
+                        "competition": "Super Lig 21/22",
+                        "date": "15/05/2022",
+                        "teams_and_score": "Fenerbahçe 0 - 0 Fatih Karagumruk"
+                    },
+                    {
+                        "competition": "Super Lig 20/21",
+                        "date": "13/02/2021",
+                        "teams_and_score": "Fatih Karagumruk 1 - 2 Fenerbahçe"
+                    }
+                ],
+                "summary": {
+                    "Fatih Karagümrük_wins": "3",
+                    "Fenerbahce_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fatih Karagümrük": "34%",
+                    "Fenerbahce": "66%"
+                },
+                "corners": {
+                    "Fatih Karagümrük": "2",
+                    "Fenerbahce": "14"
+                },
+                "fouls": {
+                    "Fatih Karagümrük": "13",
+                    "Fenerbahce": "6"
+                },
+                "goalkeeper_saves": {
+                    "Fatih Karagümrük": "1",
+                    "Fenerbahce": "2"
+                },
+                "offsides": {
+                    "Fatih Karagümrük": "2",
+                    "Fenerbahce": "3"
+                },
+                "shots_off_target": {
+                    "Fatih Karagümrük": "3",
+                    "Fenerbahce": "8"
+                },
+                "shots_on_target": {
+                    "Fatih Karagümrük": "4",
+                    "Fenerbahce": "1"
+                },
+                "yellow_cards": {
+                    "Fatih Karagümrük": "1",
+                    "Fenerbahce": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fatih-karagumruk-fenerbahce-2026-03-13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3589.webp",
+                    "name": "Fatih Karagümrük",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fatih-karagumruk-fenerbahce-2026-03-13-UVzS.webp",
+            "title": "Fatih Karagümrük - Fenerbahçe"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Jan 22, 2026",
+            "description": "Watch Fenerbahce vs Aston Villa highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on January 22, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Fenerbahce_v_Aston_Villa_2026_01_22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-v-aston-villa-2026-01-22-zt5t.webp",
+            "title": "Fenerbahce vs Aston Villa"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Dec 1, 2025",
+            "description": "Watch Fenerbahce vs Galatasaray highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on December 1, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Fenerbahce_v_Galatasaray_2025_12_01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-v-galatasaray-2025-12-01.webp",
+            "title": "Fenerbahce vs Galatasaray"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Jul 21, 2026",
+            "description": "Watch Fenerbahce vs Gornik Zabrze highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on July 21, 2026. Expectations were sky-high for this UEFA Champions League fixture as two ambitious sides prepared to battle for supremacy on the continental stage. On July 21, 2026, football fans witnessed a tactical encounter between Fenerbahce and Gornik Zabrze that remained tense until the very end. Talisca Breaks the Deadlock The match opened with high energy, but clear-cut chances were hard to come by in the early exchanges. However, the deadlock was finally broken in the 37th minute when Anderson Talisca found the back of the net. The Brazilian's clinical finish provided Fenerbahce with a crucial lead, shifting the momentum of the game and forcing Gornik Zabrze to rethink their defensive approach heading into the halftime break. Second Half Adjustments and Tactical Battles As the second half commenced, both managers looked to their benches to influence the flow of the game. Fenerbahce introduced Levent Mercan for Nathan Ake at the start of the period, later bringing on high-profile substitutes like Marco Asensio and Mason Greenwood to maintain offensive pressure. Gornik Zabrze responded with a double change in the 72nd minute, bringing on Ondrej Zmrzly and Sondre Liseth to spark a late comeback attempt. In the closing stages, the match saw a flurry of personnel changes, including the departure of the goal-scorer Anderson Talisca , who was replaced by Sidiki Cherif . Despite late pressure and six minutes of added time, Fenerbahce held firm to secure a narrow but significant victory in their 2026 European campaign.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "Talisca",
+                    "score_update": "1 - 0",
+                    "team": "Fenerbahce",
+                    "time": "1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification",
+                            "date": "21/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Fenerbahçe 1 - 0 Gornik Zabrze"
+                        },
+                        {
+                            "competition": "Super Cup",
+                            "date": "16/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Lech Poznan 3 - 1 Gornik Zabrze"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "10/07/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Nordsjaelland 0 - 2 Gornik Zabrze"
+                        },
+                        {
+                            "competition": "Ekstraklasa",
+                            "date": "23/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Gornik Zabrze 6 - 2 Radomiak Radom"
+                        },
+                        {
+                            "competition": "Cup",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Gornik Zabrze 2 - 0 Rakow Czestochowa"
+                        }
+                    ],
+                    "team": "Gornik Zabrze"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification",
+                            "date": "21/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Fenerbahçe 1 - 0 Gornik Zabrze"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "14/07/2026",
+                            "result": "W",
+                            "teams_and_score": "LASK 1 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 3 - 3 Eyupspor"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Final Stage",
+                            "date": "21/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Konyaspor 1 - 0 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "17/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 2 - 2 Rizespor"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "summary": {
+                    "Fenerbahce_wins": "0",
+                    "Gornik Zabrze_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fenerbahce": "79%",
+                    "Gornik Zabrze": "21%"
+                },
+                "corners": {
+                    "Fenerbahce": "9",
+                    "Gornik Zabrze": "2"
+                },
+                "crosses": {
+                    "Fenerbahce": "6",
+                    "Gornik Zabrze": "2"
+                },
+                "fouls": {
+                    "Fenerbahce": "15",
+                    "Gornik Zabrze": "11"
+                },
+                "goalkeeper_saves": {
+                    "Fenerbahce": "1",
+                    "Gornik Zabrze": "5"
+                },
+                "shots_blocked": {
+                    "Fenerbahce": "4",
+                    "Gornik Zabrze": "1"
+                },
+                "shots_off_target": {
+                    "Fenerbahce": "5",
+                    "Gornik Zabrze": "0"
+                },
+                "shots_on_target": {
+                    "Fenerbahce": "6",
+                    "Gornik Zabrze": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fenerbahce-vs-gornik-zabrze-2026-07-21_2VRCP.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/340.webp",
+                    "name": "Gornik Zabrze",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-vs-gornik-zabrze-2026-07-21-EWsR.webp",
+            "title": "Fenerbahce vs Gornik Zabrze"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Feb 24, 2026",
+            "description": "Watch Fenerbahce vs Kasimpasa highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on February 24, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Diabate",
+                    "team": "Kasimpasa",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Baldursson",
+                    "team": "Kasimpasa",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Frimpong",
+                    "team": "Kasimpasa",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Tosun",
+                    "team": "Kasimpasa",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Kanté",
+                    "team": "Fenerbahce",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Ben Ouanes",
+                    "team": "Kasimpasa",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Cafú",
+                    "team": "Kasimpasa",
+                    "time": "86'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "M. Ben Ouanes",
+                    "team": "Kasimpasa",
+                    "time": "90+3'"
+                },
+                {
+                    "assist": "N. Dorgeles",
+                    "event_type": "Goal",
+                    "player": "M. Asensio",
+                    "score_update": "1 - 0",
+                    "team": "Fenerbahce",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Asensio",
+                    "team": "Fenerbahce",
+                    "time": "90+6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Guendouzi",
+                    "team": "Fenerbahce",
+                    "time": "90+8'"
+                },
+                {
+                    "assist": "A. Baldursson",
+                    "event_type": "Goal",
+                    "player": "J. Allevinah",
+                    "score_update": "1 - 1",
+                    "team": "Kasimpasa",
+                    "time": "90+11'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "23/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 1 - 1 Kasımpaşa"
+                        }
+                    ],
+                    "team": "Kasimpasa"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "23/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 1 - 1 Kasımpaşa"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Fenerbahçe 0 - 3 Nottingham Forest"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Trabzonspor 2 - 3 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "05/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Fenerbahçe 3 - 1 Erzurum FK"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "02/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Kocaelispor 0 - 2 Fenerbahçe"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Süper Lig",
+                        "date": "21/09/2025",
+                        "teams_and_score": "Kasımpaşa 1 - 1 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "16/02/2025",
+                        "teams_and_score": "Fenerbahçe 3 - 1 Kasımpaşa"
+                    },
+                    {
+                        "competition": "Turkiye Cup: Group B",
+                        "date": "09/01/2025",
+                        "teams_and_score": "Kasımpaşa 0 - 3 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "15/09/2024",
+                        "teams_and_score": "Kasımpaşa 0 - 2 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig 23/24",
+                        "date": "24/02/2024",
+                        "teams_and_score": "Fenerbahçe 2 - 1 Kasımpaşa"
+                    },
+                    {
+                        "competition": "Super Lig 22/23",
+                        "date": "29/01/2023",
+                        "teams_and_score": "Fenerbahçe 5 - 1 Kasımpaşa"
+                    },
+                    {
+                        "competition": "Super Lig 21/22",
+                        "date": "28/02/2022",
+                        "teams_and_score": "Kasımpaşa 1 - 2 Fenerbahçe"
+                    }
+                ],
+                "summary": {
+                    "Fenerbahce_wins": "3",
+                    "Kasimpasa_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fenerbahce": "64%",
+                    "Kasimpasa": "36%"
+                },
+                "corners": {
+                    "Fenerbahce": "8",
+                    "Kasimpasa": "1"
+                },
+                "fouls": {
+                    "Fenerbahce": "9",
+                    "Kasimpasa": "16"
+                },
+                "goalkeeper_saves": {
+                    "Fenerbahce": "2",
+                    "Kasimpasa": "4"
+                },
+                "offsides": {
+                    "Fenerbahce": "1",
+                    "Kasimpasa": "0"
+                },
+                "red_cards": {
+                    "Fenerbahce": "0",
+                    "Kasimpasa": "1"
+                },
+                "shots_off_target": {
+                    "Fenerbahce": "7",
+                    "Kasimpasa": "1"
+                },
+                "shots_on_target": {
+                    "Fenerbahce": "5",
+                    "Kasimpasa": "3"
+                },
+                "yellow_cards": {
+                    "Fenerbahce": "3",
+                    "Kasimpasa": "6"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fenerbahce-vs-kasimpasa-2026-02-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1004.webp",
+                    "name": "Kasimpasa",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-vs-kasimpasa-2026-02-24-DHKw.webp",
+            "title": "Fenerbahce vs Kasimpasa"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Oct 2, 2025",
+            "description": "Watch Fenerbahce vs Nice highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on October 2, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Fenerbahce_v_Nice_2025_10_02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-v-nice-2025-10-02.webp",
+            "title": "Fenerbahce vs Nice"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Feb 19, 2026",
+            "description": "Watch Fenerbahce vs Nottingham Forest highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on February 19, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Škriniar",
+                    "team": "Fenerbahce",
+                    "time": "1'"
+                },
+                {
+                    "assist": "E. Anderson",
+                    "event_type": "Goal",
+                    "player": "Murillo",
+                    "score_update": "0 - 1",
+                    "team": "Nottingham Forest",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Tedesco",
+                    "team": "Fenerbahce",
+                    "time": "31'"
+                },
+                {
+                    "assist": "M. Gibbs-White",
+                    "event_type": "Goal",
+                    "player": "I. Jesus",
+                    "score_update": "0 - 2",
+                    "team": "Nottingham Forest",
+                    "time": "46'"
+                },
+                {
+                    "assist": "I. Jesus",
+                    "event_type": "Goal",
+                    "player": "M. Gibbs-White",
+                    "score_update": "0 - 3",
+                    "team": "Nottingham Forest",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Oosterwolde",
+                    "team": "Fenerbahce",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Ç. Söyüncü",
+                    "team": "Fenerbahce",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Fred",
+                    "team": "Fenerbahce",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Fenerbahçe 0 - 3 Nottingham Forest"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "11/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Nottingham Forest 0 - 0 Wolves"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Nottingham Forest 4 - 0 Ferencvaros"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "25/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Brentford 0 - 2 Nottingham Forest"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "L",
+                            "teams_and_score": "SC Braga 1 - 0 Nottingham Forest"
+                        }
+                    ],
+                    "team": "Nottingham Forest"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Fenerbahçe 0 - 3 Nottingham Forest"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Trabzonspor 2 - 3 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "05/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Fenerbahçe 3 - 1 Erzurum FK"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "02/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Kocaelispor 0 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "D",
+                            "teams_and_score": "FCSB 1 - 1 Fenerbahçe"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "summary": {
+                    "Fenerbahce_wins": "0",
+                    "Nottingham Forest_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fenerbahce": "57%",
+                    "Nottingham Forest": "43%"
+                },
+                "corners": {
+                    "Fenerbahce": "3",
+                    "Nottingham Forest": "10"
+                },
+                "crosses": {
+                    "Fenerbahce": "2",
+                    "Nottingham Forest": "2"
+                },
+                "fouls": {
+                    "Fenerbahce": "10",
+                    "Nottingham Forest": "14"
+                },
+                "goalkeeper_saves": {
+                    "Fenerbahce": "4",
+                    "Nottingham Forest": "2"
+                },
+                "offsides": {
+                    "Fenerbahce": "0",
+                    "Nottingham Forest": "2"
+                },
+                "shots_blocked": {
+                    "Fenerbahce": "1",
+                    "Nottingham Forest": "6"
+                },
+                "shots_off_target": {
+                    "Fenerbahce": "3",
+                    "Nottingham Forest": "10"
+                },
+                "shots_on_target": {
+                    "Fenerbahce": "2",
+                    "Nottingham Forest": "7"
+                },
+                "yellow_cards": {
+                    "Fenerbahce": "5",
+                    "Nottingham Forest": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Fenerbahce_v_Nottingham_2026_02_19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/65.webp",
+                    "name": "Nottingham Forest",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-v-nottingham-2026-02-19-7Msv.webp",
+            "title": "Fenerbahce vs Nottingham Forest"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Oct 23, 2025",
+            "description": "Watch Fenerbahce vs Stuttgart highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on October 23, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Fenerbahce_v_Stuttgart_2025_10_23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-v-stuttgart-2025-10-23.webp",
+            "title": "Fenerbahce vs Stuttgart"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Fenerbahce vs Istanbul Basaksehir highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on May 2, 2026. As the Süper Lig season reached its boiling point, Fenerbahçe and Istanbul Basaksehir locked horns in a clash that promised tactical intrigue and high-stakes drama. The encounter saw both sides battling for dominance in a match defined by individual brilliance and physical intensity. A Balanced Opening Exchange The contest on May 2, 2026 , began with both teams looking to establish early control of the midfield. It was Fenerbahçe who broke the deadlock in the 28th minute when Anderson Talisca found the back of the net to ignite the home crowd. The lead, however, proved to be fragile. Istanbul Basaksehir showed immediate resilience, pushing forward and finding their reward just eight minutes later. In the 36th minute, Kazimcan Karatas provided a pinpoint delivery for Amine Harit , who clinical finish restored parity and shifted the momentum back to the visitors. As the first half drew to a close, the atmosphere grew increasingly combative. The referee was forced to reach for his pocket frequently as tensions flared between the two rivals. Jayden Oosterwolde was the first to receive a caution in the 45th minute, quickly followed by Istanbul Basaksehir ’s Jerome Opoku in stoppage time. The sides went into the tunnel level, but the physical nature of the game suggested that the second half would be a test of temperament as much as skill. The Talisca and Fred Show The second half began with tactical shifts, as Ousseynou Ba replaced the cautioned Opoku for the visitors, only to receive a yellow card of his own within seconds of the restart. However, the narrative of the match was soon dominated by the telepathic connection between Fred and Anderson Talisca . In the 57th minute, Fred carved open the defense with a clever assist, allowing Talisca to restore the lead for Fenerbahçe with his second goal of the afternoon. Refusing to let the pressure subside, the hosts continued to hunt for a cushion. Istanbul Basaksehir attempted to refresh their lineup with a triple substitution just after the hour mark, introducing Davie Selke and Onur Ergun , but they struggled to contain the movement of the Fenerbahçe front line. In the 72nd minute, the Fred and Talisca partnership struck gold once again. Fred provided his second assist of the match, setting up Anderson Talisca to complete a magnificent hat-trick and effectively put the game out of reach. Discipline and Game Management With a two-goal advantage, Fenerbahçe shifted their focus to game management. The final fifteen minutes were characterized by a flurry of substitutions and a commitment to defensive solidity. N'Golo Kante received a yellow card in the 82nd minute as the visitors grew frustrated in their search for a way back into the game. Shortly after, the home side afforded a standing ovation to their hero of the day, as Talisca was replaced by Sidiki Cherif . In the closing stages, Fred also made way for Edson Alvarez to shore up the midfield for the final moments of play. Despite the late pressure from Istanbul Basaksehir , the home defense remained disciplined through four minutes of stoppage time. When the final whistle blew, the result confirmed a night of individual brilliance that provided a significant boost to Fenerbahçe 's campaign in the Süper Lig .",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "Talisca",
+                    "score_update": "1 - 0",
+                    "team": "Fenerbahce",
+                    "time": "28'"
+                },
+                {
+                    "assist": "K. Karatas",
+                    "event_type": "Goal",
+                    "player": "A. Harit",
+                    "score_update": "1 - 1",
+                    "team": "Istanbul Basaksehir",
+                    "time": "36'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Oosterwolde",
+                    "team": "Fenerbahce",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Opoku",
+                    "team": "Istanbul Basaksehir",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Ba",
+                    "team": "Istanbul Basaksehir",
+                    "time": "46'"
+                },
+                {
+                    "assist": "Fred",
+                    "event_type": "Goal",
+                    "player": "Talisca",
+                    "score_update": "2 - 1",
+                    "team": "Fenerbahce",
+                    "time": "61'"
+                },
+                {
+                    "assist": "Fred",
+                    "event_type": "Goal",
+                    "player": "Talisca",
+                    "score_update": "3 - 1",
+                    "team": "Fenerbahce",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Kanté",
+                    "team": "Fenerbahce",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Fenerbahçe 3 - 1 İstanbul Başakşehir"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group A",
+                            "date": "03/03/2026",
+                            "result": "W",
+                            "teams_and_score": "İstanbul Başakşehir 2 - 4 Trabzonspor"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "27/02/2026",
+                            "result": "L",
+                            "teams_and_score": "İstanbul Başakşehir 2 - 0 Konyaspor"
+                        }
+                    ],
+                    "team": "Istanbul Basaksehir"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Fenerbahçe 3 - 1 İstanbul Başakşehir"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Final Stage",
+                            "date": "21/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Konyaspor 1 - 0 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "17/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 2 - 2 Rizespor"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Gaziantep FK 0 - 4 Fenerbahçe"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Süper Lig",
+                        "date": "06/12/2025",
+                        "teams_and_score": "İstanbul Başakşehir 1 - 1 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "09/05/2025",
+                        "teams_and_score": "İstanbul Başakşehir 1 - 4 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig 23/24",
+                        "date": "24/01/2024",
+                        "teams_and_score": "İstanbul Başakşehir 0 - 1 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Turkiye Cup",
+                        "date": "11/06/2023",
+                        "teams_and_score": "Fenerbahçe 2 - 0 İstanbul Başakşehir"
+                    },
+                    {
+                        "competition": "Super Lig 22/23",
+                        "date": "19/04/2023",
+                        "teams_and_score": "İstanbul Başakşehir 1 - 2 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Super Lig 21/22",
+                        "date": "05/02/2022",
+                        "teams_and_score": "Fenerbahçe 0 - 1 İstanbul Başakşehir"
+                    }
+                ],
+                "summary": {
+                    "Fenerbahce_wins": "4",
+                    "Istanbul Basaksehir_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fenerbahce": "49%",
+                    "Istanbul Basaksehir": "51%"
+                },
+                "corners": {
+                    "Fenerbahce": "10",
+                    "Istanbul Basaksehir": "2"
+                },
+                "fouls": {
+                    "Fenerbahce": "13",
+                    "Istanbul Basaksehir": "3"
+                },
+                "goalkeeper_saves": {
+                    "Fenerbahce": "3",
+                    "Istanbul Basaksehir": "6"
+                },
+                "offsides": {
+                    "Fenerbahce": "3",
+                    "Istanbul Basaksehir": "3"
+                },
+                "shots_blocked": {
+                    "Fenerbahce": "8",
+                    "Istanbul Basaksehir": "3"
+                },
+                "shots_off_target": {
+                    "Fenerbahce": "5",
+                    "Istanbul Basaksehir": "8"
+                },
+                "shots_on_target": {
+                    "Fenerbahce": "9",
+                    "Istanbul Basaksehir": "4"
+                },
+                "yellow_cards": {
+                    "Fenerbahce": "2",
+                    "Istanbul Basaksehir": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fenerbahce-basaksehir-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/564.webp",
+                    "name": "Istanbul Basaksehir",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-basaksehir-2026-05-02-ke8E.webp",
+            "title": "Fenerbahçe - Başakşehir"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Fenerbahce vs Eyüpspor highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on May 17, 2026. The showdown between Fenerbahçe and Eyüpspor served as a compelling test of tactical discipline and resilience for both sides in the Süper Lig . Played on May 17, 2026, the match unfolded as a high-stakes battle where momentum shifted dramatically between two ambitious teams. A strong opening for the visitors Eyüpspor seized the initiative early on, showing clinical precision in the final third. Mateusz Legowski broke the deadlock in the 17th minute following an assist from Umut Bozok . The visitors continued to dictate play and successfully doubled their advantage in the 36th minute, as Metehan Altunbas found the back of the net after connecting with a pass from Bedirhan Ozyurt , leaving Fenerbahçe with a mountain to climb before the break. The second-half storm Returning from the tunnel with renewed vigor, the hosts began their fightback in the 68th minute. Fred struck home after a neat setup from Ismail Yuksek , shifting the energy of the match. The equalizer arrived in the 79th minute through Kerem Akturkoglu , who capitalized on an assist from Oguz Aydin . Just three minutes later, Kerem Akturkoglu struck again—this time assisted by Nelson Semedo —to complete a stunning turnaround that sent the home crowd into a frenzy. Late drama and high tension Just as victory appeared to be within reach for the hosts, Eyüpspor clawed their way back. In the 87th minute, Talha Ulvan found the target following a crucial assist from Dorin Rotariu , bringing the score to 3-3. The closing stages were frantic, characterized by a flurry of late yellow cards issued to Nelson Semedo , Metehan Altunbas , Jayden Oosterwolde , and Luccas Claro as tempers flared in the dying moments of an intense encounter.",
+            "events_timeline": [
+                {
+                    "assist": "U. Bozok",
+                    "event_type": "Goal",
+                    "player": "M. Legowski",
+                    "score_update": "0 - 1",
+                    "team": "Eyüpspor",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. E. Demir",
+                    "team": "Fenerbahce",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Brown",
+                    "team": "Fenerbahce",
+                    "time": "31'"
+                },
+                {
+                    "assist": "B. Ozyurt",
+                    "event_type": "Goal",
+                    "player": "M. Altunbas",
+                    "score_update": "0 - 2",
+                    "team": "Eyüpspor",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Musaba",
+                    "team": "Fenerbahce",
+                    "time": "61'"
+                },
+                {
+                    "assist": "İ. Yüksek",
+                    "event_type": "Goal",
+                    "player": "Fred",
+                    "score_update": "1 - 2",
+                    "team": "Fenerbahce",
+                    "time": "68'"
+                },
+                {
+                    "assist": "O. Aydin",
+                    "event_type": "Goal",
+                    "player": "K. Aktürkoğlu",
+                    "score_update": "2 - 2",
+                    "team": "Fenerbahce",
+                    "time": "79'"
+                },
+                {
+                    "assist": "N. Semedo",
+                    "event_type": "Goal",
+                    "player": "K. Aktürkoğlu",
+                    "score_update": "3 - 2",
+                    "team": "Fenerbahce",
+                    "time": "82'"
+                },
+                {
+                    "assist": "D. Rotariu",
+                    "event_type": "Goal",
+                    "player": "T. Ulvan",
+                    "score_update": "3 - 3",
+                    "team": "Eyüpspor",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Ulvan",
+                    "team": "Eyüpspor",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Oosterwolde",
+                    "team": "Fenerbahce",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Semedo",
+                    "team": "Fenerbahce",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Claro",
+                    "team": "Eyüpspor",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Altunbas",
+                    "team": "Eyüpspor",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 3 - 3 Eyupspor"
+                        }
+                    ],
+                    "team": "Eyüpspor"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 3 - 3 Eyupspor"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Final Stage",
+                            "date": "21/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Konyaspor 1 - 0 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "17/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 2 - 2 Rizespor"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Süper Lig",
+                        "date": "20/12/2025",
+                        "teams_and_score": "Eyupspor 0 - 3 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "18/05/2025",
+                        "teams_and_score": "Fenerbahçe 2 - 1 Eyupspor"
+                    }
+                ],
+                "summary": {
+                    "Eyüpspor_wins": "1",
+                    "Fenerbahce_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Eyüpspor": "22%",
+                    "Fenerbahce": "78%"
+                },
+                "corners": {
+                    "Eyüpspor": "0",
+                    "Fenerbahce": "6"
+                },
+                "fouls": {
+                    "Eyüpspor": "12",
+                    "Fenerbahce": "9"
+                },
+                "goalkeeper_saves": {
+                    "Eyüpspor": "4",
+                    "Fenerbahce": "0"
+                },
+                "shots_blocked": {
+                    "Eyüpspor": "1",
+                    "Fenerbahce": "4"
+                },
+                "shots_off_target": {
+                    "Eyüpspor": "2",
+                    "Fenerbahce": "7"
+                },
+                "shots_on_target": {
+                    "Eyüpspor": "3",
+                    "Fenerbahce": "7"
+                },
+                "yellow_cards": {
+                    "Eyüpspor": "3",
+                    "Fenerbahce": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fenerbahce-eyupspor-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3588.webp",
+                    "name": "Eyüpspor",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-eyupspor-2026-05-17-vpSb.webp",
+            "title": "Fenerbahçe - Eyüpspor"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Mar 17, 2026",
+            "description": "Watch Fenerbahce vs Gazişehir Gaziantep highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on March 17, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "N. Dorgeles",
+                    "score_update": "1 - 0",
+                    "team": "Fenerbahce",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Dorgeles",
+                    "team": "Fenerbahce",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Maxim",
+                    "score_update": "1 - 1",
+                    "team": "Gazişehir Gaziantep",
+                    "time": "46'"
+                },
+                {
+                    "assist": "M. Asensio",
+                    "event_type": "Goal",
+                    "player": "N. Kanté",
+                    "score_update": "2 - 1",
+                    "team": "Fenerbahce",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Guendouzi",
+                    "event_type": "Goal",
+                    "player": "N. Dorgeles",
+                    "score_update": "3 - 1",
+                    "team": "Fenerbahce",
+                    "time": "76'"
+                },
+                {
+                    "assist": "M. Asensio",
+                    "event_type": "Goal",
+                    "player": "N. Dorgeles",
+                    "score_update": "4 - 1",
+                    "team": "Fenerbahce",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "17/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Fenerbahçe 4 - 1 Gaziantep FK"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Gaziantep FK 0 - 4 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Samsunspor 0 - 0 Gaziantep FK"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Keciorengucu 1 - 5 Gaziantep FK"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "01/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Gençlerbirliği 2 - 1 Gaziantep FK"
+                        }
+                    ],
+                    "team": "Gazişehir Gaziantep"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "17/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Fenerbahçe 4 - 1 Gaziantep FK"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Gaziantep FK 0 - 4 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Antalyaspor 2 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Nottingham Forest 1 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "23/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 1 - 1 Kasımpaşa"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Turkiye Cup: Group C",
+                        "date": "04/03/2026",
+                        "teams_and_score": "Gaziantep FK 0 - 4 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "27/10/2025",
+                        "teams_and_score": "Gaziantep FK 0 - 4 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "26/04/2025",
+                        "teams_and_score": "Gaziantep FK 1 - 3 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Turkiye Cup: Group B",
+                        "date": "27/02/2025",
+                        "teams_and_score": "Gaziantep FK 1 - 4 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "02/12/2024",
+                        "teams_and_score": "Fenerbahçe 3 - 1 Gaziantep FK"
+                    },
+                    {
+                        "competition": "Turkiye Cup: Round of 16 23/24",
+                        "date": "07/02/2024",
+                        "teams_and_score": "Gaziantep FK 0 - 2 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig 23/24",
+                        "date": "14/01/2024",
+                        "teams_and_score": "Gaziantep FK 0 - 1 Fenerbahçe"
+                    }
+                ],
+                "summary": {
+                    "Fenerbahce_wins": "6",
+                    "Gazişehir Gaziantep_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fenerbahce": "64%",
+                    "Gazişehir Gaziantep": "36%"
+                },
+                "corners": {
+                    "Fenerbahce": "11",
+                    "Gazişehir Gaziantep": "7"
+                },
+                "fouls": {
+                    "Fenerbahce": "10",
+                    "Gazişehir Gaziantep": "14"
+                },
+                "goalkeeper_saves": {
+                    "Fenerbahce": "3",
+                    "Gazişehir Gaziantep": "4"
+                },
+                "offsides": {
+                    "Fenerbahce": "1",
+                    "Gazişehir Gaziantep": "0"
+                },
+                "shots_off_target": {
+                    "Fenerbahce": "4",
+                    "Gazişehir Gaziantep": "2"
+                },
+                "shots_on_target": {
+                    "Fenerbahce": "8",
+                    "Gazişehir Gaziantep": "4"
+                },
+                "yellow_cards": {
+                    "Fenerbahce": "1",
+                    "Gazişehir Gaziantep": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fenerbahce-gaziantep-fk-2026-03-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3573.webp",
+                    "name": "Gazişehir Gaziantep",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-gaziantep-fk-2026-03-17-MCbH.webp",
+            "title": "Fenerbahçe - Gaziantep FK"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Mar 8, 2026",
+            "description": "Watch Fenerbahce vs Samsunspor highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on March 8, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "C. Holse",
+                    "event_type": "Goal",
+                    "player": "M. Mouandilmadji",
+                    "score_update": "0 - 1",
+                    "team": "Samsunspor",
+                    "time": "12'"
+                },
+                {
+                    "assist": "A. Musaba",
+                    "event_type": "Goal",
+                    "player": "M. Guendouzi",
+                    "score_update": "1 - 1",
+                    "team": "Fenerbahce",
+                    "time": "15'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Cift",
+                    "team": "Samsunspor",
+                    "time": "16'"
+                },
+                {
+                    "assist": "L. Tomasson",
+                    "event_type": "Goal",
+                    "player": "M. Mouandilmadji",
+                    "score_update": "1 - 2",
+                    "team": "Samsunspor",
+                    "time": "23'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Mendes",
+                    "team": "Samsunspor",
+                    "time": "41'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Ederson",
+                    "team": "Fenerbahce",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Borevkovic",
+                    "team": "Samsunspor",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Van Drongelen",
+                    "team": "Samsunspor",
+                    "time": "62'"
+                },
+                {
+                    "assist": "M. Asensio",
+                    "event_type": "Goal",
+                    "player": "N. Dorgeles",
+                    "score_update": "2 - 2",
+                    "team": "Fenerbahce",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Tedesco",
+                    "team": "Fenerbahce",
+                    "time": "90+1'"
+                },
+                {
+                    "assist": "M. Asensio",
+                    "event_type": "Goal",
+                    "player": "S. Cherif",
+                    "score_update": "3 - 2",
+                    "team": "Fenerbahce",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Guendouzi",
+                    "team": "Fenerbahce",
+                    "time": "90+6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Makoumbou",
+                    "team": "Samsunspor",
+                    "time": "90+6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Kocuk",
+                    "team": "Samsunspor",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Fenerbahçe 3 - 2 Samsunspor"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group B",
+                            "date": "05/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Antalyaspor 0 - 2 Samsunspor"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Samsunspor 0 - 0 Gaziantep FK"
+                        },
+                        {
+                            "competition": "Knockout Round Play-offs",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Samsunspor 4 - 0 KF Shkendija"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "22/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Fatih Karagumruk 0 - 0 Samsunspor"
+                        }
+                    ],
+                    "team": "Samsunspor"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Fenerbahçe 3 - 2 Samsunspor"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Gaziantep FK 0 - 4 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Antalyaspor 2 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Nottingham Forest 1 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "23/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 1 - 1 Kasımpaşa"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Super Cup",
+                        "date": "06/01/2026",
+                        "teams_and_score": "Fenerbahçe 2 - 0 Samsunspor"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "05/10/2025",
+                        "teams_and_score": "Samsunspor 0 - 0 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "16/03/2025",
+                        "teams_and_score": "Fenerbahçe 0 - 0 Samsunspor"
+                    },
+                    {
+                        "competition": "Süper Lig 23/24",
+                        "date": "21/01/2024",
+                        "teams_and_score": "Fenerbahçe 1 - 1 Samsunspor"
+                    },
+                    {
+                        "competition": "Cup",
+                        "date": "21/03/2012",
+                        "teams_and_score": "Fenerbahçe 3 - 0 Samsunspor"
+                    },
+                    {
+                        "competition": "Spor Toto Sueper Lig",
+                        "date": "02/02/2012",
+                        "teams_and_score": "Samsunspor 3 - 1 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Superlig",
+                        "date": "11/02/2006",
+                        "teams_and_score": "Samsunspor 0 - 5 Fenerbahçe"
+                    }
+                ],
+                "summary": {
+                    "Fenerbahce_wins": "1",
+                    "Samsunspor_wins": "3",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fenerbahce": "55%",
+                    "Samsunspor": "45%"
+                },
+                "corners": {
+                    "Fenerbahce": "7",
+                    "Samsunspor": "6"
+                },
+                "fouls": {
+                    "Fenerbahce": "11",
+                    "Samsunspor": "22"
+                },
+                "goalkeeper_saves": {
+                    "Fenerbahce": "5",
+                    "Samsunspor": "3"
+                },
+                "offsides": {
+                    "Fenerbahce": "0",
+                    "Samsunspor": "1"
+                },
+                "shots_off_target": {
+                    "Fenerbahce": "7",
+                    "Samsunspor": "6"
+                },
+                "shots_on_target": {
+                    "Fenerbahce": "6",
+                    "Samsunspor": "7"
+                },
+                "yellow_cards": {
+                    "Fenerbahce": "3",
+                    "Samsunspor": "6"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fenerbahce-samsunspor-2026-03-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3603.webp",
+                    "name": "Samsunspor",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-samsunspor-2026-03-08-mYzz.webp",
+            "title": "Fenerbahçe - Samsunspor"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Apr 17, 2026",
+            "description": "Watch Fenerbahce vs Rizespor highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on April 17, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Antalyali",
+                    "team": "Rizespor",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Augusto",
+                    "team": "Rizespor",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Hojer",
+                    "team": "Rizespor",
+                    "time": "31'"
+                },
+                {
+                    "assist": "V. Mihăilă",
+                    "event_type": "Goal",
+                    "player": "A. Sowe",
+                    "score_update": "0 - 1",
+                    "team": "Rizespor",
+                    "time": "47'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Akaydin",
+                    "team": "Rizespor",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Talisca",
+                    "team": "Fenerbahce",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Mihăilă",
+                    "team": "Rizespor",
+                    "time": "68'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "S. Akaydin",
+                    "team": "Rizespor",
+                    "time": "72'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Fofana",
+                    "team": "Rizespor",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Talisca",
+                    "score_update": "1 - 1",
+                    "team": "Fenerbahce",
+                    "time": "80'"
+                },
+                {
+                    "assist": "A. Musaba",
+                    "event_type": "Goal",
+                    "player": "K. Aktürkoğlu",
+                    "score_update": "2 - 1",
+                    "team": "Fenerbahce",
+                    "time": "86'"
+                },
+                {
+                    "assist": "Y. Fofana",
+                    "event_type": "Goal",
+                    "player": "M. Sagnan",
+                    "score_update": "2 - 2",
+                    "team": "Rizespor",
+                    "time": "90+8'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "17/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 2 - 2 Rizespor"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "04/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Beşiktaş 4 - 1 Rizespor"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Kasımpaşa 0 - 3 Rizespor"
+                        }
+                    ],
+                    "team": "Rizespor"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "17/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 2 - 2 Rizespor"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Gaziantep FK 0 - 4 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Antalyaspor 2 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Nottingham Forest 1 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "23/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 1 - 1 Kasımpaşa"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Süper Lig",
+                        "date": "23/11/2025",
+                        "teams_and_score": "Rizespor 2 - 5 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "02/02/2025",
+                        "teams_and_score": "Fenerbahçe 3 - 2 Rizespor"
+                    },
+                    {
+                        "competition": "Süper Lig 23/24",
+                        "date": "17/02/2024",
+                        "teams_and_score": "Rizespor 1 - 3 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Turkiye Cup",
+                        "date": "19/01/2023",
+                        "teams_and_score": "Fenerbahçe 2 - 1 Rizespor"
+                    },
+                    {
+                        "competition": "Super Lig 21/22",
+                        "date": "22/04/2022",
+                        "teams_and_score": "Rizespor 0 - 6 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Super Lig 20/21",
+                        "date": "30/01/2021",
+                        "teams_and_score": "Fenerbahçe 1 - 0 Rizespor"
+                    }
+                ],
+                "summary": {
+                    "Fenerbahce_wins": "3",
+                    "Rizespor_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fenerbahce": "60%",
+                    "Rizespor": "40%"
+                },
+                "corners": {
+                    "Fenerbahce": "7",
+                    "Rizespor": "3"
+                },
+                "fouls": {
+                    "Fenerbahce": "13",
+                    "Rizespor": "13"
+                },
+                "goalkeeper_saves": {
+                    "Fenerbahce": "1",
+                    "Rizespor": "3"
+                },
+                "offsides": {
+                    "Fenerbahce": "1",
+                    "Rizespor": "0"
+                },
+                "red_cards": {
+                    "Fenerbahce": "0",
+                    "Rizespor": "1"
+                },
+                "shots_off_target": {
+                    "Fenerbahce": "10",
+                    "Rizespor": "3"
+                },
+                "shots_on_target": {
+                    "Fenerbahce": "5",
+                    "Rizespor": "4"
+                },
+                "yellow_cards": {
+                    "Fenerbahce": "1",
+                    "Rizespor": "6"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fenerbahce-caykur-rizespor-2026-04-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1007.webp",
+                    "name": "Rizespor",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-caykur-rizespor-2026-04-17-nind.webp",
+            "title": "Fenerbahçe - Çaykur Rizespor"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch Galatasaray vs Fenerbahce highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on April 26, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "U. Çakır",
+                    "team": "Galatasaray",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Oosterwolde",
+                    "team": "Fenerbahce",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Talisca",
+                    "score_update": "0 - 0",
+                    "team": "Fenerbahce",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Ederson",
+                    "team": "Fenerbahce",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Brown",
+                    "team": "Fenerbahce",
+                    "time": "31'"
+                },
+                {
+                    "assist": "M. Lemina",
+                    "event_type": "Goal",
+                    "player": "V. Osimhen",
+                    "score_update": "1 - 0",
+                    "team": "Galatasaray",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Akgün",
+                    "team": "Galatasaray",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "Ederson",
+                    "team": "Fenerbahce",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. A. Yılmaz",
+                    "score_update": "2 - 0",
+                    "team": "Galatasaray",
+                    "time": "67'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. A. Yılmaz",
+                    "team": "Galatasaray",
+                    "time": "68'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Torreira",
+                    "score_update": "3 - 0",
+                    "team": "Galatasaray",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Torreira",
+                    "team": "Galatasaray",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Guendouzi",
+                    "team": "Fenerbahce",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Osimhen",
+                    "team": "Galatasaray",
+                    "time": "90+6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Müldür",
+                    "team": "Fenerbahce",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Galatasaray 3 - 0 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Final Stage",
+                            "date": "21/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Konyaspor 1 - 0 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "17/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 2 - 2 Rizespor"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Gaziantep FK 0 - 4 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Antalyaspor 2 - 2 Fenerbahçe"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Galatasaray 3 - 0 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Final Stage",
+                            "date": "22/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Galatasaray 0 - 2 Gençlerbirliği"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Gençlerbirliği 1 - 2 Galatasaray"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "18/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Liverpool 4 - 0 Galatasaray"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "14/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Galatasaray 3 - 0 İstanbul Başakşehir"
+                        }
+                    ],
+                    "team": "Galatasaray"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Super Cup",
+                        "date": "10/01/2026",
+                        "teams_and_score": "Galatasaray 0 - 2 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "01/12/2025",
+                        "teams_and_score": "Fenerbahçe 1 - 1 Galatasaray"
+                    },
+                    {
+                        "competition": "Turkiye Cup: Final Stage",
+                        "date": "02/04/2025",
+                        "teams_and_score": "Fenerbahçe 1 - 2 Galatasaray"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "24/02/2025",
+                        "teams_and_score": "Galatasaray 0 - 0 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig 23/24",
+                        "date": "19/05/2024",
+                        "teams_and_score": "Galatasaray 0 - 1 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Super Cup",
+                        "date": "07/04/2024",
+                        "teams_and_score": "Galatasaray 3 - 0 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig 23/24",
+                        "date": "24/12/2023",
+                        "teams_and_score": "Fenerbahçe 0 - 0 Galatasaray"
+                    }
+                ],
+                "summary": {
+                    "Fenerbahce_wins": "2",
+                    "Galatasaray_wins": "3",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fenerbahce": "37%",
+                    "Galatasaray": "63%"
+                },
+                "corners": {
+                    "Fenerbahce": "4",
+                    "Galatasaray": "6"
+                },
+                "fouls": {
+                    "Fenerbahce": "13",
+                    "Galatasaray": "16"
+                },
+                "goalkeeper_saves": {
+                    "Fenerbahce": "5",
+                    "Galatasaray": "1"
+                },
+                "offsides": {
+                    "Fenerbahce": "3",
+                    "Galatasaray": "4"
+                },
+                "red_cards": {
+                    "Fenerbahce": "1",
+                    "Galatasaray": "0"
+                },
+                "shots_blocked": {
+                    "Fenerbahce": "1",
+                    "Galatasaray": "6"
+                },
+                "shots_off_target": {
+                    "Fenerbahce": "3",
+                    "Galatasaray": "7"
+                },
+                "shots_on_target": {
+                    "Fenerbahce": "1",
+                    "Galatasaray": "8"
+                },
+                "yellow_cards": {
+                    "Fenerbahce": "5",
+                    "Galatasaray": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Galatasaray_v_Fenerbahce_2026_04_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/645.webp",
+                    "name": "Galatasaray",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/galatasaray-v-fenerbahce-2026-04-26-CTNc.webp",
+            "title": "Galatasaray vs Fenerbahce"
+        },
+        {
+            "competition": "Unknown Competition",
+            "competition_cover": "",
+            "date": "Oct 27, 2025",
+            "description": "Watch Sheriff Tiraspol vs Sheriff Tiraspol highlights and goals from Super Liga on ReFooty: Football Highlights Hub. Match played on October 27, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Gaziantep_v_Fenerbahce_2025_10_27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/gaziantep-v-fenerbahce-2025-10-27.webp",
+            "title": "Gaziantep vs Fenerbahce"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Mar 5, 2026",
+            "description": "Watch Gazişehir Gaziantep vs Fenerbahce highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on March 5, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "A. Musaba",
+                    "score_update": "0 - 1",
+                    "team": "Fenerbahce",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Cherif",
+                    "score_update": "0 - 2",
+                    "team": "Fenerbahce",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Dorgeles",
+                    "score_update": "0 - 3",
+                    "team": "Fenerbahce",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Brown",
+                    "score_update": "0 - 4",
+                    "team": "Fenerbahce",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Gaziantep FK 0 - 4 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Antalyaspor 2 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Nottingham Forest 1 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "23/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 1 - 1 Kasımpaşa"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Fenerbahçe 0 - 3 Nottingham Forest"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Gaziantep FK 0 - 4 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Samsunspor 0 - 0 Gaziantep FK"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Keciorengucu 1 - 5 Gaziantep FK"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "01/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Gençlerbirliği 2 - 1 Gaziantep FK"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "13/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Gaziantep FK 1 - 0 Kocaelispor"
+                        }
+                    ],
+                    "team": "Gazişehir Gaziantep"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Süper Lig",
+                        "date": "27/10/2025",
+                        "teams_and_score": "Gaziantep FK 0 - 4 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "26/04/2025",
+                        "teams_and_score": "Gaziantep FK 1 - 3 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Turkiye Cup: Group B",
+                        "date": "27/02/2025",
+                        "teams_and_score": "Gaziantep FK 1 - 4 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "02/12/2024",
+                        "teams_and_score": "Fenerbahçe 3 - 1 Gaziantep FK"
+                    },
+                    {
+                        "competition": "Turkiye Cup: Round of 16 23/24",
+                        "date": "07/02/2024",
+                        "teams_and_score": "Gaziantep FK 0 - 2 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Süper Lig 23/24",
+                        "date": "14/01/2024",
+                        "teams_and_score": "Gaziantep FK 0 - 1 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Super Lig 22/23",
+                        "date": "07/06/2023",
+                        "teams_and_score": "Fenerbahçe 3 - 0 Gaziantep FK"
+                    }
+                ],
+                "summary": {
+                    "Fenerbahce_wins": "3",
+                    "Gazişehir Gaziantep_wins": "5",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/gazisehir-gaziantep-vs-fenerbahce-2026-03-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3573.webp",
+                    "name": "Gazişehir Gaziantep",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/gazisehir-gaziantep-vs-fenerbahce-2026-03-05-NAOv.webp",
+            "title": "Gazişehir Gaziantep vs Fenerbahce"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Kayserispor vs Fenerbahce highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Oosterwolde",
+                    "team": "Fenerbahce",
+                    "time": "26'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Makarov",
+                    "team": "Kayserispor",
+                    "time": "32'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Ederson",
+                    "team": "Fenerbahce",
+                    "time": "34'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Fred",
+                    "team": "Fenerbahce",
+                    "time": "36'"
+                },
+                {
+                    "assist": "Talisca",
+                    "event_type": "Goal",
+                    "player": "N. Kanté",
+                    "score_update": "0 - 1",
+                    "team": "Fenerbahce",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Bennasser",
+                    "team": "Kayserispor",
+                    "time": "46'"
+                },
+                {
+                    "assist": "A. Brown",
+                    "event_type": "Goal",
+                    "player": "Talisca",
+                    "score_update": "0 - 2",
+                    "team": "Fenerbahce",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Dorgeles",
+                    "score_update": "0 - 3",
+                    "team": "Fenerbahce",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Sağlam",
+                    "team": "Kayserispor",
+                    "time": "91'"
+                },
+                {
+                    "assist": "K. Aktürkoğlu",
+                    "event_type": "Goal",
+                    "player": "Talisca",
+                    "score_update": "0 - 4",
+                    "team": "Fenerbahce",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Kayserispor 0 - 4 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Gaziantep FK 0 - 4 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Antalyaspor 2 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Nottingham Forest 1 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "23/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 1 - 1 Kasımpaşa"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Kayserispor 0 - 4 Fenerbahçe"
+                        }
+                    ],
+                    "team": "Kayserispor"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Süper Lig",
+                        "date": "09/11/2025",
+                        "teams_and_score": "Fenerbahçe 4 - 2 Kayserispor"
+                    },
+                    {
+                        "competition": "Süper Lig",
+                        "date": "20/04/2025",
+                        "teams_and_score": "Fenerbahçe 3 - 3 Kayserispor"
+                    },
+                    {
+                        "competition": "Süper Lig 23/24",
+                        "date": "12/05/2024",
+                        "teams_and_score": "Fenerbahçe 3 - 0 Kayserispor"
+                    },
+                    {
+                        "competition": "Turkiye Cup",
+                        "date": "06/04/2023",
+                        "teams_and_score": "Fenerbahçe 4 - 1 Kayserispor"
+                    },
+                    {
+                        "competition": "Super Lig 22/23",
+                        "date": "04/03/2023",
+                        "teams_and_score": "Kayserispor 1 - 2 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Super Lig 21/22",
+                        "date": "02/04/2022",
+                        "teams_and_score": "Kayserispor 0 - 4 Fenerbahçe"
+                    },
+                    {
+                        "competition": "Turkiye Cup 21/22",
+                        "date": "08/02/2022",
+                        "teams_and_score": "Fenerbahçe 0 - 1 Kayserispor"
+                    }
+                ],
+                "summary": {
+                    "Fenerbahce_wins": "5",
+                    "Kayserispor_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fenerbahce": "61%",
+                    "Kayserispor": "39%"
+                },
+                "corners": {
+                    "Fenerbahce": "5",
+                    "Kayserispor": "4"
+                },
+                "fouls": {
+                    "Fenerbahce": "10",
+                    "Kayserispor": "17"
+                },
+                "goalkeeper_saves": {
+                    "Fenerbahce": "3",
+                    "Kayserispor": "3"
+                },
+                "offsides": {
+                    "Fenerbahce": "2",
+                    "Kayserispor": "1"
+                },
+                "shots_off_target": {
+                    "Fenerbahce": "3",
+                    "Kayserispor": "4"
+                },
+                "shots_on_target": {
+                    "Fenerbahce": "7",
+                    "Kayserispor": "3"
+                },
+                "yellow_cards": {
+                    "Fenerbahce": "3",
+                    "Kayserispor": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kayserispor-fenerbahce-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1001.webp",
+                    "name": "Kayserispor",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kayserispor-fenerbahce-2026-04-11-ngNk.webp",
+            "title": "Kayserispor - Fenerbahçe"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Feb 2, 2026",
+            "description": "Watch Kocaelispor vs Fenerbahce highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on February 2, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Álvarez",
+                    "team": "Fenerbahce",
+                    "time": "13'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Rivas",
+                    "team": "Kocaelispor",
+                    "time": "26'"
+                },
+                {
+                    "assist": "Talisca",
+                    "event_type": "Goal",
+                    "player": "M. Asensio",
+                    "score_update": "0 - 1",
+                    "team": "Fenerbahce",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Linetty",
+                    "team": "Kocaelispor",
+                    "time": "45+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Müldür",
+                    "team": "Fenerbahce",
+                    "time": "46'"
+                },
+                {
+                    "assist": "N. Semedo",
+                    "event_type": "Goal",
+                    "player": "N. Dorgeles",
+                    "score_update": "0 - 2",
+                    "team": "Fenerbahce",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Aktürkoğlu",
+                    "team": "Fenerbahce",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "02/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Kocaelispor 0 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "D",
+                            "teams_and_score": "FCSB 1 - 1 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "25/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 1 - 1 Goztepe"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Fenerbahçe 0 - 1 Aston Villa"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "18/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Alanyaspor 2 - 3 Fenerbahçe"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Süper Lig",
+                            "date": "02/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Kocaelispor 0 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "13/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Gaziantep FK 1 - 0 Kocaelispor"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "19/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Kocaelispor 2 - 1 Antalyaspor"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Qualification",
+                            "date": "03/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Karacabey Belediye Spor 1 - 2 Kocaelispor"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "28/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Kocaelispor 1 - 0 Gençlerbirliği"
+                        }
+                    ],
+                    "team": "Kocaelispor"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Süper Lig",
+                        "date": "23/08/2025",
+                        "teams_and_score": "Fenerbahçe 3 - 1 Kocaelispor"
+                    },
+                    {
+                        "competition": "Superlig",
+                        "date": "13/03/2009",
+                        "teams_and_score": "Fenerbahçe 1 - 1 Kocaelispor"
+                    }
+                ],
+                "summary": {
+                    "Fenerbahce_wins": "1",
+                    "Kocaelispor_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fenerbahce": "42%",
+                    "Kocaelispor": "58%"
+                },
+                "corners": {
+                    "Fenerbahce": "3",
+                    "Kocaelispor": "8"
+                },
+                "fouls": {
+                    "Fenerbahce": "16",
+                    "Kocaelispor": "16"
+                },
+                "goalkeeper_saves": {
+                    "Fenerbahce": "3",
+                    "Kocaelispor": "3"
+                },
+                "offsides": {
+                    "Fenerbahce": "0",
+                    "Kocaelispor": "4"
+                },
+                "shots_off_target": {
+                    "Fenerbahce": "2",
+                    "Kocaelispor": "5"
+                },
+                "shots_on_target": {
+                    "Fenerbahce": "5",
+                    "Kocaelispor": "3"
+                },
+                "yellow_cards": {
+                    "Fenerbahce": "3",
+                    "Kocaelispor": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kocaelispor-vs-fenerbahce-2026-02-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/7411.webp",
+                    "name": "Kocaelispor",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kocaelispor-vs-fenerbahce-2026-02-02-w6Fg.webp",
+            "title": "Kocaelispor vs Fenerbahce"
+        },
+        {
+            "competition": "UEFA Europa League",
+            "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+            "date": "Feb 26, 2026",
+            "description": "Watch Nottingham Forest vs Fenerbahce highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on February 26, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "S. Cherif",
+                    "event_type": "Goal",
+                    "player": "K. Aktürkoğlu",
+                    "score_update": "0 - 1",
+                    "team": "Fenerbahce",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Lucca",
+                    "team": "Nottingham Forest",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Aktürkoğlu",
+                    "score_update": "0 - 2",
+                    "team": "Fenerbahce",
+                    "time": "46'"
+                },
+                {
+                    "assist": "O. Aina",
+                    "event_type": "Goal",
+                    "player": "C. Hudson-Odoi",
+                    "score_update": "1 - 2",
+                    "team": "Nottingham Forest",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Nottingham Forest 1 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "23/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 1 - 1 Kasımpaşa"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Fenerbahçe 0 - 3 Nottingham Forest"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Trabzonspor 2 - 3 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "05/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Fenerbahçe 3 - 1 Erzurum FK"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Nottingham Forest 1 - 2 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "22/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Nottingham Forest 0 - 1 Liverpool"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Fenerbahçe 0 - 3 Nottingham Forest"
+                        },
+                        {
+                            "competition": "Premier League",
+                            "date": "11/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Nottingham Forest 0 - 0 Wolves"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Nottingham Forest 4 - 0 Ferencvaros"
+                        }
+                    ],
+                    "team": "Nottingham Forest"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Knockout Stage",
+                        "date": "19/02/2026",
+                        "teams_and_score": "Fenerbahçe 0 - 3 Nottingham Forest"
+                    }
+                ],
+                "summary": {
+                    "Fenerbahce_wins": "0",
+                    "Nottingham Forest_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fenerbahce": "46%",
+                    "Nottingham Forest": "54%"
+                },
+                "corners": {
+                    "Fenerbahce": "3",
+                    "Nottingham Forest": "5"
+                },
+                "crosses": {
+                    "Fenerbahce": "3",
+                    "Nottingham Forest": "7"
+                },
+                "fouls": {
+                    "Fenerbahce": "8",
+                    "Nottingham Forest": "12"
+                },
+                "goalkeeper_saves": {
+                    "Fenerbahce": "3",
+                    "Nottingham Forest": "3"
+                },
+                "offsides": {
+                    "Fenerbahce": "3",
+                    "Nottingham Forest": "0"
+                },
+                "shots_blocked": {
+                    "Fenerbahce": "4",
+                    "Nottingham Forest": "2"
+                },
+                "shots_off_target": {
+                    "Fenerbahce": "3",
+                    "Nottingham Forest": "7"
+                },
+                "shots_on_target": {
+                    "Fenerbahce": "4",
+                    "Nottingham Forest": "4"
+                },
+                "yellow_cards": {
+                    "Fenerbahce": "0",
+                    "Nottingham Forest": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Nottingham_v_Fenerbahce_2026_02_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/65.webp",
+                    "name": "Nottingham Forest",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nottingham-v-fenerbahce-2026-02-26-OYCG.webp",
+            "title": "Nottingham Forest vs Fenerbahce"
+        },
+        {
+            "competition": "Süper Lig",
+            "competition_cover": "https://refooty.com/covers/super-lig.webp",
+            "date": "Jan 26, 2026",
+            "description": "Watch Fenerbahce vs Goztepe highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on January 26, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "K. Aktürkoğlu",
+                    "event_type": "Goal",
+                    "player": "İ. Yüksek",
+                    "score_update": "0 - 1",
+                    "team": "Goztepe",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "İ. Yüksek",
+                    "team": "Goztepe",
+                    "time": "16'"
+                },
+                {
+                    "assist": "R. Radunović",
+                    "event_type": "Goal",
+                    "player": "J. Cisotti",
+                    "score_update": "1 - 1",
+                    "team": "Fenerbahce",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Ederson",
+                    "team": "Goztepe",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Fred",
+                    "team": "Goztepe",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Cisotti",
+                    "team": "Fenerbahce",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "D",
+                            "teams_and_score": "FCSB 1 - 1 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "25/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Fenerbahçe 1 - 1 Goztepe"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Fenerbahçe 0 - 1 Aston Villa"
+                        },
+                        {
+                            "competition": "Süper Lig",
+                            "date": "18/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Alanyaspor 2 - 3 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Turkiye Cup: Group C",
+                            "date": "14/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Beyoglu Yeni Carsi FK 0 - 1 Fenerbahçe"
+                        }
+                    ],
+                    "team": "Goztepe"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League Stage",
+                            "date": "29/01/2026",
+                            "result": "D",
+                            "teams_and_score": "FCSB 1 - 1 Fenerbahçe"
+                        },
+                        {
+                            "competition": "Liga 1",
+                            "date": "25/01/2026",
+                            "result": "W",
+                            "teams_and_score": "FCSB 1 - 4 CFR Cluj"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "22/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Dinamo Zagreb 4 - 1 FCSB"
+                        },
+                        {
+                            "competition": "Liga 1",
+                            "date": "16/01/2026",
+                            "result": "L",
+                            "teams_and_score": "ACS Champions FC Arges 1 - 0 FCSB"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "11/12/2025",
+                            "result": "L",
+                            "teams_and_score": "FCSB 4 - 3 Feyenoord"
+                        }
+                    ],
+                    "team": "Fenerbahce"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Europa League Grp. H",
+                        "date": "05/11/2009",
+                        "teams_and_score": "Fenerbahçe 3 - 1 FCSB"
+                    }
+                ],
+                "summary": {
+                    "Fenerbahce_wins": "0",
+                    "Goztepe_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fenerbahce": "34%",
+                    "Goztepe": "66%"
+                },
+                "corners": {
+                    "Fenerbahce": "7",
+                    "Goztepe": "5"
+                },
+                "crosses": {
+                    "Fenerbahce": "7",
+                    "Goztepe": "7"
+                },
+                "fouls": {
+                    "Fenerbahce": "11",
+                    "Goztepe": "11"
+                },
+                "goalkeeper_saves": {
+                    "Fenerbahce": "8",
+                    "Goztepe": "7"
+                },
+                "offsides": {
+                    "Fenerbahce": "1",
+                    "Goztepe": "3"
+                },
+                "shots_blocked": {
+                    "Fenerbahce": "2",
+                    "Goztepe": "1"
+                },
+                "shots_off_target": {
+                    "Fenerbahce": "5",
+                    "Goztepe": "8"
+                },
+                "shots_on_target": {
+                    "Fenerbahce": "8",
+                    "Goztepe": "8"
+                },
+                "yellow_cards": {
+                    "Fenerbahce": "1",
+                    "Goztepe": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/team-23057-vs-team-23061-2026-01-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/994.webp",
+                    "name": "Goztepe",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/611.webp",
+                    "name": "Fenerbahce",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/team-23057-vs-team-23061-2026-01-26-uglI.webp",
+            "title": "Team 23057 vs Team 23061"
+        }
+    ]
+}

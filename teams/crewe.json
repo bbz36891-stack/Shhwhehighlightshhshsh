@@ -1,0 +1,354 @@
+{
+    "team": "Crewe",
+    "team_logo": "https://img.refooty.com/logo/teams/1363.webp",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Mar 28, 2026",
+            "description": "Watch Crewe vs Oldham highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on March 28, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Casemiro",
+                    "team": "Oldham",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Jimenez",
+                    "team": "Crewe",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Fernandes",
+                    "score_update": "0 - 1",
+                    "team": "Oldham",
+                    "time": "61'"
+                },
+                {
+                    "assist": "A. Truffert",
+                    "event_type": "Goal",
+                    "player": "R. Christie",
+                    "score_update": "1 - 1",
+                    "team": "Crewe",
+                    "time": "67'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Hill",
+                    "team": "Oldham",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "H. Maguire",
+                    "team": "Oldham",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Kroupi",
+                    "score_update": "2 - 2",
+                    "team": "Crewe",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Smith",
+                    "team": "Crewe",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Šeško",
+                    "team": "Oldham",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "20/03/2026",
+                            "result": "D",
+                            "teams_and_score": "AFC Bournemouth 2 - 2 Manchester United"
+                        }
+                    ],
+                    "team": "Oldham"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premier League",
+                            "date": "20/03/2026",
+                            "result": "D",
+                            "teams_and_score": "AFC Bournemouth 2 - 2 Manchester United"
+                        }
+                    ],
+                    "team": "Crewe"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premier League",
+                        "date": "15/12/2025",
+                        "teams_and_score": "Manchester United 4 - 4 AFC Bournemouth"
+                    },
+                    {
+                        "competition": "Premier League Summer Series 2025",
+                        "date": "31/07/2025",
+                        "teams_and_score": "Manchester United 4 - 1 AFC Bournemouth"
+                    },
+                    {
+                        "competition": "Premier League 24/25",
+                        "date": "27/04/2025",
+                        "teams_and_score": "AFC Bournemouth 1 - 1 Manchester United"
+                    },
+                    {
+                        "competition": "Premier League 23/24",
+                        "date": "13/04/2024",
+                        "teams_and_score": "AFC Bournemouth 2 - 2 Manchester United"
+                    },
+                    {
+                        "competition": "Premier League 22/23",
+                        "date": "20/05/2023",
+                        "teams_and_score": "AFC Bournemouth 0 - 1 Manchester United"
+                    },
+                    {
+                        "competition": "Premier League 19/20",
+                        "date": "04/07/2020",
+                        "teams_and_score": "Manchester United 5 - 2 AFC Bournemouth"
+                    }
+                ],
+                "summary": {
+                    "Crewe_wins": "1",
+                    "Oldham_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Crewe": "55%",
+                    "Oldham": "45%"
+                },
+                "corners": {
+                    "Crewe": "6",
+                    "Oldham": "8"
+                },
+                "crosses": {
+                    "Crewe": "2",
+                    "Oldham": "3"
+                },
+                "fouls": {
+                    "Crewe": "10",
+                    "Oldham": "9"
+                },
+                "goalkeeper_saves": {
+                    "Crewe": "4",
+                    "Oldham": "3"
+                },
+                "offsides": {
+                    "Crewe": "2",
+                    "Oldham": "0"
+                },
+                "red_cards": {
+                    "Crewe": "0",
+                    "Oldham": "1"
+                },
+                "shots_blocked": {
+                    "Crewe": "4",
+                    "Oldham": "7"
+                },
+                "shots_off_target": {
+                    "Crewe": "7",
+                    "Oldham": "2"
+                },
+                "shots_on_target": {
+                    "Crewe": "5",
+                    "Oldham": "5"
+                },
+                "yellow_cards": {
+                    "Crewe": "2",
+                    "Oldham": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/crewe-alexandra-oldham-athletic-2026-03-28-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1349.webp",
+                    "name": "Oldham",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1363.webp",
+                    "name": "Crewe",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/crewe-alexandra-oldham-athletic-2026-03-28-vn-1PTB.webp",
+            "title": "crewe alexandra - oldham athletic"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Crewe vs Cambridge United highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on May 2, 2026. Crewe and Cambridge United locked horns in a clash defined by tactical discipline and a high-stakes atmosphere on a significant afternoon in League Two . Both sets of supporters arrived with high hopes on May 2, 2026, as the two sides looked to navigate a crucial fixture in the late-season run-in. Penalty Drama and Early Tension The match began with both sides testing one another in a cautious opening exchange, but the game burst into life in the 24th minute when the hosts were handed a golden opportunity to take the lead. After a foul in the area, Ben Knight stepped up to the penalty spot with the weight of the stadium on his shoulders. However, the player was unable to capitalize, seeing his effort miss the target and leaving the home faithful in a state of disbelief. This missed chance seemed to embolden Cambridge United , who tightened their defensive lines and increased the physical intensity of the contest. The referee was forced to reach for his pocket for the first time in the 32nd minute, issuing a yellow card to Sullay Kaikai as the battle for midfield supremacy grew increasingly heated. Despite the penalty miss, the first half remained a cagey affair with neither side able to find the clinical edge required to break the deadlock. A lengthy period of stoppage time, extending six minutes beyond the regulation forty-five, saw both teams retreat to the dressing rooms with the scoreline still level, though the momentum appeared to be balanced on a knife-edge following the early drama at the spot. Disciplinary Flashpoints and Tactical Shifts The second half commenced with immediate tactical adjustments as Crewe introduced Elliott Nevitt in place of Louis Appere , signaling an intent to freshen up the forward line. However, the rhythm of the match was quickly disrupted by a flurry of disciplinary actions. In the 53rd minute, the referee issued two quickfire yellow cards to James Gibbons and Stan Dancey , as tensions threatened to boil over in the center of the park. The physical nature of the encounter continued to limit clear-cut opportunities, prompting both managers to look toward their benches for a spark of creativity. As the clock ticked past the hour mark, Luca Moore replaced Conor Thomas for Crewe , while Cambridge United responded later in the half by bringing on James Brophy for the cautioned Sullay Kaikai . The game became a chess match of substitutions, with Alfie Pond , Shilow Tracey , Charlie Finney , and Adrien Thibaut all introduced in the closing stages. Despite the influx of fresh legs, neither side could manufacture the decisive goal required to claim all three points. The final stages were marked by a late yellow card for Pelly-Ruddock Mpanzu in the 84th minute, a fitting symbol of a defensive battle where neither sports outfit was willing to yield an inch of ground.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Kaikai",
+                    "team": "Cambridge United",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Dancey",
+                    "team": "Crewe",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Gibbons",
+                    "team": "Cambridge United",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. R. Mpanzu",
+                    "team": "Cambridge United",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Crewe Alexandra 0 - 0 Cambridge United"
+                        }
+                    ],
+                    "team": "Cambridge United"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Crewe Alexandra 0 - 0 Cambridge United"
+                        }
+                    ],
+                    "team": "Crewe"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "League 2",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Cambridge United 2 - 1 Crewe Alexandra"
+                    },
+                    {
+                        "competition": "League 1 21/22",
+                        "date": "22/01/2022",
+                        "teams_and_score": "Cambridge United 1 - 0 Crewe Alexandra"
+                    },
+                    {
+                        "competition": "League Two",
+                        "date": "14/09/2019",
+                        "teams_and_score": "Crewe Alexandra 2 - 3 Cambridge United"
+                    }
+                ],
+                "summary": {
+                    "Cambridge United_wins": "3",
+                    "Crewe_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Cambridge United": "39%",
+                    "Crewe": "61%"
+                },
+                "corners": {
+                    "Cambridge United": "6",
+                    "Crewe": "8"
+                },
+                "crosses": {
+                    "Cambridge United": "4",
+                    "Crewe": "6"
+                },
+                "fouls": {
+                    "Cambridge United": "20",
+                    "Crewe": "12"
+                },
+                "goalkeeper_saves": {
+                    "Cambridge United": "2",
+                    "Crewe": "4"
+                },
+                "offsides": {
+                    "Cambridge United": "0",
+                    "Crewe": "3"
+                },
+                "shots_blocked": {
+                    "Cambridge United": "3",
+                    "Crewe": "2"
+                },
+                "shots_off_target": {
+                    "Cambridge United": "2",
+                    "Crewe": "4"
+                },
+                "shots_on_target": {
+                    "Cambridge United": "5",
+                    "Crewe": "2"
+                },
+                "yellow_cards": {
+                    "Cambridge United": "3",
+                    "Crewe": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/crewe-cambridge-united-2026-05-02-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1370.webp",
+                    "name": "Cambridge United",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1363.webp",
+                    "name": "Crewe",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/crewe-cambridge-united-2026-05-02-vn-ZdQr.webp",
+            "title": "crewe - cambridge united"
+        }
+    ]
+}

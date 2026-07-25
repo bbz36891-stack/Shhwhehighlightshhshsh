@@ -1,0 +1,233 @@
+{
+    "team": "Guatemala",
+    "team_logo": "",
+    "total_matches": 3,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Mar 28, 2026",
+            "description": "Watch Algeria vs Guatemala highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on March 28, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/algeria-vs-guatemala-2026-03-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/algeria-vs-guatemala-2026-03-28-bhYN.webp",
+            "title": "Algeria vs Guatemala"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 4, 2026",
+            "description": "Watch Czech Republic vs Guatemala highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/czech-republic-vs-guatemala-2026-06-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/czech-republic-vs-guatemala-2026-06-04-g7Ex.webp",
+            "title": "Czech Republic vs Guatemala"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 7, 2026",
+            "description": "Watch Ecuador vs Guatemala highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 7, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "J. Caicedo",
+                    "score_update": "1 - 0",
+                    "team": "Ecuador",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Angulo",
+                    "score_update": "2 - 0",
+                    "team": "Ecuador",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Estupiñán",
+                    "score_update": "3 - 0",
+                    "team": "Ecuador",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "07/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Ecuador 3 - 0 Guatemala"
+                        },
+                        {
+                            "competition": "CONCACAF Qualification: 3rd Round: Group A",
+                            "date": "19/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Guatemala 3 - 1 Suriname"
+                        }
+                    ],
+                    "team": "Guatemala"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "07/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Ecuador 3 - 0 Guatemala"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "19/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Ecuador 2 - 0 New Zealand"
+                        },
+                        {
+                            "competition": "CONMEBOL Qualification",
+                            "date": "09/09/2025",
+                            "result": "W",
+                            "teams_and_score": "Ecuador 1 - 0 Argentina"
+                        }
+                    ],
+                    "team": "Ecuador"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Friendlies 2024",
+                        "date": "22/03/2024",
+                        "teams_and_score": "Guatemala 0 - 2 Ecuador"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "12/09/2018",
+                        "teams_and_score": "Ecuador 2 - 0 Guatemala"
+                    }
+                ],
+                "summary": {
+                    "Ecuador_wins": "2",
+                    "Guatemala_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Ecuador": "67%",
+                    "Guatemala": "33%"
+                },
+                "corners": {
+                    "Ecuador": "6",
+                    "Guatemala": "0"
+                },
+                "fouls": {
+                    "Ecuador": "11",
+                    "Guatemala": "3"
+                },
+                "goalkeeper_saves": {
+                    "Ecuador": "0",
+                    "Guatemala": "2"
+                },
+                "offsides": {
+                    "Ecuador": "2",
+                    "Guatemala": "1"
+                },
+                "shots_blocked": {
+                    "Ecuador": "5",
+                    "Guatemala": "1"
+                },
+                "shots_off_target": {
+                    "Ecuador": "7",
+                    "Guatemala": "2"
+                },
+                "shots_on_target": {
+                    "Ecuador": "6",
+                    "Guatemala": "0"
+                },
+                "yellow_cards": {
+                    "Ecuador": "3",
+                    "Guatemala": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/ecuador-vs-guatemala-2026-06-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/5161.webp",
+                    "name": "Guatemala",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2382.webp",
+                    "name": "Ecuador",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/ecuador-vs-guatemala-2026-06-07-Kr4s.webp",
+            "title": "Ecuador vs Guatemala"
+        }
+    ]
+}

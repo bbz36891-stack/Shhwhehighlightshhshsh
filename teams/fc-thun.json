@@ -1,0 +1,194 @@
+{
+    "team": "FC Thun",
+    "team_logo": "https://img.refooty.com/logo/teams/1012.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Jul 21, 2026",
+            "description": "Watch FC Thun vs Dinamo Zagreb highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on July 21, 2026. The UEFA Champions League atmosphere was electric on July 21, 2026, as FC Thun hosted Dinamo Zagreb in a clash filled with tactical intrigue and physical intensity. Both sides looked to gain a crucial advantage in this high-stakes European encounter under the lights. Early Breakthrough for the Hosts The match began with high intensity, and it didn't take long for the referee to reach for his pocket, cautioning Miha Zajc just two minutes into the contest. Despite the early pressure from the visitors, it was FC Thun who drew first blood in the 20th minute. A well-placed delivery from Fabio Fehr found Brighton Labeau , who made no mistake in finding the back of the net to give the home side the lead. This early goal shifted the momentum, forcing the Croatian giants to rethink their approach as the first half progressed with both teams fighting for control in the midfield. Second Half Tension and Tactical Shifts As the second half got underway, the physical nature of the game intensified. A flurry of yellow cards followed, with Mateo Lisica , Marco Buerki , and Justin Roth all being booked as challenges flew in. Both managers looked to their benches to freshen up their squads; FC Thun introduced Nassim Zoukit and Marc Gutbub , while Dinamo Zagreb responded by bringing on Arber Hoxha and later Fran Topic . These changes added new energy to the pitch, though the home side seemed to be holding firm against the mounting pressure from the visitors. The Late Twist Just as it looked like the Swiss side might secure a narrow victory, Dinamo Zagreb found a lifeline in the 86th minute. Fran Topic , who had come on as a substitute, provided a pinpoint assist for Miha Zajc , who redeemed his early booking by slotting home the equalizer. The goal silenced the home crowd and set up a frantic final few minutes. Despite a late yellow card for Fabio Fehr in stoppage time and further substitutions from both sides, neither team could find a winner before the final whistle blew at 90+4 minutes, leaving the tie perfectly balanced.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Zajc",
+                    "team": "Dinamo Zagreb",
+                    "time": "1'"
+                },
+                {
+                    "assist": "F. Fehr",
+                    "event_type": "Goal",
+                    "player": "B. Labeau",
+                    "score_update": "1 - 0",
+                    "team": "FC Thun",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Lisica",
+                    "team": "Dinamo Zagreb",
+                    "time": "63'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Burki",
+                    "team": "FC Thun",
+                    "time": "67'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Roth",
+                    "team": "FC Thun",
+                    "time": "70'"
+                },
+                {
+                    "assist": "F. Topic",
+                    "event_type": "Goal",
+                    "player": "M. Zajc",
+                    "score_update": "1 - 1",
+                    "team": "Dinamo Zagreb",
+                    "time": "86'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Fehr",
+                    "team": "FC Thun",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification",
+                            "date": "21/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Thun 1 - 1 Dinamo Zagreb"
+                        },
+                        {
+                            "competition": "HNL",
+                            "date": "23/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Dinamo Zagreb 0 - 0 NK Lokomotiva"
+                        },
+                        {
+                            "competition": "Cup",
+                            "date": "13/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Dinamo Zagreb 2 - 0 Rijeka"
+                        },
+                        {
+                            "competition": "HNL",
+                            "date": "09/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Dinamo Zagreb 2 - 0 Hajduk Split"
+                        }
+                    ],
+                    "team": "Dinamo Zagreb"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification",
+                            "date": "21/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Thun 1 - 1 Dinamo Zagreb"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "11/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Thun 1 - 2 Waldhof Mannheim"
+                        },
+                        {
+                            "competition": "Super League: Championship Group",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "St. Gallen 1 - 1 Thun"
+                        }
+                    ],
+                    "team": "FC Thun"
+                },
+                "summary": {
+                    "Dinamo Zagreb_wins": "0",
+                    "FC Thun_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Dinamo Zagreb": "57%",
+                    "FC Thun": "43%"
+                },
+                "corners": {
+                    "Dinamo Zagreb": "5",
+                    "FC Thun": "9"
+                },
+                "crosses": {
+                    "Dinamo Zagreb": "4",
+                    "FC Thun": "4"
+                },
+                "fouls": {
+                    "Dinamo Zagreb": "13",
+                    "FC Thun": "19"
+                },
+                "goalkeeper_saves": {
+                    "Dinamo Zagreb": "2",
+                    "FC Thun": "3"
+                },
+                "offsides": {
+                    "Dinamo Zagreb": "3",
+                    "FC Thun": "3"
+                },
+                "shots_blocked": {
+                    "Dinamo Zagreb": "5",
+                    "FC Thun": "7"
+                },
+                "shots_off_target": {
+                    "Dinamo Zagreb": "9",
+                    "FC Thun": "6"
+                },
+                "shots_on_target": {
+                    "Dinamo Zagreb": "6",
+                    "FC Thun": "3"
+                },
+                "yellow_cards": {
+                    "Dinamo Zagreb": "2",
+                    "FC Thun": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-thun-vs-dinamo-zagreb-2026-07-21_giZ15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/620.webp",
+                    "name": "Dinamo Zagreb",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1012.webp",
+                    "name": "FC Thun",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-thun-vs-dinamo-zagreb-2026-07-21-Ojp7.webp",
+            "title": "FC Thun vs Dinamo Zagreb"
+        }
+    ]
+}

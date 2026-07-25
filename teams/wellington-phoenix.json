@@ -1,0 +1,719 @@
+{
+    "team": "Wellington Phoenix",
+    "team_logo": "https://img.refooty.com/logo/teams/942.webp",
+    "total_matches": 4,
+    "matches": [
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "Apr 24, 2026",
+            "description": "Watch Macarthur vs Wellington Phoenix highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on April 24, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Jurman",
+                    "score_update": "1 - 0",
+                    "team": "Macarthur",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Bosnjak",
+                    "score_update": "2 - 0",
+                    "team": "Macarthur",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Brattan",
+                    "score_update": "3 - 0",
+                    "team": "Macarthur",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Nagasawa",
+                    "team": "Wellington Phoenix",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Bosnjak",
+                    "team": "Macarthur",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Retre",
+                    "team": "Wellington Phoenix",
+                    "time": "76'"
+                },
+                {
+                    "assist": "H. L. Oliveira",
+                    "event_type": "Goal",
+                    "player": "B. Oliveira",
+                    "score_update": "4 - 0",
+                    "team": "Macarthur",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Jurman",
+                    "team": "Macarthur",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "24/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Macarthur FC 4 - 0 Wellington Phoenix"
+                        }
+                    ],
+                    "team": "Wellington Phoenix"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "24/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Macarthur FC 4 - 0 Wellington Phoenix"
+                        },
+                        {
+                            "competition": "AFC Champions League Two: Round of 16",
+                            "date": "19/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Macarthur FC 2 - 2 Bangkok United"
+                        }
+                    ],
+                    "team": "Macarthur"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "22/11/2025",
+                        "teams_and_score": "Wellington Phoenix 0 - 1 Macarthur FC"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "20/01/2025",
+                        "teams_and_score": "Macarthur FC 1 - 2 Wellington Phoenix"
+                    },
+                    {
+                        "competition": "A-League 23/24",
+                        "date": "27/04/2024",
+                        "teams_and_score": "Wellington Phoenix 3 - 0 Macarthur FC"
+                    },
+                    {
+                        "competition": "A-League 22/23",
+                        "date": "29/04/2023",
+                        "teams_and_score": "Macarthur FC 0 - 1 Wellington Phoenix"
+                    },
+                    {
+                        "competition": "Australia Cup",
+                        "date": "31/08/2022",
+                        "teams_and_score": "Macarthur FC 2 - 0 Wellington Phoenix"
+                    }
+                ],
+                "summary": {
+                    "Macarthur_wins": "2",
+                    "Wellington Phoenix_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Macarthur": "55%",
+                    "Wellington Phoenix": "45%"
+                },
+                "corners": {
+                    "Macarthur": "8",
+                    "Wellington Phoenix": "6"
+                },
+                "fouls": {
+                    "Macarthur": "10",
+                    "Wellington Phoenix": "14"
+                },
+                "goalkeeper_saves": {
+                    "Macarthur": "3",
+                    "Wellington Phoenix": "5"
+                },
+                "offsides": {
+                    "Macarthur": "2",
+                    "Wellington Phoenix": "0"
+                },
+                "shots_off_target": {
+                    "Macarthur": "3",
+                    "Wellington Phoenix": "2"
+                },
+                "shots_on_target": {
+                    "Macarthur": "9",
+                    "Wellington Phoenix": "3"
+                },
+                "yellow_cards": {
+                    "Macarthur": "2",
+                    "Wellington Phoenix": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/macarthur-vs-wellington-phoenix-2026-04-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/942.webp",
+                    "name": "Wellington Phoenix",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/15550.webp",
+                    "name": "Macarthur",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/macarthur-vs-wellington-phoenix-2026-04-24-gs35.webp",
+            "title": "Macarthur vs Wellington Phoenix"
+        },
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "Apr 12, 2026",
+            "description": "Watch Melbourne City vs Wellington Phoenix highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on April 12, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "J. Vidic",
+                    "score_update": "1 - 0",
+                    "team": "Melbourne City",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Younis",
+                    "score_update": "1 - 1",
+                    "team": "Wellington Phoenix",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Younis",
+                    "score_update": "1 - 2",
+                    "team": "Wellington Phoenix",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Valkanis",
+                    "team": "Melbourne City",
+                    "time": "72'"
+                },
+                {
+                    "assist": "E. Rashani",
+                    "event_type": "Goal",
+                    "player": "M. Memeti",
+                    "score_update": "1 - 3",
+                    "team": "Wellington Phoenix",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Kuen",
+                    "team": "Wellington Phoenix",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Memeti",
+                    "team": "Wellington Phoenix",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Y. Salas",
+                    "score_update": "2 - 3",
+                    "team": "Melbourne City",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Brisbane Roar FC 2 - 3 Melbourne City FC"
+                        },
+                        {
+                            "competition": "Champions League: Round of 16",
+                            "date": "10/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Buriram United 0 - 0 Melbourne City FC"
+                        },
+                        {
+                            "competition": "A-League",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Auckland FC 3 - 0 Melbourne City FC"
+                        }
+                    ],
+                    "team": "Wellington Phoenix"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Brisbane Roar FC 2 - 3 Melbourne City FC"
+                        }
+                    ],
+                    "team": "Melbourne City"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "06/01/2026",
+                        "teams_and_score": "Melbourne City FC 1 - 0 Brisbane Roar FC"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "11/04/2025",
+                        "teams_and_score": "Melbourne City FC 3 - 2 Brisbane Roar FC"
+                    },
+                    {
+                        "competition": "A-League 23/24",
+                        "date": "10/02/2024",
+                        "teams_and_score": "Brisbane Roar FC 5 - 1 Melbourne City FC"
+                    },
+                    {
+                        "competition": "A-League 22/23",
+                        "date": "12/03/2023",
+                        "teams_and_score": "Melbourne City FC 2 - 1 Brisbane Roar FC"
+                    }
+                ],
+                "summary": {
+                    "Melbourne City_wins": "3",
+                    "Wellington Phoenix_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Melbourne City": "55%",
+                    "Wellington Phoenix": "45%"
+                },
+                "corners": {
+                    "Melbourne City": "3",
+                    "Wellington Phoenix": "5"
+                },
+                "fouls": {
+                    "Melbourne City": "10",
+                    "Wellington Phoenix": "12"
+                },
+                "goalkeeper_saves": {
+                    "Melbourne City": "2",
+                    "Wellington Phoenix": "1"
+                },
+                "offsides": {
+                    "Melbourne City": "0",
+                    "Wellington Phoenix": "2"
+                },
+                "shots_off_target": {
+                    "Melbourne City": "4",
+                    "Wellington Phoenix": "4"
+                },
+                "shots_on_target": {
+                    "Melbourne City": "3",
+                    "Wellington Phoenix": "6"
+                },
+                "yellow_cards": {
+                    "Melbourne City": "1",
+                    "Wellington Phoenix": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/melbourne-city-vs-wellington-phoenix-2026-04-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/942.webp",
+                    "name": "Wellington Phoenix",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/945.webp",
+                    "name": "Melbourne City",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/melbourne-city-vs-wellington-phoenix-2026-04-12-4Xso.webp",
+            "title": "Melbourne City vs Wellington Phoenix"
+        },
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "Apr 5, 2026",
+            "description": "Watch Melbourne Victory vs Wellington Phoenix highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on April 5, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Adams",
+                    "team": "Wellington Phoenix",
+                    "time": "1'"
+                },
+                {
+                    "assist": "M. Burgess",
+                    "event_type": "Goal",
+                    "player": "E. Adams",
+                    "score_update": "0 - 1",
+                    "team": "Wellington Phoenix",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Miranda",
+                    "team": "Melbourne Victory",
+                    "time": "31'"
+                },
+                {
+                    "assist": "J. Rawlins",
+                    "event_type": "Goal",
+                    "player": "C. Nduka",
+                    "score_update": "1 - 1",
+                    "team": "Melbourne Victory",
+                    "time": "46'"
+                },
+                {
+                    "assist": "F. Mamur",
+                    "event_type": "Goal",
+                    "player": "C. Nduka",
+                    "score_update": "2 - 1",
+                    "team": "Melbourne Victory",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Burgess",
+                    "team": "Wellington Phoenix",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Adams",
+                    "score_update": "2 - 2",
+                    "team": "Wellington Phoenix",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Rawlins",
+                    "team": "Melbourne Victory",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "17/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Melbourne Victory 2 - 2 Newcastle Jets"
+                        }
+                    ],
+                    "team": "Wellington Phoenix"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "17/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Melbourne Victory 2 - 2 Newcastle Jets"
+                        }
+                    ],
+                    "team": "Melbourne Victory"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "24/10/2025",
+                        "teams_and_score": "Newcastle Jets 5 - 2 Melbourne Victory"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "04/05/2025",
+                        "teams_and_score": "Melbourne Victory 1 - 1 Newcastle Jets"
+                    },
+                    {
+                        "competition": "A-League 23/24",
+                        "date": "03/02/2024",
+                        "teams_and_score": "Newcastle Jets 1 - 1 Melbourne Victory"
+                    },
+                    {
+                        "competition": "Australia Cup",
+                        "date": "17/07/2023",
+                        "teams_and_score": "Newcastle Jets 2 - 2 Melbourne Victory"
+                    },
+                    {
+                        "competition": "A-League 22/23",
+                        "date": "12/02/2023",
+                        "teams_and_score": "Newcastle Jets 2 - 1 Melbourne Victory"
+                    },
+                    {
+                        "competition": "A-League 21/22",
+                        "date": "16/04/2022",
+                        "teams_and_score": "Newcastle Jets 1 - 2 Melbourne Victory"
+                    }
+                ],
+                "summary": {
+                    "Melbourne Victory_wins": "1",
+                    "Wellington Phoenix_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Melbourne Victory": "38%",
+                    "Wellington Phoenix": "62%"
+                },
+                "corners": {
+                    "Melbourne Victory": "7",
+                    "Wellington Phoenix": "3"
+                },
+                "fouls": {
+                    "Melbourne Victory": "9",
+                    "Wellington Phoenix": "15"
+                },
+                "goalkeeper_saves": {
+                    "Melbourne Victory": "2",
+                    "Wellington Phoenix": "3"
+                },
+                "offsides": {
+                    "Melbourne Victory": "3",
+                    "Wellington Phoenix": "3"
+                },
+                "shots_off_target": {
+                    "Melbourne Victory": "5",
+                    "Wellington Phoenix": "4"
+                },
+                "shots_on_target": {
+                    "Melbourne Victory": "5",
+                    "Wellington Phoenix": "4"
+                },
+                "yellow_cards": {
+                    "Melbourne Victory": "2",
+                    "Wellington Phoenix": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/melbourne-victory-vs-wellington-phoenix-2026-04-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/942.webp",
+                    "name": "Wellington Phoenix",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/944.webp",
+                    "name": "Melbourne Victory",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/melbourne-victory-vs-wellington-phoenix-2026-04-05-ghVw.webp",
+            "title": "Melbourne Victory vs Wellington Phoenix"
+        },
+        {
+            "competition": "A-League",
+            "competition_cover": "https://refooty.com/covers/a-league.webp",
+            "date": "Apr 18, 2026",
+            "description": "Watch Wellington Phoenix vs Western Sydney Wanderers highlights and goals from A-League on ReFooty: Football Highlights Hub. Match played on April 18, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "I. Eze",
+                    "score_update": "1 - 0",
+                    "team": "Wellington Phoenix",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Rufer",
+                    "team": "Wellington Phoenix",
+                    "time": "16'"
+                },
+                {
+                    "assist": "A. Thurgate",
+                    "event_type": "Goal",
+                    "player": "B. Borrello",
+                    "score_update": "1 - 1",
+                    "team": "Western Sydney Wanderers",
+                    "time": "31'"
+                },
+                {
+                    "assist": "T. Payne",
+                    "event_type": "Goal",
+                    "player": "K. Nagasawa",
+                    "score_update": "2 - 1",
+                    "team": "Wellington Phoenix",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Wellington Phoenix 2 - 1 Western Sydney Wanderers FC"
+                        }
+                    ],
+                    "team": "Western Sydney Wanderers"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "A-League",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Wellington Phoenix 2 - 1 Western Sydney Wanderers FC"
+                        }
+                    ],
+                    "team": "Wellington Phoenix"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "A-League",
+                        "date": "13/02/2026",
+                        "teams_and_score": "Western Sydney Wanderers FC 2 - 2 Wellington Phoenix"
+                    },
+                    {
+                        "competition": "A-League",
+                        "date": "29/03/2025",
+                        "teams_and_score": "Wellington Phoenix 2 - 2 Western Sydney Wanderers FC"
+                    },
+                    {
+                        "competition": "A-League 23/24",
+                        "date": "23/12/2023",
+                        "teams_and_score": "Wellington Phoenix 2 - 0 Western Sydney Wanderers FC"
+                    },
+                    {
+                        "competition": "A-League 22/23",
+                        "date": "21/04/2023",
+                        "teams_and_score": "Western Sydney Wanderers FC 4 - 0 Wellington Phoenix"
+                    },
+                    {
+                        "competition": "A-League 21/22",
+                        "date": "05/05/2022",
+                        "teams_and_score": "Western Sydney Wanderers FC 1 - 2 Wellington Phoenix"
+                    }
+                ],
+                "summary": {
+                    "Wellington Phoenix_wins": "2",
+                    "Western Sydney Wanderers_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Wellington Phoenix": "45%",
+                    "Western Sydney Wanderers": "55%"
+                },
+                "corners": {
+                    "Wellington Phoenix": "10",
+                    "Western Sydney Wanderers": "4"
+                },
+                "fouls": {
+                    "Wellington Phoenix": "14",
+                    "Western Sydney Wanderers": "9"
+                },
+                "goalkeeper_saves": {
+                    "Wellington Phoenix": "4",
+                    "Western Sydney Wanderers": "4"
+                },
+                "offsides": {
+                    "Wellington Phoenix": "2",
+                    "Western Sydney Wanderers": "0"
+                },
+                "shots_off_target": {
+                    "Wellington Phoenix": "7",
+                    "Western Sydney Wanderers": "3"
+                },
+                "shots_on_target": {
+                    "Wellington Phoenix": "6",
+                    "Western Sydney Wanderers": "7"
+                },
+                "yellow_cards": {
+                    "Wellington Phoenix": "1",
+                    "Western Sydney Wanderers": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/wellington-phoenix-vs-western-sydney-wanderers-2026-04-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/939.webp",
+                    "name": "Western Sydney Wanderers",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/942.webp",
+                    "name": "Wellington Phoenix",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/wellington-phoenix-vs-western-sydney-wanderers-2026-04-18-34Zg.webp",
+            "title": "Wellington Phoenix vs Western Sydney Wanderers"
+        }
+    ]
+}

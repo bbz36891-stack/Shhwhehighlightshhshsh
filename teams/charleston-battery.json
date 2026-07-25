@@ -1,0 +1,845 @@
+{
+    "team": "Charleston Battery",
+    "team_logo": "https://img.refooty.com/logo/teams/3990.webp",
+    "total_matches": 4,
+    "matches": [
+        {
+            "competition": "USL Championship",
+            "competition_cover": "",
+            "date": "Jul 12, 2026",
+            "description": "Watch Charleston Battery vs Charlotte Independence highlights and goals from USL Championship on ReFooty: Football Highlights Hub. Match played on July 12, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Foster",
+                    "score_update": "1 - 0",
+                    "team": "Charleston Battery",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Bakero",
+                    "score_update": "1 - 1",
+                    "team": "Charlotte Independence",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Marou",
+                    "score_update": "1 - 2",
+                    "team": "Charlotte Independence",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Swan",
+                    "score_update": "2 - 2",
+                    "team": "Charleston Battery",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "12/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Charleston Battery 2 - 2 Charlotte Independence"
+                        },
+                        {
+                            "competition": "USL League One",
+                            "date": "06/07/2026",
+                            "result": "D",
+                            "teams_and_score": "AV Alta 1 - 1 Charlotte Independence"
+                        },
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "24/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlotte Independence 1 - 0 Greenville Triumph SC"
+                        },
+                        {
+                            "competition": "USL League One",
+                            "date": "13/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlotte Independence 4 - 3 Naples"
+                        },
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "15/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Charlotte Independence 1 - 1 Pittsburgh Riverhounds"
+                        }
+                    ],
+                    "team": "Charlotte Independence"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "12/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Charleston Battery 2 - 2 Charlotte Independence"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "04/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Indy Eleven 2 - 0 Charleston Battery"
+                        },
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "06/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Charleston Battery 0 - 0 Pittsburgh Riverhounds"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "30/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Charleston Battery 2 - 0 Detroit City FC"
+                        },
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Richmond Kickers 0 - 4 Charleston Battery"
+                        }
+                    ],
+                    "team": "Charleston Battery"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "US Open Cup",
+                        "date": "31/03/2026",
+                        "teams_and_score": "Charlotte Independence 3 - 2 Charleston Battery"
+                    },
+                    {
+                        "competition": "US Open Cup",
+                        "date": "25/04/2023",
+                        "teams_and_score": "Charleston Battery 1 - 0 Charlotte Independence"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "16/10/2021",
+                        "teams_and_score": "Charlotte Independence 5 - 1 Charleston Battery"
+                    },
+                    {
+                        "competition": "USL League Two: Deep South Division",
+                        "date": "14/05/2021",
+                        "teams_and_score": "Charleston Battery 0 - 3 Charlotte Independence"
+                    },
+                    {
+                        "competition": "USL Championship: Play-off",
+                        "date": "10/10/2020",
+                        "teams_and_score": "Charlotte Independence 1 - 2 Charleston Battery"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "08/08/2020",
+                        "teams_and_score": "Charlotte Independence 1 - 1 Charleston Battery"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "30/08/2019",
+                        "teams_and_score": "Charlotte Independence 0 - 0 Charleston Battery"
+                    }
+                ],
+                "summary": {
+                    "Charleston Battery_wins": "2",
+                    "Charlotte Independence_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charleston-battery-vs-charlotte-independence-2026-07-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3991.webp",
+                    "name": "Charlotte Independence",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3990.webp",
+                    "name": "Charleston Battery",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charleston-battery-vs-charlotte-independence-2026-07-12-GeWc.webp",
+            "title": "Charleston Battery vs Charlotte Independence"
+        },
+        {
+            "competition": "USL Championship",
+            "competition_cover": "",
+            "date": "Jun 6, 2026",
+            "description": "Watch Charleston Battery vs Pittsburgh Riverhounds highlights and goals from USL Championship on ReFooty: Football Highlights Hub. Match played on June 6, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "L. Kelp",
+                    "team": "Pittsburgh Riverhounds",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "06/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Charleston Battery 0 - 0 Pittsburgh Riverhounds"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "30/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Pittsburgh Riverhounds 2 - 0 Miami FC"
+                        },
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "15/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Charlotte Independence 1 - 1 Pittsburgh Riverhounds"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "09/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Louisville City FC 0 - 2 Pittsburgh Riverhounds"
+                        },
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Pittsburgh Riverhounds 3 - 0 Greenville Triumph SC"
+                        }
+                    ],
+                    "team": "Pittsburgh Riverhounds"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "06/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Charleston Battery 0 - 0 Pittsburgh Riverhounds"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "30/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Charleston Battery 2 - 0 Detroit City FC"
+                        },
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Richmond Kickers 0 - 4 Charleston Battery"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Charleston Battery 4 - 0 Sporting Jax"
+                        },
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Loudoun United 1 - 2 Charleston Battery"
+                        }
+                    ],
+                    "team": "Charleston Battery"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "USL Championship",
+                        "date": "07/03/2026",
+                        "teams_and_score": "Charleston Battery 2 - 1 Pittsburgh Riverhounds"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "16/08/2025",
+                        "teams_and_score": "Pittsburgh Riverhounds 1 - 2 Charleston Battery"
+                    },
+                    {
+                        "competition": "USL Championship: Play-off",
+                        "date": "02/11/2024",
+                        "teams_and_score": "Charleston Battery 1 - 0 Pittsburgh Riverhounds"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "12/10/2024",
+                        "teams_and_score": "Pittsburgh Riverhounds 2 - 0 Charleston Battery"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "22/07/2023",
+                        "teams_and_score": "Charleston Battery 3 - 1 Pittsburgh Riverhounds"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "31/08/2022",
+                        "teams_and_score": "Pittsburgh Riverhounds 0 - 0 Charleston Battery"
+                    }
+                ],
+                "summary": {
+                    "Charleston Battery_wins": "4",
+                    "Pittsburgh Riverhounds_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charleston-battery-vs-pittsburgh-riverhounds-2026-06-06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4010.webp",
+                    "name": "Pittsburgh Riverhounds",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3990.webp",
+                    "name": "Charleston Battery",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charleston-battery-vs-pittsburgh-riverhounds-2026-06-06-suZM.webp",
+            "title": "Charleston Battery vs Pittsburgh Riverhounds"
+        },
+        {
+            "competition": "USL Championship",
+            "competition_cover": "",
+            "date": "Jul 18, 2026",
+            "description": "Watch Charleston Battery vs Sacramento Republic highlights and goals from USL Championship on ReFooty: Football Highlights Hub. Match played on July 18, 2026. The USL Championship showdown between Charleston Battery and Sacramento Republic on July 18, 2026 , proved to be a high-stakes battle of endurance and discipline. Fans at the stadium witnessed a game where the momentum swung violently in the second half, leaving both sides breathless as the tactical battle unfolded. Breakthrough in the Second Half After a tightly contested opening period that saw both defenses holding firm, the deadlock was finally broken shortly after the restart. In the 49th minute, Sacramento Republic forward F. W. Ajago clinical finish put the visitors ahead, capitalize on a well-timed assist from J. Timmer . The goal forced Charleston Battery to increase their attacking intensity, leading to a series of physical encounters across the pitch. As the match entered its final quarter, the referee began to play a more prominent role. A. Essel of Sacramento picked up a yellow card in the 70th minute as the visitors tried to protect their slim lead. However, the pressure from the home side eventually told when they were awarded a penalty just minutes later, shifting the energy of the entire stadium. Drama and Red Cards In the 73rd minute, E. Ycaza stepped up to the spot and calmly converted the penalty to level the score at 1-1. The goal sparked immediate chaos; Ycaza himself was cautioned with a yellow card in the 75th minute, but the biggest turning point followed seconds later. F. W. Ajago , who had earlier been the hero for Sacramento, was shown a straight red card, leaving his team to navigate the closing stages with only ten men. Despite the numerical advantage, Charleston Battery struggled to find a late winner against a resilient Sacramento backline. The match concluded with another caution, this time for M. Berry in the 93rd minute, bringing an end to a fiery contest defined by its emotional swings and late-game disciplinary drama.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Foster",
+                    "team": "Charleston Battery",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Rodriguez",
+                    "team": "Sacramento Republic",
+                    "time": "16'"
+                },
+                {
+                    "assist": "J. Timmer",
+                    "event_type": "Goal",
+                    "player": "F. W. Ajago",
+                    "score_update": "0 - 1",
+                    "team": "Sacramento Republic",
+                    "time": "49'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Essel",
+                    "team": "Sacramento Republic",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Ycaza",
+                    "score_update": "1 - 1",
+                    "team": "Charleston Battery",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Ycaza",
+                    "team": "Charleston Battery",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "F. W. Ajago",
+                    "team": "Sacramento Republic",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Berry",
+                    "team": "Charleston Battery",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "USL Championship",
+                            "date": "18/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Charleston Battery 1 - 1 Sacramento Republic FC"
+                        },
+                        {
+                            "competition": "USL Cup: Group 1",
+                            "date": "12/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Boise 2 - 0 Sacramento Republic FC"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "09/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Sacramento Republic FC 2 - 1 Rhode Island"
+                        },
+                        {
+                            "competition": "USL Cup: Group 1",
+                            "date": "07/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Sacramento Republic FC 1 - 1 Monterey Bay FC"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "31/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Phoenix Rising FC 2 - 0 Sacramento Republic FC"
+                        }
+                    ],
+                    "team": "Sacramento Republic"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "USL Championship",
+                            "date": "18/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Charleston Battery 1 - 1 Sacramento Republic FC"
+                        },
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "12/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Charleston Battery 2 - 2 Charlotte Independence"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "04/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Indy Eleven 2 - 0 Charleston Battery"
+                        },
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "06/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Charleston Battery 0 - 0 Pittsburgh Riverhounds"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "30/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Charleston Battery 2 - 0 Detroit City FC"
+                        }
+                    ],
+                    "team": "Charleston Battery"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "USL Championship",
+                        "date": "23/10/2025",
+                        "teams_and_score": "Sacramento Republic FC 1 - 0 Charleston Battery"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "07/09/2024",
+                        "teams_and_score": "Charleston Battery 2 - 1 Sacramento Republic FC"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "19/03/2023",
+                        "teams_and_score": "Sacramento Republic FC 1 - 1 Charleston Battery"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "30/07/2022",
+                        "teams_and_score": "Charleston Battery 2 - 4 Sacramento Republic FC"
+                    },
+                    {
+                        "competition": "USL Pro League",
+                        "date": "28/08/2014",
+                        "teams_and_score": "Sacramento Republic FC 3 - 1 Charleston Battery"
+                    }
+                ],
+                "summary": {
+                    "Charleston Battery_wins": "1",
+                    "Sacramento Republic_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charleston Battery": "53%",
+                    "Sacramento Republic": "47%"
+                },
+                "corners": {
+                    "Charleston Battery": "6",
+                    "Sacramento Republic": "5"
+                },
+                "fouls": {
+                    "Charleston Battery": "14",
+                    "Sacramento Republic": "12"
+                },
+                "goalkeeper_saves": {
+                    "Charleston Battery": "0",
+                    "Sacramento Republic": "5"
+                },
+                "offsides": {
+                    "Charleston Battery": "0",
+                    "Sacramento Republic": "1"
+                },
+                "red_cards": {
+                    "Charleston Battery": "0",
+                    "Sacramento Republic": "1"
+                },
+                "shots_blocked": {
+                    "Charleston Battery": "3",
+                    "Sacramento Republic": "5"
+                },
+                "shots_off_target": {
+                    "Charleston Battery": "7",
+                    "Sacramento Republic": "4"
+                },
+                "shots_on_target": {
+                    "Charleston Battery": "6",
+                    "Sacramento Republic": "1"
+                },
+                "yellow_cards": {
+                    "Charleston Battery": "3",
+                    "Sacramento Republic": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/charleston-battery-vs-sacramento-republic-2026-07-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4015.webp",
+                    "name": "Sacramento Republic",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3990.webp",
+                    "name": "Charleston Battery",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/charleston-battery-vs-sacramento-republic-2026-07-18-CIAa.webp",
+            "title": "Charleston Battery vs Sacramento Republic"
+        },
+        {
+            "competition": "USL Championship",
+            "competition_cover": "",
+            "date": "Jun 10, 2026",
+            "description": "Watch Tampa Bay Rowdies vs Charleston Battery highlights and goals from USL Championship on ReFooty: Football Highlights Hub. Match played on June 10, 2026. The USL Championship encounter between Tampa Bay Rowdies and Charleston Battery delivered a captivating display of competitive football, keeping fans on the edge of their seats until the final whistle. Held on June 10, 2026 , the match showcased the resilience of two sides determined to claim supremacy in a tightly contested league fixture. Second Half Surge After a closely fought opening period, the game exploded into life during the second half. In the 55th minute, Charleston Battery found their breakthrough as M. Foster clinical finish brought the score to 1-1. This goal altered the tactical landscape of the match, forcing the Tampa Bay Rowdies to increase their offensive tempo while leaving space for counter-attacks. As the match progressed, the physical nature of the contest led to several bookings. The Tampa Bay Rowdies faced a period of disciplinary pressure when M. Schneider received a yellow card in the 71st minute, followed shortly by R. Cicerone in the 73rd minute. These interruptions disrupted the home side's rhythm, allowing the visitors to capitalize on the growing tension. Late Drama and Equalizer In the 80th minute, Charleston Battery appeared to have secured the winning momentum. A well-executed play involving M. Berry set up C. Swan , who made no mistake in putting the visitors 1-2 ahead. With time running out, the Tampa Bay Rowdies launched a desperate final assault to salvage something from the game. Their persistence was rewarded in dramatic fashion during stoppage time. In the 91st minute, Mattheus connected with a cross from C. Ostrem to fire home a sensational equalizer, making it 2-2. The final moments were played out in a feverish atmosphere, with N. Dossantos picking up a late yellow card in the 96th minute as both teams ultimately settled for a hard-earned draw.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Ycaza",
+                    "team": "Charleston Battery",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Perez",
+                    "score_update": "1 - 0",
+                    "team": "Tampa Bay Rowdies",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Acoff",
+                    "team": "Tampa Bay Rowdies",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Foster",
+                    "score_update": "1 - 1",
+                    "team": "Charleston Battery",
+                    "time": "55'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Schneider",
+                    "team": "Tampa Bay Rowdies",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Cicerone",
+                    "team": "Tampa Bay Rowdies",
+                    "time": "73'"
+                },
+                {
+                    "assist": "M. Berry",
+                    "event_type": "Goal",
+                    "player": "C. Swan",
+                    "score_update": "1 - 2",
+                    "team": "Charleston Battery",
+                    "time": "80'"
+                },
+                {
+                    "assist": "C. Ostrem",
+                    "event_type": "Goal",
+                    "player": "Mattheus",
+                    "score_update": "2 - 2",
+                    "team": "Tampa Bay Rowdies",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Dossantos",
+                    "team": "Tampa Bay Rowdies",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "USL Championship",
+                            "date": "11/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Tampa Bay Rowdies 2 - 2 Charleston Battery"
+                        },
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "06/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Charleston Battery 0 - 0 Pittsburgh Riverhounds"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "30/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Charleston Battery 2 - 0 Detroit City FC"
+                        },
+                        {
+                            "competition": "USL Cup: Group 6",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Richmond Kickers 0 - 4 Charleston Battery"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Charleston Battery 4 - 0 Sporting Jax"
+                        }
+                    ],
+                    "team": "Charleston Battery"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "USL Championship",
+                            "date": "11/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Tampa Bay Rowdies 2 - 2 Charleston Battery"
+                        },
+                        {
+                            "competition": "USL Cup: Group 7",
+                            "date": "06/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting Jax 0 - 2 Tampa Bay Rowdies"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "30/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Louisville City FC 0 - 2 Tampa Bay Rowdies"
+                        },
+                        {
+                            "competition": "USL Cup: Group 7",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Miami FC 1 - 4 Tampa Bay Rowdies"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "09/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Rhode Island 1 - 1 Tampa Bay Rowdies"
+                        }
+                    ],
+                    "team": "Tampa Bay Rowdies"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "USL Championship",
+                        "date": "18/04/2026",
+                        "teams_and_score": "Charleston Battery 1 - 1 Tampa Bay Rowdies"
+                    },
+                    {
+                        "competition": "USL Cup: Group 6",
+                        "date": "26/07/2025",
+                        "teams_and_score": "Charleston Battery 2 - 1 Tampa Bay Rowdies"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "10/05/2025",
+                        "teams_and_score": "Tampa Bay Rowdies 1 - 3 Charleston Battery"
+                    },
+                    {
+                        "competition": "USL Championship: Play-off",
+                        "date": "10/11/2024",
+                        "teams_and_score": "Charleston Battery 2 - 1 Tampa Bay Rowdies"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "21/09/2024",
+                        "teams_and_score": "Charleston Battery 3 - 1 Tampa Bay Rowdies"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "12/04/2023",
+                        "teams_and_score": "Tampa Bay Rowdies 1 - 2 Charleston Battery"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "10/09/2022",
+                        "teams_and_score": "Charleston Battery 2 - 1 Tampa Bay Rowdies"
+                    }
+                ],
+                "summary": {
+                    "Charleston Battery_wins": "6",
+                    "Tampa Bay Rowdies_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charleston Battery": "45%",
+                    "Tampa Bay Rowdies": "55%"
+                },
+                "corners": {
+                    "Charleston Battery": "3",
+                    "Tampa Bay Rowdies": "5"
+                },
+                "fouls": {
+                    "Charleston Battery": "10",
+                    "Tampa Bay Rowdies": "20"
+                },
+                "goalkeeper_saves": {
+                    "Charleston Battery": "3",
+                    "Tampa Bay Rowdies": "3"
+                },
+                "offsides": {
+                    "Charleston Battery": "1",
+                    "Tampa Bay Rowdies": "1"
+                },
+                "shots_blocked": {
+                    "Charleston Battery": "2",
+                    "Tampa Bay Rowdies": "5"
+                },
+                "shots_off_target": {
+                    "Charleston Battery": "4",
+                    "Tampa Bay Rowdies": "2"
+                },
+                "shots_on_target": {
+                    "Charleston Battery": "5",
+                    "Tampa Bay Rowdies": "5"
+                },
+                "yellow_cards": {
+                    "Charleston Battery": "1",
+                    "Tampa Bay Rowdies": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/tampa-bay-rowdies-vs-charleston-battery-2026-06-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3990.webp",
+                    "name": "Charleston Battery",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4021.webp",
+                    "name": "Tampa Bay Rowdies",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/tampa-bay-rowdies-vs-charleston-battery-2026-06-10-gZzs.webp",
+            "title": "Tampa Bay Rowdies vs Charleston Battery"
+        }
+    ]
+}

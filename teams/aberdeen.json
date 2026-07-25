@@ -1,0 +1,2473 @@
+{
+    "team": "Aberdeen",
+    "team_logo": "https://img.refooty.com/logo/teams/252.webp",
+    "total_matches": 16,
+    "matches": [
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 12, 2026",
+            "description": "Watch Aberdeen vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 12, 2026. The atmosphere was electric for this Scottish Premiership clash on May 12, 2026 . As both teams sought supremacy in the league, the duel at Pittodrie Stadium promised to be a tactical battle defined by minute details and moments of individual brilliance. Early Pressure and the Opening Goal The match began with a notable physical intensity, typical of Scottish football. As early as the 16th minute, the tone of the encounter was set when Marcus Fraser received a yellow card for a late challenge, signaling the competitive nature of the game. Celtic attempted to control possession, but Aberdeen 's defensive organization proved difficult to break down. As half-time approached, the home side found their way to the goal. In the 42nd minute, Jacob Devaney demonstrated excellent vision by picking out Richard King , who finished with precision to put Aberdeen ahead. The goal rewarded the team's persistence and forced the visitors to rethink their strategy for the second period. Tactical Changes and Securing the Win The second half started with a series of tactical alterations. Aberdeen introduced Lyall Cameron and Jack Milne in place of Afeez Aremu and Liam Morrison , seeking to maintain physical vigor in midfield. The match remained fiercely contested, with Jacob Devaney and Dennis Geiger receiving yellow cards following hard challenges during a period of high tension. The decisive moment occurred in the 80th minute. Mikael Mandron produced a brilliant piece of play on the wing before crossing for Killian Phillips , who made no mistake in doubling the lead. With the score at 2-0, the Aberdeen manager brought on Graeme Shinnie and later Luke Douglas to close out the game. The final whistle confirmed a solid victory for the hosts, who successfully neutralized Celtic 's main threats throughout the 90 minutes.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Fraser",
+                    "team": "ST Mirren",
+                    "time": "1'"
+                },
+                {
+                    "assist": "J. Devaney",
+                    "event_type": "Goal",
+                    "player": "R. King",
+                    "score_update": "0 - 1",
+                    "team": "ST Mirren",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Devaney",
+                    "team": "ST Mirren",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Geiger",
+                    "team": "Aberdeen",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Mandron",
+                    "event_type": "Goal",
+                    "player": "K. Phillips",
+                    "score_update": "0 - 2",
+                    "team": "ST Mirren",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "12/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 0 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 6 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 1 - 0 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 2 - 1 Partick Thistle"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "12/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 0 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 1 - 2 Celtic"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "04/04/2026",
+                        "teams_and_score": "St. Mirren 2 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "03/05/2025",
+                        "teams_and_score": "St. Mirren 1 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "25/01/2025",
+                        "teams_and_score": "Aberdeen 0 - 3 St. Mirren"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "02/03/2024",
+                        "teams_and_score": "St. Mirren 2 - 1 Aberdeen"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "0",
+                    "ST Mirren_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "58%",
+                    "ST Mirren": "42%"
+                },
+                "corners": {
+                    "Aberdeen": "6",
+                    "ST Mirren": "1"
+                },
+                "fouls": {
+                    "Aberdeen": "14",
+                    "ST Mirren": "11"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "3",
+                    "ST Mirren": "1"
+                },
+                "offsides": {
+                    "Aberdeen": "1",
+                    "ST Mirren": "2"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "3",
+                    "ST Mirren": "1"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "4",
+                    "ST Mirren": "3"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "1",
+                    "ST Mirren": "5"
+                },
+                "yellow_cards": {
+                    "Aberdeen": "1",
+                    "ST Mirren": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/aberdeen-2-2026-05-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-st-mirren-2026-05-12-jWuC.webp",
+            "title": "Aberdeen - ST Mirren"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 21, 2026",
+            "description": "Watch Aberdeen vs Dundee FC highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 21, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/aberdeen-vs-dundee-2026-02-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-vs-dundee-2026-02-21-EN82.webp",
+            "title": "Aberdeen vs Dundee"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 9, 2026",
+            "description": "Watch Aberdeen vs Dundee Utd highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 9, 2026. A high-stakes encounter in the Scottish Premiership set the stage for a tactical battle as Aberdeen squared off against Dundee United on May 9, 2026. Both sides entered the match looking to assert their dominance in a fixture defined by intense pressure and pivotal moments. Opening dominance The match began with Aberdeen pushing forward, looking to find an early breakthrough. Their persistence paid off in the 19th minute when Stuart Armstrong found the back of the net, clinical in his execution following an assist from Toyosi Olusanya . This goal provided the home side with a much-needed foundation, forcing Dundee United to reorganize and weather the storm as the visitors struggled to establish rhythm. Second-half attrition The second half saw an increase in physical intensity, as the referee reached into his pocket frequently to caution players such as Dennis Geiger , Ivan Dolcek , and Ryan Strain . The game’s momentum shifted decisively in the 84th minute when Emmanuel Agyei was sent off after picking up his second yellow card of the day. With a numerical disadvantage, Dundee United found it increasingly difficult to keep the home side at bay. In the 88th minute, Toyosi Olusanya cemented his impact on the match by scoring a goal of his own, extending the lead and effectively putting the game out of reach. Despite late efforts to bridge the gap, the referee’s final whistle confirmed a comprehensive victory for the hosts, who capitalized on their chances to secure the points.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Iovu",
+                    "team": "Dundee Utd",
+                    "time": "1'"
+                },
+                {
+                    "assist": "T. Olusanya",
+                    "event_type": "Goal",
+                    "player": "S. Armstrong",
+                    "score_update": "1 - 0",
+                    "team": "Aberdeen",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Agyei",
+                    "team": "Dundee Utd",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Geiger",
+                    "team": "Aberdeen",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Dolcek",
+                    "team": "Dundee Utd",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Strain",
+                    "team": "Dundee Utd",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "E. Agyei",
+                    "team": "Dundee Utd",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Olusanya",
+                    "score_update": "2 - 0",
+                    "team": "Aberdeen",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "09/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 2 - 0 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 3 - 2 Livingston"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "06/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 1 St. Mirren"
+                        }
+                    ],
+                    "team": "Dundee Utd"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "09/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 1 - 2 Celtic"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "24/02/2026",
+                        "teams_and_score": "Dundee United 0 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "17/05/2025",
+                        "teams_and_score": "Dundee United 2 - 1 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "02/03/2025",
+                        "teams_and_score": "Aberdeen 2 - 2 Dundee United"
+                    },
+                    {
+                        "competition": "Premiership 22/23",
+                        "date": "04/03/2023",
+                        "teams_and_score": "Dundee United 1 - 3 Aberdeen"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "1",
+                    "Dundee Utd_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "51%",
+                    "Dundee Utd": "49%"
+                },
+                "corners": {
+                    "Aberdeen": "4",
+                    "Dundee Utd": "2"
+                },
+                "fouls": {
+                    "Aberdeen": "12",
+                    "Dundee Utd": "16"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "1",
+                    "Dundee Utd": "3"
+                },
+                "offsides": {
+                    "Aberdeen": "0",
+                    "Dundee Utd": "2"
+                },
+                "red_cards": {
+                    "Aberdeen": "0",
+                    "Dundee Utd": "1"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "4",
+                    "Dundee Utd": "3"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "6",
+                    "Dundee Utd": "3"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "5",
+                    "Dundee Utd": "1"
+                },
+                "yellow_cards": {
+                    "Aberdeen": "1",
+                    "Dundee Utd": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/aberdeen-vs-dundee-utd-2026-05-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1386.webp",
+                    "name": "Dundee Utd",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-vs-dundee-utd-2026-05-09-8G1e.webp",
+            "title": "Aberdeen vs Dundee Utd"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Mar 14, 2026",
+            "description": "Watch Aberdeen vs Falkirk highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on March 14, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "K. Nisbet",
+                    "score_update": "1 - 0",
+                    "team": "Aberdeen",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Nisbet",
+                    "team": "Aberdeen",
+                    "time": "61'"
+                },
+                {
+                    "assist": "E. Ross",
+                    "event_type": "Goal",
+                    "player": "B. Stewart",
+                    "score_update": "1 - 1",
+                    "team": "Falkirk",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "14/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Aberdeen 1 - 1 Falkirk"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 5 - 1 Kilmarnock"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "08/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Stenhousemuir 0 - 2 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Livingston 1 - 2 Falkirk"
+                        }
+                    ],
+                    "team": "Falkirk"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "14/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Aberdeen 1 - 1 Falkirk"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 1 - 2 Celtic"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "18/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Motherwell"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "15/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Motherwell 2 - 0 Aberdeen"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "03/01/2026",
+                        "teams_and_score": "Falkirk 1 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "04/07/2018",
+                        "teams_and_score": "Falkirk 0 - 1 Aberdeen"
+                    },
+                    {
+                        "competition": "League Cup",
+                        "date": "25/09/2013",
+                        "teams_and_score": "Falkirk 0 - 5 Aberdeen"
+                    },
+                    {
+                        "competition": "Scottish Communities League Cup",
+                        "date": "26/10/2010",
+                        "teams_and_score": "Aberdeen 2 - 1 Falkirk"
+                    },
+                    {
+                        "competition": "Premier League",
+                        "date": "17/04/2010",
+                        "teams_and_score": "Aberdeen 1 - 0 Falkirk"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "4",
+                    "Falkirk_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "42%",
+                    "Falkirk": "58%"
+                },
+                "corners": {
+                    "Aberdeen": "4",
+                    "Falkirk": "10"
+                },
+                "fouls": {
+                    "Aberdeen": "17",
+                    "Falkirk": "6"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "2",
+                    "Falkirk": "2"
+                },
+                "offsides": {
+                    "Aberdeen": "1",
+                    "Falkirk": "4"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "3",
+                    "Falkirk": "4"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "3",
+                    "Falkirk": "0"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "3",
+                    "Falkirk": "3"
+                },
+                "yellow_cards": {
+                    "Aberdeen": "1",
+                    "Falkirk": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/aberdeen-vs-falkirk-2026-03-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1389.webp",
+                    "name": "Falkirk",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-vs-falkirk-2026-03-14-zsQX.webp",
+            "title": "Aberdeen vs Falkirk"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Aberdeen vs Hibernian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "G. Hanley",
+                    "team": "Hibernian",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Nisbet",
+                    "score_update": "1 - 0",
+                    "team": "Aberdeen",
+                    "time": "17'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Gyamfi",
+                    "team": "Aberdeen",
+                    "time": "45+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Barlaser",
+                    "team": "Hibernian",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Elding",
+                    "team": "Hibernian",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Nisbet",
+                    "score_update": "2 - 0",
+                    "team": "Aberdeen",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Afeez",
+                    "team": "Aberdeen",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        }
+                    ],
+                    "team": "Hibernian"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 1 - 2 Celtic"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "18/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Motherwell"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "30/12/2025",
+                        "teams_and_score": "Hibernian 2 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "26/04/2025",
+                        "teams_and_score": "Aberdeen 1 - 0 Hibernian"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "01/02/2025",
+                        "teams_and_score": "Hibernian 2 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group",
+                        "date": "12/05/2024",
+                        "teams_and_score": "Hibernian 0 - 4 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "17/02/2024",
+                        "teams_and_score": "Aberdeen 2 - 2 Hibernian"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Semi-Finals 23/24",
+                        "date": "04/11/2023",
+                        "teams_and_score": "Hibernian 0 - 1 Aberdeen"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "3",
+                    "Hibernian_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "53%",
+                    "Hibernian": "47%"
+                },
+                "corners": {
+                    "Aberdeen": "3",
+                    "Hibernian": "3"
+                },
+                "fouls": {
+                    "Aberdeen": "18",
+                    "Hibernian": "9"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "1",
+                    "Hibernian": "3"
+                },
+                "offsides": {
+                    "Aberdeen": "3",
+                    "Hibernian": "4"
+                },
+                "red_cards": {
+                    "Aberdeen": "0",
+                    "Hibernian": "1"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "2",
+                    "Hibernian": "2"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "10",
+                    "Hibernian": "1"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "5",
+                    "Hibernian": "1"
+                },
+                "yellow_cards": {
+                    "Aberdeen": "2",
+                    "Hibernian": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/aberdeen-vs-hibernian-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/249.webp",
+                    "name": "Hibernian",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-vs-hibernian-2026-04-11-Gbnd.webp",
+            "title": "Aberdeen vs Hibernian"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Apr 25, 2026",
+            "description": "Watch Aberdeen vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on April 25, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "S. Armstrong",
+                    "event_type": "Goal",
+                    "player": "A. Afeez",
+                    "score_update": "1 - 0",
+                    "team": "Aberdeen",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Stanger",
+                    "team": "Kilmarnock",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Lowery",
+                    "team": "Kilmarnock",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Deas",
+                    "team": "Kilmarnock",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Morrison",
+                    "team": "Aberdeen",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Magennis",
+                    "team": "Kilmarnock",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 1 - 0 Kilmarnock"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Kilmarnock 2 - 2 Dundee FC"
+                        }
+                    ],
+                    "team": "Kilmarnock"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 1 - 0 Kilmarnock"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 1 - 2 Celtic"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "31/01/2026",
+                        "teams_and_score": "Kilmarnock 3 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Aberdeen 1 - 0 Kilmarnock"
+                    },
+                    {
+                        "competition": "Scottish Cup: Quarter-Finals",
+                        "date": "09/03/2024",
+                        "teams_and_score": "Aberdeen 3 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "24/02/2024",
+                        "teams_and_score": "Kilmarnock 2 - 0 Aberdeen"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "2",
+                    "Kilmarnock_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "41%",
+                    "Kilmarnock": "59%"
+                },
+                "corners": {
+                    "Aberdeen": "6",
+                    "Kilmarnock": "5"
+                },
+                "fouls": {
+                    "Aberdeen": "16",
+                    "Kilmarnock": "16"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "3",
+                    "Kilmarnock": "3"
+                },
+                "offsides": {
+                    "Aberdeen": "1",
+                    "Kilmarnock": "0"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "1",
+                    "Kilmarnock": "3"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "5",
+                    "Kilmarnock": "5"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "4",
+                    "Kilmarnock": "3"
+                },
+                "yellow_cards": {
+                    "Aberdeen": "1",
+                    "Kilmarnock": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/aberdeen-vs-kilmarnock-2026-04-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/250.webp",
+                    "name": "Kilmarnock",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-vs-kilmarnock-2026-04-25-XRwe.webp",
+            "title": "Aberdeen vs Kilmarnock"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Jan 24, 2026",
+            "description": "Watch Aberdeen vs Livingston highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on January 24, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/aberdeen-vs-livingston-2026-01-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-vs-livingston-2026-01-24-UYqi.webp",
+            "title": "Aberdeen vs Livingston"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Jan 11, 2026",
+            "description": "Watch Aberdeen vs Rangers highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on January 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/aberdeen-vs-rangers-2026-01-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-vs-rangers-2026-01-11-iRN4.webp",
+            "title": "Aberdeen vs Rangers"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Dundee FC vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 17, 2026. The stage was set for a compelling encounter in the Scottish Premiership as both sides looked to assert their dominance on the pitch. The match, played on May 17, 2026, delivered a classic display of attacking football that kept supporters captivated until the very last whistle. Early Fireworks and Tactical Shifts It was the Dundee FC side that struck first, with Drey Wright finding the net in the 10th minute following a crisp delivery from Charlie Reilly . The lead was short-lived, however, as Aberdeen responded with conviction; Liam Morrison leveled the score in the 23rd minute, assisted by Lyall Cameron . Just as the half looked to end in a draw, Toyosi Olusanya struck in stoppage time to give the visitors a narrow edge heading into the break. Fighting Until the Final Whistle The second half saw both sides battling for control, with Joe Westley extending Aberdeen 's lead to two goals in the 61st minute. Despite the deficit, Dundee FC showed great character. Their persistence was rewarded in the 90th minute when Ryan Astley , teed up by Finlay Robertson , scored to ignite a late push. It was an afternoon defined by resilience, as both sets of players left nothing on the pitch in a high-octane battle.",
+            "events_timeline": [
+                {
+                    "assist": "C. Reilly",
+                    "event_type": "Goal",
+                    "player": "D. Wright",
+                    "score_update": "1 - 0",
+                    "team": "Dundee FC",
+                    "time": "10'"
+                },
+                {
+                    "assist": "L. Cameron",
+                    "event_type": "Goal",
+                    "player": "L. Morrison",
+                    "score_update": "1 - 1",
+                    "team": "Aberdeen",
+                    "time": "23'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Olusanya",
+                    "score_update": "1 - 2",
+                    "team": "Aberdeen",
+                    "time": "45+6'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Westley",
+                    "score_update": "2 - 2",
+                    "team": "Dundee FC",
+                    "time": "46'"
+                },
+                {
+                    "assist": "F. Robertson",
+                    "event_type": "Goal",
+                    "player": "R. Astley",
+                    "score_update": "3 - 2",
+                    "team": "Dundee FC",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee FC 3 - 2 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 3 - 0 Aberdeen"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Dundee FC 3 - 2 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Kilmarnock 2 - 2 Dundee FC"
+                        }
+                    ],
+                    "team": "Dundee FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "21/02/2026",
+                        "teams_and_score": "Aberdeen 2 - 3 Dundee FC"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "15/02/2025",
+                        "teams_and_score": "Dundee FC 1 - 2 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "13/04/2024",
+                        "teams_and_score": "Aberdeen 0 - 0 Dundee FC"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group 21/22",
+                        "date": "30/04/2022",
+                        "teams_and_score": "Aberdeen 1 - 0 Dundee FC"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "2",
+                    "Dundee FC_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "44%",
+                    "Dundee FC": "56%"
+                },
+                "corners": {
+                    "Aberdeen": "2",
+                    "Dundee FC": "7"
+                },
+                "fouls": {
+                    "Aberdeen": "9",
+                    "Dundee FC": "14"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "3",
+                    "Dundee FC": "0"
+                },
+                "offsides": {
+                    "Aberdeen": "1",
+                    "Dundee FC": "2"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "3",
+                    "Dundee FC": "3"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "4",
+                    "Dundee FC": "2"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "2",
+                    "Dundee FC": "6"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/dundee-aberdeen-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/253.webp",
+                    "name": "Dundee FC",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-aberdeen-2026-05-17-C6x5.webp",
+            "title": "Dundee - Aberdeen"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 25, 2026",
+            "description": "Watch Dundee Utd vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 25, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "24/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Dundee United 0 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "18/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Motherwell"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "15/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Motherwell 2 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "18/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 1 - 0 Raith Rovers"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 0 - 2 Rangers"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "24/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Dundee United 0 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "17/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 1 Spartans"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 2 - 3 Dundee United"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 0 Ayr United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "10/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 4 - 0 Dundee United"
+                        }
+                    ],
+                    "team": "Dundee Utd"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "27/12/2025",
+                        "teams_and_score": "Aberdeen 1 - 1 Dundee United"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "17/05/2025",
+                        "teams_and_score": "Dundee United 2 - 1 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "02/03/2025",
+                        "teams_and_score": "Aberdeen 2 - 2 Dundee United"
+                    },
+                    {
+                        "competition": "Premiership 22/23",
+                        "date": "04/03/2023",
+                        "teams_and_score": "Dundee United 1 - 3 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership 21/22",
+                        "date": "26/02/2022",
+                        "teams_and_score": "Aberdeen 1 - 1 Dundee United"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "1",
+                    "Dundee Utd_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "58%",
+                    "Dundee Utd": "42%"
+                },
+                "corners": {
+                    "Aberdeen": "6",
+                    "Dundee Utd": "4"
+                },
+                "fouls": {
+                    "Aberdeen": "6",
+                    "Dundee Utd": "13"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "2",
+                    "Dundee Utd": "1"
+                },
+                "offsides": {
+                    "Aberdeen": "1",
+                    "Dundee Utd": "1"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "6",
+                    "Dundee Utd": "4"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "4",
+                    "Dundee Utd": "9"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "2",
+                    "Dundee Utd": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/dundee-utd-vs-aberdeen-2026-02-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1386.webp",
+                    "name": "Dundee Utd",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-utd-vs-aberdeen-2026-02-25-Zsaa.webp",
+            "title": "Dundee Utd vs Aberdeen"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 28, 2026",
+            "description": "Watch Heart Of Midlothian vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 28, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Halkett",
+                    "team": "Heart Of Midlothian",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. McCart",
+                    "team": "Heart Of Midlothian",
+                    "time": "16'"
+                },
+                {
+                    "assist": "P. Kabore",
+                    "event_type": "Goal",
+                    "player": "C. Braga",
+                    "score_update": "1 - 0",
+                    "team": "Heart Of Midlothian",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Shinnie",
+                    "team": "Aberdeen",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Spittal",
+                    "team": "Heart Of Midlothian",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Geiger",
+                    "team": "Aberdeen",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Devlin",
+                    "team": "Aberdeen",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Milne",
+                    "team": "Aberdeen",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Frame",
+                    "team": "Aberdeen",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Hearts 1 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "18/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Motherwell"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "15/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Motherwell 2 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "18/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 1 - 0 Raith Rovers"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 0 - 2 Rangers"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Hearts 1 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Hearts 1 - 1 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "14/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Hearts 2 - 0 St. Mirren"
+                        }
+                    ],
+                    "team": "Heart Of Midlothian"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "23/11/2025",
+                        "teams_and_score": "Aberdeen 1 - 0 Hearts"
+                    },
+                    {
+                        "competition": "Scottish Cup: Semi-Finals",
+                        "date": "19/04/2025",
+                        "teams_and_score": "Hearts 1 - 2 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "12/01/2025",
+                        "teams_and_score": "Aberdeen 0 - 0 Hearts"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "27/01/2024",
+                        "teams_and_score": "Hearts 2 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group 22/23",
+                        "date": "20/05/2023",
+                        "teams_and_score": "Hearts 2 - 1 Aberdeen"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "3",
+                    "Heart Of Midlothian_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "46%",
+                    "Heart Of Midlothian": "54%"
+                },
+                "corners": {
+                    "Aberdeen": "4",
+                    "Heart Of Midlothian": "7"
+                },
+                "fouls": {
+                    "Aberdeen": "16",
+                    "Heart Of Midlothian": "7"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "6",
+                    "Heart Of Midlothian": "0"
+                },
+                "offsides": {
+                    "Aberdeen": "3",
+                    "Heart Of Midlothian": "0"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "3",
+                    "Heart Of Midlothian": "6"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "2",
+                    "Heart Of Midlothian": "8"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "0",
+                    "Heart Of Midlothian": "7"
+                },
+                "yellow_cards": {
+                    "Aberdeen": "5",
+                    "Heart Of Midlothian": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/heart-of-midlothian-vs-aberdeen-2026-02-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/254.webp",
+                    "name": "Heart Of Midlothian",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/heart-of-midlothian-vs-aberdeen-2026-02-28-9Kai.webp",
+            "title": "Heart Of Midlothian vs Aberdeen"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Jan 31, 2026",
+            "description": "Watch Kilmarnock vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on January 31, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Shinnie",
+                    "team": "Aberdeen",
+                    "time": "6'"
+                },
+                {
+                    "assist": "G. Kiltie",
+                    "event_type": "Goal",
+                    "player": "B. Lyons",
+                    "score_update": "1 - 0",
+                    "team": "Kilmarnock",
+                    "time": "12'"
+                },
+                {
+                    "assist": "T. John-Jules",
+                    "event_type": "Goal",
+                    "player": "B. Anderson",
+                    "score_update": "2 - 0",
+                    "team": "Kilmarnock",
+                    "time": "14'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Watson",
+                    "team": "Kilmarnock",
+                    "time": "42'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Morrison",
+                    "team": "Aberdeen",
+                    "time": "45+7'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "G. Shinnie",
+                    "team": "Aberdeen",
+                    "time": "51'"
+                },
+                {
+                    "assist": "B. Anderson",
+                    "event_type": "Goal",
+                    "player": "T. John-Jules",
+                    "score_update": "3 - 0",
+                    "team": "Kilmarnock",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Thompson",
+                    "team": "Kilmarnock",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Mar Kjartansson",
+                    "team": "Aberdeen",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Brown",
+                    "team": "Kilmarnock",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "31/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Kilmarnock 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "18/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 1 - 0 Raith Rovers"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 0 - 2 Rangers"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "18/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Sparta Prague 3 - 0 Aberdeen"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Kilmarnock 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Kilmarnock 1 - 2 Dundee FC"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Livingston 1 - 1 Kilmarnock"
+                        }
+                    ],
+                    "team": "Kilmarnock"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "14/12/2025",
+                        "teams_and_score": "Aberdeen 2 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Aberdeen 1 - 0 Kilmarnock"
+                    },
+                    {
+                        "competition": "Scottish Cup: Quarter-Finals",
+                        "date": "09/03/2024",
+                        "teams_and_score": "Aberdeen 3 - 1 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "24/02/2024",
+                        "teams_and_score": "Kilmarnock 2 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership 22/23",
+                        "date": "08/04/2023",
+                        "teams_and_score": "Aberdeen 2 - 0 Kilmarnock"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "4",
+                    "Kilmarnock_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "45%",
+                    "Kilmarnock": "55%"
+                },
+                "corners": {
+                    "Aberdeen": "3",
+                    "Kilmarnock": "7"
+                },
+                "fouls": {
+                    "Aberdeen": "10",
+                    "Kilmarnock": "16"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "5",
+                    "Kilmarnock": "3"
+                },
+                "offsides": {
+                    "Aberdeen": "3",
+                    "Kilmarnock": "3"
+                },
+                "red_cards": {
+                    "Aberdeen": "1",
+                    "Kilmarnock": "0"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "3",
+                    "Kilmarnock": "2"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "1",
+                    "Kilmarnock": "8"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "4",
+                    "Kilmarnock": "9"
+                },
+                "yellow_cards": {
+                    "Aberdeen": "3",
+                    "Kilmarnock": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kilmarnock-vs-aberdeen-2026-01-31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/250.webp",
+                    "name": "Kilmarnock",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kilmarnock-vs-aberdeen-2026-01-31-QoXl.webp",
+            "title": "Kilmarnock vs Aberdeen"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 1, 2026",
+            "description": "Watch Livingston vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 1, 2026. The Scottish Premiership delivered a narrative of resilience and sudden momentum shifts on May 1, 2026 , as Livingston and Aberdeen faced off in a highly competitive encounter. Both managers approached the fixture with tactical flexibility, resulting in a match that ebbed and flowed through periods of technical precision and high-intensity drama. Frame Sets the Tone The contest began with both sides testing each other’s defensive resolve, but it was Aberdeen who managed to break the deadlock midway through the first half. In the 24th minute, Dennis Geiger demonstrated his creative vision by delivering a perfectly weighted pass into the path of Mitchel Frame . Showing great composure, Frame finished with precision to give the visitors a 1-0 lead. While Livingston attempted to respond before the interval, the visitors remained compact, forcing the home side to re-evaluate their strategy during the break with a triple substitution that saw Macaulay Tait , Barrie McKay , and Scott Pittman enter the pitch. Nouble Sparks the Fightback The tactical adjustments paid immediate dividends for the hosts just two minutes into the second period. In the 47th minute, Joel Nouble found the space he needed to strike, firing home an equalizer that brought Livingston back into the game at 1-1. The goal transformed the atmosphere, as the home side began to dominate possession and push the Aberdeen backline into deeper positions. However, the physical nature of the game intensified, leading to a yellow card for Babacar Fati as the match moved into a frantic final twenty minutes. Own Goal Calamity and Late Heroics Just as Livingston seemed to be in control, a moment of defensive misfortune altered the course of the afternoon. In the 71st minute, Daniel Finlayson inadvertently turned the ball into his own net, a cruel blow that handed Aberdeen a 2-1 lead against the run of play. The hosts refused to let the error define their performance, turning once again to their bench for inspiration. Robbie Muirhead , having replaced Nouble only moments after the own goal, proved to be the hero of the hour. In the 78th minute, Muirhead stayed sharp in the area to slot home another equalizer, making it 2-2 and setting up a grandstand finish. The closing stages were defined by a series of tactical fouls and defensive interventions as both teams sought a winning goal. Yellow cards were shown to Finlayson and Tait for the hosts, while Topi Keskinen was booked for Aberdeen deep into seven minutes of stoppage time. Despite the late pressure from both camps, the referee’s whistle eventually confirmed a share of the spoils in a match where neither side was willing to surrender.",
+            "events_timeline": [
+                {
+                    "assist": "D. Geiger",
+                    "event_type": "Goal",
+                    "player": "M. Frame",
+                    "score_update": "0 - 1",
+                    "team": "Aberdeen",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Nouble",
+                    "score_update": "1 - 1",
+                    "team": "Livingston",
+                    "time": "47'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Fati",
+                    "team": "Livingston",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Finlayson",
+                    "team": "Aberdeen",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Muirhead",
+                    "score_update": "2 - 2",
+                    "team": "Livingston",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Finlayson",
+                    "team": "Livingston",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Tait",
+                    "team": "Livingston",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Keskinen",
+                    "team": "Aberdeen",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "01/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Livingston 2 - 2 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 1 - 2 Celtic"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Relegation Group",
+                            "date": "01/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Livingston 2 - 2 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 3 - 2 Livingston"
+                        }
+                    ],
+                    "team": "Livingston"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "24/01/2026",
+                        "teams_and_score": "Aberdeen 6 - 2 Livingston"
+                    },
+                    {
+                        "competition": "Premiership: Relegation Group",
+                        "date": "15/05/2024",
+                        "teams_and_score": "Aberdeen 5 - 1 Livingston"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "06/04/2024",
+                        "teams_and_score": "Livingston 0 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership 22/23",
+                        "date": "25/02/2023",
+                        "teams_and_score": "Aberdeen 1 - 0 Livingston"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "3",
+                    "Livingston_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "50%",
+                    "Livingston": "50%"
+                },
+                "corners": {
+                    "Aberdeen": "3",
+                    "Livingston": "6"
+                },
+                "fouls": {
+                    "Aberdeen": "15",
+                    "Livingston": "10"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "3",
+                    "Livingston": "1"
+                },
+                "offsides": {
+                    "Aberdeen": "3",
+                    "Livingston": "2"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "2",
+                    "Livingston": "5"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "3",
+                    "Livingston": "6"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "2",
+                    "Livingston": "5"
+                },
+                "yellow_cards": {
+                    "Aberdeen": "1",
+                    "Livingston": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/livingston-vs-aberdeen-2026-05-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/255.webp",
+                    "name": "Livingston",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/livingston-vs-aberdeen-2026-05-01-VzPf.webp",
+            "title": "Livingston vs Aberdeen"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 15, 2026",
+            "description": "Watch Motherwell vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 15, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/motherwell-vs-aberdeen-2026-02-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/motherwell-vs-aberdeen-2026-02-15-I1UQ.webp",
+            "title": "Motherwell vs Aberdeen"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Mar 21, 2026",
+            "description": "Watch Rangers vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on March 21, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Milne",
+                    "team": "Aberdeen",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Chukwuani",
+                    "score_update": "1 - 0",
+                    "team": "Rangers",
+                    "time": "16'"
+                },
+                {
+                    "assist": "R. Naderi",
+                    "event_type": "Goal",
+                    "player": "M. Moore",
+                    "score_update": "2 - 0",
+                    "team": "Rangers",
+                    "time": "47'"
+                },
+                {
+                    "assist": "A. Afeez",
+                    "event_type": "Goal",
+                    "player": "D. Geiger",
+                    "score_update": "2 - 1",
+                    "team": "Aberdeen",
+                    "time": "52'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Geiger",
+                    "team": "Aberdeen",
+                    "time": "59'"
+                },
+                {
+                    "assist": "T. Aasgaard",
+                    "event_type": "Goal",
+                    "player": "N. Raskin",
+                    "score_update": "3 - 1",
+                    "team": "Rangers",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Gyamfi",
+                    "team": "Aberdeen",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Keskinen",
+                    "team": "Aberdeen",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Tavernier",
+                    "score_update": "4 - 1",
+                    "team": "Rangers",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Rangers 4 - 1 Aberdeen"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 1 - 2 Celtic"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "18/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Motherwell"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "15/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Motherwell 2 - 0 Aberdeen"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Rangers 4 - 1 Aberdeen"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Rangers 0 - 0 Celtic"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Rangers 2 - 2 Celtic"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "08/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Rangers 8 - 0 Queen's Park"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Rangers 5 - 1 Kilmarnock"
+                        }
+                    ],
+                    "team": "Rangers"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "11/01/2026",
+                        "teams_and_score": "Aberdeen 0 - 2 Rangers"
+                    },
+                    {
+                        "competition": "Premiership: Championship Group",
+                        "date": "11/05/2025",
+                        "teams_and_score": "Rangers 4 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "13/04/2025",
+                        "teams_and_score": "Aberdeen 2 - 2 Rangers"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "06/02/2024",
+                        "teams_and_score": "Rangers 2 - 1 Aberdeen"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Final 23/24",
+                        "date": "17/12/2023",
+                        "teams_and_score": "Rangers 1 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Premiership 23/24",
+                        "date": "26/11/2023",
+                        "teams_and_score": "Aberdeen 1 - 1 Rangers"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "0",
+                    "Rangers_wins": "4",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "38%",
+                    "Rangers": "62%"
+                },
+                "corners": {
+                    "Aberdeen": "4",
+                    "Rangers": "2"
+                },
+                "fouls": {
+                    "Aberdeen": "17",
+                    "Rangers": "15"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "3",
+                    "Rangers": "0"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "2",
+                    "Rangers": "6"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "3",
+                    "Rangers": "5"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "1",
+                    "Rangers": "7"
+                },
+                "yellow_cards": {
+                    "Aberdeen": "4",
+                    "Rangers": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/rangers-vs-aberdeen-2026-03-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/257.webp",
+                    "name": "Rangers",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rangers-vs-aberdeen-2026-03-21-OjXH.webp",
+            "title": "Rangers vs Aberdeen"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Apr 4, 2026",
+            "description": "Watch ST Mirren vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on April 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-vs-aberdeen-2026-04-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-vs-aberdeen-2026-04-04-21Gu.webp",
+            "title": "ST Mirren vs Aberdeen"
+        }
+    ]
+}

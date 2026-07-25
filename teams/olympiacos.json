@@ -1,0 +1,77 @@
+{
+    "team": "Olympiacos",
+    "team_logo": "",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Dec 9, 2025",
+            "description": "Watch Kairat Almaty vs Olympiakos Piraeus highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on December 9, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Kairat_v_Olympiacos_2025_12_09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kairat-v-olympiacos-2025-12-09-H2H3.webp",
+            "title": "Kairat vs Olympiacos"
+        },
+        {
+            "competition": "UEFA Champions League",
+            "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+            "date": "Nov 26, 2025",
+            "description": "Watch Olympiakos Piraeus vs Real Madrid highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on November 26, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Olympiakos_v_Real_Madrid_2025_11_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/olympiakos-v-real-madrid-2025-11-26.webp",
+            "title": "Olympiacos vs Real Madrid"
+        }
+    ]
+}

@@ -1,0 +1,1266 @@
+{
+    "team": "Metz",
+    "team_logo": "https://img.refooty.com/logo/teams/112.webp",
+    "total_matches": 7,
+    "matches": [
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Nov 9, 2025",
+            "description": "Watch Metz vs Nice highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on November 9, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Nice"
+                },
+                "home_team_form": {
+                    "team": "Metz"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/FC_Metz_v_Nice_2025_11_09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/84.webp",
+                    "name": "Nice",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/112.webp",
+                    "name": "Metz",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-metz-v-nice-2025-11-09-CMmC.webp",
+            "title": "FC Metz vs Nice"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch Metz vs Toulouse highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "P. Diop",
+                    "event_type": "Goal",
+                    "player": "A. Dønnum",
+                    "score_update": "0 - 1",
+                    "team": "Toulouse",
+                    "time": "6'"
+                },
+                {
+                    "assist": "S. Hidalgo",
+                    "event_type": "Goal",
+                    "player": "Y. Gboho",
+                    "score_update": "0 - 2",
+                    "team": "Toulouse",
+                    "time": "14'"
+                },
+                {
+                    "assist": "G. Tsitaishvili",
+                    "event_type": "Goal",
+                    "player": "N. Mbala",
+                    "score_update": "1 - 2",
+                    "team": "Metz",
+                    "time": "30'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Kouao",
+                    "score_update": "2 - 2",
+                    "team": "Metz",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Vossah",
+                    "team": "Toulouse",
+                    "time": "34'"
+                },
+                {
+                    "assist": "W. Kamanzi",
+                    "event_type": "Goal",
+                    "player": "Y. Gboho",
+                    "score_update": "2 - 3",
+                    "team": "Toulouse",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Abuashvili",
+                    "score_update": "3 - 3",
+                    "team": "Metz",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Kamanzi",
+                    "team": "Toulouse",
+                    "time": "90+5'"
+                },
+                {
+                    "assist": "A. Dønnum",
+                    "event_type": "Goal",
+                    "player": "M. Sauer",
+                    "score_update": "3 - 4",
+                    "team": "Toulouse",
+                    "time": "90+9'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Da Silva",
+                    "team": "Toulouse",
+                    "time": "90+11'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Metz 3 - 4 Toulouse"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Marseille 2 - 2 Toulouse"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Rennes 1 - 0 Toulouse"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Toulouse 1 - 0 Amiens"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "01/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Toulouse 0 - 0 Auxerre"
+                        }
+                    ],
+                    "team": "Toulouse"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Metz 3 - 4 Toulouse"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "11/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Metz 0 - 4 Montpellier"
+                        }
+                    ],
+                    "team": "Metz"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "19/10/2025",
+                        "teams_and_score": "Toulouse 4 - 0 Metz"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "14/01/2024",
+                        "teams_and_score": "Metz 0 - 1 Toulouse"
+                    },
+                    {
+                        "competition": "Ligue 1 19/20",
+                        "date": "28/09/2019",
+                        "teams_and_score": "Metz 2 - 2 Toulouse"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "03/03/2018",
+                        "teams_and_score": "Metz 1 - 1 Toulouse"
+                    }
+                ],
+                "summary": {
+                    "Metz_wins": "0",
+                    "Toulouse_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Metz": "50%",
+                    "Toulouse": "50%"
+                },
+                "corners": {
+                    "Metz": "4",
+                    "Toulouse": "4"
+                },
+                "crosses": {
+                    "Metz": "6",
+                    "Toulouse": "6"
+                },
+                "fouls": {
+                    "Metz": "10",
+                    "Toulouse": "13"
+                },
+                "goalkeeper_saves": {
+                    "Metz": "2",
+                    "Toulouse": "5"
+                },
+                "shots_blocked": {
+                    "Metz": "3",
+                    "Toulouse": "7"
+                },
+                "shots_off_target": {
+                    "Metz": "6",
+                    "Toulouse": "6"
+                },
+                "shots_on_target": {
+                    "Metz": "8",
+                    "Toulouse": "6"
+                },
+                "yellow_cards": {
+                    "Metz": "0",
+                    "Toulouse": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/FC_Metz_v_Toulouse_2026_03_15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/96.webp",
+                    "name": "Toulouse",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/112.webp",
+                    "name": "Metz",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-metz-v-toulouse-2026-03-15-Q3ZL.webp",
+            "title": "FC Metz vs Toulouse"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch Le Havre vs Metz highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on April 26, 2026. The atmosphere at the stadium was thick with anticipation as both sides looked to establish their dominance in a fixture that promised plenty of tactical intrigue. This Ligue 1 clash, held on 26 April 2026, saw a fierce contest unfold between Le Havre and Lille . Early goals define the flow The match kicked off with high intensity, with both teams fighting for every inch of grass. The deadlock was broken in the 29th minute when Hakon Arnar Haraldsson found the back of the net with his right foot, courtesy of a well-placed assist from Romain Perraud . Le Havre responded with immediate determination; just four minutes later, Issa Soumare powered a header home from close range after receiving a pinpoint cross from Fode Doucoure , restoring parity before the interval. Defensive heroics and VAR drama The second half saw both managers shuffle their packs, with substitutions changing the momentum of the game. A major talking point arrived in the 78th minute when the referee consulted VAR for a potential penalty for Lille , but the decision remained unchanged. As the match entered stoppage time, Mory Diaw stole the spotlight. The goalkeeper produced a crucial save to deny Aissa Mandi ’s spectacular bicycle kick, ensuring that both teams walked away with a share of the points in a hard-fought encounter.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Gourna-Douath",
+                    "team": "Metz",
+                    "time": "1'"
+                },
+                {
+                    "assist": "R. Perraud",
+                    "event_type": "Goal",
+                    "player": "H. A. Haraldsson",
+                    "score_update": "1 - 0",
+                    "team": "Le Havre",
+                    "time": "16'"
+                },
+                {
+                    "assist": "F. Doucoure",
+                    "event_type": "Goal",
+                    "player": "I. Soumare",
+                    "score_update": "1 - 1",
+                    "team": "Metz",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Seko",
+                    "team": "Metz",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Meunier",
+                    "team": "Le Havre",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Mandi",
+                    "team": "Le Havre",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Soumare",
+                    "team": "Metz",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Lille 1 - 1 Le Havre"
+                        }
+                    ],
+                    "team": "Metz"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Lille 1 - 1 Le Havre"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Aston Villa 2 - 0 Lille"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Rennes 1 - 2 Lille"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Lille 0 - 1 Aston Villa"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lille 1 - 1 Lorient"
+                        }
+                    ],
+                    "team": "Le Havre"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "30/11/2025",
+                        "teams_and_score": "Le Havre 0 - 1 Lille"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "08/02/2025",
+                        "teams_and_score": "Lille 1 - 2 Le Havre"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "17/02/2024",
+                        "teams_and_score": "Lille 3 - 0 Le Havre"
+                    },
+                    {
+                        "competition": "Club Friendlies 2023",
+                        "date": "26/07/2023",
+                        "teams_and_score": "Lille 3 - 2 Le Havre"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "23/05/2009",
+                        "teams_and_score": "Le Havre 0 - 1 Lille"
+                    }
+                ],
+                "summary": {
+                    "Le Havre_wins": "1",
+                    "Metz_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Le Havre": "67%",
+                    "Metz": "33%"
+                },
+                "corners": {
+                    "Le Havre": "14",
+                    "Metz": "5"
+                },
+                "crosses": {
+                    "Le Havre": "12",
+                    "Metz": "5"
+                },
+                "fouls": {
+                    "Le Havre": "9",
+                    "Metz": "15"
+                },
+                "goalkeeper_saves": {
+                    "Le Havre": "1",
+                    "Metz": "9"
+                },
+                "offsides": {
+                    "Le Havre": "1",
+                    "Metz": "3"
+                },
+                "shots_blocked": {
+                    "Le Havre": "6",
+                    "Metz": "0"
+                },
+                "shots_off_target": {
+                    "Le Havre": "6",
+                    "Metz": "0"
+                },
+                "shots_on_target": {
+                    "Le Havre": "10",
+                    "Metz": "2"
+                },
+                "yellow_cards": {
+                    "Le Havre": "2",
+                    "Metz": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/le-havre-vs-metz-2026-04-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/112.webp",
+                    "name": "Metz",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/111.webp",
+                    "name": "Le Havre",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/le-havre-vs-metz-2026-04-26-WAz2.webp",
+            "title": "Le Havre vs Metz"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "May 10, 2026",
+            "description": "Watch Metz vs Lorient highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on May 10, 2026. A battle of nerves in Ligue 1 On May 10, 2026 , Metz and Lorient faced off in a highly anticipated Ligue 1 fixture that promised tactical intrigue from the opening whistle. Both sides fought for control in the midfield early on, with Metz relying on Gauthier Hein to deliver quality from set-pieces, while Lorient remained disciplined, waiting for the right moment to strike. That moment arrived in the 24th minute when Jean-Victor Makengo connected with an Arsene Kouassi assist to fire a right-footed shot into the net. The tension was palpable as the referee initiated a VAR check, but the goal was ultimately allowed to stand, giving Lorient a narrow and hard-fought lead heading into the halftime interval. The late-game collapse As the second half progressed, the game remained a tight tactical affair, but Lorient successfully ramped up the pressure with key substitutions. Bamba Dieng , who entered the fray off the bench, proved to be the difference-maker in the 84th minute, tucking away a goal set up by Pablo Pagis . This second strike seemed to shift the momentum decisively in favor of the visitors. In a wild final stretch, Lorient dismantled the Metz defense with clinical efficiency. Arthur Avom stunned the keeper with a brilliant long-range strike in the 90+7th minute, and Noah Cadiou completed the rout just sixty seconds later. The final scoreline of 0-4 was a testament to Lorient’s ruthless finishing and their ability to punish an opponent as the game reached its chaotic conclusion.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Sane",
+                    "team": "Metz",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Faye",
+                    "team": "Lorient",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Tsitaishvili",
+                    "team": "Metz",
+                    "time": "31'"
+                },
+                {
+                    "assist": "A. Kouassi",
+                    "event_type": "Goal",
+                    "player": "J. Makengo",
+                    "score_update": "0 - 1",
+                    "team": "Lorient",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Makengo",
+                    "team": "Lorient",
+                    "time": "61'"
+                },
+                {
+                    "assist": "P. Pagis",
+                    "event_type": "Goal",
+                    "player": "B. Dieng",
+                    "score_update": "0 - 2",
+                    "team": "Lorient",
+                    "time": "84'"
+                },
+                {
+                    "assist": "P. Pagis",
+                    "event_type": "Goal",
+                    "player": "A. A. Ebong",
+                    "score_update": "0 - 3",
+                    "team": "Lorient",
+                    "time": "90+7'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Cadiou",
+                    "score_update": "0 - 4",
+                    "team": "Lorient",
+                    "time": "90+8'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Metz 0 - 4 Lorient"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lorient 0 - 0 Nice"
+                        }
+                    ],
+                    "team": "Lorient"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Metz 0 - 4 Lorient"
+                        }
+                    ],
+                    "team": "Metz"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "04/01/2026",
+                        "teams_and_score": "Lorient 1 - 1 Metz"
+                    },
+                    {
+                        "competition": "Ligue 2",
+                        "date": "11/01/2025",
+                        "teams_and_score": "Lorient 0 - 0 Metz"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "04/02/2024",
+                        "teams_and_score": "Metz 1 - 2 Lorient"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "20/04/2022",
+                        "teams_and_score": "Lorient 1 - 0 Metz"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "16/05/2021",
+                        "teams_and_score": "Lorient 2 - 1 Metz"
+                    },
+                    {
+                        "competition": "Ligue 2",
+                        "date": "31/03/2019",
+                        "teams_and_score": "Metz 2 - 1 Lorient"
+                    }
+                ],
+                "summary": {
+                    "Lorient_wins": "3",
+                    "Metz_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lorient": "46%",
+                    "Metz": "54%"
+                },
+                "corners": {
+                    "Lorient": "4",
+                    "Metz": "7"
+                },
+                "crosses": {
+                    "Lorient": "6",
+                    "Metz": "4"
+                },
+                "fouls": {
+                    "Lorient": "8",
+                    "Metz": "8"
+                },
+                "goalkeeper_saves": {
+                    "Lorient": "2",
+                    "Metz": "3"
+                },
+                "offsides": {
+                    "Lorient": "2",
+                    "Metz": "0"
+                },
+                "shots_blocked": {
+                    "Lorient": "2",
+                    "Metz": "2"
+                },
+                "shots_off_target": {
+                    "Lorient": "5",
+                    "Metz": "4"
+                },
+                "shots_on_target": {
+                    "Lorient": "7",
+                    "Metz": "2"
+                },
+                "yellow_cards": {
+                    "Lorient": "2",
+                    "Metz": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/metz-vs-lorient-2026-05-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/97.webp",
+                    "name": "Lorient",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/112.webp",
+                    "name": "Metz",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/metz-vs-lorient-2026-05-10-AkHv.webp",
+            "title": "Metz vs Lorient"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "May 3, 2026",
+            "description": "Watch Metz vs Monaco highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on May 3, 2026. On May 3, 2026 , Ligue 1 fans witnessed a high-stakes encounter at the heart of the season that provided a masterclass in tactical patience and sudden clinical execution. The match between Metz and Monaco was a tale of two halves, where strategic adjustments and individual brilliance ultimately dictated the narrative in a battle fought for every inch of grass. A Cagey Opening Exchange The match began with both Metz and Monaco struggling to find their rhythm in the final third. For much of the first half, the action was punctuated by goal kicks and disciplined defensive setups that stifled any real creativity. Maghnes Akliouche was the primary engine for the visitors, frequently searching for an opening through set-pieces, but his delivery from several corners rarely found a teammate in a dangerous position. The home side, meanwhile, remained compact and organized, frustrating a Monaco side that dominated possession with 66% of the ball but lacked the final killer pass to break the deadlock. The most significant chance of the opening 45 minutes fell to the veteran Paul Pogba , who rose highest in the 40th minute to meet a short corner from Akliouche . However, his goal-bound header was bravely blocked by the Metz backline, ensuring the teams headed into the tunnel with the scoreline still level. It was a half characterized by tactical caution and defensive resilience, leaving the supporters at the stadium hoping for more urgency and clinical finishing after the interval. Explosive Start to the Second Period Everything changed shortly after the restart when Metz stunned the visitors in the 49th minute. After winning a corner on the right, Gauthier Hein delivered a pinpoint cross that found Jessy Deminguet in the heart of the box. The midfielder made no mistake, directing a powerful header past the goalkeeper to give the hosts a precious lead. The goal breathed new life into the contest, forcing Monaco to abandon their patient approach and commit more bodies forward in a desperate search for a response. The visitors did not have to wait long for parity as their offensive pressure finally told. In the 61st minute, Maghnes Akliouche once again turned architect, finding Folarin Balogun with a clever pass into space. The striker showed great composure, slotting a right-footed shot into the net to level the game and shift the momentum firmly back toward the principality club. The equalizer triggered a flurry of activity from both benches, with Monaco introducing Ansu Fati , Aladji Bamba , and Mamadou Coulibaly to maintain the high tempo, while Metz looked to shore up their midfield to handle the increasing waves of pressure. VAR Drama and the Decisive Blow As the game entered its final quarter, the tension reached a breaking point. In the 73rd minute, the referee halted play for a lengthy VAR check regarding a potential penalty for Metz . After a nervous wait for the home fans, the official ultimately decided to stay with the initial call and not award the spot-kick, a decision that seemed to deflate the hosts. Monaco seized the opportunity to push for all three points, and despite Christian Mawissa picking up a yellow card for a rough challenge, they continued to look the more likely side to find a winner. The breakthrough finally arrived in the second minute of stoppage time during a frantic finish. Maghnes Akliouche initiated the move with a sharp key pass to Caio Henrique , who had been introduced as a tactical substitute only minutes earlier. Henrique then provided a sublime assist for Ansu Fati , and the Spaniard showed his clinical edge by firing a left-footed strike into the back of the net. Although Bouna Sarr nearly snatched an equalizer for the hosts with an audacious bicycle kick in the 94th minute, Monaco held firm through nearly ten minutes of added time to secure a hard-fought 2-1 victory.",
+            "events_timeline": [
+                {
+                    "assist": "G. Hein",
+                    "event_type": "Goal",
+                    "player": "J. Deminguet",
+                    "score_update": "1 - 0",
+                    "team": "Metz",
+                    "time": "49'"
+                },
+                {
+                    "assist": "M. Akliouche",
+                    "event_type": "Goal",
+                    "player": "F. Balogun",
+                    "score_update": "1 - 1",
+                    "team": "Monaco",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Coulibaly",
+                    "team": "Monaco",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Mawissa",
+                    "team": "Monaco",
+                    "time": "81'"
+                },
+                {
+                    "assist": "C. Henrique",
+                    "event_type": "Goal",
+                    "player": "A. Fati",
+                    "score_update": "1 - 2",
+                    "team": "Monaco",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Metz 1 - 2 AS Monaco"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "25/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris Saint-Germain 2 - 2 AS Monaco"
+                        }
+                    ],
+                    "team": "Monaco"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Metz 1 - 2 AS Monaco"
+                        }
+                    ],
+                    "team": "Metz"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "21/09/2025",
+                        "teams_and_score": "AS Monaco 5 - 2 Metz"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "30/03/2024",
+                        "teams_and_score": "Metz 2 - 5 AS Monaco"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "03/04/2022",
+                        "teams_and_score": "Metz 1 - 2 AS Monaco"
+                    },
+                    {
+                        "competition": "Coupe de France 20/21",
+                        "date": "06/04/2021",
+                        "teams_and_score": "AS Monaco 0 - 0 Metz"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "03/04/2021",
+                        "teams_and_score": "AS Monaco 4 - 0 Metz"
+                    },
+                    {
+                        "competition": "Ligue 1 19/20",
+                        "date": "17/08/2019",
+                        "teams_and_score": "Metz 3 - 0 AS Monaco"
+                    },
+                    {
+                        "competition": "Coupe de France",
+                        "date": "22/01/2019",
+                        "teams_and_score": "AS Monaco 1 - 3 Metz"
+                    }
+                ],
+                "summary": {
+                    "Metz_wins": "2",
+                    "Monaco_wins": "4",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Metz": "34%",
+                    "Monaco": "66%"
+                },
+                "corners": {
+                    "Metz": "5",
+                    "Monaco": "9"
+                },
+                "crosses": {
+                    "Metz": "10",
+                    "Monaco": "6"
+                },
+                "fouls": {
+                    "Metz": "10",
+                    "Monaco": "15"
+                },
+                "goalkeeper_saves": {
+                    "Metz": "1",
+                    "Monaco": "0"
+                },
+                "offsides": {
+                    "Metz": "1",
+                    "Monaco": "1"
+                },
+                "shots_blocked": {
+                    "Metz": "2",
+                    "Monaco": "5"
+                },
+                "shots_off_target": {
+                    "Metz": "10",
+                    "Monaco": "7"
+                },
+                "shots_on_target": {
+                    "Metz": "1",
+                    "Monaco": "3"
+                },
+                "yellow_cards": {
+                    "Metz": "0",
+                    "Monaco": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/metz-vs-monaco-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/91.webp",
+                    "name": "Monaco",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/112.webp",
+                    "name": "Metz",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/metz-vs-monaco-2026-05-03-BY7A.webp",
+            "title": "Metz vs Monaco"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Nice vs Metz highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on May 17, 2026. Tense Encounter Sees Nice and Metz Share the Spoils The Ligue 1 fixture between Nice and Metz on May 17, 2026, unfolded as a tactical battle where clear-cut chances were a rarity for much of the contest. Both sides showed a clear desire to claim victory, but resolute defending and a lack of cutting edge in the final third meant the deadlock remained unbroken for extended periods. A First Half of Tactical Battles The opening 45 minutes were characterized by a fierce midfield struggle, with both teams attempting to establish their authority. There were several attempts to create danger from set-pieces, with corners taken by players such as Jonathan Clauss and Ali Abdi for Nice , and Bouna Sarr and Maxime Colin for Metz . However, none of these deliveries resulted in concrete goal threats, as the respective defenses remained alert and organized. Possession was evenly shared, reflecting the balance on the pitch. Nice sought to build more elaborate attacks, while Metz appeared more inclined to exploit quick transitions, albeit without significant success. As the first half drew to a close, the referee awarded a goal kick to Metz following a corner from Nice , and the game entered halftime with the scoreline unchanged and everything to play for in the second half. Second Half: Tactical Adjustments and Increased Intensity The restart of the match saw tactical substitutions implemented by both teams, with Charles Vanhoutte making way for Hicham Boudaoui and Kail Boudache being replaced by Mohamed-Ali Cho for Nice . Metz also introduced fresh legs later in the game, with Alpha Toure leaving the field for Urie-Michel Mboula , and Jonathan Clauss being substituted by Kevin Carlos . These changes were aimed at injecting new energy and different attacking perspectives. Despite the substitutions, the game continued to be a tactical chess match. Both teams continued to exchange corners and probe for openings in the opposition's defense. Nice looked to press their advantage with corners from Mohamed-Ali Cho and Ali Abdi , while Metz responded with plays involving Gauthier Hein and Bouna Sarr . The match also saw some robust challenges, with yellow cards issued to Elye Wahi for a rough foul and to Boubacar Traore for pushing an opponent. Kojo Peprah Oppong also entered the referee's book for a strong tackle. Late Drama and Final Whistle In the closing stages, the tempo increased as both sides pushed harder in search of a match-winning goal. Nice saw Elye Wahi replaced by Tom Louchet , and Sofiane Diop made way for Isak Jansson . Metz also brought on Jean-Philippe Gbamin for Believe Munongo . Nice had a chance through Isak Jansson , whose shot was held by Jonathan Fischer . Metz also threatened, with Jean-Philippe Gbamin sending a effort wide. In the dying moments, Ali Abdi had a header that went narrowly off target, and Metz had their opportunities, but to no avail. The match concluded with a goal kick for Metz after a final push, and the final whistle confirmed a goalless draw, a result that mirrored the evenly contested nature and the determined fight displayed by both teams on the pitch. Full-time.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Wahi",
+                    "team": "Nice",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Traore",
+                    "team": "Metz",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. P. Oppong",
+                    "team": "Nice",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Nice 0 - 0 Metz"
+                        }
+                    ],
+                    "team": "Metz"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "17/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Nice 0 - 0 Metz"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Strasbourg 0 - 2 Nice"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Lille 0 - 0 Nice"
+                        }
+                    ],
+                    "team": "Nice"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "09/11/2025",
+                        "teams_and_score": "Metz 2 - 1 Nice"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "27/01/2024",
+                        "teams_and_score": "Nice 1 - 0 Metz"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "23/01/2022",
+                        "teams_and_score": "Metz 0 - 2 Nice"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "21/02/2021",
+                        "teams_and_score": "Nice 1 - 2 Metz"
+                    },
+                    {
+                        "competition": "Ligue 1 19/20",
+                        "date": "07/12/2019",
+                        "teams_and_score": "Nice 4 - 1 Metz"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "27/01/2018",
+                        "teams_and_score": "Metz 2 - 1 Nice"
+                    }
+                ],
+                "summary": {
+                    "Metz_wins": "3",
+                    "Nice_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Metz": "51%",
+                    "Nice": "49%"
+                },
+                "corners": {
+                    "Metz": "4",
+                    "Nice": "10"
+                },
+                "crosses": {
+                    "Metz": "7",
+                    "Nice": "11"
+                },
+                "fouls": {
+                    "Metz": "15",
+                    "Nice": "11"
+                },
+                "goalkeeper_saves": {
+                    "Metz": "4",
+                    "Nice": "4"
+                },
+                "offsides": {
+                    "Metz": "2",
+                    "Nice": "2"
+                },
+                "shots_blocked": {
+                    "Metz": "6",
+                    "Nice": "7"
+                },
+                "shots_off_target": {
+                    "Metz": "6",
+                    "Nice": "11"
+                },
+                "shots_on_target": {
+                    "Metz": "4",
+                    "Nice": "4"
+                },
+                "yellow_cards": {
+                    "Metz": "1",
+                    "Nice": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/nice-vs-metz-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/112.webp",
+                    "name": "Metz",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/84.webp",
+                    "name": "Nice",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/nice-vs-metz-2026-05-17-KmjH.webp",
+            "title": "Nice vs Metz"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Feb 21, 2026",
+            "description": "Watch Paris Saint Germain vs Metz highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on February 21, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "W. Zaïre-Emery",
+                    "event_type": "Goal",
+                    "player": "D. Doué",
+                    "score_update": "1 - 0",
+                    "team": "Paris Saint Germain",
+                    "time": "3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Gbamin",
+                    "team": "Metz",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Traore",
+                    "team": "Metz",
+                    "time": "45'"
+                },
+                {
+                    "assist": "G. Ramos",
+                    "event_type": "Goal",
+                    "player": "B. Barcola",
+                    "score_update": "2 - 0",
+                    "team": "Paris Saint Germain",
+                    "time": "45+3'"
+                },
+                {
+                    "assist": "L. Hernández",
+                    "event_type": "Goal",
+                    "player": "G. Ramos",
+                    "score_update": "3 - 0",
+                    "team": "Paris Saint Germain",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "21/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 3 - 0 Metz"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "11/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Metz 0 - 4 Montpellier"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "04/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Lorient 1 - 1 Metz"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "20/12/2025",
+                            "result": "W",
+                            "teams_and_score": "ASC Biesheim 0 - 3 Metz"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "13/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Metz 2 - 3 Paris Saint-Germain"
+                        }
+                    ],
+                    "team": "Metz"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "21/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 3 - 0 Metz"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "17/02/2026",
+                            "result": "W",
+                            "teams_and_score": "AS Monaco 2 - 3 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "13/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Rennes 3 - 1 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris Saint-Germain 1 - 1 Newcastle United"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "23/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Auxerre 0 - 1 Paris Saint-Germain"
+                        }
+                    ],
+                    "team": "Paris Saint Germain"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "13/12/2025",
+                        "teams_and_score": "Metz 2 - 3 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "19/05/2024",
+                        "teams_and_score": "Metz 0 - 2 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "21/05/2022",
+                        "teams_and_score": "Paris Saint-Germain 5 - 0 Metz"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "24/04/2021",
+                        "teams_and_score": "Metz 1 - 3 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Ligue 1 19/20",
+                        "date": "30/08/2019",
+                        "teams_and_score": "Metz 0 - 2 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "10/03/2018",
+                        "teams_and_score": "Paris Saint-Germain 5 - 0 Metz"
+                    }
+                ],
+                "summary": {
+                    "Metz_wins": "2",
+                    "Paris Saint Germain_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Metz": "33%",
+                    "Paris Saint Germain": "67%"
+                },
+                "corners": {
+                    "Metz": "1",
+                    "Paris Saint Germain": "4"
+                },
+                "crosses": {
+                    "Metz": "3",
+                    "Paris Saint Germain": "4"
+                },
+                "fouls": {
+                    "Metz": "15",
+                    "Paris Saint Germain": "9"
+                },
+                "goalkeeper_saves": {
+                    "Metz": "4",
+                    "Paris Saint Germain": "0"
+                },
+                "offsides": {
+                    "Metz": "2",
+                    "Paris Saint Germain": "3"
+                },
+                "shots_blocked": {
+                    "Metz": "1",
+                    "Paris Saint Germain": "5"
+                },
+                "shots_off_target": {
+                    "Metz": "2",
+                    "Paris Saint Germain": "5"
+                },
+                "shots_on_target": {
+                    "Metz": "0",
+                    "Paris Saint Germain": "7"
+                },
+                "yellow_cards": {
+                    "Metz": "2",
+                    "Paris Saint Germain": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/PSG_v_FC_Metz_2026_02_21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/112.webp",
+                    "name": "Metz",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/85.webp",
+                    "name": "Paris Saint Germain",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/psg-v-fc-metz-2026-02-21-XVj4.webp",
+            "title": "Paris SG vs FC Metz"
+        }
+    ]
+}

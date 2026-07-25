@@ -1,0 +1,219 @@
+{
+    "team": "Orange County FC",
+    "team_logo": "https://img.refooty.com/logo/teams/9034.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "USL Championship",
+            "competition_cover": "",
+            "date": "Jun 13, 2026",
+            "description": "Watch New Mexico United vs Orange County FC highlights and goals from USL Championship on ReFooty: Football Highlights Hub. Match played on June 13, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "N. Hämäläinen",
+                    "event_type": "Goal",
+                    "player": "K. Keller",
+                    "score_update": "1 - 0",
+                    "team": "New Mexico United",
+                    "time": "1'"
+                },
+                {
+                    "assist": "C. Hegardt",
+                    "event_type": "Goal",
+                    "player": "N. Benalcazar",
+                    "score_update": "1 - 1",
+                    "team": "Orange County FC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Sylla",
+                    "team": "Orange County FC",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "USL Championship",
+                            "date": "14/06/2026",
+                            "result": "D",
+                            "teams_and_score": "New Mexico United 1 - 1 Orange County SC"
+                        },
+                        {
+                            "competition": "USL Cup: Group 2",
+                            "date": "07/06/2026",
+                            "result": "L",
+                            "teams_and_score": "AV Alta 2 - 1 Orange County SC"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "24/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Orange County SC 3 - 2 Oakland Roots"
+                        },
+                        {
+                            "competition": "USL Cup: Group 2",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Phoenix Rising FC 2 - 1 Orange County SC"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "09/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Colorado Springs Switchbacks FC 2 - 2 Orange County SC"
+                        }
+                    ],
+                    "team": "Orange County FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "USL Championship",
+                            "date": "14/06/2026",
+                            "result": "D",
+                            "teams_and_score": "New Mexico United 1 - 1 Orange County SC"
+                        },
+                        {
+                            "competition": "USL Cup: Group 2",
+                            "date": "07/06/2026",
+                            "result": "W",
+                            "teams_and_score": "New Mexico United 4 - 0 Phoenix Rising FC"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "30/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Hartford Athletic 0 - 0 New Mexico United"
+                        },
+                        {
+                            "competition": "USL Cup: Group 2",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Colorado Springs Switchbacks FC 4 - 0 New Mexico United"
+                        },
+                        {
+                            "competition": "USL Championship",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "New Mexico United 3 - 1 Las Vegas Lights FC"
+                        }
+                    ],
+                    "team": "New Mexico United"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "USL Championship",
+                        "date": "05/04/2026",
+                        "teams_and_score": "Orange County SC 0 - 1 New Mexico United"
+                    },
+                    {
+                        "competition": "USL Championship: Play-off",
+                        "date": "09/11/2025",
+                        "teams_and_score": "New Mexico United 2 - 1 Orange County SC"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "12/10/2025",
+                        "teams_and_score": "New Mexico United 3 - 3 Orange County SC"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "20/10/2024",
+                        "teams_and_score": "Orange County SC 0 - 0 New Mexico United"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "30/07/2023",
+                        "teams_and_score": "Orange County SC 1 - 0 New Mexico United"
+                    },
+                    {
+                        "competition": "USL Championship",
+                        "date": "05/06/2022",
+                        "teams_and_score": "Orange County SC 1 - 2 New Mexico United"
+                    }
+                ],
+                "summary": {
+                    "New Mexico United_wins": "3",
+                    "Orange County FC_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "New Mexico United": "63%",
+                    "Orange County FC": "37%"
+                },
+                "corners": {
+                    "New Mexico United": "3",
+                    "Orange County FC": "4"
+                },
+                "fouls": {
+                    "New Mexico United": "18",
+                    "Orange County FC": "9"
+                },
+                "goalkeeper_saves": {
+                    "New Mexico United": "0",
+                    "Orange County FC": "2"
+                },
+                "offsides": {
+                    "New Mexico United": "1",
+                    "Orange County FC": "2"
+                },
+                "shots_blocked": {
+                    "New Mexico United": "4",
+                    "Orange County FC": "5"
+                },
+                "shots_off_target": {
+                    "New Mexico United": "6",
+                    "Orange County FC": "9"
+                },
+                "shots_on_target": {
+                    "New Mexico United": "3",
+                    "Orange County FC": "1"
+                },
+                "yellow_cards": {
+                    "New Mexico United": "0",
+                    "Orange County FC": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/new-mexico-united-vs-orange-county-fc-2026-06-13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/9034.webp",
+                    "name": "Orange County FC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4003.webp",
+                    "name": "New Mexico United",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/new-mexico-united-vs-orange-county-fc-2026-06-13-YqMA.webp",
+            "title": "New Mexico United vs Orange County FC"
+        }
+    ]
+}

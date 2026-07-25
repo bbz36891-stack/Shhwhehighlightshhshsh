@@ -1,0 +1,42 @@
+{
+    "team": "shrewsbury town",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Apr 7, 2026",
+            "description": "Watch Bromley vs Shrewsbury Town highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on April 7, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/bromley-shrewsbury-town-2026-04-07-vn.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bromley-shrewsbury-town-2026-04-07-vn-5BRl.webp",
+            "title": "bromley - shrewsbury town"
+        }
+    ]
+}

@@ -1,0 +1,2360 @@
+{
+    "team": "New York City FC",
+    "team_logo": "https://img.refooty.com/logo/teams/1604.webp",
+    "total_matches": 11,
+    "matches": [
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Jul 23, 2026",
+            "description": "Watch Columbus Crew vs New York City FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on July 23, 2026. The clash between Columbus Crew and New York City FC proved to be a high-stakes encounter, with both sides leaving everything on the pitch in a display of true grit. A tactical battle Taking place on July 23, 2026 , the match was defined by early drama when Nicolas Fernandez stepped up to convert a penalty in the 28th minute, handing New York City FC an early lead. The first half remained a tight affair, but the second half saw the intensity boil over with several yellow cards issued as both teams struggled to maintain control. The game was marked by frequent tactical changes as managers sought to shift the momentum. Late drama in the closing stages New York City FC seemingly cemented their hold on the game at the 70th minute mark when Agustin Ojeda found the net, assisted by Talles Magno . The Columbus Crew refused to back down, however, and their persistence paid off in stoppage time when Daniel Gazdag successfully converted a penalty in the 93rd minute. While the hosts pushed for an equalizer in the dying seconds, the visitors held firm, ensuring they walked away with a hard-fought victory in this MLS fixture.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "N. F. Mercau",
+                    "score_update": "0 - 1",
+                    "team": "New York City FC",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Gray",
+                    "team": "New York City FC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Thiare",
+                    "team": "Columbus Crew",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Arfsten",
+                    "team": "Columbus Crew",
+                    "time": "60'"
+                },
+                {
+                    "assist": "T. Magno",
+                    "event_type": "Goal",
+                    "player": "A. Ojeda",
+                    "score_update": "0 - 2",
+                    "team": "New York City FC",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Habroune",
+                    "team": "Columbus Crew",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Gazdag",
+                    "score_update": "1 - 2",
+                    "team": "Columbus Crew",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Sands",
+                    "team": "New York City FC",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Columbus Crew 1 - 2 New York City FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "20/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Columbus Crew 1 - 0 New York City FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "New York Red Bulls 1 - 1 New York City FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "29/04/2026",
+                            "result": "W",
+                            "teams_and_score": "New York Red Bulls 1 - 3 New York City FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "CF Montreal 1 - 0 New York City FC"
+                        }
+                    ],
+                    "team": "New York City FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Columbus Crew 1 - 2 New York City FC"
+                        },
+                        {
+                            "competition": "Club Friendlies 2026",
+                            "date": "12/07/2026",
+                            "result": "D",
+                            "teams_and_score": "Columbus Crew 1 - 1 Burnley"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Columbus Crew 2 - 0 Atlanta United"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "20/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Columbus Crew 1 - 0 New York City FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Philadelphia Union 1 - 1 Columbus Crew"
+                        }
+                    ],
+                    "team": "Columbus Crew"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "US Open Cup",
+                        "date": "20/05/2026",
+                        "teams_and_score": "Columbus Crew 1 - 0 New York City FC"
+                    },
+                    {
+                        "competition": "MLS",
+                        "date": "10/05/2026",
+                        "teams_and_score": "New York City FC 3 - 0 Columbus Crew"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "17/09/2025",
+                        "teams_and_score": "New York City FC 3 - 2 Columbus Crew"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "31/08/2024",
+                        "teams_and_score": "Columbus Crew 4 - 2 New York City FC"
+                    },
+                    {
+                        "competition": "",
+                        "date": "17/08/2024",
+                        "teams_and_score": "Columbus Crew 1 - 1 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "14/06/2024",
+                        "teams_and_score": "New York City FC 2 - 3 Columbus Crew"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "08/07/2023",
+                        "teams_and_score": "Columbus Crew 1 - 1 New York City FC"
+                    }
+                ],
+                "summary": {
+                    "Columbus Crew_wins": "4",
+                    "New York City FC_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Columbus Crew": "59%",
+                    "New York City FC": "41%"
+                },
+                "corners": {
+                    "Columbus Crew": "3",
+                    "New York City FC": "0"
+                },
+                "fouls": {
+                    "Columbus Crew": "7",
+                    "New York City FC": "11"
+                },
+                "goalkeeper_saves": {
+                    "Columbus Crew": "3",
+                    "New York City FC": "3"
+                },
+                "shots_blocked": {
+                    "Columbus Crew": "1",
+                    "New York City FC": "1"
+                },
+                "shots_off_target": {
+                    "Columbus Crew": "6",
+                    "New York City FC": "2"
+                },
+                "shots_on_target": {
+                    "Columbus Crew": "4",
+                    "New York City FC": "5"
+                },
+                "yellow_cards": {
+                    "Columbus Crew": "3",
+                    "New York City FC": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/columbus-crew-vs-new-york-city-fc-2026-07-23_X2pI8.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1604.webp",
+                    "name": "New York City FC",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1613.webp",
+                    "name": "Columbus Crew",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/columbus-crew-vs-new-york-city-fc-2026-07-23-Y8YW.webp",
+            "title": "Columbus Crew vs New York City FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Nov 30, 2025",
+            "description": "Watch Inter Miami vs New York City FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on November 30, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/inter-miami-cf-vs-new-york-city-fc-full-match-highlights-2025-audi-mls-cup-playoffsupgyv_laVit.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/inter-miami-vs-new-york-city-fc-2025-11-30-0wLJ.webp",
+            "title": "Inter Miami vs New York City FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Feb 23, 2026",
+            "description": "Watch LA Galaxy vs New York City FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on February 23, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "M. Reus",
+                    "event_type": "Goal",
+                    "player": "J. Klauss",
+                    "score_update": "1 - 0",
+                    "team": "LA Galaxy",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Garces",
+                    "team": "LA Galaxy",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Gray",
+                    "team": "New York City FC",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Trewin",
+                    "team": "New York City FC",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Aude",
+                    "team": "LA Galaxy",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "C. Garces",
+                    "team": "LA Galaxy",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Fernández Mercau",
+                    "score_update": "1 - 1",
+                    "team": "New York City FC",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Parks",
+                    "team": "New York City FC",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "23/02/2026",
+                            "result": "D",
+                            "teams_and_score": "LA Galaxy 1 - 1 New York City FC"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "29/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Inter Miami CF 5 - 1 New York City FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "18/10/2025",
+                            "result": "L",
+                            "teams_and_score": "New York City FC 1 - 2 Seattle Sounders FC"
+                        }
+                    ],
+                    "team": "New York City FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "23/02/2026",
+                            "result": "D",
+                            "teams_and_score": "LA Galaxy 1 - 1 New York City FC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "20/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Sporting San Miguelito 1 - 1 LA Galaxy"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "19/10/2025",
+                            "result": "W",
+                            "teams_and_score": "LA Galaxy 2 - 1 Minnesota United"
+                        },
+                        {
+                            "competition": "Campeones Cup",
+                            "date": "02/10/2025",
+                            "result": "L",
+                            "teams_and_score": "LA Galaxy 2 - 3 Toluca"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "28/09/2025",
+                            "result": "W",
+                            "teams_and_score": "LA Galaxy 4 - 1 Sporting Kansas City"
+                        }
+                    ],
+                    "team": "LA Galaxy"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2024",
+                        "date": "20/06/2024",
+                        "teams_and_score": "LA Galaxy 2 - 0 New York City FC"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "27/02/2022",
+                        "teams_and_score": "LA Galaxy 1 - 0 New York City FC"
+                    },
+                    {
+                        "competition": "Major League Soccer",
+                        "date": "11/05/2019",
+                        "teams_and_score": "LA Galaxy 0 - 2 New York City FC"
+                    }
+                ],
+                "summary": {
+                    "LA Galaxy_wins": "2",
+                    "New York City FC_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "LA Galaxy": "36%",
+                    "New York City FC": "64%"
+                },
+                "corners": {
+                    "LA Galaxy": "1",
+                    "New York City FC": "2"
+                },
+                "fouls": {
+                    "LA Galaxy": "15",
+                    "New York City FC": "16"
+                },
+                "goalkeeper_saves": {
+                    "LA Galaxy": "0",
+                    "New York City FC": "5"
+                },
+                "offsides": {
+                    "LA Galaxy": "1",
+                    "New York City FC": "4"
+                },
+                "red_cards": {
+                    "LA Galaxy": "1",
+                    "New York City FC": "0"
+                },
+                "shots_off_target": {
+                    "LA Galaxy": "2",
+                    "New York City FC": "7"
+                },
+                "shots_on_target": {
+                    "LA Galaxy": "6",
+                    "New York City FC": "1"
+                },
+                "yellow_cards": {
+                    "LA Galaxy": "2",
+                    "New York City FC": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/la-galaxy-new-york-city-fc-2026-02-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1604.webp",
+                    "name": "New York City FC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3997.webp",
+                    "name": "LA Galaxy",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/la-galaxy-new-york-city-fc-2026-02-23-Jcby.webp",
+            "title": "LA Galaxy - New York City FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 19, 2026",
+            "description": "Watch New York City FC vs Charlotte highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 19, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Bronico",
+                    "team": "Charlotte",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Raul",
+                    "team": "New York City FC",
+                    "time": "16'"
+                },
+                {
+                    "assist": "H. Toffolo",
+                    "event_type": "Goal",
+                    "player": "I. Gorno",
+                    "score_update": "0 - 1",
+                    "team": "Charlotte",
+                    "time": "54'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Privett",
+                    "team": "Charlotte",
+                    "time": "68'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Byrne",
+                    "team": "Charlotte",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Kahlina",
+                    "team": "Charlotte",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Parks",
+                    "team": "New York City FC",
+                    "time": "85'"
+                },
+                {
+                    "assist": "P. Biel",
+                    "event_type": "Goal",
+                    "player": "K. Vargas",
+                    "score_update": "0 - 2",
+                    "team": "Charlotte",
+                    "time": "90'"
+                },
+                {
+                    "assist": "H. Wolf",
+                    "event_type": "Goal",
+                    "player": "N. F. Mercau",
+                    "score_update": "1 - 2",
+                    "team": "New York City FC",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "New York City FC 1 - 2 Charlotte"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Charlotte 6 - 0 Charlotte Independence"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 2 Nashville SC"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "08/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Charlotte 1 - 3 New York City FC"
+                        }
+                    ],
+                    "team": "Charlotte"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "New York City FC 1 - 2 Charlotte"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Westchester SC 2 - 5 New York City FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vancouver Whitecaps 2 - 0 New York City FC"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "29/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Inter Miami CF 5 - 1 New York City FC"
+                        }
+                    ],
+                    "team": "New York City FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS: Play-off 2025",
+                        "date": "08/11/2025",
+                        "teams_and_score": "Charlotte 1 - 3 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "20/09/2025",
+                        "teams_and_score": "New York City FC 2 - 0 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "27/04/2024",
+                        "teams_and_score": "New York City FC 2 - 1 Charlotte"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "05/07/2023",
+                        "teams_and_score": "New York City FC 1 - 1 Charlotte"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "10/09/2022",
+                        "teams_and_score": "Charlotte 1 - 0 New York City FC"
+                    }
+                ],
+                "summary": {
+                    "Charlotte_wins": "1",
+                    "New York City FC_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Charlotte": "36%",
+                    "New York City FC": "64%"
+                },
+                "corners": {
+                    "Charlotte": "1",
+                    "New York City FC": "6"
+                },
+                "fouls": {
+                    "Charlotte": "7",
+                    "New York City FC": "8"
+                },
+                "goalkeeper_saves": {
+                    "Charlotte": "6",
+                    "New York City FC": "1"
+                },
+                "offsides": {
+                    "Charlotte": "0",
+                    "New York City FC": "2"
+                },
+                "shots_blocked": {
+                    "Charlotte": "1",
+                    "New York City FC": "7"
+                },
+                "shots_off_target": {
+                    "Charlotte": "1",
+                    "New York City FC": "7"
+                },
+                "shots_on_target": {
+                    "Charlotte": "3",
+                    "New York City FC": "7"
+                },
+                "yellow_cards": {
+                    "Charlotte": "4",
+                    "New York City FC": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/new-york-city-fc-charlotte-fc-2026-04-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/18310.webp",
+                    "name": "Charlotte",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1604.webp",
+                    "name": "New York City FC",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/new-york-city-fc-charlotte-fc-2026-04-19-npL3.webp",
+            "title": "New York City FC - Charlotte FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 10, 2026",
+            "description": "Watch New York City FC vs Columbus Crew highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 10, 2026. The lights of the MLS stage were shining bright on May 10, 2026, as New York City FC hosted Columbus Crew in a clash filled with tactical intrigue. Both sides entered the pitch looking to establish dominance in a match that would ultimately be defined by individual clinical excellence. Explosive Opening at Yankee Stadium The contest began with immediate high energy, and it didn't take long for New York City FC to find their rhythm. In the 12th minute, the deadlock was broken when Agustin Ojeda delivered a precise ball to Hannes Wolf , who made no mistake in putting the home side ahead. The momentum stayed firmly with the hosts, and just five minutes later, Nicolas Fernandez turned provider, setting up Hannes Wolf for his second goal of the afternoon in the 17th minute. This early double strike on May 10, 2026, left Columbus Crew searching for answers as they struggled to contain the fluid attacking movements. Second Half Battle and the Final Blow As the second half commenced, Columbus Crew attempted to claw their way back into the game, but frustration began to mount. Taha Habroune received a yellow card in the 63rd minute as the physical intensity of the match increased. However, the night belonged to one man. In the 67th minute, Nicolas Fernandez again found Hannes Wolf , who completed a stunning hat-trick to effectively end the contest. The clinical nature of the finishing was the difference-maker, leaving the visitors with a mountain too high to climb despite their tactical adjustments. Closing Stages and Tactical Shifts With the result largely secured, both managers looked to their benches to manage the closing stages. A flurry of substitutions saw players like Daniel Gazdag , Mohamed Farsi , and Amar Sejdic enter the fray for Columbus Crew , while New York City FC introduced fresh legs including Malachi Jones , Jonathan Shore , and Maximo Carrizo . The match concluded with New York City FC maintaining their composure until the final whistle at 90+5 minutes, securing a memorable victory fueled by Hannes Wolf 's heroics.",
+            "events_timeline": [
+                {
+                    "assist": "A. Ojeda",
+                    "event_type": "Goal",
+                    "player": "H. Wolf",
+                    "score_update": "1 - 0",
+                    "team": "New York City FC",
+                    "time": "1'"
+                },
+                {
+                    "assist": "N. F. Mercau",
+                    "event_type": "Goal",
+                    "player": "H. Wolf",
+                    "score_update": "2 - 0",
+                    "team": "New York City FC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Habroune",
+                    "team": "Columbus Crew",
+                    "time": "46'"
+                },
+                {
+                    "assist": "N. F. Mercau",
+                    "event_type": "Goal",
+                    "player": "H. Wolf",
+                    "score_update": "3 - 0",
+                    "team": "New York City FC",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "New York City FC 3 - 0 Columbus Crew"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "29/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Columbus Crew 4 - 1 One Knoxville SC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Columbus Crew 2 - 0 Philadelphia Union"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Richmond Kickers 0 - 3 Columbus Crew"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "12/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Columbus Crew 1 - 1 Orlando City"
+                        }
+                    ],
+                    "team": "Columbus Crew"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "New York City FC 3 - 0 Columbus Crew"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "29/04/2026",
+                            "result": "W",
+                            "teams_and_score": "New York Red Bulls 1 - 3 New York City FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "CF Montreal 1 - 0 New York City FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Westchester SC 2 - 5 New York City FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vancouver Whitecaps 2 - 0 New York City FC"
+                        }
+                    ],
+                    "team": "New York City FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "17/09/2025",
+                        "teams_and_score": "New York City FC 3 - 2 Columbus Crew"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "31/08/2024",
+                        "teams_and_score": "Columbus Crew 4 - 2 New York City FC"
+                    },
+                    {
+                        "competition": "",
+                        "date": "17/08/2024",
+                        "teams_and_score": "Columbus Crew 1 - 1 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "14/06/2024",
+                        "teams_and_score": "New York City FC 2 - 3 Columbus Crew"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "08/07/2023",
+                        "teams_and_score": "Columbus Crew 1 - 1 New York City FC"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "06/08/2022",
+                        "teams_and_score": "Columbus Crew 3 - 2 New York City FC"
+                    },
+                    {
+                        "competition": "Major League Soccer 2021",
+                        "date": "30/07/2021",
+                        "teams_and_score": "New York City FC 4 - 1 Columbus Crew"
+                    }
+                ],
+                "summary": {
+                    "Columbus Crew_wins": "3",
+                    "New York City FC_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Columbus Crew": "58%",
+                    "New York City FC": "42%"
+                },
+                "corners": {
+                    "Columbus Crew": "8",
+                    "New York City FC": "3"
+                },
+                "fouls": {
+                    "Columbus Crew": "8",
+                    "New York City FC": "7"
+                },
+                "goalkeeper_saves": {
+                    "Columbus Crew": "3",
+                    "New York City FC": "2"
+                },
+                "offsides": {
+                    "Columbus Crew": "5",
+                    "New York City FC": "6"
+                },
+                "shots_blocked": {
+                    "Columbus Crew": "5",
+                    "New York City FC": "1"
+                },
+                "shots_off_target": {
+                    "Columbus Crew": "4",
+                    "New York City FC": "2"
+                },
+                "shots_on_target": {
+                    "Columbus Crew": "2",
+                    "New York City FC": "6"
+                },
+                "yellow_cards": {
+                    "Columbus Crew": "1",
+                    "New York City FC": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/new-york-city-fc-columbus-crew-2026-05-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1613.webp",
+                    "name": "Columbus Crew",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1604.webp",
+                    "name": "New York City FC",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/new-york-city-fc-columbus-crew-2026-05-10-C1p6.webp",
+            "title": "New York City FC - Columbus Crew"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 3, 2026",
+            "description": "Watch New York City FC vs DC United highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 3, 2026. The lights of the city provided a dramatic backdrop for a clash of philosophies as New York City FC hosted D.C. United in a highly anticipated MLS fixture. With both teams looking to assert their dominance in the conference standings, the match promised intensity and high-stakes football from the opening whistle. Munteanu Breaks the Deadlock On May 3rd, 2026 , the atmosphere was electric as the referee signaled the start of a match defined by tactical discipline and clinical finishing. The early exchanges were characterized by a physical edge, with both sides testing the referee's patience in the middle of the park. Keisuke Kurokawa picked up the game's first yellow card in the 26th minute, a sign of the tightening tension. Just three minutes later, the breakthrough arrived for the visitors. Louis Munteanu found space in the final third and struck a precise effort to put DC United ahead, shifting the momentum firmly in their favor. The opening goal forced the hosts into an early tactical reshuffle, as Aiden O’Neill was withdrawn in the 36th minute to make way for Andres Perea . Despite the change, NYCFC struggled to find a rhythmic response before the break. As the first half drew to a close, the temperature on the pitch continued to rise, resulting in a yellow card for Silvan Hefti deep into stoppage time as the visitors took a narrow lead into the dressing rooms. Tactical Battles and Penalty Drama The second half began with both managers looking to their benches to influence the flow of the match . DC United introduced Aaron Herrera and Nikola Markovic on the hour mark to solidify their shape, while the hosts responded shortly after by bringing on Keaton Parks and Hannes Wolf . Despite the fresh legs for the New York side, the visitors remained the more clinical outfit. The pressure eventually boiled over in the 70th minute when Peglow was cautioned for a mistimed challenge. The defining moment of the contest arrived in the 75th minute when the referee pointed to the spot following a foul in the area. Louis Munteanu stepped up with composure, firing the penalty home to secure his second goal of the night and double the advantage. With a two-goal cushion, the visitors began to manage the clock, replacing their star man Munteanu with Jacob Murrell to provide fresh energy in the defensive phase. Late Resistance and Closing Discipline The final fifteen minutes were a stop-start affair as the referee worked hard to maintain control over a fraying contest. Nicolas Fernandez Mercau entered the book for the hosts in the 80th minute, followed by several tactical substitutions as NYCFC threw on Jonathan Shore and Seymour Reid in a desperate attempt to salvage a result. However, the organized DC United backline refused to buckle under the late pressure. In a lengthy period of stoppage time, Jacob Murrell picked up a yellow card for a cynical foul, but it did little to dampen the spirits of the traveling side. When the referee eventually blew the final whistle after ten minutes of added time, DC United had successfully navigated a difficult away trip to claim all three points. It was a professional performance that highlighted their clinical edge in front of goal and their ability to thrive in a high-pressure sports environment.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Kurokawa",
+                    "team": "DC United",
+                    "time": "26'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Munteanu",
+                    "score_update": "0 - 1",
+                    "team": "DC United",
+                    "time": "29'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Hefti",
+                    "team": "DC United",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Peglow",
+                    "team": "DC United",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Munteanu",
+                    "score_update": "0 - 2",
+                    "team": "DC United",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. F. Mercau",
+                    "team": "New York City FC",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Murrell",
+                    "team": "DC United",
+                    "time": "90+3'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "New York City FC 0 - 2 DC United"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "15/04/2026",
+                            "result": "D",
+                            "teams_and_score": "DC United 3 - 3 One Knoxville SC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "New England Revolution 1 - 0 DC United"
+                        }
+                    ],
+                    "team": "DC United"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "New York City FC 0 - 2 DC United"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "29/04/2026",
+                            "result": "W",
+                            "teams_and_score": "New York Red Bulls 1 - 3 New York City FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "CF Montreal 1 - 0 New York City FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Westchester SC 2 - 5 New York City FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vancouver Whitecaps 2 - 0 New York City FC"
+                        }
+                    ],
+                    "team": "New York City FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "30/08/2025",
+                        "teams_and_score": "New York City FC 1 - 2 DC United"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "14/09/2024",
+                        "teams_and_score": "DC United 1 - 1 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "07/10/2023",
+                        "teams_and_score": "DC United 2 - 0 New York City FC"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "01/09/2022",
+                        "teams_and_score": "New York City FC 1 - 2 DC United"
+                    },
+                    {
+                        "competition": "Major League Soccer 2021",
+                        "date": "23/10/2021",
+                        "teams_and_score": "New York City FC 6 - 0 DC United"
+                    }
+                ],
+                "summary": {
+                    "DC United_wins": "3",
+                    "New York City FC_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "DC United": "27%",
+                    "New York City FC": "73%"
+                },
+                "corners": {
+                    "DC United": "3",
+                    "New York City FC": "6"
+                },
+                "fouls": {
+                    "DC United": "17",
+                    "New York City FC": "10"
+                },
+                "goalkeeper_saves": {
+                    "DC United": "4",
+                    "New York City FC": "5"
+                },
+                "offsides": {
+                    "DC United": "0",
+                    "New York City FC": "4"
+                },
+                "shots_blocked": {
+                    "DC United": "6",
+                    "New York City FC": "0"
+                },
+                "shots_off_target": {
+                    "DC United": "6",
+                    "New York City FC": "5"
+                },
+                "shots_on_target": {
+                    "DC United": "7",
+                    "New York City FC": "4"
+                },
+                "yellow_cards": {
+                    "DC United": "4",
+                    "New York City FC": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/new-york-city-fc-dc-united-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1615.webp",
+                    "name": "DC United",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1604.webp",
+                    "name": "New York City FC",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/new-york-city-fc-dc-united-2026-05-03-iJG6.webp",
+            "title": "New York City FC - D.C. United"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 23, 2026",
+            "description": "Watch New York City FC vs FC Cincinnati highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 23, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "N. F. Mercau",
+                    "score_update": "1 - 0",
+                    "team": "New York City FC",
+                    "time": "1'"
+                },
+                {
+                    "assist": "E. Echenique",
+                    "event_type": "Goal",
+                    "player": "K. Denkey",
+                    "score_update": "1 - 1",
+                    "team": "FC Cincinnati",
+                    "time": "16'"
+                },
+                {
+                    "assist": "M. Moralez",
+                    "event_type": "Goal",
+                    "player": "N. F. Mercau",
+                    "score_update": "2 - 1",
+                    "team": "New York City FC",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Flores",
+                    "team": "FC Cincinnati",
+                    "time": "50'"
+                },
+                {
+                    "assist": "A. O'Neill",
+                    "event_type": "Goal",
+                    "player": "A. Ojeda",
+                    "score_update": "3 - 1",
+                    "team": "New York City FC",
+                    "time": "53'"
+                },
+                {
+                    "assist": "G. Valenzuela",
+                    "event_type": "Goal",
+                    "player": "K. Denkey",
+                    "score_update": "3 - 2",
+                    "team": "FC Cincinnati",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Smith",
+                    "team": "FC Cincinnati",
+                    "time": "71'"
+                },
+                {
+                    "assist": "A. Ojeda",
+                    "event_type": "Goal",
+                    "player": "T. Magno",
+                    "score_update": "4 - 2",
+                    "team": "New York City FC",
+                    "time": "79'"
+                },
+                {
+                    "assist": "P. Bucha",
+                    "event_type": "Goal",
+                    "player": "A. Chirila",
+                    "score_update": "4 - 3",
+                    "team": "FC Cincinnati",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Evander",
+                    "score_update": "4 - 4",
+                    "team": "FC Cincinnati",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Anunga",
+                    "team": "FC Cincinnati",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "New York City FC 4 - 4 FC Cincinnati"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "20/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Tigres 5 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "New England Revolution 6 - 1 FC Cincinnati"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "13/03/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Cincinnati 3 - 0 Tigres"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 0 - 1 Toronto FC"
+                        }
+                    ],
+                    "team": "FC Cincinnati"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "New York City FC 4 - 4 FC Cincinnati"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Westchester SC 2 - 5 New York City FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vancouver Whitecaps 2 - 0 New York City FC"
+                        }
+                    ],
+                    "team": "New York City FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "23/08/2025",
+                        "teams_and_score": "FC Cincinnati 0 - 1 New York City FC"
+                    },
+                    {
+                        "competition": "MLS: Play-off",
+                        "date": "09/11/2024",
+                        "teams_and_score": "FC Cincinnati 0 - 0 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "02/10/2024",
+                        "teams_and_score": "New York City FC 3 - 2 FC Cincinnati"
+                    },
+                    {
+                        "competition": "Leagues Cup East Group 1",
+                        "date": "06/08/2024",
+                        "teams_and_score": "FC Cincinnati 4 - 2 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "23/03/2024",
+                        "teams_and_score": "FC Cincinnati 1 - 0 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "26/08/2023",
+                        "teams_and_score": "FC Cincinnati 3 - 0 New York City FC"
+                    }
+                ],
+                "summary": {
+                    "FC Cincinnati_wins": "3",
+                    "New York City FC_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "FC Cincinnati": "45%",
+                    "New York City FC": "55%"
+                },
+                "corners": {
+                    "FC Cincinnati": "4",
+                    "New York City FC": "2"
+                },
+                "fouls": {
+                    "FC Cincinnati": "9",
+                    "New York City FC": "7"
+                },
+                "goalkeeper_saves": {
+                    "FC Cincinnati": "5",
+                    "New York City FC": "1"
+                },
+                "offsides": {
+                    "FC Cincinnati": "2",
+                    "New York City FC": "3"
+                },
+                "shots_blocked": {
+                    "FC Cincinnati": "3",
+                    "New York City FC": "3"
+                },
+                "shots_off_target": {
+                    "FC Cincinnati": "3",
+                    "New York City FC": "5"
+                },
+                "shots_on_target": {
+                    "FC Cincinnati": "6",
+                    "New York City FC": "9"
+                },
+                "yellow_cards": {
+                    "FC Cincinnati": "3",
+                    "New York City FC": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/new-york-city-fc-fc-cincinnati-2026-04-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2242.webp",
+                    "name": "FC Cincinnati",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1604.webp",
+                    "name": "New York City FC",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/new-york-city-fc-fc-cincinnati-2026-04-23-noFD.webp",
+            "title": "New York City FC - FC Cincinnati"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 22, 2026",
+            "description": "Watch New York City FC vs Inter Miami highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 22, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "G. Lujan",
+                    "score_update": "0 - 1",
+                    "team": "Inter Miami",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "N. Fernández Mercau",
+                    "score_update": "1 - 1",
+                    "team": "New York City FC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Lujan",
+                    "team": "Inter Miami",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Micael",
+                    "team": "Inter Miami",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Fray",
+                    "team": "Inter Miami",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Allende",
+                    "team": "Inter Miami",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Moralez",
+                    "event_type": "Goal",
+                    "player": "A. Ojeda",
+                    "score_update": "2 - 1",
+                    "team": "New York City FC",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Moralez",
+                    "team": "New York City FC",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Messi",
+                    "score_update": "2 - 2",
+                    "team": "Inter Miami",
+                    "time": "91'"
+                },
+                {
+                    "assist": "N. Allen",
+                    "event_type": "Goal",
+                    "player": "Micael",
+                    "score_update": "2 - 3",
+                    "team": "Inter Miami",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "New York City FC 2 - 3 Inter Miami CF"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "18/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Inter Miami CF 1 - 1 Nashville SC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "14/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Charlotte 0 - 0 Inter Miami CF"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "11/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Nashville SC 0 - 0 Inter Miami CF"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "DC United 1 - 2 Inter Miami CF"
+                        }
+                    ],
+                    "team": "Inter Miami"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "New York City FC 2 - 3 Inter Miami CF"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "29/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Inter Miami CF 5 - 1 New York City FC"
+                        }
+                    ],
+                    "team": "New York City FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS: Play-off 2025",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Inter Miami CF 5 - 1 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "24/09/2025",
+                        "teams_and_score": "New York City FC 0 - 4 Inter Miami CF"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "21/09/2024",
+                        "teams_and_score": "New York City FC 1 - 1 Inter Miami CF"
+                    },
+                    {
+                        "competition": "Club Friendlies 2023",
+                        "date": "11/11/2023",
+                        "teams_and_score": "Inter Miami CF 1 - 2 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "30/09/2023",
+                        "teams_and_score": "Inter Miami CF 1 - 1 New York City FC"
+                    },
+                    {
+                        "competition": "MLS: Play-off 2022",
+                        "date": "17/10/2022",
+                        "teams_and_score": "New York City FC 3 - 0 Inter Miami CF"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "14/08/2022",
+                        "teams_and_score": "Inter Miami CF 3 - 2 New York City FC"
+                    }
+                ],
+                "summary": {
+                    "Inter Miami_wins": "3",
+                    "New York City FC_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Inter Miami": "54%",
+                    "New York City FC": "46%"
+                },
+                "corners": {
+                    "Inter Miami": "7",
+                    "New York City FC": "7"
+                },
+                "fouls": {
+                    "Inter Miami": "14",
+                    "New York City FC": "12"
+                },
+                "goalkeeper_saves": {
+                    "Inter Miami": "3",
+                    "New York City FC": "5"
+                },
+                "offsides": {
+                    "Inter Miami": "2",
+                    "New York City FC": "3"
+                },
+                "shots_blocked": {
+                    "Inter Miami": "5",
+                    "New York City FC": "4"
+                },
+                "shots_off_target": {
+                    "Inter Miami": "9",
+                    "New York City FC": "2"
+                },
+                "shots_on_target": {
+                    "Inter Miami": "8",
+                    "New York City FC": "5"
+                },
+                "yellow_cards": {
+                    "Inter Miami": "4",
+                    "New York City FC": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/new-york-city-fc-inter-miami-cf-2026-03-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/9568.webp",
+                    "name": "Inter Miami",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1604.webp",
+                    "name": "New York City FC",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/new-york-city-fc-inter-miami-cf-2026-03-22-OnJg.webp",
+            "title": "New York City FC - Inter Miami CF"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 7, 2026",
+            "description": "Watch New York City FC vs Orlando City SC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 7, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Reid-Brown",
+                    "team": "Orlando City SC",
+                    "time": "7'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "M. Crépeau",
+                    "team": "Orlando City SC",
+                    "time": "18'"
+                },
+                {
+                    "assist": "M. Moralez",
+                    "event_type": "Goal",
+                    "player": "A. Ojeda",
+                    "score_update": "1 - 0",
+                    "team": "New York City FC",
+                    "time": "22'"
+                },
+                {
+                    "assist": "M. Moralez",
+                    "event_type": "Goal",
+                    "player": "N. Fernández Mercau",
+                    "score_update": "2 - 0",
+                    "team": "New York City FC",
+                    "time": "42'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Moralez",
+                    "score_update": "3 - 0",
+                    "team": "New York City FC",
+                    "time": "45+8'"
+                },
+                {
+                    "assist": "T. Gray",
+                    "event_type": "Goal",
+                    "player": "K. Parks",
+                    "score_update": "4 - 0",
+                    "team": "New York City FC",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "K. Parks",
+                    "score_update": "5 - 0",
+                    "team": "New York City FC",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "New York City FC 5 - 0 Orlando City"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "23/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Chicago Fire 3 - 1 Orlando City"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "18/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Toronto FC 4 - 2 Orlando City"
+                        }
+                    ],
+                    "team": "Orlando City SC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "New York City FC 5 - 0 Orlando City"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "29/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Inter Miami CF 5 - 1 New York City FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "18/10/2025",
+                            "result": "L",
+                            "teams_and_score": "New York City FC 1 - 2 Seattle Sounders FC"
+                        }
+                    ],
+                    "team": "New York City FC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS 2025",
+                        "date": "17/07/2025",
+                        "teams_and_score": "Orlando City 1 - 2 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "20/07/2024",
+                        "teams_and_score": "Orlando City 1 - 1 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "20/09/2023",
+                        "teams_and_score": "New York City FC 2 - 0 Orlando City"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "02/10/2022",
+                        "teams_and_score": "New York City FC 2 - 1 Orlando City"
+                    },
+                    {
+                        "competition": "Major League Soccer 2021",
+                        "date": "25/07/2021",
+                        "teams_and_score": "New York City FC 5 - 0 Orlando City"
+                    }
+                ],
+                "summary": {
+                    "New York City FC_wins": "4",
+                    "Orlando City SC_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "New York City FC": "71%",
+                    "Orlando City SC": "29%"
+                },
+                "corners": {
+                    "New York City FC": "4",
+                    "Orlando City SC": "2"
+                },
+                "fouls": {
+                    "New York City FC": "16",
+                    "Orlando City SC": "7"
+                },
+                "goalkeeper_saves": {
+                    "New York City FC": "1",
+                    "Orlando City SC": "0"
+                },
+                "offsides": {
+                    "New York City FC": "5",
+                    "Orlando City SC": "0"
+                },
+                "red_cards": {
+                    "New York City FC": "0",
+                    "Orlando City SC": "1"
+                },
+                "shots_blocked": {
+                    "New York City FC": "3",
+                    "Orlando City SC": "2"
+                },
+                "shots_off_target": {
+                    "New York City FC": "5",
+                    "Orlando City SC": "1"
+                },
+                "shots_on_target": {
+                    "New York City FC": "5",
+                    "Orlando City SC": "1"
+                },
+                "yellow_cards": {
+                    "New York City FC": "0",
+                    "Orlando City SC": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/new-york-city-fc-orlando-city-2026-03-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1598.webp",
+                    "name": "Orlando City SC",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1604.webp",
+                    "name": "New York City FC",
+                    "score": "5"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/new-york-city-fc-orlando-city-2026-03-07-uPdf.webp",
+            "title": "New York City FC - Orlando City"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "May 17, 2026",
+            "description": "Watch New York Red Bulls vs New York City FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on May 17, 2026. The highly anticipated Hudson River Derby returned to the spotlight on May 17, 2026, as the New York Red Bulls hosted New York City FC in a high-stakes MLS clash. Both sides entered the pitch looking to assert local dominance in a fixture that always promises intensity and passion. First Half Grind and Ruvalcaba's Breakthrough The opening period was characterized by a physical battle in the midfield, with refereeing decisions coming thick and fast. Early yellow cards were issued to Raul for the hosts and Jahkeele Marshall-Rutty for the visitors, signaling the competitive nature of the derby. New York City FC faced an early tactical challenge when the influential Maxi Moralez was forced off due to injury in the 39th minute, replaced by Andres Perea . Despite the loss of their playmaker, the visitors struck a decisive blow just before the interval. In the 44th minute, Jorge Ruvalcaba found space in the final third and clinicaly converted his chance to put City ahead. The goal shifted the momentum significantly, leaving the Red Bulls to rethink their strategy during a lengthy seven minutes of first-half stoppage time. Perea Doubles the Advantage The second half began with renewed energy from the visitors, who looked to put the game out of reach. In the 52nd minute, their persistence paid off when Nicolas Fernandez provided a precise assist for Andres Perea to find the back of the net. The substitute’s impact was immediate, doubling the lead and placing the Red Bulls under immense pressure. As the clock ticked down, the match became increasingly fractured by fouls and substitutions. The Red Bulls introduced Tim Parker , Omar Valencia , and Gustav Berggren in the 69th minute to spark a comeback, but discipline became an issue. Nico Cavallo , Dylan Nealis , and Tim Parker all saw yellow as the home side struggled to breach the City defense. New York City FC managed the final stages professionally, securing a vital derby win when the final whistle blew after five minutes of added time.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Raul",
+                    "team": "New York City FC",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Marshall-Rutty",
+                    "team": "New York Red Bulls",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Ruvalcaba",
+                    "score_update": "1 - 0",
+                    "team": "New York Red Bulls",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Parks",
+                    "team": "New York City FC",
+                    "time": "46'"
+                },
+                {
+                    "assist": "N. F. Mercau",
+                    "event_type": "Goal",
+                    "player": "A. Perea",
+                    "score_update": "1 - 1",
+                    "team": "New York City FC",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Ruvalcaba",
+                    "team": "New York Red Bulls",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Cavallo",
+                    "team": "New York City FC",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Nealis",
+                    "team": "New York Red Bulls",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Parker",
+                    "team": "New York Red Bulls",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "New York Red Bulls 1 - 1 New York City FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "29/04/2026",
+                            "result": "W",
+                            "teams_and_score": "New York Red Bulls 1 - 3 New York City FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "CF Montreal 1 - 0 New York City FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Westchester SC 2 - 5 New York City FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vancouver Whitecaps 2 - 0 New York City FC"
+                        }
+                    ],
+                    "team": "New York City FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "16/05/2026",
+                            "result": "D",
+                            "teams_and_score": "New York Red Bulls 1 - 1 New York City FC"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "29/04/2026",
+                            "result": "L",
+                            "teams_and_score": "New York Red Bulls 1 - 3 New York City FC"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Cincinnati 2 - 0 New York Red Bulls"
+                        },
+                        {
+                            "competition": "US Open Cup",
+                            "date": "15/04/2026",
+                            "result": "W",
+                            "teams_and_score": "New York Red Bulls 3 - 1 Pittsburgh Riverhounds"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Inter Miami CF 2 - 2 New York Red Bulls"
+                        }
+                    ],
+                    "team": "New York Red Bulls"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "US Open Cup",
+                        "date": "29/04/2026",
+                        "teams_and_score": "New York Red Bulls 1 - 3 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "27/09/2025",
+                        "teams_and_score": "New York Red Bulls 2 - 3 New York City FC"
+                    },
+                    {
+                        "competition": "MLS: Play-off",
+                        "date": "23/11/2024",
+                        "teams_and_score": "New York City FC 0 - 2 New York Red Bulls"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "28/09/2024",
+                        "teams_and_score": "New York Red Bulls 1 - 5 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "16/09/2023",
+                        "teams_and_score": "New York City FC 0 - 0 New York Red Bulls"
+                    },
+                    {
+                        "competition": "Leagues Cup Play-offs",
+                        "date": "04/08/2023",
+                        "teams_and_score": "New York Red Bulls 1 - 0 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "13/05/2023",
+                        "teams_and_score": "New York Red Bulls 1 - 0 New York City FC"
+                    }
+                ],
+                "summary": {
+                    "New York City FC_wins": "4",
+                    "New York Red Bulls_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "New York City FC": "57%",
+                    "New York Red Bulls": "43%"
+                },
+                "corners": {
+                    "New York City FC": "3",
+                    "New York Red Bulls": "9"
+                },
+                "fouls": {
+                    "New York City FC": "10",
+                    "New York Red Bulls": "16"
+                },
+                "goalkeeper_saves": {
+                    "New York City FC": "3",
+                    "New York Red Bulls": "3"
+                },
+                "offsides": {
+                    "New York City FC": "3",
+                    "New York Red Bulls": "0"
+                },
+                "shots_blocked": {
+                    "New York City FC": "4",
+                    "New York Red Bulls": "4"
+                },
+                "shots_off_target": {
+                    "New York City FC": "5",
+                    "New York Red Bulls": "3"
+                },
+                "shots_on_target": {
+                    "New York City FC": "5",
+                    "New York Red Bulls": "5"
+                },
+                "yellow_cards": {
+                    "New York City FC": "3",
+                    "New York Red Bulls": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/new-york-red-bulls-new-york-city-fc-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1604.webp",
+                    "name": "New York City FC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1602.webp",
+                    "name": "New York Red Bulls",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/new-york-red-bulls-new-york-city-fc-2026-05-17-a4jN.webp",
+            "title": "New York Red Bulls - New York City FC"
+        },
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Mar 2, 2026",
+            "description": "Watch Philadelphia Union vs New York City FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on March 2, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Gray",
+                    "team": "New York City FC",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Makhanya",
+                    "team": "Philadelphia Union",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "H. Wolf",
+                    "score_update": "0 - 1",
+                    "team": "New York City FC",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. O'Neill",
+                    "team": "New York City FC",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Vassilev",
+                    "score_update": "1 - 1",
+                    "team": "Philadelphia Union",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "O. Makhanya",
+                    "team": "Philadelphia Union",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Sery",
+                    "team": "Philadelphia Union",
+                    "time": "90+5'"
+                },
+                {
+                    "assist": "A. Ojeda",
+                    "event_type": "Goal",
+                    "player": "T. Gray",
+                    "score_update": "1 - 2",
+                    "team": "New York City FC",
+                    "time": "90+9'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "01/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Philadelphia Union 1 - 2 New York City FC"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "29/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Inter Miami CF 5 - 1 New York City FC"
+                        },
+                        {
+                            "competition": "MLS 2025",
+                            "date": "18/10/2025",
+                            "result": "L",
+                            "teams_and_score": "New York City FC 1 - 2 Seattle Sounders FC"
+                        }
+                    ],
+                    "team": "New York City FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "MLS",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Philadelphia Union 1 - 2 New York City FC"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "27/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Philadelphia Union 7 - 0 Defence Force"
+                        },
+                        {
+                            "competition": "MLS",
+                            "date": "22/02/2026",
+                            "result": "L",
+                            "teams_and_score": "DC United 1 - 0 Philadelphia Union"
+                        },
+                        {
+                            "competition": "CONCACAF Champions Cup",
+                            "date": "18/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Defence Force 0 - 5 Philadelphia Union"
+                        },
+                        {
+                            "competition": "MLS: Play-off 2025",
+                            "date": "24/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Philadelphia Union 0 - 1 New York City FC"
+                        }
+                    ],
+                    "team": "Philadelphia Union"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "MLS: Play-off 2025",
+                        "date": "24/11/2025",
+                        "teams_and_score": "Philadelphia Union 0 - 1 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2025",
+                        "date": "04/10/2025",
+                        "teams_and_score": "Philadelphia Union 1 - 0 New York City FC"
+                    },
+                    {
+                        "competition": "MLS 2024",
+                        "date": "18/09/2024",
+                        "teams_and_score": "New York City FC 1 - 5 Philadelphia Union"
+                    },
+                    {
+                        "competition": "MLS 2023",
+                        "date": "15/07/2023",
+                        "teams_and_score": "Philadelphia Union 2 - 1 New York City FC"
+                    },
+                    {
+                        "competition": "MLS: Play-off 2022",
+                        "date": "31/10/2022",
+                        "teams_and_score": "Philadelphia Union 3 - 1 New York City FC"
+                    },
+                    {
+                        "competition": "Major League Soccer 2022",
+                        "date": "26/06/2022",
+                        "teams_and_score": "Philadelphia Union 2 - 1 New York City FC"
+                    }
+                ],
+                "summary": {
+                    "New York City FC_wins": "1",
+                    "Philadelphia Union_wins": "5",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "New York City FC": "53%",
+                    "Philadelphia Union": "47%"
+                },
+                "corners": {
+                    "New York City FC": "4",
+                    "Philadelphia Union": "5"
+                },
+                "fouls": {
+                    "New York City FC": "14",
+                    "Philadelphia Union": "12"
+                },
+                "goalkeeper_saves": {
+                    "New York City FC": "4",
+                    "Philadelphia Union": "8"
+                },
+                "offsides": {
+                    "New York City FC": "3",
+                    "Philadelphia Union": "1"
+                },
+                "red_cards": {
+                    "New York City FC": "0",
+                    "Philadelphia Union": "1"
+                },
+                "shots_blocked": {
+                    "New York City FC": "3",
+                    "Philadelphia Union": "4"
+                },
+                "shots_off_target": {
+                    "New York City FC": "1",
+                    "Philadelphia Union": "7"
+                },
+                "shots_on_target": {
+                    "New York City FC": "9",
+                    "Philadelphia Union": "5"
+                },
+                "yellow_cards": {
+                    "New York City FC": "2",
+                    "Philadelphia Union": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/philadelphia-union-new-york-city-fc-2026-03-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1604.webp",
+                    "name": "New York City FC",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1599.webp",
+                    "name": "Philadelphia Union",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/philadelphia-union-new-york-city-fc-2026-03-02-jvt6.webp",
+            "title": "Philadelphia Union - New York City FC"
+        }
+    ]
+}

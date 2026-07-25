@@ -1,0 +1,42 @@
+{
+    "team": "Hartlepool",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Apr 21, 2026",
+            "description": "Watch Hartlepool vs Southend highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on April 21, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/hartlepool-vs-southend-2026-04-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/hartlepool-vs-southend-2026-04-21-gH9Q.webp",
+            "title": "Hartlepool vs Southend"
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "team": "Piacenza",
+    "team_logo": "https://img.refooty.com/logo/teams/872.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Serie A",
+            "competition_cover": "https://refooty.com/covers/serie-a.webp",
+            "date": "Sep 20, 1998",
+            "description": "Watch Inter vs Piacenza highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on September 20, 1998.",
+            "events_timeline": [
+                {
+                    "assist": "I. V. D. Brempt",
+                    "event_type": "Goal",
+                    "player": "M. Baturina",
+                    "score_update": "0 - 1",
+                    "team": "Piacenza",
+                    "time": "1'"
+                },
+                {
+                    "assist": "N. Paz",
+                    "event_type": "Goal",
+                    "player": "L. D. Cunha",
+                    "score_update": "0 - 2",
+                    "team": "Piacenza",
+                    "time": "48'"
+                },
+                {
+                    "assist": "P. Sučić",
+                    "event_type": "Goal",
+                    "player": "H. Çalhanoğlu",
+                    "score_update": "1 - 2",
+                    "team": "Inter",
+                    "time": "69'"
+                },
+                {
+                    "assist": "P. Sučić",
+                    "event_type": "Goal",
+                    "player": "H. Çalhanoğlu",
+                    "score_update": "2 - 2",
+                    "team": "Inter",
+                    "time": "86'"
+                },
+                {
+                    "assist": "H. Çalhanoğlu",
+                    "event_type": "Goal",
+                    "player": "P. Sučić",
+                    "score_update": "3 - 2",
+                    "team": "Inter",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Perrone",
+                    "team": "Piacenza",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Coppa Italia: Semi-Finals",
+                            "date": "21/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Inter 3 - 2 Como 1907"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sassuolo 2 - 1 Como 1907"
+                        },
+                        {
+                            "competition": "Coppa Italia: Semi-Finals",
+                            "date": "03/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Como 1907 0 - 0 Inter"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Como 1907 3 - 1 Lecce"
+                        }
+                    ],
+                    "team": "Piacenza"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Coppa Italia: Semi-Finals",
+                            "date": "21/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Inter 3 - 2 Como 1907"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Inter 3 - 0 Cagliari"
+                        },
+                        {
+                            "competition": "Coppa Italia: Semi-Finals",
+                            "date": "03/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Como 1907 0 - 0 Inter"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Inter 2 - 0 Genoa"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "24/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Inter 1 - 2 Bodoe/Glimt"
+                        }
+                    ],
+                    "team": "Inter"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "12/04/2026",
+                        "teams_and_score": "Como 1907 3 - 4 Inter"
+                    },
+                    {
+                        "competition": "Coppa Italia: Semi-Finals",
+                        "date": "03/03/2026",
+                        "teams_and_score": "Como 1907 0 - 0 Inter"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "06/12/2025",
+                        "teams_and_score": "Inter 4 - 0 Como 1907"
+                    },
+                    {
+                        "competition": "Serie A 24/25",
+                        "date": "23/05/2025",
+                        "teams_and_score": "Como 1907 0 - 2 Inter"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "24/07/2012",
+                        "teams_and_score": "Como 1907 2 - 3 Inter"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "16/03/2003",
+                        "teams_and_score": "Inter 4 - 0 Como 1907"
+                    }
+                ],
+                "summary": {
+                    "Inter_wins": "5",
+                    "Piacenza_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Inter": "63%",
+                    "Piacenza": "37%"
+                },
+                "corners": {
+                    "Inter": "9",
+                    "Piacenza": "6"
+                },
+                "fouls": {
+                    "Inter": "5",
+                    "Piacenza": "6"
+                },
+                "goalkeeper_saves": {
+                    "Inter": "4",
+                    "Piacenza": "5"
+                },
+                "offsides": {
+                    "Inter": "2",
+                    "Piacenza": "1"
+                },
+                "shots_blocked": {
+                    "Inter": "8",
+                    "Piacenza": "4"
+                },
+                "shots_off_target": {
+                    "Inter": "6",
+                    "Piacenza": "3"
+                },
+                "shots_on_target": {
+                    "Inter": "8",
+                    "Piacenza": "6"
+                },
+                "yellow_cards": {
+                    "Inter": "0",
+                    "Piacenza": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/inter-vs-piacenza-1998-09-20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/872.webp",
+                    "name": "Piacenza",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/505.webp",
+                    "name": "Inter",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/inter-vs-piacenza-1998-09-20-OfFx.webp",
+            "title": "Inter vs Piacenza"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "team": "Vancouver Whitecaps FC",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Major League Soccer",
+            "competition_cover": "https://refooty.com/covers/mls.webp",
+            "date": "Apr 5, 2026",
+            "description": "Watch Vancouver Whitecaps vs Portland Timbers highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on April 5, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/vancouver-whitecaps-fc-portland-timbers-2026-04-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/vancouver-whitecaps-fc-portland-timbers-2026-04-05-Znj0.webp",
+            "title": "Vancouver Whitecaps FC - Portland Timbers"
+        }
+    ]
+}

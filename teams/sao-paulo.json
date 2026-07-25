@@ -1,0 +1,2800 @@
+{
+    "team": "Sao Paulo",
+    "team_logo": "https://img.refooty.com/logo/teams/126.webp",
+    "total_matches": 18,
+    "matches": [
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 19, 2026",
+            "description": "Watch Atletico MG vs Sao Paulo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 19, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "Jean Lucas",
+                    "event_type": "Goal",
+                    "player": "L. Juba",
+                    "score_update": "1 - 0",
+                    "team": "Atletico MG",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Conrado",
+                    "score_update": "2 - 0",
+                    "team": "Atletico MG",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Rodriguinho",
+                    "team": "Sao Paulo",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Acevedo",
+                    "team": "Atletico MG",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Nestor",
+                    "team": "Atletico MG",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Conrado",
+                    "team": "Atletico MG",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 2 - 0 RB Bragantino"
+                        },
+                        {
+                            "competition": "Paulista A1: Play-off",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "RB Bragantino 1 - 2 Sao Paulo"
+                        },
+                        {
+                            "competition": "Paulista A1",
+                            "date": "15/02/2026",
+                            "result": "L",
+                            "teams_and_score": "RB Bragantino 3 - 0 Novorizontino"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 2 - 0 RB Bragantino"
+                        },
+                        {
+                            "competition": "Paulista A1",
+                            "date": "08/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Velo Clube 1 - 1 RB Bragantino"
+                        }
+                    ],
+                    "team": "Sao Paulo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 2 - 0 RB Bragantino"
+                        },
+                        {
+                            "competition": "Baiano: Play-off",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 2 - 1 Vitoria"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "25/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 2 - 1 O'Higgins"
+                        },
+                        {
+                            "competition": "Baiano",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico Alagoinhas 2 - 4 Bahia"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "18/02/2026",
+                            "result": "L",
+                            "teams_and_score": "O'Higgins 1 - 0 Bahia"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "02/11/2025",
+                        "teams_and_score": "Bahia 2 - 1 RB Bragantino"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "01/09/2024",
+                        "teams_and_score": "RB Bragantino 2 - 1 Bahia"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "20/08/2023",
+                        "teams_and_score": "Bahia 4 - 0 RB Bragantino"
+                    },
+                    {
+                        "competition": "Serie A 2021",
+                        "date": "19/09/2021",
+                        "teams_and_score": "Bahia 1 - 1 RB Bragantino"
+                    },
+                    {
+                        "competition": "Serie A 2020",
+                        "date": "20/11/2020",
+                        "teams_and_score": "RB Bragantino 4 - 0 Bahia"
+                    }
+                ],
+                "summary": {
+                    "Atletico MG_wins": "0",
+                    "Sao Paulo_wins": "4",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Atletico MG": "57%",
+                    "Sao Paulo": "43%"
+                },
+                "corners": {
+                    "Atletico MG": "7",
+                    "Sao Paulo": "7"
+                },
+                "fouls": {
+                    "Atletico MG": "15",
+                    "Sao Paulo": "16"
+                },
+                "goalkeeper_saves": {
+                    "Atletico MG": "3",
+                    "Sao Paulo": "6"
+                },
+                "offsides": {
+                    "Atletico MG": "2",
+                    "Sao Paulo": "1"
+                },
+                "shots_off_target": {
+                    "Atletico MG": "5",
+                    "Sao Paulo": "8"
+                },
+                "shots_on_target": {
+                    "Atletico MG": "9",
+                    "Sao Paulo": "3"
+                },
+                "yellow_cards": {
+                    "Atletico MG": "3",
+                    "Sao Paulo": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/atletico-mineiro-sao-paulo-2026-03-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/126.webp",
+                    "name": "Sao Paulo",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-mineiro-sao-paulo-2026-03-19-Bnfq.webp",
+            "title": "Atletico Mineiro - Sao Paulo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 11, 2026",
+            "description": "Watch Corinthians vs Sao Paulo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 11, 2026. The rivalry clash between Corinthians and São Paulo delivered high-stakes drama that kept supporters guessing until the final whistle. Held on May 11, 2026, the Brazilian Serie A fixture proved to be a rollercoaster of momentum and tactical shifts. A lively start The game kicked off with high intensity, as Corinthians sought to control the pace early on. Their persistence paid off in the 17th minute when Raniele struck home, assisted by Rodrigo Garro . São Paulo refused to back down, however, and struck back just before the half-time interval in the 41st minute, with Luciano Neves leveling the score following a setup from Damian Bobadilla . Turning the tide After the break, Corinthians surged forward with renewed purpose. Matheuzinho capitalized on an assist from Andre Carrillo in the 52nd minute to reclaim the lead, and just six minutes later, Breno Bidon doubled the advantage with a clinical finish set up by Rodrigo Garro . The stadium was electric, but the match was far from settled. A late defensive mishap saw Matheuzinho inadvertently score an own goal in the 89th minute, breathing new life into São Paulo 's hopes. The stoppage time period descended into a flurry of cards, with Zakaria Labyad , Luan Santos , and Pedro Raul all entering the referee’s book. Despite the frantic finish, the final whistle at 90+7' signaled a vital victory for Corinthians in a classic derby encounter.",
+            "events_timeline": [
+                {
+                    "assist": "R. Garro",
+                    "event_type": "Goal",
+                    "player": "Raniele",
+                    "score_update": "1 - 0",
+                    "team": "Corinthians",
+                    "time": "17'"
+                },
+                {
+                    "assist": "D. Bobadilla",
+                    "event_type": "Goal",
+                    "player": "L. Neves",
+                    "score_update": "1 - 1",
+                    "team": "Sao Paulo",
+                    "time": "41'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. M. Bidu",
+                    "team": "Corinthians",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Paulista",
+                    "team": "Corinthians",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Calleri",
+                    "team": "Sao Paulo",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Sabino",
+                    "team": "Sao Paulo",
+                    "time": "45+1'"
+                },
+                {
+                    "assist": "A. Carrillo",
+                    "event_type": "Goal",
+                    "player": "Matheuzinho",
+                    "score_update": "2 - 1",
+                    "team": "Corinthians",
+                    "time": "52'"
+                },
+                {
+                    "assist": "R. Garro",
+                    "event_type": "Goal",
+                    "player": "B. Bidon",
+                    "score_update": "3 - 1",
+                    "team": "Corinthians",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Diaz",
+                    "team": "Sao Paulo",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Matheuzinho",
+                    "team": "Sao Paulo",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Z. Labyad",
+                    "team": "Corinthians",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Santos",
+                    "team": "Sao Paulo",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Raul",
+                    "team": "Corinthians",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 3 - 2 Sao Paulo"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "07/05/2026",
+                            "result": "D",
+                            "teams_and_score": "O'Higgins 0 - 0 Sao Paulo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 2 - 2 Bahia"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "29/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Millonarios 0 - 0 Sao Paulo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sao Paulo 1 - 0 Mirassol"
+                        }
+                    ],
+                    "team": "Sao Paulo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 3 - 2 Sao Paulo"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "07/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Santa Fe 1 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Mirassol 2 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "01/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 2 - 0 Club Atletico Penarol"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Corinthians 1 - 0 Vasco da Gama"
+                        }
+                    ],
+                    "team": "Corinthians"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Paulista A1",
+                        "date": "18/01/2026",
+                        "teams_and_score": "Corinthians 1 - 1 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "20/11/2025",
+                        "teams_and_score": "Corinthians 3 - 1 Sao Paulo"
+                    },
+                    {
+                        "competition": "Paulista A1",
+                        "date": "26/01/2025",
+                        "teams_and_score": "Sao Paulo 3 - 1 Corinthians"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "29/09/2024",
+                        "teams_and_score": "Sao Paulo 3 - 1 Corinthians"
+                    },
+                    {
+                        "competition": "Paulista A1",
+                        "date": "30/01/2024",
+                        "teams_and_score": "Corinthians 1 - 2 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "30/09/2023",
+                        "teams_and_score": "Sao Paulo 2 - 1 Corinthians"
+                    },
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "16/08/2023",
+                        "teams_and_score": "Sao Paulo 2 - 0 Corinthians"
+                    }
+                ],
+                "summary": {
+                    "Corinthians_wins": "1",
+                    "Sao Paulo_wins": "5",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Corinthians": "49%",
+                    "Sao Paulo": "51%"
+                },
+                "corners": {
+                    "Corinthians": "7",
+                    "Sao Paulo": "7"
+                },
+                "fouls": {
+                    "Corinthians": "12",
+                    "Sao Paulo": "13"
+                },
+                "goalkeeper_saves": {
+                    "Corinthians": "3",
+                    "Sao Paulo": "3"
+                },
+                "offsides": {
+                    "Corinthians": "1",
+                    "Sao Paulo": "3"
+                },
+                "shots_blocked": {
+                    "Corinthians": "4",
+                    "Sao Paulo": "3"
+                },
+                "shots_off_target": {
+                    "Corinthians": "5",
+                    "Sao Paulo": "0"
+                },
+                "shots_on_target": {
+                    "Corinthians": "6",
+                    "Sao Paulo": "4"
+                },
+                "yellow_cards": {
+                    "Corinthians": "4",
+                    "Sao Paulo": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/corinthians-sao-paulo-2026-05-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/126.webp",
+                    "name": "Sao Paulo",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/131.webp",
+                    "name": "Corinthians",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/corinthians-sao-paulo-2026-05-11-acXh.webp",
+            "title": "Corinthians - São Paulo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Fluminense vs Sao Paulo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 17, 2026. The stadium was buzzing with anticipation as two Brazilian football powerhouses faced off in a clash that promised significant implications for the league standings. Taking place on May 17, 2026, the match saw both sides battle fiercely for dominance throughout a gripping encounter in the Serie A . A clinical first half display Fluminense dictated the pace early on, showing clear intent to test the opposition's resolve. The breakthrough arrived in the 19th minute when Guilherme Arana delivered a precise pass to John Kennedy , who made no mistake in slotting the ball home to give his team the lead. The momentum stayed with the hosts, and they doubled their advantage just before the break. In the 44th minute, Luciano Acosta provided the assist for Agustin Canobbio , who finished clinically to send the teams into the tunnel with the scoreline firmly in favor of Fluminense . Late drama and a nervous conclusion Looking to overturn the deficit, Sao Paulo introduced several tactical adjustments throughout the second half to inject energy into their play. Their persistent pressure finally paid off in the 79th minute when Sabino set up Matheus Doria , who found the net to narrow the gap. The goal signaled an increase in physical intensity, leading to a series of yellow cards as tensions rose for Facundo Bernal , Damian Bobadilla , and Juan Freytes . Despite the frantic late push from the visitors, Fluminense held their ground successfully, securing a hard-fought victory when the referee finally blew for full time.",
+            "events_timeline": [
+                {
+                    "assist": "G. Arana",
+                    "event_type": "Goal",
+                    "player": "J. Kennedy",
+                    "score_update": "1 - 0",
+                    "team": "Fluminense",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Silva",
+                    "team": "Sao Paulo",
+                    "time": "16'"
+                },
+                {
+                    "assist": "L. Acosta",
+                    "event_type": "Goal",
+                    "player": "A. Canobbio",
+                    "score_update": "2 - 0",
+                    "team": "Fluminense",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Artur",
+                    "team": "Sao Paulo",
+                    "time": "67'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Diaz",
+                    "team": "Sao Paulo",
+                    "time": "76'"
+                },
+                {
+                    "assist": "Sabino",
+                    "event_type": "Goal",
+                    "player": "M. Dória",
+                    "score_update": "2 - 1",
+                    "team": "Sao Paulo",
+                    "time": "79'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Bernal",
+                    "team": "Fluminense",
+                    "time": "86'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Bobadilla",
+                    "team": "Sao Paulo",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Freytes",
+                    "team": "Fluminense",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Fluminense 2 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "13/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Juventude 3 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 3 - 2 Sao Paulo"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "07/05/2026",
+                            "result": "D",
+                            "teams_and_score": "O'Higgins 0 - 0 Sao Paulo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 2 - 2 Bahia"
+                        }
+                    ],
+                    "team": "Sao Paulo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Fluminense 2 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "13/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Fluminense 2 - 1 Operario Ferroviario"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "09/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Fluminense 2 - 2 Vitoria"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "07/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Independiente Rivadavia 1 - 1 Fluminense"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Internacional 2 - 0 Fluminense"
+                        }
+                    ],
+                    "team": "Fluminense"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "27/11/2025",
+                        "teams_and_score": "Fluminense 6 - 0 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "01/09/2024",
+                        "teams_and_score": "Fluminense 2 - 0 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "23/11/2023",
+                        "teams_and_score": "Fluminense 1 - 0 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A 2022",
+                        "date": "05/11/2022",
+                        "teams_and_score": "Fluminense 3 - 1 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A 2021",
+                        "date": "12/09/2021",
+                        "teams_and_score": "Fluminense 2 - 1 Sao Paulo"
+                    }
+                ],
+                "summary": {
+                    "Fluminense_wins": "5",
+                    "Sao Paulo_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fluminense": "50%",
+                    "Sao Paulo": "50%"
+                },
+                "corners": {
+                    "Fluminense": "3",
+                    "Sao Paulo": "5"
+                },
+                "fouls": {
+                    "Fluminense": "12",
+                    "Sao Paulo": "8"
+                },
+                "goalkeeper_saves": {
+                    "Fluminense": "6",
+                    "Sao Paulo": "1"
+                },
+                "offsides": {
+                    "Fluminense": "1",
+                    "Sao Paulo": "0"
+                },
+                "shots_blocked": {
+                    "Fluminense": "2",
+                    "Sao Paulo": "3"
+                },
+                "shots_off_target": {
+                    "Fluminense": "5",
+                    "Sao Paulo": "4"
+                },
+                "shots_on_target": {
+                    "Fluminense": "3",
+                    "Sao Paulo": "7"
+                },
+                "yellow_cards": {
+                    "Fluminense": "2",
+                    "Sao Paulo": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fluminense-sao-paulo-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/126.webp",
+                    "name": "Sao Paulo",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/124.webp",
+                    "name": "Fluminense",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fluminense-sao-paulo-2026-05-17-Twdn.webp",
+            "title": "Fluminense - Sao Paulo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 2, 2026",
+            "description": "Watch Internacional vs Sao Paulo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 2, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/internacional-sao-paulo-2026-04-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/internacional-sao-paulo-2026-04-02-kbF8.webp",
+            "title": "Internacional - Sao Paulo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 2, 2026",
+            "description": "Watch Palmeiras vs Sao Paulo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 2, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/palmeiras-vs-sao-paulo-2026-03-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/palmeiras-vs-sao-paulo-2026-03-02-nJgZ.webp",
+            "title": "Palmeiras vs Sao Paulo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 16, 2026",
+            "description": "Watch RB Bragantino vs Sao Paulo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 16, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/red-bull-bragantino-sao-paulo-2026-03-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/red-bull-bragantino-sao-paulo-2026-03-16-irwC.webp",
+            "title": "Red Bull Bragantino - Sao Paulo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Jun 1, 2026",
+            "description": "Watch Remo vs Sao Paulo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on June 1, 2026. The atmosphere was electric for one of the most anticipated matchups of the round, where strategy and patience were tested to the limit. The clash promised a tactical stalemate, with both sides searching for openings in a well-organized opposition defense. A First Half Defined by Intensity and Discipline On June 1, 2026 , Remo played host to Sao Paulo in a crucial Serie A fixture in Brazil . From the opening whistle, the match proved to be a physical affair, contested fiercely across every inch of the pitch. The referee was kept busy early on as he sought to maintain control over the high-octane encounter. Luis Osorio received the game's first yellow card in the 28th minute, and he was soon followed into the book by Enzo Hernan Diaz ten minutes later, reflecting the gritty nature of the first period. Despite several attacking movements, both defensive lines held firm, leading to a goalless draw at the interval. Tactical Adjustments and Rising Pressure The second half resumed with the same level of intensity but saw both managers turn to their benches to find a breakthrough. Sao Paulo introduced Marcos Antonio for Andre in the 62nd minute to provide fresh energy in midfield. This was followed by a flurry of substitutions from both camps around the 72nd minute, with the likes of Leonel Picco , Tete , and Hugo Leonardo entering the fray as the tactical battle intensified. As the match entered its final ten minutes, Remo made a triple change, bringing on David Braga , Matheus Alexandre , and Poveda . The game remained on a knife-edge, and David Braga found himself in the referee's book in the 85th minute. With the clock ticking down, Sao Paulo made a final offensive switch, replacing Jonathan Calleri with Gonzalo Tapia in hopes of a late winner. Stoppage Time Heroics Just as it appeared the points would be shared, the deadlock was broken in spectacular fashion during stoppage time. In the 94th minute, Leonel Picco turned provider, delivering a precise pass to Marcelinho . The forward made no mistake, firing the ball home to trigger wild celebrations in the stands. With the lead secured, Marcelinho was given a standing ovation as he was replaced by Diego Hernandez in the 97th minute to help see out the final seconds. The referee blew the final whistle after eight minutes of added time, confirming a hard-earned 1-0 victory for Remo in a classic Serie A encounter.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Osorio",
+                    "team": "Sao Paulo",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Diaz",
+                    "team": "Sao Paulo",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Braga",
+                    "team": "Remo",
+                    "time": "85'"
+                },
+                {
+                    "assist": "L. Picco",
+                    "event_type": "Goal",
+                    "player": "Marcelinho",
+                    "score_update": "1 - 0",
+                    "team": "Remo",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "31/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Remo 1 - 0 Sao Paulo"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "26/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Sao Paulo 2 - 0 Boston River"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "23/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Millonarios"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Fluminense 2 - 1 Sao Paulo"
+                        }
+                    ],
+                    "team": "Sao Paulo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "31/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Remo 1 - 0 Sao Paulo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Remo 2 - 1 Bahia"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Remo 1 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "RB Bragantino 4 - 2 Remo"
+                        }
+                    ],
+                    "team": "Remo"
+                },
+                "summary": {
+                    "Remo_wins": "0",
+                    "Sao Paulo_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Remo": "40%",
+                    "Sao Paulo": "60%"
+                },
+                "corners": {
+                    "Remo": "6",
+                    "Sao Paulo": "8"
+                },
+                "fouls": {
+                    "Remo": "7",
+                    "Sao Paulo": "14"
+                },
+                "goalkeeper_saves": {
+                    "Remo": "4",
+                    "Sao Paulo": "1"
+                },
+                "offsides": {
+                    "Remo": "2",
+                    "Sao Paulo": "0"
+                },
+                "shots_blocked": {
+                    "Remo": "3",
+                    "Sao Paulo": "1"
+                },
+                "shots_off_target": {
+                    "Remo": "4",
+                    "Sao Paulo": "4"
+                },
+                "shots_on_target": {
+                    "Remo": "2",
+                    "Sao Paulo": "4"
+                },
+                "yellow_cards": {
+                    "Remo": "1",
+                    "Sao Paulo": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/remo-sao-paulo-2026-06-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/126.webp",
+                    "name": "Sao Paulo",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1198.webp",
+                    "name": "Remo",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/remo-sao-paulo-2026-06-01-CZpZ.webp",
+            "title": "Remo - Sao Paulo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Feb 4, 2026",
+            "description": "Watch Santos vs Sao Paulo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on February 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/santos-vs-sao-paulo-2026-02-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/santos-vs-sao-paulo-2026-02-04-PIl7.webp",
+            "title": "Santos vs Sao Paulo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Jul 23, 2026",
+            "description": "Watch Sao Paulo vs Athletico Paranaense highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on July 23, 2026. The stage was set for a high-octane Serie A encounter as Sao Paulo welcomed Athletico Paranaense . Both teams entered the fray looking to assert their dominance in the Brazilian top flight, setting the tone for a match defined by tactical shifts and sudden bursts of clinical finishing. Early Advantage for the Hosts On July 23, 2026, the contest began with high intensity. Sao Paulo looked the more composed side in the opening exchanges, and their persistence paid off in the 19th minute. Artur Guimaraes found the back of the net with a sharp finish to give the home fans reason to celebrate. The early stages were also marked by a combative edge, as Athletico Paranaense defender Arthur Dias picked up a yellow card just moments before the opening goal. Sao Paulo faced an early tactical challenge when Rafael Toloi had to be replaced by Luis Osorio in the 23rd minute. Despite the disruption, they managed to carry their lead into the break, although the visitors signaled their intent with a double substitution at the start of the second period, bringing on Claudinho and Carlos Teran . Leozinho’s Second-Half Masterclass Whatever was said in the Athletico dressing room worked wonders. Within seconds of the restart, Leozinho leveled the score in the 46th minute, catching the Sao Paulo defense cold. The momentum had completely shifted, and in the 51st minute, Leozinho struck again. Assisted by a precise delivery from Lucas Esquivel , the forward completed a rapid turnaround to put the visitors ahead. Sao Paulo desperately searched for an equalizer, introducing the likes of Andre and Ferreira to bolster their attack. However, the visitors remained disciplined, making further tactical adjustments with the introduction of Isaac and Gilberto to see out the game. The referee’s final whistle at 90+5' confirmed a resilient comeback victory for Athletico Paranaense .",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Dias",
+                    "team": "Athletico Paranaense",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Artur",
+                    "score_update": "1 - 0",
+                    "team": "Sao Paulo",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Leozinho",
+                    "score_update": "1 - 1",
+                    "team": "Athletico Paranaense",
+                    "time": "46'"
+                },
+                {
+                    "assist": "L. Esquivel",
+                    "event_type": "Goal",
+                    "player": "Leozinho",
+                    "score_update": "1 - 2",
+                    "team": "Athletico Paranaense",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "23/07/2026",
+                            "result": "W",
+                            "teams_and_score": "Sao Paulo 1 - 2 Athletico Paranaense"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico GO 0 - 0 Athletico Paranaense"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Vasco da Gama 1 - 0 Athletico Paranaense"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "24/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Athletico Paranaense 0 - 0 Atletico GO"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Palmeiras 1 - 0 Athletico Paranaense"
+                        }
+                    ],
+                    "team": "Athletico Paranaense"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "23/07/2026",
+                            "result": "L",
+                            "teams_and_score": "Sao Paulo 1 - 2 Athletico Paranaense"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "26/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Sao Paulo 2 - 0 Boston River"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "23/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Millonarios"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Fluminense 2 - 1 Sao Paulo"
+                        }
+                    ],
+                    "team": "Sao Paulo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "06/08/2025",
+                        "teams_and_score": "Athletico Paranaense 1 - 0 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "10/11/2024",
+                        "teams_and_score": "Sao Paulo 2 - 1 Athletico Paranaense"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "29/10/2023",
+                        "teams_and_score": "Athletico Paranaense 1 - 1 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A 2022",
+                        "date": "31/07/2022",
+                        "teams_and_score": "Athletico Paranaense 1 - 0 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A 2021",
+                        "date": "25/11/2021",
+                        "teams_and_score": "Sao Paulo 0 - 0 Athletico Paranaense"
+                    }
+                ],
+                "summary": {
+                    "Athletico Paranaense_wins": "2",
+                    "Sao Paulo_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Athletico Paranaense": "30%",
+                    "Sao Paulo": "70%"
+                },
+                "corners": {
+                    "Athletico Paranaense": "3",
+                    "Sao Paulo": "7"
+                },
+                "fouls": {
+                    "Athletico Paranaense": "15",
+                    "Sao Paulo": "7"
+                },
+                "goalkeeper_saves": {
+                    "Athletico Paranaense": "2",
+                    "Sao Paulo": "1"
+                },
+                "shots_blocked": {
+                    "Athletico Paranaense": "2",
+                    "Sao Paulo": "8"
+                },
+                "shots_off_target": {
+                    "Athletico Paranaense": "6",
+                    "Sao Paulo": "7"
+                },
+                "shots_on_target": {
+                    "Athletico Paranaense": "3",
+                    "Sao Paulo": "3"
+                },
+                "yellow_cards": {
+                    "Athletico Paranaense": "1",
+                    "Sao Paulo": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sao-paulo-athletico-paranaense-2026-07-23_ncNql.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/134.webp",
+                    "name": "Athletico Paranaense",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/126.webp",
+                    "name": "Sao Paulo",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sao-paulo-athletico-paranaense-2026-07-23-Okm7.webp",
+            "title": "Sao Paulo - Athletico Paranaense"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 3, 2026",
+            "description": "Watch Sao Paulo vs Bahia highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 3, 2026. The intensity of Brazilian Serie A was on full display on May 3, 2026 , as Sao Paulo and Bahia locked horns in a clash defined by tactical shifts and late-game drama. Both sides entered the fray looking to assert their dominance in the league standings, setting the stage for a narrative that would not be settled until the very final whistle. Guimaraes Sets the Early Pace Sao Paulo started the match with clear intent, dictating the tempo through a crowded midfield and looking to exploit the flanks. The early pressure paid dividends in the 17th minute when Wendell delivered a precise ball into the path of Artur Guimaraes . Showing great composure, Guimaraes found the back of the net to give the home side an early advantage, igniting the home support. The remainder of the first half became a physical battle as Bahia struggled to find their rhythm. The referee was forced to reach for his pocket frequently to maintain control, booking Bahia 's Nicolas Acevedo for a cynical challenge in the 41st minute before Damian Bobadilla of Sao Paulo saw yellow just before the break. Despite the escalating tension, the hosts managed to carry their slim lead into the tunnel at halftime. Tactical Shifts and the Second-Half Surge Returning for the second period, Bahia looked like a rejuvenated outfit. The visitors began to move the ball with more purpose, and their persistence was rewarded just after the hour mark. In the 61st minute, the veteran playmaker Everton Ribeiro showcased his vision, providing a perfectly weighted assist for Luciano Juba , who clinical finish leveled the score at 1-1. Sensing the game slipping away, Sao Paulo manager turned to his bench, introducing Ferreira and Lucas Moura to inject fresh energy into the attack. The tactical gamble produced immediate results. In the 73rd minute, Jonathan Calleri battled for possession and managed to square the ball for Ferreira . The substitute made no mistake, sliding the ball home to restore Sao Paulo 's lead and seemingly put them on the path to all three points. A Frantic Finale in Stoppage Time As the clock ticked toward the 90-minute mark, the match descended into a frantic scramble. Sao Paulo attempted to shut the door defensively, but the cost was a flurry of yellow cards. Enzo Hernan Diaz was cautioned in the 81st minute, and as the pressure mounted in stoppage time, both Mateo Sanabria and Jonathan Calleri were booked during a period of high friction. Just as it appeared Sao Paulo would navigate the closing moments, the visitors produced one final moment of magic. In the seventh minute of added time, a lapse in the home defense allowed a Bahia attacker to strike, silencing the stadium with a dramatic 97th-minute equalizer. The goal sparked wild celebrations from the visitors and left the hosts in disbelief. The final whistle blew shortly after, concluding a breathtaking encounter where neither side refused to yield.",
+            "events_timeline": [
+                {
+                    "assist": "Wendell",
+                    "event_type": "Goal",
+                    "player": "Artur",
+                    "score_update": "1 - 0",
+                    "team": "Sao Paulo",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Acevedo",
+                    "team": "Bahia",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Bobadilla",
+                    "team": "Sao Paulo",
+                    "time": "31'"
+                },
+                {
+                    "assist": "E. Ribeiro",
+                    "event_type": "Goal",
+                    "player": "L. Juba",
+                    "score_update": "1 - 1",
+                    "team": "Bahia",
+                    "time": "61'"
+                },
+                {
+                    "assist": "J. Calleri",
+                    "event_type": "Goal",
+                    "player": "Ferreira",
+                    "score_update": "2 - 1",
+                    "team": "Sao Paulo",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Diaz",
+                    "team": "Sao Paulo",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Diaz",
+                    "team": "Sao Paulo",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Sanabria",
+                    "team": "Bahia",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Calleri",
+                    "team": "Sao Paulo",
+                    "time": "90+6'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "",
+                    "score_update": "2 - 2",
+                    "team": "Bahia",
+                    "time": "90+7'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "",
+                    "team": "Bahia",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 2 - 2 Bahia"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "22/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bahia 1 - 3 Remo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Flamengo 2 - 0 Bahia"
+                        }
+                    ],
+                    "team": "Bahia"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 2 - 2 Bahia"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "29/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Millonarios 0 - 0 Sao Paulo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sao Paulo 1 - 0 Mirassol"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "21/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sao Paulo 1 - 0 Juventude"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vasco da Gama 2 - 1 Sao Paulo"
+                        }
+                    ],
+                    "team": "Sao Paulo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "25/10/2025",
+                        "teams_and_score": "Sao Paulo 2 - 0 Bahia"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "06/11/2024",
+                        "teams_and_score": "Bahia 0 - 3 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "29/11/2023",
+                        "teams_and_score": "Bahia 0 - 1 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A 2021",
+                        "date": "07/11/2021",
+                        "teams_and_score": "Bahia 1 - 0 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A 2020",
+                        "date": "28/11/2020",
+                        "teams_and_score": "Bahia 1 - 3 Sao Paulo"
+                    },
+                    {
+                        "competition": "Division 1: South",
+                        "date": "20/08/2020",
+                        "teams_and_score": "Sao Paulo 1 - 1 Bahia"
+                    }
+                ],
+                "summary": {
+                    "Bahia_wins": "1",
+                    "Sao Paulo_wins": "4",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bahia": "62%",
+                    "Sao Paulo": "38%"
+                },
+                "corners": {
+                    "Bahia": "10",
+                    "Sao Paulo": "14"
+                },
+                "fouls": {
+                    "Bahia": "10",
+                    "Sao Paulo": "12"
+                },
+                "goalkeeper_saves": {
+                    "Bahia": "6",
+                    "Sao Paulo": "4"
+                },
+                "offsides": {
+                    "Bahia": "0",
+                    "Sao Paulo": "2"
+                },
+                "shots_blocked": {
+                    "Bahia": "5",
+                    "Sao Paulo": "7"
+                },
+                "shots_off_target": {
+                    "Bahia": "7",
+                    "Sao Paulo": "3"
+                },
+                "shots_on_target": {
+                    "Bahia": "8",
+                    "Sao Paulo": "8"
+                },
+                "yellow_cards": {
+                    "Bahia": "3",
+                    "Sao Paulo": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sao-paulo-bahia-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/118.webp",
+                    "name": "Bahia",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/126.webp",
+                    "name": "Sao Paulo",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sao-paulo-bahia-2026-05-03-CQ1x.webp",
+            "title": "Sao Paulo - Bahia"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 23, 2026",
+            "description": "Watch Sao Paulo vs Botafogo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 23, 2026. The Brazilian Serie A delivered a high-stakes encounter on May 23, 2026 , as Sao Paulo hosted Botafogo in a match filled with tactical battles and escalating tension. Both sides fought for supremacy in a contest that kept the spectators at the edge of their seats until the very last second. Early Spark and Physicality Sao Paulo wasted no time in igniting the home crowd. Just 4 minutes into the match, Luciano Neves clinical finish put the hosts ahead, providing them with an early platform to dictate play. The goal set the tone for a competitive opening period, but the match quickly descended into a physical battle. The intensity on the pitch led to yellow cards for both the goalscorer Luciano Neves and Botafogo's Gabriel Justino before the half-hour mark. Sao Paulo's strategic plans took an unexpected hit in the 30th minute when Luciano Neves was forced off, replaced by Pedro Ferreira . Shortly before the interval, the home side had to make another adjustment as Luis Osorio came on for Sabino , ending a first half characterized by a narrow lead and fierce midfield duels. Tactical Adjustments and Rising Pressure As the second half commenced, Botafogo looked to respond by introducing Kadir Barria for Lucas Villalba . The game became increasingly cagey, with a flurry of cautions reflecting the high stakes. Alvaro Montoro saw yellow in the 61st minute, moments before being substituted for Edenilson as the visitors sought fresh energy to break down the Sao Paulo defense. Botafogo's coaching staff also turned to Jordan Barrera , a substitution that would later prove to be an inspired masterstroke. While Sao Paulo attempted to stabilize their lead with the introductions of Djhordney and Gonzalo Tapia , the visitors' persistence began to mount, forcing the hosts into a more defensive posture. Late Drama and the Final Blow The tension reached its boiling point in the final stages of the match. Following a series of yellow cards for Wendell , Joaquin Correa , Rafael , and Gonzalo Tapia , Botafogo finally found the breakthrough they had been searching for. In the 91st minute, Jordan Barrera silenced the stadium with a dramatic equalizer, rewarding the visitors' late surge. Despite eight minutes of stoppage time and a final booking for Christopher Ramos , the scoreline remained level until the final whistle. The match ended in a draw, leaving Sao Paulo to rue missed opportunities while Botafogo celebrated a hard-earned point away from home.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "L. Neves",
+                    "score_update": "1 - 0",
+                    "team": "Sao Paulo",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Neves",
+                    "team": "Sao Paulo",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. P. Justino",
+                    "team": "Botafogo",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Montoro",
+                    "team": "Botafogo",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Wendell",
+                    "team": "Sao Paulo",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Correa",
+                    "team": "Botafogo",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Rafael",
+                    "team": "Sao Paulo",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Tapia",
+                    "team": "Sao Paulo",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Barrera",
+                    "score_update": "1 - 1",
+                    "team": "Botafogo",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Ramos",
+                    "team": "Botafogo",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "23/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Independiente Petrolero 0 - 3 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 3 - 1 Corinthians"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "14/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Chapecoense AF 2 - 0 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Atletico MG 1 - 1 Botafogo FR"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "23/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "20/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Sao Paulo 1 - 1 Millonarios"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Fluminense 2 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "13/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Juventude 3 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 3 - 2 Sao Paulo"
+                        }
+                    ],
+                    "team": "Sao Paulo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "14/09/2025",
+                        "teams_and_score": "Sao Paulo 1 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "08/12/2024",
+                        "teams_and_score": "Botafogo FR 2 - 1 Sao Paulo"
+                    },
+                    {
+                        "competition": "Quarter-Finals",
+                        "date": "26/09/2024",
+                        "teams_and_score": "Sao Paulo 1 - 1 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "24/07/2024",
+                        "teams_and_score": "Sao Paulo 2 - 2 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "19/08/2023",
+                        "teams_and_score": "Sao Paulo 0 - 0 Botafogo FR"
+                    },
+                    {
+                        "competition": "Serie A 2022",
+                        "date": "09/10/2022",
+                        "teams_and_score": "Sao Paulo 0 - 1 Botafogo FR"
+                    }
+                ],
+                "summary": {
+                    "Botafogo_wins": "2",
+                    "Sao Paulo_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Botafogo": "46%",
+                    "Sao Paulo": "54%"
+                },
+                "corners": {
+                    "Botafogo": "3",
+                    "Sao Paulo": "4"
+                },
+                "fouls": {
+                    "Botafogo": "19",
+                    "Sao Paulo": "20"
+                },
+                "goalkeeper_saves": {
+                    "Botafogo": "3",
+                    "Sao Paulo": "5"
+                },
+                "offsides": {
+                    "Botafogo": "3",
+                    "Sao Paulo": "0"
+                },
+                "shots_blocked": {
+                    "Botafogo": "1",
+                    "Sao Paulo": "4"
+                },
+                "shots_off_target": {
+                    "Botafogo": "7",
+                    "Sao Paulo": "6"
+                },
+                "shots_on_target": {
+                    "Botafogo": "6",
+                    "Sao Paulo": "4"
+                },
+                "yellow_cards": {
+                    "Botafogo": "4",
+                    "Sao Paulo": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sao-paulo-botafogo-2026-05-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/126.webp",
+                    "name": "Sao Paulo",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sao-paulo-botafogo-2026-05-23-EBW1.webp",
+            "title": "Sao Paulo - Botafogo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Jan 28, 2026",
+            "description": "Watch Sao Paulo vs Flamengo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on January 28, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sao-paulo-vs-flamengo-2026-01-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sao-paulo-vs-flamengo-2026-01-28-P5pj.webp",
+            "title": "Sao Paulo vs Flamengo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Feb 11, 2026",
+            "description": "Watch Sao Paulo vs Gremio highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on February 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sao-paulo-vs-gremio-2026-02-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sao-paulo-vs-gremio-2026-02-11-2V8w.webp",
+            "title": "Sao Paulo vs Gremio"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch Sao Paulo vs Mirassol highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 26, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Abelha",
+                    "team": "Sao Paulo",
+                    "time": "41'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Aldo",
+                    "team": "Mirassol",
+                    "time": "45+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Fogaca",
+                    "team": "Mirassol",
+                    "time": "45+5'"
+                },
+                {
+                    "assist": "Wendell",
+                    "event_type": "Goal",
+                    "player": "L. Neves",
+                    "score_update": "1 - 0",
+                    "team": "Sao Paulo",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sao Paulo 1 - 0 Mirassol"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "23/04/2026",
+                            "result": "D",
+                            "teams_and_score": "RB Bragantino 1 - 1 Mirassol"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "19/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Internacional 1 - 2 Mirassol"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "15/04/2026",
+                            "result": "L",
+                            "teams_and_score": "LDU de Quito 2 - 0 Mirassol"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Mirassol 1 - 2 Bahia"
+                        }
+                    ],
+                    "team": "Mirassol"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sao Paulo 1 - 0 Mirassol"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "21/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sao Paulo 1 - 0 Juventude"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vasco da Gama 2 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sao Paulo 2 - 0 O'Higgins"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vitoria 2 - 0 Sao Paulo"
+                        }
+                    ],
+                    "team": "Sao Paulo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Paulista A1",
+                        "date": "11/01/2026",
+                        "teams_and_score": "Mirassol 3 - 0 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "19/10/2025",
+                        "teams_and_score": "Mirassol 3 - 0 Sao Paulo"
+                    },
+                    {
+                        "competition": "Paulista A1",
+                        "date": "05/02/2025",
+                        "teams_and_score": "Sao Paulo 4 - 1 Mirassol"
+                    },
+                    {
+                        "competition": "Paulista A1",
+                        "date": "23/01/2024",
+                        "teams_and_score": "Mirassol 1 - 1 Sao Paulo"
+                    },
+                    {
+                        "competition": "Paulista A1",
+                        "date": "13/03/2022",
+                        "teams_and_score": "Mirassol 0 - 3 Sao Paulo"
+                    },
+                    {
+                        "competition": "Paulista A1: Play-off",
+                        "date": "16/05/2021",
+                        "teams_and_score": "Sao Paulo 4 - 0 Mirassol"
+                    },
+                    {
+                        "competition": "Paulista A1",
+                        "date": "09/05/2021",
+                        "teams_and_score": "Mirassol 1 - 1 Sao Paulo"
+                    }
+                ],
+                "summary": {
+                    "Mirassol_wins": "3",
+                    "Sao Paulo_wins": "4",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Mirassol": "45%",
+                    "Sao Paulo": "55%"
+                },
+                "corners": {
+                    "Mirassol": "4",
+                    "Sao Paulo": "12"
+                },
+                "fouls": {
+                    "Mirassol": "13",
+                    "Sao Paulo": "10"
+                },
+                "goalkeeper_saves": {
+                    "Mirassol": "0",
+                    "Sao Paulo": "1"
+                },
+                "offsides": {
+                    "Mirassol": "1",
+                    "Sao Paulo": "0"
+                },
+                "shots_off_target": {
+                    "Mirassol": "6",
+                    "Sao Paulo": "5"
+                },
+                "shots_on_target": {
+                    "Mirassol": "1",
+                    "Sao Paulo": "1"
+                },
+                "yellow_cards": {
+                    "Mirassol": "2",
+                    "Sao Paulo": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sao-paulo-mirassol-2026-04-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/7848.webp",
+                    "name": "Mirassol",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/126.webp",
+                    "name": "Sao Paulo",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sao-paulo-mirassol-2026-04-26-XrwR.webp",
+            "title": "São Paulo - Mirassol"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 22, 2026",
+            "description": "Watch Sao Paulo vs Palmeiras highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 22, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "F. Lopez",
+                    "event_type": "Goal",
+                    "player": "J. Arias",
+                    "score_update": "0 - 1",
+                    "team": "Palmeiras",
+                    "time": "6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Diaz",
+                    "team": "Sao Paulo",
+                    "time": "23'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Pereira",
+                    "team": "Palmeiras",
+                    "time": "43'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Miguel",
+                    "team": "Palmeiras",
+                    "time": "45+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Freitas",
+                    "team": "Palmeiras",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Martínez",
+                    "team": "Palmeiras",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Wendell",
+                    "team": "Sao Paulo",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Arias",
+                    "team": "Palmeiras",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Andre Silva",
+                    "team": "Sao Paulo",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sao Paulo 0 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Paulista A1: Play-off",
+                            "date": "08/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Novorizontino 1 - 2 Palmeiras"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Palmeiras 2 - 1 Fluminense"
+                        },
+                        {
+                            "competition": "Paulista A1: Play-off",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Palmeiras 4 - 0 Capivariano"
+                        },
+                        {
+                            "competition": "Paulista A1",
+                            "date": "15/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Palmeiras 1 - 1 Guarani"
+                        }
+                    ],
+                    "team": "Palmeiras"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Sao Paulo 0 - 1 Palmeiras"
+                        },
+                        {
+                            "competition": "Paulista A1: Play-off",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Palmeiras 2 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Coritiba 0 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Paulista A1: Play-off",
+                            "date": "21/02/2026",
+                            "result": "W",
+                            "teams_and_score": "RB Bragantino 1 - 2 Sao Paulo"
+                        },
+                        {
+                            "competition": "Paulista A1",
+                            "date": "15/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Ponte Preta 1 - 2 Sao Paulo"
+                        }
+                    ],
+                    "team": "Sao Paulo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Paulista A1: Play-off",
+                        "date": "01/03/2026",
+                        "teams_and_score": "Palmeiras 2 - 1 Sao Paulo"
+                    },
+                    {
+                        "competition": "Paulista A1",
+                        "date": "24/01/2026",
+                        "teams_and_score": "Palmeiras 3 - 1 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "05/10/2025",
+                        "teams_and_score": "Sao Paulo 2 - 3 Palmeiras"
+                    },
+                    {
+                        "competition": "Paulista A1: Play-off",
+                        "date": "11/03/2025",
+                        "teams_and_score": "Palmeiras 1 - 0 Sao Paulo"
+                    },
+                    {
+                        "competition": "Paulista A1",
+                        "date": "16/02/2025",
+                        "teams_and_score": "Palmeiras 0 - 0 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "18/08/2024",
+                        "teams_and_score": "Palmeiras 2 - 1 Sao Paulo"
+                    },
+                    {
+                        "competition": "Paulista A1",
+                        "date": "03/03/2024",
+                        "teams_and_score": "Sao Paulo 1 - 1 Palmeiras"
+                    }
+                ],
+                "summary": {
+                    "Palmeiras_wins": "5",
+                    "Sao Paulo_wins": "0",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Palmeiras": "39%",
+                    "Sao Paulo": "61%"
+                },
+                "corners": {
+                    "Palmeiras": "1",
+                    "Sao Paulo": "10"
+                },
+                "fouls": {
+                    "Palmeiras": "21",
+                    "Sao Paulo": "13"
+                },
+                "goalkeeper_saves": {
+                    "Palmeiras": "2",
+                    "Sao Paulo": "1"
+                },
+                "offsides": {
+                    "Palmeiras": "1",
+                    "Sao Paulo": "5"
+                },
+                "shots_off_target": {
+                    "Palmeiras": "3",
+                    "Sao Paulo": "3"
+                },
+                "shots_on_target": {
+                    "Palmeiras": "2",
+                    "Sao Paulo": "2"
+                },
+                "yellow_cards": {
+                    "Palmeiras": "5",
+                    "Sao Paulo": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sao-paulo-palmeiras-2026-03-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/121.webp",
+                    "name": "Palmeiras",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/126.webp",
+                    "name": "Sao Paulo",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sao-paulo-palmeiras-2026-03-22-46Fc.webp",
+            "title": "São Paulo - Palmeiras"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 19, 2026",
+            "description": "Watch Vasco DA Gama vs Sao Paulo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 19, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "L. Neves",
+                    "score_update": "0 - 1",
+                    "team": "Sao Paulo",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Soares",
+                    "team": "Sao Paulo",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "P. Rodriguez",
+                    "score_update": "1 - 1",
+                    "team": "Vasco DA Gama",
+                    "time": "72'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Franco",
+                    "team": "Sao Paulo",
+                    "time": "74'"
+                },
+                {
+                    "assist": "Brenner",
+                    "event_type": "Goal",
+                    "player": "A. Gomez",
+                    "score_update": "2 - 1",
+                    "team": "Vasco DA Gama",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Jardim",
+                    "team": "Vasco DA Gama",
+                    "time": "90+7'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vasco da Gama 2 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "14/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sao Paulo 2 - 0 O'Higgins"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vitoria 2 - 0 Sao Paulo"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "08/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Boston River 0 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sao Paulo 4 - 1 Cruzeiro"
+                        }
+                    ],
+                    "team": "Sao Paulo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "18/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Vasco da Gama 2 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "15/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vasco da Gama 1 - 2 Audax Italiano"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Remo 1 - 1 Vasco da Gama"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "07/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Barracas Central 0 - 0 Vasco da Gama"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vasco da Gama 1 - 2 Botafogo FR"
+                        }
+                    ],
+                    "team": "Vasco DA Gama"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "02/11/2025",
+                        "teams_and_score": "Vasco da Gama 0 - 2 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "17/10/2024",
+                        "teams_and_score": "Sao Paulo 3 - 0 Vasco da Gama"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "07/10/2023",
+                        "teams_and_score": "Vasco da Gama 0 - 0 Sao Paulo"
+                    },
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "05/08/2021",
+                        "teams_and_score": "Vasco da Gama 1 - 2 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A 2020",
+                        "date": "22/11/2020",
+                        "teams_and_score": "Sao Paulo 1 - 1 Vasco da Gama"
+                    }
+                ],
+                "summary": {
+                    "Sao Paulo_wins": "3",
+                    "Vasco DA Gama_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Sao Paulo": "36%",
+                    "Vasco DA Gama": "64%"
+                },
+                "corners": {
+                    "Sao Paulo": "5",
+                    "Vasco DA Gama": "6"
+                },
+                "fouls": {
+                    "Sao Paulo": "18",
+                    "Vasco DA Gama": "14"
+                },
+                "goalkeeper_saves": {
+                    "Sao Paulo": "2",
+                    "Vasco DA Gama": "2"
+                },
+                "shots_off_target": {
+                    "Sao Paulo": "3",
+                    "Vasco DA Gama": "9"
+                },
+                "shots_on_target": {
+                    "Sao Paulo": "3",
+                    "Vasco DA Gama": "4"
+                },
+                "yellow_cards": {
+                    "Sao Paulo": "2",
+                    "Vasco DA Gama": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/vasco-da-gama-sao-paulo-2026-04-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/126.webp",
+                    "name": "Sao Paulo",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/133.webp",
+                    "name": "Vasco DA Gama",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/vasco-da-gama-sao-paulo-2026-04-19-qVzR.webp",
+            "title": "Vasco da Gama - Sao Paulo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Vitoria vs Sao Paulo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "N. Mendes",
+                    "event_type": "Goal",
+                    "player": "Caca",
+                    "score_update": "1 - 0",
+                    "team": "Vitoria",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Antonio",
+                    "team": "Sao Paulo",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "L. Ramon",
+                    "team": "Sao Paulo",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Tarzia",
+                    "team": "Vitoria",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Tete",
+                    "team": "Sao Paulo",
+                    "time": "76'"
+                },
+                {
+                    "assist": "G. Baralhas",
+                    "event_type": "Goal",
+                    "player": "Ramon",
+                    "score_update": "2 - 0",
+                    "team": "Vitoria",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Baralhas",
+                    "team": "Vitoria",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Toloi",
+                    "team": "Sao Paulo",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Vitoria 2 - 0 Sao Paulo"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "08/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Boston River 0 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "04/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Sao Paulo 4 - 1 Cruzeiro"
+                        },
+                        {
+                            "competition": "Paulista A1: Play-off",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Palmeiras 2 - 1 Sao Paulo"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "25/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Coritiba 0 - 1 Sao Paulo"
+                        }
+                    ],
+                    "team": "Sao Paulo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Vitoria 2 - 0 Sao Paulo"
+                        },
+                        {
+                            "competition": "Copa do Nordeste: Group Stage",
+                            "date": "08/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Vitoria 4 - 1 Juazeirense"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "05/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Chapecoense AF 1 - 1 Vitoria"
+                        },
+                        {
+                            "competition": "Copa do Nordeste: Group Stage",
+                            "date": "28/03/2026",
+                            "result": "W",
+                            "teams_and_score": "CRB 2 - 4 Vitoria"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Vitoria 1 - 0 Mirassol"
+                        }
+                    ],
+                    "team": "Vitoria"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "07/12/2025",
+                        "teams_and_score": "Vitoria 1 - 0 Sao Paulo"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "25/08/2024",
+                        "teams_and_score": "Sao Paulo 2 - 1 Vitoria"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "26/10/2018",
+                        "teams_and_score": "Vitoria 0 - 1 Sao Paulo"
+                    }
+                ],
+                "summary": {
+                    "Sao Paulo_wins": "2",
+                    "Vitoria_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Sao Paulo": "60%",
+                    "Vitoria": "40%"
+                },
+                "corners": {
+                    "Sao Paulo": "6",
+                    "Vitoria": "1"
+                },
+                "fouls": {
+                    "Sao Paulo": "11",
+                    "Vitoria": "10"
+                },
+                "goalkeeper_saves": {
+                    "Sao Paulo": "4",
+                    "Vitoria": "5"
+                },
+                "offsides": {
+                    "Sao Paulo": "1",
+                    "Vitoria": "2"
+                },
+                "red_cards": {
+                    "Sao Paulo": "1",
+                    "Vitoria": "0"
+                },
+                "shots_off_target": {
+                    "Sao Paulo": "6",
+                    "Vitoria": "4"
+                },
+                "shots_on_target": {
+                    "Sao Paulo": "5",
+                    "Vitoria": "6"
+                },
+                "yellow_cards": {
+                    "Sao Paulo": "3",
+                    "Vitoria": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/vitoria-sao-paulo-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/126.webp",
+                    "name": "Sao Paulo",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/136.webp",
+                    "name": "Vitoria",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/vitoria-sao-paulo-2026-04-11-qths.webp",
+            "title": "Vitoria - Sao Paulo"
+        },
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Dec 8, 2025",
+            "description": "Watch Vitoria vs Sao Paulo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on December 8, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/vitoria-vs-sao-paulo-2025-12-08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/vitoria-vs-sao-paulo-2025-12-08-rWER.webp",
+            "title": "Vitoria vs Sao Paulo"
+        }
+    ]
+}

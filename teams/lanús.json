@@ -1,0 +1,42 @@
+{
+    "team": "Lanús",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 14, 2026",
+            "description": "Watch Estudiantes L.P. vs Lanus highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/estudiantes-de-la-plata-lanus-2026-03-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/estudiantes-de-la-plata-lanus-2026-03-14-WnnN.webp",
+            "title": "Estudiantes de La Plata - Lanús"
+        }
+    ]
+}

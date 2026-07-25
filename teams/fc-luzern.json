@@ -1,0 +1,226 @@
+{
+    "team": "FC Luzern",
+    "team_logo": "https://img.refooty.com/logo/teams/644.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "May 30, 2006",
+            "description": "Watch FC Luzern vs Brazil highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on May 30, 2006.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Perišić",
+                    "team": "Brazil",
+                    "time": "22'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Caleta-Car",
+                    "team": "Brazil",
+                    "time": "28'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Casemiro",
+                    "team": "FC Luzern",
+                    "time": "45'"
+                },
+                {
+                    "assist": "V. Junior",
+                    "event_type": "Goal",
+                    "player": "D. Oliveira",
+                    "score_update": "1 - 0",
+                    "team": "FC Luzern",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Vuskovic",
+                    "team": "Brazil",
+                    "time": "82'"
+                },
+                {
+                    "assist": "T. Fruk",
+                    "event_type": "Goal",
+                    "player": "L. Majer",
+                    "score_update": "1 - 1",
+                    "team": "Brazil",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Thiago",
+                    "score_update": "2 - 1",
+                    "team": "FC Luzern",
+                    "time": "88'"
+                },
+                {
+                    "assist": "Endrick",
+                    "event_type": "Goal",
+                    "player": "G. Martinelli",
+                    "score_update": "3 - 1",
+                    "team": "FC Luzern",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "01/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Brazil 3 - 1 Croatia"
+                        },
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "26/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Colombia 1 - 2 Croatia"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group L",
+                            "date": "17/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Montenegro 2 - 3 Croatia"
+                        }
+                    ],
+                    "team": "Brazil"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "01/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Brazil 3 - 1 Croatia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Brazil 1 - 1 Tunisia"
+                        },
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "14/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Japan 3 - 2 Brazil"
+                        },
+                        {
+                            "competition": "CONMEBOL Qualification",
+                            "date": "09/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Bolivia 1 - 0 Brazil"
+                        }
+                    ],
+                    "team": "FC Luzern"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Quarter-finals",
+                        "date": "09/12/2022",
+                        "teams_and_score": "Croatia 1 - 1 Brazil"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "03/06/2018",
+                        "teams_and_score": "Brazil 2 - 0 Croatia"
+                    },
+                    {
+                        "competition": "World Cup grp. A",
+                        "date": "12/06/2014",
+                        "teams_and_score": "Brazil 3 - 1 Croatia"
+                    },
+                    {
+                        "competition": "World Cup grp. F",
+                        "date": "13/06/2006",
+                        "teams_and_score": "Brazil 1 - 0 Croatia"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "17/08/2005",
+                        "teams_and_score": "Croatia 1 - 1 Brazil"
+                    }
+                ],
+                "summary": {
+                    "Brazil_wins": "3",
+                    "FC Luzern_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Brazil": "55%",
+                    "FC Luzern": "45%"
+                },
+                "corners": {
+                    "Brazil": "2",
+                    "FC Luzern": "2"
+                },
+                "fouls": {
+                    "Brazil": "13",
+                    "FC Luzern": "12"
+                },
+                "goalkeeper_saves": {
+                    "Brazil": "4",
+                    "FC Luzern": "2"
+                },
+                "offsides": {
+                    "Brazil": "0",
+                    "FC Luzern": "1"
+                },
+                "shots_blocked": {
+                    "Brazil": "4",
+                    "FC Luzern": "5"
+                },
+                "shots_off_target": {
+                    "Brazil": "5",
+                    "FC Luzern": "1"
+                },
+                "shots_on_target": {
+                    "Brazil": "3",
+                    "FC Luzern": "7"
+                },
+                "yellow_cards": {
+                    "Brazil": "3",
+                    "FC Luzern": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-luzern-vs-brazil-2006-05-30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/6.webp",
+                    "name": "Brazil",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/644.webp",
+                    "name": "FC Luzern",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-luzern-vs-brazil-2006-05-30-vnod.webp",
+            "title": "FC Luzern vs Brazil"
+        }
+    ]
+}

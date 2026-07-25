@@ -1,0 +1,77 @@
+{
+    "team": "Arles",
+    "team_logo": "https://img.refooty.com/logo/teams/4652.webp",
+    "total_matches": 2,
+    "matches": [
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Jan 4, 2026",
+            "description": "Watch Arles vs Auxerre highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on January 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Auxerre"
+                },
+                "home_team_form": {
+                    "team": "Arles"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Brest_v_Auxerre_2026_01_04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/108.webp",
+                    "name": "Auxerre",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4652.webp",
+                    "name": "Arles",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brest-v-auxerre-2026-01-04.webp",
+            "title": "Brest vs Auxerre"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Nov 8, 2025",
+            "description": "Watch Marseille vs Arles highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on November 8, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Arles"
+                },
+                "home_team_form": {
+                    "team": "Marseille"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Marseille_v_Brest_2025_11_08.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4652.webp",
+                    "name": "Arles",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-v-brest-2025-11-08.webp",
+            "title": "Olympique Marseille vs Brest"
+        }
+    ]
+}

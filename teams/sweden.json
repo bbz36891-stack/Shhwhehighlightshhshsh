@@ -1,0 +1,3349 @@
+{
+    "team": "Sweden",
+    "team_logo": "https://img.refooty.com/logo/teams/10196.webp",
+    "total_matches": 18,
+    "matches": [
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Jun 30, 2026",
+            "description": "Watch France vs Sweden highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on June 30, 2026. A World Cup clash of contrasting fortunes On June 30, 2026, the global stage of the World Cup hosted a highly anticipated fixture between France and Sweden . Both sides entered the match with tactical focus, looking to establish their authority and secure a vital victory in the pursuit of tournament progression. Breaking the deadlock From the outset, France applied significant pressure, frequently testing Swedish goalkeeper Jacob Widell Zetterström . The Swedish defense held firm under intense scrutiny for much of the first half until the 45th minute, when Ousmane Dembélé delivered a precise corner that found Kylian Mbappé . The forward made no mistake, firing a clinical right-footed shot into the top right corner to give the French a deserved lead going into the break. Doubling the advantage and closing the door France maintained their momentum immediately after the interval. In the 53rd minute, a swift fast break culminated in Michael Olise sliding a pass through to Bradley Barcola , who smashed the ball into the top left corner to make it 2-0. Sweden struggled to find a response, and despite the introduction of fresh legs from the bench, including Mattias Svanberg and Benjamin Nygren , they were consistently thwarted by the French defensive unit and goalkeeper Mike Maignan . A comprehensive finish As the match progressed, Kylian Mbappé cemented his influence by scoring his second of the day in the 74th minute, set up by another superb through ball from Michael Olise . This goal effectively put the contest beyond reach. France controlled the closing stages with composure and tactical maturity, comfortably seeing out the 3-0 victory while Sweden failed to convert their late efforts into meaningful breakthroughs.",
+            "events_timeline": [
+                {
+                    "assist": "O. Dembélé",
+                    "event_type": "Goal",
+                    "player": "K. Mbappé",
+                    "score_update": "1 - 0",
+                    "team": "France",
+                    "time": "1'"
+                },
+                {
+                    "assist": "M. Olise",
+                    "event_type": "Goal",
+                    "player": "B. Barcola",
+                    "score_update": "2 - 0",
+                    "team": "France",
+                    "time": "46'"
+                },
+                {
+                    "assist": "M. Olise",
+                    "event_type": "Goal",
+                    "player": "K. Mbappé",
+                    "score_update": "3 - 0",
+                    "team": "France",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "R32",
+                            "date": "30/06/2026",
+                            "result": "L",
+                            "teams_and_score": "France 3 - 0 Sweden"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "25/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Japan 1 - 1 Sweden"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "04/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Sweden 2 - 2 Greece"
+                        },
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group B",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sweden 1 - 1 Slovenia"
+                        }
+                    ],
+                    "team": "Sweden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "R32",
+                            "date": "30/06/2026",
+                            "result": "W",
+                            "teams_and_score": "France 3 - 0 Sweden"
+                        },
+                        {
+                            "competition": "Group I",
+                            "date": "26/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Norway 1 - 4 France"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "08/06/2026",
+                            "result": "W",
+                            "teams_and_score": "France 3 - 1 Northern Ireland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group D",
+                            "date": "16/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Azerbaijan 1 - 3 France"
+                        }
+                    ],
+                    "team": "France"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA Nations League 2020/2021",
+                        "date": "17/11/2020",
+                        "teams_and_score": "France 4 - 2 Sweden"
+                    },
+                    {
+                        "competition": "UEFA World Cup Qualifiers 2018 Russia",
+                        "date": "09/06/2017",
+                        "teams_and_score": "Sweden 2 - 1 France"
+                    },
+                    {
+                        "competition": "Internationals 2014",
+                        "date": "18/11/2014",
+                        "teams_and_score": "France 1 - 0 Sweden"
+                    },
+                    {
+                        "competition": "UEFA European Championship Finals 2012 Poland/Ukraine",
+                        "date": "19/06/2012",
+                        "teams_and_score": "Sweden 2 - 0 France"
+                    },
+                    {
+                        "competition": "Internationals 2008",
+                        "date": "20/08/2008",
+                        "teams_and_score": "Sweden 2 - 3 France"
+                    },
+                    {
+                        "competition": "Internationals 2005",
+                        "date": "09/02/2005",
+                        "teams_and_score": "France 1 - 1 Sweden"
+                    },
+                    {
+                        "competition": "Internationals 1998",
+                        "date": "21/04/1998",
+                        "teams_and_score": "Sweden 0 - 0 France"
+                    }
+                ],
+                "summary": {
+                    "France_wins": "4",
+                    "Sweden_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "France": "61%",
+                    "Sweden": "39%"
+                },
+                "corners": {
+                    "France": "9",
+                    "Sweden": "1"
+                },
+                "crosses": {
+                    "France": "4",
+                    "Sweden": "3"
+                },
+                "fouls": {
+                    "France": "14",
+                    "Sweden": "10"
+                },
+                "goalkeeper_saves": {
+                    "France": "3",
+                    "Sweden": "9"
+                },
+                "offsides": {
+                    "France": "3",
+                    "Sweden": "1"
+                },
+                "shots_blocked": {
+                    "France": "4",
+                    "Sweden": "1"
+                },
+                "shots_off_target": {
+                    "France": "9",
+                    "Sweden": "4"
+                },
+                "shots_on_target": {
+                    "France": "12",
+                    "Sweden": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/France_v_Sweden_2026_06_30.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2.webp",
+                    "name": "France",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/france-v-sweden-2026-06-30-yQgo.webp",
+            "title": "France vs Sweden"
+        },
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Jun 30, 2026",
+            "description": "Watch France vs Sweden highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on June 30, 2026. The stage was set for a high-stakes clash in the World Cup as France faced Sweden in a match that promised to test the resolve of both sides. On June 30, 2026, the atmosphere was thick with anticipation, with both teams looking to assert their dominance on the global stage. Building momentum before the break France started the game with clear intent, pinning Sweden back and testing the opposition's defensive structure. While Alexander Isak threatened for the visitors early on, Mike Maignan remained alert to keep the scores level. As the first half progressed, the French attack turned up the heat, with Kylian Mbappé hitting the post and Michael Olise forcing multiple saves from goalkeeper Jacob Widell Zetterström . The breakthrough finally arrived in the 45th minute. Following a corner, Ousmane Dembélé found Kylian Mbappé , whose clinical right-footed strike into the top right corner gave the home side the lead heading into the tunnel. The goal provided the perfect platform for the French to dictate the tempo in the second half. A clinical display of superiority The momentum continued immediately after the restart. In the 53rd minute, Michael Olise threaded a precise pass to Bradley Barcola , who finished into the top left corner to double the lead. Sweden struggled to recover, and as the game opened up, France found more space to operate. The final nail in the coffin came in the 74th minute. Once again, Michael Olise was the architect, delivering a through ball to Kylian Mbappé , who slotted home his second goal of the match. Despite late efforts from the Swedish side, including a save by Mike Maignan on Mattias Svanberg , the match ended with a commanding 3-0 victory for France .",
+            "events_timeline": [
+                {
+                    "assist": "O. Dembélé",
+                    "event_type": "Goal",
+                    "player": "K. Mbappé",
+                    "score_update": "1 - 0",
+                    "team": "France",
+                    "time": "1'"
+                },
+                {
+                    "assist": "M. Olise",
+                    "event_type": "Goal",
+                    "player": "B. Barcola",
+                    "score_update": "2 - 0",
+                    "team": "France",
+                    "time": "46'"
+                },
+                {
+                    "assist": "M. Olise",
+                    "event_type": "Goal",
+                    "player": "K. Mbappé",
+                    "score_update": "3 - 0",
+                    "team": "France",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "R32",
+                            "date": "30/06/2026",
+                            "result": "L",
+                            "teams_and_score": "France 3 - 0 Sweden"
+                        },
+                        {
+                            "competition": "Group F",
+                            "date": "25/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Japan 1 - 1 Sweden"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "04/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Sweden 2 - 2 Greece"
+                        },
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group B",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sweden 1 - 1 Slovenia"
+                        }
+                    ],
+                    "team": "Sweden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "R32",
+                            "date": "30/06/2026",
+                            "result": "W",
+                            "teams_and_score": "France 3 - 0 Sweden"
+                        },
+                        {
+                            "competition": "Group I",
+                            "date": "26/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Norway 1 - 4 France"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "08/06/2026",
+                            "result": "W",
+                            "teams_and_score": "France 3 - 1 Northern Ireland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group D",
+                            "date": "16/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Azerbaijan 1 - 3 France"
+                        }
+                    ],
+                    "team": "France"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA Nations League 2020/2021",
+                        "date": "17/11/2020",
+                        "teams_and_score": "France 4 - 2 Sweden"
+                    },
+                    {
+                        "competition": "UEFA World Cup Qualifiers 2018 Russia",
+                        "date": "09/06/2017",
+                        "teams_and_score": "Sweden 2 - 1 France"
+                    },
+                    {
+                        "competition": "Internationals 2014",
+                        "date": "18/11/2014",
+                        "teams_and_score": "France 1 - 0 Sweden"
+                    },
+                    {
+                        "competition": "UEFA European Championship Finals 2012 Poland/Ukraine",
+                        "date": "19/06/2012",
+                        "teams_and_score": "Sweden 2 - 0 France"
+                    },
+                    {
+                        "competition": "Internationals 2008",
+                        "date": "20/08/2008",
+                        "teams_and_score": "Sweden 2 - 3 France"
+                    },
+                    {
+                        "competition": "Internationals 2005",
+                        "date": "09/02/2005",
+                        "teams_and_score": "France 1 - 1 Sweden"
+                    },
+                    {
+                        "competition": "Internationals 1998",
+                        "date": "21/04/1998",
+                        "teams_and_score": "Sweden 0 - 0 France"
+                    }
+                ],
+                "summary": {
+                    "France_wins": "4",
+                    "Sweden_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "France": "61%",
+                    "Sweden": "39%"
+                },
+                "corners": {
+                    "France": "9",
+                    "Sweden": "1"
+                },
+                "crosses": {
+                    "France": "4",
+                    "Sweden": "3"
+                },
+                "fouls": {
+                    "France": "14",
+                    "Sweden": "10"
+                },
+                "goalkeeper_saves": {
+                    "France": "3",
+                    "Sweden": "9"
+                },
+                "offsides": {
+                    "France": "3",
+                    "Sweden": "1"
+                },
+                "shots_blocked": {
+                    "France": "4",
+                    "Sweden": "1"
+                },
+                "shots_off_target": {
+                    "France": "9",
+                    "Sweden": "4"
+                },
+                "shots_on_target": {
+                    "France": "12",
+                    "Sweden": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/14560-9tjVH.m3u8",
+                    "part": "1st Half"
+                },
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/14561-Q8cGy.m3u8",
+                    "part": "2nd Half"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2.webp",
+                    "name": "France",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/france-vs-sweden-full-match-2026-06-30-biy0.webp",
+            "title": "France vs Sweden Full Match"
+        },
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Jun 24, 2018",
+            "description": "Watch Germany vs Sweden highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on June 24, 2018.",
+            "events_timeline": [
+                {
+                    "assist": "Y. Ayari",
+                    "event_type": "Goal",
+                    "player": "A. Elanga",
+                    "score_update": "1 - 0",
+                    "team": "Germany",
+                    "time": "1'"
+                },
+                {
+                    "assist": "P. Zieliński",
+                    "event_type": "Goal",
+                    "player": "N. Zalewski",
+                    "score_update": "1 - 1",
+                    "team": "Sweden",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Kiwior",
+                    "team": "Sweden",
+                    "time": "31'"
+                },
+                {
+                    "assist": "B. Nygren",
+                    "event_type": "Goal",
+                    "player": "G. Lagerbielke",
+                    "score_update": "2 - 1",
+                    "team": "Germany",
+                    "time": "46'"
+                },
+                {
+                    "assist": "N. Zalewski",
+                    "event_type": "Goal",
+                    "player": "K. Świderski",
+                    "score_update": "2 - 2",
+                    "team": "Sweden",
+                    "time": "55'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Karlstrom",
+                    "team": "Germany",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Pietuszewski",
+                    "team": "Sweden",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Bergvall",
+                    "team": "Germany",
+                    "time": "77'"
+                },
+                {
+                    "assist": "B. Zeneli",
+                    "event_type": "Goal",
+                    "player": "V. Gyökeres",
+                    "score_update": "3 - 2",
+                    "team": "Germany",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Piątek",
+                    "team": "Sweden",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group G",
+                            "date": "17/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Malta 2 - 3 Poland"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "09/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Poland 1 - 0 New Zealand"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group G",
+                            "date": "07/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Poland 3 - 1 Finland"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "06/06/2025",
+                            "result": "L",
+                            "teams_and_score": "Poland 2 - 0 Moldova"
+                        }
+                    ],
+                    "team": "Sweden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group B",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sweden 1 - 1 Slovenia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "10/06/2025",
+                            "result": "L",
+                            "teams_and_score": "Sweden 4 - 3 Algeria"
+                        }
+                    ],
+                    "team": "Germany"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA Qualification: Play-off",
+                        "date": "29/03/2022",
+                        "teams_and_score": "Poland 2 - 0 Sweden"
+                    },
+                    {
+                        "competition": "Group E 2020",
+                        "date": "23/06/2021",
+                        "teams_and_score": "Sweden 3 - 2 Poland"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "05/06/2004",
+                        "teams_and_score": "Sweden 3 - 1 Poland"
+                    },
+                    {
+                        "competition": "EURO qualification grp. D",
+                        "date": "10/09/2003",
+                        "teams_and_score": "Poland 0 - 2 Sweden"
+                    }
+                ],
+                "summary": {
+                    "Germany_wins": "1",
+                    "Sweden_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Germany": "36%",
+                    "Sweden": "64%"
+                },
+                "corners": {
+                    "Germany": "2",
+                    "Sweden": "9"
+                },
+                "crosses": {
+                    "Germany": "12",
+                    "Sweden": "24"
+                },
+                "fouls": {
+                    "Germany": "15",
+                    "Sweden": "15"
+                },
+                "goalkeeper_saves": {
+                    "Germany": "5",
+                    "Sweden": "2"
+                },
+                "offsides": {
+                    "Germany": "1",
+                    "Sweden": "4"
+                },
+                "shots_blocked": {
+                    "Germany": "2",
+                    "Sweden": "5"
+                },
+                "shots_off_target": {
+                    "Germany": "2",
+                    "Sweden": "3"
+                },
+                "shots_on_target": {
+                    "Germany": "5",
+                    "Sweden": "7"
+                },
+                "yellow_cards": {
+                    "Germany": "2",
+                    "Sweden": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/germany-vs-sweden-2018-06-24.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/25.webp",
+                    "name": "Germany",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/germany-vs-sweden-2018-06-24-RfT7.webp",
+            "title": "Germany vs Sweden"
+        },
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Jun 25, 2026",
+            "description": "Watch Japan vs Sweden highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on June 25, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Hien",
+                    "team": "Sweden",
+                    "time": "1'"
+                },
+                {
+                    "assist": "R. Doan",
+                    "event_type": "Goal",
+                    "player": "D. Maeda",
+                    "score_update": "1 - 0",
+                    "team": "Japan",
+                    "time": "46'"
+                },
+                {
+                    "assist": "V. Gyökeres",
+                    "event_type": "Goal",
+                    "player": "A. Elanga",
+                    "score_update": "1 - 1",
+                    "team": "Sweden",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Taniguchi",
+                    "team": "Japan",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Gyökeres",
+                    "team": "Sweden",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "25/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Japan 1 - 1 Sweden"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "04/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Sweden 2 - 2 Greece"
+                        },
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group B",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sweden 1 - 1 Slovenia"
+                        }
+                    ],
+                    "team": "Sweden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "25/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Japan 1 - 1 Sweden"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "31/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Japan 1 - 0 Iceland"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "England 0 - 1 Japan"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "18/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Japan 3 - 0 Bolivia"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "14/10/2025",
+                            "result": "W",
+                            "teams_and_score": "Japan 3 - 2 Brazil"
+                        }
+                    ],
+                    "team": "Japan"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Internationals 2002",
+                        "date": "25/05/2002",
+                        "teams_and_score": "Japan 1 - 1 Sweden"
+                    },
+                    {
+                        "competition": "Internationals 1997",
+                        "date": "13/02/1997",
+                        "teams_and_score": "Japan 0 - 1 Sweden"
+                    },
+                    {
+                        "competition": "Internationals 1996",
+                        "date": "21/02/1996",
+                        "teams_and_score": "Japan 1 - 1 Sweden"
+                    },
+                    {
+                        "competition": "Internationals 1995",
+                        "date": "10/06/1995",
+                        "teams_and_score": "Japan 2 - 2 Sweden"
+                    }
+                ],
+                "summary": {
+                    "Japan_wins": "0",
+                    "Sweden_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Japan": "52%",
+                    "Sweden": "48%"
+                },
+                "corners": {
+                    "Japan": "2",
+                    "Sweden": "8"
+                },
+                "crosses": {
+                    "Japan": "4",
+                    "Sweden": "4"
+                },
+                "fouls": {
+                    "Japan": "20",
+                    "Sweden": "11"
+                },
+                "goalkeeper_saves": {
+                    "Japan": "4",
+                    "Sweden": "2"
+                },
+                "offsides": {
+                    "Japan": "3",
+                    "Sweden": "2"
+                },
+                "shots_blocked": {
+                    "Japan": "2",
+                    "Sweden": "3"
+                },
+                "shots_off_target": {
+                    "Japan": "3",
+                    "Sweden": "3"
+                },
+                "shots_on_target": {
+                    "Japan": "3",
+                    "Sweden": "5"
+                },
+                "yellow_cards": {
+                    "Japan": "1",
+                    "Sweden": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Japan_v_Sweden_2026_06_25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/12.webp",
+                    "name": "Japan",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/japan-v-sweden-2026-06-25-3h7R.webp",
+            "title": "Japan vs Sweden"
+        },
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Jun 26, 2026",
+            "description": "Watch Japan vs Sweden highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on June 26, 2026. The stage was set for a monumental encounter as two footballing philosophies collided in this highly anticipated fixture. On June 26, 2026 , Japan and Sweden took to the pitch, each aiming to secure a vital advantage in their World Cup campaign. Tactical Chess and Early Casualties The match opened with Sweden asserting physical dominance, forcing two early corners that kept the Japanese backline on high alert. Alexander Bernhardsson registered the first meaningful attempt on target, but Zion Suzuki was well-positioned to collect the low drive. As the half progressed, the game evolved into a disciplined tactical battle. Japan relied on their quick transitions, while Sweden suffered an early blow when Isak Hien was forced off due to injury, replaced by the promising Lucas Bergvall . Towards the end of the first half, Japan began to find their rhythm. Keito Nakamura forced a sharp save from Jacob Widell Zetterström with a well-struck effort from the left side of the box. Despite the flurry of late activity in the opening period, both sides headed into the tunnel with the deadlock still intact, setting the scene for an explosive second half. Rapid Fire Goals Shift the Momentum The intensity shifted immediately after the restart, and it was Japan who drew first blood in the 56th minute. A brilliant through ball from Ritsu Doan sliced through the Swedish defense, finding Daizen Maeda in the center of the box. The forward kept his composure to slot a right-footed shot into the bottom left corner, sending the Japanese supporters into raptures. However, the lead would prove to be fragile. Sweden responded with clinical precision in the 62nd minute. Viktor Gyökeres provided the crucial assist, laying the ball off for Anthony Elanga outside the area. Elanga unleashed a fierce left-footed strike that zoomed into the bottom corner, leaving Suzuki with no chance. The equalizer completely altered the dynamic of the match, as both teams pushed forward in search of a decisive winner. Suzuki Stands Tall in Stoppage Time The closing stages were dominated by a resurgent Swedish side. Deep into the seven minutes of added time, Anthony Elanga nearly doubled his tally, but his low shot was brilliantly parried by Zion Suzuki . Minutes later, Alexander Isak looked certain to score with a header from close range, but Suzuki produced another world-class save to tip the ball away from the top corner. Despite the late pressure and numerous substitutions from both managers, neither side could find the breakthrough. The final whistle confirmed a 1-1 draw, a fair reflection of a contest where both Japan and Sweden displayed the grit and quality expected on the world's biggest stage.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Hien",
+                    "team": "Sweden",
+                    "time": "1'"
+                },
+                {
+                    "assist": "R. Doan",
+                    "event_type": "Goal",
+                    "player": "D. Maeda",
+                    "score_update": "1 - 0",
+                    "team": "Japan",
+                    "time": "46'"
+                },
+                {
+                    "assist": "V. Gyökeres",
+                    "event_type": "Goal",
+                    "player": "A. Elanga",
+                    "score_update": "1 - 1",
+                    "team": "Sweden",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Taniguchi",
+                    "team": "Japan",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Gyökeres",
+                    "team": "Sweden",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "25/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Japan 1 - 1 Sweden"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "04/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Sweden 2 - 2 Greece"
+                        },
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group B",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sweden 1 - 1 Slovenia"
+                        }
+                    ],
+                    "team": "Sweden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "25/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Japan 1 - 1 Sweden"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "31/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Japan 1 - 0 Iceland"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "England 0 - 1 Japan"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "18/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Japan 3 - 0 Bolivia"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "14/10/2025",
+                            "result": "W",
+                            "teams_and_score": "Japan 3 - 2 Brazil"
+                        }
+                    ],
+                    "team": "Japan"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Internationals 2002",
+                        "date": "25/05/2002",
+                        "teams_and_score": "Japan 1 - 1 Sweden"
+                    },
+                    {
+                        "competition": "Internationals 1997",
+                        "date": "13/02/1997",
+                        "teams_and_score": "Japan 0 - 1 Sweden"
+                    },
+                    {
+                        "competition": "Internationals 1996",
+                        "date": "21/02/1996",
+                        "teams_and_score": "Japan 1 - 1 Sweden"
+                    },
+                    {
+                        "competition": "Internationals 1995",
+                        "date": "10/06/1995",
+                        "teams_and_score": "Japan 2 - 2 Sweden"
+                    }
+                ],
+                "summary": {
+                    "Japan_wins": "0",
+                    "Sweden_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Japan": "52%",
+                    "Sweden": "48%"
+                },
+                "corners": {
+                    "Japan": "2",
+                    "Sweden": "8"
+                },
+                "crosses": {
+                    "Japan": "4",
+                    "Sweden": "4"
+                },
+                "fouls": {
+                    "Japan": "20",
+                    "Sweden": "11"
+                },
+                "goalkeeper_saves": {
+                    "Japan": "4",
+                    "Sweden": "2"
+                },
+                "offsides": {
+                    "Japan": "3",
+                    "Sweden": "2"
+                },
+                "shots_blocked": {
+                    "Japan": "2",
+                    "Sweden": "3"
+                },
+                "shots_off_target": {
+                    "Japan": "3",
+                    "Sweden": "3"
+                },
+                "shots_on_target": {
+                    "Japan": "3",
+                    "Sweden": "5"
+                },
+                "yellow_cards": {
+                    "Japan": "1",
+                    "Sweden": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/14481-YKPcI.m3u8",
+                    "part": "1st Half"
+                },
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/14482-AtjjJ.m3u8",
+                    "part": "2nd Half"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/12.webp",
+                    "name": "Japan",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/japan-vs-sweden-full-match-2026-06-26-DGKI.webp",
+            "title": "Japan vs Sweden Full Match"
+        },
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Jun 20, 2026",
+            "description": "Watch Netherlands vs Sweden highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on June 20, 2026. On June 20, 2026 , the World Cup stage was set for a classic encounter between the Netherlands and Sweden . Both teams entered the pitch with high expectations, but it was the Oranje who found their rhythm early on in this high-stakes group stage battle. Early Impact from the Oranje The Netherlands wasted no time asserting their authority. Just five minutes into the game, Brian Brobbey opened the scoring from close range after a pinpoint cross from Cody Gakpo . The pressure continued as Denzel Dumfries became a constant threat on the wing. In the 17th minute, Dumfries delivered another perfect cross, allowing Brobbey to double his tally and the Dutch lead. Sweden struggled to contain the movement of the Dutch front line, though Viktor Gyökeres forced a sharp save from Bart Verbruggen to keep his side in the hunt during a frantic opening period. Swedish Hopes and Dutch Resilience As the first half progressed, Sweden began to find their footing. Alexander Isak and Viktor Gyökeres combined well, creating several opportunities that tested the Dutch defense. Yasin Ayari was particularly active, seeing one effort saved by Verbruggen and another fly just over the bar. Despite the Swedish pressure, the Netherlands remained dangerous on the break, with Cody Gakpo testing Kristoffer Nordfeldt from distance. The half ended with the Dutch firmly in control, but with signs that the Swedes were not ready to surrender. Gakpo Takes Center Stage The second half began with a tactical switch for the Netherlands , as Crysencio Summerville replaced Donyell Malen . The impact was immediate. In the 47th minute, Cody Gakpo found himself in the right place to poke home a Denzel Dumfries cross from very close range. Seven minutes later, Gakpo struck again, finishing a rapid counter-attack orchestrated by Summerville . Sweden did manage to pull one back through Anthony Elanga , who converted an Alexander Isak through ball, but the mountain was simply too high to climb for the Scandinavian side. Clinical Finish The closing stages saw the Netherlands manage the game with professionalism. Memphis Depay came off the bench to add fresh energy, and he eventually turned provider for the final blow. In the 89th minute, Crysencio Summerville unleashed a powerful right-footed shot into the bottom corner to make it 5-1. Sweden refused to give up, with Gustaf Lagerbielke seeing a late header saved by the impressive Bart Verbruggen , but the Netherlands celebrated a resounding victory as the final whistle blew.",
+            "events_timeline": [
+                {
+                    "assist": "C. Gakpo",
+                    "event_type": "Goal",
+                    "player": "B. Brobbey",
+                    "score_update": "1 - 0",
+                    "team": "Netherlands",
+                    "time": "1'"
+                },
+                {
+                    "assist": "D. Dumfries",
+                    "event_type": "Goal",
+                    "player": "B. Brobbey",
+                    "score_update": "2 - 0",
+                    "team": "Netherlands",
+                    "time": "16'"
+                },
+                {
+                    "assist": "D. Dumfries",
+                    "event_type": "Goal",
+                    "player": "C. Gakpo",
+                    "score_update": "3 - 0",
+                    "team": "Netherlands",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Gudmundsson",
+                    "team": "Sweden",
+                    "time": "61'"
+                },
+                {
+                    "assist": "C. Summerville",
+                    "event_type": "Goal",
+                    "player": "C. Gakpo",
+                    "score_update": "4 - 0",
+                    "team": "Netherlands",
+                    "time": "76'"
+                },
+                {
+                    "assist": "A. Isak",
+                    "event_type": "Goal",
+                    "player": "A. Elanga",
+                    "score_update": "4 - 1",
+                    "team": "Sweden",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Ayari",
+                    "team": "Sweden",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Bergvall",
+                    "team": "Sweden",
+                    "time": "121'"
+                },
+                {
+                    "assist": "M. Depay",
+                    "event_type": "Goal",
+                    "player": "C. Summerville",
+                    "score_update": "5 - 1",
+                    "team": "Netherlands",
+                    "time": "136'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "20/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Netherlands 5 - 1 Sweden"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "04/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Sweden 2 - 2 Greece"
+                        },
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group B",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sweden 1 - 1 Slovenia"
+                        }
+                    ],
+                    "team": "Sweden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "20/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Netherlands 5 - 1 Sweden"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "08/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Netherlands 2 - 1 Uzbekistan"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "31/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Netherlands 1 - 1 Ecuador"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "27/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Netherlands 2 - 1 Norway"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group G",
+                            "date": "17/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Netherlands 4 - 0 Lithuania"
+                        }
+                    ],
+                    "team": "Netherlands"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA World Cup Qualifiers 2018 Russia",
+                        "date": "10/10/2017",
+                        "teams_and_score": "Netherlands 2 - 0 Sweden"
+                    },
+                    {
+                        "competition": "UEFA European Championship Qualifiers 2012 Poland/Ukraine",
+                        "date": "11/10/2011",
+                        "teams_and_score": "Sweden 3 - 2 Netherlands"
+                    },
+                    {
+                        "competition": "Internationals 2008",
+                        "date": "19/11/2008",
+                        "teams_and_score": "Netherlands 3 - 1 Sweden"
+                    },
+                    {
+                        "competition": "Internationals 2004",
+                        "date": "18/08/2004",
+                        "teams_and_score": "Sweden 2 - 2 Netherlands"
+                    },
+                    {
+                        "competition": "UEFA European Championship Finals 2004 Portugal",
+                        "date": "26/06/2004",
+                        "teams_and_score": "Sweden 0 - 0 Netherlands"
+                    },
+                    {
+                        "competition": "Internationals 1983",
+                        "date": "27/04/1983",
+                        "teams_and_score": "Netherlands 0 - 3 Sweden"
+                    },
+                    {
+                        "competition": "Internationals 1974",
+                        "date": "04/09/1974",
+                        "teams_and_score": "Sweden 1 - 5 Netherlands"
+                    }
+                ],
+                "summary": {
+                    "Netherlands_wins": "3",
+                    "Sweden_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Netherlands": "51%",
+                    "Sweden": "49%"
+                },
+                "corners": {
+                    "Netherlands": "2",
+                    "Sweden": "5"
+                },
+                "crosses": {
+                    "Netherlands": "3",
+                    "Sweden": "3"
+                },
+                "fouls": {
+                    "Netherlands": "9",
+                    "Sweden": "12"
+                },
+                "goalkeeper_saves": {
+                    "Netherlands": "7",
+                    "Sweden": "2"
+                },
+                "offsides": {
+                    "Netherlands": "3",
+                    "Sweden": "3"
+                },
+                "shots_blocked": {
+                    "Netherlands": "1",
+                    "Sweden": "3"
+                },
+                "shots_off_target": {
+                    "Netherlands": "2",
+                    "Sweden": "5"
+                },
+                "shots_on_target": {
+                    "Netherlands": "7",
+                    "Sweden": "8"
+                },
+                "yellow_cards": {
+                    "Netherlands": "0",
+                    "Sweden": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Netherlands_v_Sweden_2026_06_20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1118.webp",
+                    "name": "Netherlands",
+                    "score": "5"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/netherlands-v-sweden-2026-06-20-uvEv.webp",
+            "title": "Netherlands vs Sweden"
+        },
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Jun 21, 2026",
+            "description": "Watch Netherlands vs Sweden highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on June 21, 2026. On June 21, 2026, the global stage was set for a massive World Cup encounter between the Netherlands and Sweden . Two historic European sides met with everything to play for in a fixture that promised intensity and high-level technical quality. Early Dominance from the Oranje The match ignited instantly as the Dutch side imposed their authority on the pitch. In just the 5th minute, Brian Brobbey clinical finishing gave the Netherlands the lead, converting a cross from Cody Gakpo . The pressure remained relentless, and by the 17th minute, Brobbey had secured his second of the game, tapping home from close range after an excellent delivery from Denzel Dumfries . Sweden attempted to claw their way back into the contest before half-time, with Viktor Gyökeres causing several problems for the Dutch defense. However, goalkeeper Bart Verbruggen was in inspired form, producing a series of vital saves to deny Gyökeres and keep the momentum firmly with the side in orange as they headed into the break. Gakpo's Double and Swedish Resistance The second half began as a mirror of the first, with the Netherlands striking early. Cody Gakpo turned from provider to scorer in the 47th minute, finishing a Dumfries cross, before adding another in the 54th minute following a lightning-fast break assisted by Crysencio Summerville . Sweden managed to find a consolation goal in the 59th minute through Anthony Elanga , who slotted home after a perfectly timed through ball from Alexander Isak . Final Flourish in Added Time As the clock ticked down, the Netherlands added gloss to an already impressive performance. In the 89th minute, Crysencio Summerville found the bottom corner from outside the box after being set up by Memphis Depay . Despite late attempts from Sweden , including a goalbound header from Gustaf Lagerbielke saved by Verbruggen , the match ended 5-1, marking a definitive statement of intent by the Dutch on this June 21st matchday.",
+            "events_timeline": [
+                {
+                    "assist": "C. Gakpo",
+                    "event_type": "Goal",
+                    "player": "B. Brobbey",
+                    "score_update": "1 - 0",
+                    "team": "Netherlands",
+                    "time": "1'"
+                },
+                {
+                    "assist": "D. Dumfries",
+                    "event_type": "Goal",
+                    "player": "B. Brobbey",
+                    "score_update": "2 - 0",
+                    "team": "Netherlands",
+                    "time": "16'"
+                },
+                {
+                    "assist": "D. Dumfries",
+                    "event_type": "Goal",
+                    "player": "C. Gakpo",
+                    "score_update": "3 - 0",
+                    "team": "Netherlands",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Gudmundsson",
+                    "team": "Sweden",
+                    "time": "61'"
+                },
+                {
+                    "assist": "C. Summerville",
+                    "event_type": "Goal",
+                    "player": "C. Gakpo",
+                    "score_update": "4 - 0",
+                    "team": "Netherlands",
+                    "time": "76'"
+                },
+                {
+                    "assist": "A. Isak",
+                    "event_type": "Goal",
+                    "player": "A. Elanga",
+                    "score_update": "4 - 1",
+                    "team": "Sweden",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Ayari",
+                    "team": "Sweden",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Bergvall",
+                    "team": "Sweden",
+                    "time": "121'"
+                },
+                {
+                    "assist": "M. Depay",
+                    "event_type": "Goal",
+                    "player": "C. Summerville",
+                    "score_update": "5 - 1",
+                    "team": "Netherlands",
+                    "time": "136'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "20/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Netherlands 5 - 1 Sweden"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "04/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Sweden 2 - 2 Greece"
+                        },
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group B",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sweden 1 - 1 Slovenia"
+                        }
+                    ],
+                    "team": "Sweden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group F",
+                            "date": "20/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Netherlands 5 - 1 Sweden"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "08/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Netherlands 2 - 1 Uzbekistan"
+                        },
+                        {
+                            "competition": "Friendlies",
+                            "date": "31/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Netherlands 1 - 1 Ecuador"
+                        },
+                        {
+                            "competition": "Featured Friendlies",
+                            "date": "27/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Netherlands 2 - 1 Norway"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group G",
+                            "date": "17/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Netherlands 4 - 0 Lithuania"
+                        }
+                    ],
+                    "team": "Netherlands"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA World Cup Qualifiers 2018 Russia",
+                        "date": "10/10/2017",
+                        "teams_and_score": "Netherlands 2 - 0 Sweden"
+                    },
+                    {
+                        "competition": "UEFA European Championship Qualifiers 2012 Poland/Ukraine",
+                        "date": "11/10/2011",
+                        "teams_and_score": "Sweden 3 - 2 Netherlands"
+                    },
+                    {
+                        "competition": "Internationals 2008",
+                        "date": "19/11/2008",
+                        "teams_and_score": "Netherlands 3 - 1 Sweden"
+                    },
+                    {
+                        "competition": "Internationals 2004",
+                        "date": "18/08/2004",
+                        "teams_and_score": "Sweden 2 - 2 Netherlands"
+                    },
+                    {
+                        "competition": "UEFA European Championship Finals 2004 Portugal",
+                        "date": "26/06/2004",
+                        "teams_and_score": "Sweden 0 - 0 Netherlands"
+                    },
+                    {
+                        "competition": "Internationals 1983",
+                        "date": "27/04/1983",
+                        "teams_and_score": "Netherlands 0 - 3 Sweden"
+                    },
+                    {
+                        "competition": "Internationals 1974",
+                        "date": "04/09/1974",
+                        "teams_and_score": "Sweden 1 - 5 Netherlands"
+                    }
+                ],
+                "summary": {
+                    "Netherlands_wins": "3",
+                    "Sweden_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Netherlands": "51%",
+                    "Sweden": "49%"
+                },
+                "corners": {
+                    "Netherlands": "2",
+                    "Sweden": "5"
+                },
+                "crosses": {
+                    "Netherlands": "3",
+                    "Sweden": "3"
+                },
+                "fouls": {
+                    "Netherlands": "9",
+                    "Sweden": "12"
+                },
+                "goalkeeper_saves": {
+                    "Netherlands": "7",
+                    "Sweden": "2"
+                },
+                "offsides": {
+                    "Netherlands": "3",
+                    "Sweden": "3"
+                },
+                "shots_blocked": {
+                    "Netherlands": "1",
+                    "Sweden": "3"
+                },
+                "shots_off_target": {
+                    "Netherlands": "2",
+                    "Sweden": "5"
+                },
+                "shots_on_target": {
+                    "Netherlands": "7",
+                    "Sweden": "8"
+                },
+                "yellow_cards": {
+                    "Netherlands": "0",
+                    "Sweden": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/14381-Kn18e.m3u8",
+                    "part": "1st Half"
+                },
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/14382-tOevb.m3u8",
+                    "part": "2nd Half"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1118.webp",
+                    "name": "Netherlands",
+                    "score": "5"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/netherlands-vs-sweden-full-match-2026-06-21-lxR9.webp",
+            "title": "Netherlands vs Sweden Full Match"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 1, 2026",
+            "description": "Watch Norway vs Sweden highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 1, 2026. The historic rivalry between Norway and Sweden took center stage on June 1, 2026, as the two nations faced off in an international friendly. Both sides entered the pitch determined to claim bragging rights in a contest that would be defined by clinical finishing and late-game tension. Norway's First-Half Blitz Norway wasted no time establishing dominance in the early stages. Just nine minutes in, the pressure paid off when Joergen Strand Larsen connected with a pinpoint cross from Julian Ryerson , following key play by Oscar Bobb , to head the ball home. The home side continued to press their advantage, and in the 18th minute, they doubled the lead. Antonio Nusa found the net with a composed right-footed finish after being set up by Sander Berge and David Moeller Wolfe . Sweden's defensive struggles continued throughout the first half, leading to a third goal before the break. In the 37th minute, the Ryerson and Larsen connection struck again. Julian Ryerson delivered a perfect corner, allowing Joergen Strand Larsen to claim his second of the night and put Norway in a commanding position heading into the interval. Tactical Shifts and VAR Drama The second half saw a drastic change in momentum as both managers utilized their benches. In a rare tactical move in the 63rd minute, Norway made a ten-man substitution, bringing on fresh legs including Morten Thorsby , Patrick Berg , and Kristian Thorstvedt . Sweden also introduced stars like Alexander Isak and Victor Lindelof to spark a revival. Technology played a major role in the middle period of the half. In the 62nd minute, Norway appeared to have scored a fourth, but the goal was revoked following a VAR review for an offside on David Moeller Wolfe . This decision gave Sweden a glimmer of hope as they began to find their footing against the heavily rotated Norwegian lineup. Sweden’s Comeback Thwarted The Swedish resurgence manifested in the 76th minute when Alexander Isak clinicaly finished with his right foot to reduce the deficit. The momentum shifted heavily toward the visitors, and they thought they had pulled within one goal in the 80th minute. However, the referee once again turned to VAR , which ruled that Sebastian Nanasi was offside, leading to the goal being disallowed. Despite late pressure and a missed header from Norway's Andreas Schjelderup in stoppage time, the hosts managed to see out the game with 54% possession. The final whistle confirmed a deserved victory for Norway , concluding a high-energy encounter that lived up to its derby billing on June 1, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Ryerson",
+                    "event_type": "Goal",
+                    "player": "J. S. Larsen",
+                    "score_update": "1 - 0",
+                    "team": "Norway",
+                    "time": "1'"
+                },
+                {
+                    "assist": "S. Berge",
+                    "event_type": "Goal",
+                    "player": "A. Nusa",
+                    "score_update": "2 - 0",
+                    "team": "Norway",
+                    "time": "16'"
+                },
+                {
+                    "assist": "J. Ryerson",
+                    "event_type": "Goal",
+                    "player": "J. S. Larsen",
+                    "score_update": "3 - 0",
+                    "team": "Norway",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "D. M. Wolfe",
+                    "team": "Norway",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Ekdal",
+                    "team": "Sweden",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Isak",
+                    "score_update": "3 - 1",
+                    "team": "Sweden",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "S. Nanasi",
+                    "team": "Sweden",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies 2026",
+                            "date": "01/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Norway 3 - 1 Sweden"
+                        },
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group B",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sweden 1 - 1 Slovenia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "10/06/2025",
+                            "result": "W",
+                            "teams_and_score": "Sweden 4 - 3 Algeria"
+                        }
+                    ],
+                    "team": "Sweden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies 2026",
+                            "date": "01/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Norway 3 - 1 Sweden"
+                        },
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "31/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Norway 0 - 0 Switzerland"
+                        },
+                        {
+                            "competition": "Featured Friendlies 2026",
+                            "date": "27/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Netherlands 2 - 1 Norway"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group I",
+                            "date": "16/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Italy 1 - 4 Norway"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "14/10/2025",
+                            "result": "D",
+                            "teams_and_score": "Norway 1 - 1 New Zealand"
+                        }
+                    ],
+                    "team": "Norway"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "League B: Group 4 22/23",
+                        "date": "12/06/2022",
+                        "teams_and_score": "Norway 3 - 2 Sweden"
+                    },
+                    {
+                        "competition": "Qualification: Group F",
+                        "date": "08/09/2019",
+                        "teams_and_score": "Sweden 1 - 1 Norway"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "13/06/2017",
+                        "teams_and_score": "Norway 1 - 1 Sweden"
+                    }
+                ],
+                "summary": {
+                    "Norway_wins": "1",
+                    "Sweden_wins": "0",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Norway": "54%",
+                    "Sweden": "46%"
+                },
+                "corners": {
+                    "Norway": "6",
+                    "Sweden": "1"
+                },
+                "crosses": {
+                    "Norway": "28",
+                    "Sweden": "4"
+                },
+                "fouls": {
+                    "Norway": "6",
+                    "Sweden": "6"
+                },
+                "goalkeeper_saves": {
+                    "Norway": "3",
+                    "Sweden": "4"
+                },
+                "offsides": {
+                    "Norway": "2",
+                    "Sweden": "2"
+                },
+                "shots_blocked": {
+                    "Norway": "6",
+                    "Sweden": "4"
+                },
+                "shots_off_target": {
+                    "Norway": "9",
+                    "Sweden": "1"
+                },
+                "shots_on_target": {
+                    "Norway": "7",
+                    "Sweden": "4"
+                },
+                "yellow_cards": {
+                    "Norway": "0",
+                    "Sweden": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Norway_v_Sweden_2026_06_01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/23625.webp",
+                    "name": "Norway",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/norway-v-sweden-2026-06-01-VhZm.webp",
+            "title": "Norway vs Sweden"
+        },
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Jun 29, 1958",
+            "description": "Watch Sweden vs Brazil highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on June 29, 1958.",
+            "events_timeline": [
+                {
+                    "assist": "Y. Ayari",
+                    "event_type": "Goal",
+                    "player": "A. Elanga",
+                    "score_update": "1 - 0",
+                    "team": "Sweden",
+                    "time": "1'"
+                },
+                {
+                    "assist": "P. Zieliński",
+                    "event_type": "Goal",
+                    "player": "N. Zalewski",
+                    "score_update": "1 - 1",
+                    "team": "Brazil",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Kiwior",
+                    "team": "Brazil",
+                    "time": "31'"
+                },
+                {
+                    "assist": "B. Nygren",
+                    "event_type": "Goal",
+                    "player": "G. Lagerbielke",
+                    "score_update": "2 - 1",
+                    "team": "Sweden",
+                    "time": "46'"
+                },
+                {
+                    "assist": "N. Zalewski",
+                    "event_type": "Goal",
+                    "player": "K. Świderski",
+                    "score_update": "2 - 2",
+                    "team": "Brazil",
+                    "time": "55'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Karlstrom",
+                    "team": "Sweden",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Pietuszewski",
+                    "team": "Brazil",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Bergvall",
+                    "team": "Sweden",
+                    "time": "77'"
+                },
+                {
+                    "assist": "B. Zeneli",
+                    "event_type": "Goal",
+                    "player": "V. Gyökeres",
+                    "score_update": "3 - 2",
+                    "team": "Sweden",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Piątek",
+                    "team": "Brazil",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group G",
+                            "date": "17/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Malta 2 - 3 Poland"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "09/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Poland 1 - 0 New Zealand"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group G",
+                            "date": "07/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Poland 3 - 1 Finland"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "06/06/2025",
+                            "result": "L",
+                            "teams_and_score": "Poland 2 - 0 Moldova"
+                        }
+                    ],
+                    "team": "Brazil"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group B",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sweden 1 - 1 Slovenia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "10/06/2025",
+                            "result": "W",
+                            "teams_and_score": "Sweden 4 - 3 Algeria"
+                        }
+                    ],
+                    "team": "Sweden"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA Qualification: Play-off",
+                        "date": "29/03/2022",
+                        "teams_and_score": "Poland 2 - 0 Sweden"
+                    },
+                    {
+                        "competition": "Group E 2020",
+                        "date": "23/06/2021",
+                        "teams_and_score": "Sweden 3 - 2 Poland"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "05/06/2004",
+                        "teams_and_score": "Sweden 3 - 1 Poland"
+                    },
+                    {
+                        "competition": "EURO qualification grp. D",
+                        "date": "10/09/2003",
+                        "teams_and_score": "Poland 0 - 2 Sweden"
+                    }
+                ],
+                "summary": {
+                    "Brazil_wins": "1",
+                    "Sweden_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Brazil": "64%",
+                    "Sweden": "36%"
+                },
+                "corners": {
+                    "Brazil": "9",
+                    "Sweden": "2"
+                },
+                "crosses": {
+                    "Brazil": "24",
+                    "Sweden": "12"
+                },
+                "fouls": {
+                    "Brazil": "15",
+                    "Sweden": "15"
+                },
+                "goalkeeper_saves": {
+                    "Brazil": "2",
+                    "Sweden": "5"
+                },
+                "offsides": {
+                    "Brazil": "4",
+                    "Sweden": "1"
+                },
+                "shots_blocked": {
+                    "Brazil": "5",
+                    "Sweden": "2"
+                },
+                "shots_off_target": {
+                    "Brazil": "3",
+                    "Sweden": "2"
+                },
+                "shots_on_target": {
+                    "Brazil": "7",
+                    "Sweden": "5"
+                },
+                "yellow_cards": {
+                    "Brazil": "3",
+                    "Sweden": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sweden-vs-brazil-1958-06-29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/6.webp",
+                    "name": "Brazil",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sweden-vs-brazil-1958-06-29-2DBN.webp",
+            "title": "Sweden vs Brazil"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Nov 14, 2012",
+            "description": "Watch Sweden vs England highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on November 14, 2012.",
+            "events_timeline": [
+                {
+                    "assist": "Y. Ayari",
+                    "event_type": "Goal",
+                    "player": "A. Elanga",
+                    "score_update": "1 - 0",
+                    "team": "Sweden",
+                    "time": "1'"
+                },
+                {
+                    "assist": "P. Zieliński",
+                    "event_type": "Goal",
+                    "player": "N. Zalewski",
+                    "score_update": "1 - 1",
+                    "team": "England",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Kiwior",
+                    "team": "England",
+                    "time": "31'"
+                },
+                {
+                    "assist": "B. Nygren",
+                    "event_type": "Goal",
+                    "player": "G. Lagerbielke",
+                    "score_update": "2 - 1",
+                    "team": "Sweden",
+                    "time": "46'"
+                },
+                {
+                    "assist": "N. Zalewski",
+                    "event_type": "Goal",
+                    "player": "K. Świderski",
+                    "score_update": "2 - 2",
+                    "team": "England",
+                    "time": "55'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Karlstrom",
+                    "team": "Sweden",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Pietuszewski",
+                    "team": "England",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Bergvall",
+                    "team": "Sweden",
+                    "time": "77'"
+                },
+                {
+                    "assist": "B. Zeneli",
+                    "event_type": "Goal",
+                    "player": "V. Gyökeres",
+                    "score_update": "3 - 2",
+                    "team": "Sweden",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Piątek",
+                    "team": "England",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group G",
+                            "date": "17/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Malta 2 - 3 Poland"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "09/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Poland 1 - 0 New Zealand"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group G",
+                            "date": "07/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Poland 3 - 1 Finland"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "06/06/2025",
+                            "result": "L",
+                            "teams_and_score": "Poland 2 - 0 Moldova"
+                        }
+                    ],
+                    "team": "England"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group B",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sweden 1 - 1 Slovenia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "10/06/2025",
+                            "result": "W",
+                            "teams_and_score": "Sweden 4 - 3 Algeria"
+                        }
+                    ],
+                    "team": "Sweden"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA Qualification: Play-off",
+                        "date": "29/03/2022",
+                        "teams_and_score": "Poland 2 - 0 Sweden"
+                    },
+                    {
+                        "competition": "Group E 2020",
+                        "date": "23/06/2021",
+                        "teams_and_score": "Sweden 3 - 2 Poland"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "05/06/2004",
+                        "teams_and_score": "Sweden 3 - 1 Poland"
+                    },
+                    {
+                        "competition": "EURO qualification grp. D",
+                        "date": "10/09/2003",
+                        "teams_and_score": "Poland 0 - 2 Sweden"
+                    }
+                ],
+                "summary": {
+                    "England_wins": "1",
+                    "Sweden_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "England": "64%",
+                    "Sweden": "36%"
+                },
+                "corners": {
+                    "England": "9",
+                    "Sweden": "2"
+                },
+                "crosses": {
+                    "England": "24",
+                    "Sweden": "12"
+                },
+                "fouls": {
+                    "England": "15",
+                    "Sweden": "15"
+                },
+                "goalkeeper_saves": {
+                    "England": "2",
+                    "Sweden": "5"
+                },
+                "offsides": {
+                    "England": "4",
+                    "Sweden": "1"
+                },
+                "shots_blocked": {
+                    "England": "5",
+                    "Sweden": "2"
+                },
+                "shots_off_target": {
+                    "England": "3",
+                    "Sweden": "2"
+                },
+                "shots_on_target": {
+                    "England": "7",
+                    "Sweden": "5"
+                },
+                "yellow_cards": {
+                    "England": "3",
+                    "Sweden": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sweden-vs-england-2012-11-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10.webp",
+                    "name": "England",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sweden-vs-england-2012-11-14-vauZ.webp",
+            "title": "Sweden vs England"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 4, 2026",
+            "description": "Watch Sweden vs Greece highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 4, 2026. On a night of high-stakes international football, two European sides met to test their mettle in a clash defined by tactical shifts and clinical finishing. The encounter provided a rollercoaster of emotions as momentum swung back and forth until the very final whistle. Greece Take the Initiative The match, held on June 4, 2026 , began with Greece showing immediate intent. Just 10 minutes in, the visitors' pressure paid dividends when Konstantinos Tsimikas found the back of the net with a right-footed strike following a setup by Christos Tzolis . The early breakthrough gave the Greek side a boost of confidence, and they nearly doubled their lead shortly after when Dimitrios Kourbelis saw a thunderous volley cannon off the crossbar, leaving Sweden rattled. Despite the hosts' attempts to stabilize, the Greek defensive line remained disciplined. Panagiotis Retsos picked up a yellow card for a robust challenge, but the defensive structure held firm until the break. Sweden struggled to find a rhythm in the final third, allowing Greece to head into the interval with a slim but well-earned advantage after a disciplined first-half performance. Swedish Resilience and Tactical Shifts The second half saw a rejuvenated Sweden side take to the field. In the 53rd minute, Viktor Gyökeres showcased his quality by curling a direct free kick into the back of the net to level the scores. The goal ignited the home crowd, even as Greece continued to threaten; Vangelis Pavlidis had earlier struck the post in the 47th minute. At the 63-minute mark, both managers opted for a mass overhaul, making a combined dozen substitutions to alter the game's flow. The tactical changes paid off for the Scandinavians in the 69th minute. Taha Abdi Ali provided a sharp assist for Gustaf Nilsson , who tapped the ball home to complete the turnaround. With a 2-1 lead, Sweden looked set to secure the win, particularly as they managed to keep the Greek counter-attacks at bay, leading to a tactical yellow card for Konstantinos Koulierakis . Stoppage Time Heroics As the clock ticked into the final minutes of added time, Greece mounted one last charge. The pressure finally told in the 90+5th minute when Charalampos Kostoulas delivered a pinpoint cross into the box. Giorgos Masouras was perfectly positioned to strike with his left foot, finding the equalizer and stunning the Stockholm crowd just moments before the referee blew the final whistle. The match concluded in a 2-2 draw, a result that reflected a balanced contest where Sweden held 53% of possession but couldn't quite see out the result. Both sides showcased moments of brilliance in a fixture that proved international friendlies can deliver just as much drama as competitive tournaments.",
+            "events_timeline": [
+                {
+                    "assist": "C. Tzolis",
+                    "event_type": "Goal",
+                    "player": "K. Tsimikas",
+                    "score_update": "0 - 1",
+                    "team": "Greece",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Retsos",
+                    "team": "Greece",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "V. Gyökeres",
+                    "score_update": "1 - 1",
+                    "team": "Sweden",
+                    "time": "53'"
+                },
+                {
+                    "assist": "T. A. Ali",
+                    "event_type": "Goal",
+                    "player": "G. Nilsson",
+                    "score_update": "2 - 1",
+                    "team": "Sweden",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Koulierakis",
+                    "team": "Greece",
+                    "time": "73'"
+                },
+                {
+                    "assist": "C. Kostoulas",
+                    "event_type": "Goal",
+                    "player": "G. Masouras",
+                    "score_update": "2 - 2",
+                    "team": "Greece",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies 2026",
+                            "date": "04/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Sweden 2 - 2 Greece"
+                        },
+                        {
+                            "competition": "Friendlies 2026",
+                            "date": "31/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Hungary 0 - 0 Greece"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group C",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Belarus 0 - 0 Greece"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "10/06/2025",
+                            "result": "W",
+                            "teams_and_score": "Greece 4 - 0 Bulgaria"
+                        }
+                    ],
+                    "team": "Greece"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Featured Friendlies 2026",
+                            "date": "04/06/2026",
+                            "result": "D",
+                            "teams_and_score": "Sweden 2 - 2 Greece"
+                        },
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group B",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sweden 1 - 1 Slovenia"
+                        }
+                    ],
+                    "team": "Sweden"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA Qualification: 1st Round: Group B",
+                        "date": "12/10/2021",
+                        "teams_and_score": "Sweden 2 - 0 Greece"
+                    },
+                    {
+                        "competition": "EURO Grp. D",
+                        "date": "10/06/2008",
+                        "teams_and_score": "Greece 0 - 2 Sweden"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "20/08/2003",
+                        "teams_and_score": "Sweden 1 - 2 Greece"
+                    }
+                ],
+                "summary": {
+                    "Greece_wins": "1",
+                    "Sweden_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Greece": "47%",
+                    "Sweden": "53%"
+                },
+                "corners": {
+                    "Greece": "4",
+                    "Sweden": "1"
+                },
+                "crosses": {
+                    "Greece": "15",
+                    "Sweden": "9"
+                },
+                "fouls": {
+                    "Greece": "11",
+                    "Sweden": "6"
+                },
+                "goalkeeper_saves": {
+                    "Greece": "3",
+                    "Sweden": "2"
+                },
+                "offsides": {
+                    "Greece": "1",
+                    "Sweden": "0"
+                },
+                "shots_blocked": {
+                    "Greece": "3",
+                    "Sweden": "1"
+                },
+                "shots_off_target": {
+                    "Greece": "5",
+                    "Sweden": "7"
+                },
+                "shots_on_target": {
+                    "Greece": "4",
+                    "Sweden": "5"
+                },
+                "yellow_cards": {
+                    "Greece": "2",
+                    "Sweden": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sweden-vs-greece-2026-06-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1117.webp",
+                    "name": "Greece",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sweden-vs-greece-2026-06-04-hdm8.webp",
+            "title": "Sweden vs Greece"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Oct 13, 2025",
+            "description": "Watch Sweden vs Kosovo highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on October 13, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Sweden_v_Kosovo_2025_10_13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sweden-vs-kosovo-sweden-vs-kosovo-UsQ3.webp",
+            "title": "Sweden vs Kosovo"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Mar 31, 2026",
+            "description": "Watch Sweden vs Poland highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on March 31, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "Y. Ayari",
+                    "event_type": "Goal",
+                    "player": "A. Elanga",
+                    "score_update": "1 - 0",
+                    "team": "Sweden",
+                    "time": "1'"
+                },
+                {
+                    "assist": "P. Zieliński",
+                    "event_type": "Goal",
+                    "player": "N. Zalewski",
+                    "score_update": "1 - 1",
+                    "team": "Poland",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Kiwior",
+                    "team": "Poland",
+                    "time": "31'"
+                },
+                {
+                    "assist": "B. Nygren",
+                    "event_type": "Goal",
+                    "player": "G. Lagerbielke",
+                    "score_update": "2 - 1",
+                    "team": "Sweden",
+                    "time": "46'"
+                },
+                {
+                    "assist": "N. Zalewski",
+                    "event_type": "Goal",
+                    "player": "K. Świderski",
+                    "score_update": "2 - 2",
+                    "team": "Poland",
+                    "time": "55'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Karlstrom",
+                    "team": "Sweden",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Pietuszewski",
+                    "team": "Poland",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Bergvall",
+                    "team": "Sweden",
+                    "time": "77'"
+                },
+                {
+                    "assist": "B. Zeneli",
+                    "event_type": "Goal",
+                    "player": "V. Gyökeres",
+                    "score_update": "3 - 2",
+                    "team": "Sweden",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Piątek",
+                    "team": "Poland",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group G",
+                            "date": "17/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Malta 2 - 3 Poland"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "09/10/2025",
+                            "result": "W",
+                            "teams_and_score": "Poland 1 - 0 New Zealand"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group G",
+                            "date": "07/09/2025",
+                            "result": "W",
+                            "teams_and_score": "Poland 3 - 1 Finland"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "06/06/2025",
+                            "result": "W",
+                            "teams_and_score": "Poland 2 - 0 Moldova"
+                        }
+                    ],
+                    "team": "Poland"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group B",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sweden 1 - 1 Slovenia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "10/06/2025",
+                            "result": "W",
+                            "teams_and_score": "Sweden 4 - 3 Algeria"
+                        }
+                    ],
+                    "team": "Sweden"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA Qualification: Play-off",
+                        "date": "29/03/2022",
+                        "teams_and_score": "Poland 2 - 0 Sweden"
+                    },
+                    {
+                        "competition": "Group E 2020",
+                        "date": "23/06/2021",
+                        "teams_and_score": "Sweden 3 - 2 Poland"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "05/06/2004",
+                        "teams_and_score": "Sweden 3 - 1 Poland"
+                    },
+                    {
+                        "competition": "EURO qualification grp. D",
+                        "date": "10/09/2003",
+                        "teams_and_score": "Poland 0 - 2 Sweden"
+                    }
+                ],
+                "summary": {
+                    "Poland_wins": "1",
+                    "Sweden_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Poland": "64%",
+                    "Sweden": "36%"
+                },
+                "corners": {
+                    "Poland": "9",
+                    "Sweden": "2"
+                },
+                "crosses": {
+                    "Poland": "24",
+                    "Sweden": "12"
+                },
+                "fouls": {
+                    "Poland": "15",
+                    "Sweden": "15"
+                },
+                "goalkeeper_saves": {
+                    "Poland": "2",
+                    "Sweden": "5"
+                },
+                "offsides": {
+                    "Poland": "4",
+                    "Sweden": "1"
+                },
+                "shots_blocked": {
+                    "Poland": "5",
+                    "Sweden": "2"
+                },
+                "shots_off_target": {
+                    "Poland": "3",
+                    "Sweden": "2"
+                },
+                "shots_on_target": {
+                    "Poland": "7",
+                    "Sweden": "5"
+                },
+                "yellow_cards": {
+                    "Poland": "3",
+                    "Sweden": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Sweden_v_Poland_2026_03_31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/24.webp",
+                    "name": "Poland",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sweden-v-poland-2026-03-31-PAiG.webp",
+            "title": "Sweden vs Poland"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Nov 18, 2025",
+            "description": "Watch Sweden vs Slovenia highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on November 18, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Slovenia"
+                },
+                "home_team_form": {
+                    "team": "Sweden"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Sweden_v_Slovenia_2025_11_18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1091.webp",
+                    "name": "Slovenia",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sweden-v-slovenia-2025-11-18.webp",
+            "title": "Sweden vs Slovenia"
+        },
+        {
+            "competition": "World Cup 2026",
+            "competition_cover": "https://refooty.com/covers/world-cup.webp",
+            "date": "Jun 18, 2018",
+            "description": "Watch Sweden vs South Korea highlights and goals from World Cup 2026 on ReFooty: Football Highlights Hub. Match played on June 18, 2018.",
+            "events_timeline": [
+                {
+                    "assist": "Y. Ayari",
+                    "event_type": "Goal",
+                    "player": "A. Elanga",
+                    "score_update": "1 - 0",
+                    "team": "Sweden",
+                    "time": "1'"
+                },
+                {
+                    "assist": "P. Zieliński",
+                    "event_type": "Goal",
+                    "player": "N. Zalewski",
+                    "score_update": "1 - 1",
+                    "team": "South Korea",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Kiwior",
+                    "team": "South Korea",
+                    "time": "31'"
+                },
+                {
+                    "assist": "B. Nygren",
+                    "event_type": "Goal",
+                    "player": "G. Lagerbielke",
+                    "score_update": "2 - 1",
+                    "team": "Sweden",
+                    "time": "46'"
+                },
+                {
+                    "assist": "N. Zalewski",
+                    "event_type": "Goal",
+                    "player": "K. Świderski",
+                    "score_update": "2 - 2",
+                    "team": "South Korea",
+                    "time": "55'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Karlstrom",
+                    "team": "Sweden",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Pietuszewski",
+                    "team": "South Korea",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Bergvall",
+                    "team": "Sweden",
+                    "time": "77'"
+                },
+                {
+                    "assist": "B. Zeneli",
+                    "event_type": "Goal",
+                    "player": "V. Gyökeres",
+                    "score_update": "3 - 2",
+                    "team": "Sweden",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Piątek",
+                    "team": "South Korea",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group G",
+                            "date": "17/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Malta 2 - 3 Poland"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "09/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Poland 1 - 0 New Zealand"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group G",
+                            "date": "07/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Poland 3 - 1 Finland"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "06/06/2025",
+                            "result": "L",
+                            "teams_and_score": "Poland 2 - 0 Moldova"
+                        }
+                    ],
+                    "team": "South Korea"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "31/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sweden 3 - 2 Poland"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group B",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sweden 1 - 1 Slovenia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "10/06/2025",
+                            "result": "W",
+                            "teams_and_score": "Sweden 4 - 3 Algeria"
+                        }
+                    ],
+                    "team": "Sweden"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA Qualification: Play-off",
+                        "date": "29/03/2022",
+                        "teams_and_score": "Poland 2 - 0 Sweden"
+                    },
+                    {
+                        "competition": "Group E 2020",
+                        "date": "23/06/2021",
+                        "teams_and_score": "Sweden 3 - 2 Poland"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "05/06/2004",
+                        "teams_and_score": "Sweden 3 - 1 Poland"
+                    },
+                    {
+                        "competition": "EURO qualification grp. D",
+                        "date": "10/09/2003",
+                        "teams_and_score": "Poland 0 - 2 Sweden"
+                    }
+                ],
+                "summary": {
+                    "South Korea_wins": "1",
+                    "Sweden_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "South Korea": "64%",
+                    "Sweden": "36%"
+                },
+                "corners": {
+                    "South Korea": "9",
+                    "Sweden": "2"
+                },
+                "crosses": {
+                    "South Korea": "24",
+                    "Sweden": "12"
+                },
+                "fouls": {
+                    "South Korea": "15",
+                    "Sweden": "15"
+                },
+                "goalkeeper_saves": {
+                    "South Korea": "2",
+                    "Sweden": "5"
+                },
+                "offsides": {
+                    "South Korea": "4",
+                    "Sweden": "1"
+                },
+                "shots_blocked": {
+                    "South Korea": "5",
+                    "Sweden": "2"
+                },
+                "shots_off_target": {
+                    "South Korea": "3",
+                    "Sweden": "2"
+                },
+                "shots_on_target": {
+                    "South Korea": "7",
+                    "Sweden": "5"
+                },
+                "yellow_cards": {
+                    "South Korea": "3",
+                    "Sweden": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sweden-vs-south-korea-2018-06-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/17.webp",
+                    "name": "South Korea",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sweden-vs-south-korea-2018-06-18-vLej.webp",
+            "title": "Sweden vs South Korea"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Oct 10, 2025",
+            "description": "Watch Sweden U23 vs Switzerland highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on October 10, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Sweden_v_Switzerland_2025_10_10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sweden-vs-switzerland-sweden-vs-switzerland-o5S1.webp",
+            "title": "Sweden vs Switzerland"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Nov 15, 2025",
+            "description": "Watch Switzerland vs Sweden highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on November 15, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Switzerland_v_Sweden_2025_11_15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/switzerland-v-sweden-2025-11-15.webp",
+            "title": "Switzerland vs Sweden"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Mar 26, 2026",
+            "description": "Watch Ukraine vs Sweden highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on March 26, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "B. Nygren",
+                    "event_type": "Goal",
+                    "player": "V. Gyökeres",
+                    "score_update": "0 - 1",
+                    "team": "Sweden",
+                    "time": "1'"
+                },
+                {
+                    "assist": "K. Nordfeldt",
+                    "event_type": "Goal",
+                    "player": "V. Gyökeres",
+                    "score_update": "0 - 2",
+                    "team": "Sweden",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Tymchyk",
+                    "team": "Ukraine",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Trubin",
+                    "team": "Ukraine",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "V. Gyökeres",
+                    "score_update": "0 - 3",
+                    "team": "Sweden",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Nordfeldt",
+                    "team": "Sweden",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Ponomarenko",
+                    "score_update": "1 - 3",
+                    "team": "Ukraine",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "26/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Ukraine 1 - 3 Sweden"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group B",
+                            "date": "18/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Sweden 1 - 1 Slovenia"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "10/06/2025",
+                            "result": "W",
+                            "teams_and_score": "Sweden 4 - 3 Algeria"
+                        }
+                    ],
+                    "team": "Sweden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "World Cup Qualification UEFA 2nd Round",
+                            "date": "26/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Ukraine 1 - 3 Sweden"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group D",
+                            "date": "16/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Ukraine 2 - 0 Iceland"
+                        },
+                        {
+                            "competition": "Featured International Friendlies",
+                            "date": "10/06/2025",
+                            "result": "W",
+                            "teams_and_score": "New Zealand 1 - 2 Ukraine"
+                        },
+                        {
+                            "competition": "League A: Qualification Play-off",
+                            "date": "23/03/2025",
+                            "result": "L",
+                            "teams_and_score": "Belgium 3 - 0 Ukraine"
+                        }
+                    ],
+                    "team": "Ukraine"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Round of 16 2020",
+                        "date": "29/06/2021",
+                        "teams_and_score": "Sweden 1 - 2 Ukraine"
+                    },
+                    {
+                        "competition": "EURO Grp. D",
+                        "date": "11/06/2012",
+                        "teams_and_score": "Ukraine 2 - 1 Sweden"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "10/08/2011",
+                        "teams_and_score": "Ukraine 0 - 1 Sweden"
+                    }
+                ],
+                "summary": {
+                    "Sweden_wins": "1",
+                    "Ukraine_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Sweden": "37%",
+                    "Ukraine": "63%"
+                },
+                "corners": {
+                    "Sweden": "3",
+                    "Ukraine": "9"
+                },
+                "crosses": {
+                    "Sweden": "3",
+                    "Ukraine": "26"
+                },
+                "fouls": {
+                    "Sweden": "10",
+                    "Ukraine": "12"
+                },
+                "goalkeeper_saves": {
+                    "Sweden": "3",
+                    "Ukraine": "1"
+                },
+                "offsides": {
+                    "Sweden": "0",
+                    "Ukraine": "5"
+                },
+                "shots_blocked": {
+                    "Sweden": "2",
+                    "Ukraine": "1"
+                },
+                "shots_off_target": {
+                    "Sweden": "4",
+                    "Ukraine": "5"
+                },
+                "shots_on_target": {
+                    "Sweden": "4",
+                    "Ukraine": "4"
+                },
+                "yellow_cards": {
+                    "Sweden": "1",
+                    "Ukraine": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Ukraine_v_Sweden_2026_03_26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/10196.webp",
+                    "name": "Sweden",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/772.webp",
+                    "name": "Ukraine",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/ukraine-v-sweden-2026-03-26-CVYy.webp",
+            "title": "Ukraine vs Sweden"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "team": "AFC Blackpool",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Championship",
+            "competition_cover": "https://refooty.com/covers/championship.webp",
+            "date": "Feb 18, 2026",
+            "description": "Watch AFC Blackpool vs Mansfield Town highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on February 18, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/afc-blackpool-vs-mansfield-town-2026-02-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/afc-blackpool-vs-mansfield-town-2026-02-18-TSfE.webp",
+            "title": "AFC Blackpool vs Mansfield Town"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "team": "Libertad",
+    "team_logo": "",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 27, 2026",
+            "description": "Watch Libertad vs Universidad de Chile highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 27, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/libertad-vs-universidad-de-chile-2026-05-27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/libertad-vs-universidad-de-chile-2026-05-27-9yMV.webp",
+            "title": "Libertad vs Universidad de Chile"
+        }
+    ]
+}

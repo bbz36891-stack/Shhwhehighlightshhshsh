@@ -1,0 +1,302 @@
+{
+    "team": "Malta",
+    "team_logo": "https://img.refooty.com/logo/teams/1112.webp",
+    "total_matches": 5,
+    "matches": [
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 5, 2026",
+            "description": "Watch Azerbaijan vs Malta highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 5, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Badalov",
+                    "team": "Azerbaijan",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Ewurum",
+                    "team": "Malta",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Mbong",
+                    "score_update": "0 - 1",
+                    "team": "Malta",
+                    "time": "46'"
+                },
+                {
+                    "assist": "J. Mbong",
+                    "event_type": "Goal",
+                    "player": "A. Satariano",
+                    "score_update": "0 - 2",
+                    "team": "Malta",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "05/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Azerbaijan 0 - 2 Malta"
+                        },
+                        {
+                            "competition": "League C: Qualification Play-off",
+                            "date": "31/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Luxembourg 3 - 0 Malta"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group G",
+                            "date": "17/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Malta 2 - 3 Poland"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "12/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Malta 1 - 4 Bosnia and Herzegovina"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group G",
+                            "date": "09/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Malta 0 - 4 Netherlands"
+                        }
+                    ],
+                    "team": "Malta"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Friendlies",
+                            "date": "05/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Azerbaijan 0 - 2 Malta"
+                        },
+                        {
+                            "competition": "UEFA Qualification: 1st Round: Group D",
+                            "date": "16/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Azerbaijan 1 - 3 France"
+                        },
+                        {
+                            "competition": "Friendlies 2025",
+                            "date": "10/06/2025",
+                            "result": "L",
+                            "teams_and_score": "Azerbaijan 1 - 2 Hungary"
+                        }
+                    ],
+                    "team": "Azerbaijan"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "King's Cup 2022",
+                        "date": "25/03/2022",
+                        "teams_and_score": "Malta 1 - 0 Azerbaijan"
+                    },
+                    {
+                        "competition": "UEFA Nations League D Grp. 3",
+                        "date": "14/10/2018",
+                        "teams_and_score": "Azerbaijan 1 - 1 Malta"
+                    },
+                    {
+                        "competition": "EURO Qualification Grp. H",
+                        "date": "06/09/2015",
+                        "teams_and_score": "Malta 2 - 2 Azerbaijan"
+                    },
+                    {
+                        "competition": "Friendlies",
+                        "date": "14/08/2013",
+                        "teams_and_score": "Azerbaijan 3 - 0 Malta"
+                    }
+                ],
+                "summary": {
+                    "Azerbaijan_wins": "1",
+                    "Malta_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/azerbaijan-vs-malta-2026-06-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1112.webp",
+                    "name": "Malta",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1096.webp",
+                    "name": "Azerbaijan",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/azerbaijan-vs-malta-2026-06-05-w9X9.webp",
+            "title": "Azerbaijan vs Malta"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Nov 14, 2025",
+            "description": "Watch Finland vs Malta highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on November 14, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Finland_v_Malta_2025_11_14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/finland-v-malta-2025-11-14.webp",
+            "title": "Finland vs Malta"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Oct 9, 2025",
+            "description": "Watch Malta vs Netherlands highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on October 9, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Malta_v_Netherlands_2025_10_09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/malta-vs-netherlands-malta-vs-netherlands-ThO4.webp",
+            "title": "Malta vs Netherlands"
+        },
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Nov 17, 2025",
+            "description": "Watch Malta vs Poland highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on November 17, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Malta_v_Poland_2025_11_17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/malta-v-poland-2025-11-17.webp",
+            "title": "Malta vs Poland"
+        },
+        {
+            "competition": "Friendly",
+            "competition_cover": "https://refooty.com/covers/friendly.webp",
+            "date": "Jun 1, 2026",
+            "description": "Watch Slovakia vs Malta highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on June 1, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/slovakia-vs-malta-2026-06-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/slovakia-vs-malta-2026-06-01-jBfq.webp",
+            "title": "Slovakia vs Malta"
+        }
+    ]
+}

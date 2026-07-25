@@ -1,0 +1,434 @@
+{
+    "team": "Swindon Town",
+    "team_logo": "",
+    "total_matches": 4,
+    "matches": [
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Apr 3, 2026",
+            "description": "Watch Cambridge United vs Swindon Town highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on April 3, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cambridge-united-vs-swindon-town-2026-04-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cambridge-united-vs-swindon-town-2026-04-03-BlAw.webp",
+            "title": "Cambridge United vs Swindon Town"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Apr 25, 2026",
+            "description": "Watch Grimsby vs Swindon Town highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on April 25, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "J. Kabia",
+                    "score_update": "1 - 0",
+                    "team": "Grimsby",
+                    "time": "1'"
+                },
+                {
+                    "assist": "R. Staunton",
+                    "event_type": "Goal",
+                    "player": "M. Kacurri",
+                    "score_update": "2 - 0",
+                    "team": "Grimsby",
+                    "time": "16'"
+                },
+                {
+                    "assist": "R. Staunton",
+                    "event_type": "Goal",
+                    "player": "J. Kabia",
+                    "score_update": "3 - 0",
+                    "team": "Grimsby",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Kabia",
+                    "score_update": "4 - 0",
+                    "team": "Grimsby",
+                    "time": "58'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Mabete",
+                    "team": "Swindon Town",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. McGregor",
+                    "team": "Swindon Town",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Grimsby Town 4 - 0 Swindon Town"
+                        }
+                    ],
+                    "team": "Swindon Town"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Grimsby Town 4 - 0 Swindon Town"
+                        }
+                    ],
+                    "team": "Grimsby"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "League 2",
+                        "date": "22/11/2025",
+                        "teams_and_score": "Swindon Town 2 - 2 Grimsby Town"
+                    },
+                    {
+                        "competition": "League 2",
+                        "date": "18/04/2025",
+                        "teams_and_score": "Grimsby Town 0 - 4 Swindon Town"
+                    },
+                    {
+                        "competition": "League 2 23/24",
+                        "date": "20/04/2024",
+                        "teams_and_score": "Grimsby Town 2 - 0 Swindon Town"
+                    },
+                    {
+                        "competition": "League 2 22/23",
+                        "date": "14/01/2023",
+                        "teams_and_score": "Swindon Town 5 - 0 Grimsby Town"
+                    },
+                    {
+                        "competition": "League Two",
+                        "date": "22/02/2020",
+                        "teams_and_score": "Swindon Town 3 - 1 Grimsby Town"
+                    }
+                ],
+                "summary": {
+                    "Grimsby_wins": "1",
+                    "Swindon Town_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Grimsby": "39%",
+                    "Swindon Town": "61%"
+                },
+                "corners": {
+                    "Grimsby": "9",
+                    "Swindon Town": "5"
+                },
+                "crosses": {
+                    "Grimsby": "5",
+                    "Swindon Town": "2"
+                },
+                "fouls": {
+                    "Grimsby": "7",
+                    "Swindon Town": "12"
+                },
+                "goalkeeper_saves": {
+                    "Grimsby": "2",
+                    "Swindon Town": "2"
+                },
+                "offsides": {
+                    "Grimsby": "2",
+                    "Swindon Town": "0"
+                },
+                "shots_blocked": {
+                    "Grimsby": "4",
+                    "Swindon Town": "7"
+                },
+                "shots_off_target": {
+                    "Grimsby": "6",
+                    "Swindon Town": "2"
+                },
+                "shots_on_target": {
+                    "Grimsby": "6",
+                    "Swindon Town": "2"
+                },
+                "yellow_cards": {
+                    "Grimsby": "0",
+                    "Swindon Town": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/grimsby-vs-swindon-town-2026-04-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1353.webp",
+                    "name": "Swindon Town",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1365.webp",
+                    "name": "Grimsby",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/grimsby-vs-swindon-town-2026-04-25-glyN.webp",
+            "title": "Grimsby vs Swindon Town"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "Apr 18, 2026",
+            "description": "Watch Swindon Town vs Accrington Stanley highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on April 18, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/swindon-town-vs-accrington-stanley-2026-04-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/swindon-town-vs-accrington-stanley-2026-04-18-iwp1.webp",
+            "title": "Swindon Town vs Accrington Stanley"
+        },
+        {
+            "competition": "League Two",
+            "competition_cover": "https://refooty.com/covers/league-two.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Swindon Town vs Chesterfield highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on May 2, 2026. High-Stakes Clash in League Two On May 2, 2026, the atmosphere was electric as Swindon Town hosted Chesterfield in a pivotal League Two fixture. Both sides entered the match looking to assert their dominance in a contest defined by tactical grit and clinical moments of individual brilliance. Building Momentum Chesterfield struck the first major blow in the 19th minute. Armando Dobra provided a perfectly weighted assist for Lee Bonis , who confidently found the back of the net. The match tightened significantly, with Thomas Wilson-Brown picking up an early yellow card, reflecting the high stakes. As the first half drew to a close, Chesterfield doubled their advantage; in the 45th minute, Aaron Drinan teed up Ben Middlemas , who calmly converted to send his side into the break with a commanding lead. Second Half Adjustments Determined to claw their way back, Swindon Town utilized a flurry of substitutions at the start of the second half. The intensity ramped up, leading to a series of yellow cards for Junior Hoilett , Ryan Stirk , Ben Middlemas , and Lee Bonis . The breakthrough for the hosts finally arrived in the 61st minute, when Armando Dobra provided the assist for Dilan Markanday to keep the pressure on. Despite an energetic finish and the introduction of fresh legs like Will Grigg , the visitors held firm to secure the outcome as the final whistle blew.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Wilson-Brown",
+                    "team": "Swindon Town",
+                    "time": "18'"
+                },
+                {
+                    "assist": "A. Dobra",
+                    "event_type": "Goal",
+                    "player": "L. Bonis",
+                    "score_update": "0 - 1",
+                    "team": "Chesterfield",
+                    "time": "19'"
+                },
+                {
+                    "assist": "A. Drinan",
+                    "event_type": "Goal",
+                    "player": "B. Middlemas",
+                    "score_update": "1 - 1",
+                    "team": "Swindon Town",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Hoilett",
+                    "team": "Swindon Town",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Stirk",
+                    "team": "Chesterfield",
+                    "time": "61'"
+                },
+                {
+                    "assist": "A. Dobra",
+                    "event_type": "Goal",
+                    "player": "D. Markanday",
+                    "score_update": "1 - 2",
+                    "team": "Chesterfield",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Middlemas",
+                    "team": "Swindon Town",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Bonis",
+                    "team": "Chesterfield",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Swindon Town 1 - 2 Chesterfield"
+                        }
+                    ],
+                    "team": "Chesterfield"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "League 2",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Swindon Town 1 - 2 Chesterfield"
+                        }
+                    ],
+                    "team": "Swindon Town"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "League 2",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Chesterfield 1 - 2 Swindon Town"
+                    },
+                    {
+                        "competition": "League 2",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Swindon Town 1 - 0 Chesterfield"
+                    },
+                    {
+                        "competition": "League Two",
+                        "date": "24/02/2018",
+                        "teams_and_score": "Chesterfield 2 - 1 Swindon Town"
+                    },
+                    {
+                        "competition": "League One",
+                        "date": "04/03/2017",
+                        "teams_and_score": "Swindon Town 0 - 1 Chesterfield"
+                    }
+                ],
+                "summary": {
+                    "Chesterfield_wins": "2",
+                    "Swindon Town_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Chesterfield": "50%",
+                    "Swindon Town": "50%"
+                },
+                "corners": {
+                    "Chesterfield": "3",
+                    "Swindon Town": "8"
+                },
+                "crosses": {
+                    "Chesterfield": "2",
+                    "Swindon Town": "5"
+                },
+                "fouls": {
+                    "Chesterfield": "9",
+                    "Swindon Town": "11"
+                },
+                "goalkeeper_saves": {
+                    "Chesterfield": "5",
+                    "Swindon Town": "1"
+                },
+                "offsides": {
+                    "Chesterfield": "1",
+                    "Swindon Town": "1"
+                },
+                "shots_blocked": {
+                    "Chesterfield": "3",
+                    "Swindon Town": "2"
+                },
+                "shots_off_target": {
+                    "Chesterfield": "5",
+                    "Swindon Town": "4"
+                },
+                "shots_on_target": {
+                    "Chesterfield": "3",
+                    "Swindon Town": "7"
+                },
+                "yellow_cards": {
+                    "Chesterfield": "2",
+                    "Swindon Town": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/swindon-town-vs-chesterfield-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1345.webp",
+                    "name": "Chesterfield",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1353.webp",
+                    "name": "Swindon Town",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/swindon-town-vs-chesterfield-2026-05-02-l58b.webp",
+            "title": "Swindon Town vs Chesterfield"
+        }
+    ]
+}

@@ -1,0 +1,2805 @@
+{
+    "team": "Antwerp",
+    "team_logo": "https://img.refooty.com/logo/teams/740.webp",
+    "total_matches": 17,
+    "matches": [
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 25, 2026",
+            "description": "Watch Antwerp vs KVC Westerlo highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 25, 2026. The Jupiler Pro League delivered another intense chapter on May 25, 2026 , as Antwerp hosted KVC Westerlo . Both sides entered the pitch with high ambitions, setting the stage for a tactical battle under the lights. A Fiery Start to the Contest The match began with a frantic pace as both Antwerp and KVC Westerlo fought for control of the midfield. Discipline was tested early, and the referee was forced to reach for his pocket frequently. Thomas Van den Keybus received the first caution just two minutes in, setting a physical tone for the afternoon. He was soon followed into the book by Yuto Tsunashima , Farouck Adekami , and Emin Bayram , as the game became fragmented by tactical fouls. Despite the interruptions, both defenses remained organized, limiting clear-cut chances for much of the first half. Breaking the Deadlock Before the Interval Just as it seemed the teams would head into the break scoreless, a moment of clinical finishing altered the narrative. In the second minute of first-half stoppage time, Rein Van Helden found space in the box to fire KVC Westerlo into the lead. The late goal stunned the home crowd and gave the visitors a crucial psychological advantage heading into the dressing rooms, leaving Antwerp with plenty of work to do in the second period. Fofana Responds for the Hosts The second half saw Antwerp intensify their pressure as they searched for a way back into the game. The turning point arrived in the 64th minute when Modibo Fofana was introduced in place of Gyrano Kerk . The substitution paid dividends almost immediately; in the 69th minute, Fofana latched onto a pass from Daam Foulon to slot home the equalizer. The goal shifted the momentum back to the hosts, who continued to push with fresh legs like Geoffry Hairemans and Gerard Vandeplas . However, despite late tactical changes and four minutes of added time, neither side could find a winner, resulting in a hard-fought draw.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. V. D. Keybus",
+                    "team": "KVC Westerlo",
+                    "time": "2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Tsunashima",
+                    "team": "Antwerp",
+                    "time": "11'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Adekami",
+                    "team": "Antwerp",
+                    "time": "24'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Bayram",
+                    "team": "KVC Westerlo",
+                    "time": "36'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. V. Helden",
+                    "score_update": "1 - 0",
+                    "team": "Antwerp",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Foulon",
+                    "team": "Antwerp",
+                    "time": "46'"
+                },
+                {
+                    "assist": "D. Foulon",
+                    "event_type": "Goal",
+                    "player": "M. Fofana",
+                    "score_update": "2 - 0",
+                    "team": "Antwerp",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "23/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 2 - 0 Westerlo"
+                        }
+                    ],
+                    "team": "KVC Westerlo"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "23/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 2 - 0 Westerlo"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Conference League Group",
+                        "date": "25/04/2026",
+                        "teams_and_score": "Westerlo 2 - 4 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "15/02/2026",
+                        "teams_and_score": "Royal Antwerp 0 - 2 Westerlo"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "19/01/2025",
+                        "teams_and_score": "Royal Antwerp 3 - 2 Westerlo"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "23/12/2023",
+                        "teams_and_score": "Royal Antwerp 2 - 2 Westerlo"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "27/12/2022",
+                        "teams_and_score": "Westerlo 3 - 3 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Cup 21/22",
+                        "date": "28/10/2021",
+                        "teams_and_score": "Westerlo 2 - 1 Royal Antwerp"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "2",
+                    "KVC Westerlo_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "46%",
+                    "KVC Westerlo": "54%"
+                },
+                "corners": {
+                    "Antwerp": "6",
+                    "KVC Westerlo": "6"
+                },
+                "fouls": {
+                    "Antwerp": "11",
+                    "KVC Westerlo": "12"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "2",
+                    "KVC Westerlo": "5"
+                },
+                "offsides": {
+                    "Antwerp": "4",
+                    "KVC Westerlo": "1"
+                },
+                "shots_blocked": {
+                    "Antwerp": "5",
+                    "KVC Westerlo": "3"
+                },
+                "shots_off_target": {
+                    "Antwerp": "5",
+                    "KVC Westerlo": "2"
+                },
+                "shots_on_target": {
+                    "Antwerp": "7",
+                    "KVC Westerlo": "2"
+                },
+                "yellow_cards": {
+                    "Antwerp": "3",
+                    "KVC Westerlo": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/antwerp-kvc-westerlo-2026-05-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/261.webp",
+                    "name": "KVC Westerlo",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/antwerp-kvc-westerlo-2026-05-25-8g27.webp",
+            "title": "Antwerp - KVC Westerlo"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 11, 2026",
+            "description": "Watch Antwerp vs Charleroi highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 11, 2026. The stage was set for a fierce battle in the Jupiler Pro League , with both sides eager to stamp their authority on the match. Anticipation filled the air as the teams took to the pitch for this crucial encounter. Breaking the deadlock For much of the first half, the game was a tactical stalemate, with Royal Antwerp and Sporting Charleroi canceling each other out in the middle of the park. The deadlock was finally broken in the 41st minute when Yacine Titraoui found the back of the net. The goal came courtesy of a perfectly timed assist from Kevin Van Den Kerkhof , shifting the momentum firmly toward the visitors. As the half drew to a close, tensions flared, resulting in a yellow card for Dennis Praet just before the interval. A dramatic finish As the second half progressed, the game grew increasingly physical, leading the referee to issue bookings to Lewin Blum , Vincent Janssen , and Jakob Napoleon Romsaas . Both managers utilized their benches to inject fresh energy into their lineups as the clock ticked down. The atmosphere reached a fever pitch in the 86th minute when Royal Antwerp earned a golden opportunity from the penalty spot, only to see the chance go begging. Despite a frantic push in the closing moments, the result was sealed on May 11, 2026, leaving the home crowd disappointed as the final whistle confirmed the visitors' narrow victory.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Praet",
+                    "team": "Antwerp",
+                    "time": "1'"
+                },
+                {
+                    "assist": "K. V. D. Kerkhof",
+                    "event_type": "Goal",
+                    "player": "Y. Titraoui",
+                    "score_update": "0 - 1",
+                    "team": "Charleroi",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Blum",
+                    "team": "Charleroi",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Janssen",
+                    "team": "Antwerp",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. N. Romsaas",
+                    "team": "Charleroi",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "",
+                    "score_update": "0 - 1",
+                    "team": "Antwerp",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Kone",
+                    "team": "Charleroi",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 0 - 1 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Zulte Waregem 1 - 0 Sporting Charleroi"
+                        }
+                    ],
+                    "team": "Charleroi"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 0 - 1 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Oud-Heverlee Leuven 1 - 0 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Conference League Group",
+                        "date": "10/04/2026",
+                        "teams_and_score": "Sporting Charleroi 2 - 1 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "25/01/2026",
+                        "teams_and_score": "Royal Antwerp 0 - 2 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League: UECL Play-off",
+                        "date": "29/05/2025",
+                        "teams_and_score": "Royal Antwerp 1 - 2 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "08/12/2024",
+                        "teams_and_score": "Royal Antwerp 1 - 3 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "21/01/2024",
+                        "teams_and_score": "Royal Antwerp 4 - 1 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "06/12/2023",
+                        "teams_and_score": "Royal Antwerp 5 - 2 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "21/10/2023",
+                        "teams_and_score": "Sporting Charleroi 3 - 2 Royal Antwerp"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "2",
+                    "Charleroi_wins": "6",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "55%",
+                    "Charleroi": "45%"
+                },
+                "corners": {
+                    "Antwerp": "4",
+                    "Charleroi": "3"
+                },
+                "fouls": {
+                    "Antwerp": "16",
+                    "Charleroi": "10"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "1",
+                    "Charleroi": "1"
+                },
+                "offsides": {
+                    "Antwerp": "3",
+                    "Charleroi": "0"
+                },
+                "shots_blocked": {
+                    "Antwerp": "7",
+                    "Charleroi": "7"
+                },
+                "shots_off_target": {
+                    "Antwerp": "10",
+                    "Charleroi": "3"
+                },
+                "shots_on_target": {
+                    "Antwerp": "1",
+                    "Charleroi": "2"
+                },
+                "yellow_cards": {
+                    "Antwerp": "2",
+                    "Charleroi": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/antwerp-sporting-charleroi-2026-05-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/736.webp",
+                    "name": "Charleroi",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/antwerp-sporting-charleroi-2026-05-11-s1DU.webp",
+            "title": "Antwerp - Sporting Charleroi"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 12, 2026",
+            "description": "Watch Antwerp vs Anderlecht highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 12, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/antwerp-vs-anderlecht-2026-02-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/antwerp-vs-anderlecht-2026-02-12-j8fs.webp",
+            "title": "Antwerp vs Anderlecht"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 5, 2026",
+            "description": "Watch Antwerp vs Genk highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 5, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. S. Bangoura",
+                    "team": "Genk",
+                    "time": "20'"
+                },
+                {
+                    "assist": "Y. A. M. Ortiz",
+                    "event_type": "Goal",
+                    "player": "D. Heymans",
+                    "score_update": "0 - 1",
+                    "team": "Genk",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Heymans",
+                    "score_update": "0 - 2",
+                    "team": "Genk",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Smets",
+                    "team": "Genk",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Scott",
+                    "score_update": "1 - 2",
+                    "team": "Antwerp",
+                    "time": "86'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Hamdaoui",
+                    "team": "Antwerp",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Thoelen",
+                    "team": "Antwerp",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Valencia",
+                    "team": "Antwerp",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "03/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 1 - 2 Genk"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Raal La Louviere 5 - 5 Genk"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Freiburg 5 - 1 Genk"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Genk 1 - 0 St.Truiden"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Genk 1 - 0 Freiburg"
+                        }
+                    ],
+                    "team": "Genk"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "03/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 1 - 2 Genk"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Oud-Heverlee Leuven 1 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "12/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 0 - 4 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "KV Mechelen 2 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 0 - 1 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "07/12/2025",
+                        "teams_and_score": "Royal Antwerp 3 - 0 Genk"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group",
+                        "date": "27/04/2025",
+                        "teams_and_score": "Genk 0 - 1 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "26/12/2024",
+                        "teams_and_score": "Royal Antwerp 2 - 2 Genk"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group 23/24",
+                        "date": "20/05/2024",
+                        "teams_and_score": "Genk 1 - 0 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "26/12/2023",
+                        "teams_and_score": "Genk 3 - 0 Royal Antwerp"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "2",
+                    "Genk_wins": "2",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "56%",
+                    "Genk": "44%"
+                },
+                "corners": {
+                    "Antwerp": "3",
+                    "Genk": "0"
+                },
+                "fouls": {
+                    "Antwerp": "12",
+                    "Genk": "15"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "2",
+                    "Genk": "0"
+                },
+                "offsides": {
+                    "Antwerp": "6",
+                    "Genk": "0"
+                },
+                "shots_blocked": {
+                    "Antwerp": "6",
+                    "Genk": "0"
+                },
+                "shots_off_target": {
+                    "Antwerp": "5",
+                    "Genk": "7"
+                },
+                "shots_on_target": {
+                    "Antwerp": "2",
+                    "Genk": "5"
+                },
+                "yellow_cards": {
+                    "Antwerp": "2",
+                    "Genk": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/antwerp-vs-calcio-genk-2026-04-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/742.webp",
+                    "name": "Genk",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/antwerp-vs-calcio-genk-2026-04-05-PUpU.webp",
+            "title": "Antwerp vs Calcio Genk"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 16, 2026",
+            "description": "Watch Antwerp vs KVC Westerlo highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 16, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/antwerp-vs-kvc-westerlo-2026-02-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/antwerp-vs-kvc-westerlo-2026-02-16-9J4Q.webp",
+            "title": "Antwerp vs KVC Westerlo"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 28, 2026",
+            "description": "Watch Antwerp vs St. Truiden highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 28, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Muja",
+                    "team": "St. Truiden",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Janssen",
+                    "team": "Antwerp",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Z. V. Den Bosch",
+                    "team": "Antwerp",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Valencia",
+                    "score_update": "1 - 0",
+                    "team": "Antwerp",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 1 - 0 St.Truiden"
+                        }
+                    ],
+                    "team": "St. Truiden"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 1 - 0 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "12/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 0 - 4 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "KV Mechelen 2 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 0 - 1 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Cercle Brugge 0 - 4 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "03/12/2025",
+                        "teams_and_score": "Royal Antwerp 3 - 3 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "02/11/2025",
+                        "teams_and_score": "St.Truiden 1 - 0 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "24/01/2025",
+                        "teams_and_score": "St.Truiden 1 - 1 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "03/03/2024",
+                        "teams_and_score": "Royal Antwerp 3 - 0 St.Truiden"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "23/04/2023",
+                        "teams_and_score": "St.Truiden 0 - 1 Royal Antwerp"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "25/01/2022",
+                        "teams_and_score": "Royal Antwerp 1 - 1 St.Truiden"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "2",
+                    "St Truiden_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "30%",
+                    "St Truiden": "70%"
+                },
+                "corners": {
+                    "Antwerp": "3",
+                    "St Truiden": "4"
+                },
+                "fouls": {
+                    "Antwerp": "11",
+                    "St Truiden": "7"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "3",
+                    "St Truiden": "5"
+                },
+                "offsides": {
+                    "Antwerp": "2",
+                    "St Truiden": "2"
+                },
+                "shots_blocked": {
+                    "Antwerp": "2",
+                    "St Truiden": "3"
+                },
+                "shots_off_target": {
+                    "Antwerp": "4",
+                    "St Truiden": "4"
+                },
+                "shots_on_target": {
+                    "Antwerp": "6",
+                    "St Truiden": "3"
+                },
+                "yellow_cards": {
+                    "Antwerp": "2",
+                    "St Truiden": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/antwerp-vs-st-truiden-2026-02-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/735.webp",
+                    "name": "St. Truiden",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/antwerp-vs-st-truiden-2026-02-28-wru4.webp",
+            "title": "Antwerp vs St. Truiden"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 4, 2026",
+            "description": "Watch Antwerp vs Standard Liege highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 4, 2026. The Jupiler Pro League clash between Antwerp and Standard Liege on 2026-05-04 was a high-stakes affair that promised tactical intrigue. Both sides took to the pitch with significant ambitions, setting the stage for a match filled with momentum shifts and individual brilliance. A Tale of Two Starts The contest took an unexpected turn in the 33rd minute when a moment of misfortune for Yuto Tsunashima resulted in an own goal , handing Antwerp an early lead. However, any hopes of the hosts cruising were quickly extinguished by a ruthless Standard Liege response. Just five minutes later, Timothe Nkada restored parity, finishing clinically after being set up by Rafiki Said . The visitors' resurgence didn't stop there. In the 42nd minute, David Bates found the back of the net following a precise assist from Casper Nielsen . This quick-fire double completely flipped the script, allowing Standard Liege to head into the halftime interval with a hard-earned lead and the psychological advantage. Rafiki Said Takes Center Stage The second half saw Standard Liege maintain their relentless tempo. Only three minutes after the restart, Rafiki Said turned from provider to scorer, converting a chance created by Adnane Abid . Despite Antwerp attempting to spark a comeback with substitutions—bringing on the likes of Farouck Adekami and Marwan Al-Sahafi —the visitors remained in total control. The decisive blow came in the 62nd minute when Rafiki Said struck again to secure his brace and his team's fourth goal. Late Drama and Red Card As the match entered its final stages, the focus shifted toward tactical management and disciplinary action. Antwerp struggled to find a breakthrough, and frustration began to show, with Zeno Van Den Bosch entering the referee's book. Meanwhile, Standard Liege utilized their bench, introducing Dennis Eckert and Tobias Mohr to see out the result. The drama peaked in the 90th minute when Kiki Kouyate , already on a yellow card from earlier in the half, received his second booking and was subsequently sent off . Despite the late dismissal, the result was never in doubt. The final whistle blew after three minutes of stoppage time, confirming a statement victory for Standard Liege on the road.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "Y. Tsunashima",
+                    "team": "Standard Liege",
+                    "time": "1'"
+                },
+                {
+                    "assist": "R. Said",
+                    "event_type": "Goal",
+                    "player": "T. Nkada",
+                    "score_update": "0 - 2",
+                    "team": "Standard Liege",
+                    "time": "16'"
+                },
+                {
+                    "assist": "C. Nielsen",
+                    "event_type": "Goal",
+                    "player": "D. Bates",
+                    "score_update": "0 - 3",
+                    "team": "Standard Liege",
+                    "time": "31'"
+                },
+                {
+                    "assist": "A. Abid",
+                    "event_type": "Goal",
+                    "player": "R. Said",
+                    "score_update": "0 - 4",
+                    "team": "Standard Liege",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Z. V. D. Bosch",
+                    "team": "Antwerp",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Said",
+                    "score_update": "0 - 5",
+                    "team": "Standard Liege",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Kouyaté",
+                    "team": "Antwerp",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "K. Kouyaté",
+                    "team": "Antwerp",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 0 - 5 Standard Liege"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Standard Liege 0 - 0 Westerlo"
+                        }
+                    ],
+                    "team": "Standard Liege"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 0 - 5 Standard Liege"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Oud-Heverlee Leuven 1 - 0 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Conference League Group",
+                        "date": "21/04/2026",
+                        "teams_and_score": "Standard Liege 1 - 2 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "15/03/2026",
+                        "teams_and_score": "Royal Antwerp 1 - 1 Standard Liege"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "16/03/2025",
+                        "teams_and_score": "Standard Liege 0 - 0 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "31/01/2024",
+                        "teams_and_score": "Standard Liege 0 - 1 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "22/01/2023",
+                        "teams_and_score": "Royal Antwerp 4 - 1 Standard Liege"
+                    },
+                    {
+                        "competition": "Cup",
+                        "date": "20/12/2022",
+                        "teams_and_score": "Royal Antwerp 4 - 0 Standard Liege"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "16/10/2022",
+                        "teams_and_score": "Standard Liege 3 - 0 Royal Antwerp"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "4",
+                    "Standard Liege_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "64%",
+                    "Standard Liege": "36%"
+                },
+                "corners": {
+                    "Antwerp": "7",
+                    "Standard Liege": "3"
+                },
+                "fouls": {
+                    "Antwerp": "18",
+                    "Standard Liege": "5"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "4",
+                    "Standard Liege": "7"
+                },
+                "offsides": {
+                    "Antwerp": "2",
+                    "Standard Liege": "0"
+                },
+                "red_cards": {
+                    "Antwerp": "1",
+                    "Standard Liege": "0"
+                },
+                "shots_blocked": {
+                    "Antwerp": "1",
+                    "Standard Liege": "5"
+                },
+                "shots_off_target": {
+                    "Antwerp": "3",
+                    "Standard Liege": "2"
+                },
+                "shots_on_target": {
+                    "Antwerp": "7",
+                    "Standard Liege": "8"
+                },
+                "yellow_cards": {
+                    "Antwerp": "2",
+                    "Standard Liege": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/antwerp-vs-standard-liege-2026-05-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/733.webp",
+                    "name": "Standard Liege",
+                    "score": "5"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/antwerp-vs-standard-liege-2026-05-04-0yzF.webp",
+            "title": "Antwerp vs Standard Liege"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 1, 2026",
+            "description": "Watch Cercle Brugge vs Antwerp highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 1, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "Warleson",
+                    "team": "Cercle Brugge",
+                    "time": "9'"
+                },
+                {
+                    "assist": "T. Somers",
+                    "event_type": "Goal",
+                    "player": "C. Scott",
+                    "score_update": "0 - 1",
+                    "team": "Antwerp",
+                    "time": "43'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "V. Janssen",
+                    "score_update": "0 - 2",
+                    "team": "Antwerp",
+                    "time": "45+6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Verstraeten",
+                    "team": "Antwerp",
+                    "time": "46'"
+                },
+                {
+                    "assist": "T. Somers",
+                    "event_type": "Goal",
+                    "player": "Y. Tsunashima",
+                    "score_update": "0 - 3",
+                    "team": "Antwerp",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Somers",
+                    "score_update": "0 - 4",
+                    "team": "Antwerp",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Nazinho",
+                    "team": "Cercle Brugge",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Cercle Brugge 0 - 4 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "13/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 2 - 1 Raal La Louviere"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "27/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Royal Antwerp 2 - 1 Zulte Waregem"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "03/12/2025",
+                            "result": "D",
+                            "teams_and_score": "Royal Antwerp 3 - 3 St.Truiden"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "30/11/2025",
+                            "result": "W",
+                            "teams_and_score": "Club Brugge 0 - 1 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "31/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Cercle Brugge 0 - 4 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "03/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Cercle Brugge 1 - 3 Gent"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "29/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Zulte Waregem 1 - 1 Cercle Brugge"
+                        }
+                    ],
+                    "team": "Cercle Brugge"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "04/10/2025",
+                        "teams_and_score": "Royal Antwerp 1 - 1 Cercle Brugge"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "01/03/2025",
+                        "teams_and_score": "Cercle Brugge 0 - 0 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group 23/24",
+                        "date": "12/05/2024",
+                        "teams_and_score": "Royal Antwerp 1 - 2 Cercle Brugge"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "09/12/2023",
+                        "teams_and_score": "Cercle Brugge 1 - 3 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "09/04/2023",
+                        "teams_and_score": "Royal Antwerp 2 - 1 Cercle Brugge"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "09/04/2022",
+                        "teams_and_score": "Royal Antwerp 1 - 1 Cercle Brugge"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "2",
+                    "Cercle Brugge_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "70%",
+                    "Cercle Brugge": "30%"
+                },
+                "corners": {
+                    "Antwerp": "5",
+                    "Cercle Brugge": "2"
+                },
+                "fouls": {
+                    "Antwerp": "13",
+                    "Cercle Brugge": "10"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "0",
+                    "Cercle Brugge": "4"
+                },
+                "offsides": {
+                    "Antwerp": "4",
+                    "Cercle Brugge": "2"
+                },
+                "red_cards": {
+                    "Antwerp": "0",
+                    "Cercle Brugge": "1"
+                },
+                "shots_blocked": {
+                    "Antwerp": "1",
+                    "Cercle Brugge": "2"
+                },
+                "shots_off_target": {
+                    "Antwerp": "5",
+                    "Cercle Brugge": "1"
+                },
+                "shots_on_target": {
+                    "Antwerp": "9",
+                    "Cercle Brugge": "0"
+                },
+                "yellow_cards": {
+                    "Antwerp": "1",
+                    "Cercle Brugge": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/cercle-brugge-vs-antwerp-2026-02-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "4"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/741.webp",
+                    "name": "Cercle Brugge",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/cercle-brugge-vs-antwerp-2026-02-01-mIyB.webp",
+            "title": "Cercle Brugge vs Antwerp"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 22, 2026",
+            "description": "Watch Genk vs Antwerp highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 22, 2026. The clash between KRC Genk and Antwerp on May 22, 2026, proved to be a grueling test of patience and tactical discipline in the Jupiler Pro League . A Tactical Standoff From the moment the referee started the match, the emphasis was firmly on structural integrity. Both teams engaged in a chess-like battle in the middle of the pitch, effectively canceling out each other's offensive threats during the first half. Fans saw plenty of energy but lacked a defining chance to break the deadlock before the half-time whistle signaled a temporary end to the stalemate. Late Efforts and Disciplinary Drama As the second half unfolded, managers looked to the bench to inject fresh energy into their respective sides. Players like Gyrano Kerk and Anthony Valencia entered the fray around the hour mark, yet the defensive resolve of both teams remained unshaken. Tempers flared slightly as the clock ticked down, resulting in yellow cards for Yuto Tsunashima and Eran Tuypens as they battled for supremacy. Despite a flurry of substitutions in the dying minutes, including the introduction of Jarne Steuckers , neither team could find the net, and the match concluded without a goal.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Tsunashima",
+                    "team": "Antwerp",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Tuypens",
+                    "team": "Antwerp",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "19/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Genk 0 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Oud-Heverlee Leuven 1 - 0 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "19/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Genk 0 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Raal La Louviere 5 - 5 Genk"
+                        }
+                    ],
+                    "team": "Genk"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Conference League Group",
+                        "date": "03/04/2026",
+                        "teams_and_score": "Royal Antwerp 1 - 2 Genk"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "07/12/2025",
+                        "teams_and_score": "Royal Antwerp 3 - 0 Genk"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group",
+                        "date": "27/04/2025",
+                        "teams_and_score": "Genk 0 - 1 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "26/12/2024",
+                        "teams_and_score": "Royal Antwerp 2 - 2 Genk"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group 23/24",
+                        "date": "20/05/2024",
+                        "teams_and_score": "Genk 1 - 0 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "26/12/2023",
+                        "teams_and_score": "Genk 3 - 0 Royal Antwerp"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "2",
+                    "Genk_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "38%",
+                    "Genk": "62%"
+                },
+                "corners": {
+                    "Antwerp": "3",
+                    "Genk": "11"
+                },
+                "fouls": {
+                    "Antwerp": "8",
+                    "Genk": "8"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "13",
+                    "Genk": "1"
+                },
+                "offsides": {
+                    "Antwerp": "1",
+                    "Genk": "1"
+                },
+                "shots_blocked": {
+                    "Antwerp": "4",
+                    "Genk": "13"
+                },
+                "shots_off_target": {
+                    "Antwerp": "6",
+                    "Genk": "7"
+                },
+                "shots_on_target": {
+                    "Antwerp": "1",
+                    "Genk": "13"
+                },
+                "yellow_cards": {
+                    "Antwerp": "2",
+                    "Genk": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/krc-genk-antwerp-2026-05-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/742.webp",
+                    "name": "Genk",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/krc-genk-antwerp-2026-05-22-8EXr.webp",
+            "title": "KRC Genk - Antwerp"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 9, 2026",
+            "description": "Watch KV Mechelen vs Antwerp highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 9, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kv-mechelen-vs-antwerp-2026-02-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kv-mechelen-vs-antwerp-2026-02-09-RKHM.webp",
+            "title": "KV Mechelen vs Antwerp"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch KVC Westerlo vs Antwerp highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 26, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/kvc-westerlo-vs-antwerp-2026-04-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/kvc-westerlo-vs-antwerp-2026-04-26-HKhn.webp",
+            "title": "KVC Westerlo vs Antwerp"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "May 18, 2026",
+            "description": "Watch OH Leuven vs Antwerp highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on May 18, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Foulon",
+                    "team": "Antwerp",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Teklab",
+                    "team": "OH Leuven",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. K. Traore",
+                    "score_update": "1 - 0",
+                    "team": "OH Leuven",
+                    "time": "31'"
+                },
+                {
+                    "assist": "Y. Maziz",
+                    "event_type": "Goal",
+                    "player": "S. Schrijvers",
+                    "score_update": "2 - 0",
+                    "team": "OH Leuven",
+                    "time": "46'"
+                },
+                {
+                    "assist": "D. Opoku",
+                    "event_type": "Goal",
+                    "player": "H. Teklab",
+                    "score_update": "3 - 0",
+                    "team": "OH Leuven",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "15/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Oud-Heverlee Leuven 3 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Oud-Heverlee Leuven 1 - 0 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "15/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Oud-Heverlee Leuven 3 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Oud-Heverlee Leuven 1 - 0 Royal Antwerp"
+                        }
+                    ],
+                    "team": "OH Leuven"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League Playoff: Conference League Group",
+                        "date": "18/04/2026",
+                        "teams_and_score": "Royal Antwerp 2 - 0 Oud-Heverlee Leuven"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "22/03/2026",
+                        "teams_and_score": "Oud-Heverlee Leuven 1 - 0 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Royal Antwerp 2 - 2 Oud-Heverlee Leuven"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "24/01/2024",
+                        "teams_and_score": "Oud-Heverlee Leuven 2 - 3 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "02/12/2023",
+                        "teams_and_score": "Royal Antwerp 1 - 0 Oud-Heverlee Leuven"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "26/02/2023",
+                        "teams_and_score": "Oud-Heverlee Leuven 1 - 1 Royal Antwerp"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "3",
+                    "OH Leuven_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "64%",
+                    "OH Leuven": "36%"
+                },
+                "corners": {
+                    "Antwerp": "11",
+                    "OH Leuven": "1"
+                },
+                "fouls": {
+                    "Antwerp": "5",
+                    "OH Leuven": "13"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "1",
+                    "OH Leuven": "4"
+                },
+                "offsides": {
+                    "Antwerp": "6",
+                    "OH Leuven": "1"
+                },
+                "shots_blocked": {
+                    "Antwerp": "3",
+                    "OH Leuven": "1"
+                },
+                "shots_off_target": {
+                    "Antwerp": "7",
+                    "OH Leuven": "6"
+                },
+                "shots_on_target": {
+                    "Antwerp": "4",
+                    "OH Leuven": "4"
+                },
+                "yellow_cards": {
+                    "Antwerp": "1",
+                    "OH Leuven": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/oh-leuven-antwerp-2026-05-18.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/260.webp",
+                    "name": "OH Leuven",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/oh-leuven-antwerp-2026-05-18-fKk6.webp",
+            "title": "OH Leuven - Antwerp"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Mar 23, 2026",
+            "description": "Watch OH Leuven vs Antwerp highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on March 23, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Dussenne",
+                    "team": "OH Leuven",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Tsunashima",
+                    "team": "Antwerp",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Z. V. Den Bosch",
+                    "team": "Antwerp",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "Z. V. Den Bosch",
+                    "team": "Antwerp",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Janssen",
+                    "team": "Antwerp",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Bijl",
+                    "team": "Antwerp",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Y. Maziz",
+                    "team": "OH Leuven",
+                    "time": "84'"
+                },
+                {
+                    "assist": "S. Schrijvers",
+                    "event_type": "Goal",
+                    "player": "S. Kaba",
+                    "score_update": "1 - 0",
+                    "team": "OH Leuven",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Kaba",
+                    "team": "OH Leuven",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Oud-Heverlee Leuven 1 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "12/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 0 - 4 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "KV Mechelen 2 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 0 - 1 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Cercle Brugge 0 - 4 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Oud-Heverlee Leuven 1 - 0 Royal Antwerp"
+                        }
+                    ],
+                    "team": "OH Leuven"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "10/08/2025",
+                        "teams_and_score": "Royal Antwerp 3 - 1 Oud-Heverlee Leuven"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "22/02/2025",
+                        "teams_and_score": "Royal Antwerp 2 - 2 Oud-Heverlee Leuven"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "24/01/2024",
+                        "teams_and_score": "Oud-Heverlee Leuven 2 - 3 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "02/12/2023",
+                        "teams_and_score": "Royal Antwerp 1 - 0 Oud-Heverlee Leuven"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "26/02/2023",
+                        "teams_and_score": "Oud-Heverlee Leuven 1 - 1 Royal Antwerp"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "02/04/2022",
+                        "teams_and_score": "Oud-Heverlee Leuven 0 - 1 Royal Antwerp"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "2",
+                    "OH Leuven_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "47%",
+                    "OH Leuven": "53%"
+                },
+                "corners": {
+                    "Antwerp": "5",
+                    "OH Leuven": "5"
+                },
+                "fouls": {
+                    "Antwerp": "11",
+                    "OH Leuven": "11"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "3",
+                    "OH Leuven": "0"
+                },
+                "offsides": {
+                    "Antwerp": "1",
+                    "OH Leuven": "3"
+                },
+                "red_cards": {
+                    "Antwerp": "1",
+                    "OH Leuven": "0"
+                },
+                "shots_blocked": {
+                    "Antwerp": "2",
+                    "OH Leuven": "6"
+                },
+                "shots_off_target": {
+                    "Antwerp": "3",
+                    "OH Leuven": "7"
+                },
+                "shots_on_target": {
+                    "Antwerp": "0",
+                    "OH Leuven": "4"
+                },
+                "yellow_cards": {
+                    "Antwerp": "4",
+                    "OH Leuven": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/oh-leuven-vs-antwerp-2026-03-23.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/260.webp",
+                    "name": "OH Leuven",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/oh-leuven-vs-antwerp-2026-03-23-LYl1.webp",
+            "title": "OH Leuven vs Antwerp"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Mar 7, 2026",
+            "description": "Watch RAAL La Louvière vs Antwerp highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on March 7, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Maisonneuve",
+                    "team": "RAAL La Louvière",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Scott",
+                    "team": "Antwerp",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "X. Dierckx",
+                    "team": "Antwerp",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "X. Dierckx",
+                    "team": "Antwerp",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "06/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Raal La Louviere 0 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "12/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 0 - 4 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "KV Mechelen 2 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 0 - 1 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Cercle Brugge 0 - 4 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "06/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Raal La Louviere 0 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "13/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 2 - 1 Raal La Louviere"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "27/12/2025",
+                            "result": "D",
+                            "teams_and_score": "Raal La Louviere 0 - 0 Oud-Heverlee Leuven"
+                        }
+                    ],
+                    "team": "RAAL La Louvière"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "13/01/2026",
+                        "teams_and_score": "Royal Antwerp 2 - 1 Raal La Louviere"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "08/11/2025",
+                        "teams_and_score": "Royal Antwerp 3 - 1 Raal La Louviere"
+                    },
+                    {
+                        "competition": "Cup 20/21",
+                        "date": "02/02/2021",
+                        "teams_and_score": "Royal Antwerp 2 - 1 Raal La Louviere"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "3",
+                    "RAAL La Louvière_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "40%",
+                    "RAAL La Louvière": "60%"
+                },
+                "corners": {
+                    "Antwerp": "3",
+                    "RAAL La Louvière": "7"
+                },
+                "fouls": {
+                    "Antwerp": "21",
+                    "RAAL La Louvière": "9"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "10",
+                    "RAAL La Louvière": "5"
+                },
+                "offsides": {
+                    "Antwerp": "0",
+                    "RAAL La Louvière": "2"
+                },
+                "red_cards": {
+                    "Antwerp": "1",
+                    "RAAL La Louvière": "0"
+                },
+                "shots_blocked": {
+                    "Antwerp": "0",
+                    "RAAL La Louvière": "5"
+                },
+                "shots_off_target": {
+                    "Antwerp": "0",
+                    "RAAL La Louvière": "6"
+                },
+                "shots_on_target": {
+                    "Antwerp": "5",
+                    "RAAL La Louvière": "10"
+                },
+                "yellow_cards": {
+                    "Antwerp": "2",
+                    "RAAL La Louvière": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/raal-la-louviere-vs-antwerp-2026-03-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/5902.webp",
+                    "name": "RAAL La Louvière",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/raal-la-louviere-vs-antwerp-2026-03-07-bRMM.webp",
+            "title": "RAAL La Louvière vs Antwerp"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Sporting Charleroi II vs Antwerp highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "M. Nzita",
+                    "event_type": "Goal",
+                    "player": "A. Bernier",
+                    "score_update": "1 - 0",
+                    "team": "Sporting Charleroi II",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Boukamir",
+                    "team": "Sporting Charleroi II",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Adekami",
+                    "team": "Antwerp",
+                    "time": "54'"
+                },
+                {
+                    "assist": "A. Bernier",
+                    "event_type": "Goal",
+                    "player": "P. Pflucke",
+                    "score_update": "2 - 0",
+                    "team": "Sporting Charleroi II",
+                    "time": "63'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Bernier",
+                    "team": "Sporting Charleroi II",
+                    "time": "69'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Ousou",
+                    "team": "Sporting Charleroi II",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Valencia",
+                    "team": "Antwerp",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "V. Janssen",
+                    "score_update": "2 - 1",
+                    "team": "Antwerp",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "10/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Charleroi 2 - 1 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Oud-Heverlee Leuven 1 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "12/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 0 - 4 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "KV Mechelen 2 - 0 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "10/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting Charleroi 2 - 1 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Zulte Waregem 1 - 0 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "11/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 4 - 1 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "07/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Sporting Charleroi 3 - 4 Cercle Brugge"
+                        }
+                    ],
+                    "team": "Sporting Charleroi II"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "25/01/2026",
+                        "teams_and_score": "Royal Antwerp 0 - 2 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League: UECL Play-off",
+                        "date": "29/05/2025",
+                        "teams_and_score": "Royal Antwerp 1 - 2 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "08/12/2024",
+                        "teams_and_score": "Royal Antwerp 1 - 3 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "21/01/2024",
+                        "teams_and_score": "Royal Antwerp 4 - 1 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "06/12/2023",
+                        "teams_and_score": "Royal Antwerp 5 - 2 Sporting Charleroi"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "21/10/2023",
+                        "teams_and_score": "Sporting Charleroi 3 - 2 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "19/03/2023",
+                        "teams_and_score": "Royal Antwerp 0 - 1 Sporting Charleroi"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "3",
+                    "Sporting Charleroi II_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "54%",
+                    "Sporting Charleroi II": "46%"
+                },
+                "corners": {
+                    "Antwerp": "9",
+                    "Sporting Charleroi II": "2"
+                },
+                "fouls": {
+                    "Antwerp": "14",
+                    "Sporting Charleroi II": "11"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "3",
+                    "Sporting Charleroi II": "1"
+                },
+                "offsides": {
+                    "Antwerp": "2",
+                    "Sporting Charleroi II": "2"
+                },
+                "shots_blocked": {
+                    "Antwerp": "4",
+                    "Sporting Charleroi II": "2"
+                },
+                "shots_off_target": {
+                    "Antwerp": "3",
+                    "Sporting Charleroi II": "6"
+                },
+                "shots_on_target": {
+                    "Antwerp": "2",
+                    "Sporting Charleroi II": "5"
+                },
+                "yellow_cards": {
+                    "Antwerp": "2",
+                    "Sporting Charleroi II": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sporting-charleroi-ii-vs-antwerp-2026-04-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/19959.webp",
+                    "name": "Sporting Charleroi II",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sporting-charleroi-ii-vs-antwerp-2026-04-11-y5Cg.webp",
+            "title": "Sporting Charleroi II vs Antwerp"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Apr 22, 2026",
+            "description": "Watch Standard Liege vs Antwerp highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on April 22, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "A. Valencia",
+                    "event_type": "Goal",
+                    "player": "C. Scott",
+                    "score_update": "0 - 1",
+                    "team": "Antwerp",
+                    "time": "46'"
+                },
+                {
+                    "assist": "A. Valencia",
+                    "event_type": "Goal",
+                    "player": "C. Scott",
+                    "score_update": "0 - 2",
+                    "team": "Antwerp",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Kerk",
+                    "team": "Antwerp",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Nielsen",
+                    "score_update": "1 - 2",
+                    "team": "Standard Liege",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Lawrence",
+                    "team": "Standard Liege",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Adekami",
+                    "team": "Antwerp",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "21/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Standard Liege 1 - 2 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Oud-Heverlee Leuven 1 - 0 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League Playoff: Conference League Group",
+                            "date": "21/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Standard Liege 1 - 2 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "22/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Standard Liege 0 - 0 Westerlo"
+                        }
+                    ],
+                    "team": "Standard Liege"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "15/03/2026",
+                        "teams_and_score": "Royal Antwerp 1 - 1 Standard Liege"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "16/03/2025",
+                        "teams_and_score": "Standard Liege 0 - 0 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "31/01/2024",
+                        "teams_and_score": "Standard Liege 0 - 1 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "22/01/2023",
+                        "teams_and_score": "Royal Antwerp 4 - 1 Standard Liege"
+                    },
+                    {
+                        "competition": "Cup",
+                        "date": "20/12/2022",
+                        "teams_and_score": "Royal Antwerp 4 - 0 Standard Liege"
+                    },
+                    {
+                        "competition": "Belgian Pro League 22/23",
+                        "date": "16/10/2022",
+                        "teams_and_score": "Standard Liege 3 - 0 Royal Antwerp"
+                    },
+                    {
+                        "competition": "First Division A 21/22",
+                        "date": "12/12/2021",
+                        "teams_and_score": "Royal Antwerp 2 - 3 Standard Liege"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "3",
+                    "Standard Liege_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "53%",
+                    "Standard Liege": "47%"
+                },
+                "corners": {
+                    "Antwerp": "4",
+                    "Standard Liege": "6"
+                },
+                "fouls": {
+                    "Antwerp": "11",
+                    "Standard Liege": "10"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "3",
+                    "Standard Liege": "1"
+                },
+                "offsides": {
+                    "Antwerp": "3",
+                    "Standard Liege": "2"
+                },
+                "shots_blocked": {
+                    "Antwerp": "4",
+                    "Standard Liege": "6"
+                },
+                "shots_off_target": {
+                    "Antwerp": "9",
+                    "Standard Liege": "5"
+                },
+                "shots_on_target": {
+                    "Antwerp": "3",
+                    "Standard Liege": "4"
+                },
+                "yellow_cards": {
+                    "Antwerp": "2",
+                    "Standard Liege": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/standard-liege-vs-antwerp-2026-04-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/733.webp",
+                    "name": "Standard Liege",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/standard-liege-vs-antwerp-2026-04-22-k4hS.webp",
+            "title": "Standard Liege vs Antwerp"
+        },
+        {
+            "competition": "Jupiler Pro League",
+            "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+            "date": "Feb 21, 2026",
+            "description": "Watch Union St. Gilloise vs Antwerp highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on February 21, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Kouyaté",
+                    "team": "Antwerp",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Z. V. Den Bosch",
+                    "team": "Union St. Gilloise",
+                    "time": "16'"
+                },
+                {
+                    "assist": "V. Janssen",
+                    "event_type": "Goal",
+                    "player": "A. Valencia",
+                    "score_update": "1 - 1",
+                    "team": "Antwerp",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Chambaere",
+                    "team": "Union St. Gilloise",
+                    "time": "69'"
+                },
+                {
+                    "assist": "A. Khalaili",
+                    "event_type": "Goal",
+                    "player": "R. Sykes",
+                    "score_update": "2 - 1",
+                    "team": "Union St. Gilloise",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Mac Allister",
+                    "team": "Union St. Gilloise",
+                    "time": "90+8'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "21/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 2 - 1 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "12/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Royal Antwerp 0 - 4 Anderlecht"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "KV Mechelen 2 - 0 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "05/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Anderlecht 0 - 1 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "31/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Cercle Brugge 0 - 4 Royal Antwerp"
+                        }
+                    ],
+                    "team": "Antwerp"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "21/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 2 - 1 Royal Antwerp"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "11/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 4 - 1 Sporting Charleroi"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "08/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 2 - 1 Raal La Louviere"
+                        },
+                        {
+                            "competition": "Belgian Cup",
+                            "date": "04/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Sporting Charleroi 0 - 0 Union St.Gilloise"
+                        },
+                        {
+                            "competition": "Belgian Pro League",
+                            "date": "01/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Union St.Gilloise 1 - 0 Club Brugge"
+                        }
+                    ],
+                    "team": "Union St. Gilloise"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "25/07/2025",
+                        "teams_and_score": "Royal Antwerp 1 - 1 Union St.Gilloise"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group",
+                        "date": "17/05/2025",
+                        "teams_and_score": "Royal Antwerp 0 - 4 Union St.Gilloise"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "08/01/2025",
+                        "teams_and_score": "Royal Antwerp 5 - 1 Union St.Gilloise"
+                    },
+                    {
+                        "competition": "Belgian Pro League",
+                        "date": "01/12/2024",
+                        "teams_and_score": "Union St.Gilloise 2 - 1 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Cup",
+                        "date": "09/05/2024",
+                        "teams_and_score": "Union St.Gilloise 1 - 0 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League: Championship Group 23/24",
+                        "date": "28/04/2024",
+                        "teams_and_score": "Union St.Gilloise 4 - 1 Royal Antwerp"
+                    },
+                    {
+                        "competition": "Belgian Pro League 23/24",
+                        "date": "17/03/2024",
+                        "teams_and_score": "Royal Antwerp 1 - 1 Union St.Gilloise"
+                    }
+                ],
+                "summary": {
+                    "Antwerp_wins": "4",
+                    "Union St Gilloise_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Antwerp": "38%",
+                    "Union St Gilloise": "62%"
+                },
+                "corners": {
+                    "Antwerp": "1",
+                    "Union St Gilloise": "10"
+                },
+                "fouls": {
+                    "Antwerp": "12",
+                    "Union St Gilloise": "13"
+                },
+                "goalkeeper_saves": {
+                    "Antwerp": "5",
+                    "Union St Gilloise": "1"
+                },
+                "offsides": {
+                    "Antwerp": "2",
+                    "Union St Gilloise": "2"
+                },
+                "shots_blocked": {
+                    "Antwerp": "1",
+                    "Union St Gilloise": "6"
+                },
+                "shots_off_target": {
+                    "Antwerp": "1",
+                    "Union St Gilloise": "9"
+                },
+                "shots_on_target": {
+                    "Antwerp": "2",
+                    "Union St Gilloise": "6"
+                },
+                "yellow_cards": {
+                    "Antwerp": "1",
+                    "Union St Gilloise": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/union-st-gilloise-vs-antwerp-2026-02-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/740.webp",
+                    "name": "Antwerp",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1393.webp",
+                    "name": "Union St. Gilloise",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/union-st-gilloise-vs-antwerp-2026-02-21-E37U.webp",
+            "title": "Union St. Gilloise vs Antwerp"
+        }
+    ]
+}

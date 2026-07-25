@@ -1,0 +1,1749 @@
+{
+    "team": "Racing Club",
+    "team_logo": "",
+    "total_matches": 13,
+    "matches": [
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 4, 2026",
+            "description": "Watch Atletico Tucuman vs Racing Club highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/atletico-tucuman-racing-club-2026-03-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-tucuman-racing-club-2026-03-04-Y5Tt.webp",
+            "title": "Atletico Tucuman - Racing Club"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 22, 2026",
+            "description": "Watch Belgrano Cordoba vs Racing Club highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 22, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Errecalde",
+                    "team": "Racing Club",
+                    "time": "1'"
+                },
+                {
+                    "assist": "F. Nicola",
+                    "event_type": "Goal",
+                    "player": "C. Ferreira",
+                    "score_update": "1 - 0",
+                    "team": "Belgrano Cordoba",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Max",
+                    "team": "Racing Club",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Fernandez",
+                    "team": "Racing Club",
+                    "time": "47'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Lamendola",
+                    "team": "Belgrano Cordoba",
+                    "time": "68'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Steimbach",
+                    "team": "Racing Club",
+                    "time": "68'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Panaro",
+                    "team": "Racing Club",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Villa",
+                    "team": "Belgrano Cordoba",
+                    "time": "90+5'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Giampaoli",
+                    "team": "Racing Club",
+                    "time": "90+6'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico Tucuman 1 - 0 Gimnasia LP"
+                        }
+                    ],
+                    "team": "Racing Club"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Atletico Tucuman 1 - 0 Gimnasia LP"
+                        }
+                    ],
+                    "team": "Belgrano Cordoba"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primera Division: Clausura",
+                        "date": "01/09/2025",
+                        "teams_and_score": "Gimnasia LP 1 - 0 Atletico Tucuman"
+                    },
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "24/02/2025",
+                        "teams_and_score": "Atletico Tucuman 0 - 1 Gimnasia LP"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "24/11/2024",
+                        "teams_and_score": "Gimnasia LP 1 - 0 Atletico Tucuman"
+                    },
+                    {
+                        "competition": "Cup",
+                        "date": "23/05/2024",
+                        "teams_and_score": "Atletico Tucuman 1 - 2 Gimnasia LP"
+                    },
+                    {
+                        "competition": "Copa de la Liga Profesional",
+                        "date": "07/04/2024",
+                        "teams_and_score": "Atletico Tucuman 3 - 2 Gimnasia LP"
+                    },
+                    {
+                        "competition": "Copa de la Liga Profesional",
+                        "date": "11/11/2023",
+                        "teams_and_score": "Gimnasia LP 1 - 2 Atletico Tucuman"
+                    },
+                    {
+                        "competition": "Primera Division 2023",
+                        "date": "12/07/2023",
+                        "teams_and_score": "Atletico Tucuman 2 - 0 Gimnasia LP"
+                    }
+                ],
+                "summary": {
+                    "Belgrano Cordoba_wins": "4",
+                    "Racing Club_wins": "6",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Belgrano Cordoba": "39%",
+                    "Racing Club": "61%"
+                },
+                "corners": {
+                    "Belgrano Cordoba": "6",
+                    "Racing Club": "4"
+                },
+                "fouls": {
+                    "Belgrano Cordoba": "9",
+                    "Racing Club": "12"
+                },
+                "goalkeeper_saves": {
+                    "Belgrano Cordoba": "1",
+                    "Racing Club": "1"
+                },
+                "offsides": {
+                    "Belgrano Cordoba": "2",
+                    "Racing Club": "0"
+                },
+                "shots_off_target": {
+                    "Belgrano Cordoba": "8",
+                    "Racing Club": "2"
+                },
+                "shots_on_target": {
+                    "Belgrano Cordoba": "2",
+                    "Racing Club": "1"
+                },
+                "yellow_cards": {
+                    "Belgrano Cordoba": "2",
+                    "Racing Club": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/belgrano-racing-club-2026-03-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/436.webp",
+                    "name": "Racing Club",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/440.webp",
+                    "name": "Belgrano Cordoba",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/belgrano-racing-club-2026-03-22-5MgW.webp",
+            "title": "Belgrano - Racing Club"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Feb 21, 2026",
+            "description": "Watch Boca Juniors vs Racing Club highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on February 21, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/boca-juniors-racing-club-2026-02-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/boca-juniors-racing-club-2026-02-21-2FXS.webp",
+            "title": "Boca Juniors - Racing Club"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "May 10, 2026",
+            "description": "Watch Estudiantes L.P. vs Racing Club highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on May 10, 2026. The clash between Estudiantes de La Plata and Racing Club in the Liga Profesional Argentina promised a fascinating tactical battle from the very first whistle. Both sides stepped onto the pitch with clear intentions to dominate, setting the stage for a physical and high-stakes football match. A Gritty Opening Half Contested on May 10, 2026 , the game began with both teams struggling to find space in a congested midfield. The first half was characterized more by defensive discipline than offensive flair, as the referee stayed busy managing the rising tempers. Ezequiel Piovi received the game's first yellow card in the 38th minute, and the tension only grew when Matias Zaracho was booked just two minutes later. By halftime, it was clear that a single moment of brilliance or a mistake would be needed to break the deadlock. The Breakthrough and Rising Tension The second half saw an immediate continuation of the physical play, with Adrian Fernandez entering the book in the 46th minute. However, the stadium erupted in the 66th minute when Estudiantes finally found the opening goal . This shift in momentum forced Racing Club to increase their offensive pressure, leading to more defensive desperation. Bruno Zuculini and Marco Di Cesare were both cautioned as the visitors scrambled to stay in the contest while searching for an equalizer. Late Drama Secures the Draw Just as the home side seemed poised to claim all three points, the narrative shifted dramatically in the 89th minute. Gabriel Rojas turned provider, delivering a crucial assist for Santiago Sosa , who clinically finished to bring Racing Club level. The closing stages were frantic, featuring a flurry of substitutions including Lucas Alario and Jose Sosa , alongside late yellow cards for Tomas Palacios and Rojas . The referee eventually brought an end to the pulsating sports spectacle, leaving both teams to settle for a hard-earned point.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Piovi",
+                    "team": "Estudiantes L.P.",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Zaracho",
+                    "team": "Racing Club",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Fernandez",
+                    "team": "Racing Club",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "",
+                    "score_update": "1 - 0",
+                    "team": "Estudiantes L.P.",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Zuculini",
+                    "team": "Racing Club",
+                    "time": "72'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. D. Cesare",
+                    "team": "Racing Club",
+                    "time": "84'"
+                },
+                {
+                    "assist": "H. G. Rojas",
+                    "event_type": "Goal",
+                    "player": "S. Sosa",
+                    "score_update": "1 - 1",
+                    "team": "Racing Club",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Palacios",
+                    "team": "Estudiantes L.P.",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. G. Rojas",
+                    "team": "Racing Club",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Liga Profesional: Clausura Playoff",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Estudiantes de la Plata 0 - 1 Racing Club"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "07/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 2 - 1 Racing Club"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Racing Club 0 - 0 CA Huracan"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "29/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Caracas 1 - 1 Racing Club"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Racing Club 1 - 1 Barracas Central"
+                        }
+                    ],
+                    "team": "Racing Club"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Liga Profesional: Clausura Playoff",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Estudiantes de la Plata 0 - 1 Racing Club"
+                        },
+                        {
+                            "competition": "Group A",
+                            "date": "06/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Cusco FC 1 - 1 Estudiantes de la Plata"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Club Atletico Platense 0 - 2 Estudiantes de la Plata"
+                        },
+                        {
+                            "competition": "Group A",
+                            "date": "30/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Estudiantes de la Plata 1 - 1 Flamengo"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Estudiantes de la Plata 0 - 0 Talleres"
+                        }
+                    ],
+                    "team": "Estudiantes L.P."
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Liga Profesional: Clausura Playoff",
+                        "date": "14/12/2025",
+                        "teams_and_score": "Racing Club 1 - 1 Estudiantes de la Plata"
+                    },
+                    {
+                        "competition": "Primera Division: Clausura",
+                        "date": "27/07/2025",
+                        "teams_and_score": "Racing Club 0 - 1 Estudiantes de la Plata"
+                    },
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "03/02/2025",
+                        "teams_and_score": "Estudiantes de la Plata 2 - 0 Racing Club"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "04/12/2024",
+                        "teams_and_score": "Racing Club 4 - 5 Estudiantes de la Plata"
+                    },
+                    {
+                        "competition": "Copa de la Liga Profesional",
+                        "date": "06/02/2024",
+                        "teams_and_score": "Estudiantes de la Plata 0 - 0 Racing Club"
+                    },
+                    {
+                        "competition": "Copa de la Liga Profesional",
+                        "date": "03/09/2023",
+                        "teams_and_score": "Racing Club 2 - 1 Estudiantes de la Plata"
+                    },
+                    {
+                        "competition": "Primera Division 2023",
+                        "date": "08/07/2023",
+                        "teams_and_score": "Estudiantes de la Plata 0 - 0 Racing Club"
+                    }
+                ],
+                "summary": {
+                    "Estudiantes LP_wins": "2",
+                    "Racing Club_wins": "3",
+                    "draws": "5"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Estudiantes LP": "48%",
+                    "Racing Club": "52%"
+                },
+                "corners": {
+                    "Estudiantes LP": "1",
+                    "Racing Club": "4"
+                },
+                "fouls": {
+                    "Estudiantes LP": "1",
+                    "Racing Club": "18"
+                },
+                "goalkeeper_saves": {
+                    "Estudiantes LP": "1",
+                    "Racing Club": "4"
+                },
+                "offsides": {
+                    "Estudiantes LP": "3",
+                    "Racing Club": "3"
+                },
+                "shots_blocked": {
+                    "Estudiantes LP": "4",
+                    "Racing Club": "1"
+                },
+                "shots_off_target": {
+                    "Estudiantes LP": "5",
+                    "Racing Club": "5"
+                },
+                "shots_on_target": {
+                    "Estudiantes LP": "4",
+                    "Racing Club": "2"
+                },
+                "yellow_cards": {
+                    "Estudiantes LP": "2",
+                    "Racing Club": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/estudiantes-de-la-plata-racing-club-2026-05-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/436.webp",
+                    "name": "Racing Club",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/450.webp",
+                    "name": "Estudiantes L.P.",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/estudiantes-de-la-plata-racing-club-2026-05-10-T1Ly.webp",
+            "title": "Estudiantes de La Plata - Racing Club"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Apr 4, 2026",
+            "description": "Watch Independiente vs Racing Club highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on April 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/independiente-racing-club-2026-04-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/independiente-racing-club-2026-04-04-hDZo.webp",
+            "title": "Independiente - Racing Club"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Apr 25, 2026",
+            "description": "Watch Racing Club vs Barracas Central highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on April 25, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Red Card",
+                    "player": "A. Fernandez",
+                    "team": "Racing Club",
+                    "time": "6'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Briasco",
+                    "team": "Barracas Central",
+                    "time": "13'"
+                },
+                {
+                    "assist": "S. Solari",
+                    "event_type": "Goal",
+                    "player": "M. Zaracho",
+                    "score_update": "1 - 0",
+                    "team": "Racing Club",
+                    "time": "30'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Capraro",
+                    "team": "Barracas Central",
+                    "time": "44'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Sosa",
+                    "team": "Racing Club",
+                    "time": "45+4'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Tobio",
+                    "score_update": "1 - 1",
+                    "team": "Barracas Central",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Rodriguez",
+                    "team": "Racing Club",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Racing Club 1 - 1 Barracas Central"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "16/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Olimpia 0 - 0 Barracas Central"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Estudiantes de Rio Cuarto 1 - 2 Barracas Central"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "07/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Barracas Central 0 - 0 Vasco da Gama"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "02/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Barracas Central 1 - 2 Sarmiento"
+                        }
+                    ],
+                    "team": "Barracas Central"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Racing Club 1 - 1 Barracas Central"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "15/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Racing Club 2 - 3 Botafogo FR"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Racing Club 0 - 2 River Plate"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "07/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Independiente Petrolero 1 - 3 Racing Club"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "04/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente 1 - 0 Racing Club"
+                        }
+                    ],
+                    "team": "Racing Club"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primera Division: Clausura",
+                        "date": "12/07/2025",
+                        "teams_and_score": "Racing Club 0 - 1 Barracas Central"
+                    },
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "24/01/2025",
+                        "teams_and_score": "Barracas Central 1 - 3 Racing Club"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "06/11/2024",
+                        "teams_and_score": "Barracas Central 0 - 2 Racing Club"
+                    },
+                    {
+                        "competition": "Primera Division 2023",
+                        "date": "22/06/2023",
+                        "teams_and_score": "Racing Club 1 - 1 Barracas Central"
+                    },
+                    {
+                        "competition": "Primera Division 2022",
+                        "date": "06/08/2022",
+                        "teams_and_score": "Barracas Central 0 - 0 Racing Club"
+                    }
+                ],
+                "summary": {
+                    "Barracas Central_wins": "1",
+                    "Racing Club_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Barracas Central": "51%",
+                    "Racing Club": "49%"
+                },
+                "corners": {
+                    "Barracas Central": "3",
+                    "Racing Club": "2"
+                },
+                "fouls": {
+                    "Barracas Central": "8",
+                    "Racing Club": "11"
+                },
+                "goalkeeper_saves": {
+                    "Barracas Central": "0",
+                    "Racing Club": "2"
+                },
+                "offsides": {
+                    "Barracas Central": "3",
+                    "Racing Club": "1"
+                },
+                "red_cards": {
+                    "Barracas Central": "0",
+                    "Racing Club": "1"
+                },
+                "shots_off_target": {
+                    "Barracas Central": "5",
+                    "Racing Club": "1"
+                },
+                "shots_on_target": {
+                    "Barracas Central": "3",
+                    "Racing Club": "1"
+                },
+                "yellow_cards": {
+                    "Barracas Central": "2",
+                    "Racing Club": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/racing-club-barracas-central-2026-04-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2432.webp",
+                    "name": "Barracas Central",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/436.webp",
+                    "name": "Racing Club",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/racing-club-barracas-central-2026-04-25-eG87.webp",
+            "title": "Racing Club - Barracas Central"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "May 3, 2026",
+            "description": "Watch Racing Club vs Huracan highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on May 3, 2026. Racing Club hosted Huracan in a tense Liga Profesional Argentina encounter that tested the tactical resolve of both managers from the opening whistle. On a night where space was at a premium, every inch of the pitch became a battleground for two sides desperate to find a decisive edge in their league campaign. Physical Intensity Dominates the First Half The match , held on 2026-05-03 , began with a high-octane tempo as both teams looked to establish physical dominance in the middle of the park. It did not take long for the referee to become a central figure in the narrative, as the first half was defined more by stern challenges than clear-cut scoring opportunities. Huracan defender Leandro Lescano was the first player to enter the book, receiving a yellow card in the 29th minute for a cynical foul intended to break up a dangerous counter-attack. The tension only escalated from there, with Racing Club midfielder Baltasar Rodriguez also seeing yellow just four minutes later as he struggled to contain the visitors' transitions. Despite the lack of an opening goal , the tactical battle was fascinating, with both defenses remaining disciplined and refusing to grant the opposition a clear chance inside the area. Tactical Adjustments and Personnel Rotations Recognizing the need for a spark to break the deadlock, both managers turned to their benches as the second half got underway. Racing Club opted for a double change at the interval, introducing Facundo Kalinger and Maximo Palazzo in place of Oscar Cortes and the cautioned Leandro Lescano . These adjustments initially injected more energy into the home side's play, but Huracan remained resilient. The visitors soon followed suit with their own substitutions, bringing on Juan Bisanz and the experienced Leonardo Gil after the hour mark to provide fresh legs in the sports spectacle that was becoming a war of attrition. Late Drama and Defensive Resilience As the clock ticked toward the final whistle, the game opened up slightly, prompting a flurry of further changes. Racing Club introduced Tomas Conechny and Tomas Perez to bolster their attacking options, while Huracan shored up their backline with the introduction of Tobias Rubio . Another yellow card was brandished in the 50th minute to Ignacio Campo , further highlighting the stop-start nature of the contest. Despite a late cameo from Eric Ramirez , who replaced Jordy Caicedo in stoppage time, neither side could find the clinical touch required to secure all three points. The football on display remained high in effort but low in clinical execution, leading the referee to blow the final whistle after seven minutes of added time, bringing an end to a hard-fought encounter where the defenses ultimately reigned supreme.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Lescano",
+                    "team": "Huracan",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Rodriguez",
+                    "team": "Racing Club",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. N. Campo",
+                    "team": "Huracan",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Racing Club 0 - 0 CA Huracan"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "29/03/2026",
+                            "result": "W",
+                            "teams_and_score": "CA Huracan 2 - 1 Olimpo"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "24/03/2026",
+                            "result": "D",
+                            "teams_and_score": "CA Huracan 0 - 0 Barracas Central"
+                        }
+                    ],
+                    "team": "Huracan"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Racing Club 0 - 0 CA Huracan"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "29/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Caracas 1 - 1 Racing Club"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Racing Club 1 - 1 Barracas Central"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "15/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Racing Club 2 - 3 Botafogo FR"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Racing Club 0 - 2 River Plate"
+                        }
+                    ],
+                    "team": "Racing Club"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primera Division: Clausura",
+                        "date": "19/09/2025",
+                        "teams_and_score": "CA Huracan 0 - 2 Racing Club"
+                    },
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "08/03/2025",
+                        "teams_and_score": "Racing Club 0 - 1 CA Huracan"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "03/08/2024",
+                        "teams_and_score": "CA Huracan 0 - 0 Racing Club"
+                    },
+                    {
+                        "competition": "Cup",
+                        "date": "09/09/2023",
+                        "teams_and_score": "Racing Club 3 - 5 CA Huracan"
+                    },
+                    {
+                        "competition": "Primera Division 2023",
+                        "date": "01/04/2023",
+                        "teams_and_score": "Racing Club 2 - 1 CA Huracan"
+                    },
+                    {
+                        "competition": "Primera Division 2022",
+                        "date": "05/06/2022",
+                        "teams_and_score": "Racing Club 2 - 0 CA Huracan"
+                    },
+                    {
+                        "competition": "Primera Division 2021",
+                        "date": "05/12/2021",
+                        "teams_and_score": "CA Huracan 1 - 0 Racing Club"
+                    }
+                ],
+                "summary": {
+                    "Huracan_wins": "3",
+                    "Racing Club_wins": "5",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Huracan": "37%",
+                    "Racing Club": "63%"
+                },
+                "corners": {
+                    "Huracan": "1",
+                    "Racing Club": "6"
+                },
+                "fouls": {
+                    "Huracan": "11",
+                    "Racing Club": "15"
+                },
+                "goalkeeper_saves": {
+                    "Huracan": "1",
+                    "Racing Club": "1"
+                },
+                "offsides": {
+                    "Huracan": "3",
+                    "Racing Club": "2"
+                },
+                "shots_blocked": {
+                    "Huracan": "1",
+                    "Racing Club": "4"
+                },
+                "shots_off_target": {
+                    "Huracan": "3",
+                    "Racing Club": "4"
+                },
+                "shots_on_target": {
+                    "Huracan": "1",
+                    "Racing Club": "1"
+                },
+                "yellow_cards": {
+                    "Huracan": "2",
+                    "Racing Club": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/racing-club-huracan-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/445.webp",
+                    "name": "Huracan",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/436.webp",
+                    "name": "Racing Club",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/racing-club-huracan-2026-05-03-31Wd.webp",
+            "title": "Racing Club - Huracan"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Apr 13, 2026",
+            "description": "Watch Racing Club vs River Plate highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on April 13, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Ramirez",
+                    "team": "River Plate",
+                    "time": "8'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Rodriguez",
+                    "team": "Racing Club",
+                    "time": "19'"
+                },
+                {
+                    "assist": "M. Acuña",
+                    "event_type": "Goal",
+                    "player": "F. Colidio",
+                    "score_update": "0 - 1",
+                    "team": "River Plate",
+                    "time": "33'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Rojo",
+                    "team": "Racing Club",
+                    "time": "45+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. D. Cesare",
+                    "team": "Racing Club",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "M. Rojo",
+                    "team": "Racing Club",
+                    "time": "81'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Sosa",
+                    "team": "Racing Club",
+                    "time": "82'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. C. Meza",
+                    "team": "River Plate",
+                    "time": "83'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Zaracho",
+                    "team": "Racing Club",
+                    "time": "88'"
+                },
+                {
+                    "assist": "J. C. Meza",
+                    "event_type": "Goal",
+                    "player": "S. Driussi",
+                    "score_update": "0 - 2",
+                    "team": "River Plate",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Racing Club 0 - 2 River Plate"
+                        },
+                        {
+                            "competition": "Group H",
+                            "date": "09/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Blooming 1 - 1 River Plate"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "05/04/2026",
+                            "result": "W",
+                            "teams_and_score": "River Plate 3 - 0 Belgrano"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "18/02/2026",
+                            "result": "W",
+                            "teams_and_score": "River Plate 1 - 0 Ciudad de Bolivar"
+                        }
+                    ],
+                    "team": "River Plate"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Racing Club 0 - 2 River Plate"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "07/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Independiente Petrolero 1 - 3 Racing Club"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "04/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente 1 - 0 Racing Club"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "29/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Racing Club 1 - 0 San Martin de Formosa"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "22/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Belgrano 1 - 2 Racing Club"
+                        }
+                    ],
+                    "team": "Racing Club"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Liga Profesional: Clausura Playoff",
+                        "date": "24/11/2025",
+                        "teams_and_score": "Racing Club 3 - 2 River Plate"
+                    },
+                    {
+                        "competition": "Copa Argentina",
+                        "date": "02/10/2025",
+                        "teams_and_score": "Racing Club 0 - 1 River Plate"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "15/12/2024",
+                        "teams_and_score": "Racing Club 1 - 0 River Plate"
+                    },
+                    {
+                        "competition": "Primera Division 2023",
+                        "date": "29/07/2023",
+                        "teams_and_score": "River Plate 2 - 1 Racing Club"
+                    },
+                    {
+                        "competition": "Primera Division 2022",
+                        "date": "23/10/2022",
+                        "teams_and_score": "Racing Club 1 - 2 River Plate"
+                    },
+                    {
+                        "competition": "Copa de la Liga Profesional",
+                        "date": "27/02/2022",
+                        "teams_and_score": "River Plate 2 - 2 Racing Club"
+                    },
+                    {
+                        "competition": "Primera Division 2021",
+                        "date": "26/11/2021",
+                        "teams_and_score": "River Plate 4 - 0 Racing Club"
+                    }
+                ],
+                "summary": {
+                    "Racing Club_wins": "2",
+                    "River Plate_wins": "6",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Racing Club": "50%",
+                    "River Plate": "50%"
+                },
+                "corners": {
+                    "Racing Club": "8",
+                    "River Plate": "2"
+                },
+                "fouls": {
+                    "Racing Club": "13",
+                    "River Plate": "7"
+                },
+                "goalkeeper_saves": {
+                    "Racing Club": "2",
+                    "River Plate": "2"
+                },
+                "offsides": {
+                    "Racing Club": "8",
+                    "River Plate": "1"
+                },
+                "red_cards": {
+                    "Racing Club": "1",
+                    "River Plate": "0"
+                },
+                "shots_off_target": {
+                    "Racing Club": "5",
+                    "River Plate": "5"
+                },
+                "shots_on_target": {
+                    "Racing Club": "2",
+                    "River Plate": "4"
+                },
+                "yellow_cards": {
+                    "Racing Club": "5",
+                    "River Plate": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/racing-club-river-plate-2026-04-13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/435.webp",
+                    "name": "River Plate",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/436.webp",
+                    "name": "Racing Club",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/racing-club-river-plate-2026-04-13-xEYq.webp",
+            "title": "Racing Club - River Plate"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 17, 2026",
+            "description": "Watch Racing Club vs Estudiantes de Rio Cuarto highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 17, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Cabrera",
+                    "team": "Estudiantes de Rio Cuarto",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Colombo",
+                    "team": "Racing Club",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Valenti",
+                    "team": "Estudiantes de Rio Cuarto",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Ostchega",
+                    "team": "Estudiantes de Rio Cuarto",
+                    "time": "53'"
+                },
+                {
+                    "assist": "S. Solari",
+                    "event_type": "Goal",
+                    "player": "A. Martinez",
+                    "score_update": "1 - 0",
+                    "team": "Racing Club",
+                    "time": "55'"
+                },
+                {
+                    "assist": "A. Fernandez",
+                    "event_type": "Goal",
+                    "player": "A. Martinez",
+                    "score_update": "2 - 0",
+                    "team": "Racing Club",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "16/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Racing Club 2 - 0 Estudiantes de Rio Cuarto"
+                        }
+                    ],
+                    "team": "Estudiantes de Rio Cuarto"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "16/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Racing Club 2 - 0 Estudiantes de Rio Cuarto"
+                        }
+                    ],
+                    "team": "Racing Club"
+                },
+                "summary": {
+                    "Estudiantes de Rio Cuarto_wins": "0",
+                    "Racing Club_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Estudiantes de Rio Cuarto": "42%",
+                    "Racing Club": "58%"
+                },
+                "corners": {
+                    "Estudiantes de Rio Cuarto": "1",
+                    "Racing Club": "3"
+                },
+                "fouls": {
+                    "Estudiantes de Rio Cuarto": "13",
+                    "Racing Club": "12"
+                },
+                "goalkeeper_saves": {
+                    "Estudiantes de Rio Cuarto": "1",
+                    "Racing Club": "0"
+                },
+                "offsides": {
+                    "Estudiantes de Rio Cuarto": "7",
+                    "Racing Club": "4"
+                },
+                "shots_off_target": {
+                    "Estudiantes de Rio Cuarto": "4",
+                    "Racing Club": "7"
+                },
+                "shots_on_target": {
+                    "Estudiantes de Rio Cuarto": "0",
+                    "Racing Club": "3"
+                },
+                "yellow_cards": {
+                    "Estudiantes de Rio Cuarto": "3",
+                    "Racing Club": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/racing-club-vs-estudiantes-de-rio-cuarto-2026-03-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/2424.webp",
+                    "name": "Estudiantes de Rio Cuarto",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/436.webp",
+                    "name": "Racing Club",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/racing-club-vs-estudiantes-de-rio-cuarto-2026-03-17-Yvn9.webp",
+            "title": "Racing Club vs Estudiantes de Rio Cuarto"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Feb 27, 2026",
+            "description": "Watch Racing Club vs Independiente Rivadavia highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on February 27, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/racing-club-vs-independiente-riva-res-2026-02-27.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/racing-club-vs-independiente-riva-res-2026-02-27-xY1q.webp",
+            "title": "Racing Club vs Independiente Riva. Res."
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Aug 29, 2018",
+            "description": "Watch River Plate vs Racing Club highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on August 29, 2018.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/river-plate-vs-racing-club-2018-08-29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/river-plate-vs-racing-club-2018-08-29-w9Ud.webp",
+            "title": "River Plate vs Racing Club"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "May 14, 2026",
+            "description": "Watch Rosario Central vs Racing Club highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on May 14, 2026. A high-stakes encounter in the Liga Profesional Argentina saw Rosario Central and Racing Club battle in a fixture defined by tactical shifts and unexpected disciplinary drama. This match on May 14, 2026, proved to be a test of endurance as both sides looked for a decisive edge under the lights. First Half Breakthrough The opening stages were characterized by a fierce battle for possession in the middle of the park. It was Racing Club who eventually found the breakthrough in the 41st minute. Adrian Martinez turned provider with a precise pass to Matias Zaracho , who made no mistake in finding the back of the net to break the deadlock and give his side the lead heading into the break. Momentum Swings and Red Cards Rosario Central returned for the second half with renewed vigor, finding an equalizer in the 65th minute. The veteran Angel Di Maria delivered a brilliant ball for Gaston Avila , who finished clinically to level the scores. The atmosphere grew volatile shortly after, as Adrian Martinez was shown a straight red card in the 75th minute, leaving Racing to navigate the final stages of regulation time with ten men. Extra Time Heroics Against the Odds As the game moved into extra time, the challenge for the visitors intensified when Marco Di Cesare was sent off for a second yellow card in the 96th minute. Playing with only nine men, Racing Club produced a moment of magic in the 107th minute as Enzo Copetti struck a decisive goal to stun the home crowd. Despite the numerical disadvantage and a flurry of late yellow cards for Alexis Soto and Nazareno Colombo , Racing held firm until the 122nd minute to secure a remarkable victory.",
+            "events_timeline": [
+                {
+                    "assist": "A. Martinez",
+                    "event_type": "Goal",
+                    "player": "M. Zaracho",
+                    "score_update": "0 - 1",
+                    "team": "Racing Club",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Cambeses",
+                    "team": "Racing Club",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. D. Cesare",
+                    "team": "Racing Club",
+                    "time": "61'"
+                },
+                {
+                    "assist": "Á. D. María",
+                    "event_type": "Goal",
+                    "player": "G. Avila",
+                    "score_update": "1 - 1",
+                    "team": "Rosario Central",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "A. Martinez",
+                    "team": "Racing Club",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Fernandez",
+                    "team": "Racing Club",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "M. D. Cesare",
+                    "team": "Racing Club",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Soto",
+                    "team": "Rosario Central",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Copetti",
+                    "score_update": "2 - 1",
+                    "team": "Rosario Central",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Zuculini",
+                    "team": "Racing Club",
+                    "time": "136'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Colombo",
+                    "team": "Racing Club",
+                    "time": "151'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Liga Profesional: Clausura Playoff",
+                            "date": "13/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Rosario Central 2 - 1 Racing Club"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "07/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 2 - 1 Racing Club"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Racing Club 0 - 0 CA Huracan"
+                        },
+                        {
+                            "competition": "Group E",
+                            "date": "29/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Caracas 1 - 1 Racing Club"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "25/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Racing Club 1 - 1 Barracas Central"
+                        }
+                    ],
+                    "team": "Racing Club"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Liga Profesional: Clausura Playoff",
+                            "date": "13/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Rosario Central 2 - 1 Racing Club"
+                        },
+                        {
+                            "competition": "Group H",
+                            "date": "05/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Rosario Central 1 - 0 Libertad"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Rosario Central 1 - 1 Tigre"
+                        },
+                        {
+                            "competition": "Group H",
+                            "date": "29/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Universidad Central 0 - 3 Rosario Central"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "24/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Estudiantes de Rio Cuarto 1 - 2 Rosario Central"
+                        }
+                    ],
+                    "team": "Rosario Central"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "28/01/2026",
+                        "teams_and_score": "Racing Club 1 - 2 Rosario Central"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "30/11/2024",
+                        "teams_and_score": "Rosario Central 0 - 2 Racing Club"
+                    },
+                    {
+                        "competition": "Copa de la Liga Profesional: Play-offs",
+                        "date": "04/12/2023",
+                        "teams_and_score": "Racing Club 2 - 2 Rosario Central"
+                    },
+                    {
+                        "competition": "Primera Division 2023",
+                        "date": "15/07/2023",
+                        "teams_and_score": "Racing Club 1 - 1 Rosario Central"
+                    },
+                    {
+                        "competition": "Primera Division 2022",
+                        "date": "01/10/2022",
+                        "teams_and_score": "Racing Club 4 - 3 Rosario Central"
+                    },
+                    {
+                        "competition": "Primera Division 2021",
+                        "date": "23/10/2021",
+                        "teams_and_score": "Rosario Central 2 - 1 Racing Club"
+                    },
+                    {
+                        "competition": "Copa de la Liga Profesional: Group A",
+                        "date": "08/03/2021",
+                        "teams_and_score": "Racing Club 1 - 0 Rosario Central"
+                    }
+                ],
+                "summary": {
+                    "Racing Club_wins": "5",
+                    "Rosario Central_wins": "2",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Racing Club": "41%",
+                    "Rosario Central": "59%"
+                },
+                "corners": {
+                    "Racing Club": "1",
+                    "Rosario Central": "2"
+                },
+                "fouls": {
+                    "Racing Club": "20",
+                    "Rosario Central": "8"
+                },
+                "goalkeeper_saves": {
+                    "Racing Club": "6",
+                    "Rosario Central": "1"
+                },
+                "offsides": {
+                    "Racing Club": "2",
+                    "Rosario Central": "3"
+                },
+                "red_cards": {
+                    "Racing Club": "2",
+                    "Rosario Central": "0"
+                },
+                "shots_blocked": {
+                    "Racing Club": "3",
+                    "Rosario Central": "2"
+                },
+                "shots_off_target": {
+                    "Racing Club": "2",
+                    "Rosario Central": "2"
+                },
+                "shots_on_target": {
+                    "Racing Club": "2",
+                    "Rosario Central": "7"
+                },
+                "yellow_cards": {
+                    "Racing Club": "4",
+                    "Rosario Central": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/rosario-central-racing-club-2026-05-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/436.webp",
+                    "name": "Racing Club",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/437.webp",
+                    "name": "Rosario Central",
+                    "score": "2"
+                },
+                "status": "AET"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rosario-central-racing-club-2026-05-14-KM1N.webp",
+            "title": "Rosario Central - Racing Club"
+        },
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 11, 2026",
+            "description": "Watch Gimnasia LP vs Racing Club highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sarmiento-racing-club-2026-03-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sarmiento-racing-club-2026-03-11-FfCM.webp",
+            "title": "Sarmiento - Racing Club"
+        }
+    ]
+}

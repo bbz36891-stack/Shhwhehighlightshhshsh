@@ -1,0 +1,765 @@
+{
+    "team": "Independ. Rivadavia",
+    "team_logo": "https://img.refooty.com/logo/teams/473.webp",
+    "total_matches": 4,
+    "matches": [
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Apr 20, 2026",
+            "description": "Watch Banfield vs Independ. Rivadavia highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on April 20, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Daniele",
+                    "team": "Banfield",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Osella",
+                    "team": "Independ. Rivadavia",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Pais",
+                    "team": "Banfield",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "20/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Banfield 0 - 0 Independiente Rivadavia"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Fluminense 1 - 2 Independiente Rivadavia"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente Rivadavia 3 - 1 Argentinos Juniors"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "07/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente Rivadavia 1 - 0 Bolivar"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "02/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Tigre 0 - 2 Independiente Rivadavia"
+                        }
+                    ],
+                    "team": "Independ. Rivadavia"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "20/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Banfield 0 - 0 Independiente Rivadavia"
+                        },
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "26/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Banfield 3 - 0 Real Pilar"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Banfield 1 - 0 Tigre"
+                        }
+                    ],
+                    "team": "Banfield"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primera Division: Clausura",
+                        "date": "18/10/2025",
+                        "teams_and_score": "Independiente Rivadavia 1 - 2 Banfield"
+                    },
+                    {
+                        "competition": "Primera Division: Apertura",
+                        "date": "11/04/2025",
+                        "teams_and_score": "Banfield 1 - 1 Independiente Rivadavia"
+                    },
+                    {
+                        "competition": "Primera Division 2024",
+                        "date": "24/09/2024",
+                        "teams_and_score": "Banfield 2 - 0 Independiente Rivadavia"
+                    },
+                    {
+                        "competition": "Cup",
+                        "date": "30/05/2024",
+                        "teams_and_score": "Independiente Rivadavia 1 - 2 Banfield"
+                    },
+                    {
+                        "competition": "Copa de la Liga Profesional",
+                        "date": "01/04/2024",
+                        "teams_and_score": "Independiente Rivadavia 1 - 2 Banfield"
+                    },
+                    {
+                        "competition": "Primera B Nacional",
+                        "date": "03/05/2014",
+                        "teams_and_score": "Banfield 4 - 0 Independiente Rivadavia"
+                    }
+                ],
+                "summary": {
+                    "Banfield_wins": "5",
+                    "Independ Rivadavia_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Banfield": "40%",
+                    "Independ Rivadavia": "60%"
+                },
+                "corners": {
+                    "Banfield": "6",
+                    "Independ Rivadavia": "3"
+                },
+                "fouls": {
+                    "Banfield": "10",
+                    "Independ Rivadavia": "8"
+                },
+                "goalkeeper_saves": {
+                    "Banfield": "2",
+                    "Independ Rivadavia": "2"
+                },
+                "offsides": {
+                    "Banfield": "3",
+                    "Independ Rivadavia": "0"
+                },
+                "shots_off_target": {
+                    "Banfield": "7",
+                    "Independ Rivadavia": "9"
+                },
+                "shots_on_target": {
+                    "Banfield": "2",
+                    "Independ Rivadavia": "2"
+                },
+                "yellow_cards": {
+                    "Banfield": "2",
+                    "Independ Rivadavia": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/banfield-independiente-rivadavia-2026-04-20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/473.webp",
+                    "name": "Independ. Rivadavia",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/449.webp",
+                    "name": "Banfield",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/banfield-independiente-rivadavia-2026-04-20-ufQx.webp",
+            "title": "Banfield - Independiente Rivadavia"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 16, 2026",
+            "description": "Watch Fluminense vs Independ. Rivadavia highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 16, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "J. Savarino",
+                    "event_type": "Goal",
+                    "player": "G. Arana",
+                    "score_update": "1 - 0",
+                    "team": "Fluminense",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. A. Fernandez",
+                    "team": "Independ. Rivadavia",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. A. Bonifacio",
+                    "team": "Independ. Rivadavia",
+                    "time": "31'"
+                },
+                {
+                    "assist": "L. Costa",
+                    "event_type": "Goal",
+                    "player": "F. Sartori",
+                    "score_update": "1 - 1",
+                    "team": "Independ. Rivadavia",
+                    "time": "46'"
+                },
+                {
+                    "assist": "S. Villa",
+                    "event_type": "Goal",
+                    "player": "A. Arce",
+                    "score_update": "1 - 2",
+                    "team": "Independ. Rivadavia",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Sartori",
+                    "team": "Independ. Rivadavia",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "W. Nata",
+                    "team": "Fluminense",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Bolcato",
+                    "team": "Independ. Rivadavia",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group C",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Fluminense 1 - 2 Independiente Rivadavia"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente Rivadavia 3 - 1 Argentinos Juniors"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "07/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente Rivadavia 1 - 0 Bolivar"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "02/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Tigre 0 - 2 Independiente Rivadavia"
+                        }
+                    ],
+                    "team": "Independ. Rivadavia"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group C",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Fluminense 1 - 2 Independiente Rivadavia"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Fluminense 1 - 2 Flamengo"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "07/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Deportivo La Guaira 0 - 0 Fluminense"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "04/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Coritiba 1 - 1 Fluminense"
+                        },
+                        {
+                            "competition": "Carioca Taca Guanabara: Play-off",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Fluminense 0 - 0 Flamengo"
+                        }
+                    ],
+                    "team": "Fluminense"
+                },
+                "summary": {
+                    "Fluminense_wins": "0",
+                    "Independ Rivadavia_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fluminense": "71%",
+                    "Independ Rivadavia": "29%"
+                },
+                "corners": {
+                    "Fluminense": "1",
+                    "Independ Rivadavia": "1"
+                },
+                "fouls": {
+                    "Fluminense": "10",
+                    "Independ Rivadavia": "12"
+                },
+                "goalkeeper_saves": {
+                    "Fluminense": "2",
+                    "Independ Rivadavia": "8"
+                },
+                "shots_off_target": {
+                    "Fluminense": "11",
+                    "Independ Rivadavia": "4"
+                },
+                "shots_on_target": {
+                    "Fluminense": "9",
+                    "Independ Rivadavia": "4"
+                },
+                "yellow_cards": {
+                    "Fluminense": "1",
+                    "Independ Rivadavia": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fluminense-vs-independ-rivadavia-2026-04-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/473.webp",
+                    "name": "Independ. Rivadavia",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/124.webp",
+                    "name": "Fluminense",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fluminense-vs-independ-rivadavia-2026-04-16-Gb1J.webp",
+            "title": "Fluminense vs Independ. Rivadavia"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "Apr 7, 2026",
+            "description": "Watch Independ. Rivadavia vs Bolívar highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on April 7, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "C. Lampe",
+                    "team": "Independ. Rivadavia",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. A. Fernandez",
+                    "team": "Independ. Rivadavia",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Sagredo",
+                    "team": "Bolívar",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group C",
+                            "date": "07/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente Rivadavia 1 - 0 Bolivar"
+                        },
+                        {
+                            "competition": "Primera Division",
+                            "date": "03/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bolivar 5 - 2 CDT Real Oruro"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "14/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Oriente Petrolero 1 - 3 Bolivar"
+                        },
+                        {
+                            "competition": "Copa Bolivia: Playoffs",
+                            "date": "27/11/2025",
+                            "result": "L",
+                            "teams_and_score": "Bolivar 6 - 1 San Antonio Bulo Bulo"
+                        },
+                        {
+                            "competition": "Primera División: Apertura",
+                            "date": "23/11/2025",
+                            "result": "D",
+                            "teams_and_score": "Always Ready 1 - 1 Bolivar"
+                        }
+                    ],
+                    "team": "Bolívar"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group C",
+                            "date": "07/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente Rivadavia 1 - 0 Bolivar"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "02/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Tigre 0 - 2 Independiente Rivadavia"
+                        }
+                    ],
+                    "team": "Independ. Rivadavia"
+                },
+                "summary": {
+                    "Bolívar_wins": "0",
+                    "Independ Rivadavia_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Bolívar": "63%",
+                    "Independ Rivadavia": "37%"
+                },
+                "corners": {
+                    "Bolívar": "1",
+                    "Independ Rivadavia": "5"
+                },
+                "fouls": {
+                    "Bolívar": "7",
+                    "Independ Rivadavia": "9"
+                },
+                "goalkeeper_saves": {
+                    "Bolívar": "1",
+                    "Independ Rivadavia": "2"
+                },
+                "offsides": {
+                    "Bolívar": "0",
+                    "Independ Rivadavia": "5"
+                },
+                "red_cards": {
+                    "Bolívar": "1",
+                    "Independ Rivadavia": "0"
+                },
+                "shots_off_target": {
+                    "Bolívar": "3",
+                    "Independ Rivadavia": "7"
+                },
+                "shots_on_target": {
+                    "Bolívar": "3",
+                    "Independ Rivadavia": "4"
+                },
+                "yellow_cards": {
+                    "Bolívar": "0",
+                    "Independ Rivadavia": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/independ-rivadavia-vs-bolivar-2026-04-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/3702.webp",
+                    "name": "Bolívar",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/473.webp",
+                    "name": "Independ. Rivadavia",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/independ-rivadavia-vs-bolivar-2026-04-07-V03W.webp",
+            "title": "Independ. Rivadavia vs Bolívar"
+        },
+        {
+            "competition": "CONMEBOL Libertadores",
+            "competition_cover": "",
+            "date": "May 7, 2026",
+            "description": "Watch Independ. Rivadavia vs Fluminense highlights and goals from CONMEBOL Libertadores on ReFooty: Football Highlights Hub. Match played on May 7, 2026. Thrilling CONMEBOL Libertadores Clash Ends in Dramatic Draw The match between Independiente Rivadavia and Fluminense , played on May 7, 2026, culminated in a pulsating draw, with both teams battling intensely for supremacy in the CONMEBOL Libertadores . The game, punctuated by a series of yellow cards and moments of raw emotion, was only decided in the dying moments, leaving the hosts with a sense of what might have been and the visitors with a measure of relief. A Tense First Half With Rising Intensity The opening exchanges were characterized by a degree of caution, but the tension quickly escalated. The referee found himself intervening on numerous occasions, issuing yellow cards that underscored the fierce nature of the contest. Tomas Bottari and Hercules were cautioned in the first half, followed by Luciano Acosta just before the break. For Fluminense , Jose Florentin also received a booking, as did Nonato early in the second period, highlighting the commitment with which both sides contested every ball. A Shift in Momentum and a Halted Celebration The second half of the game brought the attacking football fans had craved. In the 66th minute, Independiente Rivadavia took the lead through Alex Arce , who found the back of the net following a superb assist from Luciano Gomez . The goal ignited the stadium and gave the impression that the home side would hold on for a vital victory. However, the impending celebration would be tinged with anxiety as Fluminense pressed in the latter stages. Late Heroics from Kennedy Salvages a Point for Fluminense As the match neared its conclusion, with Independiente Rivadavia on the cusp of a significant win, Fluminense demonstrated the resilience that defines their Libertadores campaign. In the 90+1 minute, John Kennedy emerged as the unlikely hero, netting a crucial equalizer that sealed a 1-1 draw. The strike from Kennedy , who had entered the fray as a substitute, dramatically altered the game's complexion and secured a valuable point for Fluminense on the road, dashing the hopes of Independiente Rivadavia .",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Bottari",
+                    "team": "Independ. Rivadavia",
+                    "time": "37'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Hercules",
+                    "team": "Fluminense",
+                    "time": "38'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Acosta",
+                    "team": "Fluminense",
+                    "time": "45+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Florentin",
+                    "team": "Independ. Rivadavia",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Nonato",
+                    "team": "Fluminense",
+                    "time": "53'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Guga",
+                    "team": "Fluminense",
+                    "time": "59'"
+                },
+                {
+                    "assist": "L. Gomez",
+                    "event_type": "Goal",
+                    "player": "A. Arce",
+                    "score_update": "1 - 0",
+                    "team": "Independ. Rivadavia",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Kennedy",
+                    "score_update": "1 - 1",
+                    "team": "Fluminense",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group C",
+                            "date": "07/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Independiente Rivadavia 1 - 1 Fluminense"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Internacional 2 - 0 Fluminense"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "30/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Bolivar 2 - 0 Fluminense"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "26/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Fluminense 2 - 1 Chapecoense AF"
+                        },
+                        {
+                            "competition": "Copa do Brasil",
+                            "date": "24/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Operario Ferroviario 0 - 0 Fluminense"
+                        }
+                    ],
+                    "team": "Fluminense"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "L",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Group C",
+                            "date": "07/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Independiente Rivadavia 1 - 1 Fluminense"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "03/05/2026",
+                            "result": "D",
+                            "teams_and_score": "Aldosivi 1 - 1 Independiente Rivadavia"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "30/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente Rivadavia 4 - 1 Deportivo La Guaira"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "26/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente Rivadavia 5 - 1 Gimnasia Mendoza"
+                        },
+                        {
+                            "competition": "Group C",
+                            "date": "16/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Fluminense 1 - 2 Independiente Rivadavia"
+                        }
+                    ],
+                    "team": "Independ. Rivadavia"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Group C",
+                        "date": "16/04/2026",
+                        "teams_and_score": "Fluminense 1 - 2 Independiente Rivadavia"
+                    }
+                ],
+                "summary": {
+                    "Fluminense_wins": "0",
+                    "Independ Rivadavia_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Fluminense": "73%",
+                    "Independ Rivadavia": "27%"
+                },
+                "corners": {
+                    "Fluminense": "2",
+                    "Independ Rivadavia": "6"
+                },
+                "fouls": {
+                    "Fluminense": "14",
+                    "Independ Rivadavia": "13"
+                },
+                "goalkeeper_saves": {
+                    "Fluminense": "2",
+                    "Independ Rivadavia": "1"
+                },
+                "offsides": {
+                    "Fluminense": "0",
+                    "Independ Rivadavia": "3"
+                },
+                "shots_blocked": {
+                    "Fluminense": "2",
+                    "Independ Rivadavia": "4"
+                },
+                "shots_off_target": {
+                    "Fluminense": "7",
+                    "Independ Rivadavia": "8"
+                },
+                "shots_on_target": {
+                    "Fluminense": "2",
+                    "Independ Rivadavia": "3"
+                },
+                "yellow_cards": {
+                    "Fluminense": "4",
+                    "Independ Rivadavia": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/independ-rivadavia-vs-fluminense-2026-05-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/124.webp",
+                    "name": "Fluminense",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/473.webp",
+                    "name": "Independ. Rivadavia",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/independ-rivadavia-vs-fluminense-2026-05-07-0Qhl.webp",
+            "title": "Independ. Rivadavia vs Fluminense"
+        }
+    ]
+}

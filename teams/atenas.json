@@ -1,0 +1,141 @@
+{
+    "team": "Atenas",
+    "team_logo": "https://img.refooty.com/logo/teams/21043.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Argentine Primera División",
+            "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+            "date": "Mar 28, 2026",
+            "description": "Watch Independiente vs Atenas highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on March 28, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "F. Valdez",
+                    "score_update": "1 - 0",
+                    "team": "Independiente",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "I. Pussetto",
+                    "score_update": "2 - 0",
+                    "team": "Independiente",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Cabral",
+                    "score_update": "3 - 0",
+                    "team": "Independiente",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Tempone",
+                    "score_update": "4 - 0",
+                    "team": "Independiente",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "F. Quiroga",
+                    "score_update": "4 - 1",
+                    "team": "Atenas",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Rivadero",
+                    "score_update": "4 - 2",
+                    "team": "Atenas",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "27/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente 4 - 2 Sportivo Atenas"
+                        },
+                        {
+                            "competition": "Federal A: Group C",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Sportivo Atenas 3 - 1 Club Cipolletti"
+                        },
+                        {
+                            "competition": "Federal A: Promotion Play-off",
+                            "date": "16/11/2025",
+                            "result": "L",
+                            "teams_and_score": "San Martin de Formosa 3 - 1 Sportivo Atenas"
+                        },
+                        {
+                            "competition": "Federal A: Promotion Group A",
+                            "date": "14/09/2025",
+                            "result": "L",
+                            "teams_and_score": "Argentino Monte Maiz 1 - 0 Sportivo Atenas"
+                        }
+                    ],
+                    "team": "Atenas"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Copa Argentina",
+                            "date": "27/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Independiente 4 - 2 Sportivo Atenas"
+                        },
+                        {
+                            "competition": "Primera Division: Apertura",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Independiente 1 - 2 Talleres"
+                        }
+                    ],
+                    "team": "Independiente"
+                },
+                "summary": {
+                    "Atenas_wins": "0",
+                    "Independiente_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/independiente-vs-atenas-2026-03-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/21043.webp",
+                    "name": "Atenas",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/453.webp",
+                    "name": "Independiente",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/independiente-vs-atenas-2026-03-28-jXdy.webp",
+            "title": "Independiente vs Atenas"
+        }
+    ]
+}

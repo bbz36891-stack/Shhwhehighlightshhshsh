@@ -1,0 +1,2150 @@
+{
+    "team": "Tondela",
+    "team_logo": "https://img.refooty.com/logo/teams/218.webp",
+    "total_matches": 14,
+    "matches": [
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "May 16, 2026",
+            "description": "Watch Arouca vs Tondela highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on May 16, 2026. The Estádio Municipal de Arouca set the stage for an intense battle on 2026-05-16, with both sides desperate for points in this Primeira Liga encounter. Fans were treated to a match defined by tactical shifts and moments of individual brilliance that kept the atmosphere electric until the final whistle. Fukui Sets the Tone Arouca initiated the contest with aggressive intent, seeking to break through a disciplined Tondela defensive line. Their persistence paid off in the 20th minute when Taichi Fukui unleashed a stunning right-footed strike from outside the penalty area, leaving the goalkeeper with no chance. The goal ignited the home crowd, but the remainder of the first half became a gritty tactical battle. Tensions flared as the referee reached for his pocket, issuing yellow cards to Omar Fayed , Cicero , and Bas Kuipers as both teams fought fiercely for midfield supremacy. Tondela Strike Back Amid VAR Drama After the interval, Tondela emerged with renewed energy, pushing higher up the pitch to find an equalizer. Their efforts were rewarded in the 65th minute when Rony Lopes found space outside the box and fired home a right-footed shot, assisted by Makan Aiko . The celebrations were briefly put on hold for a lengthy VAR review, but the goal was eventually upheld. The equalizer forced Arouca to regroup, leading to a series of tactical substitutions that would ultimately change the course of the match. Late Surge Secures the Points Arouca regained their lead in the 77th minute through a moment of clinical execution. Alfonso Trezza rose highest in the box to head home a precise cross from Tiago Esgaio , following a well-delivered corner by Taichi Fukui . With momentum firmly on their side, the hosts doubled down on their advantage. In the 85th minute, substitute Hyun-Ju Lee capitalized on an assist from Dylan Nandin to slot the ball home, making it 3-1. Despite a late offside call against Lee and some frantic pressure from Tondela in stoppage time, Arouca maintained their composure to claim all three points.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "T. Fukui",
+                    "score_update": "1 - 0",
+                    "team": "Arouca",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Fayed",
+                    "team": "Arouca",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Kuipers",
+                    "team": "Arouca",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Cicero",
+                    "team": "Tondela",
+                    "time": "31'"
+                },
+                {
+                    "assist": "M. Aiko",
+                    "event_type": "Goal",
+                    "player": "R. Lopes",
+                    "score_update": "1 - 1",
+                    "team": "Tondela",
+                    "time": "46'"
+                },
+                {
+                    "assist": "T. Esgaio",
+                    "event_type": "Goal",
+                    "player": "A. Trezza",
+                    "score_update": "2 - 1",
+                    "team": "Arouca",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Lee",
+                    "team": "Arouca",
+                    "time": "76'"
+                },
+                {
+                    "assist": "D. Nandin",
+                    "event_type": "Goal",
+                    "player": "H. Lee",
+                    "score_update": "3 - 1",
+                    "team": "Arouca",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Arouca 3 - 1 Tondela"
+                        }
+                    ],
+                    "team": "Tondela"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Arouca 3 - 1 Tondela"
+                        }
+                    ],
+                    "team": "Arouca"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "03/01/2026",
+                        "teams_and_score": "Tondela 3 - 1 Arouca"
+                    },
+                    {
+                        "competition": "Club Friendlies 2025",
+                        "date": "12/07/2025",
+                        "teams_and_score": "Arouca 0 - 2 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga 21/22",
+                        "date": "19/03/2022",
+                        "teams_and_score": "Tondela 2 - 2 Arouca"
+                    },
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "13/05/2017",
+                        "teams_and_score": "Arouca 1 - 2 Tondela"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "21/07/2016",
+                        "teams_and_score": "Arouca 2 - 0 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "06/03/2016",
+                        "teams_and_score": "Tondela 0 - 1 Arouca"
+                    },
+                    {
+                        "competition": "League Cup",
+                        "date": "29/10/2014",
+                        "teams_and_score": "Arouca 1 - 0 Tondela"
+                    }
+                ],
+                "summary": {
+                    "Arouca_wins": "3",
+                    "Tondela_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Arouca": "53%",
+                    "Tondela": "47%"
+                },
+                "corners": {
+                    "Arouca": "5",
+                    "Tondela": "6"
+                },
+                "crosses": {
+                    "Arouca": "16",
+                    "Tondela": "21"
+                },
+                "fouls": {
+                    "Arouca": "10",
+                    "Tondela": "12"
+                },
+                "goalkeeper_saves": {
+                    "Arouca": "1",
+                    "Tondela": "1"
+                },
+                "offsides": {
+                    "Arouca": "4",
+                    "Tondela": "0"
+                },
+                "shots_blocked": {
+                    "Arouca": "5",
+                    "Tondela": "6"
+                },
+                "shots_off_target": {
+                    "Arouca": "8",
+                    "Tondela": "3"
+                },
+                "shots_on_target": {
+                    "Arouca": "4",
+                    "Tondela": "2"
+                },
+                "yellow_cards": {
+                    "Arouca": "3",
+                    "Tondela": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/arouca-vs-tondela-2026-05-16.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/218.webp",
+                    "name": "Tondela",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/240.webp",
+                    "name": "Arouca",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/arouca-vs-tondela-2026-05-16-NR9e.webp",
+            "title": "Arouca vs Tondela"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "May 3, 2026",
+            "description": "Watch Casa Pia vs Tondela highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on May 3, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Livolant",
+                    "team": "Casa Pia",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Brito",
+                    "team": "Casa Pia",
+                    "time": "51'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "Cassiano",
+                    "team": "Casa Pia",
+                    "time": "55'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Geraldes",
+                    "team": "Casa Pia",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Bebeto",
+                    "score_update": "0 - 1",
+                    "team": "Tondela",
+                    "time": "68'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Henryque",
+                    "team": "Tondela",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Marques",
+                    "team": "Tondela",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Morais",
+                    "team": "Casa Pia",
+                    "time": "85'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Mohamed",
+                    "team": "Casa Pia",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Goulart",
+                    "team": "Casa Pia",
+                    "time": "90+8'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Prieto",
+                    "team": "Casa Pia",
+                    "time": "90+9'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Kimpioka",
+                    "team": "Tondela",
+                    "time": "90+9'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "J. Livolant",
+                    "team": "Casa Pia",
+                    "time": "90+11'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Casa Pia AC 0 - 1 Tondela"
+                        }
+                    ],
+                    "team": "Tondela"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Casa Pia AC 0 - 1 Tondela"
+                        }
+                    ],
+                    "team": "Casa Pia"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "21/12/2025",
+                        "teams_and_score": "Tondela 1 - 2 Casa Pia AC"
+                    }
+                ],
+                "summary": {
+                    "Casa Pia_wins": "1",
+                    "Tondela_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Casa Pia": "50%",
+                    "Tondela": "50%"
+                },
+                "corners": {
+                    "Casa Pia": "7",
+                    "Tondela": "2"
+                },
+                "crosses": {
+                    "Casa Pia": "10",
+                    "Tondela": "3"
+                },
+                "fouls": {
+                    "Casa Pia": "22",
+                    "Tondela": "19"
+                },
+                "goalkeeper_saves": {
+                    "Casa Pia": "4",
+                    "Tondela": "3"
+                },
+                "offsides": {
+                    "Casa Pia": "1",
+                    "Tondela": "2"
+                },
+                "red_cards": {
+                    "Casa Pia": "2",
+                    "Tondela": "0"
+                },
+                "shots_blocked": {
+                    "Casa Pia": "1",
+                    "Tondela": "0"
+                },
+                "shots_off_target": {
+                    "Casa Pia": "0",
+                    "Tondela": "4"
+                },
+                "shots_on_target": {
+                    "Casa Pia": "3",
+                    "Tondela": "5"
+                },
+                "yellow_cards": {
+                    "Casa Pia": "7",
+                    "Tondela": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/casa-pia-vs-tondela-2026-05-03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/218.webp",
+                    "name": "Tondela",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/4716.webp",
+                    "name": "Casa Pia",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/casa-pia-vs-tondela-2026-05-03-osjs.webp",
+            "title": "Casa Pia vs Tondela"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "Feb 7, 2026",
+            "description": "Watch Estoril vs Tondela highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on February 7, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/estoril-vs-tondela-2026-02-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/estoril-vs-tondela-2026-02-07-Bee7.webp",
+            "title": "Estoril vs Tondela"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "Feb 20, 2026",
+            "description": "Watch Estrela U23 vs Tondela highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on February 20, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/estrela-u23-vs-tondela-2026-02-20.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/estrela-u23-vs-tondela-2026-02-20-YGJE.webp",
+            "title": "Estrela U23 vs Tondela"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "Apr 19, 2026",
+            "description": "Watch FC Porto vs Tondela highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on April 19, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Kiwior",
+                    "team": "FC Porto",
+                    "time": "19'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Bednarek",
+                    "team": "FC Porto",
+                    "time": "19'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Mora",
+                    "team": "FC Porto",
+                    "time": "35'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Varela",
+                    "score_update": "0 - 0",
+                    "team": "FC Porto",
+                    "time": "40'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Hodge",
+                    "team": "Tondela",
+                    "time": "45+3'"
+                },
+                {
+                    "assist": "D. Gul",
+                    "event_type": "Goal",
+                    "player": "G. Veiga",
+                    "score_update": "1 - 0",
+                    "team": "FC Porto",
+                    "time": "48'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Marques",
+                    "team": "Tondela",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "V. Froholdt",
+                    "score_update": "2 - 0",
+                    "team": "FC Porto",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Sithole",
+                    "team": "Tondela",
+                    "time": "80'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Costa",
+                    "team": "FC Porto",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Veiga",
+                    "team": "FC Porto",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Felix",
+                    "team": "Tondela",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Conceicao",
+                    "team": "Tondela",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "FC Porto 2 - 0 Tondela"
+                        }
+                    ],
+                    "team": "Tondela"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "19/04/2026",
+                            "result": "W",
+                            "teams_and_score": "FC Porto 2 - 0 Tondela"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "16/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Nottingham Forest 1 - 0 FC Porto"
+                        },
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Estoril 1 - 3 FC Porto"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "09/04/2026",
+                            "result": "D",
+                            "teams_and_score": "FC Porto 1 - 1 Nottingham Forest"
+                        },
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "04/04/2026",
+                            "result": "D",
+                            "teams_and_score": "FC Porto 2 - 2 Famalicao"
+                        }
+                    ],
+                    "team": "FC Porto"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "07/12/2025",
+                        "teams_and_score": "Tondela 0 - 2 FC Porto"
+                    },
+                    {
+                        "competition": "Super Cup",
+                        "date": "30/07/2022",
+                        "teams_and_score": "FC Porto 3 - 0 Tondela"
+                    },
+                    {
+                        "competition": "Portugal Cup",
+                        "date": "22/05/2022",
+                        "teams_and_score": "FC Porto 3 - 1 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga 21/22",
+                        "date": "13/03/2022",
+                        "teams_and_score": "FC Porto 4 - 0 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga 20/21",
+                        "date": "10/04/2021",
+                        "teams_and_score": "Tondela 0 - 2 FC Porto"
+                    },
+                    {
+                        "competition": "Cup 20/21",
+                        "date": "13/12/2020",
+                        "teams_and_score": "FC Porto 2 - 1 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga 20/21",
+                        "date": "05/12/2020",
+                        "teams_and_score": "FC Porto 4 - 3 Tondela"
+                    }
+                ],
+                "summary": {
+                    "FC Porto_wins": "8",
+                    "Tondela_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "FC Porto": "60%",
+                    "Tondela": "40%"
+                },
+                "corners": {
+                    "FC Porto": "8",
+                    "Tondela": "3"
+                },
+                "crosses": {
+                    "FC Porto": "15",
+                    "Tondela": "4"
+                },
+                "fouls": {
+                    "FC Porto": "12",
+                    "Tondela": "11"
+                },
+                "goalkeeper_saves": {
+                    "FC Porto": "3",
+                    "Tondela": "6"
+                },
+                "offsides": {
+                    "FC Porto": "4",
+                    "Tondela": "0"
+                },
+                "shots_blocked": {
+                    "FC Porto": "3",
+                    "Tondela": "0"
+                },
+                "shots_off_target": {
+                    "FC Porto": "4",
+                    "Tondela": "3"
+                },
+                "shots_on_target": {
+                    "FC Porto": "8",
+                    "Tondela": "3"
+                },
+                "yellow_cards": {
+                    "FC Porto": "5",
+                    "Tondela": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/fc-porto-vs-tondela-2026-04-19.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/218.webp",
+                    "name": "Tondela",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/212.webp",
+                    "name": "FC Porto",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/fc-porto-vs-tondela-2026-04-19-BId0.webp",
+            "title": "FC Porto vs Tondela"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "Apr 4, 2026",
+            "description": "Watch Guimaraes vs Tondela highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on April 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/guimaraes-vs-tondela-2026-04-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/guimaraes-vs-tondela-2026-04-04-yx4R.webp",
+            "title": "Guimaraes vs Tondela"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "Apr 29, 2026",
+            "description": "Watch Sporting CP vs Tondela highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on April 29, 2026. The Primeira Liga clash on April 29, 2026 , provided a masterclass in late-game drama as Sporting CP and Tondela fought through a grueling encounter that defied all logic in its closing stages. Fans at the stadium witnessed a match where momentum shifted like the tide, ensuring the result remained in doubt until the very last second. A Tense Tactical Battle The match began with both sides feeling each other out, leading to a fragmented first half defined more by the referee’s whistle than goalmouth action. Sporting CP attempted to establish dominance early through Geovany Quenda and Geny Catamo , but Tondela remained disciplined, albeit at a cost. The visitors saw several players enter the book, with Rony Lopes and Pedro Henryque receiving yellow cards for rough challenges and unsportsmanlike conduct respectively. Sporting ’s Eduardo Quaresma also found himself cautioned just before the break, reflecting a physical half where clear-cut chances were a rarity. Suarez Breaks the Deadlock The second half saw a significant shift in energy, particularly after a triple substitution by the hosts in the 57th minute. The introduction of Trincao and Salvador Blopa proved inspired. In the 62nd minute, Trincao unlocked the defense with a precision key pass, allowing Salvador Blopa to square the ball for Luis Suarez . The striker made no mistake, firing home with his right foot to give Sporting CP a deserved 1-0 lead. The pressure continued to mount, and in the 78th minute, the lead was doubled under unfortunate circumstances for the visitors. A dangerous ball into the box resulted in Joao Silva inadvertently turning the ball into his own net, seemingly putting Sporting in total control. Stoppage-Time Insanity What followed in the final minutes will be remembered as one of the most chaotic sequences of the season. It began in the 91st minute when Giorgi Kochorashvili tripped Hugo Felix in the area, conceding a penalty. Makan Aiko stepped up for Tondela , but his effort was brilliantly parried by the goalkeeper. However, the reprieve for the hosts was short-lived. From the resulting corner delivered by Hugo Felix , Salvador Blopa went from hero to villain, slicing the ball into his own net to make it 2-1 and breathing life back into the away side. With the clock ticking deep into added time, Tondela threw everything forward in a desperate bid to find an equalizer. In the 94th minute, Hugo Felix once again proved to be the architect of the chaos, swinging in a perfect corner from the right. Cicero , who had come on as a late substitute, rose highest in a crowded penalty area to head the ball home, completing a stunning comeback to level the score at 2-2. Despite Sporting 's 64% possession and late attempts to find a winner in the final seconds, the points were shared in a match that perfectly illustrated the unpredictable nature of football.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Henryque",
+                    "team": "Tondela",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Lopes",
+                    "team": "Tondela",
+                    "time": "19'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Manso",
+                    "team": "Tondela",
+                    "time": "43'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Quaresma",
+                    "team": "Sporting CP",
+                    "time": "45+1'"
+                },
+                {
+                    "assist": "S. Blopa",
+                    "event_type": "Goal",
+                    "player": "L. Suárez",
+                    "score_update": "1 - 0",
+                    "team": "Sporting CP",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Blopa",
+                    "team": "Sporting CP",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Silva",
+                    "team": "Sporting CP",
+                    "time": "78'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Aiko",
+                    "score_update": "2 - 0",
+                    "team": "Tondela",
+                    "time": "90+2'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Blopa",
+                    "team": "Tondela",
+                    "time": "90+2'"
+                },
+                {
+                    "assist": "H. Felix",
+                    "event_type": "Goal",
+                    "player": "Cicero",
+                    "score_update": "2 - 2",
+                    "team": "Tondela",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "29/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sporting CP 2 - 2 Tondela"
+                        }
+                    ],
+                    "team": "Tondela"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "D",
+                        "L",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "29/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Sporting CP 2 - 2 Tondela"
+                        },
+                        {
+                            "competition": "Portugal Cup: Semi-Finals",
+                            "date": "22/04/2026",
+                            "result": "D",
+                            "teams_and_score": "FC Porto 0 - 0 Sporting CP"
+                        },
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "19/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting CP 1 - 2 Benfica"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "15/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Arsenal 0 - 0 Sporting CP"
+                        },
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "CF Estrela da Amadora 0 - 1 Sporting CP"
+                        }
+                    ],
+                    "team": "Sporting CP"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "26/10/2025",
+                        "teams_and_score": "Tondela 0 - 3 Sporting CP"
+                    },
+                    {
+                        "competition": "Portugal Cup: Round 5",
+                        "date": "09/01/2024",
+                        "teams_and_score": "Sporting CP 4 - 0 Tondela"
+                    },
+                    {
+                        "competition": "League Cup Round 3: Group C 23/24",
+                        "date": "23/12/2023",
+                        "teams_and_score": "Tondela 1 - 2 Sporting CP"
+                    },
+                    {
+                        "competition": "Primeira Liga 21/22",
+                        "date": "09/04/2022",
+                        "teams_and_score": "Tondela 1 - 3 Sporting CP"
+                    },
+                    {
+                        "competition": "Primeira Liga 20/21",
+                        "date": "13/03/2021",
+                        "teams_and_score": "Tondela 0 - 1 Sporting CP"
+                    },
+                    {
+                        "competition": "Primeira Liga 19/20",
+                        "date": "18/06/2020",
+                        "teams_and_score": "Sporting CP 2 - 0 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "11/05/2019",
+                        "teams_and_score": "Sporting CP 1 - 1 Tondela"
+                    }
+                ],
+                "summary": {
+                    "Sporting CP_wins": "6",
+                    "Tondela_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Sporting CP": "64%",
+                    "Tondela": "36%"
+                },
+                "corners": {
+                    "Sporting CP": "5",
+                    "Tondela": "5"
+                },
+                "crosses": {
+                    "Sporting CP": "15",
+                    "Tondela": "11"
+                },
+                "fouls": {
+                    "Sporting CP": "16",
+                    "Tondela": "8"
+                },
+                "goalkeeper_saves": {
+                    "Sporting CP": "1",
+                    "Tondela": "4"
+                },
+                "offsides": {
+                    "Sporting CP": "4",
+                    "Tondela": "2"
+                },
+                "shots_blocked": {
+                    "Sporting CP": "5",
+                    "Tondela": "1"
+                },
+                "shots_off_target": {
+                    "Sporting CP": "6",
+                    "Tondela": "6"
+                },
+                "shots_on_target": {
+                    "Sporting CP": "5",
+                    "Tondela": "2"
+                },
+                "yellow_cards": {
+                    "Sporting CP": "2",
+                    "Tondela": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/sporting-cp-vs-tondela-2026-04-29.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/218.webp",
+                    "name": "Tondela",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/228.webp",
+                    "name": "Sporting CP",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/sporting-cp-vs-tondela-2026-04-29-JfnF.webp",
+            "title": "Sporting CP vs Tondela"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "Feb 14, 2026",
+            "description": "Watch Tondela vs Alverca highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on February 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/tondela-vs-alverca-2026-02-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/tondela-vs-alverca-2026-02-14-WkKj.webp",
+            "title": "Tondela vs Alverca"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "Mar 22, 2026",
+            "description": "Watch Tondela vs AVS highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on March 22, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Ponck",
+                    "team": "AVS",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Galletto",
+                    "team": "AVS",
+                    "time": "16'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "21/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Tondela 0 - 0 AVS Futebol SAD"
+                        },
+                        {
+                            "competition": "Portugal Cup: Quarter-Finals",
+                            "date": "05/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting CP 3 - 2 AVS Futebol SAD"
+                        },
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "02/02/2026",
+                            "result": "L",
+                            "teams_and_score": "AVS Futebol SAD 0 - 4 SC Braga"
+                        }
+                    ],
+                    "team": "AVS"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "21/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Tondela 0 - 0 AVS Futebol SAD"
+                        }
+                    ],
+                    "team": "Tondela"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "02/11/2025",
+                        "teams_and_score": "AVS Futebol SAD 2 - 2 Tondela"
+                    },
+                    {
+                        "competition": "Liga Portugal 2 23/24",
+                        "date": "19/05/2024",
+                        "teams_and_score": "AVS Futebol SAD 0 - 1 Tondela"
+                    }
+                ],
+                "summary": {
+                    "AVS_wins": "0",
+                    "Tondela_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "AVS": "40%",
+                    "Tondela": "60%"
+                },
+                "corners": {
+                    "AVS": "6",
+                    "Tondela": "7"
+                },
+                "crosses": {
+                    "AVS": "31",
+                    "Tondela": "35"
+                },
+                "fouls": {
+                    "AVS": "15",
+                    "Tondela": "12"
+                },
+                "goalkeeper_saves": {
+                    "AVS": "3",
+                    "Tondela": "2"
+                },
+                "offsides": {
+                    "AVS": "1",
+                    "Tondela": "2"
+                },
+                "shots_blocked": {
+                    "AVS": "3",
+                    "Tondela": "4"
+                },
+                "shots_off_target": {
+                    "AVS": "5",
+                    "Tondela": "6"
+                },
+                "shots_on_target": {
+                    "AVS": "2",
+                    "Tondela": "3"
+                },
+                "yellow_cards": {
+                    "AVS": "2",
+                    "Tondela": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/tondela-vs-avs-2026-03-22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/21595.webp",
+                    "name": "AVS",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/218.webp",
+                    "name": "Tondela",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/tondela-vs-avs-2026-03-22-71gc.webp",
+            "title": "Tondela vs AVS"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "Apr 13, 2026",
+            "description": "Watch Tondela vs GIL Vicente highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on April 13, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Marques",
+                    "team": "Tondela",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "R. Lopes",
+                    "score_update": "1 - 0",
+                    "team": "Tondela",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "Murilo",
+                    "team": "GIL Vicente",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Murilo",
+                    "score_update": "1 - 1",
+                    "team": "GIL Vicente",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. S. Ouattara",
+                    "team": "Tondela",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Murilo",
+                    "team": "GIL Vicente",
+                    "time": "57'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Canizares",
+                    "team": "Tondela",
+                    "time": "66'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Silva",
+                    "team": "Tondela",
+                    "time": "79'"
+                },
+                {
+                    "assist": "J. Fernandes",
+                    "event_type": "Goal",
+                    "player": "C. Eduardo",
+                    "score_update": "1 - 2",
+                    "team": "GIL Vicente",
+                    "time": "90'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Bebeto",
+                    "team": "Tondela",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Hodge",
+                    "score_update": "1 - 2",
+                    "team": "Tondela",
+                    "time": "90+8'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Hodge",
+                    "score_update": "2 - 2",
+                    "team": "Tondela",
+                    "time": "90+8'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Conceicao",
+                    "team": "Tondela",
+                    "time": "90+9'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Buatu",
+                    "team": "GIL Vicente",
+                    "time": "90+9'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "13/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Tondela 2 - 2 Gil Vicente"
+                        }
+                    ],
+                    "team": "GIL Vicente"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "13/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Tondela 2 - 2 Gil Vicente"
+                        }
+                    ],
+                    "team": "Tondela"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "29/11/2025",
+                        "teams_and_score": "Gil Vicente 0 - 1 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga 21/22",
+                        "date": "08/05/2022",
+                        "teams_and_score": "Gil Vicente 3 - 0 Tondela"
+                    },
+                    {
+                        "competition": "League Cup",
+                        "date": "24/07/2021",
+                        "teams_and_score": "Tondela 0 - 1 Gil Vicente"
+                    },
+                    {
+                        "competition": "Primeira Liga 20/21",
+                        "date": "28/02/2021",
+                        "teams_and_score": "Tondela 1 - 0 Gil Vicente"
+                    },
+                    {
+                        "competition": "Primeira Liga 19/20",
+                        "date": "14/07/2020",
+                        "teams_and_score": "Gil Vicente 3 - 2 Tondela"
+                    },
+                    {
+                        "competition": "Cup",
+                        "date": "18/10/2015",
+                        "teams_and_score": "Gil Vicente 2 - 1 Tondela"
+                    }
+                ],
+                "summary": {
+                    "GIL Vicente_wins": "4",
+                    "Tondela_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "GIL Vicente": "48%",
+                    "Tondela": "52%"
+                },
+                "corners": {
+                    "GIL Vicente": "5",
+                    "Tondela": "5"
+                },
+                "crosses": {
+                    "GIL Vicente": "13",
+                    "Tondela": "13"
+                },
+                "fouls": {
+                    "GIL Vicente": "11",
+                    "Tondela": "15"
+                },
+                "goalkeeper_saves": {
+                    "GIL Vicente": "3",
+                    "Tondela": "4"
+                },
+                "offsides": {
+                    "GIL Vicente": "2",
+                    "Tondela": "0"
+                },
+                "shots_blocked": {
+                    "GIL Vicente": "1",
+                    "Tondela": "1"
+                },
+                "shots_off_target": {
+                    "GIL Vicente": "7",
+                    "Tondela": "4"
+                },
+                "shots_on_target": {
+                    "GIL Vicente": "6",
+                    "Tondela": "5"
+                },
+                "yellow_cards": {
+                    "GIL Vicente": "2",
+                    "Tondela": "6"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/tondela-vs-gil-vicente-2026-04-13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/762.webp",
+                    "name": "GIL Vicente",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/218.webp",
+                    "name": "Tondela",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/tondela-vs-gil-vicente-2026-04-13-cPbg.webp",
+            "title": "Tondela vs GIL Vicente"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "May 12, 2026",
+            "description": "Watch Tondela vs irense highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on May 12, 2026. The Primeira Liga action continued on 2026-05-12 as Tondela welcomed irense for a highly anticipated encounter. Both teams took to the pitch with clear tactical objectives, looking to assert dominance in a match that would eventually be defined by clinical finishing and late drama. Aiko Gives Tondela the Edge The match began with irense attempting to dictate play, but it was Tondela who showed superior clinical edge. In the 18th minute, the deadlock was broken when Pedro Henryque provided a pinpoint assist for Makan Aiko , who slotted the ball home with his right foot. The goal energized the home crowd, and Tondela nearly doubled their lead just before the interval. In the 44th minute, Rony Lopes unleashed a delicate lob that beat the goalkeeper but rattled off the crossbar, much to the relief of the visitors. irense did have their chances to equalize, most notably a header from Kiko Bondoso that required a steady save from Bernardo Fontes . However, despite enjoying the lion's share of possession, the visitors struggled to break down a resilient Tondela defense, heading into the break trailing by a single goal. Lopes Seals the Result Amidst Late Chaos The second half saw Tondela maintain their discipline while waiting for the perfect moment to strike again. That moment arrived in the 60th minute when Tiago Manso set up Rony Lopes , who found the back of the net with a powerful left-footed strike to make it 2-0. irense responded with a wave of tactical substitutions, bringing on Luis Semedo and Cedric Teguia , but the hosts remained compact and organized. As the clock ticked towards full-time, the atmosphere grew increasingly heated. The stoppage time period was marred by several incidents, leading to yellow cards for Cedric Teguia and Jordan Pefok . The tension reached its boiling point in the 94th minute when the referee showed a direct red card to Maracas for unsportsmanlike conduct. Despite irense finishing with 60% possession, Tondela walked away with a deserved 2-0 victory, showcasing a masterclass in efficiency.",
+            "events_timeline": [
+                {
+                    "assist": "P. Henryque",
+                    "event_type": "Goal",
+                    "player": "M. Aiko",
+                    "score_update": "1 - 0",
+                    "team": "Tondela",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Alan",
+                    "team": "Moreirense",
+                    "time": "16'"
+                },
+                {
+                    "assist": "T. Manso",
+                    "event_type": "Goal",
+                    "player": "R. Lopes",
+                    "score_update": "2 - 0",
+                    "team": "Tondela",
+                    "time": "60'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Fabiano",
+                    "team": "Moreirense",
+                    "time": "77'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Teguia",
+                    "team": "Moreirense",
+                    "time": "90+3'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Pefok",
+                    "team": "Tondela",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Red Card",
+                    "player": "Maracas",
+                    "team": "Moreirense",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "11/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Tondela 2 - 0 Moreirense"
+                        }
+                    ],
+                    "team": "Moreirense"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "11/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Tondela 2 - 0 Moreirense"
+                        }
+                    ],
+                    "team": "Tondela"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "11/01/2026",
+                        "teams_and_score": "Moreirense 1 - 0 Tondela"
+                    },
+                    {
+                        "competition": "Liga Portugal 2 22/23",
+                        "date": "29/04/2023",
+                        "teams_and_score": "Moreirense 2 - 1 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga 21/22",
+                        "date": "16/04/2022",
+                        "teams_and_score": "Moreirense 2 - 0 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga 20/21",
+                        "date": "17/04/2021",
+                        "teams_and_score": "Moreirense 2 - 3 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga 19/20",
+                        "date": "26/07/2020",
+                        "teams_and_score": "Moreirense 1 - 2 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "17/02/2019",
+                        "teams_and_score": "Moreirense 2 - 0 Tondela"
+                    }
+                ],
+                "summary": {
+                    "Moreirense_wins": "4",
+                    "Tondela_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Moreirense": "60%",
+                    "Tondela": "40%"
+                },
+                "corners": {
+                    "Moreirense": "8",
+                    "Tondela": "1"
+                },
+                "crosses": {
+                    "Moreirense": "20",
+                    "Tondela": "13"
+                },
+                "fouls": {
+                    "Moreirense": "9",
+                    "Tondela": "14"
+                },
+                "goalkeeper_saves": {
+                    "Moreirense": "1",
+                    "Tondela": "2"
+                },
+                "offsides": {
+                    "Moreirense": "1",
+                    "Tondela": "1"
+                },
+                "red_cards": {
+                    "Moreirense": "1",
+                    "Tondela": "0"
+                },
+                "shots_blocked": {
+                    "Moreirense": "2",
+                    "Tondela": "5"
+                },
+                "shots_off_target": {
+                    "Moreirense": "6",
+                    "Tondela": "6"
+                },
+                "shots_on_target": {
+                    "Moreirense": "2",
+                    "Tondela": "3"
+                },
+                "yellow_cards": {
+                    "Moreirense": "3",
+                    "Tondela": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/tondela-vs-moreirense-2026-05-12.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/215.webp",
+                    "name": "Moreirense",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/218.webp",
+                    "name": "Tondela",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/tondela-vs-moreirense-2026-05-12-viX9.webp",
+            "title": "Tondela vs Moreirense"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "Apr 25, 2026",
+            "description": "Watch Tondela vs Nacional highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on April 25, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "Daniel",
+                    "event_type": "Goal",
+                    "player": "J. Ramírez",
+                    "score_update": "0 - 1",
+                    "team": "Nacional",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "B. Medina",
+                    "team": "Nacional",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Manso",
+                    "team": "Tondela",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Ramírez",
+                    "team": "Nacional",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Aiko",
+                    "team": "Tondela",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Tondela 0 - 2 Nacional"
+                        }
+                    ],
+                    "team": "Nacional"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Tondela 0 - 2 Nacional"
+                        }
+                    ],
+                    "team": "Tondela"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "15/12/2025",
+                        "teams_and_score": "Nacional 3 - 1 Tondela"
+                    },
+                    {
+                        "competition": "Club Friendlies 2025",
+                        "date": "24/07/2025",
+                        "teams_and_score": "Nacional 1 - 2 Tondela"
+                    },
+                    {
+                        "competition": "Liga Portugal 2 23/24",
+                        "date": "12/05/2024",
+                        "teams_and_score": "Tondela 2 - 3 Nacional"
+                    },
+                    {
+                        "competition": "Liga Portugal 2 22/23",
+                        "date": "29/01/2023",
+                        "teams_and_score": "Tondela 1 - 0 Nacional"
+                    },
+                    {
+                        "competition": "Portugal Cup",
+                        "date": "09/11/2022",
+                        "teams_and_score": "Nacional 1 - 0 Tondela"
+                    },
+                    {
+                        "competition": "Liga Portugal 2 22/23",
+                        "date": "06/08/2022",
+                        "teams_and_score": "Nacional 0 - 1 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga 20/21",
+                        "date": "22/04/2021",
+                        "teams_and_score": "Tondela 2 - 1 Nacional"
+                    }
+                ],
+                "summary": {
+                    "Nacional_wins": "4",
+                    "Tondela_wins": "4",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Nacional": "38%",
+                    "Tondela": "62%"
+                },
+                "corners": {
+                    "Nacional": "7",
+                    "Tondela": "8"
+                },
+                "crosses": {
+                    "Nacional": "11",
+                    "Tondela": "8"
+                },
+                "fouls": {
+                    "Nacional": "15",
+                    "Tondela": "16"
+                },
+                "goalkeeper_saves": {
+                    "Nacional": "5",
+                    "Tondela": "5"
+                },
+                "offsides": {
+                    "Nacional": "1",
+                    "Tondela": "1"
+                },
+                "shots_blocked": {
+                    "Nacional": "7",
+                    "Tondela": "8"
+                },
+                "shots_off_target": {
+                    "Nacional": "4",
+                    "Tondela": "9"
+                },
+                "shots_on_target": {
+                    "Nacional": "6",
+                    "Tondela": "5"
+                },
+                "yellow_cards": {
+                    "Nacional": "1",
+                    "Tondela": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/tondela-vs-nacional-2026-04-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/225.webp",
+                    "name": "Nacional",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/218.webp",
+                    "name": "Tondela",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/tondela-vs-nacional-2026-04-25-FEAM.webp",
+            "title": "Tondela vs Nacional"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "Mar 10, 2026",
+            "description": "Watch Tondela vs Rio Ave highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on March 10, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Ntoi",
+                    "team": "Rio Ave",
+                    "time": "29'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Vroussay",
+                    "team": "Rio Ave",
+                    "time": "35'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Bezerra",
+                    "score_update": "0 - 0",
+                    "team": "Rio Ave",
+                    "time": "45+4'"
+                },
+                {
+                    "assist": "D. Špikić",
+                    "event_type": "Goal",
+                    "player": "J. Blesa",
+                    "score_update": "0 - 1",
+                    "team": "Rio Ave",
+                    "time": "70'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Abbey",
+                    "team": "Rio Ave",
+                    "time": "87'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Bezerra",
+                    "team": "Rio Ave",
+                    "time": "90+4'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Mancha",
+                    "team": "Rio Ave",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "09/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Tondela 0 - 1 Rio Ave"
+                        }
+                    ],
+                    "team": "Rio Ave"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "09/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Tondela 0 - 1 Rio Ave"
+                        }
+                    ],
+                    "team": "Tondela"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "05/10/2025",
+                        "teams_and_score": "Rio Ave 3 - 0 Tondela"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "09/07/2022",
+                        "teams_and_score": "Rio Ave 2 - 0 Tondela"
+                    },
+                    {
+                        "competition": "Portugal Cup",
+                        "date": "12/01/2022",
+                        "teams_and_score": "Rio Ave 0 - 1 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga 20/21",
+                        "date": "09/02/2021",
+                        "teams_and_score": "Rio Ave 2 - 1 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga 19/20",
+                        "date": "22/02/2020",
+                        "teams_and_score": "Tondela 1 - 2 Rio Ave"
+                    },
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "01/02/2019",
+                        "teams_and_score": "Rio Ave 2 - 2 Tondela"
+                    }
+                ],
+                "summary": {
+                    "Rio Ave_wins": "4",
+                    "Tondela_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Rio Ave": "53%",
+                    "Tondela": "47%"
+                },
+                "corners": {
+                    "Rio Ave": "2",
+                    "Tondela": "3"
+                },
+                "crosses": {
+                    "Rio Ave": "8",
+                    "Tondela": "15"
+                },
+                "fouls": {
+                    "Rio Ave": "14",
+                    "Tondela": "14"
+                },
+                "goalkeeper_saves": {
+                    "Rio Ave": "2",
+                    "Tondela": "1"
+                },
+                "offsides": {
+                    "Rio Ave": "1",
+                    "Tondela": "0"
+                },
+                "shots_blocked": {
+                    "Rio Ave": "2",
+                    "Tondela": "1"
+                },
+                "shots_off_target": {
+                    "Rio Ave": "5",
+                    "Tondela": "4"
+                },
+                "shots_on_target": {
+                    "Rio Ave": "2",
+                    "Tondela": "2"
+                },
+                "yellow_cards": {
+                    "Rio Ave": "5",
+                    "Tondela": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/tondela-vs-rio-ave-2026-03-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/226.webp",
+                    "name": "Rio Ave",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/218.webp",
+                    "name": "Tondela",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/tondela-vs-rio-ave-2026-03-10-F02g.webp",
+            "title": "Tondela vs Rio Ave"
+        },
+        {
+            "competition": "Primeira Liga",
+            "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+            "date": "Mar 1, 2026",
+            "description": "Watch Tondela vs Santa Clara highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on March 1, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "S. Lima",
+                    "team": "Santa Clara",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Bebeto",
+                    "score_update": "1 - 0",
+                    "team": "Tondela",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Gabriel Silva",
+                    "score_update": "1 - 1",
+                    "team": "Santa Clara",
+                    "time": "31'"
+                },
+                {
+                    "assist": "J. Hodge",
+                    "event_type": "Goal",
+                    "player": "R. Conceicao",
+                    "score_update": "2 - 1",
+                    "team": "Tondela",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Lopes",
+                    "team": "Tondela",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. F. da Silva",
+                    "team": "Santa Clara",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Kimpioka",
+                    "team": "Tondela",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Medina",
+                    "team": "Tondela",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "S. Araujo",
+                    "score_update": "2 - 2",
+                    "team": "Santa Clara",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Tondela 2 - 2 Santa Clara"
+                        }
+                    ],
+                    "team": "Santa Clara"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Primeira Liga",
+                            "date": "01/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Tondela 2 - 2 Santa Clara"
+                        }
+                    ],
+                    "team": "Tondela"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Primeira Liga",
+                        "date": "27/09/2025",
+                        "teams_and_score": "Santa Clara 1 - 2 Tondela"
+                    },
+                    {
+                        "competition": "Liga Portugal 2 23/24",
+                        "date": "20/04/2024",
+                        "teams_and_score": "Santa Clara 1 - 0 Tondela"
+                    },
+                    {
+                        "competition": "League Cup: Round 1 23/24",
+                        "date": "29/07/2023",
+                        "teams_and_score": "Santa Clara 0 - 0 Tondela"
+                    },
+                    {
+                        "competition": "Portugal Cup",
+                        "date": "15/10/2022",
+                        "teams_and_score": "Tondela 2 - 0 Santa Clara"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "16/07/2022",
+                        "teams_and_score": "Tondela 1 - 1 Santa Clara"
+                    },
+                    {
+                        "competition": "Primeira Liga 21/22",
+                        "date": "16/01/2022",
+                        "teams_and_score": "Santa Clara 2 - 2 Tondela"
+                    },
+                    {
+                        "competition": "Primeira Liga 20/21",
+                        "date": "20/03/2021",
+                        "teams_and_score": "Santa Clara 1 - 1 Tondela"
+                    }
+                ],
+                "summary": {
+                    "Santa Clara_wins": "1",
+                    "Tondela_wins": "2",
+                    "draws": "4"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Santa Clara": "58%",
+                    "Tondela": "42%"
+                },
+                "corners": {
+                    "Santa Clara": "7",
+                    "Tondela": "4"
+                },
+                "crosses": {
+                    "Santa Clara": "17",
+                    "Tondela": "7"
+                },
+                "fouls": {
+                    "Santa Clara": "15",
+                    "Tondela": "15"
+                },
+                "goalkeeper_saves": {
+                    "Santa Clara": "2",
+                    "Tondela": "1"
+                },
+                "offsides": {
+                    "Santa Clara": "1",
+                    "Tondela": "0"
+                },
+                "shots_blocked": {
+                    "Santa Clara": "5",
+                    "Tondela": "2"
+                },
+                "shots_off_target": {
+                    "Santa Clara": "9",
+                    "Tondela": "5"
+                },
+                "shots_on_target": {
+                    "Santa Clara": "3",
+                    "Tondela": "4"
+                },
+                "yellow_cards": {
+                    "Santa Clara": "2",
+                    "Tondela": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/tondela-vs-santa-clara-2026-03-01.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/227.webp",
+                    "name": "Santa Clara",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/218.webp",
+                    "name": "Tondela",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/tondela-vs-santa-clara-2026-03-01-cd2e.webp",
+            "title": "Tondela vs Santa Clara"
+        }
+    ]
+}

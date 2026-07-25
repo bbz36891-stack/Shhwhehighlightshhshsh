@@ -1,0 +1,217 @@
+{
+    "team": "ABC",
+    "team_logo": "https://img.refooty.com/logo/teams/754.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "May 31, 2026",
+            "description": "Watch ABC vs Atletico MG highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on May 31, 2026. The atmosphere was electric as two of Brazil's football heavyweights met in a clash that promised intensity from the first whistle. Fans gathered to witness a tactical battle where every inch of the pitch was fiercely contested. Vitor Hugo Breaks the Deadlock On May 31, 2026, Vasco hosted Atlético Mineiro in a high-stakes Serie A encounter. The game started with high energy, but the deadlock was broken in the 33rd minute. Bernard , showing his trademark vision, provided a perfect assist for Vitor Hugo , who found the back of the net to put the visitors ahead. The momentum shifted immediately, and the physicality increased, resulting in a yellow card for Cauan Barros just a minute after the opening goal. Tactical Adjustments in the Second Half The second half saw both managers turning to their benches to find fresh solutions as the pace of the match remained relentless. Atlético Mineiro brought on Alexsander Gomes and Mamady Cisse to replace the goalscorer Vitor Hugo and the architect Bernard . Vasco responded with their own changes, introducing players like David and Bruno Lopes to chase the equalizer, piling pressure on the visitors' defensive line. Late Drama and Defensive Resilience As the match reached its final stages, Vasco made a bold quadruple substitution in the 80th minute, bringing on Caua Campos , Kaua Pascini , Lukas Zuccarello , and Paulo Henrique in a desperate attempt to salvage a point. The intensity boiled over in the 88th minute when Ivan Roman received a yellow card. Despite six minutes of stoppage time and significant pressure from the home side, Atlético Mineiro held firm to protect their lead until the final whistle.",
+            "events_timeline": [
+                {
+                    "assist": "Bernard",
+                    "event_type": "Goal",
+                    "player": "V. Hugo",
+                    "score_update": "0 - 1",
+                    "team": "Atletico MG",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Barros",
+                    "team": "ABC",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "I. Roman",
+                    "team": "Atletico MG",
+                    "time": "46'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "31/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Vasco da Gama 0 - 1 Atletico MG"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "27/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 1 - 0 Academia Puerto Cabello"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Corinthians 1 - 0 Atletico MG"
+                        },
+                        {
+                            "competition": "Group B",
+                            "date": "21/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 2 - 0 Cienciano"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Atletico MG 3 - 1 Mirassol"
+                        }
+                    ],
+                    "team": "Atletico MG"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Serie A",
+                            "date": "31/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Vasco da Gama 0 - 1 Atletico MG"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "27/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Vasco da Gama 3 - 0 Barracas Central"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "24/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Vasco da Gama 0 - 3 RB Bragantino"
+                        },
+                        {
+                            "competition": "Group G",
+                            "date": "20/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Olimpia 3 - 1 Vasco da Gama"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Internacional 4 - 1 Vasco da Gama"
+                        }
+                    ],
+                    "team": "ABC"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Serie A",
+                        "date": "07/12/2025",
+                        "teams_and_score": "Atletico MG 5 - 0 Vasco da Gama"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "04/12/2024",
+                        "teams_and_score": "Vasco da Gama 2 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Copa do Brasil",
+                        "date": "19/10/2024",
+                        "teams_and_score": "Vasco da Gama 1 - 1 Atletico MG"
+                    },
+                    {
+                        "competition": "Serie A",
+                        "date": "21/07/2024",
+                        "teams_and_score": "Atletico MG 2 - 0 Vasco da Gama"
+                    },
+                    {
+                        "competition": "Serie A 2023",
+                        "date": "20/08/2023",
+                        "teams_and_score": "Vasco da Gama 1 - 0 Atletico MG"
+                    },
+                    {
+                        "competition": "Serie A 2020",
+                        "date": "24/01/2021",
+                        "teams_and_score": "Vasco da Gama 3 - 2 Atletico MG"
+                    }
+                ],
+                "summary": {
+                    "ABC_wins": "0",
+                    "Atletico MG_wins": "5",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "ABC": "61%",
+                    "Atletico MG": "39%"
+                },
+                "corners": {
+                    "ABC": "3",
+                    "Atletico MG": "4"
+                },
+                "fouls": {
+                    "ABC": "18",
+                    "Atletico MG": "15"
+                },
+                "goalkeeper_saves": {
+                    "ABC": "3",
+                    "Atletico MG": "8"
+                },
+                "offsides": {
+                    "ABC": "1",
+                    "Atletico MG": "2"
+                },
+                "shots_blocked": {
+                    "ABC": "9",
+                    "Atletico MG": "3"
+                },
+                "shots_off_target": {
+                    "ABC": "8",
+                    "Atletico MG": "3"
+                },
+                "shots_on_target": {
+                    "ABC": "8",
+                    "Atletico MG": "4"
+                },
+                "yellow_cards": {
+                    "ABC": "1",
+                    "Atletico MG": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/vasco-atletico-mineiro-2026-05-31.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1062.webp",
+                    "name": "Atletico MG",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/754.webp",
+                    "name": "ABC",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/vasco-atletico-mineiro-2026-05-31-XE6w.webp",
+            "title": "Vasco - Atlético Mineiro"
+        }
+    ]
+}

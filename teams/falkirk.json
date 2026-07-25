@@ -1,0 +1,2218 @@
+{
+    "team": "Falkirk",
+    "team_logo": "https://img.refooty.com/logo/teams/1389.webp",
+    "total_matches": 15,
+    "matches": [
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Mar 14, 2026",
+            "description": "Watch Aberdeen vs Falkirk highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on March 14, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "K. Nisbet",
+                    "score_update": "1 - 0",
+                    "team": "Aberdeen",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Nisbet",
+                    "team": "Aberdeen",
+                    "time": "61'"
+                },
+                {
+                    "assist": "E. Ross",
+                    "event_type": "Goal",
+                    "player": "B. Stewart",
+                    "score_update": "1 - 1",
+                    "team": "Falkirk",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "D",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "14/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Aberdeen 1 - 1 Falkirk"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 5 - 1 Kilmarnock"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "08/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Stenhousemuir 0 - 2 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Livingston 1 - 2 Falkirk"
+                        }
+                    ],
+                    "team": "Falkirk"
+                },
+                "home_team_form": {
+                    "form": [
+                        "D",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "14/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Aberdeen 1 - 1 Falkirk"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dunfermline Athletic 3 - 0 Aberdeen"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 1 - 2 Celtic"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "18/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 2 - 0 Motherwell"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "15/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Motherwell 2 - 0 Aberdeen"
+                        }
+                    ],
+                    "team": "Aberdeen"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "03/01/2026",
+                        "teams_and_score": "Falkirk 1 - 0 Aberdeen"
+                    },
+                    {
+                        "competition": "Club Friendlies",
+                        "date": "04/07/2018",
+                        "teams_and_score": "Falkirk 0 - 1 Aberdeen"
+                    },
+                    {
+                        "competition": "League Cup",
+                        "date": "25/09/2013",
+                        "teams_and_score": "Falkirk 0 - 5 Aberdeen"
+                    },
+                    {
+                        "competition": "Scottish Communities League Cup",
+                        "date": "26/10/2010",
+                        "teams_and_score": "Aberdeen 2 - 1 Falkirk"
+                    },
+                    {
+                        "competition": "Premier League",
+                        "date": "17/04/2010",
+                        "teams_and_score": "Aberdeen 1 - 0 Falkirk"
+                    }
+                ],
+                "summary": {
+                    "Aberdeen_wins": "4",
+                    "Falkirk_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Aberdeen": "42%",
+                    "Falkirk": "58%"
+                },
+                "corners": {
+                    "Aberdeen": "4",
+                    "Falkirk": "10"
+                },
+                "fouls": {
+                    "Aberdeen": "17",
+                    "Falkirk": "6"
+                },
+                "goalkeeper_saves": {
+                    "Aberdeen": "2",
+                    "Falkirk": "2"
+                },
+                "offsides": {
+                    "Aberdeen": "1",
+                    "Falkirk": "4"
+                },
+                "shots_blocked": {
+                    "Aberdeen": "3",
+                    "Falkirk": "4"
+                },
+                "shots_off_target": {
+                    "Aberdeen": "3",
+                    "Falkirk": "0"
+                },
+                "shots_on_target": {
+                    "Aberdeen": "3",
+                    "Falkirk": "3"
+                },
+                "yellow_cards": {
+                    "Aberdeen": "1",
+                    "Falkirk": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/aberdeen-vs-falkirk-2026-03-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1389.webp",
+                    "name": "Falkirk",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/252.webp",
+                    "name": "Aberdeen",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-vs-falkirk-2026-03-14-zsQX.webp",
+            "title": "Aberdeen vs Falkirk"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Apr 25, 2026",
+            "description": "Watch Celtic vs Falkirk highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on April 25, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "D. Maeda",
+                    "score_update": "1 - 0",
+                    "team": "Celtic",
+                    "time": "1'"
+                },
+                {
+                    "assist": "D. Maeda",
+                    "event_type": "Goal",
+                    "player": "K. Tierney",
+                    "score_update": "2 - 0",
+                    "team": "Celtic",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Trusty",
+                    "team": "Celtic",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Ralston",
+                    "team": "Celtic",
+                    "time": "61'"
+                },
+                {
+                    "assist": "L. Mccann",
+                    "event_type": "Goal",
+                    "player": "K. Wilson",
+                    "score_update": "2 - 1",
+                    "team": "Falkirk",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Wilson",
+                    "team": "Falkirk",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Tait",
+                    "team": "Falkirk",
+                    "time": "91'"
+                },
+                {
+                    "assist": "S. Tounekti",
+                    "event_type": "Goal",
+                    "player": "D. Maeda",
+                    "score_update": "3 - 1",
+                    "team": "Celtic",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Mccann",
+                    "team": "Falkirk",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "25/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Celtic 3 - 1 Falkirk"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Dunfermline Athletic 0 - 0 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 3 - 6 Rangers"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 5 - 1 Kilmarnock"
+                        }
+                    ],
+                    "team": "Falkirk"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "25/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Celtic 3 - 1 Falkirk"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "19/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Celtic 6 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Celtic 1 - 0 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Rangers 0 - 0 Celtic"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Aberdeen 1 - 2 Celtic"
+                        }
+                    ],
+                    "team": "Celtic"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "01/02/2026",
+                        "teams_and_score": "Celtic 2 - 0 Falkirk"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Round of 16",
+                        "date": "15/08/2025",
+                        "teams_and_score": "Celtic 4 - 1 Falkirk"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Quarter-Finals",
+                        "date": "22/09/2024",
+                        "teams_and_score": "Celtic 5 - 2 Falkirk"
+                    },
+                    {
+                        "competition": "Scottish Cup 20/21",
+                        "date": "03/04/2021",
+                        "teams_and_score": "Celtic 3 - 0 Falkirk"
+                    },
+                    {
+                        "competition": "Scottish Communities League Cup",
+                        "date": "29/01/2012",
+                        "teams_and_score": "Falkirk 1 - 3 Celtic"
+                    },
+                    {
+                        "competition": "Premier League",
+                        "date": "07/03/2010",
+                        "teams_and_score": "Falkirk 0 - 2 Celtic"
+                    }
+                ],
+                "summary": {
+                    "Celtic_wins": "6",
+                    "Falkirk_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Celtic": "55%",
+                    "Falkirk": "45%"
+                },
+                "corners": {
+                    "Celtic": "9",
+                    "Falkirk": "7"
+                },
+                "fouls": {
+                    "Celtic": "16",
+                    "Falkirk": "10"
+                },
+                "goalkeeper_saves": {
+                    "Celtic": "2",
+                    "Falkirk": "4"
+                },
+                "offsides": {
+                    "Celtic": "3",
+                    "Falkirk": "3"
+                },
+                "shots_blocked": {
+                    "Celtic": "5",
+                    "Falkirk": "1"
+                },
+                "shots_off_target": {
+                    "Celtic": "2",
+                    "Falkirk": "7"
+                },
+                "shots_on_target": {
+                    "Celtic": "7",
+                    "Falkirk": "3"
+                },
+                "yellow_cards": {
+                    "Celtic": "2",
+                    "Falkirk": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/celtic-vs-falkirk-2026-04-25.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1389.webp",
+                    "name": "Falkirk",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/247.webp",
+                    "name": "Celtic",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/celtic-vs-falkirk-2026-04-25-9sND.webp",
+            "title": "Celtic vs Falkirk"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Falkirk vs Rangers highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 17, 2026. The Scottish Premiership delivered an electrifying spectacle as Falkirk hosted Rangers in a clash defined by relentless attacking intent and individual brilliance. Both sides approached the match with high stakes, creating an atmosphere of intense competition from the very first whistle. A Breathless Opening Exchange On May 17, 2026 , the contest ignited almost immediately. Youssef Chermiti put Rangers ahead in just the 2nd minute, clinical following a clever assist from Mikey Moore . The momentum stayed firmly with the visitors as Chermiti struck again in the 6th minute, leaving the home crowd stunned. However, the script took a bizarre turn only a minute later when Rangers goalkeeper Jack Butland inadvertently sent the ball into his own net, gifting Falkirk a lifeline at 1-2. The first half continued at a breakneck pace, marked by several cautions for Falkirk players Henry Cartwright and Brad Spencer . Rangers extended their lead once more in the 27th minute through Djeidi Gassama , who was set up by the ever-present Chermiti . Just as the half seemed to be winding down, Falkirk struck back again; Calvin Miller converted a penalty in the 44th minute, shortly after receiving a yellow card, ensuring a tense 2-3 scoreline at the interval. Rangers Assert Authority in the Second Period Despite a flurry of tactical substitutions by Falkirk at the start of the second half, Rangers regained their two-goal cushion almost instantly. In the 47th minute, Tuur Rommens provided the service for Youssef Chermiti to complete a magnificent hat-trick. This strike effectively deflated the home side's comeback hopes, as the visitors began to dominate possession and dictate the tempo across the pitch. The final blow arrived in the 79th minute when Thelo Aasgaard stepped up to convert a penalty for Rangers , making it 5-2. With the result secured, the Glasgow giants introduced fresh faces like Ashton Scally and Aiden McCallion to see out the remaining minutes. Despite Falkirk's early resilience, the clinical finishing of the visitors proved to be the deciding factor in a high-scoring encounter.",
+            "events_timeline": [
+                {
+                    "assist": "M. Moore",
+                    "event_type": "Goal",
+                    "player": "Y. Chermiti",
+                    "score_update": "0 - 1",
+                    "team": "Rangers",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "Y. Chermiti",
+                    "score_update": "0 - 2",
+                    "team": "Rangers",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "J. Butland",
+                    "team": "Falkirk",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "H. Cartwright",
+                    "team": "Falkirk",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Spencer",
+                    "team": "Falkirk",
+                    "time": "61'"
+                },
+                {
+                    "assist": "Y. Chermiti",
+                    "event_type": "Goal",
+                    "player": "D. Gassama",
+                    "score_update": "1 - 3",
+                    "team": "Rangers",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Miller",
+                    "team": "Falkirk",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Miller",
+                    "score_update": "2 - 3",
+                    "team": "Falkirk",
+                    "time": "106'"
+                },
+                {
+                    "assist": "T. Rommens",
+                    "event_type": "Goal",
+                    "player": "Y. Chermiti",
+                    "score_update": "2 - 4",
+                    "team": "Rangers",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "T. Aasgaard",
+                    "score_update": "2 - 5",
+                    "team": "Rangers",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "16/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 2 - 5 Rangers"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "12/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 3 - 6 Rangers"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Rangers 0 - 0 Celtic"
+                        }
+                    ],
+                    "team": "Rangers"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "16/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 2 - 5 Rangers"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Dunfermline Athletic 0 - 0 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 3 - 6 Rangers"
+                        }
+                    ],
+                    "team": "Falkirk"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "12/04/2026",
+                        "teams_and_score": "Falkirk 3 - 6 Rangers"
+                    },
+                    {
+                        "competition": "League Cup: Play-off",
+                        "date": "29/11/2020",
+                        "teams_and_score": "Falkirk 0 - 4 Rangers"
+                    },
+                    {
+                        "competition": "FA Cup",
+                        "date": "04/03/2018",
+                        "teams_and_score": "Rangers 4 - 1 Falkirk"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "18/03/2016",
+                        "teams_and_score": "Falkirk 3 - 2 Rangers"
+                    }
+                ],
+                "summary": {
+                    "Falkirk_wins": "1",
+                    "Rangers_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Falkirk": "55%",
+                    "Rangers": "45%"
+                },
+                "corners": {
+                    "Falkirk": "7",
+                    "Rangers": "4"
+                },
+                "fouls": {
+                    "Falkirk": "11",
+                    "Rangers": "9"
+                },
+                "goalkeeper_saves": {
+                    "Falkirk": "2",
+                    "Rangers": "2"
+                },
+                "offsides": {
+                    "Falkirk": "2",
+                    "Rangers": "0"
+                },
+                "shots_blocked": {
+                    "Falkirk": "0",
+                    "Rangers": "3"
+                },
+                "shots_off_target": {
+                    "Falkirk": "5",
+                    "Rangers": "5"
+                },
+                "shots_on_target": {
+                    "Falkirk": "3",
+                    "Rangers": "7"
+                },
+                "yellow_cards": {
+                    "Falkirk": "3",
+                    "Rangers": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/falkirk-rangers-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/257.webp",
+                    "name": "Rangers",
+                    "score": "5"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1389.webp",
+                    "name": "Falkirk",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/falkirk-rangers-2026-05-17-S2oL.webp",
+            "title": "Falkirk - Rangers"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Jan 15, 2026",
+            "description": "Watch Falkirk vs Celtic highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on January 15, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/falkirk-vs-celtic-2026-01-15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/falkirk-vs-celtic-2026-01-15-B7Z8.webp",
+            "title": "Falkirk vs Celtic"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 14, 2026",
+            "description": "Watch Falkirk vs Dundee FC highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 14, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/falkirk-vs-dundee-2026-02-14.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/falkirk-vs-dundee-2026-02-14-7JZ3.webp",
+            "title": "Falkirk vs Dundee"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Mar 7, 2026",
+            "description": "Watch Falkirk vs Dundee Utd highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on March 7, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "B. Stewart",
+                    "score_update": "1 - 0",
+                    "team": "Falkirk",
+                    "time": "10'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Sevelj",
+                    "team": "Dundee Utd",
+                    "time": "20'"
+                },
+                {
+                    "assist": "L. Mccann",
+                    "event_type": "Goal",
+                    "player": "F. Yeats",
+                    "score_update": "2 - 0",
+                    "team": "Falkirk",
+                    "time": "21'"
+                },
+                {
+                    "assist": "W. Ferry",
+                    "event_type": "Goal",
+                    "player": "J. Eskesen",
+                    "score_update": "2 - 1",
+                    "team": "Dundee Utd",
+                    "time": "45+2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Camará",
+                    "team": "Dundee Utd",
+                    "time": "62'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Spencer",
+                    "team": "Falkirk",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Graham",
+                    "team": "Dundee Utd",
+                    "time": "90+4'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "06/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 1 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "17/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 1 Spartans"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "14/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 2 - 3 Dundee United"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 0 Ayr United"
+                        }
+                    ],
+                    "team": "Dundee Utd"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "W",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 5 - 1 Kilmarnock"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "08/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Stenhousemuir 0 - 2 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Livingston 1 - 2 Falkirk"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Hearts 1 - 1 Falkirk"
+                        }
+                    ],
+                    "team": "Falkirk"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "14/02/2026",
+                        "teams_and_score": "Falkirk 2 - 3 Dundee United"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Group B",
+                        "date": "13/07/2024",
+                        "teams_and_score": "Falkirk 2 - 0 Dundee United"
+                    },
+                    {
+                        "competition": "Challenge Cup",
+                        "date": "17/11/2023",
+                        "teams_and_score": "Falkirk 4 - 2 Dundee United"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Group B",
+                        "date": "25/07/2023",
+                        "teams_and_score": "Falkirk 0 - 1 Dundee United"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "27/04/2019",
+                        "teams_and_score": "Dundee United 2 - 0 Falkirk"
+                    }
+                ],
+                "summary": {
+                    "Dundee Utd_wins": "3",
+                    "Falkirk_wins": "2",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Dundee Utd": "46%",
+                    "Falkirk": "54%"
+                },
+                "corners": {
+                    "Dundee Utd": "5",
+                    "Falkirk": "5"
+                },
+                "fouls": {
+                    "Dundee Utd": "6",
+                    "Falkirk": "6"
+                },
+                "goalkeeper_saves": {
+                    "Dundee Utd": "2",
+                    "Falkirk": "3"
+                },
+                "offsides": {
+                    "Dundee Utd": "1",
+                    "Falkirk": "3"
+                },
+                "shots_blocked": {
+                    "Dundee Utd": "1",
+                    "Falkirk": "2"
+                },
+                "shots_off_target": {
+                    "Dundee Utd": "2",
+                    "Falkirk": "3"
+                },
+                "shots_on_target": {
+                    "Dundee Utd": "4",
+                    "Falkirk": "4"
+                },
+                "yellow_cards": {
+                    "Dundee Utd": "3",
+                    "Falkirk": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/falkirk-vs-dundee-utd-2026-03-07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1386.webp",
+                    "name": "Dundee Utd",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1389.webp",
+                    "name": "Falkirk",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/falkirk-vs-dundee-utd-2026-03-07-WSul.webp",
+            "title": "Falkirk vs Dundee Utd"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 9, 2026",
+            "description": "Watch Falkirk vs Hibernian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 9, 2026. A high-stakes clash in the Scottish Premiership On May 9, 2026 , the atmosphere was electric as Falkirk hosted Hibernian for a crucial Scottish Premiership match. Both sides entered the pitch with clear tactical intentions, setting the stage for an engaging battle that kept the fans on the edge of their seats from the opening whistle. Early goals define the opening half The intensity was evident immediately as Hibernian struck first in the 3rd minute; Josh Campbell found the back of the net following a perfectly weighted assist from Jordan Obita . The visitors maintained their momentum, and by the 20th minute, they doubled their lead when Martin Boyle set up Josh Campbell for his second goal of the day. The attacking pressure continued, and in the 40th minute, Jordan Obita joined the scoresheet himself, converting a pass from Felix Passlack to put his side in a commanding position heading into the half-time break. Tactical shifts and a spirited response The second half saw both managers shuffle their packs to manage fatigue and tactical shape. The physical nature of the game saw Josh Campbell receive a yellow card in the 61st minute as tensions rose. Falkirk managed to claw their way back into the contest in the 72nd minute, as Ben Broggio fired home after receiving a delivery from Brad Spencer . Despite the flurry of late substitutions and a desperate push from the home side to bridge the gap further, the referee eventually signaled for full time, bringing a hard-fought match to a close.",
+            "events_timeline": [
+                {
+                    "assist": "J. Obita",
+                    "event_type": "Goal",
+                    "player": "J. Campbell",
+                    "score_update": "0 - 1",
+                    "team": "Hibernian",
+                    "time": "1'"
+                },
+                {
+                    "assist": "M. Boyle",
+                    "event_type": "Goal",
+                    "player": "J. Campbell",
+                    "score_update": "0 - 2",
+                    "team": "Hibernian",
+                    "time": "16'"
+                },
+                {
+                    "assist": "F. Passlack",
+                    "event_type": "Goal",
+                    "player": "J. Obita",
+                    "score_update": "0 - 3",
+                    "team": "Hibernian",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "J. Campbell",
+                    "team": "Hibernian",
+                    "time": "46'"
+                },
+                {
+                    "assist": "B. Spencer",
+                    "event_type": "Goal",
+                    "player": "B. Broggio",
+                    "score_update": "1 - 3",
+                    "team": "Falkirk",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "09/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 1 - 3 Hibernian"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 2 - 0 Hibernian"
+                        }
+                    ],
+                    "team": "Hibernian"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "09/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 1 - 3 Hibernian"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Dunfermline Athletic 0 - 0 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 3 - 6 Rangers"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 5 - 1 Kilmarnock"
+                        }
+                    ],
+                    "team": "Falkirk"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "24/01/2026",
+                        "teams_and_score": "Falkirk 4 - 1 Hibernian"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Group D",
+                        "date": "12/07/2022",
+                        "teams_and_score": "Falkirk 1 - 0 Hibernian"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "25/03/2017",
+                        "teams_and_score": "Hibernian 2 - 1 Falkirk"
+                    },
+                    {
+                        "competition": "Premiership Qualification",
+                        "date": "13/05/2016",
+                        "teams_and_score": "Falkirk 3 - 2 Hibernian"
+                    }
+                ],
+                "summary": {
+                    "Falkirk_wins": "3",
+                    "Hibernian_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Falkirk": "68%",
+                    "Hibernian": "32%"
+                },
+                "corners": {
+                    "Falkirk": "6",
+                    "Hibernian": "5"
+                },
+                "fouls": {
+                    "Falkirk": "10",
+                    "Hibernian": "13"
+                },
+                "goalkeeper_saves": {
+                    "Falkirk": "2",
+                    "Hibernian": "0"
+                },
+                "offsides": {
+                    "Falkirk": "2",
+                    "Hibernian": "1"
+                },
+                "shots_blocked": {
+                    "Falkirk": "3",
+                    "Hibernian": "2"
+                },
+                "shots_off_target": {
+                    "Falkirk": "4",
+                    "Hibernian": "4"
+                },
+                "shots_on_target": {
+                    "Falkirk": "1",
+                    "Hibernian": "4"
+                },
+                "yellow_cards": {
+                    "Falkirk": "0",
+                    "Hibernian": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/falkirk-vs-hibernian-2026-05-09.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/249.webp",
+                    "name": "Hibernian",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1389.webp",
+                    "name": "Falkirk",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/falkirk-vs-hibernian-2026-05-09-5IQ7.webp",
+            "title": "Falkirk vs Hibernian"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 28, 2026",
+            "description": "Watch Falkirk vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 28, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "E. Brown",
+                    "team": "Falkirk",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "D. Tait",
+                    "score_update": "2 - 0",
+                    "team": "Falkirk",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Spencer",
+                    "team": "Falkirk",
+                    "time": "31'"
+                },
+                {
+                    "assist": "C. Donaldson",
+                    "event_type": "Goal",
+                    "player": "B. Stewart",
+                    "score_update": "3 - 0",
+                    "team": "Falkirk",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Kiltie",
+                    "score_update": "3 - 1",
+                    "team": "Kilmarnock",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Kiltie",
+                    "team": "Kilmarnock",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Donaldson",
+                    "team": "Falkirk",
+                    "time": "91'"
+                },
+                {
+                    "assist": "C. Miller",
+                    "event_type": "Goal",
+                    "player": "B. Stewart",
+                    "score_update": "4 - 1",
+                    "team": "Falkirk",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. Deas",
+                    "team": "Kilmarnock",
+                    "time": "61'"
+                },
+                {
+                    "assist": "B. Broggio",
+                    "event_type": "Goal",
+                    "player": "D. Tait",
+                    "score_update": "5 - 1",
+                    "team": "Falkirk",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Mccann",
+                    "team": "Falkirk",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 5 - 1 Kilmarnock"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Kilmarnock 1 - 2 Dundee FC"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "10/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Livingston 1 - 1 Kilmarnock"
+                        }
+                    ],
+                    "team": "Kilmarnock"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W",
+                        "W",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 5 - 1 Kilmarnock"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "08/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Stenhousemuir 0 - 2 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Livingston 1 - 2 Falkirk"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 4",
+                            "date": "17/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Hearts 1 - 1 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "14/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 0 - 1 Celtic"
+                        }
+                    ],
+                    "team": "Falkirk"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "20/12/2025",
+                        "teams_and_score": "Kilmarnock 0 - 1 Falkirk"
+                    },
+                    {
+                        "competition": "Club Friendlies 2022",
+                        "date": "24/06/2022",
+                        "teams_and_score": "Falkirk 1 - 4 Kilmarnock"
+                    },
+                    {
+                        "competition": "Challenge Cup 21/22",
+                        "date": "04/09/2021",
+                        "teams_and_score": "Kilmarnock 3 - 1 Falkirk"
+                    },
+                    {
+                        "competition": "League Cup: Group E",
+                        "date": "06/10/2020",
+                        "teams_and_score": "Falkirk 3 - 0 Kilmarnock"
+                    },
+                    {
+                        "competition": "Premiership Qualification",
+                        "date": "22/05/2016",
+                        "teams_and_score": "Kilmarnock 4 - 0 Falkirk"
+                    },
+                    {
+                        "competition": "Premier League",
+                        "date": "08/05/2010",
+                        "teams_and_score": "Kilmarnock 0 - 0 Falkirk"
+                    },
+                    {
+                        "competition": "Tennents Scottish Cup",
+                        "date": "18/01/2010",
+                        "teams_and_score": "Kilmarnock 1 - 0 Falkirk"
+                    }
+                ],
+                "summary": {
+                    "Falkirk_wins": "2",
+                    "Kilmarnock_wins": "4",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Falkirk": "50%",
+                    "Kilmarnock": "50%"
+                },
+                "corners": {
+                    "Falkirk": "3",
+                    "Kilmarnock": "2"
+                },
+                "fouls": {
+                    "Falkirk": "9",
+                    "Kilmarnock": "15"
+                },
+                "goalkeeper_saves": {
+                    "Falkirk": "2",
+                    "Kilmarnock": "6"
+                },
+                "offsides": {
+                    "Falkirk": "2",
+                    "Kilmarnock": "3"
+                },
+                "shots_blocked": {
+                    "Falkirk": "2",
+                    "Kilmarnock": "3"
+                },
+                "shots_off_target": {
+                    "Falkirk": "8",
+                    "Kilmarnock": "0"
+                },
+                "shots_on_target": {
+                    "Falkirk": "10",
+                    "Kilmarnock": "3"
+                },
+                "yellow_cards": {
+                    "Falkirk": "3",
+                    "Kilmarnock": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/falkirk-vs-kilmarnock-2026-02-28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/250.webp",
+                    "name": "Kilmarnock",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1389.webp",
+                    "name": "Falkirk",
+                    "score": "5"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/falkirk-vs-kilmarnock-2026-02-28-FjtD.webp",
+            "title": "Falkirk vs Kilmarnock"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 2, 2026",
+            "description": "Watch Falkirk vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 2, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Broggio",
+                    "team": "Falkirk",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Spencer",
+                    "team": "Falkirk",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "T. Sparrow",
+                    "team": "Motherwell",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Slattery",
+                    "team": "Motherwell",
+                    "time": "50'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "D. Tait",
+                    "team": "Falkirk",
+                    "time": "55'"
+                },
+                {
+                    "assist": "B. Broggio",
+                    "event_type": "Goal",
+                    "player": "H. Cartwright",
+                    "score_update": "1 - 0",
+                    "team": "Falkirk",
+                    "time": "63'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Yeats",
+                    "team": "Falkirk",
+                    "time": "75'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Longelo",
+                    "team": "Motherwell",
+                    "time": "88'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Hendry",
+                    "team": "Motherwell",
+                    "time": "90+1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Just",
+                    "team": "Motherwell",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "02/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 1 - 0 Motherwell"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Hearts 3 - 1 Motherwell"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "18/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Aberdeen 2 - 0 Motherwell"
+                        }
+                    ],
+                    "team": "Motherwell"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "02/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 1 - 0 Motherwell"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Dunfermline Athletic 0 - 0 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 3 - 6 Rangers"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 5 - 1 Kilmarnock"
+                        }
+                    ],
+                    "team": "Falkirk"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "04/04/2026",
+                        "teams_and_score": "Motherwell 2 - 3 Falkirk"
+                    },
+                    {
+                        "competition": "Premier League",
+                        "date": "03/04/2010",
+                        "teams_and_score": "Motherwell 0 - 1 Falkirk"
+                    }
+                ],
+                "summary": {
+                    "Falkirk_wins": "2",
+                    "Motherwell_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Falkirk": "48%",
+                    "Motherwell": "52%"
+                },
+                "corners": {
+                    "Falkirk": "2",
+                    "Motherwell": "5"
+                },
+                "fouls": {
+                    "Falkirk": "12",
+                    "Motherwell": "13"
+                },
+                "goalkeeper_saves": {
+                    "Falkirk": "3",
+                    "Motherwell": "4"
+                },
+                "offsides": {
+                    "Falkirk": "0",
+                    "Motherwell": "4"
+                },
+                "shots_blocked": {
+                    "Falkirk": "4",
+                    "Motherwell": "4"
+                },
+                "shots_off_target": {
+                    "Falkirk": "9",
+                    "Motherwell": "7"
+                },
+                "shots_on_target": {
+                    "Falkirk": "5",
+                    "Motherwell": "3"
+                },
+                "yellow_cards": {
+                    "Falkirk": "4",
+                    "Motherwell": "5"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/falkirk-vs-motherwell-2026-05-02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/256.webp",
+                    "name": "Motherwell",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1389.webp",
+                    "name": "Falkirk",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/falkirk-vs-motherwell-2026-05-02-GnQa.webp",
+            "title": "Falkirk vs Motherwell"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Mar 21, 2026",
+            "description": "Watch Falkirk vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on March 21, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "D. Tait",
+                    "event_type": "Goal",
+                    "player": "B. Stewart",
+                    "score_update": "1 - 0",
+                    "team": "Falkirk",
+                    "time": "1'"
+                },
+                {
+                    "assist": "S. Tanser",
+                    "event_type": "Goal",
+                    "player": "M. Freckleton",
+                    "score_update": "1 - 1",
+                    "team": "ST Mirren",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Mccann",
+                    "team": "Falkirk",
+                    "time": "31'"
+                },
+                {
+                    "assist": "M. O'Hara",
+                    "event_type": "Goal",
+                    "player": "L. Donnelly",
+                    "score_update": "1 - 2",
+                    "team": "ST Mirren",
+                    "time": "64'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "K. Phillips",
+                    "team": "ST Mirren",
+                    "time": "89'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Gogic",
+                    "team": "ST Mirren",
+                    "time": "90+1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "21/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 1 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "08/03/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 2 - 1 Partick Thistle"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Dundee United 2 - 1 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "06/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Airdrieonians 1 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "03/02/2026",
+                            "result": "L",
+                            "teams_and_score": "St. Mirren 1 - 0 Hearts"
+                        }
+                    ],
+                    "team": "ST Mirren"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership",
+                            "date": "21/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 1 - 2 St. Mirren"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "28/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 5 - 1 Kilmarnock"
+                        },
+                        {
+                            "competition": "Scottish Cup: Round 5",
+                            "date": "08/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Stenhousemuir 0 - 2 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "04/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Livingston 1 - 2 Falkirk"
+                        }
+                    ],
+                    "team": "Falkirk"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "10/01/2026",
+                        "teams_and_score": "St. Mirren 0 - 2 Falkirk"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "28/04/2018",
+                        "teams_and_score": "Falkirk 1 - 0 St. Mirren"
+                    }
+                ],
+                "summary": {
+                    "Falkirk_wins": "2",
+                    "ST Mirren_wins": "0",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Falkirk": "58%",
+                    "ST Mirren": "42%"
+                },
+                "corners": {
+                    "Falkirk": "7",
+                    "ST Mirren": "4"
+                },
+                "fouls": {
+                    "Falkirk": "15",
+                    "ST Mirren": "14"
+                },
+                "goalkeeper_saves": {
+                    "Falkirk": "2",
+                    "ST Mirren": "1"
+                },
+                "offsides": {
+                    "Falkirk": "2",
+                    "ST Mirren": "1"
+                },
+                "shots_blocked": {
+                    "Falkirk": "4",
+                    "ST Mirren": "4"
+                },
+                "shots_off_target": {
+                    "Falkirk": "5",
+                    "ST Mirren": "3"
+                },
+                "shots_on_target": {
+                    "Falkirk": "2",
+                    "ST Mirren": "4"
+                },
+                "yellow_cards": {
+                    "Falkirk": "1",
+                    "ST Mirren": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/falkirk-vs-st-mirren-2026-03-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/251.webp",
+                    "name": "ST Mirren",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1389.webp",
+                    "name": "Falkirk",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/falkirk-vs-st-mirren-2026-03-21-1Xw5.webp",
+            "title": "Falkirk vs ST Mirren"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "May 13, 2026",
+            "description": "Watch Heart Of Midlothian vs Falkirk highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on May 13, 2026. The Scottish Premiership action continued at pace on May 13, 2026 , as Heart of Midlothian played host to Falkirk in a clash of tactical intentions. Fans gathered expecting a fierce contest between two sides eager to climb the table and establish momentum in the league. First Half Offensive Surge The match began with high intensity, though it was marked early by a moment of caution when Blair Spittal received a yellow card in the 16th minute. However, the atmosphere shifted dramatically after the half-hour mark when Heart of Midlothian found their rhythm. In the 30th minute, Alexandros Kyziridis delivered a precise ball that allowed Frankie Kent to find the back of the net, breaking the deadlock and igniting the home crowd. The momentum stayed firmly with the hosts, who didn't wait long to double their advantage. Just four minutes after the opener, Cameron Devlin struck a clinical blow in the 34th minute to make it 2-0. Falkirk struggled to contain the rapid offensive transitions of the home side, heading into the halftime break with a significant mountain to climb. Tactical Adjustments and Discipline The second half saw a flurry of changes as both managers looked to alter the game's trajectory. Falkirk introduced Stephen Kingsley , Ben Parkinson , and Ross MacIver immediately after the break, replacing Harry Milne , Kyrell Wilson , and Dylan Tait . Despite the fresh legs, the visitors found themselves in the referee's book more often than the scoresheet. Calvin Miller , Brad Spencer , and Liam Henderson all received yellow cards as frustrations began to mount under the pressure from Hearts . Heart of Midlothian maintained control through strategic substitutions, bringing on Jordi Altena for the goalscorer Devlin in the 67th minute. The game's physical nature continued, but the tactical discipline of the home side prevented Falkirk from carving out any clear-cut opportunities to get back into the match. Late Flourish and Final Whistle As the match entered its closing stages, the hosts added the finishing touch to a commanding performance. In the 86th minute, Michael Steinwender turned provider, setting up Blair Spittal for a well-deserved goal. The strike effectively ended any lingering hopes of a comeback and allowed the home side to navigate the final minutes with confidence. Following a series of late substitutions, including the introduction of Alan Forrest for the goalscorer Spittal , the referee blew the final whistle at 90+4 minutes. It was a professional display from Heart of Midlothian , who utilized their chances with precision to secure all three points in front of their home supporters.",
+            "events_timeline": [
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Spittal",
+                    "team": "Heart Of Midlothian",
+                    "time": "1'"
+                },
+                {
+                    "assist": "A. Kyziridis",
+                    "event_type": "Goal",
+                    "player": "F. Kent",
+                    "score_update": "1 - 0",
+                    "team": "Heart Of Midlothian",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Devlin",
+                    "score_update": "2 - 0",
+                    "team": "Heart Of Midlothian",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Miller",
+                    "team": "Falkirk",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Spencer",
+                    "team": "Falkirk",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Henderson",
+                    "team": "Falkirk",
+                    "time": "76'"
+                },
+                {
+                    "assist": "M. Steinwender",
+                    "event_type": "Goal",
+                    "player": "B. Spittal",
+                    "score_update": "3 - 0",
+                    "team": "Heart Of Midlothian",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "13/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Hearts 3 - 0 Falkirk"
+                        },
+                        {
+                            "competition": "Scottish Cup: Semi-Finals",
+                            "date": "18/04/2026",
+                            "result": "D",
+                            "teams_and_score": "Dunfermline Athletic 0 - 0 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "12/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Falkirk 3 - 6 Rangers"
+                        },
+                        {
+                            "competition": "Scottish Cup: Quarter-Finals",
+                            "date": "06/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+                        }
+                    ],
+                    "team": "Falkirk"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Premiership: Championship Group",
+                            "date": "13/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Hearts 3 - 0 Falkirk"
+                        },
+                        {
+                            "competition": "Premiership",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Hearts 3 - 1 Motherwell"
+                        }
+                    ],
+                    "team": "Heart Of Midlothian"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Premiership",
+                        "date": "21/02/2026",
+                        "teams_and_score": "Hearts 1 - 0 Falkirk"
+                    },
+                    {
+                        "competition": "Scottish Cup: Round 4",
+                        "date": "17/01/2026",
+                        "teams_and_score": "Hearts 1 - 1 Falkirk"
+                    },
+                    {
+                        "competition": "Premiership",
+                        "date": "13/12/2025",
+                        "teams_and_score": "Falkirk 0 - 2 Hearts"
+                    },
+                    {
+                        "competition": "Scottish League Cup: Round of 16",
+                        "date": "17/08/2024",
+                        "teams_and_score": "Falkirk 2 - 0 Hearts"
+                    },
+                    {
+                        "competition": "Scottish Cup 19/20",
+                        "date": "08/02/2020",
+                        "teams_and_score": "Falkirk 0 - 1 Hearts"
+                    },
+                    {
+                        "competition": "Championship",
+                        "date": "21/03/2015",
+                        "teams_and_score": "Falkirk 0 - 3 Hearts"
+                    }
+                ],
+                "summary": {
+                    "Falkirk_wins": "2",
+                    "Heart Of Midlothian_wins": "3",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Falkirk": "34%",
+                    "Heart Of Midlothian": "66%"
+                },
+                "corners": {
+                    "Falkirk": "5",
+                    "Heart Of Midlothian": "5"
+                },
+                "fouls": {
+                    "Falkirk": "17",
+                    "Heart Of Midlothian": "6"
+                },
+                "goalkeeper_saves": {
+                    "Falkirk": "1",
+                    "Heart Of Midlothian": "1"
+                },
+                "offsides": {
+                    "Falkirk": "2",
+                    "Heart Of Midlothian": "2"
+                },
+                "shots_blocked": {
+                    "Falkirk": "1",
+                    "Heart Of Midlothian": "4"
+                },
+                "shots_off_target": {
+                    "Falkirk": "2",
+                    "Heart Of Midlothian": "4"
+                },
+                "shots_on_target": {
+                    "Falkirk": "1",
+                    "Heart Of Midlothian": "4"
+                },
+                "yellow_cards": {
+                    "Falkirk": "3",
+                    "Heart Of Midlothian": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/heart-of-midlothian-falkirk-2026-05-13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1389.webp",
+                    "name": "Falkirk",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/254.webp",
+                    "name": "Heart Of Midlothian",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/heart-of-midlothian-falkirk-2026-05-13-C5LR.webp",
+            "title": "Heart of Midlothian - Falkirk"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 21, 2026",
+            "description": "Watch Heart Of Midlothian vs Falkirk highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 21, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/heart-of-midlothian-vs-falkirk-2026-02-21.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/heart-of-midlothian-vs-falkirk-2026-02-21-k9mC.webp",
+            "title": "Heart Of Midlothian vs Falkirk"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Feb 5, 2026",
+            "description": "Watch Livingston vs Falkirk highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on February 5, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/livingston-vs-falkirk-2026-02-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/livingston-vs-falkirk-2026-02-05-UElK.webp",
+            "title": "Livingston vs Falkirk"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Apr 5, 2026",
+            "description": "Watch Motherwell vs Falkirk highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on April 5, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/motherwell-vs-falkirk-2026-04-05.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/motherwell-vs-falkirk-2026-04-05-BXCQ.webp",
+            "title": "Motherwell vs Falkirk"
+        },
+        {
+            "competition": "Premiership - Scotland",
+            "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+            "date": "Jan 11, 2026",
+            "description": "Watch ST Mirren vs Falkirk highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on January 11, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-vs-falkirk-2026-01-11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-vs-falkirk-2026-01-11-1jn7.webp",
+            "title": "ST Mirren vs Falkirk"
+        }
+    ]
+}

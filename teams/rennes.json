@@ -1,0 +1,2141 @@
+{
+    "team": "Rennes",
+    "team_logo": "https://img.refooty.com/logo/teams/94.webp",
+    "total_matches": 14,
+    "matches": [
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Feb 22, 2026",
+            "description": "Watch Auxerre vs Rennes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on February 22, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Camara",
+                    "score_update": "0 - 1",
+                    "team": "Rennes",
+                    "time": "1'"
+                },
+                {
+                    "assist": "S. Szymański",
+                    "event_type": "Goal",
+                    "player": "E. Lepaul",
+                    "score_update": "0 - 2",
+                    "team": "Rennes",
+                    "time": "16'"
+                },
+                {
+                    "assist": "M. Tamari",
+                    "event_type": "Goal",
+                    "player": "M. Camara",
+                    "score_update": "0 - 3",
+                    "team": "Rennes",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Q. Merlin",
+                    "team": "Rennes",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Owusu",
+                    "team": "Auxerre",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "V. Rongier",
+                    "team": "Rennes",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Rouault",
+                    "team": "Rennes",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Camara",
+                    "team": "Rennes",
+                    "time": "106'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Auxerre 0 - 3 Rennes"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "03/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Marseille 3 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "L",
+                            "teams_and_score": "AS Monaco 4 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Chantilly US 1 - 3 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Lille 0 - 2 Rennes"
+                        }
+                    ],
+                    "team": "Rennes"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "22/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Auxerre 0 - 3 Rennes"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "21/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Auxerre 1 - 2 AS Monaco"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "14/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Auxerre 3 - 4 Lille"
+                        }
+                    ],
+                    "team": "Auxerre"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "19/10/2025",
+                        "teams_and_score": "Rennes 2 - 2 Auxerre"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "06/04/2025",
+                        "teams_and_score": "Rennes 0 - 1 Auxerre"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "11/03/2023",
+                        "teams_and_score": "Auxerre 0 - 0 Rennes"
+                    },
+                    {
+                        "competition": "Coupe de France",
+                        "date": "12/02/2014",
+                        "teams_and_score": "Auxerre 0 - 1 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "11/03/2012",
+                        "teams_and_score": "Rennes 1 - 1 Auxerre"
+                    }
+                ],
+                "summary": {
+                    "Auxerre_wins": "1",
+                    "Rennes_wins": "1",
+                    "draws": "3"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Auxerre": "43%",
+                    "Rennes": "57%"
+                },
+                "corners": {
+                    "Auxerre": "4",
+                    "Rennes": "5"
+                },
+                "crosses": {
+                    "Auxerre": "7",
+                    "Rennes": "2"
+                },
+                "fouls": {
+                    "Auxerre": "17",
+                    "Rennes": "22"
+                },
+                "goalkeeper_saves": {
+                    "Auxerre": "3",
+                    "Rennes": "2"
+                },
+                "offsides": {
+                    "Auxerre": "1",
+                    "Rennes": "2"
+                },
+                "shots_blocked": {
+                    "Auxerre": "2",
+                    "Rennes": "2"
+                },
+                "shots_off_target": {
+                    "Auxerre": "7",
+                    "Rennes": "3"
+                },
+                "shots_on_target": {
+                    "Auxerre": "2",
+                    "Rennes": "7"
+                },
+                "yellow_cards": {
+                    "Auxerre": "1",
+                    "Rennes": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Auxerre_v_Rennes_2026_02_22.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/94.webp",
+                    "name": "Rennes",
+                    "score": "3"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/108.webp",
+                    "name": "Auxerre",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/auxerre-v-rennes-2026-02-22-A0jS.webp",
+            "title": "Auxerre vs Rennes"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Apr 4, 2026",
+            "description": "Watch Brest vs Rennes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on April 4, 2026.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Brest_v_Rennes_2026_04_04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/brest-v-rennes-2026-04-04-LeXx.webp",
+            "title": "Brest vs Rennes"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Nov 28, 2025",
+            "description": "Watch Metz vs Rennes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on November 28, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Metz_v_Rennes_2025_11_28.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/metz-v-rennes-2025-11-28-LAS7.webp",
+            "title": "FC Metz vs Rennes"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "May 4, 2026",
+            "description": "Watch Lyon vs Rennes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on May 4, 2026. Lyon and Rennes met in a high-stakes Ligue 1 encounter on May 4, 2026 , delivering a contest defined by relentless attacking intent and shifting momentum. The match provided a captivating spectacle for the fans as both sides traded blows in a quest for crucial league points. Explosive Opening at the Groupama Stadium The match began with immediate intensity as Rennes looked to unsettle the hosts early on. In just the 6th minute, the visitors found the breakthrough they craved. Esteban Lepaul turned provider, delivering a precise ball to Mousa Tamari , who showcased exceptional technique by volleying a left-footed strike into the back of the net. The early goal stunned the home crowd, and Rennes continued to press, with Mahdi Camara and Tamari frequently testing the Lyon backline, though their efforts were often thwarted by the offside trap during a frantic opening period. Lyon’s Rapid Response and Penalty Drama As the first half progressed, Lyon began to find their rhythm, increasing the pressure on Brice Samba’s goal. The persistence paid off in the 37th minute when Corentin Tolisso found space to deliver a cross that Roman Yaremchuk met with a powerful header to level the proceedings. The momentum had clearly shifted, and just minutes later, the game took another dramatic turn. In the 40th minute, Rennes goalkeeper Brice Samba committed a foul in the area, tripping Afonso ira . Samba received a yellow card for the challenge, and Tolisso stepped up to the spot in the 42nd minute, coolly converting the penalty with his right foot to send the keeper the wrong way and give the hosts the lead. A See-Saw Second Half The second half mirrored the first in its unpredictability. Only three minutes after the restart, Rennes clawed their way back into the game. A sequence involving a key pass from Quentin Merlin and an assist from Mousa Tamari allowed Esteban Lepaul to strike with his right foot, equalizing at 2-2 in the 48th minute. However, the parity was short-lived. In the 52nd minute, Lyon struck again through Afonso ira , who finished off a move orchestrated by Abner . The rapid exchange of goals highlighted the attacking quality on display, but it was the home side who looked more clinical in the final third as the match entered its final third. Closing the Door and Securing the Points With the scoreline sitting at 3-2, Lyon sought a cushion to see out the game. Sebastian Szymanski and Roman Yaremchuk both had chances to extend the lead, with Samba forced into a comfortable save from a Yaremchuk header in the 63rd minute. The decisive moment finally arrived in the 75th minute. Pavel Sulc played a vital role in the buildup, feeding Corentin Tolisso , who notched his second assist of the day by setting up the Brazilian sensation Endrick . The young forward made no mistake, firing home to make it 4-2. Despite late substitutions and a yellow card for Khalis Merah following a dangerous challenge, Lyon managed the final stages with composure. Even with a flurry of late tactical changes and a series of clearances from the Rennes defense to prevent further damage, the result remained firm. The final whistle confirmed a significant victory for the hosts in a match where possession was split evenly at 50% for both teams.",
+            "events_timeline": [
+                {
+                    "assist": "E. Lepaul",
+                    "event_type": "Goal",
+                    "player": "M. Tamari",
+                    "score_update": "0 - 1",
+                    "team": "Rennes",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Lepaul",
+                    "team": "Rennes",
+                    "time": "16'"
+                },
+                {
+                    "assist": "C. Tolisso",
+                    "event_type": "Goal",
+                    "player": "R. Yaremchuk",
+                    "score_update": "1 - 1",
+                    "team": "Lyon",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Samba",
+                    "team": "Rennes",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Tolisso",
+                    "score_update": "2 - 1",
+                    "team": "Lyon",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Tamari",
+                    "event_type": "Goal",
+                    "player": "E. Lepaul",
+                    "score_update": "2 - 2",
+                    "team": "Rennes",
+                    "time": "46'"
+                },
+                {
+                    "assist": "A. Vinícius",
+                    "event_type": "Goal",
+                    "player": "A. Moreira",
+                    "score_update": "3 - 2",
+                    "team": "Lyon",
+                    "time": "61'"
+                },
+                {
+                    "assist": "C. Tolisso",
+                    "event_type": "Goal",
+                    "player": "Endrick",
+                    "score_update": "4 - 2",
+                    "team": "Lyon",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Q. Merlin",
+                    "team": "Rennes",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Lyon 4 - 2 Rennes"
+                        }
+                    ],
+                    "team": "Rennes"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Lyon 4 - 2 Rennes"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Lyon 0 - 2 Celta Vigo"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "15/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Le Havre 0 - 0 Lyon"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Celta Vigo 1 - 1 Lyon"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lyon 1 - 1 Paris FC"
+                        }
+                    ],
+                    "team": "Lyon"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "14/09/2025",
+                        "teams_and_score": "Rennes 3 - 1 Lyon"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "26/04/2025",
+                        "teams_and_score": "Lyon 4 - 1 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "26/01/2024",
+                        "teams_and_score": "Lyon 2 - 3 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "09/04/2023",
+                        "teams_and_score": "Lyon 3 - 1 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "13/03/2022",
+                        "teams_and_score": "Lyon 2 - 4 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "03/03/2021",
+                        "teams_and_score": "Lyon 1 - 0 Rennes"
+                    }
+                ],
+                "summary": {
+                    "Lyon_wins": "3",
+                    "Rennes_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lyon": "50%",
+                    "Rennes": "50%"
+                },
+                "corners": {
+                    "Lyon": "7",
+                    "Rennes": "5"
+                },
+                "crosses": {
+                    "Lyon": "7",
+                    "Rennes": "5"
+                },
+                "fouls": {
+                    "Lyon": "10",
+                    "Rennes": "14"
+                },
+                "goalkeeper_saves": {
+                    "Lyon": "3",
+                    "Rennes": "5"
+                },
+                "offsides": {
+                    "Lyon": "1",
+                    "Rennes": "4"
+                },
+                "shots_blocked": {
+                    "Lyon": "4",
+                    "Rennes": "0"
+                },
+                "shots_off_target": {
+                    "Lyon": "3",
+                    "Rennes": "3"
+                },
+                "shots_on_target": {
+                    "Lyon": "9",
+                    "Rennes": "5"
+                },
+                "yellow_cards": {
+                    "Lyon": "0",
+                    "Rennes": "3"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/lyon-vs-rennes-2026-05-04.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/94.webp",
+                    "name": "Rennes",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/80.webp",
+                    "name": "Lyon",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/lyon-vs-rennes-2026-05-04-vudl.webp",
+            "title": "Lyon vs Rennes"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "May 17, 2026",
+            "description": "Watch Marseille vs Rennes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on May 17, 2026. The stage was set for a highly anticipated Ligue 1 clash, as two tactical sides prepared to battle for vital points. On May 17, 2026, Marseille and Rennes met in a fixture that promised high intensity and crucial turning points. A Clinical Start Marseille wasted no time in asserting their dominance. Just 2 minutes into the game, Pierre-Emile Hoejbjerg found the back of the net with a clinical right-footed finish, set up by an assist from Mason Greenwood and a key pass by Timothy Weah . This early breakthrough forced Rennes to chase the game, yet the home side remained disciplined, effectively neutralizing any threat throughout the first half while dictating the flow of the match. Maintaining Control The momentum continued after the interval as the home side sought to put the result beyond doubt. At the 55th minute, Pierre-Emerick Aubameyang produced a moment of magic, lofting an exquisite lob over the goalkeeper following a pass from Pierre-Emile Hoejbjerg to bring the score to 3-0. Despite the mounting deficit, the visitors refused to surrender, maintaining pressure through late-game tactical shifts. In the 84th minute, Esteban Lepaul offered a glimmer of hope for the visitors, heading home a delivery from Arnaud Nordin to reduce the gap. The final minutes saw Rennes throw everything forward, with Quentin Merlin whipping in several dangerous corners. However, goalkeeper Geronimo Rulli stood firm, ensuring the scoreline remained intact as the referee signaled the end of the match, confirming a deserved victory for Marseille .",
+            "events_timeline": [
+                {
+                    "assist": "M. Greenwood",
+                    "event_type": "Goal",
+                    "player": "P. Højbjerg",
+                    "score_update": "1 - 0",
+                    "team": "Marseille",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Gouiri",
+                    "score_update": "2 - 0",
+                    "team": "Marseille",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Højbjerg",
+                    "team": "Marseille",
+                    "time": "49'"
+                },
+                {
+                    "assist": "P. Højbjerg",
+                    "event_type": "Goal",
+                    "player": "P. Aubameyang",
+                    "score_update": "3 - 0",
+                    "team": "Marseille",
+                    "time": "55'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Gouiri",
+                    "team": "Marseille",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Camara",
+                    "team": "Rennes",
+                    "time": "79'"
+                },
+                {
+                    "assist": "A. Nordin",
+                    "event_type": "Goal",
+                    "player": "E. Lepaul",
+                    "score_update": "3 - 1",
+                    "team": "Rennes",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Pavard",
+                    "team": "Marseille",
+                    "time": "90+5'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "17/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Marseille 3 - 1 Rennes"
+                        }
+                    ],
+                    "team": "Rennes"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "17/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 1 Rennes"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Coupe de France",
+                        "date": "03/02/2026",
+                        "teams_and_score": "Marseille 3 - 0 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1",
+                        "date": "15/08/2025",
+                        "teams_and_score": "Rennes 1 - 0 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "17/05/2025",
+                        "teams_and_score": "Marseille 4 - 2 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "17/03/2024",
+                        "teams_and_score": "Rennes 2 - 0 Marseille"
+                    },
+                    {
+                        "competition": "Coupe de France 23/24",
+                        "date": "21/01/2024",
+                        "teams_and_score": "Rennes 1 - 1 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "03/12/2023",
+                        "teams_and_score": "Marseille 2 - 0 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "05/03/2023",
+                        "teams_and_score": "Rennes 0 - 1 Marseille"
+                    }
+                ],
+                "summary": {
+                    "Marseille_wins": "5",
+                    "Rennes_wins": "2",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Marseille": "45%",
+                    "Rennes": "55%"
+                },
+                "corners": {
+                    "Marseille": "4",
+                    "Rennes": "11"
+                },
+                "crosses": {
+                    "Marseille": "2",
+                    "Rennes": "7"
+                },
+                "fouls": {
+                    "Marseille": "11",
+                    "Rennes": "10"
+                },
+                "goalkeeper_saves": {
+                    "Marseille": "4",
+                    "Rennes": "8"
+                },
+                "offsides": {
+                    "Marseille": "2",
+                    "Rennes": "2"
+                },
+                "shots_blocked": {
+                    "Marseille": "7",
+                    "Rennes": "7"
+                },
+                "shots_off_target": {
+                    "Marseille": "9",
+                    "Rennes": "14"
+                },
+                "shots_on_target": {
+                    "Marseille": "11",
+                    "Rennes": "6"
+                },
+                "yellow_cards": {
+                    "Marseille": "3",
+                    "Rennes": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/marseille-vs-rennes-2026-05-17.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/94.webp",
+                    "name": "Rennes",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-vs-rennes-2026-05-17-1LH3.webp",
+            "title": "Marseille vs Rennes"
+        },
+        {
+            "competition": "Coupe de France",
+            "competition_cover": "https://refooty.com/covers/coupe-de-france.webp",
+            "date": "Feb 3, 2026",
+            "description": "Watch Marseille vs Rennes highlights and goals from Coupe de France on ReFooty: Football Highlights Hub. Match played on February 3, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "T. Weah",
+                    "event_type": "Goal",
+                    "player": "A. Gouiri",
+                    "score_update": "1 - 0",
+                    "team": "Marseille",
+                    "time": "2'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Nwaneri",
+                    "team": "Marseille",
+                    "time": "22'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Seidu",
+                    "team": "Rennes",
+                    "time": "42'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Højbjerg",
+                    "team": "Marseille",
+                    "time": "45+3'"
+                },
+                {
+                    "assist": "A. Gouiri",
+                    "event_type": "Goal",
+                    "player": "M. Greenwood",
+                    "score_update": "2 - 0",
+                    "team": "Marseille",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Q. Merlin",
+                    "team": "Rennes",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Ait Boudlal",
+                    "team": "Rennes",
+                    "time": "76'"
+                },
+                {
+                    "assist": "M. Greenwood",
+                    "event_type": "Goal",
+                    "player": "P. Aubameyang",
+                    "score_update": "3 - 0",
+                    "team": "Marseille",
+                    "time": "91'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "R. De Zerbi",
+                    "team": "Marseille",
+                    "time": "106'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "G. Kondogbia",
+                    "team": "Marseille",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "L. Balerdi",
+                    "team": "Marseille",
+                    "time": "121'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Embolo",
+                    "team": "Rennes",
+                    "time": "121'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Coupe de France",
+                            "date": "03/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Marseille 3 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "L",
+                            "teams_and_score": "AS Monaco 4 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Chantilly US 1 - 3 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Lille 0 - 2 Rennes"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "21/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Rennes 3 - 0 Les Sables VF"
+                        }
+                    ],
+                    "team": "Rennes"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "D",
+                        "L",
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Coupe de France",
+                            "date": "03/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris FC 2 - 2 Marseille"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Club Brugge 3 - 0 Marseille"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "24/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Marseille 3 - 1 Lens"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "21/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Marseille 0 - 3 Liverpool"
+                        }
+                    ],
+                    "team": "Marseille"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "15/08/2025",
+                        "teams_and_score": "Rennes 1 - 0 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "17/05/2025",
+                        "teams_and_score": "Marseille 4 - 2 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "17/03/2024",
+                        "teams_and_score": "Rennes 2 - 0 Marseille"
+                    },
+                    {
+                        "competition": "Coupe de France 23/24",
+                        "date": "21/01/2024",
+                        "teams_and_score": "Rennes 1 - 1 Marseille"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "03/12/2023",
+                        "teams_and_score": "Marseille 2 - 0 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "05/03/2023",
+                        "teams_and_score": "Rennes 0 - 1 Marseille"
+                    },
+                    {
+                        "competition": "Coupe de France 22/23",
+                        "date": "20/01/2023",
+                        "teams_and_score": "Marseille 1 - 0 Rennes"
+                    }
+                ],
+                "summary": {
+                    "Marseille_wins": "4",
+                    "Rennes_wins": "3",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Marseille": "49%",
+                    "Rennes": "51%"
+                },
+                "corners": {
+                    "Marseille": "2",
+                    "Rennes": "3"
+                },
+                "fouls": {
+                    "Marseille": "19",
+                    "Rennes": "12"
+                },
+                "goalkeeper_saves": {
+                    "Marseille": "4",
+                    "Rennes": "1"
+                },
+                "offsides": {
+                    "Marseille": "4",
+                    "Rennes": "1"
+                },
+                "shots_blocked": {
+                    "Marseille": "1",
+                    "Rennes": "3"
+                },
+                "shots_off_target": {
+                    "Marseille": "4",
+                    "Rennes": "4"
+                },
+                "shots_on_target": {
+                    "Marseille": "4",
+                    "Rennes": "4"
+                },
+                "yellow_cards": {
+                    "Marseille": "5",
+                    "Rennes": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Marseille_v_Rennes_2026_02_03.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/94.webp",
+                    "name": "Rennes",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/81.webp",
+                    "name": "Marseille",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-v-rennes-2026-02-03-BL0E.webp",
+            "title": "Olympique Marseille vs Rennes"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Nov 7, 2025",
+            "description": "Watch Paris FC vs Rennes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on November 7, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Rennes"
+                },
+                "home_team_form": {
+                    "team": "Paris FC"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Paris_v_Rennes_2025_11_07.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/94.webp",
+                    "name": "Rennes",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/114.webp",
+                    "name": "Paris FC",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/paris-v-rennes-2025-11-07.webp",
+            "title": "Paris FC vs Rennes"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Dec 6, 2025",
+            "description": "Watch Paris Saint Germain vs Rennes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on December 6, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/PSG_v_Rennes_2025_12_06.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/psg-v-rennes-2025-12-06.webp",
+            "title": "Paris SG vs Rennes"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Apr 11, 2026",
+            "description": "Watch Rennes vs Angers highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on April 11, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Louer",
+                    "team": "Rennes",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "O. Camara",
+                    "team": "Angers",
+                    "time": "16'"
+                },
+                {
+                    "assist": "V. Rongier",
+                    "event_type": "Goal",
+                    "player": "M. Tamari",
+                    "score_update": "2 - 0",
+                    "team": "Rennes",
+                    "time": "31'"
+                },
+                {
+                    "assist": "L. Raolisoa",
+                    "event_type": "Goal",
+                    "player": "P. Prosper",
+                    "score_update": "2 - 1",
+                    "team": "Angers",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Louer",
+                    "team": "Angers",
+                    "time": "61'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "A. Sbai",
+                    "score_update": "2 - 1",
+                    "team": "Angers",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "11/04/2026",
+                            "result": "L",
+                            "teams_and_score": "Rennes 2 - 1 Angers"
+                        }
+                    ],
+                    "team": "Angers"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "11/04/2026",
+                            "result": "W",
+                            "teams_and_score": "Rennes 2 - 1 Angers"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "03/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Marseille 3 - 0 Rennes"
+                        }
+                    ],
+                    "team": "Rennes"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "31/08/2025",
+                        "teams_and_score": "Angers 1 - 1 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "30/03/2025",
+                        "teams_and_score": "Angers 0 - 3 Rennes"
+                    },
+                    {
+                        "competition": "Club Friendlies 2024",
+                        "date": "27/07/2024",
+                        "teams_and_score": "Rennes 2 - 1 Angers"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "30/04/2023",
+                        "teams_and_score": "Rennes 4 - 2 Angers"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "06/03/2022",
+                        "teams_and_score": "Rennes 2 - 0 Angers"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "17/04/2021",
+                        "teams_and_score": "Angers 0 - 3 Rennes"
+                    },
+                    {
+                        "competition": "Coupe de France 20/21",
+                        "date": "11/02/2021",
+                        "teams_and_score": "Angers 2 - 1 Rennes"
+                    }
+                ],
+                "summary": {
+                    "Angers_wins": "1",
+                    "Rennes_wins": "5",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Angers": "41%",
+                    "Rennes": "60%"
+                },
+                "corners": {
+                    "Angers": "3",
+                    "Rennes": "11"
+                },
+                "crosses": {
+                    "Angers": "2",
+                    "Rennes": "3"
+                },
+                "fouls": {
+                    "Angers": "15",
+                    "Rennes": "9"
+                },
+                "goalkeeper_saves": {
+                    "Angers": "6",
+                    "Rennes": "3"
+                },
+                "offsides": {
+                    "Angers": "1",
+                    "Rennes": "4"
+                },
+                "shots_blocked": {
+                    "Angers": "1",
+                    "Rennes": "1"
+                },
+                "shots_off_target": {
+                    "Angers": "1",
+                    "Rennes": "7"
+                },
+                "shots_on_target": {
+                    "Angers": "4",
+                    "Rennes": "7"
+                },
+                "yellow_cards": {
+                    "Angers": "2",
+                    "Rennes": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Rennes_v_Angers_2026_04_11.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/77.webp",
+                    "name": "Angers",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/94.webp",
+                    "name": "Rennes",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rennes-v-angers-2026-04-11-Znvp.webp",
+            "title": "Rennes vs Angers"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Mar 15, 2026",
+            "description": "Watch Rennes vs Lille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on March 15, 2026.",
+            "events_timeline": [
+                {
+                    "assist": "N. Ngoy",
+                    "event_type": "Goal",
+                    "player": "M. Fernandez",
+                    "score_update": "0 - 1",
+                    "team": "Lille",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Bentaleb",
+                    "team": "Lille",
+                    "time": "16'"
+                },
+                {
+                    "assist": "M. Fernandez",
+                    "event_type": "Goal",
+                    "player": "H. Haraldsson",
+                    "score_update": "0 - 2",
+                    "team": "Lille",
+                    "time": "47'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "E. Lepaul",
+                    "score_update": "1 - 2",
+                    "team": "Rennes",
+                    "time": "59'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "M. Nagida",
+                    "team": "Rennes",
+                    "time": "65'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Ozer",
+                    "team": "Lille",
+                    "time": "71'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "A. Mandi",
+                    "team": "Lille",
+                    "time": "73'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "P. Frankowski",
+                    "team": "Rennes",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "F. Correia",
+                    "team": "Lille",
+                    "time": "84'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "N. Ngoy",
+                    "team": "Lille",
+                    "time": "90+2'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "15/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Rennes 1 - 2 Lille"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Lille 0 - 1 Aston Villa"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lille 1 - 1 Lorient"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "FK Crvena Zvezda 0 - 2 Lille"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "22/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Angers 0 - 1 Lille"
+                        }
+                    ],
+                    "team": "Lille"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "15/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Rennes 1 - 2 Lille"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "03/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Marseille 3 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "L",
+                            "teams_and_score": "AS Monaco 4 - 0 Rennes"
+                        }
+                    ],
+                    "team": "Rennes"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "03/01/2026",
+                        "teams_and_score": "Lille 0 - 2 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "16/02/2025",
+                        "teams_and_score": "Rennes 0 - 2 Lille"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "10/03/2024",
+                        "teams_and_score": "Lille 2 - 2 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "04/02/2023",
+                        "teams_and_score": "Rennes 1 - 3 Lille"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "21/05/2022",
+                        "teams_and_score": "Lille 2 - 2 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "24/01/2021",
+                        "teams_and_score": "Rennes 0 - 1 Lille"
+                    }
+                ],
+                "summary": {
+                    "Lille_wins": "3",
+                    "Rennes_wins": "1",
+                    "draws": "2"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Lille": "41%",
+                    "Rennes": "59%"
+                },
+                "corners": {
+                    "Lille": "2",
+                    "Rennes": "5"
+                },
+                "crosses": {
+                    "Lille": "2",
+                    "Rennes": "4"
+                },
+                "fouls": {
+                    "Lille": "7",
+                    "Rennes": "16"
+                },
+                "goalkeeper_saves": {
+                    "Lille": "3",
+                    "Rennes": "1"
+                },
+                "offsides": {
+                    "Lille": "1",
+                    "Rennes": "3"
+                },
+                "shots_blocked": {
+                    "Lille": "3",
+                    "Rennes": "3"
+                },
+                "shots_off_target": {
+                    "Lille": "2",
+                    "Rennes": "5"
+                },
+                "shots_on_target": {
+                    "Lille": "3",
+                    "Rennes": "4"
+                },
+                "yellow_cards": {
+                    "Lille": "5",
+                    "Rennes": "2"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Rennes_v_Lille_2026_03_15.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/79.webp",
+                    "name": "Lille",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/94.webp",
+                    "name": "Rennes",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rennes-v-lille-2026-03-15-b2m2.webp",
+            "title": "Rennes vs LOSC Lille"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Apr 26, 2026",
+            "description": "Watch Rennes vs Nantes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on April 26, 2026. A High-Stakes Clash in Ligue 1 The Ligue 1 matchday on April 26, 2026, served as a compelling test for both sides, as they looked to establish dominance in what turned out to be a classic encounter. From the opening whistle, the intensity was palpable, with both Rennes and Lyon displaying a clear intent to secure a result through fluid attacking sequences. A First-Half Seesaw Rennes struck first in the 6th minute, as Mousa Tamari fired home a beautiful volley following a precise setup from Esteban Lepaul . Lyon refused to crumble, finding their footing in the 37th minute when Roman Yaremchuk headed home from a Corentin Tolisso assist. Just before the interval, the game saw a major shift when Brice Samba conceded a penalty, which Corentin Tolisso calmly converted to flip the script and give Lyon a temporary lead going into the break. Turning the Tide The second half maintained its electric pace, as Esteban Lepaul pulled Rennes back on level terms at the 48th minute, assisted by Mousa Tamari . Momentum then swung back to the hosts in the 52nd minute when Afonso ira found the back of the net, putting Rennes ahead once more. The final twist came in the 75th minute when the talented Endrick scored to equalize, capitalizing on a key pass from Pavel Sulc and an assist from Tolisso . Both sides pressed late into stoppage time, but the match ended in a hard-fought result, highlighting the resilience of both teams in this sports spectacle.",
+            "events_timeline": [
+                {
+                    "assist": "E. Lepaul",
+                    "event_type": "Goal",
+                    "player": "M. Tamari",
+                    "score_update": "0 - 1",
+                    "team": "Nantes",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "E. Lepaul",
+                    "team": "Nantes",
+                    "time": "16'"
+                },
+                {
+                    "assist": "C. Tolisso",
+                    "event_type": "Goal",
+                    "player": "R. Yaremchuk",
+                    "score_update": "1 - 1",
+                    "team": "Rennes",
+                    "time": "31'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "B. Samba",
+                    "team": "Nantes",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "C. Tolisso",
+                    "score_update": "2 - 1",
+                    "team": "Rennes",
+                    "time": "61'"
+                },
+                {
+                    "assist": "M. Tamari",
+                    "event_type": "Goal",
+                    "player": "E. Lepaul",
+                    "score_update": "2 - 2",
+                    "team": "Nantes",
+                    "time": "46'"
+                },
+                {
+                    "assist": "A. Vinícius",
+                    "event_type": "Goal",
+                    "player": "A. Moreira",
+                    "score_update": "3 - 2",
+                    "team": "Rennes",
+                    "time": "61'"
+                },
+                {
+                    "assist": "C. Tolisso",
+                    "event_type": "Goal",
+                    "player": "Endrick",
+                    "score_update": "4 - 2",
+                    "team": "Rennes",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "Q. Merlin",
+                    "team": "Nantes",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Lyon 4 - 2 Rennes"
+                        }
+                    ],
+                    "team": "Nantes"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "D",
+                        "D"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Lyon 4 - 2 Rennes"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "19/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Lyon 0 - 2 Celta Vigo"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "15/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Le Havre 0 - 0 Lyon"
+                        },
+                        {
+                            "competition": "Knockout Stage",
+                            "date": "12/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Celta Vigo 1 - 1 Lyon"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "08/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Lyon 1 - 1 Paris FC"
+                        }
+                    ],
+                    "team": "Rennes"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "14/09/2025",
+                        "teams_and_score": "Rennes 3 - 1 Lyon"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "26/04/2025",
+                        "teams_and_score": "Lyon 4 - 1 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "26/01/2024",
+                        "teams_and_score": "Lyon 2 - 3 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "09/04/2023",
+                        "teams_and_score": "Lyon 3 - 1 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "13/03/2022",
+                        "teams_and_score": "Lyon 2 - 4 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 20/21",
+                        "date": "03/03/2021",
+                        "teams_and_score": "Lyon 1 - 0 Rennes"
+                    }
+                ],
+                "summary": {
+                    "Nantes_wins": "3",
+                    "Rennes_wins": "3",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Nantes": "50%",
+                    "Rennes": "50%"
+                },
+                "corners": {
+                    "Nantes": "5",
+                    "Rennes": "7"
+                },
+                "crosses": {
+                    "Nantes": "6",
+                    "Rennes": "7"
+                },
+                "fouls": {
+                    "Nantes": "14",
+                    "Rennes": "10"
+                },
+                "goalkeeper_saves": {
+                    "Nantes": "5",
+                    "Rennes": "3"
+                },
+                "offsides": {
+                    "Nantes": "4",
+                    "Rennes": "1"
+                },
+                "shots_blocked": {
+                    "Nantes": "0",
+                    "Rennes": "4"
+                },
+                "shots_off_target": {
+                    "Nantes": "3",
+                    "Rennes": "3"
+                },
+                "shots_on_target": {
+                    "Nantes": "5",
+                    "Rennes": "9"
+                },
+                "yellow_cards": {
+                    "Nantes": "3",
+                    "Rennes": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/rennes-vs-nantes-2026-04-26.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/83.webp",
+                    "name": "Nantes",
+                    "score": "2"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/94.webp",
+                    "name": "Rennes",
+                    "score": "4"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rennes-vs-nantes-2026-04-26-jUgF.webp",
+            "title": "Rennes vs Nantes"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "May 10, 2026",
+            "description": "Watch Rennes vs Paris FC highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on May 10, 2026. In a duel defined by tactical intensity and physical contests in midfield, both sides looked to establish their rhythm from the opening whistle. The match, played on May 10, 2026, saw both teams testing their opponent’s defensive organization as they vied for an early edge in Ligue 1 . A cautious and balanced first half Early play was defined by a measured approach, with Rennes looking to exploit set-pieces through Sebastian Szymanski , though they struggled to find the target. Paris FC remained disciplined, neutralizing attacks and forcing the hosts into frequent goal kicks. Despite balanced possession, a lack of clinical finishing in the final third meant the scoreline remained deadlocked heading into the interval. An offensive explosion after the break The narrative shifted dramatically in the second half. In the 53rd minute, Willem Geubbels broke the deadlock for Paris FC , finding the net with a clinical right-footed finish. Rennes responded with an impressive surge around the 75th minute. First, Esteban Lepaul leveled the score with a header following a Quentin Merlin corner. Moments later, Breel Embolo —set up by Arnaud Nordin and Mousa Tamari —clinched a go-ahead goal, sparking wild energy in the stadium. Final efforts and tactical management With the lead in hand, Rennes introduced tactical substitutions to shore up their structure, while Paris FC ramped up their pressure in search of a response. The contest grew more physical, with Ciro Immobile receiving a yellow card in the dying minutes. Despite the late pressure, the result held firm, concluding a hard-fought football match that highlighted the fine margins of the league.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "W. Geubbels",
+                    "score_update": "0 - 1",
+                    "team": "Paris FC",
+                    "time": "46'"
+                },
+                {
+                    "assist": "Q. Merlin",
+                    "event_type": "Goal",
+                    "player": "E. Lepaul",
+                    "score_update": "1 - 1",
+                    "team": "Rennes",
+                    "time": "61'"
+                },
+                {
+                    "assist": "A. Nordin",
+                    "event_type": "Goal",
+                    "player": "B. Embolo",
+                    "score_update": "2 - 1",
+                    "team": "Rennes",
+                    "time": "76'"
+                },
+                {
+                    "event_type": "Yellow Card",
+                    "player": "C. Immobile",
+                    "team": "Paris FC",
+                    "time": "91'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "10/05/2026",
+                            "result": "L",
+                            "teams_and_score": "Rennes 2 - 1 Paris FC"
+                        }
+                    ],
+                    "team": "Paris FC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "10/05/2026",
+                            "result": "W",
+                            "teams_and_score": "Rennes 2 - 1 Paris FC"
+                        }
+                    ],
+                    "team": "Rennes"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "07/11/2025",
+                        "teams_and_score": "Paris FC 0 - 1 Rennes"
+                    }
+                ],
+                "summary": {
+                    "Paris FC_wins": "0",
+                    "Rennes_wins": "1",
+                    "draws": "0"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Paris FC": "49%",
+                    "Rennes": "51%"
+                },
+                "corners": {
+                    "Paris FC": "2",
+                    "Rennes": "8"
+                },
+                "crosses": {
+                    "Paris FC": "2",
+                    "Rennes": "7"
+                },
+                "fouls": {
+                    "Paris FC": "11",
+                    "Rennes": "13"
+                },
+                "goalkeeper_saves": {
+                    "Paris FC": "3",
+                    "Rennes": "0"
+                },
+                "offsides": {
+                    "Paris FC": "1",
+                    "Rennes": "1"
+                },
+                "shots_blocked": {
+                    "Paris FC": "5",
+                    "Rennes": "1"
+                },
+                "shots_off_target": {
+                    "Paris FC": "5",
+                    "Rennes": "8"
+                },
+                "shots_on_target": {
+                    "Paris FC": "1",
+                    "Rennes": "5"
+                },
+                "yellow_cards": {
+                    "Paris FC": "1",
+                    "Rennes": "0"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/rennes-vs-paris-fc-2026-05-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/114.webp",
+                    "name": "Paris FC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/94.webp",
+                    "name": "Rennes",
+                    "score": "2"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rennes-vs-paris-fc-2026-05-10-7H68.webp",
+            "title": "Rennes vs Paris FC"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Feb 13, 2026",
+            "description": "Watch Rennes vs Paris Saint Germain highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on February 13, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Tamari",
+                    "score_update": "1 - 0",
+                    "team": "Rennes",
+                    "time": "1'"
+                },
+                {
+                    "assist": "S. Szymański",
+                    "event_type": "Goal",
+                    "player": "E. Lepaul",
+                    "score_update": "2 - 0",
+                    "team": "Rennes",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "O. Dembélé",
+                    "score_update": "2 - 1",
+                    "team": "Paris Saint Germain",
+                    "time": "61'"
+                },
+                {
+                    "assist": "L. Blas",
+                    "event_type": "Goal",
+                    "player": "B. Embolo",
+                    "score_update": "3 - 1",
+                    "team": "Rennes",
+                    "time": "76'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "D",
+                        "W",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "13/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Rennes 3 - 1 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "28/01/2026",
+                            "result": "D",
+                            "teams_and_score": "Paris Saint-Germain 1 - 1 Newcastle United"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "23/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Auxerre 0 - 1 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "League Stage",
+                            "date": "20/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Sporting CP 2 - 1 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "16/01/2026",
+                            "result": "L",
+                            "teams_and_score": "Paris Saint-Germain 3 - 0 Lille"
+                        }
+                    ],
+                    "team": "Paris Saint Germain"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "L",
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Ligue 1",
+                            "date": "13/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Rennes 3 - 1 Paris Saint-Germain"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "03/02/2026",
+                            "result": "L",
+                            "teams_and_score": "Marseille 3 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "31/01/2026",
+                            "result": "L",
+                            "teams_and_score": "AS Monaco 4 - 0 Rennes"
+                        },
+                        {
+                            "competition": "Coupe de France",
+                            "date": "11/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Chantilly US 1 - 3 Rennes"
+                        },
+                        {
+                            "competition": "Ligue 1",
+                            "date": "03/01/2026",
+                            "result": "W",
+                            "teams_and_score": "Lille 0 - 2 Rennes"
+                        }
+                    ],
+                    "team": "Rennes"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Ligue 1",
+                        "date": "06/12/2025",
+                        "teams_and_score": "Paris Saint-Germain 5 - 0 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 24/25",
+                        "date": "08/03/2025",
+                        "teams_and_score": "Rennes 1 - 4 Paris Saint-Germain"
+                    },
+                    {
+                        "competition": "Coupe de France 23/24",
+                        "date": "03/04/2024",
+                        "teams_and_score": "Paris Saint-Germain 1 - 0 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 23/24",
+                        "date": "25/02/2024",
+                        "teams_and_score": "Paris Saint-Germain 1 - 1 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 22/23",
+                        "date": "19/03/2023",
+                        "teams_and_score": "Paris Saint-Germain 0 - 2 Rennes"
+                    },
+                    {
+                        "competition": "Ligue 1 21/22",
+                        "date": "11/02/2022",
+                        "teams_and_score": "Paris Saint-Germain 1 - 0 Rennes"
+                    }
+                ],
+                "summary": {
+                    "Paris Saint Germain_wins": "4",
+                    "Rennes_wins": "1",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Paris Saint Germain": "68%",
+                    "Rennes": "33%"
+                },
+                "corners": {
+                    "Paris Saint Germain": "8",
+                    "Rennes": "5"
+                },
+                "crosses": {
+                    "Paris Saint Germain": "8",
+                    "Rennes": "1"
+                },
+                "fouls": {
+                    "Paris Saint Germain": "9",
+                    "Rennes": "10"
+                },
+                "goalkeeper_saves": {
+                    "Paris Saint Germain": "1",
+                    "Rennes": "6"
+                },
+                "offsides": {
+                    "Paris Saint Germain": "1",
+                    "Rennes": "3"
+                },
+                "shots_blocked": {
+                    "Paris Saint Germain": "8",
+                    "Rennes": "5"
+                },
+                "shots_off_target": {
+                    "Paris Saint Germain": "7",
+                    "Rennes": "4"
+                },
+                "shots_on_target": {
+                    "Paris Saint Germain": "7",
+                    "Rennes": "4"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Rennes_v_PSG_2026_02_13.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/85.webp",
+                    "name": "Paris Saint Germain",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/94.webp",
+                    "name": "Rennes",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rennes-v-psg-2026-02-13-F6BG.webp",
+            "title": "Rennes vs Paris SG"
+        },
+        {
+            "competition": "Ligue 1",
+            "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+            "date": "Nov 2, 2025",
+            "description": "Watch Rennes vs Strasbourg highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on November 2, 2025.",
+            "head_to_head": {
+                "away_team_form": {
+                    "team": "Away Team"
+                },
+                "home_team_form": {
+                    "team": "Home Team"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/Rennes_v_Strasbourg_2025_11_02.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "",
+                    "name": "Away Team",
+                    "score": "0"
+                },
+                "home_team": {
+                    "logo": "",
+                    "name": "Home Team",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/rennes-v-strasbourg-2025-11-02.webp",
+            "title": "Rennes vs Strasbourg"
+        }
+    ]
+}

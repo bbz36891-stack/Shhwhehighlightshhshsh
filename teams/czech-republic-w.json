@@ -1,0 +1,161 @@
+{
+    "team": "Czech Republic W",
+    "team_logo": "https://img.refooty.com/logo/teams/1743.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "World Cup Qualifiers",
+            "competition_cover": "https://refooty.com/covers/world-cup-qualifiers.webp",
+            "date": "Jun 10, 2026",
+            "description": "Watch Wales W vs Czech Republic W highlights and goals from World Cup Qualifiers on ReFooty: Football Highlights Hub. Match played on June 10, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Khyrova",
+                    "score_update": "0 - 1",
+                    "team": "Czech Republic W",
+                    "time": "1'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "L. Woodham",
+                    "score_update": "1 - 1",
+                    "team": "Wales W",
+                    "time": "16'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "G. Evans",
+                    "score_update": "2 - 1",
+                    "team": "Wales W",
+                    "time": "46'"
+                },
+                {
+                    "event_type": "Goal",
+                    "player": "M. Griffiths",
+                    "score_update": "3 - 1",
+                    "team": "Wales W",
+                    "time": "61'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "UEFA Qualification: Group B1",
+                            "date": "09/06/2026",
+                            "result": "L",
+                            "teams_and_score": "Wales Women 3 - 1 Czechia Women"
+                        },
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "02/12/2025",
+                            "result": "L",
+                            "teams_and_score": "Serbia Women 2 - 1 Czechia Women"
+                        },
+                        {
+                            "competition": "League A: Qualification Play-off",
+                            "date": "28/10/2025",
+                            "result": "L",
+                            "teams_and_score": "Austria Women 2 - 0 Czechia Women"
+                        }
+                    ],
+                    "team": "Czech Republic W"
+                },
+                "home_team_form": {
+                    "form": [
+                        "W",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "UEFA Qualification: Group B1",
+                            "date": "09/06/2026",
+                            "result": "W",
+                            "teams_and_score": "Wales Women 3 - 1 Czechia Women"
+                        },
+                        {
+                            "competition": "Women's Friendlies",
+                            "date": "02/12/2025",
+                            "result": "W",
+                            "teams_and_score": "Wales Women 3 - 2 Switzerland Women"
+                        }
+                    ],
+                    "team": "Wales W"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "UEFA Qualification: Group B1",
+                        "date": "03/03/2026",
+                        "teams_and_score": "Czechia Women 2 - 2 Wales Women"
+                    }
+                ],
+                "summary": {
+                    "Czech Republic W_wins": "0",
+                    "Wales W_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "statistics": {
+                "ball_possession": {
+                    "Czech Republic W": "50%",
+                    "Wales W": "50%"
+                },
+                "corners": {
+                    "Czech Republic W": "2",
+                    "Wales W": "5"
+                },
+                "fouls": {
+                    "Czech Republic W": "11",
+                    "Wales W": "11"
+                },
+                "goalkeeper_saves": {
+                    "Czech Republic W": "2",
+                    "Wales W": "1"
+                },
+                "shots_blocked": {
+                    "Czech Republic W": "0",
+                    "Wales W": "3"
+                },
+                "shots_off_target": {
+                    "Czech Republic W": "6",
+                    "Wales W": "2"
+                },
+                "shots_on_target": {
+                    "Czech Republic W": "2",
+                    "Wales W": "5"
+                },
+                "yellow_cards": {
+                    "Czech Republic W": "1",
+                    "Wales W": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/wales-w-vs-czech-republic-w-2026-06-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/1743.webp",
+                    "name": "Czech Republic W",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/767.webp",
+                    "name": "Wales W",
+                    "score": "3"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/wales-w-vs-czech-republic-w-2026-06-10-OtOc.webp",
+            "title": "Wales W vs Czech Republic W"
+        }
+    ]
+}

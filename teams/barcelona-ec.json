@@ -1,0 +1,146 @@
+{
+    "team": "Barcelona EC",
+    "team_logo": "https://img.refooty.com/logo/teams/23571.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "competition": "Brasileirão",
+            "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+            "date": "Mar 10, 2026",
+            "description": "Watch Botafogo vs Barcelona EC highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on March 10, 2026.",
+            "events_timeline": [
+                {
+                    "event_type": "Goal",
+                    "player": "M. Céliz",
+                    "score_update": "0 - 1",
+                    "team": "Barcelona EC",
+                    "time": "1'"
+                }
+            ],
+            "head_to_head": {
+                "away_team_form": {
+                    "form": [
+                        "W",
+                        "L",
+                        "D",
+                        "L",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "11/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 0 - 1 Barcelona SC"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "07/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Barcelona SC 1 - 0 Emelec"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Barcelona SC 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Serie A",
+                            "date": "01/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Deportivo Cuenca 2 - 1 Barcelona SC"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Argentinos Juniors 0 - 1 Barcelona SC"
+                        }
+                    ],
+                    "team": "Barcelona EC"
+                },
+                "home_team_form": {
+                    "form": [
+                        "L",
+                        "W",
+                        "D",
+                        "D",
+                        "W"
+                    ],
+                    "recent_matches": [
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "11/03/2026",
+                            "result": "L",
+                            "teams_and_score": "Botafogo FR 0 - 1 Barcelona SC"
+                        },
+                        {
+                            "competition": "Carioca Taca Rio: Play-off",
+                            "date": "07/03/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 3 - 1 Bangu"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "04/03/2026",
+                            "result": "D",
+                            "teams_and_score": "Barcelona SC 1 - 1 Botafogo FR"
+                        },
+                        {
+                            "competition": "Carioca Taca Rio: Play-off",
+                            "date": "28/02/2026",
+                            "result": "D",
+                            "teams_and_score": "Botafogo FR 0 - 0 Boavista"
+                        },
+                        {
+                            "competition": "Qualification 2026",
+                            "date": "26/02/2026",
+                            "result": "W",
+                            "teams_and_score": "Botafogo FR 2 - 0 Nacional Potosi"
+                        }
+                    ],
+                    "team": "Botafogo"
+                },
+                "previous_matches": [
+                    {
+                        "competition": "Qualification 2026",
+                        "date": "04/03/2026",
+                        "teams_and_score": "Barcelona SC 1 - 1 Botafogo FR"
+                    },
+                    {
+                        "competition": "Copa Libertadores Grp. A",
+                        "date": "03/05/2017",
+                        "teams_and_score": "Botafogo FR 0 - 2 Barcelona SC"
+                    }
+                ],
+                "summary": {
+                    "Barcelona EC_wins": "1",
+                    "Botafogo_wins": "0",
+                    "draws": "1"
+                }
+            },
+            "streams": [
+                {
+                    "m3u8_url": "https://img.refooty.com/m3u8/botafogo-vs-barcelona-ec-2026-03-10.m3u8",
+                    "part": "Full Stream"
+                }
+            ],
+            "teams": {
+                "away_team": {
+                    "logo": "https://img.refooty.com/logo/teams/23571.webp",
+                    "name": "Barcelona EC",
+                    "score": "1"
+                },
+                "home_team": {
+                    "logo": "https://img.refooty.com/logo/teams/120.webp",
+                    "name": "Botafogo",
+                    "score": "0"
+                },
+                "status": "FT"
+            },
+            "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-vs-barcelona-ec-2026-03-10-0t14.webp",
+            "title": "Botafogo vs Barcelona EC"
+        }
+    ]
+}
